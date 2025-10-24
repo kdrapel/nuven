@@ -1,2 +1,1720 @@
 {
+  "articles": [
+    {
+      "id": "48",
+      "topic": "AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Research Stagnation",
+      "mediumTitle": "Transformer Creator Critiques AI Field",
+      "longTitle": "AI Pioneer Llion Jones Criticizes Over-reliance on Transformers",
+      "paragraphs": [
+        {
+          "lines": [
+            "Llion Jones, co-author of the seminal",
+            "2017 paper \u0027Attention Is All You Need\u0027",
+            "and the person who coined the term",
+            "\u0027transformer,\u0027 has expressed significant",
+            "dissatisfaction with the current state",
+            "of AI research.",
+            "Speaking at the TED AI conference,",
+            "Jones, now CTO and co-founder of Sakana",
+            "AI, argued that despite unprecedented",
+            "investment and talent, the field has",
+            "become dangerously narrow, calcifying",
+            "around a single architectural approach.",
+            "Jones believes that the immense pressure",
+            "from investors demanding returns and",
+            "researchers scrambling to stand out in a",
+            "crowded field has led to a paradox: more",
+            "resources have resulted in less",
+            "creativity."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T15:00:00.000Z",
+      "ranking": 8.76
+    },
+    {
+      "id": "88",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "VISTA AI",
+      "mediumTitle": "Google AI\u0027s VISTA for Video Generation",
+      "longTitle": "Google AI\u0027s VISTA: A Novel Multi-Agent Framework for Text-to-Video Generation",
+      "paragraphs": [
+        {
+          "lines": [
+            "The framework\u0027s ability to adapt and",
+            "optimize in real-time sets it apart from",
+            "traditional approaches that rely on",
+            "static, pre-trained models.",
+            "Google AI has introduced VISTA, a novel",
+            "multi-agent framework designed to",
+            "enhance text-to-video generation during",
+            "the inference stage.",
+            "VISTA\u0027s self-improvement mechanism leads",
+            "to tangible improvements in the quality",
+            "and fidelity of the generated",
+            "text-to-video content.",
+            "A dedicated \u0027Deep Thinking Prompting",
+            "Agent\u0027 takes the feedback from the",
+            "judges and the results of the tournament",
+            "to revise and improve the original",
+            "prompts."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-22T20:55:49.000Z",
+      "ranking": 8.635294117647058
+    },
+    {
+      "id": "86",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Odyssey Models",
+      "mediumTitle": "Anthrogen\u0027s Odyssey Protein Models",
+      "longTitle": "Anthrogen Unveils Odyssey: New Protein Language Models",
+      "paragraphs": [
+        {
+          "lines": [
+            "The combination of replacing attention",
+            "with consensus and training with",
+            "discrete diffusion marks Odyssey as a",
+            "distinct development.",
+            "Instead of attention, Odyssey utilizes a",
+            "\u0027consensus\u0027 approach.",
+            "A key innovation in Odyssey is its",
+            "departure from the traditional attention",
+            "mechanism commonly found in large",
+            "language models.",
+            "The introduction of Odyssey,",
+            "particularly the 102B parameter model,",
+            "signifies a significant advancement in",
+            "scale and potential capabilities.",
+            "The models in this family vary in size,",
+            "with production versions ranging from",
+            "1.2 billion to a substantial 102 billion",
+            "parameters."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T08:53:05.000Z",
+      "ranking": 8.592857142857143
+    },
+    {
+      "id": "100",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Mondelez AI Ads",
+      "mediumTitle": "Mondelez to Use AI for TV Ads",
+      "longTitle": "Mondelez International Embraces Generative AI for TV Advertising",
+      "paragraphs": [
+        {
+          "lines": [
+            "Mondelez is embracing generative AI to",
+            "achieve substantial cost savings in its",
+            "TV advertising production, with",
+            "AI-generated ads slated for release in",
+            "the near future.",
+            "Mondelez International, known for brands",
+            "like Oreo, is set to leverage generative",
+            "artificial intelligence for its",
+            "television advertising campaigns",
+            "starting next year.",
+            "Halvorson indicated that this technology",
+            "has the potential to cut production",
+            "costs by as much as 50%.",
+            "The snacking giant has invested over $40",
+            "million in an AI video tool specifically",
+            "designed to create TV advertisements.",
+            "The stated goal of halving production",
+            "costs underscores the economic",
+            "incentives driving this technological",
+            "adoption."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-24T10:43:52.000Z",
+      "ranking": 8.5
+    },
+    {
+      "id": "103",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "LitServe ML APIs",
+      "mediumTitle": "LitServe: Advanced ML API Deployment",
+      "longTitle": "LitServe: Building Advanced Multi-Endpoint ML APIs Locally",
+      "paragraphs": [
+        {
+          "lines": [
+            "The ability to perform all operations",
+            "locally offers greater control, privacy,",
+            "and potential cost savings.",
+            "All demonstrations are executed locally",
+            "without requiring external dependencies.",
+            "The local inference aspect is",
+            "highlighted for scenarios where external",
+            "dependencies are undesirable.",
+            "Batching is supported, allowing multiple",
+            "inference requests to be processed",
+            "together for improved throughput.",
+            "Caching is discussed as a technique to",
+            "store previous computations for faster",
+            "responses and reduced load.",
+            "Streaming endpoints are implemented for",
+            "applications requiring incremental",
+            "results, enhancing responsiveness.",
+            "LitServe can handle multiple distinct",
+            "tasks or models within a single API",
+            "deployment for consolidated serving."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-24T22:20:57.000Z",
+      "ranking": 8.435714285714287
+    },
+    {
+      "id": "105",
+      "topic": "Learning",
+      "source": "Marktechpost AI",
+      "shortTitle": "FLAME AI",
+      "mediumTitle": "Google AI\u0027s FLAME for Object Detection",
+      "longTitle": "Google AI Introduces FLAME: Fast Active Learning for Object Detection",
+      "paragraphs": [
+        {
+          "lines": [
+            "By focusing on identifying and training",
+            "with the most valuable data points,",
+            "FLAME ensures the refiner model quickly",
+            "learns to accurately detect fine-grained",
+            "objects.",
+            "This approach promises to improve the",
+            "accuracy and efficiency of object",
+            "detection in specialized applications",
+            "where standard open-vocabulary models",
+            "struggle.",
+            "This is particularly beneficial in",
+            "specialized domains like remote sensing,",
+            "where standard detectors may struggle",
+            "with fine-grained classes and unusual",
+            "visual contexts.",
+            "The strategy aims to overcome the",
+            "performance drop often observed in",
+            "zero-shot learning for remote sensing."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-24T00:44:35.000Z",
+      "ranking": 8.430000000000001
+    },
+    {
+      "id": "47",
+      "topic": "Business",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Failure: Bad Leadership",
+      "mediumTitle": "AI Failure: Leadership Mismanagement",
+      "longTitle": "AI Failure: Leadership Mismanagement and the Path Forward",
+      "paragraphs": [
+        {
+          "lines": [
+            "She attributes this widespread failure",
+            "not to the technology itself, but to a",
+            "fundamental mismanagement by leadership.",
+            "The core prescription is to stop",
+            "managing complexity and start",
+            "dismantling it.",
+            "Nearly half of Fortune 500 executives",
+            "believe artificial intelligence is",
+            "actively harming their organizations.",
+            "Organizations that delegate AI to IT",
+            "risk becoming cautionary tales, while",
+            "those that personally drive",
+            "transformation are poised to thrive.",
+            "This makes AI the most critical aspect",
+            "of a business leader\u0027s role, and thus,",
+            "non-delegable.",
+            "The core issue is that companies are",
+            "treating AI transformation like previous",
+            "technology rollouts, delegating it to IT",
+            "departments."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T15:02:00.000Z",
+      "ranking": 8.409677419354843
+    },
+    {
+      "id": "97",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Mistral AI Studio",
+      "mediumTitle": "Mistral AI Studio: Enterprise AI Platform",
+      "longTitle": "Mistral AI Studio: New Platform for AI Development and Operations",
+      "paragraphs": [
+        {
+          "lines": [
+            "The platform is available starting",
+            "October 24, 2025, as part of a private",
+            "beta program.",
+            "Mistral AI has launched Mistral AI",
+            "Studio, a new production platform",
+            "designed to streamline the development,",
+            "observation, and operationalization of",
+            "AI applications for enterprises.",
+            "Mistral positions AI Studio as a tool",
+            "for enterprises to move from AI",
+            "experimentation to dependable",
+            "operations, emphasizing reliability,",
+            "safety, and measurability.",
+            "The runtime also supports",
+            "Retrieval-Augmented Generation (RAG)",
+            "workflows, allowing models to be paired",
+            "with proprietary data sources for",
+            "contextualized responses."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-24T08:55:00.000Z",
+      "ranking": 8.405555555555557
+    },
+    {
+      "id": "55",
+      "topic": "Reasoning",
+      "source": "VentureBeat AI",
+      "shortTitle": "LLM Reasoning",
+      "mediumTitle": "Markovian Thinking for LLMs",
+      "longTitle": "Markovian Thinking: Enhancing LLM Efficiency in Complex Reasoning",
+      "paragraphs": [
+        {
+          "lines": [
+            "Researchers at Mila have developed",
+            "\u0022Markovian Thinking,\u0022 a novel technique",
+            "designed to significantly enhance the",
+            "efficiency of large language models",
+            "(LLMs) in complex reasoning tasks.",
+            "Some math problems were solved after",
+            "reasoning for up to 140,000 tokens, far",
+            "exceeding the 24,000-token training",
+            "limit, showcasing a linear compute",
+            "advantage.",
+            "A significant advantage emerges when",
+            "reasoning extends beyond the training",
+            "budget, as the Delethink-trained model",
+            "continued to improve while LongCoT",
+            "models plateaued.",
+            "This approach removes a critical",
+            "bottleneck, paving the way for",
+            "next-generation reasoning models capable",
+            "of long-horizon tasks essential for",
+            "scientific discovery."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-21T07:12:00.000Z",
+      "ranking": 8.376666666666667
+    },
+    {
+      "id": "77",
+      "topic": "Large Models",
+      "source": "The Verge AI",
+      "shortTitle": "Claude\u0027s New Memory",
+      "mediumTitle": "Claude AI Gains Conversational Memory",
+      "longTitle": "Anthropic\u0027s Claude AI Update Introduces Persistent Conversation Memory",
+      "paragraphs": [
+        {
+          "lines": [
+            "Anthropic is introducing a significant",
+            "update to its AI chatbot, Claude, which",
+            "will enable it to \u0022remember\u0022 past",
+            "conversations without requiring users to",
+            "re-prompt the AI.",
+            "The emphasis on \u0022without prompting\u0022 is",
+            "key, as it signifies a reduction in user",
+            "effort and a more seamless interaction.",
+            "The core benefit of this upgrade lies in",
+            "its ability to eliminate the need for",
+            "users to repeatedly provide context or",
+            "background information within a single",
+            "conversation thread.",
+            "Claude\u0027s new memory feature promises to",
+            "break this limitation, allowing for more",
+            "fluid, natural, and efficient dialogues."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T15:00:00.000Z",
+      "ranking": 8.37142857142857
+    },
+    {
+      "id": "89",
+      "topic": "Health",
+      "source": "Marktechpost AI",
+      "shortTitle": "DeepSomatic AI",
+      "mediumTitle": "DeepSomatic: AI for Cancer Genomics",
+      "longTitle": "DeepSomatic AI Model Pinpoints Genetic Variations in Cancer Cells",
+      "paragraphs": [
+        {
+          "lines": [
+            "In a significant research collaboration",
+            "with Children\u0027s Mercy, DeepSomatic",
+            "showcased its diagnostic prowess by",
+            "detecting ten genetic variants in",
+            "pediatric leukemia cells that had",
+            "previously gone unnoticed by existing",
+            "analytical tools.",
+            "Google AI Research, in collaboration",
+            "with UC Santa Cruz, has introduced",
+            "DeepSomatic, a novel Artificial",
+            "Intelligence (AI) model designed to",
+            "pinpoint genetic variations within",
+            "cancer cells.",
+            "Its demonstrated success in uncovering",
+            "variants missed by other methods,",
+            "particularly in pediatric leukemia,",
+            "holds promise for improving cancer",
+            "detection, understanding, and treatment",
+            "strategies."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-21T08:57:42.000Z",
+      "ranking": 8.368750000000002
+    },
+    {
+      "id": "104",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "WALT AI Agents",
+      "mediumTitle": "Salesforce WALT: AI Agents Use Web Tools",
+      "longTitle": "Salesforce WALT Framework Enables AI Agents to Discover and Use Web Tools",
+      "paragraphs": [
+        {
+          "lines": [
+            "Salesforce AI Research has unveiled WALT",
+            "(Web Agents that Learn Tools), a novel",
+            "framework designed to empower Large",
+            "Language Model (LLM) agents by enabling",
+            "them to automatically discover and",
+            "utilize reusable tools embedded within",
+            "any website.",
+            "The ability to treat website features as",
+            "callable tools rather than intricate",
+            "navigational paths represents a crucial",
+            "step forward in making LLM agents more",
+            "practical and powerful tools for",
+            "interacting with the digital world.",
+            "By providing a mechanism for agents to",
+            "dynamically learn and leverage the",
+            "functionalities of the web, Salesforce",
+            "AI Research is paving the way for agents",
+            "that can perform complex tasks across",
+            "multiple online platforms with greater",
+            "ease and efficiency."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-24T13:11:44.000Z",
+      "ranking": 8.359375
+    },
+    {
+      "id": "87",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Pokee AI Research",
+      "mediumTitle": "PokeeResearch-7B: New AI Research Agent",
+      "longTitle": "Pokee AI Releases PokeeResearch-7B, a 7B Parameter Research Agent",
+      "paragraphs": [
+        {
+          "lines": [
+            "Pokee AI has publicly released",
+            "PokeeResearch-7B, a 7-billion parameter",
+            "deep research agent designed to conduct",
+            "comprehensive research loops.",
+            "The agent\u0027s ability to decompose",
+            "queries, search, read, verify, and",
+            "synthesize information highlights its",
+            "advanced capabilities in handling",
+            "research-oriented workloads.",
+            "This agent is capable of decomposing",
+            "complex queries, initiating web",
+            "searches, and reading retrieved",
+            "information.",
+            "The open-sourcing of PokeeResearch-7B by",
+            "Pokee AI aims to provide the research",
+            "community with a powerful tool for",
+            "automated information gathering and",
+            "analysis."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T04:48:19.000Z",
+      "ranking": 8.323076923076922
+    },
+    {
+      "id": "102",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Krafton\u0027s AI Shift",
+      "mediumTitle": "Krafton Embraces AI First Strategy",
+      "longTitle": "Krafton Adopts AI First Philosophy for Operations and Development",
+      "paragraphs": [
+        {
+          "lines": [
+            "Krafton\u0027s decision signals a trend",
+            "towards deeper AI integration, moving",
+            "beyond AI as a tool to AI as a",
+            "foundational element.",
+            "At the core of this transformation is",
+            "the planned implementation of \u0027agentic",
+            "AI,\u0027 designed to autonomously perform",
+            "tasks.",
+            "The company\u0027s focus on both agentic AI",
+            "for automation and AI-centric management",
+            "indicates a comprehensive approach to",
+            "leveraging AI.",
+            "This commitment suggests a long-term",
+            "vision, positioning Krafton as a",
+            "technology company that utilizes AI as a",
+            "fundamental pillar.",
+            "This new directive signifies a deep",
+            "integration of artificial intelligence",
+            "across various facets of the company\u0027s",
+            "operations."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T16:06:43.000Z",
+      "ranking": 8.315
+    },
+    {
+      "id": "54",
+      "topic": "AppBuilder",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Studio Upgrade",
+      "mediumTitle": "Google AI Studio\u0027s Vibe Coding",
+      "longTitle": "Google AI Studio Revamps with Vibe Coding for AI App Development",
+      "paragraphs": [
+        {
+          "lines": [
+            "Within 65 seconds, AI Studio produced a",
+            "fully functional web app with a dice",
+            "size selector, color customization,",
+            "animated rolling, and a modern UI built",
+            "with React, TypeScript, and Tailwind",
+            "CSS.",
+            "Google AI Studio has undergone a",
+            "significant upgrade, introducing a \u0027vibe",
+            "coding\u0027 experience designed to empower",
+            "individuals of all technical backgrounds",
+            "to build and deploy web applications in",
+            "minutes.",
+            "Users simply describe their desired",
+            "application, and Gemini\u0027s APIs",
+            "automatically assemble the necessary",
+            "components."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-21T19:45:00.000Z",
+      "ranking": 8.221666666666668
+    },
+    {
+      "id": "75",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "EA \u0026 Stability AI",
+      "mediumTitle": "EA Partners with Stability AI for Game Dev",
+      "longTitle": "Electronic Arts and Stability AI Forge Partnership for Game Development",
+      "paragraphs": [
+        {
+          "lines": [
+            "Electronic Arts (EA) has announced a",
+            "significant partnership with Stability",
+            "AI, the creators of the widely",
+            "recognized Stable Diffusion AI image",
+            "model.",
+            "This collaboration aims to integrate",
+            "artificial intelligence deeply into EA\u0027s",
+            "game development processes, with the",
+            "stated goal of creating \u0027transformative",
+            "AI models, tools, and workflows.\u0027",
+            "The collaboration aims to create",
+            "advanced AI tools and workflows that",
+            "will empower EA\u0027s creative teams to",
+            "innovate in content creation.",
+            "These new resources are intended to",
+            "empower EA\u0027s creative teams, including",
+            "artists, designers, and developers, to",
+            "\u0027reimagine how content is built.\u0027"
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T18:23:53.000Z",
+      "ranking": 8.164583333333333
+    },
+    {
+      "id": "53",
+      "topic": "Vision-Text Comp.",
+      "source": "VentureBeat AI",
+      "shortTitle": "DeepSeek OCR",
+      "mediumTitle": "DeepSeek OCR: Visual Text Compression",
+      "longTitle": "DeepSeek OCR: Revolutionizing LLM Context Windows with Visual Text Compression",
+      "paragraphs": [
+        {
+          "lines": [
+            "This model achieves a paradigm inversion",
+            "by compressing text through visual",
+            "representation, reportedly up to 10",
+            "times more efficiently than traditional",
+            "text tokens.",
+            "This breakthrough could enable LLMs with",
+            "dramatically expanded context windows,",
+            "potentially reaching tens of millions of",
+            "tokens.",
+            "The model demonstrates that visual",
+            "representations can be a superior",
+            "compression medium for textual",
+            "information, reversing the conventional",
+            "hierarchy where text tokens were",
+            "considered more efficient.",
+            "The DeepSeek-OCR model\u0027s technical paper",
+            "states that when the number of text",
+            "tokens is within 10 times that of vision",
+            "tokens, the model can achieve decoding",
+            "precision of 97%."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-21T20:30:00.000Z",
+      "ranking": 8.137037037037034
+    },
+    {
+      "id": "84",
+      "topic": "Robotics",
+      "source": "The Verge AI",
+      "shortTitle": "Amazon Robots",
+      "mediumTitle": "Amazon\u0027s Robot Strategy: PR vs. Reality",
+      "longTitle": "Amazon Responds to Report on Robot Strategy and Workforce",
+      "paragraphs": [
+        {
+          "lines": [
+            "The New York Times report, citing",
+            "internal Amazon documents, indicated",
+            "that the company viewed automation as a",
+            "means to boost sales without a",
+            "corresponding rise in employee numbers.",
+            "While internal documents may reveal a",
+            "focus on cost-cutting and workforce",
+            "optimization through robots, the",
+            "company\u0027s public-facing message",
+            "emphasizes technological progress and",
+            "the potential for growth and improved",
+            "service delivery.",
+            "The article implies that Amazon\u0027s",
+            "internal discussions about automation",
+            "are more focused on the economic",
+            "benefits, specifically the ability to",
+            "scale operations without proportional",
+            "increases in headcount."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-22T22:50:44.000Z",
+      "ranking": 8.13529411764706
+    },
+    {
+      "id": "99",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT Knowledge",
+      "mediumTitle": "ChatGPT Integrates Company Knowledge",
+      "longTitle": "ChatGPT for Business, Enterprise, and Education Gains Company Knowledge Integration",
+      "paragraphs": [
+        {
+          "lines": [
+            "This integration promises to make the",
+            "process of finding and utilizing",
+            "work-related information significantly",
+            "more seamless and efficient for users of",
+            "ChatGPT for Business, Enterprise, and",
+            "Education.",
+            "The system is designed to understand the",
+            "context of user queries and then",
+            "intelligently search the connected data",
+            "sources to provide accurate and relevant",
+            "answers.",
+            "The core of this update is powered by a",
+            "version of GPT-5, which has been",
+            "specifically adapted to connect with",
+            "platforms such as Slack, SharePoint,",
+            "Google Drive, and GitHub."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-24T10:58:06.000Z",
+      "ranking": 8.08125
+    },
+    {
+      "id": "41",
+      "topic": "News",
+      "source": "VentureBeat AI",
+      "shortTitle": "Adobe AI Foundry",
+      "mediumTitle": "Adobe AI Foundry for Bespoke AI",
+      "longTitle": "Adobe Launches AI Foundry for Custom Enterprise AI Models",
+      "paragraphs": [
+        {
+          "lines": [
+            "Adobe has launched Adobe AI Foundry, a",
+            "new service designed to create bespoke",
+            "versions of its flagship AI model,",
+            "Firefly, specifically for enterprise",
+            "clients.",
+            "This initiative aims to attract more",
+            "businesses to Adobe\u0027s ecosystem by",
+            "offering highly customized AI models",
+            "that understand and generate content",
+            "aligned with a company\u0027s unique brand",
+            "identity, intellectual property (IP),",
+            "products, and services.",
+            "Hannah Elsakr, vice president of GenAI",
+            "New Business Ventures at Adobe,",
+            "explained that Adobe retrains its",
+            "commercially safe Firefly models using",
+            "the enterprise\u0027s IP, ensuring that this",
+            "IP remains separate and is never",
+            "incorporated back into the base model."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-20T15:00:00.000Z",
+      "ranking": 8.078260869565215
+    },
+    {
+      "id": "81",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI in Google Earth",
+      "mediumTitle": "Google Earth Gets AI Chat Capabilities",
+      "longTitle": "Google Earth Integrates AI for Advanced Geospatial Analysis",
+      "paragraphs": [
+        {
+          "lines": [
+            "Google Earth is significantly enhancing",
+            "its capabilities by integrating advanced",
+            "Artificial Intelligence (AI) features,",
+            "primarily powered by Google\u0027s Gemini",
+            "models.",
+            "Google Earth is transforming from a",
+            "digital globe for visual exploration",
+            "into an intelligent platform capable of",
+            "performing complex analyses and",
+            "providing actionable insights through",
+            "natural language queries.",
+            "This conversational interface allows",
+            "users to pose complex questions and",
+            "receive detailed, contextually relevant",
+            "answers derived from the vast datasets",
+            "within Google Earth.",
+            "This capability is crucial for disaster",
+            "preparedness, emergency response",
+            "planning, and resource allocation."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T13:09:00.000Z",
+      "ranking": 8.070370370370371
+    },
+    {
+      "id": "76",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Krafton AI First",
+      "mediumTitle": "Krafton Embraces AI First Strategy",
+      "longTitle": "Krafton Adopts AI First Approach for Development and Operations",
+      "paragraphs": [
+        {
+          "lines": [
+            "Krafton\u0027s move highlights the growing",
+            "influence of AI in the gaming industry.",
+            "Companies like Krafton recognize AI\u0027s",
+            "transformative potential for",
+            "entertainment and operations.",
+            "Krafton, known for PUBG: Battlegrounds,",
+            "is shifting to an \u0027AI First\u0027 strategy.",
+            "This strategy aims to position Krafton",
+            "at the forefront of AI-driven innovation",
+            "in gaming.",
+            "This new direction signifies a deep",
+            "integration of artificial intelligence",
+            "across the company.",
+            "The core of this strategy involves",
+            "utilizing \u0027agentic AI\u0027 for task",
+            "automation.",
+            "These advanced AI systems are intended",
+            "to streamline workflows and enhance",
+            "efficiency."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T16:06:43.000Z",
+      "ranking": 8.059999999999999
+    },
+    {
+      "id": "50",
+      "topic": "AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Race: US vs China",
+      "mediumTitle": "AI Landscape: US Leads Enterprise, China Leads Consumer",
+      "longTitle": "Kai-Fu Lee\u0027s AI Landscape Assessment: US Enterprise, China Consumer \u0026 Robotics",
+      "paragraphs": [
+        {
+          "lines": [
+            "Regarding robotics, Lee\u0027s assessment is",
+            "blunt: China\u0027s manufacturing prowess,",
+            "lower costs, and aggressive investment",
+            "have created a formidable advantage that",
+            "will be difficult for American companies",
+            "to overcome.",
+            "Lee believes China is poised to dominate",
+            "consumer AI applications and robotics",
+            "manufacturing within years.",
+            "The ten highest-rated open-source models",
+            "are now reportedly from China,",
+            "surpassing Meta\u0027s Llama, which was",
+            "previously considered the benchmark.",
+            "Chinese companies, including Lee\u0027s own",
+            "01.AI, Alibaba, and Baidu, have released",
+            "a wave of open-source models that",
+            "outperform their American counterparts",
+            "on various benchmarks."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-22T14:30:00.000Z",
+      "ranking": 8.01851851851852
+    },
+    {
+      "id": "56",
+      "topic": "AI Finance",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Cost Blind Spot",
+      "mediumTitle": "AI\u0027s Financial Blind Spot and ROI",
+      "longTitle": "AI\u0027s Financial Blind Spot: Linking Cost Transparency to Business Impact",
+      "paragraphs": [
+        {
+          "lines": [
+            "Ultimately, AI success hinges on value,",
+            "not just velocity, and TBM offers a",
+            "roadmap for making the right",
+            "investments.",
+            "TBM transforms AI from a potential",
+            "financial misstep into a measurable",
+            "business asset and strategic driver.",
+            "Unifying these under TBM with a common",
+            "model and vocabulary brings essential",
+            "clarity to AI costs and their business",
+            "impact.",
+            "TBM integrates IT Financial Management",
+            "(ITFM), FinOps, and Strategic Portfolio",
+            "Management (SPM) for AI cost management.",
+            "AI offers revolutionary potential for",
+            "efficiency, productivity, and customer",
+            "satisfaction, but its financial",
+            "footprint is often obscure, leading to",
+            "uncertainty about return on investment",
+            "(ROI)."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-21T06:00:00.000Z",
+      "ranking": 8.004999999999999
+    },
+    {
+      "id": "90",
+      "topic": "Vision",
+      "source": "Marktechpost AI",
+      "shortTitle": "DeepSeek-OCR",
+      "mediumTitle": "DeepSeek-AI\u0027s OCR and Document Parser",
+      "longTitle": "DeepSeek-OCR: 3B VLM for OCR and Document Structure",
+      "paragraphs": [
+        {
+          "lines": [
+            "DeepSeek-AI has introduced DeepSeek-OCR,",
+            "a 3-billion parameter Vision-Language",
+            "Model (VLM) specifically engineered for",
+            "high-performance Optical Character",
+            "Recognition (OCR).",
+            "This innovative system operates as an",
+            "end-to-end solution, capable of both",
+            "recognizing text within images and",
+            "parsing the underlying document",
+            "structure.",
+            "DeepSeek-OCR is not merely extracting",
+            "text but also understanding the layout",
+            "and relationships between different",
+            "elements within a document.",
+            "The core of DeepSeek-OCR\u0027s methodology",
+            "lies in its efficient compression of",
+            "long text into a limited set of \u0027vision",
+            "tokens\u0027."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-21T01:50:40.000Z",
+      "ranking": 7.9958333333333345
+    },
+    {
+      "id": "94",
+      "topic": "Gaming",
+      "source": "The Verge AI",
+      "shortTitle": "Xbox Redefined",
+      "mediumTitle": "Microsoft\u0027s Vision: Xbox Beyond Console",
+      "longTitle": "Microsoft\u0027s Vision: Xbox Becomes a Service Accessible Everywhere",
+      "paragraphs": [
+        {
+          "lines": [
+            "Microsoft\u0027s vision is for \u0027Xbox\u0027 to",
+            "transcend its physical form into an",
+            "encompassing gaming platform.",
+            "Microsoft\u0027s ambitious vision",
+            "fundamentally redefines what an \u0027Xbox\u0027",
+            "is, moving beyond a solely physical",
+            "console.",
+            "This transformation is powered by cloud",
+            "gaming, where games are streamed from",
+            "powerful servers to the user\u0027s device.",
+            "This service-oriented approach aims to",
+            "make high-quality gaming more accessible",
+            "and integrated into consumers\u0027 digital",
+            "lives.",
+            "The Xbox experience is intended to be",
+            "accessible on televisions, computers,",
+            "smartphones, tablets, and even car",
+            "infotainment systems."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-21T10:40:57.000Z",
+      "ranking": 7.993333333333333
+    },
+    {
+      "id": "49",
+      "topic": "Tech",
+      "source": "VentureBeat AI",
+      "shortTitle": "Microsoft AI Vision",
+      "mediumTitle": "Nadella\u0027s AI Strategy for Enterprises",
+      "longTitle": "Microsoft CEO\u0027s Vision for Enterprise AI: Security, Agents, and Data",
+      "paragraphs": [
+        {
+          "lines": [
+            "Nadella emphasizes that Microsoft is",
+            "actively shaping the infrastructure,",
+            "security, tooling, and governance of the",
+            "AI era for the long term.",
+            "Security and reliability are now the",
+            "foundational elements of the AI stack,",
+            "with Microsoft prioritizing security",
+            "through initiatives like the Secure",
+            "Future Initiative (SFI).",
+            "Nadella\u0027s vision positions Microsoft as",
+            "the platform for the next industrial",
+            "transformation, powered by AI",
+            "infrastructure rather than mere AI",
+            "demonstrations.",
+            "The Quality Excellence Initiative (QEI)",
+            "aims to enhance platform resiliency and",
+            "service uptime, signaling a shift away",
+            "from \u0027ship fast, harden later\u0027 AI",
+            "deployments."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T03:34:00.000Z",
+      "ranking": 7.986206896551723
+    },
+    {
+      "id": "51",
+      "topic": "Tech",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Simplification",
+      "mediumTitle": "Simplifying AI Software for Scale",
+      "longTitle": "Arm Advocates for Simplified AI Software Stack for Scalable Intelligence",
+      "paragraphs": [
+        {
+          "lines": [
+            "Arm argues that simplifying the AI",
+            "software stack is essential for",
+            "achieving scalable and portable",
+            "intelligence across cloud and edge",
+            "devices.",
+            "Currently, fragmented software stacks",
+            "require developers to repeatedly rebuild",
+            "AI models for different hardware",
+            "targets, leading to wasted time on \u0027glue",
+            "code\u0027 instead of feature development.",
+            "The next phase of AI innovation hinges",
+            "on software that performs efficiently",
+            "across cloud, client, and edge",
+            "environments, enabling faster",
+            "development and reduced costs."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-22T06:00:00.000Z",
+      "ranking": 7.950000000000001
+    },
+    {
+      "id": "85",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "UltraCUA AI",
+      "mediumTitle": "Apple\u0027s UltraCUA: Hybrid AI Agents",
+      "longTitle": "Apple\u0027s UltraCUA: Novel Hybrid AI Agents for Computer Use",
+      "paragraphs": [
+        {
+          "lines": [
+            "The core innovation of UltraCUA lies in",
+            "its ability to combine the direct",
+            "manipulation capabilities of GUI agents",
+            "with the precision and power of API",
+            "integrations.",
+            "However, if a particular piece of",
+            "information needs to be retrieved or",
+            "processed, and an API is available for",
+            "that function, UltraCUA can directly",
+            "call the API, bypassing the need for",
+            "multiple GUI steps.",
+            "UltraCUA aims to bridge the gap between",
+            "general-purpose graphical user interface",
+            "(GUI) agents and specialized API-based",
+            "agents by creating a hybrid action",
+            "space.",
+            "This integration is crucial for",
+            "improving the efficiency, accuracy, and",
+            "overall capability of computer-use",
+            "agents."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T18:42:37.000Z",
+      "ranking": 7.931818181818181
+    },
+    {
+      "id": "44",
+      "topic": "News",
+      "source": "The Verge AI",
+      "shortTitle": "AI Critics Subpoenaed",
+      "mediumTitle": "AI Advocacy Groups Receive Legal Subpoenas",
+      "longTitle": "AI Advocacy Groups Pushing for Regulation Face Legal Subpoenas",
+      "paragraphs": [
+        {
+          "lines": [
+            "Several non-profit organizations",
+            "actively advocating for the regulation",
+            "of artificial intelligence (AI)",
+            "companies, particularly OpenAI, have",
+            "subsequently received legal subpoenas.",
+            "The subpoenas, which arrived shortly",
+            "after their lobbying efforts, suggest a",
+            "potential response from the AI companies",
+            "being scrutinized.",
+            "Tyler Johnston, founder of The Midas",
+            "Project, a non-profit focused on AI",
+            "transparency, privacy, and ethics, was",
+            "among those served with legal documents.",
+            "While the article doesn\u0027t explicitly",
+            "state the exact nature of the subpoenas",
+            "or the specific entities that issued",
+            "them, it implies a connection between",
+            "the non-profits\u0027 regulatory push and the",
+            "legal actions taken against them."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-20T12:00:00.000Z",
+      "ranking": 7.911764705882353
+    },
+    {
+      "id": "95",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Yelp AI Tools",
+      "mediumTitle": "Yelp Launches AI for Restaurants",
+      "longTitle": "Yelp Introduces AI-Powered Host and Receptionist Tools",
+      "paragraphs": [
+        {
+          "lines": [
+            "These AI tools aim to automate crucial",
+            "customer management tasks, including",
+            "answering phone calls and taking",
+            "reservations.",
+            "The AI is positioned as a tool to manage",
+            "customer interactions, specifically",
+            "phone calls and reservations, thereby",
+            "freeing up human employees for other",
+            "duties.",
+            "Yelp\u0027s new AI offerings are a response",
+            "to the evolving needs of the restaurant",
+            "industry, aiming to provide",
+            "technological solutions that improve",
+            "efficiency and customer service.",
+            "Yelp Host is an AI agent capable of",
+            "handling incoming calls from customers",
+            "and managing table reservations."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-21T09:00:00.000Z",
+      "ranking": 7.846666666666668
+    },
+    {
+      "id": "101",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Edge Copilot Mode",
+      "mediumTitle": "Microsoft Edge Launches AI Copilot Mode",
+      "longTitle": "Microsoft Edge Integrates AI Copilot Mode for Enhanced Web Interaction",
+      "paragraphs": [
+        {
+          "lines": [
+            "Microsoft Edge has officially launched",
+            "its new \u0022Copilot Mode,\u0022 integrating AI",
+            "features more deeply into the browsing",
+            "experience.",
+            "This mode, previously announced in July,",
+            "transforms Microsoft Copilot into a",
+            "central gateway for web interaction.",
+            "In essence, Copilot Mode in Microsoft",
+            "Edge signifies a commitment to",
+            "integrating AI capabilities directly",
+            "into the foundational elements of web",
+            "browsing.",
+            "The new tab experience, a frequently",
+            "used interface, is repurposed to house",
+            "an AI chat window, enabling users to",
+            "initiate a wide range of web-related",
+            "activities through natural language."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T20:00:35.000Z",
+      "ranking": 7.841176470588236
+    },
+    {
+      "id": "96",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Video Fears",
+      "mediumTitle": "AI Video Concerns: Actors \u0026 Studios",
+      "longTitle": "Actors, Studios, and SAG-AFTRA Raise AI Video Misuse Concerns",
+      "paragraphs": [
+        {
+          "lines": [
+            "The core issue revolves around the",
+            "unauthorized use of actors\u0027 likenesses",
+            "in AI-generated content.",
+            "The industry is actively seeking",
+            "assurances and safeguards against the",
+            "unauthorized exploitation of actors\u0027",
+            "images and performances through AI.",
+            "Actor Bryan Cranston\u0027s likeness appeared",
+            "in a video on Sora, leading to",
+            "industry-wide discussions.",
+            "Significant concerns have been raised by",
+            "actors, studios, agents, and SAG-AFTRA",
+            "regarding the potential misuse of",
+            "AI-generated video technology.",
+            "The united concerns from studios,",
+            "agents, and actors themselves underscore",
+            "the gravity of the situation.",
+            "OpenAI\u0027s Sora is specifically identified",
+            "as a technology that raises implications",
+            "for deepfakes."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-20T22:14:57.000Z",
+      "ranking": 7.799999999999999
+    },
+    {
+      "id": "58",
+      "topic": "AI-Creativity",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI PCs Boost Creativity",
+      "mediumTitle": "AI PCs: The New Productivity Benchmark",
+      "longTitle": "AI PCs Transform Productivity by Enhancing Human Creativity",
+      "paragraphs": [
+        {
+          "lines": [
+            "The true value of AI PCs will be",
+            "measured by their capacity to unlock new",
+            "avenues for creation, collaboration, and",
+            "competitive advantage.",
+            "However, the article points out a",
+            "significant \u0027creative divide\u0027 in",
+            "adoption.",
+            "While nearly half of IT decision-makers",
+            "(45%) are using AI PCs for creative",
+            "assistance, adoption among broader",
+            "knowledge workers remains considerably",
+            "lower at 29%.",
+            "AI PCs are transformative tools that",
+            "reshape the work experience by providing",
+            "employees with tools that foster",
+            "creativity alongside productivity."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-21T06:00:00.000Z",
+      "ranking": 7.780952380952381
+    },
+    {
+      "id": "79",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Copilot AI Updates",
+      "mediumTitle": "Microsoft Copilot AI: New Features",
+      "longTitle": "Microsoft Copilot AI Assistant Receives Major Updates",
+      "paragraphs": [
+        {
+          "lines": [
+            "In summary, Microsoft\u0027s latest updates",
+            "to Copilot are focused on fostering",
+            "collaboration through group chats,",
+            "enhancing user engagement with a \u0022real",
+            "talk\u0022 mode, and improving",
+            "personalization via a new memory",
+            "function.",
+            "Key among these changes are the",
+            "introduction of \u0022Copilot Groups,\u0022 a",
+            "\u0022real talk\u0022 mode, and memory",
+            "capabilities.",
+            "These changes collectively aim to make",
+            "Copilot a more versatile, interactive,",
+            "and user-centric AI assistant.",
+            "This feature will allow the AI to learn",
+            "and retain information about individual",
+            "users over time.",
+            "Furthermore, Copilot is gaining \u0022memory\u0022",
+            "capabilities."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T14:00:00.000Z",
+      "ranking": 7.723076923076922
+    },
+    {
+      "id": "42",
+      "topic": "News",
+      "source": "The Verge AI",
+      "shortTitle": "Friend Protest",
+      "mediumTitle": "NYC Friend AI Pendant Protest",
+      "longTitle": "Public Protest in NYC Against Friend AI Pendant Advertising",
+      "paragraphs": [
+        {
+          "lines": [
+            "The Friend AI pendant is heavily",
+            "advertised throughout NYC\u0027s subway",
+            "system.",
+            "The pendant\u0027s advertising has become a",
+            "prominent and noticeable feature in the",
+            "city.",
+            "The advertising campaign for the Friend",
+            "AI pendant has been extensive and",
+            "widespread.",
+            "The Friend AI pendant is described as a",
+            "device with a \u0022near-constant presence\u0022",
+            "due to marketing.",
+            "This protest was organized by the",
+            "creator of the Friend AI pendant.",
+            "The advertising has generated a strong",
+            "enough reaction to warrant a public",
+            "demonstration.",
+            "The \u0022Friend protest\u0022 appears to be a",
+            "reaction against the pervasive",
+            "advertising."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-20T15:02:59.000Z",
+      "ranking": 7.7214285714285715
+    },
+    {
+      "id": "45",
+      "topic": "News",
+      "source": "Marktechpost AI",
+      "shortTitle": "Local AI Arrives",
+      "mediumTitle": "Generative AI Moves Local: GPT-OSS-20B \u0026 RTX AI PC",
+      "longTitle": "The Local AI Revolution: GPT-OSS-20B and NVIDIA RTX AI PC",
+      "paragraphs": [
+        {
+          "lines": [
+            "GPT-OSS-20B is presented as a powerful",
+            "LLM designed to be run locally.",
+            "The key enablers of this \u0027local AI",
+            "revolution\u0027 are GPT-OSS-20B and the",
+            "NVIDIA RTX AI PC.",
+            "The NVIDIA RTX AI PC is specifically",
+            "engineered to support AI workloads.",
+            "The combination of GPT-OSS-20B and",
+            "NVIDIA RTX AI PC signifies a",
+            "democratization of advanced AI",
+            "capabilities.",
+            "Local execution of GPT-OSS-20B addresses",
+            "privacy concerns by keeping data on the",
+            "user\u0027s machine.",
+            "This trend marks a new era where",
+            "powerful AI models can be utilized",
+            "directly on personal computing devices.",
+            "These PCs possess the necessary",
+            "processing power and specialized",
+            "components for efficient LLM execution."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-20T18:19:01.000Z",
+      "ranking": 7.706250000000001
+    },
+    {
+      "id": "93",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Browser",
+      "mediumTitle": "OpenAI Teases New AI Browser",
+      "longTitle": "OpenAI Set to Launch AI-Powered Web Browser \u0027ChatGPT Atlas\u0027",
+      "paragraphs": [
+        {
+          "lines": [
+            "OpenAI is reportedly on the verge of",
+            "launching a new AI-powered web browser,",
+            "tentatively named ChatGPT Atlas.",
+            "The company has begun teasing this",
+            "upcoming product with a livestream",
+            "scheduled for today at 1 PM ET / 10 AM",
+            "PT.",
+            "A cryptic teaser featuring a set of",
+            "browser tabs was posted on OpenAI\u0027s X",
+            "(formerly Twitter) account, signaling",
+            "the imminent reveal.",
+            "OpenAI CEO Sam Altman has expressed",
+            "significant enthusiasm for this new",
+            "product, describing it as something he",
+            "is \u0027quite\u0027 excited about.",
+            "The launch could signal a new era of",
+            "AI-integrated tools, making the internet",
+            "more accessible and intelligent."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-21T13:25:02.000Z",
+      "ranking": 7.696428571428572
+    },
+    {
+      "id": "52",
+      "topic": "AI-ContentGen",
+      "source": "VentureBeat AI",
+      "shortTitle": "Qwen Research Update",
+      "mediumTitle": "Qwen Deep Research: Web \u0026 Podcast Creation",
+      "longTitle": "Alibaba\u0027s Qwen Deep Research now generates interactive webpages and podcasts",
+      "paragraphs": [
+        {
+          "lines": [
+            "This update allows users to transform",
+            "research reports into interactive",
+            "webpages and multi-speaker podcasts with",
+            "minimal effort, typically within one to",
+            "two clicks.",
+            "The \u0027Podcast\u0027 option produces an audio",
+            "podcast with dynamic, multi-speaker",
+            "narration generated by Qwen3-TTS, also",
+            "hosted by Qwen for easy sharing.",
+            "The \u0027Web Dev\u0027 option generates a",
+            "professional-grade webpage,",
+            "automatically deployed and hosted by",
+            "Qwen, utilizing Qwen3-Coder for",
+            "structure and Qwen-Image for visuals.",
+            "Upon completion of the research, users",
+            "can access a PDF-style report and choose",
+            "between \u0027Web Dev\u0027 and \u0027Podcast\u0027 options."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-21T20:32:00.000Z",
+      "ranking": 7.695
+    },
+    {
+      "id": "57",
+      "topic": "BrowserAI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Browser",
+      "mediumTitle": "OpenAI Launches ChatGPT Atlas Browser",
+      "longTitle": "OpenAI Introduces ChatGPT Atlas, an AI-Enabled Web Browser",
+      "paragraphs": [
+        {
+          "lines": [
+            "OpenAI has launched ChatGPT Atlas, an",
+            "AI-enabled web browser designed to",
+            "challenge the dominance of Google",
+            "Chrome.",
+            "Currently available globally on Apple\u0027s",
+            "macOS, with support for Windows, iOS,",
+            "and Android planned for the future,",
+            "Atlas aims to revolutionize web",
+            "interaction by allowing users to",
+            "converse with the browser rather than",
+            "solely relying on typing URLs.",
+            "The launch of Atlas signifies a new",
+            "front in the \u0022browser wars,\u0022 with AI",
+            "model providers increasingly entering",
+            "this space.",
+            "A significant differentiator for Atlas",
+            "is its chat interface, which is",
+            "integrated directly into the browser."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-21T06:00:00.000Z",
+      "ranking": 7.687499999999999
+    },
+    {
+      "id": "83",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT Atlas",
+      "mediumTitle": "OpenAI Launches ChatGPT Atlas Browser",
+      "longTitle": "OpenAI Enters Browser Market with AI-Powered ChatGPT Atlas",
+      "paragraphs": [
+        {
+          "lines": [
+            "OpenAI has launched ChatGPT Atlas, an",
+            "AI-powered web browser designed to",
+            "compete with Google Chrome.",
+            "The announcement signifies OpenAI\u0027s",
+            "ambition to reshape how users interact",
+            "with the internet by integrating",
+            "advanced AI capabilities directly into",
+            "the browsing experience.",
+            "The mere existence of ChatGPT Atlas and",
+            "OpenAI\u0027s dedication to its development",
+            "mark a significant development in the",
+            "browser market.",
+            "Adam Fry, the leader of the Atlas",
+            "project at OpenAI, stated that the team",
+            "is already focused on improving the",
+            "browser."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T08:39:15.000Z",
+      "ranking": 7.65
+    },
+    {
+      "id": "82",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT Atlas",
+      "mediumTitle": "OpenAI Launches ChatGPT Atlas Browser",
+      "longTitle": "OpenAI Introduces ChatGPT Atlas: A New AI-Powered Browsing Experience",
+      "paragraphs": [
+        {
+          "lines": [
+            "OpenAI has launched ChatGPT Atlas, a new",
+            "AI-powered browser that integrates its",
+            "chatbot directly into the browsing",
+            "experience.",
+            "The ultimate goal for OpenAI is to",
+            "establish ChatGPT Atlas as a primary",
+            "tool for internet exploration,",
+            "challenging the long-standing dominance",
+            "of traditional search engines by",
+            "offering a fundamentally different,",
+            "AI-powered approach.",
+            "The article suggests that the success of",
+            "ChatGPT Atlas will hinge on its ability",
+            "to demonstrate a clear and tangible",
+            "benefit over existing methods of online",
+            "information gathering.",
+            "While the concept of an AI browser is",
+            "promising, the execution needs to prove",
+            "that it can offer a more intuitive,",
+            "efficient, or insightful experience."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T10:30:00.000Z",
+      "ranking": 7.616666666666667
+    },
+    {
+      "id": "80",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Amazon AI Helper",
+      "mediumTitle": "Amazon\u0027s New AI Purchase Assistant",
+      "longTitle": "Amazon Introduces AI Feature to Aid Customer Purchasing Decisions",
+      "paragraphs": [
+        {
+          "lines": [
+            "The AI will select one product for the",
+            "customer based on personalized data",
+            "points, including browsing activity,",
+            "past searches, shopping history, and",
+            "stated preferences.",
+            "The underlying technology relies on",
+            "Amazon\u0027s sophisticated AI and machine",
+            "learning capabilities to analyze user",
+            "data and predict future preferences.",
+            "Amazon is introducing a new AI-powered",
+            "feature called \u0027Help me decide\u0027 designed",
+            "to assist customers in making purchasing",
+            "choices.",
+            "This is a further step in Amazon\u0027s",
+            "strategy to use data and AI for a more",
+            "personalized and frictionless shopping",
+            "environment."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T13:26:53.000Z",
+      "ranking": 7.45625
+    },
+    {
+      "id": "59",
+      "topic": "AI-Coding",
+      "source": "VentureBeat AI",
+      "shortTitle": "Claude Code Web",
+      "mediumTitle": "Claude Code Now on Web \u0026 iOS",
+      "longTitle": "Anthropic\u0027s Claude Code Expands to Web and iOS",
+      "paragraphs": [
+        {
+          "lines": [
+            "Anthropic\u0027s Claude Code is now",
+            "accessible via the web and in preview on",
+            "the Claude iOS app, expanding its",
+            "availability beyond previous",
+            "integrations.",
+            "Users can connect their GitHub",
+            "repositories, describe their",
+            "requirements, and Claude will handle the",
+            "implementation.",
+            "Claude Code is powered by Claude Sonnet",
+            "4.5, positioned as a leading coding",
+            "model.",
+            "This move introduces additional",
+            "asynchronous capabilities, allowing",
+            "developers to initiate coding sessions",
+            "directly through a web interface without",
+            "needing to open their terminals."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-20T20:15:00.000Z",
+      "ranking": 7.380952380952381
+    },
+    {
+      "id": "92",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT Atlas",
+      "mediumTitle": "OpenAI Launches AI Browser Atlas",
+      "longTitle": "OpenAI Unveils ChatGPT Atlas, an AI-Powered Web Browser",
+      "paragraphs": [
+        {
+          "lines": [
+            "OpenAI has launched ChatGPT Atlas, an",
+            "AI-powered web browser designed to",
+            "compete with Google.",
+            "By embedding AI directly into the",
+            "browsing experience, the company aims to",
+            "offer a fundamentally different and more",
+            "intelligent way to navigate the",
+            "internet.",
+            "The core innovation of ChatGPT Atlas",
+            "lies in its deep integration of AI",
+            "capabilities directly into the browsing",
+            "experience.",
+            "OpenAI\u0027s strategic move with ChatGPT",
+            "Atlas signals a significant shift in the",
+            "browser market.",
+            "The integration of AI into such a",
+            "fundamental tool as a web browser has",
+            "the potential to redefine user",
+            "expectations."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-21T15:06:50.000Z",
+      "ranking": 7.345833333333335
+    },
+    {
+      "id": "91",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "YouTube AI Deepfake",
+      "mediumTitle": "YouTube AI Tool Fights Deepfakes",
+      "longTitle": "YouTube\u0027s New AI Tool Empowers Creators Against Deepfakes",
+      "paragraphs": [
+        {
+          "lines": [
+            "YouTube has introduced a new AI-powered",
+            "tool designed to combat the growing",
+            "problem of deepfakes and unauthorized",
+            "use of creators\u0027 likenesses on the",
+            "platform.",
+            "YouTube\u0027s new AI likeness detection tool",
+            "empowers creators within its Partner",
+            "Program to safeguard their digital",
+            "identity.",
+            "This feature, now available to creators",
+            "enrolled in the YouTube Partner Program,",
+            "empowers them to proactively identify",
+            "and report videos that misuse their",
+            "image and voice.",
+            "The tool operates by scanning uploaded",
+            "content for instances where a creator\u0027s",
+            "likeness is being used without their",
+            "permission."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-21T19:17:15.000Z",
+      "ranking": 7.174999999999999
+    },
+    {
+      "id": "46",
+      "topic": "News",
+      "source": "VentureBeat AI",
+      "shortTitle": "Copilot Fall Update",
+      "mediumTitle": "Microsoft Copilot Fall 2025 Update",
+      "longTitle": "Microsoft Copilot Fall 2025 Update: New Features and AI Integration",
+      "paragraphs": [
+        {
+          "lines": [
+            "Copilot Mode in Edge transforms the",
+            "Microsoft Edge browser into an \u0027AI",
+            "browser\u0027 capable of summarizing,",
+            "comparing, and executing web actions via",
+            "voice commands.",
+            "Copilot on Windows offers deep",
+            "integration into Windows 11 PCs,",
+            "activated by \u0027Hey Copilot,\u0027 for",
+            "context-aware commands and file access.",
+            "Memory \u0026 Personalization provides",
+            "long-term contextual memory, allowing",
+            "Copilot to recall key user-specific",
+            "details upon request.",
+            "Copilot Pages and Copilot Search provide",
+            "a collaborative file canvas and a",
+            "unified search experience combining",
+            "AI-generated answers with web results."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T21:01:00.000Z",
+      "ranking": 7.045454545454545
+    },
+    {
+      "id": "43",
+      "topic": "News",
+      "source": "The Verge AI",
+      "shortTitle": "AI in Healthcare",
+      "mediumTitle": "Zocdoc CEO on AI Replacing Dr. Google",
+      "longTitle": "Zocdoc CEO Oliver Kharraz Predicts AI Will Replace Dr. Google",
+      "paragraphs": [
+        {
+          "lines": [
+            "Kharraz predicts that \u0027Dr. Google is",
+            "going to be replaced by Dr. AI\u0027.",
+            "AI is poised to offer a more",
+            "personalized and sophisticated approach",
+            "to patient guidance.",
+            "AI systems could offer tailored advice,",
+            "diagnose symptoms, and recommend next",
+            "steps.",
+            "This shift moves from passive",
+            "information gathering to an active,",
+            "intelligent advisory role.",
+            "Zocdoc aims to leverage AI to make",
+            "healthcare more accessible and",
+            "patient-centric.",
+            "AI is expected to play a transformative",
+            "role in healthcare interactions.",
+            "AI can analyze vast medical data to",
+            "identify patterns and provide insights.",
+            "This could lead to earlier diagnoses and",
+            "more effective treatment plans."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-20T12:00:00.000Z",
+      "ranking": 6.841176470588236
+    },
+    {
+      "id": "78",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Mico AI",
+      "mediumTitle": "Microsoft\u0027s New AI Assistant Mico",
+      "longTitle": "Microsoft Introduces Mico, An AI Assistant Inspired by Clippy",
+      "paragraphs": [
+        {
+          "lines": [
+            "The goal is to create an assistant that",
+            "can understand user intent more",
+            "effectively and provide relevant",
+            "assistance without being disruptive.",
+            "Mico is positioned as a more advanced",
+            "and context-aware assistant, benefiting",
+            "from significant progress in artificial",
+            "intelligence.",
+            "This new approach aims to learn from the",
+            "past shortcomings of Clippy and Cortana,",
+            "offering a more seamless and valuable",
+            "user experience.",
+            "Microsoft is introducing Mico, an",
+            "AI-powered assistant that draws",
+            "inspiration from the company\u0027s infamous",
+            "paperclip assistant, Clippy.",
+            "Mico represents a new iteration of this",
+            "assistant concept, leveraging modern AI",
+            "capabilities."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T14:00:00.000Z",
+      "ranking": 6.830769230769231
+    },
+    {
+      "id": "98",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "ChatGPT Org Data",
+      "mediumTitle": "ChatGPT Integrates Company Knowledge",
+      "longTitle": "ChatGPT Business, Enterprise, and Edu Now Access Company Knowledge",
+      "paragraphs": [
+        {
+          "lines": [
+            "OpenAI has launched \u0022Company Knowledge\u0022",
+            "for ChatGPT Business, Enterprise, and",
+            "Edu subscribers, a feature designed to",
+            "allow users to access and synthesize",
+            "their organization\u0027s internal data",
+            "directly within ChatGPT.",
+            "Designed with enterprise governance and",
+            "security in mind, Company Knowledge",
+            "respects existing permissions within",
+            "connected apps, meaning ChatGPT can only",
+            "access data a user is already authorized",
+            "to view.",
+            "Each response generated includes",
+            "citations and direct links to the",
+            "original sources, ensuring transparency",
+            "and allowing users to verify",
+            "information."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-24T00:19:00.000Z",
+      "ranking": 6.82
+    }
+  ]
 }
