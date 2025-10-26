@@ -417,6 +417,39 @@
       "ranking": 8.359375
     },
     {
+      "id": "111",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "AI Model Specs",
+      "mediumTitle": "AI Model Specs Stress Test",
+      "longTitle": "AI Model Specs Stress Test Reveals Character Differences",
+      "paragraphs": [
+        {
+          "lines": [
+            "The research underscores that the",
+            "precision and robustness of",
+            "specifications are crucial for aligning",
+            "advanced AI models with human",
+            "intentions.",
+            "The research highlights a critical",
+            "challenge: frontier models may interpret",
+            "and act upon the same instructions",
+            "differently.",
+            "The findings point to the need for more",
+            "precise, unambiguous, and comprehensive",
+            "model specifications for effective AI",
+            "development.",
+            "Even under identical training and",
+            "evaluation conditions, advanced models",
+            "may exhibit unique \u0027character",
+            "differences\u0027."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-26T03:35:05.000Z",
+      "ranking": 8.325
+    },
+    {
       "id": "87",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -485,6 +518,41 @@
       ],
       "publishedAt": "2025-10-23T16:06:43.000Z",
       "ranking": 8.315
+    },
+    {
+      "id": "110",
+      "topic": "Security",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Browser Risks",
+      "mediumTitle": "AI Browser Security Vulnerabilities",
+      "longTitle": "AI Browser Security Risks: The Comet Disaster and Beyond",
+      "paragraphs": [
+        {
+          "lines": [
+            "Attackers can direct hijacked AI agents",
+            "to access sensitive information, such as",
+            "security codes, and send them to",
+            "malicious email addresses.",
+            "Robust security measures must be",
+            "incorporated to protect users, ensuring",
+            "functionality does not come at the",
+            "expense of safety.",
+            "Prompt injection is a significant",
+            "security risk where hackers embed",
+            "malicious instructions in web content.",
+            "Persistent memory in AI browsers means a",
+            "single poisoned website can negatively",
+            "influence AI behavior across all",
+            "subsequent sites visited.",
+            "The Comet disaster serves as a crucial",
+            "warning that future AI browsers must",
+            "assume every website is a potential",
+            "threat."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-25T06:00:00.000Z",
+      "ranking": 8.29
     },
     {
       "id": "54",
@@ -1203,42 +1271,6 @@
       "ranking": 7.723076923076922
     },
     {
-      "id": "45",
-      "topic": "News",
-      "source": "Marktechpost AI",
-      "shortTitle": "Local AI Arrives",
-      "mediumTitle": "Generative AI Moves Local: GPT-OSS-20B \u0026 RTX AI PC",
-      "longTitle": "The Local AI Revolution: GPT-OSS-20B and NVIDIA RTX AI PC",
-      "paragraphs": [
-        {
-          "lines": [
-            "GPT-OSS-20B is presented as a powerful",
-            "LLM designed to be run locally.",
-            "The key enablers of this \u0027local AI",
-            "revolution\u0027 are GPT-OSS-20B and the",
-            "NVIDIA RTX AI PC.",
-            "The NVIDIA RTX AI PC is specifically",
-            "engineered to support AI workloads.",
-            "The combination of GPT-OSS-20B and",
-            "NVIDIA RTX AI PC signifies a",
-            "democratization of advanced AI",
-            "capabilities.",
-            "Local execution of GPT-OSS-20B addresses",
-            "privacy concerns by keeping data on the",
-            "user\u0027s machine.",
-            "This trend marks a new era where",
-            "powerful AI models can be utilized",
-            "directly on personal computing devices.",
-            "These PCs possess the necessary",
-            "processing power and specialized",
-            "components for efficient LLM execution."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-20T18:19:01.000Z",
-      "ranking": 7.706250000000001
-    },
-    {
       "id": "93",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -1474,39 +1506,6 @@
       ],
       "publishedAt": "2025-10-23T13:26:53.000Z",
       "ranking": 7.45625
-    },
-    {
-      "id": "59",
-      "topic": "AI-Coding",
-      "source": "VentureBeat AI",
-      "shortTitle": "Claude Code Web",
-      "mediumTitle": "Claude Code Now on Web \u0026 iOS",
-      "longTitle": "Anthropic\u0027s Claude Code Expands to Web and iOS",
-      "paragraphs": [
-        {
-          "lines": [
-            "Anthropic\u0027s Claude Code is now",
-            "accessible via the web and in preview on",
-            "the Claude iOS app, expanding its",
-            "availability beyond previous",
-            "integrations.",
-            "Users can connect their GitHub",
-            "repositories, describe their",
-            "requirements, and Claude will handle the",
-            "implementation.",
-            "Claude Code is powered by Claude Sonnet",
-            "4.5, positioned as a leading coding",
-            "model.",
-            "This move introduces additional",
-            "asynchronous capabilities, allowing",
-            "developers to initiate coding sessions",
-            "directly through a web interface without",
-            "needing to open their terminals."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-20T20:15:00.000Z",
-      "ranking": 7.380952380952381
     },
     {
       "id": "92",
