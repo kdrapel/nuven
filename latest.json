@@ -417,39 +417,6 @@
       "ranking": 8.359375
     },
     {
-      "id": "111",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "AI Model Specs",
-      "mediumTitle": "AI Model Specs Stress Test",
-      "longTitle": "AI Model Specs Stress Test Reveals Character Differences",
-      "paragraphs": [
-        {
-          "lines": [
-            "The research underscores that the",
-            "precision and robustness of",
-            "specifications are crucial for aligning",
-            "advanced AI models with human",
-            "intentions.",
-            "The research highlights a critical",
-            "challenge: frontier models may interpret",
-            "and act upon the same instructions",
-            "differently.",
-            "The findings point to the need for more",
-            "precise, unambiguous, and comprehensive",
-            "model specifications for effective AI",
-            "development.",
-            "Even under identical training and",
-            "evaluation conditions, advanced models",
-            "may exhibit unique \u0027character",
-            "differences\u0027."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-26T03:35:05.000Z",
-      "ranking": 8.325
-    },
-    {
       "id": "87",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -1133,6 +1100,40 @@
       ],
       "publishedAt": "2025-10-21T09:00:00.000Z",
       "ranking": 7.846666666666668
+    },
+    {
+      "id": "111",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "AI Spec Testing",
+      "mediumTitle": "AI Research Tests LLM Specifications",
+      "longTitle": "New AI Initiative Rigorously Evaluates LLM Training Specifications",
+      "paragraphs": [
+        {
+          "lines": [
+            "This initiative is dedicated to the",
+            "rigorous evaluation of specifications",
+            "used for training and assessing large",
+            "language models (LLMs).",
+            "Furthermore, the study reveals that even",
+            "when trained and evaluated under",
+            "identical specifications, frontier",
+            "models demonstrate unique \u0027character",
+            "differences\u0027.",
+            "This implies that underlying",
+            "architectures, training data, and",
+            "fine-tuning processes contribute to",
+            "distinct behavioral profiles in",
+            "different LLMs.",
+            "The second question investigates whether",
+            "state-of-the-art LLMs exhibit distinct",
+            "behavioral characteristics even when",
+            "subjected to identical specifications."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-26T03:35:05.000Z",
+      "ranking": 7.84375
     },
     {
       "id": "101",
