@@ -383,7 +383,7 @@
         }
       ],
       "publishedAt": "2025-10-26T05:00:00.000Z",
-      "ranking": 4.807350967533024,
+      "ranking": 4.458521724299731,
       "articleUrl": "https://venturebeat.com/ai/from-human-clicks-to-machine-intent-preparing-the-web-for-agentic-ai"
     },
     {
@@ -418,7 +418,7 @@
         }
       ],
       "publishedAt": "2025-10-25T12:00:00.000Z",
-      "ranking": 1.7569687122805213,
+      "ranking": 1.2662879418938404,
       "articleUrl": "https://www.theverge.com/policy/806425/ice-social-media-surveillance-free-speech-assault"
     },
     {
@@ -452,7 +452,7 @@
         }
       ],
       "publishedAt": "2025-10-25T06:00:00.000Z",
-      "ranking": 1.561125983556293,
+      "ranking": 1.0203799690120539,
       "articleUrl": "https://venturebeat.com/ai/when-your-ai-browser-becomes-your-enemy-the-comet-security-disaster"
     },
     {
@@ -1020,42 +1020,6 @@
       "articleUrl": "https://venturebeat.com/ai/ai-is-tearing-companies-apart-writer-ai-ceo-slams-fortune-500-leaders-for"
     },
     {
-      "id": "9",
-      "topic": "Neural Nets",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Research Narrowing",
-      "mediumTitle": "AI Research: A Call for More Exploration",
-      "longTitle": "AI Research Narrowing: Creator of Transformers Calls for More Exploration",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article concludes by highlighting",
-            "the high stakes involved: the next major",
-            "AI breakthrough could be discovered by",
-            "those with the freedom to explore, or it",
-            "could remain undiscovered while",
-            "incremental improvements are pursued on",
-            "an architecture that its own creator is",
-            "\u0027absolutely sick of.\u0027",
-            "Llion Jones, co-author of the seminal",
-            "2017 paper \u0022Attention Is All You Need\u0022",
-            "and the person who coined the term",
-            "\u0022transformer,\u0022 has expressed his",
-            "frustration with the current state of AI",
-            "research.",
-            "His insider perspective, as a creator of",
-            "the dominant architecture, lends",
-            "considerable weight to his call for a",
-            "shift in incentive structures and a",
-            "renewed focus on exploratory research."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-23T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers"
-    },
-    {
       "id": "59",
       "topic": "Large Models",
       "source": "The Verge AI",
@@ -1093,6 +1057,78 @@
       "articleUrl": "https://www.theverge.com/news/804124/anthropic-claude-ai-memory-upgrade-all-subscribers"
     },
     {
+      "id": "9",
+      "topic": "Neural Nets",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Research Narrowing",
+      "mediumTitle": "AI Research: A Call for More Exploration",
+      "longTitle": "AI Research Narrowing: Creator of Transformers Calls for More Exploration",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article concludes by highlighting",
+            "the high stakes involved: the next major",
+            "AI breakthrough could be discovered by",
+            "those with the freedom to explore, or it",
+            "could remain undiscovered while",
+            "incremental improvements are pursued on",
+            "an architecture that its own creator is",
+            "\u0027absolutely sick of.\u0027",
+            "Llion Jones, co-author of the seminal",
+            "2017 paper \u0022Attention Is All You Need\u0022",
+            "and the person who coined the term",
+            "\u0022transformer,\u0022 has expressed his",
+            "frustration with the current state of AI",
+            "research.",
+            "His insider perspective, as a creator of",
+            "the dominant architecture, lends",
+            "considerable weight to his call for a",
+            "shift in incentive structures and a",
+            "renewed focus on exploratory research."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers"
+    },
+    {
+      "id": "82",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Copilot Upgrades",
+      "mediumTitle": "Copilot AI Gets New Features",
+      "longTitle": "Microsoft Enhances Copilot AI with \u0027Real Talk\u0027, Groups, and Memory",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft is enhancing its Copilot AI",
+            "assistant with several new features",
+            "aimed at improving user interaction and",
+            "functionality.",
+            "These updates include a \u0022real talk\u0022",
+            "mode, a group chat feature, and memory",
+            "capabilities.",
+            "This means the AI will be able to learn",
+            "and retain information about individual",
+            "users over time.",
+            "A significant addition is the Copilot",
+            "Groups feature, which enables multiple",
+            "users to participate in a single Copilot",
+            "chat.",
+            "This personalization is expected to lead",
+            "to more relevant and tailored",
+            "interactions, as Copilot will have",
+            "context about user preferences, past",
+            "conversations, or specific projects."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T14:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/804122/microsoft-copilot-real-talk-mode-group-chats-features"
+    },
+    {
       "id": "60",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -1126,6 +1162,40 @@
       "publishedAt": "2025-10-23T14:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy"
+    },
+    {
+      "id": "83",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Amazon AI Helper",
+      "mediumTitle": "Amazon\u0027s New AI Shopping Assistant",
+      "longTitle": "Amazon Introduces AI-Powered \u0027Help Me Decide\u0027 Feature",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon is introducing a new AI-driven",
+            "feature called \u0022Help me decide\u0022 designed",
+            "to assist shoppers in making purchasing",
+            "choices.",
+            "The AI will recommend a specific product",
+            "based on a variety of user data.",
+            "This user data includes browsing",
+            "history, search queries, past purchases,",
+            "and stated preferences.",
+            "This tool will appear on the Amazon app",
+            "and mobile website when users are",
+            "viewing multiple similar products.",
+            "The ultimate goal is to simplify the",
+            "decision-making process for consumers.",
+            "This feature is particularly helpful",
+            "when shoppers are faced with numerous",
+            "similar options."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T13:26:53.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/805348/amazon-ai-shopping-help-me-decide"
     },
     {
       "id": "68",
@@ -1478,74 +1548,6 @@
       "publishedAt": "2025-10-21T07:12:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/new-markovian-thinking-technique-unlocks-a-path-to-million-token-ai"
-    },
-    {
-      "id": "17",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI PCs Boost Creativity",
-      "mediumTitle": "AI PCs: Enhancing Human Creativity",
-      "longTitle": "AI PCs are transforming productivity by enhancing human creativity with on-device processing.",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Creativity is emerging as a new",
-            "benchmark for productivity, with",
-            "generative AI playing a key role in",
-            "enhancing human creativity, provided",
-            "employees have the right tools and",
-            "skills.",
-            "AI PCs, equipped with local AI",
-            "processing and Neural Processing Units",
-            "(NPUs), are designed to deliver the",
-            "speed, security, and creative potential",
-            "that knowledge workers need.",
-            "By processing AI tasks directly on the",
-            "device, these PCs reduce latency,",
-            "safeguard sensitive data, and minimize",
-            "energy consumption.",
-            "Early adoption of AI PCs is already",
-            "demonstrating significant impacts across",
-            "various teams."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-21T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/the-unexpected-benefits-of-ai-pcs-why-creativity-could-be-the-new"
-    },
-    {
-      "id": "18",
-      "topic": "Business",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Cost Blind Spot",
-      "mediumTitle": "AI\u0027s Financial Blind Spot \u0026 ROI",
-      "longTitle": "AI\u0027s Financial Blind Spot: Why Cost Transparency is Key for Success",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Organizations face a critical challenge",
-            "with AI: a lack of financial clarity",
-            "around its implementation and ongoing",
-            "costs, hindering understanding of the",
-            "relationship between AI investments and",
-            "tangible business impact.",
-            "The article proposes Technology Business",
-            "Management (TBM) as an enterprise",
-            "framework for AI cost management,",
-            "integrating IT Financial Management",
-            "(ITFM) for aligning IT costs with",
-            "business priorities, FinOps for",
-            "optimizing cloud costs and ROI, and",
-            "Strategic Portfolio Management (SPM) for",
-            "prioritizing projects that deliver",
-            "maximum business value."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-21T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/ais-financial-blind-spot-why-long-term-success-depends-on-cost-transparency"
     },
     {
       "id": "19",
