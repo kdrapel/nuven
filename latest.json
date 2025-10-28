@@ -1,41 +1,37 @@
 {
   "articles": [
     {
-      "id": "84",
+      "id": "102",
       "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Grokipedia Launched",
-      "mediumTitle": "Grokipedia Launched, Mimics Wikipedia",
-      "longTitle": "Elon Musk\u0027s Grokipedia Launched, Directly Copies Wikipedia Content",
+      "source": "Marktechpost AI",
+      "shortTitle": "MiniMax M2 AI",
+      "mediumTitle": "MiniMax M2: Coding \u0026 Agent AI",
+      "longTitle": "MiniMax M2: Open-Source AI for Coding \u0026 Agents",
       "paragraphs": [
         {
           "Lines": [
-            "Notably, the article highlights that",
-            "Grokipedia\u0027s content appears to be",
-            "directly copied from Wikipedia pages.",
-            "Elon Musk\u0027s new AI-powered encyclopedia,",
-            "Grokipedia, has launched and exhibits",
-            "striking similarities to Wikipedia, not",
-            "only in its basic design but also in its",
-            "content.",
-            "The homepage features a prominent search",
-            "bar, and individual entries are",
-            "structured with headings, subheadings,",
-            "and citations, mirroring the familiar",
-            "layout of Wikipedia.",
-            "While the current iteration of",
-            "Grokipedia is described as basic,",
-            "lacking visual elements like",
-            "photographs, its core functionality and",
-            "informational structure are heavily",
-            "influenced by its established",
-            "predecessor."
+            "MiniMax has released MiniMax M2, an",
+            "open-source Mixture of Experts (MoE)",
+            "model specifically designed for coding",
+            "and agentic workflows.",
+            "MiniMax M2 is cost-effective, priced at",
+            "approximately 8% of the cost of Claude",
+            "Sonnet, making advanced AI capabilities",
+            "more accessible.",
+            "The model aims to provide powerful",
+            "capabilities at a significantly lower",
+            "cost and with improved speed compared to",
+            "existing flagship models.",
+            "The model is reported to be",
+            "approximately twice as fast as",
+            "comparable models, enhancing efficiency",
+            "for users."
           ]
         }
       ],
-      "publishedAt": "2025-10-27T21:46:59.000Z",
-      "ranking": 8.16,
-      "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
+      "publishedAt": "2025-10-28T23:21:17.000Z",
+      "ranking": 8.466666666666667,
+      "articleUrl": "https://www.marktechpost.com/2025/10/28/minimax-open-sources-minimax-m2-a-mini-model-built-for-max-coding-and-agentic-workflows-at-8-claude-sonnet-price-and-2x-faster/"
     },
     {
       "id": "89",
@@ -244,6 +240,43 @@
       "articleUrl": "https://www.theverge.com/news/808032/github-ai-agent-hq-coding-openai-anthropic"
     },
     {
+      "id": "101",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "Teen AI Ban",
+      "mediumTitle": "New Bill to Limit Teen AI Access",
+      "longTitle": "Proposed Legislation Aims to Restrict Teenagers\u0027 Access to AI Chatbots",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Senators Josh Hawley (R-MO) and Richard",
+            "Blumenthal (D-CT) have introduced the",
+            "proposed GUARD Act, which aims to",
+            "restrict teenagers\u0027 access to AI",
+            "chatbots.",
+            "Furthermore, the bill explicitly",
+            "prohibits individuals under the age of",
+            "18 from accessing these AI chatbots.",
+            "The legislation would mandate that AI",
+            "companies implement age verification",
+            "processes for all users of their chatbot",
+            "services.",
+            "The bill\u0027s introduction signifies a",
+            "proactive step by lawmakers to address",
+            "perceived risks associated with AI",
+            "chatbot usage by adolescents.",
+            "This legislative proposal comes at a",
+            "time when concerns about the potential",
+            "impact of AI on young people are",
+            "growing."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T19:42:04.000Z",
+      "ranking": 7.8125,
+      "articleUrl": "https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban"
+    },
+    {
       "id": "88",
       "topic": "Finance",
       "source": "VentureBeat AI",
@@ -279,39 +312,6 @@
       "publishedAt": "2025-10-28T13:30:00.000Z",
       "ranking": 7.808333333333334,
       "articleUrl": "https://venturebeat.com/ai/intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in"
-    },
-    {
-      "id": "99",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Grokipedia Launched",
-      "mediumTitle": "Elon Musk\u0027s xAI launches Grokipedia",
-      "longTitle": "Elon Musk\u0027s xAI launches Grokipedia, a Wikipedia-like encyclopedia",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Elon Musk\u0027s xAI has launched Grokipedia,",
-            "an online encyclopedia designed to be",
-            "similar to Wikipedia.",
-            "The core functionality and presentation",
-            "of Grokipedia are directly analogous to",
-            "Wikipedia\u0027s established layout and",
-            "content organization.",
-            "The entries themselves are also",
-            "presented in a rudimentary format,",
-            "mirroring Wikipedia\u0027s structure with",
-            "headings, subheadings, and citations.",
-            "The platform\u0027s current design is",
-            "described as basic, with its homepage",
-            "primarily featuring a search bar.",
-            "As of the article\u0027s writing, no images",
-            "have been observed on Grokipedia."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T21:46:59.000Z",
-      "ranking": 7.699999999999999,
-      "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
     },
     {
       "id": "93",
@@ -385,43 +385,6 @@
       "publishedAt": "2025-10-28T17:10:00.000Z",
       "ranking": 7.59090909090909,
       "articleUrl": "https://venturebeat.com/ai/githubs-agent-hq-aims-to-solve-enterprises-biggest-ai-coding-problem-too"
-    },
-    {
-      "id": "85",
-      "topic": "Hardware",
-      "source": "The Verge AI",
-      "shortTitle": "DOE Supercomputers",
-      "mediumTitle": "DOE Invests $1B in Supercomputers",
-      "longTitle": "AMD, Oracle, HPE Partner with DOE for $1B Supercomputers",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AMD, in collaboration with Oracle and",
-            "Hewlett Packard Enterprise (HPE), has",
-            "secured a significant $1 billion",
-            "partnership with the US Department of",
-            "Energy (DOE) to develop two advanced",
-            "supercomputers.",
-            "The overall initiative underscores a",
-            "substantial investment in",
-            "high-performance computing and",
-            "artificial intelligence (AI)",
-            "capabilities for the DOE.",
-            "The sheer scale of the investment ($1",
-            "billion) highlights the critical role",
-            "supercomputing plays in national",
-            "research priorities, particularly in the",
-            "rapidly evolving field of AI.",
-            "This partnership is expected to drive",
-            "advancements in AI research and",
-            "development, leveraging AMD\u0027s",
-            "cutting-edge technology."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T19:16:48.000Z",
-      "ranking": 7.52238476605717,
-      "articleUrl": "https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership"
     },
     {
       "id": "91",
@@ -532,70 +495,114 @@
       "articleUrl": "https://venturebeat.com/ai/paypals-agentic-commerce-play-shows-why-flexibility-not-standards-will"
     },
     {
-      "id": "71",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "MiniMax-M2 LLM",
-      "mediumTitle": "MiniMax-M2: Top Open LLM for Agents",
-      "longTitle": "MiniMax-M2: Leading Open-Source LLM Excelling in Agentic Tool Calling",
+      "id": "85",
+      "topic": "Hardware",
+      "source": "The Verge AI",
+      "shortTitle": "DOE Supercomputers",
+      "mediumTitle": "DOE Invests $1B in Supercomputers",
+      "longTitle": "AMD, Oracle, HPE Partner with DOE for $1B Supercomputers",
       "paragraphs": [
         {
           "Lines": [
-            "MiniMax-M2 is a new open-source large",
-            "language model from Chinese startup",
-            "MiniMax, excelling in agentic tool",
-            "calling and available under a permissive",
-            "MIT License for free commercial use.",
-            "Independent evaluations by Artificial",
-            "Analysis rank MiniMax-M2 as the top",
-            "open-weight system globally on their",
-            "Intelligence Index, a measure of",
-            "reasoning, coding, and task execution.",
-            "In agentic benchmarks, MiniMax-M2",
-            "demonstrates strong performance in",
-            "planning, executing, and using external",
-            "tools, achieving scores comparable to",
-            "proprietary models like GPT-5 and Claude",
-            "Sonnet 4.5."
+            "AMD, in collaboration with Oracle and",
+            "Hewlett Packard Enterprise (HPE), has",
+            "secured a significant $1 billion",
+            "partnership with the US Department of",
+            "Energy (DOE) to develop two advanced",
+            "supercomputers.",
+            "The overall initiative underscores a",
+            "substantial investment in",
+            "high-performance computing and",
+            "artificial intelligence (AI)",
+            "capabilities for the DOE.",
+            "The sheer scale of the investment ($1",
+            "billion) highlights the critical role",
+            "supercomputing plays in national",
+            "research priorities, particularly in the",
+            "rapidly evolving field of AI.",
+            "This partnership is expected to drive",
+            "advancements in AI research and",
+            "development, leveraging AMD\u0027s",
+            "cutting-edge technology."
           ]
         }
       ],
-      "publishedAt": "2025-10-27T20:01:00.000Z",
-      "ranking": 6.935987755079669,
-      "articleUrl": "https://venturebeat.com/ai/minimax-m2-is-the-new-king-of-open-source-llms-especially-for-agentic-tool"
+      "publishedAt": "2025-10-27T19:16:48.000Z",
+      "ranking": 7.152761099660401,
+      "articleUrl": "https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership"
     },
     {
-      "id": "77",
+      "id": "84",
       "topic": "Generative AI",
       "source": "The Verge AI",
-      "shortTitle": "Sora Deepfake Threat",
-      "mediumTitle": "OpenAI\u0027s Sora: Deepfake Detection Challenges",
-      "longTitle": "OpenAI\u0027s Sora AI Video Generator Exposes Deepfake Detection Gaps",
+      "shortTitle": "Grokipedia Launched",
+      "mediumTitle": "Grokipedia Launched, Mimics Wikipedia",
+      "longTitle": "Elon Musk\u0027s Grokipedia Launched, Directly Copies Wikipedia Content",
       "paragraphs": [
         {
           "Lines": [
-            "OpenAI\u0027s new AI video platform, Sora,",
-            "demonstrates significant challenges in",
-            "detecting deepfakes due to its ability",
-            "to create highly detailed and realistic",
-            "videos.",
-            "The AI\u0027s capacity to generate convincing",
-            "visual narratives blurs the lines",
-            "between real and fabricated content,",
-            "making it increasingly difficult for",
-            "both automated systems and human",
-            "observers to distinguish between",
-            "authentic and AI-generated videos.",
-            "The article emphasizes that Sora\u0027s",
-            "advancements in realism mean that even",
-            "sophisticated deepfake detection tools",
-            "are struggling to keep pace."
+            "Notably, the article highlights that",
+            "Grokipedia\u0027s content appears to be",
+            "directly copied from Wikipedia pages.",
+            "Elon Musk\u0027s new AI-powered encyclopedia,",
+            "Grokipedia, has launched and exhibits",
+            "striking similarities to Wikipedia, not",
+            "only in its basic design but also in its",
+            "content.",
+            "The homepage features a prominent search",
+            "bar, and individual entries are",
+            "structured with headings, subheadings,",
+            "and citations, mirroring the familiar",
+            "layout of Wikipedia.",
+            "While the current iteration of",
+            "Grokipedia is described as basic,",
+            "lacking visual elements like",
+            "photographs, its core functionality and",
+            "informational structure are heavily",
+            "influenced by its established",
+            "predecessor."
           ]
         }
       ],
-      "publishedAt": "2025-10-27T13:00:00.000Z",
-      "ranking": 6.728550826456228,
-      "articleUrl": "https://www.theverge.com/report/806359/openai-sora-deepfake-detection-c2pa-content-credentials"
+      "publishedAt": "2025-10-27T21:46:59.000Z",
+      "ranking": 6.965861929925975,
+      "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
+    },
+    {
+      "id": "100",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Copilot AI Expands",
+      "mediumTitle": "Microsoft Copilot: Build Apps with AI",
+      "longTitle": "Microsoft Copilot Gains New AI Tools for App Creation and Automation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft is significantly expanding its",
+            "Copilot AI assistant with new tools, App",
+            "Builder and Workflows, allowing",
+            "employees to create applications and",
+            "automate tasks using natural language",
+            "prompts, without requiring coding",
+            "knowledge.",
+            "The new capabilities transform Copilot",
+            "into a comprehensive development",
+            "environment where users can describe an",
+            "application, such as a project tracker,",
+            "and Copilot will generate a functional",
+            "app with a database, user interface, and",
+            "security controls.",
+            "These features aim to empower the",
+            "estimated 100 million Microsoft 365",
+            "users to develop business tools as",
+            "easily as they create emails or",
+            "spreadsheets."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T21:30:00.000Z",
+      "ranking": 6.826923076923076,
+      "articleUrl": "https://venturebeat.com/ai/microsofts-copilot-can-now-build-apps-and-automate-your-job-heres-how-it"
     },
     {
       "id": "92",
@@ -634,6 +641,105 @@
       "articleUrl": "https://www.theverge.com/news/807802/adobe-express-ai-assistant-prompt-editing-beta-max-2025"
     },
     {
+      "id": "71",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "MiniMax-M2 LLM",
+      "mediumTitle": "MiniMax-M2: Top Open LLM for Agents",
+      "longTitle": "MiniMax-M2: Leading Open-Source LLM Excelling in Agentic Tool Calling",
+      "paragraphs": [
+        {
+          "Lines": [
+            "MiniMax-M2 is a new open-source large",
+            "language model from Chinese startup",
+            "MiniMax, excelling in agentic tool",
+            "calling and available under a permissive",
+            "MIT License for free commercial use.",
+            "Independent evaluations by Artificial",
+            "Analysis rank MiniMax-M2 as the top",
+            "open-weight system globally on their",
+            "Intelligence Index, a measure of",
+            "reasoning, coding, and task execution.",
+            "In agentic benchmarks, MiniMax-M2",
+            "demonstrates strong performance in",
+            "planning, executing, and using external",
+            "tools, achieving scores comparable to",
+            "proprietary models like GPT-5 and Claude",
+            "Sonnet 4.5."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T20:01:00.000Z",
+      "ranking": 6.576546967861246,
+      "articleUrl": "https://venturebeat.com/ai/minimax-m2-is-the-new-king-of-open-source-llms-especially-for-agentic-tool"
+    },
+    {
+      "id": "99",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Grokipedia Launched",
+      "mediumTitle": "Elon Musk\u0027s xAI launches Grokipedia",
+      "longTitle": "Elon Musk\u0027s xAI launches Grokipedia, a Wikipedia-like encyclopedia",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Elon Musk\u0027s xAI has launched Grokipedia,",
+            "an online encyclopedia designed to be",
+            "similar to Wikipedia.",
+            "The core functionality and presentation",
+            "of Grokipedia are directly analogous to",
+            "Wikipedia\u0027s established layout and",
+            "content organization.",
+            "The entries themselves are also",
+            "presented in a rudimentary format,",
+            "mirroring Wikipedia\u0027s structure with",
+            "headings, subheadings, and citations.",
+            "The platform\u0027s current design is",
+            "described as basic, with its homepage",
+            "primarily featuring a search bar.",
+            "As of the article\u0027s writing, no images",
+            "have been observed on Grokipedia."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T21:46:59.000Z",
+      "ranking": 6.50586152909321,
+      "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
+    },
+    {
+      "id": "77",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Sora Deepfake Threat",
+      "mediumTitle": "OpenAI\u0027s Sora: Deepfake Detection Challenges",
+      "longTitle": "OpenAI\u0027s Sora AI Video Generator Exposes Deepfake Detection Gaps",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI\u0027s new AI video platform, Sora,",
+            "demonstrates significant challenges in",
+            "detecting deepfakes due to its ability",
+            "to create highly detailed and realistic",
+            "videos.",
+            "The AI\u0027s capacity to generate convincing",
+            "visual narratives blurs the lines",
+            "between real and fabricated content,",
+            "making it increasingly difficult for",
+            "both automated systems and human",
+            "observers to distinguish between",
+            "authentic and AI-generated videos.",
+            "The article emphasizes that Sora\u0027s",
+            "advancements in realism mean that even",
+            "sophisticated deepfake detection tools",
+            "are struggling to keep pace."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T13:00:00.000Z",
+      "ranking": 6.272115304558541,
+      "articleUrl": "https://www.theverge.com/report/806359/openai-sora-deepfake-detection-c2pa-content-credentials"
+    },
+    {
       "id": "75",
       "topic": "Policy",
       "source": "The Verge AI",
@@ -666,7 +772,7 @@
         }
       ],
       "publishedAt": "2025-10-27T14:51:24.000Z",
-      "ranking": 6.458961620211812,
+      "ranking": 6.028191690191116,
       "articleUrl": "https://www.theverge.com/podcast/807136/lexisnexis-ceo-sean-fitzpatick-ai-lawyer-legal-chatgpt-interview"
     },
     {
@@ -700,7 +806,7 @@
         }
       ],
       "publishedAt": "2025-10-27T11:00:00.000Z",
-      "ranking": 6.287950315489146,
+      "ranking": 5.803867850240949,
       "articleUrl": "https://www.theverge.com/report/806887/clinical-grade-ai-buzzword"
     },
     {
@@ -737,7 +843,7 @@
         }
       ],
       "publishedAt": "2025-10-27T08:43:09.000Z",
-      "ranking": 6.110531005898938,
+      "ranking": 5.594919498219005,
       "articleUrl": "https://www.marktechpost.com/2025/10/27/how-to-build-an-agentic-decision-tree-rag-system-with-intelligent-query-routing-self-checking-and-iterative-refinement/"
     },
     {
@@ -773,7 +879,7 @@
         }
       ],
       "publishedAt": "2025-10-27T17:00:00.000Z",
-      "ranking": 5.775199746431349,
+      "ranking": 5.374058128442648,
       "articleUrl": "https://venturebeat.com/ai/anthropic-rolls-out-claude-ai-for-finance-integrates-with-excel-to-rival"
     },
     {
@@ -809,7 +915,7 @@
         }
       ],
       "publishedAt": "2025-10-27T13:04:33.000Z",
-      "ranking": 5.291710877283704,
+      "ranking": 4.836323639460922,
       "articleUrl": "https://www.theverge.com/news/807078/qualcomm-ai-chips-launch-hexagon-npus"
     },
     {
@@ -846,7 +952,7 @@
         }
       ],
       "publishedAt": "2025-10-27T11:09:54.000Z",
-      "ranking": 5.079552763015192,
+      "ranking": 4.597751167808196,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/806486/if-you-cant-afford-a-vacation-an-ai-app-will-sell-you-pictures-of-one"
     },
     {
@@ -881,7 +987,7 @@
         }
       ],
       "publishedAt": "2025-10-27T00:23:22.000Z",
-      "ranking": 5.010505569047691,
+      "ranking": 4.379748347611772,
       "articleUrl": "https://www.marktechpost.com/2025/10/26/meet-kvcached-a-machine-learning-library-to-enable-virtualized-elastic-kv-cache-for-llm-serving-on-shared-gpus/"
     },
     {
@@ -914,7 +1020,7 @@
         }
       ],
       "publishedAt": "2025-10-27T05:00:00.000Z",
-      "ranking": 4.122209411647162,
+      "ranking": 3.5551860888598563,
       "articleUrl": "https://venturebeat.com/ai/google-cloud-takes-aim-at-coreweave-and-aws-with-managed-slurm-for"
     },
     {
@@ -950,7 +1056,7 @@
         }
       ],
       "publishedAt": "2025-10-26T05:00:00.000Z",
-      "ranking": 0.7727504953774664,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/from-human-clicks-to-machine-intent-preparing-the-web-for-agentic-ai"
     },
     {
@@ -1513,114 +1619,6 @@
       "publishedAt": "2025-10-23T18:42:37.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/10/23/ultracua-a-foundation-computer-use-agents-model-that-bridges-the-gap-between-general-purpose-gui-agents-and-specialized-api-based-agents/"
-    },
-    {
-      "id": "57",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "EA \u0026 Stability AI",
-      "mediumTitle": "EA Partners with Stability AI for Game Dev",
-      "longTitle": "Electronic Arts partners with Stability AI to integrate AI in game development",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Electronic Arts (EA) has announced a",
-            "significant partnership with Stability",
-            "AI, the creators of the Stable Diffusion",
-            "AI image model.",
-            "This collaboration aims to integrate",
-            "artificial intelligence into EA\u0027s game",
-            "development processes, with the goal of",
-            "creating \u0022transformative AI models,",
-            "tools, and workflows.\u0022",
-            "The stated objective is to empower EA\u0027s",
-            "artists, designers, and developers,",
-            "enabling them to \u0022reimagine how content",
-            "is built.\u0022",
-            "The partnership signifies EA\u0027s",
-            "commitment to leveraging cutting-edge AI",
-            "technology to enhance its creative",
-            "capabilities and streamline content",
-            "creation."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-23T18:23:53.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/805777/ea-stability-ai-transformative-game-development-tools"
-    },
-    {
-      "id": "58",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Krafton AI Shift",
-      "mediumTitle": "Krafton Embraces AI First Strategy",
-      "longTitle": "Krafton Adopts \u0027AI First\u0027 Approach for Game Development and Management",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Krafton, the South Korean gaming giant",
-            "renowned for titles like PUBG:",
-            "Battlegrounds and the upcoming Sims-like",
-            "game InZOI, is undergoing a significant",
-            "strategic shift, embracing an \u0027AI First\u0027",
-            "approach across its operations.",
-            "This new directive signifies a deep",
-            "commitment to integrating artificial",
-            "intelligence into various facets of the",
-            "company, aiming to revolutionize its",
-            "development processes and internal",
-            "management.",
-            "At the core of this transformation is",
-            "the planned implementation of agentic",
-            "AI, which is designed to autonomously",
-            "perform tasks and make decisions.",
-            "Krafton intends to leverage agentic AI",
-            "for automating a wide range of work,",
-            "which is expected to streamline",
-            "workflows and enhance efficiency."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-23T16:06:43.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/805509/krafton-pubg-ai-first-developer-agentic-gpu-cluster"
-    },
-    {
-      "id": "8",
-      "topic": "Business",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Failure",
-      "mediumTitle": "AI Failure: Leaders Mismanaging Transformation",
-      "longTitle": "AI Failure: Leaders Mismanaging Transformation, Not Technology",
-      "paragraphs": [
-        {
-          "Lines": [
-            "She attributes this widespread failure",
-            "not to the technology itself, but to a",
-            "fundamental miscategorization by",
-            "business leaders who are treating AI",
-            "transformation like previous technology",
-            "rollouts and delegating it to IT",
-            "departments.",
-            "The statistic that 42% of Fortune 500",
-            "executives believe AI is tearing their",
-            "companies apart suggests they are",
-            "dismantling themselves by clinging to",
-            "outdated models designed for an era of",
-            "scarce execution.",
-            "May Habib, CEO of Writer AI, delivered a",
-            "stark assessment at the TED AI",
-            "conference, revealing that nearly half",
-            "of Fortune 500 executives believe",
-            "artificial intelligence is actively",
-            "harming their organizations."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-23T15:02:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/ai-is-tearing-companies-apart-writer-ai-ceo-slams-fortune-500-leaders-for"
     }
   ]
 }
