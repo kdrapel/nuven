@@ -1,6 +1,43 @@
 {
   "articles": [
     {
+      "id": "85",
+      "topic": "Hardware",
+      "source": "The Verge AI",
+      "shortTitle": "DOE Supercomputers",
+      "mediumTitle": "DOE Invests $1B in Supercomputers",
+      "longTitle": "AMD, Oracle, HPE Partner with DOE for $1B Supercomputers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AMD, in collaboration with Oracle and",
+            "Hewlett Packard Enterprise (HPE), has",
+            "secured a significant $1 billion",
+            "partnership with the US Department of",
+            "Energy (DOE) to develop two advanced",
+            "supercomputers.",
+            "The overall initiative underscores a",
+            "substantial investment in",
+            "high-performance computing and",
+            "artificial intelligence (AI)",
+            "capabilities for the DOE.",
+            "The sheer scale of the investment ($1",
+            "billion) highlights the critical role",
+            "supercomputing plays in national",
+            "research priorities, particularly in the",
+            "rapidly evolving field of AI.",
+            "This partnership is expected to drive",
+            "advancements in AI research and",
+            "development, leveraging AMD\u0027s",
+            "cutting-edge technology."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T19:16:48.000Z",
+      "ranking": 8.585714285714287,
+      "articleUrl": "https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership"
+    },
+    {
       "id": "77",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -32,41 +69,6 @@
       "publishedAt": "2025-10-27T13:00:00.000Z",
       "ranking": 8.399999999999999,
       "articleUrl": "https://www.theverge.com/report/806359/openai-sora-deepfake-detection-c2pa-content-credentials"
-    },
-    {
-      "id": "81",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "kvcached LLM",
-      "mediumTitle": "kvcached: Elastic LLM GPU Memory",
-      "longTitle": "kvcached: Revolutionizing LLM Serving with Elastic KV Caches",
-      "paragraphs": [
-        {
-          "Lines": [
-            "kvcached is a new machine learning",
-            "library designed to address a",
-            "significant inefficiency in large",
-            "language model (LLM) serving: the",
-            "wasteful pre-reservation of GPU memory",
-            "for KV caches.",
-            "By enabling this virtualized and elastic",
-            "KV cache, kvcached promises to",
-            "significantly improve the efficiency of",
-            "LLM serving on shared GPU",
-            "infrastructure.",
-            "This could translate into higher",
-            "throughput, lower latency, and reduced",
-            "operational expenses for organizations",
-            "deploying LLMs at scale.",
-            "The core problem kvcached aims to solve",
-            "is the memory overhead associated with",
-            "KV caches."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T00:23:22.000Z",
-      "ranking": 8.316666666666666,
-      "articleUrl": "https://www.marktechpost.com/2025/10/26/meet-kvcached-a-machine-learning-library-to-enable-virtualized-elastic-kv-cache-for-llm-serving-on-shared-gpus/"
     },
     {
       "id": "80",
@@ -138,6 +140,43 @@
       "publishedAt": "2025-10-27T11:00:00.000Z",
       "ranking": 8.181818181818182,
       "articleUrl": "https://www.theverge.com/report/806887/clinical-grade-ai-buzzword"
+    },
+    {
+      "id": "84",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Grokipedia Launched",
+      "mediumTitle": "Grokipedia Launched, Mimics Wikipedia",
+      "longTitle": "Elon Musk\u0027s Grokipedia Launched, Directly Copies Wikipedia Content",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Notably, the article highlights that",
+            "Grokipedia\u0027s content appears to be",
+            "directly copied from Wikipedia pages.",
+            "Elon Musk\u0027s new AI-powered encyclopedia,",
+            "Grokipedia, has launched and exhibits",
+            "striking similarities to Wikipedia, not",
+            "only in its basic design but also in its",
+            "content.",
+            "The homepage features a prominent search",
+            "bar, and individual entries are",
+            "structured with headings, subheadings,",
+            "and citations, mirroring the familiar",
+            "layout of Wikipedia.",
+            "While the current iteration of",
+            "Grokipedia is described as basic,",
+            "lacking visual elements like",
+            "photographs, its core functionality and",
+            "informational structure are heavily",
+            "influenced by its established",
+            "predecessor."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T21:46:59.000Z",
+      "ranking": 8.16,
+      "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
     },
     {
       "id": "71",
@@ -243,6 +282,41 @@
       "publishedAt": "2025-10-27T17:00:00.000Z",
       "ranking": 7.0434782608695645,
       "articleUrl": "https://venturebeat.com/ai/anthropic-rolls-out-claude-ai-for-finance-integrates-with-excel-to-rival"
+    },
+    {
+      "id": "81",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "kvcached LLM",
+      "mediumTitle": "kvcached: Elastic LLM GPU Memory",
+      "longTitle": "kvcached: Revolutionizing LLM Serving with Elastic KV Caches",
+      "paragraphs": [
+        {
+          "Lines": [
+            "kvcached is a new machine learning",
+            "library designed to address a",
+            "significant inefficiency in large",
+            "language model (LLM) serving: the",
+            "wasteful pre-reservation of GPU memory",
+            "for KV caches.",
+            "By enabling this virtualized and elastic",
+            "KV cache, kvcached promises to",
+            "significantly improve the efficiency of",
+            "LLM serving on shared GPU",
+            "infrastructure.",
+            "This could translate into higher",
+            "throughput, lower latency, and reduced",
+            "operational expenses for organizations",
+            "deploying LLMs at scale.",
+            "The core problem kvcached aims to solve",
+            "is the memory overhead associated with",
+            "KV caches."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T00:23:22.000Z",
+      "ranking": 6.992413014231515,
+      "articleUrl": "https://www.marktechpost.com/2025/10/26/meet-kvcached-a-machine-learning-library-to-enable-virtualized-elastic-kv-cache-for-llm-serving-on-shared-gpus/"
     },
     {
       "id": "76",
@@ -383,7 +457,7 @@
         }
       ],
       "publishedAt": "2025-10-26T05:00:00.000Z",
-      "ranking": 4.458521724299731,
+      "ranking": 3.833232936029946,
       "articleUrl": "https://venturebeat.com/ai/from-human-clicks-to-machine-intent-preparing-the-web-for-agentic-ai"
     },
     {
@@ -418,7 +492,7 @@
         }
       ],
       "publishedAt": "2025-10-25T12:00:00.000Z",
-      "ranking": 1.2662879418938404,
+      "ranking": 0.4048163638801725,
       "articleUrl": "https://www.theverge.com/policy/806425/ice-social-media-surveillance-free-speech-assault"
     },
     {
@@ -452,7 +526,7 @@
         }
       ],
       "publishedAt": "2025-10-25T06:00:00.000Z",
-      "ranking": 1.0203799690120539,
+      "ranking": 0.07554976192182217,
       "articleUrl": "https://venturebeat.com/ai/when-your-ai-browser-becomes-your-enemy-the-comet-security-disaster"
     },
     {
@@ -773,6 +847,42 @@
       "articleUrl": "https://venturebeat.com/ai/googles-watch-and-learn-framework-cracks-the-data-bottleneck-for-training"
     },
     {
+      "id": "66",
+      "topic": "Learning",
+      "source": "Marktechpost AI",
+      "shortTitle": "FLAME AI",
+      "mediumTitle": "Google AI\u0027s FLAME for Object Detection",
+      "longTitle": "Google AI Introduces FLAME for Enhanced Open-Vocabulary Object Detection",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google AI has introduced FLAME (Few-shot",
+            "Learning with Active Model Enhancement),",
+            "a novel one-step active learning",
+            "approach designed to significantly",
+            "improve the performance of",
+            "open-vocabulary object detectors,",
+            "particularly in specialized domains like",
+            "remote sensing.",
+            "The core innovation of FLAME lies in its",
+            "active learning strategy, which",
+            "intelligently identifies and prioritizes",
+            "the most valuable data points for",
+            "training the refiner.",
+            "By focusing on identifying the samples",
+            "that provide the most new information or",
+            "help resolve ambiguities for the model,",
+            "FLAME aims to achieve substantial",
+            "performance gains with minimal",
+            "annotation effort."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-24T00:44:35.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.marktechpost.com/2025/10/23/google-ai-introduces-flame-approach-a-one-step-active-learning-that-selects-the-most-informative-samples-for-training-and-makes-a-model-specialization-super-fast/"
+    },
+    {
       "id": "6",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -1020,6 +1130,42 @@
       "articleUrl": "https://venturebeat.com/ai/ai-is-tearing-companies-apart-writer-ai-ceo-slams-fortune-500-leaders-for"
     },
     {
+      "id": "9",
+      "topic": "Neural Nets",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Research Narrowing",
+      "mediumTitle": "AI Research: A Call for More Exploration",
+      "longTitle": "AI Research Narrowing: Creator of Transformers Calls for More Exploration",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article concludes by highlighting",
+            "the high stakes involved: the next major",
+            "AI breakthrough could be discovered by",
+            "those with the freedom to explore, or it",
+            "could remain undiscovered while",
+            "incremental improvements are pursued on",
+            "an architecture that its own creator is",
+            "\u0027absolutely sick of.\u0027",
+            "Llion Jones, co-author of the seminal",
+            "2017 paper \u0022Attention Is All You Need\u0022",
+            "and the person who coined the term",
+            "\u0022transformer,\u0022 has expressed his",
+            "frustration with the current state of AI",
+            "research.",
+            "His insider perspective, as a creator of",
+            "the dominant architecture, lends",
+            "considerable weight to his call for a",
+            "shift in incentive structures and a",
+            "renewed focus on exploratory research."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers"
+    },
+    {
       "id": "59",
       "topic": "Large Models",
       "source": "The Verge AI",
@@ -1055,42 +1201,6 @@
       "publishedAt": "2025-10-23T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/804124/anthropic-claude-ai-memory-upgrade-all-subscribers"
-    },
-    {
-      "id": "9",
-      "topic": "Neural Nets",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Research Narrowing",
-      "mediumTitle": "AI Research: A Call for More Exploration",
-      "longTitle": "AI Research Narrowing: Creator of Transformers Calls for More Exploration",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article concludes by highlighting",
-            "the high stakes involved: the next major",
-            "AI breakthrough could be discovered by",
-            "those with the freedom to explore, or it",
-            "could remain undiscovered while",
-            "incremental improvements are pursued on",
-            "an architecture that its own creator is",
-            "\u0027absolutely sick of.\u0027",
-            "Llion Jones, co-author of the seminal",
-            "2017 paper \u0022Attention Is All You Need\u0022",
-            "and the person who coined the term",
-            "\u0022transformer,\u0022 has expressed his",
-            "frustration with the current state of AI",
-            "research.",
-            "His insider perspective, as a creator of",
-            "the dominant architecture, lends",
-            "considerable weight to his call for a",
-            "shift in incentive structures and a",
-            "renewed focus on exploratory research."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-23T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers"
     },
     {
       "id": "82",
@@ -1514,74 +1624,6 @@
       "publishedAt": "2025-10-21T19:45:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/googles-new-vibe-coding-ai-studio-experience-lets-anyone-build-deploy-apps"
-    },
-    {
-      "id": "16",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Markovian Thinking",
-      "mediumTitle": "Markovian Thinking for LLMs",
-      "longTitle": "Markovian Thinking: Enhancing LLM Reasoning Efficiency",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Researchers at Mila have introduced a",
-            "novel technique called \u0022Markovian",
-            "Thinking\u0022 designed to significantly",
-            "enhance the efficiency of large language",
-            "models (LLMs) in complex reasoning",
-            "tasks.",
-            "Markovian Thinking, implemented through",
-            "an environment named Delethink,",
-            "circumvents this quadratic problem by",
-            "structuring reasoning into fixed-size",
-            "chunks.",
-            "This strategy decouples the duration of",
-            "the model\u0027s thinking from the amount of",
-            "context it needs to process, effectively",
-            "transforming the quadratic growth into",
-            "linear compute and constant memory",
-            "requirements."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-21T07:12:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/new-markovian-thinking-technique-unlocks-a-path-to-million-token-ai"
-    },
-    {
-      "id": "19",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "OpenAI Browser",
-      "mediumTitle": "OpenAI Launches ChatGPT Atlas Browser",
-      "longTitle": "OpenAI Challenges Chrome with AI-Powered ChatGPT Atlas Browser",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has launched ChatGPT Atlas, an",
-            "AI-enabled web browser designed to",
-            "challenge the dominance of Google",
-            "Chrome.",
-            "Currently available globally on Apple\u0027s",
-            "macOS, with support for Windows, iOS,",
-            "and Android planned for the near future,",
-            "Atlas aims to revolutionize web",
-            "interaction by allowing users to \u0022chat\u0022",
-            "with the browser rather than solely",
-            "relying on typing URLs.",
-            "A significant differentiator for Atlas",
-            "is its integrated chat feature, which",
-            "essentially places ChatGPT on the",
-            "homepage, allowing users to engage in",
-            "conversations with ChatGPT on any",
-            "website they visit."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-21T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/openai-releases-chatgpt-atlas-an-ai-enabled-web-browser-to-challenge-google"
     }
   ]
 }
