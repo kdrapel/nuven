@@ -1,43 +1,6 @@
 {
   "articles": [
     {
-      "id": "85",
-      "topic": "Hardware",
-      "source": "The Verge AI",
-      "shortTitle": "DOE Supercomputers",
-      "mediumTitle": "DOE Invests $1B in Supercomputers",
-      "longTitle": "AMD, Oracle, HPE Partner with DOE for $1B Supercomputers",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AMD, in collaboration with Oracle and",
-            "Hewlett Packard Enterprise (HPE), has",
-            "secured a significant $1 billion",
-            "partnership with the US Department of",
-            "Energy (DOE) to develop two advanced",
-            "supercomputers.",
-            "The overall initiative underscores a",
-            "substantial investment in",
-            "high-performance computing and",
-            "artificial intelligence (AI)",
-            "capabilities for the DOE.",
-            "The sheer scale of the investment ($1",
-            "billion) highlights the critical role",
-            "supercomputing plays in national",
-            "research priorities, particularly in the",
-            "rapidly evolving field of AI.",
-            "This partnership is expected to drive",
-            "advancements in AI research and",
-            "development, leveraging AMD\u0027s",
-            "cutting-edge technology."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T19:16:48.000Z",
-      "ranking": 8.585714285714287,
-      "articleUrl": "https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership"
-    },
-    {
       "id": "84",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -181,39 +144,6 @@
       "articleUrl": "https://www.theverge.com/news/807811/adobe-photoshop-lightroom-premiere-pro-ai-max-2025"
     },
     {
-      "id": "71",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "MiniMax-M2 LLM",
-      "mediumTitle": "MiniMax-M2: Top Open LLM for Agents",
-      "longTitle": "MiniMax-M2: Leading Open-Source LLM Excelling in Agentic Tool Calling",
-      "paragraphs": [
-        {
-          "Lines": [
-            "MiniMax-M2 is a new open-source large",
-            "language model from Chinese startup",
-            "MiniMax, excelling in agentic tool",
-            "calling and available under a permissive",
-            "MIT License for free commercial use.",
-            "Independent evaluations by Artificial",
-            "Analysis rank MiniMax-M2 as the top",
-            "open-weight system globally on their",
-            "Intelligence Index, a measure of",
-            "reasoning, coding, and task execution.",
-            "In agentic benchmarks, MiniMax-M2",
-            "demonstrates strong performance in",
-            "planning, executing, and using external",
-            "tools, achieving scores comparable to",
-            "proprietary models like GPT-5 and Claude",
-            "Sonnet 4.5."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T20:01:00.000Z",
-      "ranking": 7.936956521739131,
-      "articleUrl": "https://venturebeat.com/ai/minimax-m2-is-the-new-king-of-open-source-llms-especially-for-agentic-tool"
-    },
-    {
       "id": "90",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -282,6 +212,38 @@
       "articleUrl": "https://www.theverge.com/news/807825/amazon-job-layoffs-2025-ai"
     },
     {
+      "id": "98",
+      "topic": "Dev Tools",
+      "source": "The Verge AI",
+      "shortTitle": "GitHub AI Agents",
+      "mediumTitle": "GitHub Agent HQ: AI Coding Agents",
+      "longTitle": "GitHub Launches Agent HQ for Third-Party AI Coding Assistants",
+      "paragraphs": [
+        {
+          "Lines": [
+            "GitHub is launching a new initiative",
+            "called \u0022Agent HQ\u0022 to provide developers",
+            "with access to a variety of third-party",
+            "AI coding agents directly within the",
+            "GitHub platform.",
+            "In the coming months, developers will be",
+            "able to utilize agents from prominent AI",
+            "research and development companies,",
+            "including OpenAI\u0027s Codex, Anthropic\u0027s",
+            "Claude, Google\u0027s Jules, xAI, and",
+            "Cognition\u0027s Devin.",
+            "This move signifies a departure from",
+            "relying solely on GitHub Copilot,",
+            "opening up the ecosystem to a broader",
+            "range of AI tools."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T13:10:00.000Z",
+      "ranking": 7.85,
+      "articleUrl": "https://www.theverge.com/news/808032/github-ai-agent-hq-coding-openai-anthropic"
+    },
+    {
       "id": "88",
       "topic": "Finance",
       "source": "VentureBeat AI",
@@ -317,6 +279,39 @@
       "publishedAt": "2025-10-28T13:30:00.000Z",
       "ranking": 7.808333333333334,
       "articleUrl": "https://venturebeat.com/ai/intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in"
+    },
+    {
+      "id": "99",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Grokipedia Launched",
+      "mediumTitle": "Elon Musk\u0027s xAI launches Grokipedia",
+      "longTitle": "Elon Musk\u0027s xAI launches Grokipedia, a Wikipedia-like encyclopedia",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Elon Musk\u0027s xAI has launched Grokipedia,",
+            "an online encyclopedia designed to be",
+            "similar to Wikipedia.",
+            "The core functionality and presentation",
+            "of Grokipedia are directly analogous to",
+            "Wikipedia\u0027s established layout and",
+            "content organization.",
+            "The entries themselves are also",
+            "presented in a rudimentary format,",
+            "mirroring Wikipedia\u0027s structure with",
+            "headings, subheadings, and citations.",
+            "The platform\u0027s current design is",
+            "described as basic, with its homepage",
+            "primarily featuring a search bar.",
+            "As of the article\u0027s writing, no images",
+            "have been observed on Grokipedia."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T21:46:59.000Z",
+      "ranking": 7.699999999999999,
+      "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
     },
     {
       "id": "93",
@@ -356,6 +351,79 @@
       "articleUrl": "https://www.theverge.com/news/807809/adobe-firefly-ai-audio-generate-soundtrack-speech"
     },
     {
+      "id": "96",
+      "topic": "Dev Tools",
+      "source": "VentureBeat AI",
+      "shortTitle": "GitHub Agent HQ",
+      "mediumTitle": "GitHub Agent HQ: AI Agent Management",
+      "longTitle": "GitHub Agent HQ: Unified AI Agent Orchestration and Management",
+      "paragraphs": [
+        {
+          "Lines": [
+            "GitHub\u0027s Agent HQ is a new architecture",
+            "designed to address the growing",
+            "challenge enterprises face with managing",
+            "multiple AI coding agents.",
+            "Instead of offering another proprietary",
+            "agent, GitHub is positioning itself as a",
+            "central control plane, enabling",
+            "developers to orchestrate and manage",
+            "agents from various providers like",
+            "Anthropic, OpenAI, Google, Cognition,",
+            "and xAI within a unified platform.",
+            "Security is paramount, with agents",
+            "operating under strict controls, using",
+            "locked-down GitHub tokens, and confined",
+            "to designated branches within sandboxed",
+            "GitHub Actions environments with",
+            "firewall protections.",
+            "This prevents unauthorized access to",
+            "external networks or data exfiltration."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T17:10:00.000Z",
+      "ranking": 7.59090909090909,
+      "articleUrl": "https://venturebeat.com/ai/githubs-agent-hq-aims-to-solve-enterprises-biggest-ai-coding-problem-too"
+    },
+    {
+      "id": "85",
+      "topic": "Hardware",
+      "source": "The Verge AI",
+      "shortTitle": "DOE Supercomputers",
+      "mediumTitle": "DOE Invests $1B in Supercomputers",
+      "longTitle": "AMD, Oracle, HPE Partner with DOE for $1B Supercomputers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AMD, in collaboration with Oracle and",
+            "Hewlett Packard Enterprise (HPE), has",
+            "secured a significant $1 billion",
+            "partnership with the US Department of",
+            "Energy (DOE) to develop two advanced",
+            "supercomputers.",
+            "The overall initiative underscores a",
+            "substantial investment in",
+            "high-performance computing and",
+            "artificial intelligence (AI)",
+            "capabilities for the DOE.",
+            "The sheer scale of the investment ($1",
+            "billion) highlights the critical role",
+            "supercomputing plays in national",
+            "research priorities, particularly in the",
+            "rapidly evolving field of AI.",
+            "This partnership is expected to drive",
+            "advancements in AI research and",
+            "development, leveraging AMD\u0027s",
+            "cutting-edge technology."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T19:16:48.000Z",
+      "ranking": 7.52238476605717,
+      "articleUrl": "https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership"
+    },
+    {
       "id": "91",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -390,6 +458,41 @@
       "publishedAt": "2025-10-28T09:00:00.000Z",
       "ranking": 7.353846153846153,
       "articleUrl": "https://www.theverge.com/news/807457/adobe-ai-agent-project-moonlight"
+    },
+    {
+      "id": "97",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT PayPal",
+      "mediumTitle": "ChatGPT to Accept PayPal Payments",
+      "longTitle": "ChatGPT to Integrate PayPal for Seamless Service Payments",
+      "paragraphs": [
+        {
+          "Lines": [
+            "ChatGPT will soon allow users to pay for",
+            "services and features using their PayPal",
+            "accounts.",
+            "PayPal announced that starting in 2026,",
+            "users will have the option to integrate",
+            "their PayPal wallet for direct purchases",
+            "within the ChatGPT interface.",
+            "This integration will leverage ChatGPT\u0027s",
+            "recently introduced Instant Checkout",
+            "feature, allowing for a seamless payment",
+            "experience familiar to users who already",
+            "utilize PayPal for online transactions.",
+            "The announcement signifies a move",
+            "towards greater convenience and",
+            "accessibility for ChatGPT users.",
+            "It offers a trusted and widely adopted",
+            "payment method directly within the AI",
+            "chatbot interface."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T13:13:25.000Z",
+      "ranking": 7.333333333333333,
+      "articleUrl": "https://www.theverge.com/news/808079/chatgpt-paypal-openai-acp-purchases"
     },
     {
       "id": "86",
@@ -429,6 +532,39 @@
       "articleUrl": "https://venturebeat.com/ai/paypals-agentic-commerce-play-shows-why-flexibility-not-standards-will"
     },
     {
+      "id": "71",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "MiniMax-M2 LLM",
+      "mediumTitle": "MiniMax-M2: Top Open LLM for Agents",
+      "longTitle": "MiniMax-M2: Leading Open-Source LLM Excelling in Agentic Tool Calling",
+      "paragraphs": [
+        {
+          "Lines": [
+            "MiniMax-M2 is a new open-source large",
+            "language model from Chinese startup",
+            "MiniMax, excelling in agentic tool",
+            "calling and available under a permissive",
+            "MIT License for free commercial use.",
+            "Independent evaluations by Artificial",
+            "Analysis rank MiniMax-M2 as the top",
+            "open-weight system globally on their",
+            "Intelligence Index, a measure of",
+            "reasoning, coding, and task execution.",
+            "In agentic benchmarks, MiniMax-M2",
+            "demonstrates strong performance in",
+            "planning, executing, and using external",
+            "tools, achieving scores comparable to",
+            "proprietary models like GPT-5 and Claude",
+            "Sonnet 4.5."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T20:01:00.000Z",
+      "ranking": 6.935987755079669,
+      "articleUrl": "https://venturebeat.com/ai/minimax-m2-is-the-new-king-of-open-source-llms-especially-for-agentic-tool"
+    },
+    {
       "id": "77",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -458,114 +594,8 @@
         }
       ],
       "publishedAt": "2025-10-27T13:00:00.000Z",
-      "ranking": 7.130411904742199,
+      "ranking": 6.728550826456228,
       "articleUrl": "https://www.theverge.com/report/806359/openai-sora-deepfake-detection-c2pa-content-credentials"
-    },
-    {
-      "id": "72",
-      "topic": "Finance",
-      "source": "VentureBeat AI",
-      "shortTitle": "Claude in Finance",
-      "mediumTitle": "Anthropic Integrates Claude into Excel",
-      "longTitle": "Anthropic\u0027s Claude AI Enhances Financial Services via Excel Integration",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Anthropic is intensifying its efforts in",
-            "the financial services sector by",
-            "integrating its Claude AI assistant",
-            "directly into Microsoft Excel and",
-            "connecting it to real-time market data",
-            "from major financial information",
-            "providers.",
-            "A key feature is the transparency it",
-            "offers by tracking and explaining its",
-            "actions at the cell level, addressing",
-            "the \u0027black box\u0027 problem and building",
-            "trust in an industry where accuracy is",
-            "paramount.",
-            "Anthropic\u0027s focus on Excel integration,",
-            "data partnerships, and pre-packaged",
-            "workflows aims to reduce adoption",
-            "friction, positioning financial services",
-            "as a key market for AI where trust and",
-            "accuracy are paramount."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T17:00:00.000Z",
-      "ranking": 7.0434782608695645,
-      "articleUrl": "https://venturebeat.com/ai/anthropic-rolls-out-claude-ai-for-finance-integrates-with-excel-to-rival"
-    },
-    {
-      "id": "75",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI Law Era",
-      "mediumTitle": "LexisNexis CEO: AI Law Era Begins",
-      "longTitle": "LexisNexis CEO Sean Fitzpatrick Declares the AI Law Era Has Begun",
-      "paragraphs": [
-        {
-          "Lines": [
-            "LexisNexis CEO Sean Fitzpatrick asserts",
-            "that the \u0027AI law era\u0027 has already",
-            "commenced, emphasizing the",
-            "transformative impact of artificial",
-            "intelligence on the legal profession.",
-            "The CEO\u0027s pronouncement signifies a",
-            "pivotal moment, indicating that legal",
-            "practices and services are actively",
-            "evolving to incorporate AI capabilities.",
-            "The article implies that AI is no longer",
-            "a future concept in law but a present",
-            "reality, fundamentally altering how",
-            "legal professionals operate.",
-            "The interview with Sean Fitzpatrick will",
-            "explore the current state of AI adoption",
-            "in law, the benefits and challenges",
-            "associated with this integration, and",
-            "the future trajectory of legal",
-            "technology driven by AI."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T14:51:24.000Z",
-      "ranking": 6.835125598694329,
-      "articleUrl": "https://www.theverge.com/podcast/807136/lexisnexis-ceo-sean-fitzpatick-ai-lawyer-legal-chatgpt-interview"
-    },
-    {
-      "id": "79",
-      "topic": "Health",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0027Clinical\u0027 Claims",
-      "mediumTitle": "Critique of \u0027Clinical-Grade AI\u0027 Terminology",
-      "longTitle": "Article critiques the misleading use of \u0027clinical-grade AI\u0027 as a marketing buzzword.",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article critiques the increasingly",
-            "common, yet ultimately meaningless, use",
-            "of the term \u0027clinical-grade AI\u0027.",
-            "There is no standardized definition or",
-            "regulatory framework for what",
-            "constitutes \u0027clinical-grade AI\u0027, making",
-            "the label subjective and potentially",
-            "deceptive.",
-            "The term \u0027clinical\u0027 is misleading as",
-            "these AI applications do not necessarily",
-            "meet established medical standards or",
-            "undergo rigorous validation.",
-            "Companies use \u0027clinical-grade\u0027 to market",
-            "AI products, especially in mental",
-            "health, by associating them with the",
-            "perceived authority of the medical",
-            "field."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T11:00:00.000Z",
-      "ranking": 6.717492291328242,
-      "articleUrl": "https://www.theverge.com/report/806887/clinical-grade-ai-buzzword"
     },
     {
       "id": "92",
@@ -604,6 +634,76 @@
       "articleUrl": "https://www.theverge.com/news/807802/adobe-express-ai-assistant-prompt-editing-beta-max-2025"
     },
     {
+      "id": "75",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Law Era",
+      "mediumTitle": "LexisNexis CEO: AI Law Era Begins",
+      "longTitle": "LexisNexis CEO Sean Fitzpatrick Declares the AI Law Era Has Begun",
+      "paragraphs": [
+        {
+          "Lines": [
+            "LexisNexis CEO Sean Fitzpatrick asserts",
+            "that the \u0027AI law era\u0027 has already",
+            "commenced, emphasizing the",
+            "transformative impact of artificial",
+            "intelligence on the legal profession.",
+            "The CEO\u0027s pronouncement signifies a",
+            "pivotal moment, indicating that legal",
+            "practices and services are actively",
+            "evolving to incorporate AI capabilities.",
+            "The article implies that AI is no longer",
+            "a future concept in law but a present",
+            "reality, fundamentally altering how",
+            "legal professionals operate.",
+            "The interview with Sean Fitzpatrick will",
+            "explore the current state of AI adoption",
+            "in law, the benefits and challenges",
+            "associated with this integration, and",
+            "the future trajectory of legal",
+            "technology driven by AI."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T14:51:24.000Z",
+      "ranking": 6.458961620211812,
+      "articleUrl": "https://www.theverge.com/podcast/807136/lexisnexis-ceo-sean-fitzpatick-ai-lawyer-legal-chatgpt-interview"
+    },
+    {
+      "id": "79",
+      "topic": "Health",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0027Clinical\u0027 Claims",
+      "mediumTitle": "Critique of \u0027Clinical-Grade AI\u0027 Terminology",
+      "longTitle": "Article critiques the misleading use of \u0027clinical-grade AI\u0027 as a marketing buzzword.",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article critiques the increasingly",
+            "common, yet ultimately meaningless, use",
+            "of the term \u0027clinical-grade AI\u0027.",
+            "There is no standardized definition or",
+            "regulatory framework for what",
+            "constitutes \u0027clinical-grade AI\u0027, making",
+            "the label subjective and potentially",
+            "deceptive.",
+            "The term \u0027clinical\u0027 is misleading as",
+            "these AI applications do not necessarily",
+            "meet established medical standards or",
+            "undergo rigorous validation.",
+            "Companies use \u0027clinical-grade\u0027 to market",
+            "AI products, especially in mental",
+            "health, by associating them with the",
+            "perceived authority of the medical",
+            "field."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T11:00:00.000Z",
+      "ranking": 6.287950315489146,
+      "articleUrl": "https://www.theverge.com/report/806887/clinical-grade-ai-buzzword"
+    },
+    {
       "id": "80",
       "topic": "Generative AI",
       "source": "Marktechpost AI",
@@ -637,8 +737,44 @@
         }
       ],
       "publishedAt": "2025-10-27T08:43:09.000Z",
-      "ranking": 6.571640736248436,
+      "ranking": 6.110531005898938,
       "articleUrl": "https://www.marktechpost.com/2025/10/27/how-to-build-an-agentic-decision-tree-rag-system-with-intelligent-query-routing-self-checking-and-iterative-refinement/"
+    },
+    {
+      "id": "72",
+      "topic": "Finance",
+      "source": "VentureBeat AI",
+      "shortTitle": "Claude in Finance",
+      "mediumTitle": "Anthropic Integrates Claude into Excel",
+      "longTitle": "Anthropic\u0027s Claude AI Enhances Financial Services via Excel Integration",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Anthropic is intensifying its efforts in",
+            "the financial services sector by",
+            "integrating its Claude AI assistant",
+            "directly into Microsoft Excel and",
+            "connecting it to real-time market data",
+            "from major financial information",
+            "providers.",
+            "A key feature is the transparency it",
+            "offers by tracking and explaining its",
+            "actions at the cell level, addressing",
+            "the \u0027black box\u0027 problem and building",
+            "trust in an industry where accuracy is",
+            "paramount.",
+            "Anthropic\u0027s focus on Excel integration,",
+            "data partnerships, and pre-packaged",
+            "workflows aims to reduce adoption",
+            "friction, positioning financial services",
+            "as a key market for AI where trust and",
+            "accuracy are paramount."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T17:00:00.000Z",
+      "ranking": 5.775199746431349,
+      "articleUrl": "https://venturebeat.com/ai/anthropic-rolls-out-claude-ai-for-finance-integrates-with-excel-to-rival"
     },
     {
       "id": "76",
@@ -673,43 +809,8 @@
         }
       ],
       "publishedAt": "2025-10-27T13:04:33.000Z",
-      "ranking": 5.692522394249831,
+      "ranking": 5.291710877283704,
       "articleUrl": "https://www.theverge.com/news/807078/qualcomm-ai-chips-launch-hexagon-npus"
-    },
-    {
-      "id": "81",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "kvcached LLM",
-      "mediumTitle": "kvcached: Elastic LLM GPU Memory",
-      "longTitle": "kvcached: Revolutionizing LLM Serving with Elastic KV Caches",
-      "paragraphs": [
-        {
-          "Lines": [
-            "kvcached is a new machine learning",
-            "library designed to address a",
-            "significant inefficiency in large",
-            "language model (LLM) serving: the",
-            "wasteful pre-reservation of GPU memory",
-            "for KV caches.",
-            "By enabling this virtualized and elastic",
-            "KV cache, kvcached promises to",
-            "significantly improve the efficiency of",
-            "LLM serving on shared GPU",
-            "infrastructure.",
-            "This could translate into higher",
-            "throughput, lower latency, and reduced",
-            "operational expenses for organizations",
-            "deploying LLMs at scale.",
-            "The core problem kvcached aims to solve",
-            "is the memory overhead associated with",
-            "KV caches."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T00:23:22.000Z",
-      "ranking": 5.586902403808397,
-      "articleUrl": "https://www.marktechpost.com/2025/10/26/meet-kvcached-a-machine-learning-library-to-enable-virtualized-elastic-kv-cache-for-llm-serving-on-shared-gpus/"
     },
     {
       "id": "78",
@@ -745,8 +846,43 @@
         }
       ],
       "publishedAt": "2025-10-27T11:09:54.000Z",
-      "ranking": 5.5068110690822225,
+      "ranking": 5.079552763015192,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/806486/if-you-cant-afford-a-vacation-an-ai-app-will-sell-you-pictures-of-one"
+    },
+    {
+      "id": "81",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "kvcached LLM",
+      "mediumTitle": "kvcached: Elastic LLM GPU Memory",
+      "longTitle": "kvcached: Revolutionizing LLM Serving with Elastic KV Caches",
+      "paragraphs": [
+        {
+          "Lines": [
+            "kvcached is a new machine learning",
+            "library designed to address a",
+            "significant inefficiency in large",
+            "language model (LLM) serving: the",
+            "wasteful pre-reservation of GPU memory",
+            "for KV caches.",
+            "By enabling this virtualized and elastic",
+            "KV cache, kvcached promises to",
+            "significantly improve the efficiency of",
+            "LLM serving on shared GPU",
+            "infrastructure.",
+            "This could translate into higher",
+            "throughput, lower latency, and reduced",
+            "operational expenses for organizations",
+            "deploying LLMs at scale.",
+            "The core problem kvcached aims to solve",
+            "is the memory overhead associated with",
+            "KV caches."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T00:23:22.000Z",
+      "ranking": 5.010505569047691,
+      "articleUrl": "https://www.marktechpost.com/2025/10/26/meet-kvcached-a-machine-learning-library-to-enable-virtualized-elastic-kv-cache-for-llm-serving-on-shared-gpus/"
     },
     {
       "id": "73",
@@ -778,7 +914,7 @@
         }
       ],
       "publishedAt": "2025-10-27T05:00:00.000Z",
-      "ranking": 4.634794087808942,
+      "ranking": 4.122209411647162,
       "articleUrl": "https://venturebeat.com/ai/google-cloud-takes-aim-at-coreweave-and-aws-with-managed-slurm-for"
     },
     {
@@ -814,7 +950,7 @@
         }
       ],
       "publishedAt": "2025-10-26T05:00:00.000Z",
-      "ranking": 1.6175059380436245,
+      "ranking": 0.7727504953774664,
       "articleUrl": "https://venturebeat.com/ai/from-human-clicks-to-machine-intent-preparing-the-web-for-agentic-ai"
     },
     {
@@ -1485,150 +1621,6 @@
       "publishedAt": "2025-10-23T15:02:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/ai-is-tearing-companies-apart-writer-ai-ceo-slams-fortune-500-leaders-for"
-    },
-    {
-      "id": "59",
-      "topic": "Large Models",
-      "source": "The Verge AI",
-      "shortTitle": "Claude AI Memory",
-      "mediumTitle": "Claude AI Gains Conversation Memory",
-      "longTitle": "Anthropic\u0027s Claude AI Now Remembers Past Conversations",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Anthropic is introducing a significant",
-            "upgrade to its Claude AI chatbot,",
-            "enabling it to \u0027remember\u0027 past",
-            "conversations without requiring users to",
-            "re-prompt it.",
-            "The memory feature will allow Claude to",
-            "retain information from previous",
-            "interactions, leading to a more seamless",
-            "and efficient user experience.",
-            "This new \u0027memory\u0027 feature is being",
-            "rolled out to all paid subscribers,",
-            "aiming to enhance Claude\u0027s usefulness",
-            "and convenience.",
-            "Starting today, users with Max",
-            "subscriptions can activate Claude\u0027s",
-            "memory functionality through their",
-            "settings.",
-            "This capability is crucial for building",
-            "more sophisticated AI assistants that",
-            "can engage in extended dialogues."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-23T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/804124/anthropic-claude-ai-memory-upgrade-all-subscribers"
-    },
-    {
-      "id": "9",
-      "topic": "Neural Nets",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Research Narrowing",
-      "mediumTitle": "AI Research: A Call for More Exploration",
-      "longTitle": "AI Research Narrowing: Creator of Transformers Calls for More Exploration",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article concludes by highlighting",
-            "the high stakes involved: the next major",
-            "AI breakthrough could be discovered by",
-            "those with the freedom to explore, or it",
-            "could remain undiscovered while",
-            "incremental improvements are pursued on",
-            "an architecture that its own creator is",
-            "\u0027absolutely sick of.\u0027",
-            "Llion Jones, co-author of the seminal",
-            "2017 paper \u0022Attention Is All You Need\u0022",
-            "and the person who coined the term",
-            "\u0022transformer,\u0022 has expressed his",
-            "frustration with the current state of AI",
-            "research.",
-            "His insider perspective, as a creator of",
-            "the dominant architecture, lends",
-            "considerable weight to his call for a",
-            "shift in incentive structures and a",
-            "renewed focus on exploratory research."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-23T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers"
-    },
-    {
-      "id": "60",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Mico AI Assistant",
-      "mediumTitle": "Microsoft Revives AI Assistant Idea",
-      "longTitle": "Microsoft Introduces Mico, A Modern AI Assistant Inspired by Clippy",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft has introduced \u0022Mico,\u0022 an",
-            "AI-powered assistant that draws",
-            "inspiration from its infamous Office",
-            "assistant, Clippy.",
-            "Mico is presented as a modern iteration,",
-            "leveraging advancements in artificial",
-            "intelligence.",
-            "Mico represents Microsoft\u0027s latest",
-            "effort to revive the idea of an AI",
-            "assistant.",
-            "The new assistant aims to provide",
-            "helpful support and guidance, presumably",
-            "within Microsoft\u0027s ecosystem of products",
-            "and services.",
-            "Mico is intended to offer a more",
-            "sophisticated and less intrusive user",
-            "experience compared to the",
-            "often-criticized Clippy."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-23T14:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy"
-    },
-    {
-      "id": "82",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Copilot Upgrades",
-      "mediumTitle": "Copilot AI Gets New Features",
-      "longTitle": "Microsoft Enhances Copilot AI with \u0027Real Talk\u0027, Groups, and Memory",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft is enhancing its Copilot AI",
-            "assistant with several new features",
-            "aimed at improving user interaction and",
-            "functionality.",
-            "These updates include a \u0022real talk\u0022",
-            "mode, a group chat feature, and memory",
-            "capabilities.",
-            "This means the AI will be able to learn",
-            "and retain information about individual",
-            "users over time.",
-            "A significant addition is the Copilot",
-            "Groups feature, which enables multiple",
-            "users to participate in a single Copilot",
-            "chat.",
-            "This personalization is expected to lead",
-            "to more relevant and tailored",
-            "interactions, as Copilot will have",
-            "context about user preferences, past",
-            "conversations, or specific projects."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-23T14:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/804122/microsoft-copilot-real-talk-mode-group-chats-features"
     }
   ]
 }
