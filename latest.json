@@ -71,77 +71,6 @@
       "articleUrl": "https://www.theverge.com/report/806359/openai-sora-deepfake-detection-c2pa-content-credentials"
     },
     {
-      "id": "80",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Agentic RAG System",
-      "mediumTitle": "Advanced Agentic RAG System Build",
-      "longTitle": "Building an Agentic Decision-Tree RAG System",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This article details how to build an",
-            "advanced Retrieval-Augmented Generation",
-            "(RAG) system with agentic capabilities,",
-            "featuring intelligent query routing,",
-            "self-checking, and iterative refinement.",
-            "A self-checking mechanism evaluates the",
-            "quality and accuracy of the system\u0027s",
-            "generated answers, potentially by",
-            "comparing against retrieved information",
-            "or checking factual consistency.",
-            "In essence, the tutorial describes a RAG",
-            "system that acts as an active agent",
-            "making intelligent decisions about",
-            "information retrieval and output",
-            "improvement.",
-            "Iterative refinement allows the system",
-            "to go through multiple cycles of",
-            "retrieval, generation, and self-checking",
-            "to progressively enhance response",
-            "accuracy and completeness."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T08:43:09.000Z",
-      "ranking": 8.275,
-      "articleUrl": "https://www.marktechpost.com/2025/10/27/how-to-build-an-agentic-decision-tree-rag-system-with-intelligent-query-routing-self-checking-and-iterative-refinement/"
-    },
-    {
-      "id": "79",
-      "topic": "Health",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0027Clinical\u0027 Claims",
-      "mediumTitle": "Critique of \u0027Clinical-Grade AI\u0027 Terminology",
-      "longTitle": "Article critiques the misleading use of \u0027clinical-grade AI\u0027 as a marketing buzzword.",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article critiques the increasingly",
-            "common, yet ultimately meaningless, use",
-            "of the term \u0027clinical-grade AI\u0027.",
-            "There is no standardized definition or",
-            "regulatory framework for what",
-            "constitutes \u0027clinical-grade AI\u0027, making",
-            "the label subjective and potentially",
-            "deceptive.",
-            "The term \u0027clinical\u0027 is misleading as",
-            "these AI applications do not necessarily",
-            "meet established medical standards or",
-            "undergo rigorous validation.",
-            "Companies use \u0027clinical-grade\u0027 to market",
-            "AI products, especially in mental",
-            "health, by associating them with the",
-            "perceived authority of the medical",
-            "field."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T11:00:00.000Z",
-      "ranking": 8.181818181818182,
-      "articleUrl": "https://www.theverge.com/report/806887/clinical-grade-ai-buzzword"
-    },
-    {
       "id": "84",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -177,6 +106,40 @@
       "publishedAt": "2025-10-27T21:46:59.000Z",
       "ranking": 8.16,
       "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
+    },
+    {
+      "id": "87",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "Glyph AI",
+      "mediumTitle": "Zhipu AI\u0027s Glyph for LLMs",
+      "longTitle": "Zhipu AI\u0027s Glyph: Visual-Text Compression for LLMs",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Zhipu AI has introduced \u0022Glyph,\u0022 an",
+            "innovative AI framework designed to",
+            "significantly enhance the context length",
+            "capabilities of large language models",
+            "(LLMs) by employing a novel visual-text",
+            "compression technique.",
+            "The research team at Zhipu AI has",
+            "demonstrated that this visual-text",
+            "compression method can scale a 128K",
+            "context window towards the challenging",
+            "1M-token workload without compromising",
+            "the model\u0027s ability to understand and",
+            "generate accurate responses.",
+            "The core idea behind Glyph is to",
+            "represent lengthy textual sequences as",
+            "images, which can then be processed by",
+            "Vision-Language Models (VLMs)."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T09:35:08.000Z",
+      "ranking": 8.1,
+      "articleUrl": "https://www.marktechpost.com/2025/10/28/zhipu-ai-releases-glyph-an-ai-framework-for-scaling-the-context-length-through-visual-text-compression/"
     },
     {
       "id": "71",
@@ -248,6 +211,77 @@
       "articleUrl": "https://www.theverge.com/podcast/807136/lexisnexis-ceo-sean-fitzpatick-ai-lawyer-legal-chatgpt-interview"
     },
     {
+      "id": "86",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "PayPal AI Commerce",
+      "mediumTitle": "PayPal\u0027s New Agentic Commerce Services",
+      "longTitle": "PayPal Launches Agentic Commerce Services for AI-Driven Transactions",
+      "paragraphs": [
+        {
+          "Lines": [
+            "PayPal is launching new features to help",
+            "businesses adapt to the emerging",
+            "landscape of agentic commerce, which",
+            "involves AI agents facilitating",
+            "transactions.",
+            "\u0022Agent Ready,\u0022 slated for release in",
+            "2026, will enable existing PayPal",
+            "merchants to accept payments directly on",
+            "AI platforms.",
+            "Shop Sync integrates a company\u0027s",
+            "catalog, inventory, and fulfillment data",
+            "into a central repository that AI models",
+            "can access.",
+            "\u0022Shop Sync,\u0022 available now, allows",
+            "companies to make their product data",
+            "discoverable across various AI chat",
+            "interfaces.",
+            "The company\u0027s new \u0022Agentic Commerce",
+            "Services\u0022 include two main components:",
+            "\u0022Agent Ready\u0022 and \u0022Shop Sync.\u0022"
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T05:00:00.000Z",
+      "ranking": 7.306666666666667,
+      "articleUrl": "https://venturebeat.com/ai/paypals-agentic-commerce-play-shows-why-flexibility-not-standards-will"
+    },
+    {
+      "id": "79",
+      "topic": "Health",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0027Clinical\u0027 Claims",
+      "mediumTitle": "Critique of \u0027Clinical-Grade AI\u0027 Terminology",
+      "longTitle": "Article critiques the misleading use of \u0027clinical-grade AI\u0027 as a marketing buzzword.",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article critiques the increasingly",
+            "common, yet ultimately meaningless, use",
+            "of the term \u0027clinical-grade AI\u0027.",
+            "There is no standardized definition or",
+            "regulatory framework for what",
+            "constitutes \u0027clinical-grade AI\u0027, making",
+            "the label subjective and potentially",
+            "deceptive.",
+            "The term \u0027clinical\u0027 is misleading as",
+            "these AI applications do not necessarily",
+            "meet established medical standards or",
+            "undergo rigorous validation.",
+            "Companies use \u0027clinical-grade\u0027 to market",
+            "AI products, especially in mental",
+            "health, by associating them with the",
+            "perceived authority of the medical",
+            "field."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T11:00:00.000Z",
+      "ranking": 7.095947992610354,
+      "articleUrl": "https://www.theverge.com/report/806887/clinical-grade-ai-buzzword"
+    },
+    {
       "id": "72",
       "topic": "Finance",
       "source": "VentureBeat AI",
@@ -282,6 +316,43 @@
       "publishedAt": "2025-10-27T17:00:00.000Z",
       "ranking": 7.0434782608695645,
       "articleUrl": "https://venturebeat.com/ai/anthropic-rolls-out-claude-ai-for-finance-integrates-with-excel-to-rival"
+    },
+    {
+      "id": "80",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "Agentic RAG System",
+      "mediumTitle": "Advanced Agentic RAG System Build",
+      "longTitle": "Building an Agentic Decision-Tree RAG System",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This article details how to build an",
+            "advanced Retrieval-Augmented Generation",
+            "(RAG) system with agentic capabilities,",
+            "featuring intelligent query routing,",
+            "self-checking, and iterative refinement.",
+            "A self-checking mechanism evaluates the",
+            "quality and accuracy of the system\u0027s",
+            "generated answers, potentially by",
+            "comparing against retrieved information",
+            "or checking factual consistency.",
+            "In essence, the tutorial describes a RAG",
+            "system that acts as an active agent",
+            "making intelligent decisions about",
+            "information retrieval and output",
+            "improvement.",
+            "Iterative refinement allows the system",
+            "to go through multiple cycles of",
+            "retrieval, generation, and self-checking",
+            "to progressively enhance response",
+            "accuracy and completeness."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T08:43:09.000Z",
+      "ranking": 6.982035750744129,
+      "articleUrl": "https://www.marktechpost.com/2025/10/27/how-to-build-an-agentic-decision-tree-rag-system-with-intelligent-query-routing-self-checking-and-iterative-refinement/"
     },
     {
       "id": "76",
@@ -320,6 +391,41 @@
       "articleUrl": "https://www.theverge.com/news/807078/qualcomm-ai-chips-launch-hexagon-npus"
     },
     {
+      "id": "81",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "kvcached LLM",
+      "mediumTitle": "kvcached: Elastic LLM GPU Memory",
+      "longTitle": "kvcached: Revolutionizing LLM Serving with Elastic KV Caches",
+      "paragraphs": [
+        {
+          "Lines": [
+            "kvcached is a new machine learning",
+            "library designed to address a",
+            "significant inefficiency in large",
+            "language model (LLM) serving: the",
+            "wasteful pre-reservation of GPU memory",
+            "for KV caches.",
+            "By enabling this virtualized and elastic",
+            "KV cache, kvcached promises to",
+            "significantly improve the efficiency of",
+            "LLM serving on shared GPU",
+            "infrastructure.",
+            "This could translate into higher",
+            "throughput, lower latency, and reduced",
+            "operational expenses for organizations",
+            "deploying LLMs at scale.",
+            "The core problem kvcached aims to solve",
+            "is the memory overhead associated with",
+            "KV caches."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T00:23:22.000Z",
+      "ranking": 6.113942821546813,
+      "articleUrl": "https://www.marktechpost.com/2025/10/26/meet-kvcached-a-machine-learning-library-to-enable-virtualized-elastic-kv-cache-for-llm-serving-on-shared-gpus/"
+    },
+    {
       "id": "78",
       "topic": "Art",
       "source": "The Verge AI",
@@ -353,43 +459,8 @@
         }
       ],
       "publishedAt": "2025-10-27T11:09:54.000Z",
-      "ranking": 6.954545454545454,
+      "ranking": 5.882955810655362,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/806486/if-you-cant-afford-a-vacation-an-ai-app-will-sell-you-pictures-of-one"
-    },
-    {
-      "id": "81",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "kvcached LLM",
-      "mediumTitle": "kvcached: Elastic LLM GPU Memory",
-      "longTitle": "kvcached: Revolutionizing LLM Serving with Elastic KV Caches",
-      "paragraphs": [
-        {
-          "Lines": [
-            "kvcached is a new machine learning",
-            "library designed to address a",
-            "significant inefficiency in large",
-            "language model (LLM) serving: the",
-            "wasteful pre-reservation of GPU memory",
-            "for KV caches.",
-            "By enabling this virtualized and elastic",
-            "KV cache, kvcached promises to",
-            "significantly improve the efficiency of",
-            "LLM serving on shared GPU",
-            "infrastructure.",
-            "This could translate into higher",
-            "throughput, lower latency, and reduced",
-            "operational expenses for organizations",
-            "deploying LLMs at scale.",
-            "The core problem kvcached aims to solve",
-            "is the memory overhead associated with",
-            "KV caches."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T00:23:22.000Z",
-      "ranking": 6.581441320902144,
-      "articleUrl": "https://www.marktechpost.com/2025/10/26/meet-kvcached-a-machine-learning-library-to-enable-virtualized-elastic-kv-cache-for-llm-serving-on-shared-gpus/"
     },
     {
       "id": "73",
@@ -421,7 +492,7 @@
         }
       ],
       "publishedAt": "2025-10-27T05:00:00.000Z",
-      "ranking": 5.5006522821069925,
+      "ranking": 5.097270509459359,
       "articleUrl": "https://venturebeat.com/ai/google-cloud-takes-aim-at-coreweave-and-aws-with-managed-slurm-for"
     },
     {
@@ -457,7 +528,7 @@
         }
       ],
       "publishedAt": "2025-10-26T05:00:00.000Z",
-      "ranking": 3.153204728068811,
+      "ranking": 2.4160667545503465,
       "articleUrl": "https://venturebeat.com/ai/from-human-clicks-to-machine-intent-preparing-the-web-for-agentic-ai"
     },
     {
@@ -1130,6 +1201,42 @@
       "articleUrl": "https://venturebeat.com/ai/ai-is-tearing-companies-apart-writer-ai-ceo-slams-fortune-500-leaders-for"
     },
     {
+      "id": "9",
+      "topic": "Neural Nets",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Research Narrowing",
+      "mediumTitle": "AI Research: A Call for More Exploration",
+      "longTitle": "AI Research Narrowing: Creator of Transformers Calls for More Exploration",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article concludes by highlighting",
+            "the high stakes involved: the next major",
+            "AI breakthrough could be discovered by",
+            "those with the freedom to explore, or it",
+            "could remain undiscovered while",
+            "incremental improvements are pursued on",
+            "an architecture that its own creator is",
+            "\u0027absolutely sick of.\u0027",
+            "Llion Jones, co-author of the seminal",
+            "2017 paper \u0022Attention Is All You Need\u0022",
+            "and the person who coined the term",
+            "\u0022transformer,\u0022 has expressed his",
+            "frustration with the current state of AI",
+            "research.",
+            "His insider perspective, as a creator of",
+            "the dominant architecture, lends",
+            "considerable weight to his call for a",
+            "shift in incentive structures and a",
+            "renewed focus on exploratory research."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers"
+    },
+    {
       "id": "59",
       "topic": "Large Models",
       "source": "The Verge AI",
@@ -1165,42 +1272,6 @@
       "publishedAt": "2025-10-23T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/804124/anthropic-claude-ai-memory-upgrade-all-subscribers"
-    },
-    {
-      "id": "9",
-      "topic": "Neural Nets",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Research Narrowing",
-      "mediumTitle": "AI Research: A Call for More Exploration",
-      "longTitle": "AI Research Narrowing: Creator of Transformers Calls for More Exploration",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article concludes by highlighting",
-            "the high stakes involved: the next major",
-            "AI breakthrough could be discovered by",
-            "those with the freedom to explore, or it",
-            "could remain undiscovered while",
-            "incremental improvements are pursued on",
-            "an architecture that its own creator is",
-            "\u0027absolutely sick of.\u0027",
-            "Llion Jones, co-author of the seminal",
-            "2017 paper \u0022Attention Is All You Need\u0022",
-            "and the person who coined the term",
-            "\u0022transformer,\u0022 has expressed his",
-            "frustration with the current state of AI",
-            "research.",
-            "His insider perspective, as a creator of",
-            "the dominant architecture, lends",
-            "considerable weight to his call for a",
-            "shift in incentive structures and a",
-            "renewed focus on exploratory research."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-23T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers"
     },
     {
       "id": "60",
@@ -1554,76 +1625,6 @@
       "publishedAt": "2025-10-21T20:32:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/qwens-new-deep-research-update-lets-you-turn-its-reports-into-webpages"
-    },
-    {
-      "id": "14",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "DeepSeek OCR",
-      "mediumTitle": "DeepSeek OCR: Visual Text Compression",
-      "longTitle": "DeepSeek OCR: Visual Text Compression for LLMs",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The model achieves a significant",
-            "compression of text by representing it",
-            "visually, achieving up to 10 times",
-            "greater efficiency than traditional text",
-            "tokens.",
-            "DeepSeek has released an open-source",
-            "model, DeepSeek-OCR, that fundamentally",
-            "challenges conventional approaches to",
-            "processing information in large language",
-            "models (LLMs).",
-            "This breakthrough has the potential to",
-            "enable LLMs with dramatically expanded",
-            "context windows, possibly reaching tens",
-            "of millions of tokens.",
-            "Researchers found that when the number",
-            "of text tokens is up to 10 times that of",
-            "vision tokens (a compression ratio less",
-            "than 10x), the model can achieve",
-            "decoding (OCR) precision of 97%."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-21T20:30:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/deepseek-drops-open-source-model-that-compresses-text-10x-through-images"
-    },
-    {
-      "id": "15",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Google AI Studio Vibe Coding",
-      "mediumTitle": "Google AI Studio Introduces Vibe Coding",
-      "longTitle": "Google AI Studio\u0027s Vibe Coding Democratizes AI App Development",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google AI Studio has undergone a",
-            "significant transformation with the",
-            "introduction of \u0022vibe coding,\u0022 a new",
-            "experience designed to empower",
-            "individuals of all technical",
-            "backgrounds, including complete novices,",
-            "to build and deploy web applications in",
-            "minutes.",
-            "A core objective of vibe coding is to",
-            "democratize AI app development,",
-            "supporting both high-level visual",
-            "building and low-level code editing to",
-            "cater to developers of all skill levels.",
-            "The new vibe coding experience is free",
-            "to start, with no credit card required",
-            "for experimentation, prototyping, or",
-            "building lightweight apps."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-21T19:45:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/googles-new-vibe-coding-ai-studio-experience-lets-anyone-build-deploy-apps"
     }
   ]
 }
