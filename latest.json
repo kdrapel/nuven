@@ -284,41 +284,6 @@
       "articleUrl": "https://venturebeat.com/ai/anthropic-rolls-out-claude-ai-for-finance-integrates-with-excel-to-rival"
     },
     {
-      "id": "81",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "kvcached LLM",
-      "mediumTitle": "kvcached: Elastic LLM GPU Memory",
-      "longTitle": "kvcached: Revolutionizing LLM Serving with Elastic KV Caches",
-      "paragraphs": [
-        {
-          "Lines": [
-            "kvcached is a new machine learning",
-            "library designed to address a",
-            "significant inefficiency in large",
-            "language model (LLM) serving: the",
-            "wasteful pre-reservation of GPU memory",
-            "for KV caches.",
-            "By enabling this virtualized and elastic",
-            "KV cache, kvcached promises to",
-            "significantly improve the efficiency of",
-            "LLM serving on shared GPU",
-            "infrastructure.",
-            "This could translate into higher",
-            "throughput, lower latency, and reduced",
-            "operational expenses for organizations",
-            "deploying LLMs at scale.",
-            "The core problem kvcached aims to solve",
-            "is the memory overhead associated with",
-            "KV caches."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T00:23:22.000Z",
-      "ranking": 6.992413014231515,
-      "articleUrl": "https://www.marktechpost.com/2025/10/26/meet-kvcached-a-machine-learning-library-to-enable-virtualized-elastic-kv-cache-for-llm-serving-on-shared-gpus/"
-    },
-    {
       "id": "76",
       "topic": "Hardware",
       "source": "The Verge AI",
@@ -392,6 +357,41 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/806486/if-you-cant-afford-a-vacation-an-ai-app-will-sell-you-pictures-of-one"
     },
     {
+      "id": "81",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "kvcached LLM",
+      "mediumTitle": "kvcached: Elastic LLM GPU Memory",
+      "longTitle": "kvcached: Revolutionizing LLM Serving with Elastic KV Caches",
+      "paragraphs": [
+        {
+          "Lines": [
+            "kvcached is a new machine learning",
+            "library designed to address a",
+            "significant inefficiency in large",
+            "language model (LLM) serving: the",
+            "wasteful pre-reservation of GPU memory",
+            "for KV caches.",
+            "By enabling this virtualized and elastic",
+            "KV cache, kvcached promises to",
+            "significantly improve the efficiency of",
+            "LLM serving on shared GPU",
+            "infrastructure.",
+            "This could translate into higher",
+            "throughput, lower latency, and reduced",
+            "operational expenses for organizations",
+            "deploying LLMs at scale.",
+            "The core problem kvcached aims to solve",
+            "is the memory overhead associated with",
+            "KV caches."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T00:23:22.000Z",
+      "ranking": 6.581441320902144,
+      "articleUrl": "https://www.marktechpost.com/2025/10/26/meet-kvcached-a-machine-learning-library-to-enable-virtualized-elastic-kv-cache-for-llm-serving-on-shared-gpus/"
+    },
+    {
       "id": "73",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -421,7 +421,7 @@
         }
       ],
       "publishedAt": "2025-10-27T05:00:00.000Z",
-      "ranking": 6.766666666666666,
+      "ranking": 5.5006522821069925,
       "articleUrl": "https://venturebeat.com/ai/google-cloud-takes-aim-at-coreweave-and-aws-with-managed-slurm-for"
     },
     {
@@ -457,7 +457,7 @@
         }
       ],
       "publishedAt": "2025-10-26T05:00:00.000Z",
-      "ranking": 3.833232936029946,
+      "ranking": 3.153204728068811,
       "articleUrl": "https://venturebeat.com/ai/from-human-clicks-to-machine-intent-preparing-the-web-for-agentic-ai"
     },
     {
@@ -492,7 +492,7 @@
         }
       ],
       "publishedAt": "2025-10-25T12:00:00.000Z",
-      "ranking": 0.4048163638801725,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/policy/806425/ice-social-media-surveillance-free-speech-assault"
     },
     {
@@ -526,7 +526,7 @@
         }
       ],
       "publishedAt": "2025-10-25T06:00:00.000Z",
-      "ranking": 0.07554976192182217,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/when-your-ai-browser-becomes-your-enemy-the-comet-security-disaster"
     },
     {
@@ -1130,42 +1130,6 @@
       "articleUrl": "https://venturebeat.com/ai/ai-is-tearing-companies-apart-writer-ai-ceo-slams-fortune-500-leaders-for"
     },
     {
-      "id": "9",
-      "topic": "Neural Nets",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Research Narrowing",
-      "mediumTitle": "AI Research: A Call for More Exploration",
-      "longTitle": "AI Research Narrowing: Creator of Transformers Calls for More Exploration",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article concludes by highlighting",
-            "the high stakes involved: the next major",
-            "AI breakthrough could be discovered by",
-            "those with the freedom to explore, or it",
-            "could remain undiscovered while",
-            "incremental improvements are pursued on",
-            "an architecture that its own creator is",
-            "\u0027absolutely sick of.\u0027",
-            "Llion Jones, co-author of the seminal",
-            "2017 paper \u0022Attention Is All You Need\u0022",
-            "and the person who coined the term",
-            "\u0022transformer,\u0022 has expressed his",
-            "frustration with the current state of AI",
-            "research.",
-            "His insider perspective, as a creator of",
-            "the dominant architecture, lends",
-            "considerable weight to his call for a",
-            "shift in incentive structures and a",
-            "renewed focus on exploratory research."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-23T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers"
-    },
-    {
       "id": "59",
       "topic": "Large Models",
       "source": "The Verge AI",
@@ -1203,40 +1167,40 @@
       "articleUrl": "https://www.theverge.com/news/804124/anthropic-claude-ai-memory-upgrade-all-subscribers"
     },
     {
-      "id": "82",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Copilot Upgrades",
-      "mediumTitle": "Copilot AI Gets New Features",
-      "longTitle": "Microsoft Enhances Copilot AI with \u0027Real Talk\u0027, Groups, and Memory",
+      "id": "9",
+      "topic": "Neural Nets",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Research Narrowing",
+      "mediumTitle": "AI Research: A Call for More Exploration",
+      "longTitle": "AI Research Narrowing: Creator of Transformers Calls for More Exploration",
       "paragraphs": [
         {
           "Lines": [
-            "Microsoft is enhancing its Copilot AI",
-            "assistant with several new features",
-            "aimed at improving user interaction and",
-            "functionality.",
-            "These updates include a \u0022real talk\u0022",
-            "mode, a group chat feature, and memory",
-            "capabilities.",
-            "This means the AI will be able to learn",
-            "and retain information about individual",
-            "users over time.",
-            "A significant addition is the Copilot",
-            "Groups feature, which enables multiple",
-            "users to participate in a single Copilot",
-            "chat.",
-            "This personalization is expected to lead",
-            "to more relevant and tailored",
-            "interactions, as Copilot will have",
-            "context about user preferences, past",
-            "conversations, or specific projects."
+            "The article concludes by highlighting",
+            "the high stakes involved: the next major",
+            "AI breakthrough could be discovered by",
+            "those with the freedom to explore, or it",
+            "could remain undiscovered while",
+            "incremental improvements are pursued on",
+            "an architecture that its own creator is",
+            "\u0027absolutely sick of.\u0027",
+            "Llion Jones, co-author of the seminal",
+            "2017 paper \u0022Attention Is All You Need\u0022",
+            "and the person who coined the term",
+            "\u0022transformer,\u0022 has expressed his",
+            "frustration with the current state of AI",
+            "research.",
+            "His insider perspective, as a creator of",
+            "the dominant architecture, lends",
+            "considerable weight to his call for a",
+            "shift in incentive structures and a",
+            "renewed focus on exploratory research."
           ]
         }
       ],
-      "publishedAt": "2025-10-23T14:00:00.000Z",
+      "publishedAt": "2025-10-23T15:00:00.000Z",
       "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/804122/microsoft-copilot-real-talk-mode-group-chats-features"
+      "articleUrl": "https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers"
     },
     {
       "id": "60",
@@ -1272,6 +1236,42 @@
       "publishedAt": "2025-10-23T14:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy"
+    },
+    {
+      "id": "82",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Copilot Upgrades",
+      "mediumTitle": "Copilot AI Gets New Features",
+      "longTitle": "Microsoft Enhances Copilot AI with \u0027Real Talk\u0027, Groups, and Memory",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft is enhancing its Copilot AI",
+            "assistant with several new features",
+            "aimed at improving user interaction and",
+            "functionality.",
+            "These updates include a \u0022real talk\u0022",
+            "mode, a group chat feature, and memory",
+            "capabilities.",
+            "This means the AI will be able to learn",
+            "and retain information about individual",
+            "users over time.",
+            "A significant addition is the Copilot",
+            "Groups feature, which enables multiple",
+            "users to participate in a single Copilot",
+            "chat.",
+            "This personalization is expected to lead",
+            "to more relevant and tailored",
+            "interactions, as Copilot will have",
+            "context about user preferences, past",
+            "conversations, or specific projects."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-23T14:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/804122/microsoft-copilot-real-talk-mode-group-chats-features"
     },
     {
       "id": "83",
