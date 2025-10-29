@@ -35,39 +35,6 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808514/grokipedia-wikipedia-comparison"
     },
     {
-      "id": "102",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "MiniMax M2 AI",
-      "mediumTitle": "MiniMax M2: Coding \u0026 Agent AI",
-      "longTitle": "MiniMax M2: Open-Source AI for Coding \u0026 Agents",
-      "paragraphs": [
-        {
-          "Lines": [
-            "MiniMax has released MiniMax M2, an",
-            "open-source Mixture of Experts (MoE)",
-            "model specifically designed for coding",
-            "and agentic workflows.",
-            "MiniMax M2 is cost-effective, priced at",
-            "approximately 8% of the cost of Claude",
-            "Sonnet, making advanced AI capabilities",
-            "more accessible.",
-            "The model aims to provide powerful",
-            "capabilities at a significantly lower",
-            "cost and with improved speed compared to",
-            "existing flagship models.",
-            "The model is reported to be",
-            "approximately twice as fast as",
-            "comparable models, enhancing efficiency",
-            "for users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T23:21:17.000Z",
-      "ranking": 8.466666666666667,
-      "articleUrl": "https://www.marktechpost.com/2025/10/28/minimax-open-sources-minimax-m2-a-mini-model-built-for-max-coding-and-agentic-workflows-at-8-claude-sonnet-price-and-2x-faster/"
-    },
-    {
       "id": "107",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -170,6 +137,42 @@
       "publishedAt": "2025-10-29T07:32:35.000Z",
       "ranking": 8.136363636363637,
       "articleUrl": "https://www.marktechpost.com/2025/10/28/liquid-ai-releases-lfm2-colbert-350m-a-new-small-model-that-brings-late-interaction-retrieval-to-multilingual-and-cross-lingual-rag/"
+    },
+    {
+      "id": "118",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Cursor\u0027s Composer LLM",
+      "mediumTitle": "Cursor Launches Composer LLM",
+      "longTitle": "Cursor\u0027s Composer LLM Accelerates Coding with Agentic Workflows",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The coding platform Cursor, developed by",
+            "Anysphere, has launched its first",
+            "in-house large language model (LLM)",
+            "named Composer, a core component of the",
+            "Cursor 2.0 update designed to",
+            "significantly accelerate coding tasks in",
+            "production environments.",
+            "Its combination of RL, MoE design, and",
+            "tight product integration provides a",
+            "practical advantage in speed and",
+            "responsiveness, offering a glimpse into",
+            "a future of seamless human-model",
+            "collaboration.",
+            "Composer\u0027s focus on speed, RL, and",
+            "integration with live coding workflows",
+            "differentiates it from other AI coding",
+            "assistants like GitHub Copilot, designed",
+            "for continuous, agent-driven",
+            "collaboration."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T20:28:00.000Z",
+      "ranking": 8.129166666666666,
+      "articleUrl": "https://venturebeat.com/ai/vibe-coding-platform-cursor-releases-first-in-house-llm-composer-promising"
     },
     {
       "id": "117",
@@ -390,6 +393,75 @@
       "articleUrl": "https://venturebeat.com/ai/agentic-ai-is-all-about-the-context-engineering-that-is"
     },
     {
+      "id": "102",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "MiniMax M2 AI",
+      "mediumTitle": "MiniMax M2: Coding \u0026 Agent AI",
+      "longTitle": "MiniMax M2: Open-Source AI for Coding \u0026 Agents",
+      "paragraphs": [
+        {
+          "Lines": [
+            "MiniMax has released MiniMax M2, an",
+            "open-source Mixture of Experts (MoE)",
+            "model specifically designed for coding",
+            "and agentic workflows.",
+            "MiniMax M2 is cost-effective, priced at",
+            "approximately 8% of the cost of Claude",
+            "Sonnet, making advanced AI capabilities",
+            "more accessible.",
+            "The model aims to provide powerful",
+            "capabilities at a significantly lower",
+            "cost and with improved speed compared to",
+            "existing flagship models.",
+            "The model is reported to be",
+            "approximately twice as fast as",
+            "comparable models, enhancing efficiency",
+            "for users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T23:21:17.000Z",
+      "ranking": 7.409696125070267,
+      "articleUrl": "https://www.marktechpost.com/2025/10/28/minimax-open-sources-minimax-m2-a-mini-model-built-for-max-coding-and-agentic-workflows-at-8-claude-sonnet-price-and-2x-faster/"
+    },
+    {
+      "id": "119",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "OpenAI Safety Models",
+      "mediumTitle": "OpenAI Releases Open-Weight Safety Models",
+      "longTitle": "OpenAI Unveils Open-Weight Safety Models for Dynamic Content Moderation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has released two open-weight",
+            "models, gpt-oss-safeguard-120b and",
+            "gpt-oss-safeguard-20b, under a",
+            "permissive Apache 2.0 license.",
+            "OpenAI\u0027s new models aim to overcome this",
+            "limitation by using reasoning",
+            "capabilities to interpret",
+            "developer-provided policies directly at",
+            "inference time.",
+            "This dynamic policy application means",
+            "policies can be applied and revised",
+            "without retraining the model, which is",
+            "particularly beneficial for evolving",
+            "harms or nuanced domains.",
+            "These models are fine-tuned versions of",
+            "OpenAI\u0027s earlier gpt-oss models and are",
+            "designed to offer a more flexible",
+            "approach to content moderation and AI",
+            "safety for enterprises."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T05:00:00.000Z",
+      "ranking": 7.407692307692308,
+      "articleUrl": "https://venturebeat.com/ai/from-static-classifiers-to-reasoning-engines-openais-new-model-rethinks"
+    },
+    {
       "id": "103",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -459,79 +531,6 @@
       "publishedAt": "2025-10-29T10:00:00.000Z",
       "ranking": 7.166666666666667,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
-    },
-    {
-      "id": "100",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Copilot AI Expands",
-      "mediumTitle": "Microsoft Copilot: Build Apps with AI",
-      "longTitle": "Microsoft Copilot Gains New AI Tools for App Creation and Automation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft is significantly expanding its",
-            "Copilot AI assistant with new tools, App",
-            "Builder and Workflows, allowing",
-            "employees to create applications and",
-            "automate tasks using natural language",
-            "prompts, without requiring coding",
-            "knowledge.",
-            "The new capabilities transform Copilot",
-            "into a comprehensive development",
-            "environment where users can describe an",
-            "application, such as a project tracker,",
-            "and Copilot will generate a functional",
-            "app with a database, user interface, and",
-            "security controls.",
-            "These features aim to empower the",
-            "estimated 100 million Microsoft 365",
-            "users to develop business tools as",
-            "easily as they create emails or",
-            "spreadsheets."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T21:30:00.000Z",
-      "ranking": 6.826923076923076,
-      "articleUrl": "https://venturebeat.com/ai/microsofts-copilot-can-now-build-apps-and-automate-your-job-heres-how-it"
-    },
-    {
-      "id": "101",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "Teen AI Ban",
-      "mediumTitle": "New Bill to Limit Teen AI Access",
-      "longTitle": "Proposed Legislation Aims to Restrict Teenagers\u0027 Access to AI Chatbots",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Senators Josh Hawley (R-MO) and Richard",
-            "Blumenthal (D-CT) have introduced the",
-            "proposed GUARD Act, which aims to",
-            "restrict teenagers\u0027 access to AI",
-            "chatbots.",
-            "Furthermore, the bill explicitly",
-            "prohibits individuals under the age of",
-            "18 from accessing these AI chatbots.",
-            "The legislation would mandate that AI",
-            "companies implement age verification",
-            "processes for all users of their chatbot",
-            "services.",
-            "The bill\u0027s introduction signifies a",
-            "proactive step by lawmakers to address",
-            "perceived risks associated with AI",
-            "chatbot usage by adolescents.",
-            "This legislative proposal comes at a",
-            "time when concerns about the potential",
-            "impact of AI on young people are",
-            "growing."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T19:42:04.000Z",
-      "ranking": 6.7864919852546866,
-      "articleUrl": "https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban"
     },
     {
       "id": "109",
@@ -604,6 +603,40 @@
       "articleUrl": "https://www.theverge.com/news/808858/google-gemini-for-home-early-access-launch"
     },
     {
+      "id": "120",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Meta AI Content",
+      "mediumTitle": "Meta to Boost AI Content in Feeds",
+      "longTitle": "Meta CEO Mark Zuckerberg Announces Plans for More AI-Generated Content",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta CEO Mark Zuckerberg announced plans",
+            "to significantly increase AI-generated",
+            "content in social media feeds, aiming to",
+            "enrich and personalize the user",
+            "experience.",
+            "During a recent earnings call,",
+            "Zuckerberg stated the company intends to",
+            "\u0022add yet another huge corpus of content\u0022",
+            "to its recommendation systems.",
+            "This expansion is driven by the",
+            "increasing ease with which artificial",
+            "intelligence can be used to create and",
+            "remix content that is subsequently",
+            "shared online.",
+            "Meta\u0027s strategy revolves around",
+            "leveraging AI to enhance the volume and",
+            "variety of content presented to users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T18:41:31.000Z",
+      "ranking": 6.4625,
+      "articleUrl": "https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings"
+    },
+    {
       "id": "105",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -635,6 +668,78 @@
       "publishedAt": "2025-10-29T08:00:00.000Z",
       "ranking": 6.4411764705882355,
       "articleUrl": "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots"
+    },
+    {
+      "id": "101",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "Teen AI Ban",
+      "mediumTitle": "New Bill to Limit Teen AI Access",
+      "longTitle": "Proposed Legislation Aims to Restrict Teenagers\u0027 Access to AI Chatbots",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Senators Josh Hawley (R-MO) and Richard",
+            "Blumenthal (D-CT) have introduced the",
+            "proposed GUARD Act, which aims to",
+            "restrict teenagers\u0027 access to AI",
+            "chatbots.",
+            "Furthermore, the bill explicitly",
+            "prohibits individuals under the age of",
+            "18 from accessing these AI chatbots.",
+            "The legislation would mandate that AI",
+            "companies implement age verification",
+            "processes for all users of their chatbot",
+            "services.",
+            "The bill\u0027s introduction signifies a",
+            "proactive step by lawmakers to address",
+            "perceived risks associated with AI",
+            "chatbot usage by adolescents.",
+            "This legislative proposal comes at a",
+            "time when concerns about the potential",
+            "impact of AI on young people are",
+            "growing."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T19:42:04.000Z",
+      "ranking": 6.4193339863694,
+      "articleUrl": "https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban"
+    },
+    {
+      "id": "121",
+      "topic": "Learning",
+      "source": "Marktechpost AI",
+      "shortTitle": "Agent Lightning",
+      "mediumTitle": "Microsoft\u0027s Agent Lightning AI Framework",
+      "longTitle": "Microsoft Introduces Agent Lightning: Open-Source AI Framework for LLM Training",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft has introduced Agent",
+            "Lightning, a novel open-source AI",
+            "framework designed to facilitate the",
+            "training of Large Language Models (LLMs)",
+            "for any AI agent using Reinforcement",
+            "Learning (RL).",
+            "The primary objective of Agent Lightning",
+            "is to enable the conversion of real",
+            "agent traces into RL transitions,",
+            "thereby enhancing the policy LLMs",
+            "without necessitating modifications to",
+            "the existing agent stack.",
+            "This framework is particularly",
+            "beneficial for optimizing multi-agent",
+            "systems.",
+            "A key feature of Agent Lightning is its",
+            "ability to decouple the training process",
+            "from the execution of the AI agent."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T22:39:21.000Z",
+      "ranking": 6.1416666666666675,
+      "articleUrl": "https://www.marktechpost.com/2025/10/29/microsoft-releases-agent-lightning-a-new-ai-framework-that-enables-reinforcement-learning-rl-based-training-of-llms-for-any-ai-agent/"
     },
     {
       "id": "96",
@@ -669,7 +774,7 @@
         }
       ],
       "publishedAt": "2025-10-28T17:10:00.000Z",
-      "ranking": 6.339816735967496,
+      "ranking": 5.937302405034771,
       "articleUrl": "https://venturebeat.com/ai/githubs-agent-hq-aims-to-solve-enterprises-biggest-ai-coding-problem-too"
     },
     {
@@ -701,7 +806,7 @@
         }
       ],
       "publishedAt": "2025-10-28T13:10:00.000Z",
-      "ranking": 6.198289063494633,
+      "ranking": 5.739973401501839,
       "articleUrl": "https://www.theverge.com/news/808032/github-ai-agent-hq-coding-openai-anthropic"
     },
     {
@@ -738,7 +843,7 @@
         }
       ],
       "publishedAt": "2025-10-28T13:30:00.000Z",
-      "ranking": 6.192129187436882,
+      "ranking": 5.7384636362487615,
       "articleUrl": "https://venturebeat.com/ai/intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in"
     },
     {
@@ -774,8 +879,44 @@
         }
       ],
       "publishedAt": "2025-10-28T10:38:55.000Z",
-      "ranking": 6.184266272506941,
+      "ranking": 5.690822896681883,
       "articleUrl": "https://www.theverge.com/news/807875/openai-microsoft-for-profit-agi"
+    },
+    {
+      "id": "100",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Copilot AI Expands",
+      "mediumTitle": "Microsoft Copilot: Build Apps with AI",
+      "longTitle": "Microsoft Copilot Gains New AI Tools for App Creation and Automation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft is significantly expanding its",
+            "Copilot AI assistant with new tools, App",
+            "Builder and Workflows, allowing",
+            "employees to create applications and",
+            "automate tasks using natural language",
+            "prompts, without requiring coding",
+            "knowledge.",
+            "The new capabilities transform Copilot",
+            "into a comprehensive development",
+            "environment where users can describe an",
+            "application, such as a project tracker,",
+            "and Copilot will generate a functional",
+            "app with a database, user interface, and",
+            "security controls.",
+            "These features aim to empower the",
+            "estimated 100 million Microsoft 365",
+            "users to develop business tools as",
+            "easily as they create emails or",
+            "spreadsheets."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T21:30:00.000Z",
+      "ranking": 5.605078377379243,
+      "articleUrl": "https://venturebeat.com/ai/microsofts-copilot-can-now-build-apps-and-automate-your-job-heres-how-it"
     },
     {
       "id": "87",
@@ -808,7 +949,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:35:08.000Z",
-      "ranking": 6.042490803475387,
+      "ranking": 5.534217442974969,
       "articleUrl": "https://www.marktechpost.com/2025/10/28/zhipu-ai-releases-glyph-an-ai-framework-for-scaling-the-context-length-through-visual-text-compression/"
     },
     {
@@ -844,7 +985,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 5.931902023441844,
+      "ranking": 5.415459967156442,
       "articleUrl": "https://www.theverge.com/news/807811/adobe-photoshop-lightroom-premiere-pro-ai-max-2025"
     },
     {
@@ -881,39 +1022,8 @@
         }
       ],
       "publishedAt": "2025-10-28T10:16:17.000Z",
-      "ranking": 5.908654246924229,
+      "ranking": 5.409948488911189,
       "articleUrl": "https://www.theverge.com/news/807867/adobe-max-2025-all-the-latest-announcements"
-    },
-    {
-      "id": "95",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Amazon Layoffs",
-      "mediumTitle": "Amazon Cuts 14,000 Corporate Jobs",
-      "longTitle": "Amazon announces 14,000 corporate job cuts in cost-saving move",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Amazon is planning to eliminate",
-            "approximately 14,000 corporate positions",
-            "as part of a broader cost-cutting",
-            "initiative.",
-            "The company\u0027s decision to implement",
-            "these layoffs is driven by a strategic",
-            "effort to reduce expenses.",
-            "This figure represents a reduction from",
-            "earlier reports that suggested as many",
-            "as 30,000 job losses.",
-            "The announcement was made to employees",
-            "by Beth Galetti, a senior executive at",
-            "the e-commerce company, via a message on",
-            "Tuesday."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T08:40:45.000Z",
-      "ranking": 5.707720666575294,
-      "articleUrl": "https://www.theverge.com/news/807825/amazon-job-layoffs-2025-ai"
     },
     {
       "id": "97",
@@ -947,8 +1057,39 @@
         }
       ],
       "publishedAt": "2025-10-28T13:13:25.000Z",
-      "ranking": 5.687715438447263,
+      "ranking": 5.230194166823635,
       "articleUrl": "https://www.theverge.com/news/808079/chatgpt-paypal-openai-acp-purchases"
+    },
+    {
+      "id": "95",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Amazon Layoffs",
+      "mediumTitle": "Amazon Cuts 14,000 Corporate Jobs",
+      "longTitle": "Amazon announces 14,000 corporate job cuts in cost-saving move",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon is planning to eliminate",
+            "approximately 14,000 corporate positions",
+            "as part of a broader cost-cutting",
+            "initiative.",
+            "The company\u0027s decision to implement",
+            "these layoffs is driven by a strategic",
+            "effort to reduce expenses.",
+            "This figure represents a reduction from",
+            "earlier reports that suggested as many",
+            "as 30,000 job losses.",
+            "The announcement was made to employees",
+            "by Beth Galetti, a senior executive at",
+            "the e-commerce company, via a message on",
+            "Tuesday."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T08:40:45.000Z",
+      "ranking": 5.186802874409908,
+      "articleUrl": "https://www.theverge.com/news/807825/amazon-job-layoffs-2025-ai"
     },
     {
       "id": "93",
@@ -984,7 +1125,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 5.5219020042849625,
+      "ranking": 5.005459949727451,
       "articleUrl": "https://www.theverge.com/news/807809/adobe-firefly-ai-audio-generate-soundtrack-speech"
     },
     {
@@ -1020,7 +1161,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 5.225748153292084,
+      "ranking": 4.709306098329847,
       "articleUrl": "https://www.theverge.com/news/807457/adobe-ai-agent-project-moonlight"
     },
     {
@@ -1057,7 +1198,7 @@
         }
       ],
       "publishedAt": "2025-10-28T05:00:00.000Z",
-      "ranking": 4.664524150133885,
+      "ranking": 4.092280764456255,
       "articleUrl": "https://venturebeat.com/ai/paypals-agentic-commerce-play-shows-why-flexibility-not-standards-will"
     },
     {
@@ -1093,45 +1234,8 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 4.5635686555329205,
+      "ranking": 4.047126600783308,
       "articleUrl": "https://www.theverge.com/news/807802/adobe-express-ai-assistant-prompt-editing-beta-max-2025"
-    },
-    {
-      "id": "85",
-      "topic": "Hardware",
-      "source": "The Verge AI",
-      "shortTitle": "DOE Supercomputers",
-      "mediumTitle": "DOE Invests $1B in Supercomputers",
-      "longTitle": "AMD, Oracle, HPE Partner with DOE for $1B Supercomputers",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AMD, in collaboration with Oracle and",
-            "Hewlett Packard Enterprise (HPE), has",
-            "secured a significant $1 billion",
-            "partnership with the US Department of",
-            "Energy (DOE) to develop two advanced",
-            "supercomputers.",
-            "The overall initiative underscores a",
-            "substantial investment in",
-            "high-performance computing and",
-            "artificial intelligence (AI)",
-            "capabilities for the DOE.",
-            "The sheer scale of the investment ($1",
-            "billion) highlights the critical role",
-            "supercomputing plays in national",
-            "research priorities, particularly in the",
-            "rapidly evolving field of AI.",
-            "This partnership is expected to drive",
-            "advancements in AI research and",
-            "development, leveraging AMD\u0027s",
-            "cutting-edge technology."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T19:16:48.000Z",
-      "ranking": 4.46291860071132,
-      "articleUrl": "https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership"
     },
     {
       "id": "84",
@@ -1167,8 +1271,45 @@
         }
       ],
       "publishedAt": "2025-10-27T21:46:59.000Z",
-      "ranking": 4.44985802148263,
+      "ranking": 3.77693586359476,
       "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
+    },
+    {
+      "id": "85",
+      "topic": "Hardware",
+      "source": "The Verge AI",
+      "shortTitle": "DOE Supercomputers",
+      "mediumTitle": "DOE Invests $1B in Supercomputers",
+      "longTitle": "AMD, Oracle, HPE Partner with DOE for $1B Supercomputers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AMD, in collaboration with Oracle and",
+            "Hewlett Packard Enterprise (HPE), has",
+            "secured a significant $1 billion",
+            "partnership with the US Department of",
+            "Energy (DOE) to develop two advanced",
+            "supercomputers.",
+            "The overall initiative underscores a",
+            "substantial investment in",
+            "high-performance computing and",
+            "artificial intelligence (AI)",
+            "capabilities for the DOE.",
+            "The sheer scale of the investment ($1",
+            "billion) highlights the critical role",
+            "supercomputing plays in national",
+            "research priorities, particularly in the",
+            "rapidly evolving field of AI.",
+            "This partnership is expected to drive",
+            "advancements in AI research and",
+            "development, leveraging AMD\u0027s",
+            "cutting-edge technology."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T19:16:48.000Z",
+      "ranking": 3.755077972984817,
+      "articleUrl": "https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership"
     },
     {
       "id": "99",
@@ -1200,7 +1341,7 @@
         }
       ],
       "publishedAt": "2025-10-27T21:46:59.000Z",
-      "ranking": 3.989858014362031,
+      "ranking": 3.316935851072069,
       "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
     },
     {
@@ -1233,7 +1374,7 @@
         }
       ],
       "publishedAt": "2025-10-27T20:01:00.000Z",
-      "ranking": 3.9378667742815914,
+      "ranking": 3.2403028976224917,
       "articleUrl": "https://venturebeat.com/ai/minimax-m2-is-the-new-king-of-open-source-llms-especially-for-agentic-tool"
     },
     {
@@ -1266,7 +1407,7 @@
         }
       ],
       "publishedAt": "2025-10-27T13:00:00.000Z",
-      "ranking": 3.1461238502524385,
+      "ranking": 2.3506751382197493,
       "articleUrl": "https://www.theverge.com/report/806359/openai-sora-deepfake-detection-c2pa-content-credentials"
     },
     {
@@ -1302,42 +1443,8 @@
         }
       ],
       "publishedAt": "2025-10-27T14:51:24.000Z",
-      "ranking": 3.0311467330513233,
+      "ranking": 2.261599138810104,
       "articleUrl": "https://www.theverge.com/podcast/807136/lexisnexis-ceo-sean-fitzpatick-ai-lawyer-legal-chatgpt-interview"
-    },
-    {
-      "id": "79",
-      "topic": "Health",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0027Clinical\u0027 Claims",
-      "mediumTitle": "Critique of \u0027Clinical-Grade AI\u0027 Terminology",
-      "longTitle": "Article critiques the misleading use of \u0027clinical-grade AI\u0027 as a marketing buzzword.",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article critiques the increasingly",
-            "common, yet ultimately meaningless, use",
-            "of the term \u0027clinical-grade AI\u0027.",
-            "There is no standardized definition or",
-            "regulatory framework for what",
-            "constitutes \u0027clinical-grade AI\u0027, making",
-            "the label subjective and potentially",
-            "deceptive.",
-            "The term \u0027clinical\u0027 is misleading as",
-            "these AI applications do not necessarily",
-            "meet established medical standards or",
-            "undergo rigorous validation.",
-            "Companies use \u0027clinical-grade\u0027 to market",
-            "AI products, especially in mental",
-            "health, by associating them with the",
-            "perceived authority of the medical",
-            "field."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T11:00:00.000Z",
-      "ranking": 2.5389753156571073,
-      "articleUrl": "https://www.theverge.com/report/806887/clinical-grade-ai-buzzword"
     },
     {
       "id": "72",
@@ -1372,8 +1479,42 @@
         }
       ],
       "publishedAt": "2025-10-27T17:00:00.000Z",
-      "ranking": 2.5258688243293417,
+      "ranking": 1.7862214510195518,
       "articleUrl": "https://venturebeat.com/ai/anthropic-rolls-out-claude-ai-for-finance-integrates-with-excel-to-rival"
+    },
+    {
+      "id": "79",
+      "topic": "Health",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0027Clinical\u0027 Claims",
+      "mediumTitle": "Critique of \u0027Clinical-Grade AI\u0027 Terminology",
+      "longTitle": "Article critiques the misleading use of \u0027clinical-grade AI\u0027 as a marketing buzzword.",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article critiques the increasingly",
+            "common, yet ultimately meaningless, use",
+            "of the term \u0027clinical-grade AI\u0027.",
+            "There is no standardized definition or",
+            "regulatory framework for what",
+            "constitutes \u0027clinical-grade AI\u0027, making",
+            "the label subjective and potentially",
+            "deceptive.",
+            "The term \u0027clinical\u0027 is misleading as",
+            "these AI applications do not necessarily",
+            "meet established medical standards or",
+            "undergo rigorous validation.",
+            "Companies use \u0027clinical-grade\u0027 to market",
+            "AI products, especially in mental",
+            "health, by associating them with the",
+            "perceived authority of the medical",
+            "field."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T11:00:00.000Z",
+      "ranking": 1.715625913354275,
+      "articleUrl": "https://www.theverge.com/report/806887/clinical-grade-ai-buzzword"
     },
     {
       "id": "80",
@@ -1409,7 +1550,7 @@
         }
       ],
       "publishedAt": "2025-10-27T08:43:09.000Z",
-      "ranking": 2.1716218514944137,
+      "ranking": 1.3164540603512833,
       "articleUrl": "https://www.marktechpost.com/2025/10/27/how-to-build-an-agentic-decision-tree-rag-system-with-intelligent-query-routing-self-checking-and-iterative-refinement/"
     },
     {
@@ -1445,7 +1586,7 @@
         }
       ],
       "publishedAt": "2025-10-27T13:04:33.000Z",
-      "ranking": 1.7155988412184806,
+      "ranking": 0.9212079994757998,
       "articleUrl": "https://www.theverge.com/news/807078/qualcomm-ai-chips-launch-hexagon-npus"
     },
     {
@@ -1482,43 +1623,8 @@
         }
       ],
       "publishedAt": "2025-10-27T11:09:54.000Z",
-      "ranking": 1.3443179649023858,
+      "ranking": 0.5232703597039849,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/806486/if-you-cant-afford-a-vacation-an-ai-app-will-sell-you-pictures-of-one"
-    },
-    {
-      "id": "81",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "kvcached LLM",
-      "mediumTitle": "kvcached: Elastic LLM GPU Memory",
-      "longTitle": "kvcached: Revolutionizing LLM Serving with Elastic KV Caches",
-      "paragraphs": [
-        {
-          "Lines": [
-            "kvcached is a new machine learning",
-            "library designed to address a",
-            "significant inefficiency in large",
-            "language model (LLM) serving: the",
-            "wasteful pre-reservation of GPU memory",
-            "for KV caches.",
-            "By enabling this virtualized and elastic",
-            "KV cache, kvcached promises to",
-            "significantly improve the efficiency of",
-            "LLM serving on shared GPU",
-            "infrastructure.",
-            "This could translate into higher",
-            "throughput, lower latency, and reduced",
-            "operational expenses for organizations",
-            "deploying LLMs at scale.",
-            "The core problem kvcached aims to solve",
-            "is the memory overhead associated with",
-            "KV caches."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T00:23:22.000Z",
-      "ranking": 0.3779470174125752,
-      "articleUrl": "https://www.marktechpost.com/2025/10/26/meet-kvcached-a-machine-learning-library-to-enable-virtualized-elastic-kv-cache-for-llm-serving-on-shared-gpus/"
     },
     {
       "id": "73",
@@ -1554,75 +1660,39 @@
       "articleUrl": "https://venturebeat.com/ai/google-cloud-takes-aim-at-coreweave-and-aws-with-managed-slurm-for"
     },
     {
-      "id": "1",
-      "topic": "Dev Tools",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Web Prep",
-      "mediumTitle": "Web\u0027s AI Agent Readiness",
-      "longTitle": "Preparing the Web for Agentic AI Browsers",
+      "id": "81",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "kvcached LLM",
+      "mediumTitle": "kvcached: Elastic LLM GPU Memory",
+      "longTitle": "kvcached: Revolutionizing LLM Serving with Elastic KV Caches",
       "paragraphs": [
         {
           "Lines": [
-            "Amit Verma\u0027s article argues the current",
-            "web, designed for humans, is unprepared",
-            "for agentic AI browsers that can act on",
-            "user behalf.",
-            "AI agents can be tricked by hidden",
-            "instructions on web pages, leading them",
-            "to perform unintended actions like",
-            "sending emails or deleting data.",
-            "The future web requires an AI-native",
-            "structure that is machine-readable and",
-            "secure.",
-            "In one instance, an agent was instructed",
-            "to draft and send an email based on page",
-            "content, overriding the user\u0027s request",
-            "for a summary.",
-            "Agents have been shown to comply with",
-            "instructions to delete emails or expose",
-            "sensitive information without human-like",
-            "judgment or context."
+            "kvcached is a new machine learning",
+            "library designed to address a",
+            "significant inefficiency in large",
+            "language model (LLM) serving: the",
+            "wasteful pre-reservation of GPU memory",
+            "for KV caches.",
+            "By enabling this virtualized and elastic",
+            "KV cache, kvcached promises to",
+            "significantly improve the efficiency of",
+            "LLM serving on shared GPU",
+            "infrastructure.",
+            "This could translate into higher",
+            "throughput, lower latency, and reduced",
+            "operational expenses for organizations",
+            "deploying LLMs at scale.",
+            "The core problem kvcached aims to solve",
+            "is the memory overhead associated with",
+            "KV caches."
           ]
         }
       ],
-      "publishedAt": "2025-10-26T05:00:00.000Z",
+      "publishedAt": "2025-10-27T00:23:22.000Z",
       "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/from-human-clicks-to-machine-intent-preparing-the-web-for-agentic-ai"
-    },
-    {
-      "id": "53",
-      "topic": "Security",
-      "source": "The Verge AI",
-      "shortTitle": "ICE Social Media Spy",
-      "mediumTitle": "ICE Expands Social Media Surveillance",
-      "longTitle": "ICE Building Social Media Panopticon with AI Monitoring",
-      "paragraphs": [
-        {
-          "Lines": [
-            "U.S. Immigration and Customs Enforcement",
-            "(ICE) is significantly expanding its",
-            "online surveillance capabilities through",
-            "a $5.7 million contract with Zignal, an",
-            "AI-powered social media monitoring",
-            "platform.",
-            "This initiative aims to track millions",
-            "of web users, raising concerns about",
-            "potential privacy violations and the",
-            "creation of a digital \u0027panopticon\u0027 where",
-            "individuals are constantly monitored.",
-            "While public social media data is",
-            "generally accessible, the systematic",
-            "collection, analysis, and potential",
-            "retention of this information by a law",
-            "enforcement agency on such a large scale",
-            "raises significant privacy and civil",
-            "liberties issues."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-25T12:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/policy/806425/ice-social-media-surveillance-free-speech-assault"
+      "articleUrl": "https://www.marktechpost.com/2025/10/26/meet-kvcached-a-machine-learning-library-to-enable-virtualized-elastic-kv-cache-for-llm-serving-on-shared-gpus/"
     }
   ]
 }
