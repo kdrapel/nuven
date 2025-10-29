@@ -101,6 +101,42 @@
       "articleUrl": "https://www.theverge.com/news/808749/tiktok-smart-split-ai-outline-revenue-sharing-subscriptions"
     },
     {
+      "id": "115",
+      "topic": "Neural Nets",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Introspection",
+      "mediumTitle": "AI Can Observe Its Own Processes",
+      "longTitle": "Anthropic AI Demonstrates Limited Introspection, Raising Transparency Hopes",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Anthropic scientists have conducted",
+            "groundbreaking research demonstrating",
+            "that their AI model, Claude, possesses a",
+            "limited but genuine ability to observe",
+            "and report on its own internal",
+            "processes.",
+            "The core takeaway is that while AI",
+            "models can sometimes accurately report",
+            "on their internal states, this",
+            "capability is not yet consistent enough",
+            "to be fully trusted.",
+            "Claude\u0027s introspective capabilities are",
+            "highly unreliable and context-dependent,",
+            "succeeding only about 20% of the time.",
+            "The critical challenge is to refine and",
+            "validate these abilities before AI",
+            "systems become too powerful to",
+            "understand, ensuring safety and",
+            "preventing potential misuse."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T18:00:00.000Z",
+      "ranking": 8.261363636363635,
+      "articleUrl": "https://venturebeat.com/ai/anthropic-scientists-hacked-claudes-brain-and-it-noticed-heres-why-thats"
+    },
+    {
       "id": "104",
       "topic": "NLP",
       "source": "Marktechpost AI",
@@ -134,6 +170,43 @@
       "publishedAt": "2025-10-29T07:32:35.000Z",
       "ranking": 8.136363636363637,
       "articleUrl": "https://www.marktechpost.com/2025/10/28/liquid-ai-releases-lfm2-colbert-350m-a-new-small-model-that-brings-late-interaction-retrieval-to-multilingual-and-cross-lingual-rag/"
+    },
+    {
+      "id": "117",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Nvidia $5T",
+      "mediumTitle": "Nvidia Reaches $5 Trillion Valuation",
+      "longTitle": "Nvidia Achieves $5 Trillion Market Capitalization Driven by AI Dominance",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Nvidia has officially achieved the",
+            "monumental status of a $5 trillion",
+            "company, marking a significant milestone",
+            "in its rapid ascent.",
+            "The sustained surge in Nvidia\u0027s share",
+            "price is largely attributed to the",
+            "company\u0027s dominant position and",
+            "continued growth in the artificial",
+            "intelligence (AI) sector.",
+            "Nvidia\u0027s graphics processing units",
+            "(GPUs) are the backbone of AI",
+            "development, powering everything from",
+            "large language models to complex",
+            "scientific research.",
+            "The insatiable demand for AI-driven",
+            "technologies has directly translated",
+            "into robust sales and profitability for",
+            "Nvidia, fueling investor confidence and",
+            "driving its market capitalization to new",
+            "heights."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T11:57:09.000Z",
+      "ranking": 7.95,
+      "articleUrl": "https://www.theverge.com/news/809017/nvidia-5-trillion-market-cap-ai"
     },
     {
       "id": "114",
@@ -173,43 +246,6 @@
       "articleUrl": "https://www.theverge.com/report/808647/bill-gates-climate-change-ai-emissions-memo"
     },
     {
-      "id": "101",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "Teen AI Ban",
-      "mediumTitle": "New Bill to Limit Teen AI Access",
-      "longTitle": "Proposed Legislation Aims to Restrict Teenagers\u0027 Access to AI Chatbots",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Senators Josh Hawley (R-MO) and Richard",
-            "Blumenthal (D-CT) have introduced the",
-            "proposed GUARD Act, which aims to",
-            "restrict teenagers\u0027 access to AI",
-            "chatbots.",
-            "Furthermore, the bill explicitly",
-            "prohibits individuals under the age of",
-            "18 from accessing these AI chatbots.",
-            "The legislation would mandate that AI",
-            "companies implement age verification",
-            "processes for all users of their chatbot",
-            "services.",
-            "The bill\u0027s introduction signifies a",
-            "proactive step by lawmakers to address",
-            "perceived risks associated with AI",
-            "chatbot usage by adolescents.",
-            "This legislative proposal comes at a",
-            "time when concerns about the potential",
-            "impact of AI on young people are",
-            "growing."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T19:42:04.000Z",
-      "ranking": 7.8125,
-      "articleUrl": "https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban"
-    },
-    {
       "id": "113",
       "topic": "Business",
       "source": "The Verge AI",
@@ -245,42 +281,6 @@
       "publishedAt": "2025-10-29T09:25:29.000Z",
       "ranking": 7.618181818181817,
       "articleUrl": "https://www.theverge.com/news/808750/openai-sora-cameo-celebrity-deepfake-trademark-lawsuit"
-    },
-    {
-      "id": "96",
-      "topic": "Dev Tools",
-      "source": "VentureBeat AI",
-      "shortTitle": "GitHub Agent HQ",
-      "mediumTitle": "GitHub Agent HQ: AI Agent Management",
-      "longTitle": "GitHub Agent HQ: Unified AI Agent Orchestration and Management",
-      "paragraphs": [
-        {
-          "Lines": [
-            "GitHub\u0027s Agent HQ is a new architecture",
-            "designed to address the growing",
-            "challenge enterprises face with managing",
-            "multiple AI coding agents.",
-            "Instead of offering another proprietary",
-            "agent, GitHub is positioning itself as a",
-            "central control plane, enabling",
-            "developers to orchestrate and manage",
-            "agents from various providers like",
-            "Anthropic, OpenAI, Google, Cognition,",
-            "and xAI within a unified platform.",
-            "Security is paramount, with agents",
-            "operating under strict controls, using",
-            "locked-down GitHub tokens, and confined",
-            "to designated branches within sandboxed",
-            "GitHub Actions environments with",
-            "firewall protections.",
-            "This prevents unauthorized access to",
-            "external networks or data exfiltration."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T17:10:00.000Z",
-      "ranking": 7.59090909090909,
-      "articleUrl": "https://venturebeat.com/ai/githubs-agent-hq-aims-to-solve-enterprises-biggest-ai-coding-problem-too"
     },
     {
       "id": "108",
@@ -352,6 +352,42 @@
       "publishedAt": "2025-10-29T10:00:00.000Z",
       "ranking": 7.544444444444444,
       "articleUrl": "https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates"
+    },
+    {
+      "id": "116",
+      "topic": "Context Eng.",
+      "source": "VentureBeat AI",
+      "shortTitle": "Agentic AI Context",
+      "mediumTitle": "Context Engineering for Agentic AI",
+      "longTitle": "Context Engineering is Key to Agentic AI Success",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Agentic AI systems autonomously gather",
+            "tools, data, and information to provide",
+            "answers, but their reliability depends",
+            "on accurate context.",
+            "Context engineering ensures relevant",
+            "context is delivered to AI agents at the",
+            "opportune moment, guiding LLMs to use",
+            "appropriate tools.",
+            "The article introduces Elasticsearch\u0027s",
+            "new feature, Agent Builder, designed to",
+            "streamline the entire operational",
+            "lifecycle of agents.",
+            "Agent Builder enables the creation of",
+            "MCP tools that leverage private data",
+            "through methods like Elasticsearch Query",
+            "Language or workflow modeling.",
+            "Elasticsearch is identified as a leading",
+            "platform for the foundational aspects of",
+            "context engineering."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T05:00:00.000Z",
+      "ranking": 7.417647058823529,
+      "articleUrl": "https://venturebeat.com/ai/agentic-ai-is-all-about-the-context-engineering-that-is"
     },
     {
       "id": "103",
@@ -461,6 +497,43 @@
       "articleUrl": "https://venturebeat.com/ai/microsofts-copilot-can-now-build-apps-and-automate-your-job-heres-how-it"
     },
     {
+      "id": "101",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "Teen AI Ban",
+      "mediumTitle": "New Bill to Limit Teen AI Access",
+      "longTitle": "Proposed Legislation Aims to Restrict Teenagers\u0027 Access to AI Chatbots",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Senators Josh Hawley (R-MO) and Richard",
+            "Blumenthal (D-CT) have introduced the",
+            "proposed GUARD Act, which aims to",
+            "restrict teenagers\u0027 access to AI",
+            "chatbots.",
+            "Furthermore, the bill explicitly",
+            "prohibits individuals under the age of",
+            "18 from accessing these AI chatbots.",
+            "The legislation would mandate that AI",
+            "companies implement age verification",
+            "processes for all users of their chatbot",
+            "services.",
+            "The bill\u0027s introduction signifies a",
+            "proactive step by lawmakers to address",
+            "perceived risks associated with AI",
+            "chatbot usage by adolescents.",
+            "This legislative proposal comes at a",
+            "time when concerns about the potential",
+            "impact of AI on young people are",
+            "growing."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T19:42:04.000Z",
+      "ranking": 6.7864919852546866,
+      "articleUrl": "https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban"
+    },
+    {
       "id": "109",
       "topic": "Business",
       "source": "The Verge AI",
@@ -494,111 +567,6 @@
       "publishedAt": "2025-10-29T10:01:00.000Z",
       "ranking": 6.7142857142857135,
       "articleUrl": "https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch"
-    },
-    {
-      "id": "89",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI Restructures",
-      "mediumTitle": "OpenAI\u0027s For-Profit Shift \u0026 Microsoft Deal",
-      "longTitle": "OpenAI Finalizes For-Profit Restructuring with Enhanced Microsoft Partnership",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has finalized its for-profit",
-            "restructuring, establishing OpenAI Group",
-            "PBC as its new for-profit public benefit",
-            "corporation.",
-            "This restructuring is accompanied by a",
-            "significant new agreement with",
-            "Microsoft, which will influence OpenAI\u0027s",
-            "future endeavors, including the",
-            "development of consumer hardware and",
-            "strategies for achieving Artificial",
-            "General Intelligence (AGI).",
-            "In essence, OpenAI\u0027s completed",
-            "restructuring and its renewed, expanded",
-            "partnership with Microsoft represent a",
-            "strategic pivot towards greater",
-            "commercialization and accelerated",
-            "development, particularly in the pursuit",
-            "of AGI and the creation of",
-            "consumer-facing AI hardware."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T10:38:55.000Z",
-      "ranking": 6.6145078418097345,
-      "articleUrl": "https://www.theverge.com/news/807875/openai-microsoft-for-profit-agi"
-    },
-    {
-      "id": "98",
-      "topic": "Dev Tools",
-      "source": "The Verge AI",
-      "shortTitle": "GitHub AI Agents",
-      "mediumTitle": "GitHub Agent HQ: AI Coding Agents",
-      "longTitle": "GitHub Launches Agent HQ for Third-Party AI Coding Assistants",
-      "paragraphs": [
-        {
-          "Lines": [
-            "GitHub is launching a new initiative",
-            "called \u0022Agent HQ\u0022 to provide developers",
-            "with access to a variety of third-party",
-            "AI coding agents directly within the",
-            "GitHub platform.",
-            "In the coming months, developers will be",
-            "able to utilize agents from prominent AI",
-            "research and development companies,",
-            "including OpenAI\u0027s Codex, Anthropic\u0027s",
-            "Claude, Google\u0027s Jules, xAI, and",
-            "Cognition\u0027s Devin.",
-            "This move signifies a departure from",
-            "relying solely on GitHub Copilot,",
-            "opening up the ecosystem to a broader",
-            "range of AI tools."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T13:10:00.000Z",
-      "ranking": 6.594016019971494,
-      "articleUrl": "https://www.theverge.com/news/808032/github-ai-agent-hq-coding-openai-anthropic"
-    },
-    {
-      "id": "88",
-      "topic": "Finance",
-      "source": "VentureBeat AI",
-      "shortTitle": "Intuit\u0027s AI Approach",
-      "mediumTitle": "Intuit\u0027s Trust-First AI Strategy",
-      "longTitle": "Intuit Prioritizes Trust and Usability in Financial AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Intuit\u0027s new QuickBooks release,",
-            "featuring Intuit Intelligence,",
-            "emphasizes a deliberate approach to",
-            "building financial AI, prioritizing",
-            "trust and usability over generative",
-            "capabilities.",
-            "The company learned that errors in",
-            "financial software significantly erode",
-            "customer trust, necessitating a cautious",
-            "AI deployment strategy.",
-            "Intuit aims to embed AI agents",
-            "seamlessly into natural customer",
-            "workflows, enabling them to perform",
-            "tasks without disrupting established",
-            "processes.",
-            "Intuit Intelligence\u0027s architecture",
-            "prioritizes querying verified financial",
-            "data over generating responses from",
-            "large language models to minimize",
-            "hallucination risks."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T13:30:00.000Z",
-      "ranking": 6.5832871962811215,
-      "articleUrl": "https://venturebeat.com/ai/intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in"
     },
     {
       "id": "106",
@@ -636,40 +604,6 @@
       "articleUrl": "https://www.theverge.com/news/808858/google-gemini-for-home-early-access-launch"
     },
     {
-      "id": "87",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Glyph AI",
-      "mediumTitle": "Zhipu AI\u0027s Glyph for LLMs",
-      "longTitle": "Zhipu AI\u0027s Glyph: Visual-Text Compression for LLMs",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Zhipu AI has introduced \u0022Glyph,\u0022 an",
-            "innovative AI framework designed to",
-            "significantly enhance the context length",
-            "capabilities of large language models",
-            "(LLMs) by employing a novel visual-text",
-            "compression technique.",
-            "The research team at Zhipu AI has",
-            "demonstrated that this visual-text",
-            "compression method can scale a 128K",
-            "context window towards the challenging",
-            "1M-token workload without compromising",
-            "the model\u0027s ability to understand and",
-            "generate accurate responses.",
-            "The core idea behind Glyph is to",
-            "represent lengthy textual sequences as",
-            "images, which can then be processed by",
-            "Vision-Language Models (VLMs)."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T09:35:08.000Z",
-      "ranking": 6.487303504201251,
-      "articleUrl": "https://www.marktechpost.com/2025/10/28/zhipu-ai-releases-glyph-an-ai-framework-for-scaling-the-context-length-through-visual-text-compression/"
-    },
-    {
       "id": "105",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -701,6 +635,181 @@
       "publishedAt": "2025-10-29T08:00:00.000Z",
       "ranking": 6.4411764705882355,
       "articleUrl": "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots"
+    },
+    {
+      "id": "96",
+      "topic": "Dev Tools",
+      "source": "VentureBeat AI",
+      "shortTitle": "GitHub Agent HQ",
+      "mediumTitle": "GitHub Agent HQ: AI Agent Management",
+      "longTitle": "GitHub Agent HQ: Unified AI Agent Orchestration and Management",
+      "paragraphs": [
+        {
+          "Lines": [
+            "GitHub\u0027s Agent HQ is a new architecture",
+            "designed to address the growing",
+            "challenge enterprises face with managing",
+            "multiple AI coding agents.",
+            "Instead of offering another proprietary",
+            "agent, GitHub is positioning itself as a",
+            "central control plane, enabling",
+            "developers to orchestrate and manage",
+            "agents from various providers like",
+            "Anthropic, OpenAI, Google, Cognition,",
+            "and xAI within a unified platform.",
+            "Security is paramount, with agents",
+            "operating under strict controls, using",
+            "locked-down GitHub tokens, and confined",
+            "to designated branches within sandboxed",
+            "GitHub Actions environments with",
+            "firewall protections.",
+            "This prevents unauthorized access to",
+            "external networks or data exfiltration."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T17:10:00.000Z",
+      "ranking": 6.339816735967496,
+      "articleUrl": "https://venturebeat.com/ai/githubs-agent-hq-aims-to-solve-enterprises-biggest-ai-coding-problem-too"
+    },
+    {
+      "id": "98",
+      "topic": "Dev Tools",
+      "source": "The Verge AI",
+      "shortTitle": "GitHub AI Agents",
+      "mediumTitle": "GitHub Agent HQ: AI Coding Agents",
+      "longTitle": "GitHub Launches Agent HQ for Third-Party AI Coding Assistants",
+      "paragraphs": [
+        {
+          "Lines": [
+            "GitHub is launching a new initiative",
+            "called \u0022Agent HQ\u0022 to provide developers",
+            "with access to a variety of third-party",
+            "AI coding agents directly within the",
+            "GitHub platform.",
+            "In the coming months, developers will be",
+            "able to utilize agents from prominent AI",
+            "research and development companies,",
+            "including OpenAI\u0027s Codex, Anthropic\u0027s",
+            "Claude, Google\u0027s Jules, xAI, and",
+            "Cognition\u0027s Devin.",
+            "This move signifies a departure from",
+            "relying solely on GitHub Copilot,",
+            "opening up the ecosystem to a broader",
+            "range of AI tools."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T13:10:00.000Z",
+      "ranking": 6.198289063494633,
+      "articleUrl": "https://www.theverge.com/news/808032/github-ai-agent-hq-coding-openai-anthropic"
+    },
+    {
+      "id": "88",
+      "topic": "Finance",
+      "source": "VentureBeat AI",
+      "shortTitle": "Intuit\u0027s AI Approach",
+      "mediumTitle": "Intuit\u0027s Trust-First AI Strategy",
+      "longTitle": "Intuit Prioritizes Trust and Usability in Financial AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Intuit\u0027s new QuickBooks release,",
+            "featuring Intuit Intelligence,",
+            "emphasizes a deliberate approach to",
+            "building financial AI, prioritizing",
+            "trust and usability over generative",
+            "capabilities.",
+            "The company learned that errors in",
+            "financial software significantly erode",
+            "customer trust, necessitating a cautious",
+            "AI deployment strategy.",
+            "Intuit aims to embed AI agents",
+            "seamlessly into natural customer",
+            "workflows, enabling them to perform",
+            "tasks without disrupting established",
+            "processes.",
+            "Intuit Intelligence\u0027s architecture",
+            "prioritizes querying verified financial",
+            "data over generating responses from",
+            "large language models to minimize",
+            "hallucination risks."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T13:30:00.000Z",
+      "ranking": 6.192129187436882,
+      "articleUrl": "https://venturebeat.com/ai/intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in"
+    },
+    {
+      "id": "89",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI Restructures",
+      "mediumTitle": "OpenAI\u0027s For-Profit Shift \u0026 Microsoft Deal",
+      "longTitle": "OpenAI Finalizes For-Profit Restructuring with Enhanced Microsoft Partnership",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has finalized its for-profit",
+            "restructuring, establishing OpenAI Group",
+            "PBC as its new for-profit public benefit",
+            "corporation.",
+            "This restructuring is accompanied by a",
+            "significant new agreement with",
+            "Microsoft, which will influence OpenAI\u0027s",
+            "future endeavors, including the",
+            "development of consumer hardware and",
+            "strategies for achieving Artificial",
+            "General Intelligence (AGI).",
+            "In essence, OpenAI\u0027s completed",
+            "restructuring and its renewed, expanded",
+            "partnership with Microsoft represent a",
+            "strategic pivot towards greater",
+            "commercialization and accelerated",
+            "development, particularly in the pursuit",
+            "of AGI and the creation of",
+            "consumer-facing AI hardware."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T10:38:55.000Z",
+      "ranking": 6.184266272506941,
+      "articleUrl": "https://www.theverge.com/news/807875/openai-microsoft-for-profit-agi"
+    },
+    {
+      "id": "87",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "Glyph AI",
+      "mediumTitle": "Zhipu AI\u0027s Glyph for LLMs",
+      "longTitle": "Zhipu AI\u0027s Glyph: Visual-Text Compression for LLMs",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Zhipu AI has introduced \u0022Glyph,\u0022 an",
+            "innovative AI framework designed to",
+            "significantly enhance the context length",
+            "capabilities of large language models",
+            "(LLMs) by employing a novel visual-text",
+            "compression technique.",
+            "The research team at Zhipu AI has",
+            "demonstrated that this visual-text",
+            "compression method can scale a 128K",
+            "context window towards the challenging",
+            "1M-token workload without compromising",
+            "the model\u0027s ability to understand and",
+            "generate accurate responses.",
+            "The core idea behind Glyph is to",
+            "represent lengthy textual sequences as",
+            "images, which can then be processed by",
+            "Vision-Language Models (VLMs)."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T09:35:08.000Z",
+      "ranking": 6.042490803475387,
+      "articleUrl": "https://www.marktechpost.com/2025/10/28/zhipu-ai-releases-glyph-an-ai-framework-for-scaling-the-context-length-through-visual-text-compression/"
     },
     {
       "id": "94",
@@ -735,7 +844,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 6.384740840851195,
+      "ranking": 5.931902023441844,
       "articleUrl": "https://www.theverge.com/news/807811/adobe-photoshop-lightroom-premiere-pro-ai-max-2025"
     },
     {
@@ -772,7 +881,7 @@
         }
       ],
       "publishedAt": "2025-10-28T10:16:17.000Z",
-      "ranking": 6.344066333679625,
+      "ranking": 5.908654246924229,
       "articleUrl": "https://www.theverge.com/news/807867/adobe-max-2025-all-the-latest-announcements"
     },
     {
@@ -803,7 +912,7 @@
         }
       ],
       "publishedAt": "2025-10-28T08:40:45.000Z",
-      "ranking": 6.164957100427514,
+      "ranking": 5.707720666575294,
       "articleUrl": "https://www.theverge.com/news/807825/amazon-job-layoffs-2025-ai"
     },
     {
@@ -838,7 +947,7 @@
         }
       ],
       "publishedAt": "2025-10-28T13:13:25.000Z",
-      "ranking": 6.082661871893658,
+      "ranking": 5.687715438447263,
       "articleUrl": "https://www.theverge.com/news/808079/chatgpt-paypal-openai-acp-purchases"
     },
     {
@@ -875,7 +984,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 5.97474083001428,
+      "ranking": 5.5219020042849625,
       "articleUrl": "https://www.theverge.com/news/807809/adobe-firefly-ai-audio-generate-soundtrack-speech"
     },
     {
@@ -911,7 +1020,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 5.6785869807714455,
+      "ranking": 5.225748153292084,
       "articleUrl": "https://www.theverge.com/news/807457/adobe-ai-agent-project-moonlight"
     },
     {
@@ -948,8 +1057,44 @@
         }
       ],
       "publishedAt": "2025-10-28T05:00:00.000Z",
-      "ranking": 5.172190366769281,
+      "ranking": 4.664524150133885,
       "articleUrl": "https://venturebeat.com/ai/paypals-agentic-commerce-play-shows-why-flexibility-not-standards-will"
+    },
+    {
+      "id": "92",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Adobe Express AI Beta",
+      "mediumTitle": "Adobe Express Launches AI Assistant Beta",
+      "longTitle": "Adobe Express Introduces Public Beta for New Generative AI Assistant",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Adobe Express has launched a public beta",
+            "for its new AI Assistant, a generative",
+            "AI feature designed to help users modify",
+            "and enhance designs using text prompts.",
+            "This AI assistant acts as a",
+            "conversational creative agent, allowing",
+            "users of all skill levels to make design",
+            "changes through simple, descriptive text",
+            "commands.",
+            "The core functionality enables users to",
+            "understand natural language commands and",
+            "translate them into design edits,",
+            "bypassing manual tool selection.",
+            "The emphasis is on ease of use and the",
+            "ability to achieve desired visual",
+            "outcomes through natural language",
+            "interaction, thereby lowering the",
+            "barrier to entry for creative design",
+            "tasks within Adobe Express."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T09:00:00.000Z",
+      "ranking": 4.5635686555329205,
+      "articleUrl": "https://www.theverge.com/news/807802/adobe-express-ai-assistant-prompt-editing-beta-max-2025"
     },
     {
       "id": "85",
@@ -985,7 +1130,7 @@
         }
       ],
       "publishedAt": "2025-10-27T19:16:48.000Z",
-      "ranking": 5.103815373292529,
+      "ranking": 4.46291860071132,
       "articleUrl": "https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership"
     },
     {
@@ -1022,44 +1167,8 @@
         }
       ],
       "publishedAt": "2025-10-27T21:46:59.000Z",
-      "ranking": 5.056445796789353,
+      "ranking": 4.44985802148263,
       "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
-    },
-    {
-      "id": "92",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Adobe Express AI Beta",
-      "mediumTitle": "Adobe Express Launches AI Assistant Beta",
-      "longTitle": "Adobe Express Introduces Public Beta for New Generative AI Assistant",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Adobe Express has launched a public beta",
-            "for its new AI Assistant, a generative",
-            "AI feature designed to help users modify",
-            "and enhance designs using text prompts.",
-            "This AI assistant acts as a",
-            "conversational creative agent, allowing",
-            "users of all skill levels to make design",
-            "changes through simple, descriptive text",
-            "commands.",
-            "The core functionality enables users to",
-            "understand natural language commands and",
-            "translate them into design edits,",
-            "bypassing manual tool selection.",
-            "The emphasis is on ease of use and the",
-            "ability to achieve desired visual",
-            "outcomes through natural language",
-            "interaction, thereby lowering the",
-            "barrier to entry for creative design",
-            "tasks within Adobe Express."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 5.016407481358856,
-      "articleUrl": "https://www.theverge.com/news/807802/adobe-express-ai-assistant-prompt-editing-beta-max-2025"
     },
     {
       "id": "99",
@@ -1091,7 +1200,7 @@
         }
       ],
       "publishedAt": "2025-10-27T21:46:59.000Z",
-      "ranking": 4.596445788335683,
+      "ranking": 3.989858014362031,
       "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
     },
     {
@@ -1124,7 +1233,7 @@
         }
       ],
       "publishedAt": "2025-10-27T20:01:00.000Z",
-      "ranking": 4.5686661714480925,
+      "ranking": 3.9378667742815914,
       "articleUrl": "https://venturebeat.com/ai/minimax-m2-is-the-new-king-of-open-source-llms-especially-for-agentic-tool"
     },
     {
@@ -1157,7 +1266,7 @@
         }
       ],
       "publishedAt": "2025-10-27T13:00:00.000Z",
-      "ranking": 3.8730996239635713,
+      "ranking": 3.1461238502524385,
       "articleUrl": "https://www.theverge.com/report/806359/openai-sora-deepfake-detection-c2pa-content-credentials"
     },
     {
@@ -1193,7 +1302,7 @@
         }
       ],
       "publishedAt": "2025-10-27T14:51:24.000Z",
-      "ranking": 3.732673462952085,
+      "ranking": 3.0311467330513233,
       "articleUrl": "https://www.theverge.com/podcast/807136/lexisnexis-ceo-sean-fitzpatick-ai-lawyer-legal-chatgpt-interview"
     },
     {
@@ -1227,7 +1336,7 @@
         }
       ],
       "publishedAt": "2025-10-27T11:00:00.000Z",
-      "ranking": 3.293364778917417,
+      "ranking": 2.5389753156571073,
       "articleUrl": "https://www.theverge.com/report/806887/clinical-grade-ai-buzzword"
     },
     {
@@ -1263,7 +1372,7 @@
         }
       ],
       "publishedAt": "2025-10-27T17:00:00.000Z",
-      "ranking": 3.1980172077658895,
+      "ranking": 2.5258688243293417,
       "articleUrl": "https://venturebeat.com/ai/anthropic-rolls-out-claude-ai-for-finance-integrates-with-excel-to-rival"
     },
     {
@@ -1300,7 +1409,7 @@
         }
       ],
       "publishedAt": "2025-10-27T08:43:09.000Z",
-      "ranking": 2.9572743485662034,
+      "ranking": 2.1716218514944137,
       "articleUrl": "https://www.marktechpost.com/2025/10/27/how-to-build-an-agentic-decision-tree-rag-system-with-intelligent-query-routing-self-checking-and-iterative-refinement/"
     },
     {
@@ -1336,7 +1445,7 @@
         }
       ],
       "publishedAt": "2025-10-27T13:04:33.000Z",
-      "ranking": 2.441535178633437,
+      "ranking": 1.7155988412184806,
       "articleUrl": "https://www.theverge.com/news/807078/qualcomm-ai-chips-launch-hexagon-npus"
     },
     {
@@ -1373,7 +1482,7 @@
         }
       ],
       "publishedAt": "2025-10-27T11:09:54.000Z",
-      "ranking": 2.0964458034919593,
+      "ranking": 1.3443179649023858,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/806486/if-you-cant-afford-a-vacation-an-ai-app-will-sell-you-pictures-of-one"
     },
     {
@@ -1408,7 +1517,7 @@
         }
       ],
       "publishedAt": "2025-10-27T00:23:22.000Z",
-      "ranking": 1.2777737469177923,
+      "ranking": 0.3779470174125752,
       "articleUrl": "https://www.marktechpost.com/2025/10/26/meet-kvcached-a-machine-learning-library-to-enable-virtualized-elastic-kv-cache-for-llm-serving-on-shared-gpus/"
     },
     {
@@ -1441,7 +1550,7 @@
         }
       ],
       "publishedAt": "2025-10-27T05:00:00.000Z",
-      "ranking": 0.7102208730493746,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/google-cloud-takes-aim-at-coreweave-and-aws-with-managed-slurm-for"
     },
     {
@@ -1514,112 +1623,6 @@
       "publishedAt": "2025-10-25T12:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/policy/806425/ice-social-media-surveillance-free-speech-assault"
-    },
-    {
-      "id": "2",
-      "topic": "Security",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Browser Risk",
-      "mediumTitle": "AI Browser Security Disaster",
-      "longTitle": "AI Browser Security Risks: The Comet Disaster and Beyond",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The Comet security disaster highlights",
-            "how AI-powered browsers, exemplified by",
-            "Perplexity\u0027s Comet, face critical prompt",
-            "injection vulnerabilities due to their",
-            "ability to understand and act on web",
-            "pages.",
-            "The Comet disaster serves as a crucial",
-            "warning that future AI browsers must",
-            "assume every website is a potential",
-            "threat, prioritizing safety over cool",
-            "features.",
-            "Unlike traditional browsers that",
-            "passively display content, AI browsers",
-            "are designed for interaction, making",
-            "them susceptible to malicious",
-            "instructions embedded in seemingly",
-            "harmless web content."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-25T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/when-your-ai-browser-becomes-your-enemy-the-comet-security-disaster"
-    },
-    {
-      "id": "63",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Liquid AI VLM",
-      "mediumTitle": "Liquid AI\u0027s New 3B VLM",
-      "longTitle": "Liquid AI releases LFM2-VL-3B, a 3B parameter VLM for edge devices",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A significant aspect of this release is",
-            "its suitability for edge-class devices.",
-            "By making a powerful 3 billion parameter",
-            "VLM accessible on edge devices, Liquid",
-            "AI is enabling more sophisticated AI",
-            "functionalities to be deployed in",
-            "environments with limited computational",
-            "resources or network bandwidth.",
-            "Liquid AI has introduced its latest",
-            "innovation, the LFM2-VL-3B, a 3 billion",
-            "parameter Vision Language Model (VLM).",
-            "The emphasis on preserving the speed",
-            "profile indicates that Liquid AI has",
-            "likely employed advanced optimization",
-            "techniques to manage the computational",
-            "demands of a larger model, making it",
-            "practical for deployment on edge",
-            "devices."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-24T23:14:18.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/10/24/liquid-ais-lfm2-vl-3b-brings-a-3b-parameter-vision-language-model-vlm-to-edge-class-devices/"
-    },
-    {
-      "id": "64",
-      "topic": "Dev Tools",
-      "source": "Marktechpost AI",
-      "shortTitle": "LitServe ML APIs",
-      "mediumTitle": "LitServe: Advanced ML API Deployment",
-      "longTitle": "LitServe: Building Advanced Multi-Endpoint ML APIs",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A key aspect highlighted is that all",
-            "these operations are performed locally,",
-            "eliminating the need for external API",
-            "dependencies.",
-            "The emphasis on local inference is a",
-            "significant point, as it suggests that",
-            "users can deploy and run these advanced",
-            "ML APIs entirely on their own",
-            "infrastructure.",
-            "This offers greater control over data",
-            "privacy, security, and potentially lower",
-            "operational costs compared to relying on",
-            "cloud-based services.",
-            "The article \u0027An Implementation on",
-            "Building Advanced Multi-Endpoint Machine",
-            "Learning APIs with LitServe: Batching,",
-            "Streaming, Caching, and Local Inference\u0027",
-            "introduces LitServe, a lightweight",
-            "framework designed for deploying machine",
-            "learning models as APIs with ease."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-24T22:20:57.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/10/24/an-implementation-on-building-advanced-multi-endpoint-machine-learning-apis-with-litserve-batching-streaming-caching-and-local-inference/"
     }
   ]
 }
