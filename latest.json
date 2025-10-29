@@ -1,6 +1,40 @@
 {
   "articles": [
     {
+      "id": "112",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Grokipedia Biased",
+      "mediumTitle": "Grokipedia Launched with Bias Claims",
+      "longTitle": "Grokipedia Launched by xAI, Faces Bias Accusations",
+      "paragraphs": [
+        {
+          "Lines": [
+            "However, early observations and reports",
+            "suggest that Grokipedia exhibits",
+            "significant biases, including racism and",
+            "transphobia, and a strong, uncritical",
+            "admiration for Elon Musk himself.",
+            "Grokipedia, a new online encyclopedia",
+            "launched by Elon Musk\u0027s startup xAI, is",
+            "being promoted as a less \u0027woke\u0027 and less",
+            "biased alternative to Wikipedia, with",
+            "the stated goal of presenting \u0027the",
+            "truth, the whole truth and nothing but",
+            "the truth\u0027.",
+            "Specifically, it has been flagged for",
+            "displaying racist sentiments and",
+            "transphobic viewpoints, contradicting",
+            "Musk\u0027s claims of neutrality and",
+            "truthfulness."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T09:30:00.000Z",
+      "ranking": 8.774999999999999,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808514/grokipedia-wikipedia-comparison"
+    },
+    {
       "id": "102",
       "topic": "Generative AI",
       "source": "Marktechpost AI",
@@ -32,6 +66,39 @@
       "publishedAt": "2025-10-28T23:21:17.000Z",
       "ranking": 8.466666666666667,
       "articleUrl": "https://www.marktechpost.com/2025/10/28/minimax-open-sources-minimax-m2-a-mini-model-built-for-max-coding-and-agentic-workflows-at-8-claude-sonnet-price-and-2x-faster/"
+    },
+    {
+      "id": "107",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "TikTok Creator Tools",
+      "mediumTitle": "TikTok Enhances Creator Experience",
+      "longTitle": "TikTok Unveils New Features for Creators at US Summit",
+      "paragraphs": [
+        {
+          "Lines": [
+            "TikTok has unveiled three new features",
+            "aimed at enhancing the creator",
+            "experience, announced at their recent US",
+            "Creator Summit.",
+            "These updates focus on improving revenue",
+            "opportunities, assisting with video",
+            "planning, and streamlining the editing",
+            "process, particularly for converting",
+            "longer videos into shorter, more",
+            "digestible clips.",
+            "The Smart Split tool, in particular,",
+            "addresses a common challenge for",
+            "creators: the need to adapt long-form",
+            "content for short-form platforms, a",
+            "crucial aspect of maximizing reach and",
+            "engagement."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T10:45:01.000Z",
+      "ranking": 8.288461538461538,
+      "articleUrl": "https://www.theverge.com/news/808749/tiktok-smart-split-ai-outline-revenue-sharing-subscriptions"
     },
     {
       "id": "104",
@@ -69,36 +136,41 @@
       "articleUrl": "https://www.marktechpost.com/2025/10/28/liquid-ai-releases-lfm2-colbert-350m-a-new-small-model-that-brings-late-interaction-retrieval-to-multilingual-and-cross-lingual-rag/"
     },
     {
-      "id": "98",
-      "topic": "Dev Tools",
+      "id": "114",
+      "topic": "Environment",
       "source": "The Verge AI",
-      "shortTitle": "GitHub AI Agents",
-      "mediumTitle": "GitHub Agent HQ: AI Coding Agents",
-      "longTitle": "GitHub Launches Agent HQ for Third-Party AI Coding Assistants",
+      "shortTitle": "Gates: Climate Optimism",
+      "mediumTitle": "Bill Gates Advocates Optimistic Climate Discourse",
+      "longTitle": "Bill Gates\u0027 Memo: Shifting Climate Change Discourse to Optimism",
       "paragraphs": [
         {
           "Lines": [
-            "GitHub is launching a new initiative",
-            "called \u0022Agent HQ\u0022 to provide developers",
-            "with access to a variety of third-party",
-            "AI coding agents directly within the",
-            "GitHub platform.",
-            "In the coming months, developers will be",
-            "able to utilize agents from prominent AI",
-            "research and development companies,",
-            "including OpenAI\u0027s Codex, Anthropic\u0027s",
-            "Claude, Google\u0027s Jules, xAI, and",
-            "Cognition\u0027s Devin.",
-            "This move signifies a departure from",
-            "relying solely on GitHub Copilot,",
-            "opening up the ecosystem to a broader",
-            "range of AI tools."
+            "Bill Gates, in a memo published Tuesday,",
+            "advocates for a more optimistic and",
+            "solutions-oriented approach to climate",
+            "change discourse.",
+            "In essence, Bill Gates is advocating for",
+            "a strategic communication shift on",
+            "climate change, emphasizing progress and",
+            "innovation.",
+            "He contends that significant progress",
+            "has already been made in addressing the",
+            "climate crisis, largely driven by",
+            "technological advancements.",
+            "Gates believes that this progress",
+            "warrants a re-evaluation of our",
+            "priorities, suggesting a greater focus",
+            "on improving human well-being.",
+            "His message is one of measured optimism,",
+            "grounded in the belief that human",
+            "ingenuity can overcome daunting",
+            "problems."
           ]
         }
       ],
-      "publishedAt": "2025-10-28T13:10:00.000Z",
-      "ranking": 7.85,
-      "articleUrl": "https://www.theverge.com/news/808032/github-ai-agent-hq-coding-openai-anthropic"
+      "publishedAt": "2025-10-29T09:05:45.000Z",
+      "ranking": 7.887499999999999,
+      "articleUrl": "https://www.theverge.com/report/808647/bill-gates-climate-change-ai-emissions-memo"
     },
     {
       "id": "101",
@@ -138,41 +210,41 @@
       "articleUrl": "https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban"
     },
     {
-      "id": "88",
-      "topic": "Finance",
-      "source": "VentureBeat AI",
-      "shortTitle": "Intuit\u0027s AI Approach",
-      "mediumTitle": "Intuit\u0027s Trust-First AI Strategy",
-      "longTitle": "Intuit Prioritizes Trust and Usability in Financial AI",
+      "id": "113",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Cameo sues OpenAI",
+      "mediumTitle": "Cameo sues OpenAI over \u0027cameo\u0027 name",
+      "longTitle": "Cameo alleges trademark infringement by OpenAI\u0027s Sora 2",
       "paragraphs": [
         {
           "Lines": [
-            "Intuit\u0027s new QuickBooks release,",
-            "featuring Intuit Intelligence,",
-            "emphasizes a deliberate approach to",
-            "building financial AI, prioritizing",
-            "trust and usability over generative",
-            "capabilities.",
-            "The company learned that errors in",
-            "financial software significantly erode",
-            "customer trust, necessitating a cautious",
-            "AI deployment strategy.",
-            "Intuit aims to embed AI agents",
-            "seamlessly into natural customer",
-            "workflows, enabling them to perform",
-            "tasks without disrupting established",
-            "processes.",
-            "Intuit Intelligence\u0027s architecture",
-            "prioritizes querying verified financial",
-            "data over generating responses from",
-            "large language models to minimize",
-            "hallucination risks."
+            "Cameo, the platform known for",
+            "personalized celebrity video messages,",
+            "has filed a lawsuit against OpenAI,",
+            "alleging trademark infringement over the",
+            "use of the term \u0027cameo\u0027 in relation to",
+            "OpenAI\u0027s new video generation model,",
+            "Sora 2.",
+            "Cameo is seeking to prevent OpenAI from",
+            "using the term \u0027cameo\u0027 in connection",
+            "with its AI video generation technology.",
+            "The company is likely aiming for an",
+            "injunction to stop OpenAI\u0027s use of the",
+            "name and potentially seeking damages for",
+            "the alleged infringement.",
+            "The lawsuit, lodged in a California",
+            "federal court, contends that OpenAI\u0027s",
+            "adoption of the term \u0027cameo\u0027 for its",
+            "AI-powered video feature is a deliberate",
+            "attempt to compete directly with Cameo\u0027s",
+            "established business."
           ]
         }
       ],
-      "publishedAt": "2025-10-28T13:30:00.000Z",
-      "ranking": 7.808333333333334,
-      "articleUrl": "https://venturebeat.com/ai/intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in"
+      "publishedAt": "2025-10-29T09:25:29.000Z",
+      "ranking": 7.618181818181817,
+      "articleUrl": "https://www.theverge.com/news/808750/openai-sora-cameo-celebrity-deepfake-trademark-lawsuit"
     },
     {
       "id": "96",
@@ -209,6 +281,77 @@
       "publishedAt": "2025-10-28T17:10:00.000Z",
       "ranking": 7.59090909090909,
       "articleUrl": "https://venturebeat.com/ai/githubs-agent-hq-aims-to-solve-enterprises-biggest-ai-coding-problem-too"
+    },
+    {
+      "id": "108",
+      "topic": "Large Models",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI AGI Race",
+      "mediumTitle": "OpenAI\u0027s AGI Pursuit Under Pressure",
+      "longTitle": "OpenAI Faces Intensified Pressure to Achieve AGI Amidst New Structure",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI is under significant pressure to",
+            "achieve Artificial General Intelligence",
+            "(AGI), an AI system matching or",
+            "exceeding human cognitive abilities.",
+            "This pressure has intensified with the",
+            "company\u0027s adoption of a new for-profit",
+            "structure and a strengthened partnership",
+            "with Microsoft.",
+            "Microsoft\u0027s involvement suggests a",
+            "potential for increased",
+            "commercialization pressure or a shift in",
+            "focus that could complicate OpenAI\u0027s",
+            "original mission.",
+            "The partnership with Microsoft amplifies",
+            "these pressures by providing resources",
+            "and strategic alignment, but also",
+            "potentially dictating priorities."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T10:19:21.000Z",
+      "ranking": 7.545454545454547,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808434/openai-for-profit-restructuring-microsoft-deal-agi-wars"
+    },
+    {
+      "id": "111",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "YouTube TV Upgrades",
+      "mediumTitle": "YouTube Enhances TV Viewing Experience",
+      "longTitle": "YouTube Introduces AI Upscaling and Shopping for TV",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A key update is the implementation of",
+            "AI-powered upscaling for videos uploaded",
+            "at resolutions below 1080p.",
+            "This technology will automatically",
+            "enhance these lower-resolution videos to",
+            "HD.",
+            "Crucially, YouTube is providing users",
+            "with the option to opt out of this AI",
+            "upscaling feature.",
+            "This allows viewers to retain the",
+            "original resolution of videos if they",
+            "prefer, offering a degree of control",
+            "over their viewing experience.",
+            "In addition to visual improvements,",
+            "YouTube is also rolling out an instant",
+            "shopping tool.",
+            "YouTube is introducing new features",
+            "designed to enhance the viewing",
+            "experience, particularly on larger TV",
+            "screens."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T10:00:00.000Z",
+      "ranking": 7.544444444444444,
+      "articleUrl": "https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates"
     },
     {
       "id": "103",
@@ -248,109 +391,38 @@
       "articleUrl": "https://venturebeat.com/ai/ibms-open-source-granite-4-0-nano-ai-models-are-small-enough-to-run-locally"
     },
     {
-      "id": "97",
-      "topic": "Business",
+      "id": "110",
+      "topic": "Ethics",
       "source": "The Verge AI",
-      "shortTitle": "ChatGPT PayPal",
-      "mediumTitle": "ChatGPT to Accept PayPal Payments",
-      "longTitle": "ChatGPT to Integrate PayPal for Seamless Service Payments",
+      "shortTitle": "AI Chat Limits",
+      "mediumTitle": "Character.AI Restricts Under 18s",
+      "longTitle": "Character.AI Implements Age Restrictions for Underage Users",
       "paragraphs": [
         {
           "Lines": [
-            "ChatGPT will soon allow users to pay for",
-            "services and features using their PayPal",
-            "accounts.",
-            "PayPal announced that starting in 2026,",
-            "users will have the option to integrate",
-            "their PayPal wallet for direct purchases",
-            "within the ChatGPT interface.",
-            "This integration will leverage ChatGPT\u0027s",
-            "recently introduced Instant Checkout",
-            "feature, allowing for a seamless payment",
-            "experience familiar to users who already",
-            "utilize PayPal for online transactions.",
-            "The announcement signifies a move",
-            "towards greater convenience and",
-            "accessibility for ChatGPT users.",
-            "It offers a trusted and widely adopted",
-            "payment method directly within the AI",
-            "chatbot interface."
+            "Character.AI, a platform enabling",
+            "interaction with AI characters, is",
+            "implementing a new policy to restrict",
+            "access for users under the age of 18.",
+            "This initiative involves gradually",
+            "phasing out open-ended chats for minors",
+            "and introducing mechanisms to verify",
+            "user age.",
+            "Initially, users identified as under 18",
+            "will face a limitation of two hours per",
+            "day for engaging in \u0022open-ended chats\u0022",
+            "with the AI characters.",
+            "This daily time limit is set to",
+            "progressively decrease, ultimately",
+            "leading to a complete ban from these",
+            "types of interactions for underage",
+            "users."
           ]
         }
       ],
-      "publishedAt": "2025-10-28T13:13:25.000Z",
-      "ranking": 7.333333333333333,
-      "articleUrl": "https://www.theverge.com/news/808079/chatgpt-paypal-openai-acp-purchases"
-    },
-    {
-      "id": "89",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI Restructures",
-      "mediumTitle": "OpenAI\u0027s For-Profit Shift \u0026 Microsoft Deal",
-      "longTitle": "OpenAI Finalizes For-Profit Restructuring with Enhanced Microsoft Partnership",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has finalized its for-profit",
-            "restructuring, establishing OpenAI Group",
-            "PBC as its new for-profit public benefit",
-            "corporation.",
-            "This restructuring is accompanied by a",
-            "significant new agreement with",
-            "Microsoft, which will influence OpenAI\u0027s",
-            "future endeavors, including the",
-            "development of consumer hardware and",
-            "strategies for achieving Artificial",
-            "General Intelligence (AGI).",
-            "In essence, OpenAI\u0027s completed",
-            "restructuring and its renewed, expanded",
-            "partnership with Microsoft represent a",
-            "strategic pivot towards greater",
-            "commercialization and accelerated",
-            "development, particularly in the pursuit",
-            "of AGI and the creation of",
-            "consumer-facing AI hardware."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T10:38:55.000Z",
-      "ranking": 7.000516756595829,
-      "articleUrl": "https://www.theverge.com/news/807875/openai-microsoft-for-profit-agi"
-    },
-    {
-      "id": "87",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Glyph AI",
-      "mediumTitle": "Zhipu AI\u0027s Glyph for LLMs",
-      "longTitle": "Zhipu AI\u0027s Glyph: Visual-Text Compression for LLMs",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Zhipu AI has introduced \u0022Glyph,\u0022 an",
-            "innovative AI framework designed to",
-            "significantly enhance the context length",
-            "capabilities of large language models",
-            "(LLMs) by employing a novel visual-text",
-            "compression technique.",
-            "The research team at Zhipu AI has",
-            "demonstrated that this visual-text",
-            "compression method can scale a 128K",
-            "context window towards the challenging",
-            "1M-token workload without compromising",
-            "the model\u0027s ability to understand and",
-            "generate accurate responses.",
-            "The core idea behind Glyph is to",
-            "represent lengthy textual sequences as",
-            "images, which can then be processed by",
-            "Vision-Language Models (VLMs)."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T09:35:08.000Z",
-      "ranking": 6.888296715926851,
-      "articleUrl": "https://www.marktechpost.com/2025/10/28/zhipu-ai-releases-glyph-an-ai-framework-for-scaling-the-context-length-through-visual-text-compression/"
+      "publishedAt": "2025-10-29T10:00:00.000Z",
+      "ranking": 7.166666666666667,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
     },
     {
       "id": "100",
@@ -389,6 +461,248 @@
       "articleUrl": "https://venturebeat.com/ai/microsofts-copilot-can-now-build-apps-and-automate-your-job-heres-how-it"
     },
     {
+      "id": "109",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Grammarly Rebrands",
+      "mediumTitle": "Grammarly Rebrands to Superhuman",
+      "longTitle": "Grammarly Rebrands to Superhuman, Integrating AI Tools",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Grammarly, the popular AI writing",
+            "assistant, is undergoing a significant",
+            "rebranding and integration into a larger",
+            "suite of productivity tools under the",
+            "new name \u0027Superhuman\u0027.",
+            "This strategic move consolidates",
+            "Grammarly\u0027s existing AI writing",
+            "capabilities with other established",
+            "platforms like Coda and Superhuman Mail,",
+            "and introduces a new AI assistant named",
+            "Superhuman Go.",
+            "The newly formed Superhuman suite,",
+            "encompassing all these integrated tools,",
+            "is now accessible to all users who hold",
+            "a paid Grammarly Pro subscription.",
+            "This assistant will be made available to",
+            "Superhuman subscribers at no additional",
+            "charge."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T10:01:00.000Z",
+      "ranking": 6.7142857142857135,
+      "articleUrl": "https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch"
+    },
+    {
+      "id": "89",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI Restructures",
+      "mediumTitle": "OpenAI\u0027s For-Profit Shift \u0026 Microsoft Deal",
+      "longTitle": "OpenAI Finalizes For-Profit Restructuring with Enhanced Microsoft Partnership",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has finalized its for-profit",
+            "restructuring, establishing OpenAI Group",
+            "PBC as its new for-profit public benefit",
+            "corporation.",
+            "This restructuring is accompanied by a",
+            "significant new agreement with",
+            "Microsoft, which will influence OpenAI\u0027s",
+            "future endeavors, including the",
+            "development of consumer hardware and",
+            "strategies for achieving Artificial",
+            "General Intelligence (AGI).",
+            "In essence, OpenAI\u0027s completed",
+            "restructuring and its renewed, expanded",
+            "partnership with Microsoft represent a",
+            "strategic pivot towards greater",
+            "commercialization and accelerated",
+            "development, particularly in the pursuit",
+            "of AGI and the creation of",
+            "consumer-facing AI hardware."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T10:38:55.000Z",
+      "ranking": 6.6145078418097345,
+      "articleUrl": "https://www.theverge.com/news/807875/openai-microsoft-for-profit-agi"
+    },
+    {
+      "id": "98",
+      "topic": "Dev Tools",
+      "source": "The Verge AI",
+      "shortTitle": "GitHub AI Agents",
+      "mediumTitle": "GitHub Agent HQ: AI Coding Agents",
+      "longTitle": "GitHub Launches Agent HQ for Third-Party AI Coding Assistants",
+      "paragraphs": [
+        {
+          "Lines": [
+            "GitHub is launching a new initiative",
+            "called \u0022Agent HQ\u0022 to provide developers",
+            "with access to a variety of third-party",
+            "AI coding agents directly within the",
+            "GitHub platform.",
+            "In the coming months, developers will be",
+            "able to utilize agents from prominent AI",
+            "research and development companies,",
+            "including OpenAI\u0027s Codex, Anthropic\u0027s",
+            "Claude, Google\u0027s Jules, xAI, and",
+            "Cognition\u0027s Devin.",
+            "This move signifies a departure from",
+            "relying solely on GitHub Copilot,",
+            "opening up the ecosystem to a broader",
+            "range of AI tools."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T13:10:00.000Z",
+      "ranking": 6.594016019971494,
+      "articleUrl": "https://www.theverge.com/news/808032/github-ai-agent-hq-coding-openai-anthropic"
+    },
+    {
+      "id": "88",
+      "topic": "Finance",
+      "source": "VentureBeat AI",
+      "shortTitle": "Intuit\u0027s AI Approach",
+      "mediumTitle": "Intuit\u0027s Trust-First AI Strategy",
+      "longTitle": "Intuit Prioritizes Trust and Usability in Financial AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Intuit\u0027s new QuickBooks release,",
+            "featuring Intuit Intelligence,",
+            "emphasizes a deliberate approach to",
+            "building financial AI, prioritizing",
+            "trust and usability over generative",
+            "capabilities.",
+            "The company learned that errors in",
+            "financial software significantly erode",
+            "customer trust, necessitating a cautious",
+            "AI deployment strategy.",
+            "Intuit aims to embed AI agents",
+            "seamlessly into natural customer",
+            "workflows, enabling them to perform",
+            "tasks without disrupting established",
+            "processes.",
+            "Intuit Intelligence\u0027s architecture",
+            "prioritizes querying verified financial",
+            "data over generating responses from",
+            "large language models to minimize",
+            "hallucination risks."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T13:30:00.000Z",
+      "ranking": 6.5832871962811215,
+      "articleUrl": "https://venturebeat.com/ai/intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in"
+    },
+    {
+      "id": "106",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini for Home",
+      "mediumTitle": "Google Assistant Replaced by Gemini",
+      "longTitle": "Google Rolls Out Early Access for Gemini for Home in US",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google is rolling out early access to",
+            "Gemini for Home in the US, a significant",
+            "update that will eventually replace the",
+            "current Google Assistant on Nest",
+            "devices.",
+            "The article hints at the AI\u0027s ability to",
+            "run \u0027on-device,\u0027 which could lead to",
+            "faster response times and improved",
+            "privacy by reducing the need to send",
+            "data to the cloud for processing.",
+            "Gemini for Home is designed to leverage",
+            "the capabilities of Google\u0027s Gemini AI",
+            "model, which is known for its multimodal",
+            "understanding and advanced reasoning.",
+            "The transition from Google Assistant to",
+            "Gemini for Home is a strategic move by",
+            "Google to stay competitive in the",
+            "rapidly evolving smart home market."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T11:08:48.000Z",
+      "ranking": 6.53888888888889,
+      "articleUrl": "https://www.theverge.com/news/808858/google-gemini-for-home-early-access-launch"
+    },
+    {
+      "id": "87",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "Glyph AI",
+      "mediumTitle": "Zhipu AI\u0027s Glyph for LLMs",
+      "longTitle": "Zhipu AI\u0027s Glyph: Visual-Text Compression for LLMs",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Zhipu AI has introduced \u0022Glyph,\u0022 an",
+            "innovative AI framework designed to",
+            "significantly enhance the context length",
+            "capabilities of large language models",
+            "(LLMs) by employing a novel visual-text",
+            "compression technique.",
+            "The research team at Zhipu AI has",
+            "demonstrated that this visual-text",
+            "compression method can scale a 128K",
+            "context window towards the challenging",
+            "1M-token workload without compromising",
+            "the model\u0027s ability to understand and",
+            "generate accurate responses.",
+            "The core idea behind Glyph is to",
+            "represent lengthy textual sequences as",
+            "images, which can then be processed by",
+            "Vision-Language Models (VLMs)."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T09:35:08.000Z",
+      "ranking": 6.487303504201251,
+      "articleUrl": "https://www.marktechpost.com/2025/10/28/zhipu-ai-releases-glyph-an-ai-framework-for-scaling-the-context-length-through-visual-text-compression/"
+    },
+    {
+      "id": "105",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Search Shift",
+      "mediumTitle": "AI Chatbots Reshape Online Discovery",
+      "longTitle": "Generative AI Disrupts Search, Creating New Optimization Field",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The rise of AI chatbots and generative",
+            "AI is predicted to cause a 25% decline",
+            "in traditional search engine volume by",
+            "2026, ushering in a new era of online",
+            "discovery.",
+            "The era of solely optimizing for Google",
+            "is over, replaced by a complex ecosystem",
+            "where understanding how AI synthesizes",
+            "information is paramount for business",
+            "discoverability.",
+            "This disruption has led to the emergence",
+            "of Generative Engine Optimization (GEO),",
+            "a field focused on how AI models",
+            "understand and synthesize information,",
+            "differing from traditional SEO\u0027s keyword",
+            "and backlink focus."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T08:00:00.000Z",
+      "ranking": 6.4411764705882355,
+      "articleUrl": "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots"
+    },
+    {
       "id": "94",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -421,7 +735,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 6.793987737075631,
+      "ranking": 6.384740840851195,
       "articleUrl": "https://www.theverge.com/news/807811/adobe-photoshop-lightroom-premiere-pro-ai-max-2025"
     },
     {
@@ -458,7 +772,7 @@
         }
       ],
       "publishedAt": "2025-10-28T10:16:17.000Z",
-      "ranking": 6.7353923699305485,
+      "ranking": 6.344066333679625,
       "articleUrl": "https://www.theverge.com/news/807867/adobe-max-2025-all-the-latest-announcements"
     },
     {
@@ -489,8 +803,43 @@
         }
       ],
       "publishedAt": "2025-10-28T08:40:45.000Z",
-      "ranking": 6.578726288185593,
+      "ranking": 6.164957100427514,
       "articleUrl": "https://www.theverge.com/news/807825/amazon-job-layoffs-2025-ai"
+    },
+    {
+      "id": "97",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT PayPal",
+      "mediumTitle": "ChatGPT to Accept PayPal Payments",
+      "longTitle": "ChatGPT to Integrate PayPal for Seamless Service Payments",
+      "paragraphs": [
+        {
+          "Lines": [
+            "ChatGPT will soon allow users to pay for",
+            "services and features using their PayPal",
+            "accounts.",
+            "PayPal announced that starting in 2026,",
+            "users will have the option to integrate",
+            "their PayPal wallet for direct purchases",
+            "within the ChatGPT interface.",
+            "This integration will leverage ChatGPT\u0027s",
+            "recently introduced Instant Checkout",
+            "feature, allowing for a seamless payment",
+            "experience familiar to users who already",
+            "utilize PayPal for online transactions.",
+            "The announcement signifies a move",
+            "towards greater convenience and",
+            "accessibility for ChatGPT users.",
+            "It offers a trusted and widely adopted",
+            "payment method directly within the AI",
+            "chatbot interface."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T13:13:25.000Z",
+      "ranking": 6.082661871893658,
+      "articleUrl": "https://www.theverge.com/news/808079/chatgpt-paypal-openai-acp-purchases"
     },
     {
       "id": "93",
@@ -526,7 +875,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 6.383987710024621,
+      "ranking": 5.97474083001428,
       "articleUrl": "https://www.theverge.com/news/807809/adobe-firefly-ai-audio-generate-soundtrack-speech"
     },
     {
@@ -562,45 +911,8 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 6.087833846724919,
+      "ranking": 5.6785869807714455,
       "articleUrl": "https://www.theverge.com/news/807457/adobe-ai-agent-project-moonlight"
-    },
-    {
-      "id": "85",
-      "topic": "Hardware",
-      "source": "The Verge AI",
-      "shortTitle": "DOE Supercomputers",
-      "mediumTitle": "DOE Invests $1B in Supercomputers",
-      "longTitle": "AMD, Oracle, HPE Partner with DOE for $1B Supercomputers",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AMD, in collaboration with Oracle and",
-            "Hewlett Packard Enterprise (HPE), has",
-            "secured a significant $1 billion",
-            "partnership with the US Department of",
-            "Energy (DOE) to develop two advanced",
-            "supercomputers.",
-            "The overall initiative underscores a",
-            "substantial investment in",
-            "high-performance computing and",
-            "artificial intelligence (AI)",
-            "capabilities for the DOE.",
-            "The sheer scale of the investment ($1",
-            "billion) highlights the critical role",
-            "supercomputing plays in national",
-            "research priorities, particularly in the",
-            "rapidly evolving field of AI.",
-            "This partnership is expected to drive",
-            "advancements in AI research and",
-            "development, leveraging AMD\u0027s",
-            "cutting-edge technology."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T19:16:48.000Z",
-      "ranking": 5.706452389886094,
-      "articleUrl": "https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership"
     },
     {
       "id": "86",
@@ -636,8 +948,45 @@
         }
       ],
       "publishedAt": "2025-10-28T05:00:00.000Z",
-      "ranking": 5.637819181194152,
+      "ranking": 5.172190366769281,
       "articleUrl": "https://venturebeat.com/ai/paypals-agentic-commerce-play-shows-why-flexibility-not-standards-will"
+    },
+    {
+      "id": "85",
+      "topic": "Hardware",
+      "source": "The Verge AI",
+      "shortTitle": "DOE Supercomputers",
+      "mediumTitle": "DOE Invests $1B in Supercomputers",
+      "longTitle": "AMD, Oracle, HPE Partner with DOE for $1B Supercomputers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AMD, in collaboration with Oracle and",
+            "Hewlett Packard Enterprise (HPE), has",
+            "secured a significant $1 billion",
+            "partnership with the US Department of",
+            "Energy (DOE) to develop two advanced",
+            "supercomputers.",
+            "The overall initiative underscores a",
+            "substantial investment in",
+            "high-performance computing and",
+            "artificial intelligence (AI)",
+            "capabilities for the DOE.",
+            "The sheer scale of the investment ($1",
+            "billion) highlights the critical role",
+            "supercomputing plays in national",
+            "research priorities, particularly in the",
+            "rapidly evolving field of AI.",
+            "This partnership is expected to drive",
+            "advancements in AI research and",
+            "development, leveraging AMD\u0027s",
+            "cutting-edge technology."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T19:16:48.000Z",
+      "ranking": 5.103815373292529,
+      "articleUrl": "https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership"
     },
     {
       "id": "84",
@@ -673,7 +1022,7 @@
         }
       ],
       "publishedAt": "2025-10-27T21:46:59.000Z",
-      "ranking": 5.623800986857551,
+      "ranking": 5.056445796789353,
       "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
     },
     {
@@ -709,7 +1058,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 5.425653872551617,
+      "ranking": 5.016407481358856,
       "articleUrl": "https://www.theverge.com/news/807802/adobe-express-ai-assistant-prompt-editing-beta-max-2025"
     },
     {
@@ -742,7 +1091,7 @@
         }
       ],
       "publishedAt": "2025-10-27T21:46:59.000Z",
-      "ranking": 5.163800324709074,
+      "ranking": 4.596445788335683,
       "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
     },
     {
@@ -775,7 +1124,7 @@
         }
       ],
       "publishedAt": "2025-10-27T20:01:00.000Z",
-      "ranking": 5.160918774083157,
+      "ranking": 4.5686661714480925,
       "articleUrl": "https://venturebeat.com/ai/minimax-m2-is-the-new-king-of-open-source-llms-especially-for-agentic-tool"
     },
     {
@@ -808,7 +1157,7 @@
         }
       ],
       "publishedAt": "2025-10-27T13:00:00.000Z",
-      "ranking": 4.564255451901065,
+      "ranking": 3.8730996239635713,
       "articleUrl": "https://www.theverge.com/report/806359/openai-sora-deepfake-detection-c2pa-content-credentials"
     },
     {
@@ -844,7 +1193,7 @@
         }
       ],
       "publishedAt": "2025-10-27T14:51:24.000Z",
-      "ranking": 4.39765868563938,
+      "ranking": 3.732673462952085,
       "articleUrl": "https://www.theverge.com/podcast/807136/lexisnexis-ceo-sean-fitzpatick-ai-lawyer-legal-chatgpt-interview"
     },
     {
@@ -878,7 +1227,7 @@
         }
       ],
       "publishedAt": "2025-10-27T11:00:00.000Z",
-      "ranking": 4.012711541420795,
+      "ranking": 3.293364778917417,
       "articleUrl": "https://www.theverge.com/report/806887/clinical-grade-ai-buzzword"
     },
     {
@@ -914,7 +1263,7 @@
         }
       ],
       "publishedAt": "2025-10-27T17:00:00.000Z",
-      "ranking": 3.8327911201017795,
+      "ranking": 3.1980172077658895,
       "articleUrl": "https://venturebeat.com/ai/anthropic-rolls-out-claude-ai-for-finance-integrates-with-excel-to-rival"
     },
     {
@@ -951,7 +1300,7 @@
         }
       ],
       "publishedAt": "2025-10-27T08:43:09.000Z",
-      "ranking": 3.7087705127960318,
+      "ranking": 2.9572743485662034,
       "articleUrl": "https://www.marktechpost.com/2025/10/27/how-to-build-an-agentic-decision-tree-rag-system-with-intelligent-query-routing-self-checking-and-iterative-refinement/"
     },
     {
@@ -987,7 +1336,7 @@
         }
       ],
       "publishedAt": "2025-10-27T13:04:33.000Z",
-      "ranking": 3.131622057200208,
+      "ranking": 2.441535178633437,
       "articleUrl": "https://www.theverge.com/news/807078/qualcomm-ai-chips-launch-hexagon-npus"
     },
     {
@@ -1024,7 +1373,7 @@
         }
       ],
       "publishedAt": "2025-10-27T11:09:54.000Z",
-      "ranking": 2.8134667738041372,
+      "ranking": 2.0964458034919593,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/806486/if-you-cant-afford-a-vacation-an-ai-app-will-sell-you-pictures-of-one"
     },
     {
@@ -1059,7 +1408,7 @@
         }
       ],
       "publishedAt": "2025-10-27T00:23:22.000Z",
-      "ranking": 2.146681256072256,
+      "ranking": 1.2777737469177923,
       "articleUrl": "https://www.marktechpost.com/2025/10/26/meet-kvcached-a-machine-learning-library-to-enable-virtualized-elastic-kv-cache-for-llm-serving-on-shared-gpus/"
     },
     {
@@ -1092,7 +1441,7 @@
         }
       ],
       "publishedAt": "2025-10-27T05:00:00.000Z",
-      "ranking": 1.5141404170307595,
+      "ranking": 0.7102208730493746,
       "articleUrl": "https://venturebeat.com/ai/google-cloud-takes-aim-at-coreweave-and-aws-with-managed-slurm-for"
     },
     {
@@ -1271,356 +1620,6 @@
       "publishedAt": "2025-10-24T22:20:57.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/10/24/an-implementation-on-building-advanced-multi-endpoint-machine-learning-apis-with-litserve-batching-streaming-caching-and-local-inference/"
-    },
-    {
-      "id": "65",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "WALT: AI Learns Web Tools",
-      "mediumTitle": "Salesforce WALT: AI Agents Learn Web Tools",
-      "longTitle": "Salesforce WALT: AI Agents Automatically Learn to Use Web Tools",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Salesforce AI Research has introduced",
-            "WALT (Web Agents that Learn Tools), a",
-            "novel framework designed to empower",
-            "Large Language Model (LLM) agents to",
-            "automatically discover and utilize",
-            "reusable tools from any website.",
-            "This innovation shifts the paradigm of",
-            "browser automation from constructing",
-            "intricate sequences of clicks to a more",
-            "efficient model centered around callable",
-            "tools.",
-            "WALT\u0027s core functionality lies in its",
-            "ability to reverse-engineer latent",
-            "website functionalities and transform",
-            "them into readily invocable tools.",
-            "This means that instead of an LLM agent",
-            "needing to be explicitly programmed with",
-            "a complex series of actions to interact",
-            "with a website, it can now discover and",
-            "leverage pre-defined operations."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-24T13:11:44.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/10/24/salesforce-ai-research-introduces-walt-web-agents-that-learn-tools-enabling-llm-agents-to-automatically-discover-reusable-tools-from-any-website/"
-    },
-    {
-      "id": "3",
-      "topic": "Learning",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Learning Shift",
-      "mediumTitle": "Rethinking AI: Learning Better",
-      "longTitle": "Researcher Challenges AI Scaling, Advocates for \u0027Learning Better\u0027",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Rafael Rafailov, a researcher at",
-            "Thinking Machines Lab, a startup",
-            "co-founded by former OpenAI CTO Mira",
-            "Murati, challenges the prevailing AI",
-            "industry strategy of achieving",
-            "artificial general intelligence (AGI)",
-            "through massive scaling of model size,",
-            "data, and compute.",
-            "He argues that the focus should shift",
-            "from \u0027training bigger\u0027 to \u0027learning",
-            "better\u0027, asserting that the first",
-            "superintelligence will be a \u0027superhuman",
-            "learner\u0027 capable of efficient",
-            "adaptation, theory proposal,",
-            "experimentation, and iterative",
-            "refinement."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-24T11:30:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/thinking-machines-challenges-openais-ai-scaling-strategy-first"
-    },
-    {
-      "id": "54",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "ChatGPT Knowledge",
-      "mediumTitle": "ChatGPT Integrates Company Knowledge",
-      "longTitle": "ChatGPT for Business Now Accesses Company Knowledge",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has introduced a significant",
-            "enhancement to ChatGPT for its Business,",
-            "Enterprise, and Education users,",
-            "enabling the chatbot to directly access",
-            "and process information from a variety",
-            "of workplace and educational tools.",
-            "The ability to directly interact with",
-            "company-specific data without manual",
-            "searching or app-hopping represents a",
-            "substantial improvement in productivity",
-            "and information retrieval efficiency.",
-            "The implication is that users can now",
-            "ask ChatGPT questions about their work",
-            "or school projects, and the chatbot can",
-            "retrieve and synthesize information",
-            "directly from these connected sources."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-24T10:58:06.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/806046/openai-chatgpt-company-knowledge-update"
-    },
-    {
-      "id": "55",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Mondelez AI Ads",
-      "mediumTitle": "Mondelez to Use AI for TV Ads",
-      "longTitle": "Mondelez to Leverage Generative AI for TV Advertising Next Year",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Mondelez, the company behind Oreo",
-            "cookies, is set to leverage generative",
-            "artificial intelligence (AI) for its",
-            "television advertising campaigns",
-            "starting next year.",
-            "This strategic move aims to",
-            "significantly reduce marketing expenses,",
-            "as revealed by Jon Halvorson, Mondelez\u2019s",
-            "global senior vice president of consumer",
-            "experience.",
-            "The snacking giant has invested over $40",
-            "million in an AI video tool specifically",
-            "designed to generate TV advertisements.",
-            "This technology has the potential to cut",
-            "production costs by as much as 50%.",
-            "The expectation is that these",
-            "AI-generated ads will be ready for",
-            "release in the following year."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-24T10:43:52.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/806047/mondelez-ai-generated-ads"
-    },
-    {
-      "id": "4",
-      "topic": "Dev Tools",
-      "source": "VentureBeat AI",
-      "shortTitle": "Mistral AI Studio",
-      "mediumTitle": "Mistral AI Studio for Enterprises",
-      "longTitle": "Mistral AI Studio: Production Platform for Enterprise AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Mistral AI has launched Mistral AI",
-            "Studio, a new production platform",
-            "designed to empower enterprises in",
-            "building, observing, and",
-            "operationalizing AI applications at",
-            "scale.",
-            "This platform leverages Mistral\u0027s",
-            "extensive catalog of both open-source",
-            "and proprietary large language models",
-            "(LLMs) and multimodal models.",
-            "A key feature of Mistral AI Studio is",
-            "its comprehensive model catalog, which",
-            "includes proprietary models like Mistral",
-            "Large, Medium, Small, and Tiny, as well",
-            "as open-weight models such as Open",
-            "Mistral 7B, Open Mixtral 8\u00D77B, Open",
-            "Mixtral 8\u00D722B, and Codestral 2501."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-24T08:55:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/mistral-launches-its-own-ai-studio-for-quick-development-with-its-european"
-    },
-    {
-      "id": "5",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Ant\u0027s Ring-1T",
-      "mediumTitle": "Ant Group\u0027s Trillion-Parameter AI Model",
-      "longTitle": "Ant Group Unveils Ring-1T, a Trillion-Parameter AI Model for Global Competition",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Ant Group, an affiliate of Alibaba, has",
-            "unveiled Ring-1T, its new open-source",
-            "reasoning model with one trillion total",
-            "parameters.",
-            "This release positions Ring-1T as a",
-            "competitor to prominent models like",
-            "OpenAI\u0027s GPT-5 and Google\u0027s Gemini 2.5,",
-            "intensifying the global AI race between",
-            "China and the US.",
-            "Ring-1T is specifically optimized for",
-            "mathematical and logical",
-            "problem-solving, code generation, and",
-            "scientific challenges.",
-            "It achieved a 93.4% score on the AIME 25",
-            "leaderboard, ranking second only to",
-            "GPT-5.",
-            "In benchmark testing, Ring-1T showcased",
-            "strong performance in mathematics,",
-            "coding, logical reasoning, and general",
-            "tasks."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-24T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/inside-ring-1t-ant-engineers-solve-reinforcement-learning-bottlenecks-at"
-    },
-    {
-      "id": "74",
-      "topic": "Data Prep",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Training Data",
-      "mediumTitle": "Google\u0027s Watch \u0026 Learn for AI Agents",
-      "longTitle": "Google\u0027s Watch \u0026 Learn: Automating AI Agent Training Data",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The W\u0026L framework addresses this \u0022data",
-            "bottleneck\u0022 by automatically extracting",
-            "demonstrations from raw videos without",
-            "requiring human annotation.",
-            "Google researchers have introduced a",
-            "novel framework called \u0022Watch \u0026 Learn\u0022",
-            "(W\u0026L) designed to overcome a significant",
-            "hurdle in developing computer-use agents",
-            "(CUAs): the scarcity of high-quality",
-            "training data.",
-            "Experiments conducted on the OSWorld",
-            "benchmark demonstrated the effectiveness",
-            "of W\u0026L, showing significant performance",
-            "improvements for both fine-tuned and",
-            "ICL-utilized agents.",
-            "Third, these generated trajectories can",
-            "be used to train or fine-tune existing",
-            "CUAs and foundation models, or to create",
-            "\u0022in-context learning\u0022 (ICL) examples."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-24T01:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/googles-watch-and-learn-framework-cracks-the-data-bottleneck-for-training"
-    },
-    {
-      "id": "66",
-      "topic": "Learning",
-      "source": "Marktechpost AI",
-      "shortTitle": "FLAME AI",
-      "mediumTitle": "Google AI\u0027s FLAME for Object Detection",
-      "longTitle": "Google AI Introduces FLAME for Enhanced Open-Vocabulary Object Detection",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google AI has introduced FLAME (Few-shot",
-            "Learning with Active Model Enhancement),",
-            "a novel one-step active learning",
-            "approach designed to significantly",
-            "improve the performance of",
-            "open-vocabulary object detectors,",
-            "particularly in specialized domains like",
-            "remote sensing.",
-            "The core innovation of FLAME lies in its",
-            "active learning strategy, which",
-            "intelligently identifies and prioritizes",
-            "the most valuable data points for",
-            "training the refiner.",
-            "By focusing on identifying the samples",
-            "that provide the most new information or",
-            "help resolve ambiguities for the model,",
-            "FLAME aims to achieve substantial",
-            "performance gains with minimal",
-            "annotation effort."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-24T00:44:35.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/10/23/google-ai-introduces-flame-approach-a-one-step-active-learning-that-selects-the-most-informative-samples-for-training-and-makes-a-model-specialization-super-fast/"
-    },
-    {
-      "id": "6",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "ChatGPT Knowledge",
-      "mediumTitle": "ChatGPT Integrates Company Data",
-      "longTitle": "OpenAI\u0027s ChatGPT Business Now Integrates Company Knowledge",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has launched \u0022Company Knowledge\u0022",
-            "for its ChatGPT Business, Enterprise,",
-            "and Edu subscribers, a feature designed",
-            "to integrate an organization\u0027s internal",
-            "data directly into ChatGPT",
-            "conversations.",
-            "Company Knowledge respects existing",
-            "permissions within connected apps,",
-            "meaning ChatGPT can only access data a",
-            "user is already authorized to view.",
-            "It does not train on company data by",
-            "default, and security features include",
-            "industry-standard encryption, support",
-            "for SSO and SCIM, IP allowlisting, and",
-            "role-based access control (RBAC)",
-            "policies managed by administrators."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-24T00:19:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/openai-launches-company-knowledge-in-chatgpt-letting-you-access-your-firms"
-    },
-    {
-      "id": "7",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Copilot Fall Update",
-      "mediumTitle": "Microsoft Copilot Fall Update Features",
-      "longTitle": "Microsoft\u0027s Fall Update for Copilot AI Assistant",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft has announced a significant",
-            "Fall Update for its Copilot AI",
-            "assistant, introducing 12 new features",
-            "designed to enhance its integration",
-            "across Windows, Edge, and Microsoft 365.",
-            "Ultimately, Microsoft aims for Copilot",
-            "to act as a connective interface, a",
-            "reasoning agent, and a secure",
-            "orchestration layer, elevating human",
-            "potential and adapting to enterprise",
-            "context.",
-            "The updates aim to position Copilot as a",
-            "practical, personal assistant for both",
-            "work and personal use, while emphasizing",
-            "user control and data safety.",
-            "The update signifies a strategic pivot",
-            "for Microsoft, moving Copilot from a",
-            "static productivity tool to a contextual",
-            "AI infrastructure."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-23T21:01:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/microsoft-copilot-gets-12-big-updates-for-fall-including-new-ai-assistant"
     }
   ]
 }
