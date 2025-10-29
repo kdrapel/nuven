@@ -34,6 +34,41 @@
       "articleUrl": "https://www.marktechpost.com/2025/10/28/minimax-open-sources-minimax-m2-a-mini-model-built-for-max-coding-and-agentic-workflows-at-8-claude-sonnet-price-and-2x-faster/"
     },
     {
+      "id": "104",
+      "topic": "NLP",
+      "source": "Marktechpost AI",
+      "shortTitle": "LFM2-ColBERT-350M",
+      "mediumTitle": "New Model for Multilingual RAG",
+      "longTitle": "Liquid AI\u0027s LFM2-ColBERT-350M Enhances Multilingual RAG",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Liquid AI has introduced",
+            "LFM2-ColBERT-350M, a novel, compact late",
+            "interaction retriever designed to",
+            "enhance multilingual and cross-lingual",
+            "search capabilities within Retrieval",
+            "Augmented Generation (RAG) systems.",
+            "The core innovation of LFM2-ColBERT-350M",
+            "lies in its capacity to index documents",
+            "in one language and then efficiently",
+            "process queries submitted in a multitude",
+            "of languages, all while maintaining high",
+            "retrieval accuracy.",
+            "The ability to handle multilingual",
+            "queries against a single-language index",
+            "is a significant advancement,",
+            "potentially democratizing access to",
+            "information and AI-powered services",
+            "across language barriers."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T07:32:35.000Z",
+      "ranking": 8.136363636363637,
+      "articleUrl": "https://www.marktechpost.com/2025/10/28/liquid-ai-releases-lfm2-colbert-350m-a-new-small-model-that-brings-late-interaction-retrieval-to-multilingual-and-cross-lingual-rag/"
+    },
+    {
       "id": "89",
       "topic": "Business",
       "source": "The Verge AI",
@@ -495,43 +530,6 @@
       "articleUrl": "https://www.theverge.com/news/808079/chatgpt-paypal-openai-acp-purchases"
     },
     {
-      "id": "86",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "PayPal AI Commerce",
-      "mediumTitle": "PayPal\u0027s New Agentic Commerce Services",
-      "longTitle": "PayPal Launches Agentic Commerce Services for AI-Driven Transactions",
-      "paragraphs": [
-        {
-          "Lines": [
-            "PayPal is launching new features to help",
-            "businesses adapt to the emerging",
-            "landscape of agentic commerce, which",
-            "involves AI agents facilitating",
-            "transactions.",
-            "\u0022Agent Ready,\u0022 slated for release in",
-            "2026, will enable existing PayPal",
-            "merchants to accept payments directly on",
-            "AI platforms.",
-            "Shop Sync integrates a company\u0027s",
-            "catalog, inventory, and fulfillment data",
-            "into a central repository that AI models",
-            "can access.",
-            "\u0022Shop Sync,\u0022 available now, allows",
-            "companies to make their product data",
-            "discoverable across various AI chat",
-            "interfaces.",
-            "The company\u0027s new \u0022Agentic Commerce",
-            "Services\u0022 include two main components:",
-            "\u0022Agent Ready\u0022 and \u0022Shop Sync.\u0022"
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T05:00:00.000Z",
-      "ranking": 7.306666666666667,
-      "articleUrl": "https://venturebeat.com/ai/paypals-agentic-commerce-play-shows-why-flexibility-not-standards-will"
-    },
-    {
       "id": "100",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -566,43 +564,6 @@
       "publishedAt": "2025-10-28T21:30:00.000Z",
       "ranking": 6.826923076923076,
       "articleUrl": "https://venturebeat.com/ai/microsofts-copilot-can-now-build-apps-and-automate-your-job-heres-how-it"
-    },
-    {
-      "id": "85",
-      "topic": "Hardware",
-      "source": "The Verge AI",
-      "shortTitle": "DOE Supercomputers",
-      "mediumTitle": "DOE Invests $1B in Supercomputers",
-      "longTitle": "AMD, Oracle, HPE Partner with DOE for $1B Supercomputers",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AMD, in collaboration with Oracle and",
-            "Hewlett Packard Enterprise (HPE), has",
-            "secured a significant $1 billion",
-            "partnership with the US Department of",
-            "Energy (DOE) to develop two advanced",
-            "supercomputers.",
-            "The overall initiative underscores a",
-            "substantial investment in",
-            "high-performance computing and",
-            "artificial intelligence (AI)",
-            "capabilities for the DOE.",
-            "The sheer scale of the investment ($1",
-            "billion) highlights the critical role",
-            "supercomputing plays in national",
-            "research priorities, particularly in the",
-            "rapidly evolving field of AI.",
-            "This partnership is expected to drive",
-            "advancements in AI research and",
-            "development, leveraging AMD\u0027s",
-            "cutting-edge technology."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T19:16:48.000Z",
-      "ranking": 6.726264447827139,
-      "articleUrl": "https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership"
     },
     {
       "id": "92",
@@ -641,6 +602,43 @@
       "articleUrl": "https://www.theverge.com/news/807802/adobe-express-ai-assistant-prompt-editing-beta-max-2025"
     },
     {
+      "id": "85",
+      "topic": "Hardware",
+      "source": "The Verge AI",
+      "shortTitle": "DOE Supercomputers",
+      "mediumTitle": "DOE Invests $1B in Supercomputers",
+      "longTitle": "AMD, Oracle, HPE Partner with DOE for $1B Supercomputers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AMD, in collaboration with Oracle and",
+            "Hewlett Packard Enterprise (HPE), has",
+            "secured a significant $1 billion",
+            "partnership with the US Department of",
+            "Energy (DOE) to develop two advanced",
+            "supercomputers.",
+            "The overall initiative underscores a",
+            "substantial investment in",
+            "high-performance computing and",
+            "artificial intelligence (AI)",
+            "capabilities for the DOE.",
+            "The sheer scale of the investment ($1",
+            "billion) highlights the critical role",
+            "supercomputing plays in national",
+            "research priorities, particularly in the",
+            "rapidly evolving field of AI.",
+            "This partnership is expected to drive",
+            "advancements in AI research and",
+            "development, leveraging AMD\u0027s",
+            "cutting-edge technology."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T19:16:48.000Z",
+      "ranking": 6.2440878972612195,
+      "articleUrl": "https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership"
+    },
+    {
       "id": "84",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -674,8 +672,45 @@
         }
       ],
       "publishedAt": "2025-10-27T21:46:59.000Z",
-      "ranking": 6.574106463543874,
+      "ranking": 6.126685463530624,
       "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
+    },
+    {
+      "id": "86",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "PayPal AI Commerce",
+      "mediumTitle": "PayPal\u0027s New Agentic Commerce Services",
+      "longTitle": "PayPal Launches Agentic Commerce Services for AI-Driven Transactions",
+      "paragraphs": [
+        {
+          "Lines": [
+            "PayPal is launching new features to help",
+            "businesses adapt to the emerging",
+            "landscape of agentic commerce, which",
+            "involves AI agents facilitating",
+            "transactions.",
+            "\u0022Agent Ready,\u0022 slated for release in",
+            "2026, will enable existing PayPal",
+            "merchants to accept payments directly on",
+            "AI platforms.",
+            "Shop Sync integrates a company\u0027s",
+            "catalog, inventory, and fulfillment data",
+            "into a central repository that AI models",
+            "can access.",
+            "\u0022Shop Sync,\u0022 available now, allows",
+            "companies to make their product data",
+            "discoverable across various AI chat",
+            "interfaces.",
+            "The company\u0027s new \u0022Agentic Commerce",
+            "Services\u0022 include two main components:",
+            "\u0022Agent Ready\u0022 and \u0022Shop Sync.\u0022"
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T05:00:00.000Z",
+      "ranking": 6.040507531007718,
+      "articleUrl": "https://venturebeat.com/ai/paypals-agentic-commerce-play-shows-why-flexibility-not-standards-will"
     },
     {
       "id": "71",
@@ -707,7 +742,7 @@
         }
       ],
       "publishedAt": "2025-10-27T20:01:00.000Z",
-      "ranking": 6.16027495978281,
+      "ranking": 5.688327535693753,
       "articleUrl": "https://venturebeat.com/ai/minimax-m2-is-the-new-king-of-open-source-llms-especially-for-agentic-tool"
     },
     {
@@ -740,7 +775,7 @@
         }
       ],
       "publishedAt": "2025-10-27T21:46:59.000Z",
-      "ranking": 6.114106452224545,
+      "ranking": 5.666685445234316,
       "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
     },
     {
@@ -773,7 +808,7 @@
         }
       ],
       "publishedAt": "2025-10-27T13:00:00.000Z",
-      "ranking": 5.7584541784468914,
+      "ranking": 5.189079906479053,
       "articleUrl": "https://www.theverge.com/report/806359/openai-sora-deepfake-detection-c2pa-content-credentials"
     },
     {
@@ -809,7 +844,7 @@
         }
       ],
       "publishedAt": "2025-10-27T14:51:24.000Z",
-      "ranking": 5.540300512518957,
+      "ranking": 4.996706170359097,
       "articleUrl": "https://www.theverge.com/podcast/807136/lexisnexis-ceo-sean-fitzpatick-ai-lawyer-legal-chatgpt-interview"
     },
     {
@@ -843,8 +878,44 @@
         }
       ],
       "publishedAt": "2025-10-27T11:00:00.000Z",
-      "ranking": 5.262447351383479,
+      "ranking": 4.665302954145597,
       "articleUrl": "https://www.theverge.com/report/806887/clinical-grade-ai-buzzword"
+    },
+    {
+      "id": "72",
+      "topic": "Finance",
+      "source": "VentureBeat AI",
+      "shortTitle": "Claude in Finance",
+      "mediumTitle": "Anthropic Integrates Claude into Excel",
+      "longTitle": "Anthropic\u0027s Claude AI Enhances Financial Services via Excel Integration",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Anthropic is intensifying its efforts in",
+            "the financial services sector by",
+            "integrating its Claude AI assistant",
+            "directly into Microsoft Excel and",
+            "connecting it to real-time market data",
+            "from major financial information",
+            "providers.",
+            "A key feature is the transparency it",
+            "offers by tracking and explaining its",
+            "actions at the cell level, addressing",
+            "the \u0027black box\u0027 problem and building",
+            "trust in an industry where accuracy is",
+            "paramount.",
+            "Anthropic\u0027s focus on Excel integration,",
+            "data partnerships, and pre-packaged",
+            "workflows aims to reduce adoption",
+            "friction, positioning financial services",
+            "as a key market for AI where trust and",
+            "accuracy are paramount."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T17:00:00.000Z",
+      "ranking": 4.402081714369952,
+      "articleUrl": "https://venturebeat.com/ai/anthropic-rolls-out-claude-ai-for-finance-integrates-with-excel-to-rival"
     },
     {
       "id": "80",
@@ -880,44 +951,8 @@
         }
       ],
       "publishedAt": "2025-10-27T08:43:09.000Z",
-      "ranking": 5.021841748782352,
+      "ranking": 4.393027829672887,
       "articleUrl": "https://www.marktechpost.com/2025/10/27/how-to-build-an-agentic-decision-tree-rag-system-with-intelligent-query-routing-self-checking-and-iterative-refinement/"
-    },
-    {
-      "id": "72",
-      "topic": "Finance",
-      "source": "VentureBeat AI",
-      "shortTitle": "Claude in Finance",
-      "mediumTitle": "Anthropic Integrates Claude into Excel",
-      "longTitle": "Anthropic\u0027s Claude AI Enhances Financial Services via Excel Integration",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Anthropic is intensifying its efforts in",
-            "the financial services sector by",
-            "integrating its Claude AI assistant",
-            "directly into Microsoft Excel and",
-            "connecting it to real-time market data",
-            "from major financial information",
-            "providers.",
-            "A key feature is the transparency it",
-            "offers by tracking and explaining its",
-            "actions at the cell level, addressing",
-            "the \u0027black box\u0027 problem and building",
-            "trust in an industry where accuracy is",
-            "paramount.",
-            "Anthropic\u0027s focus on Excel integration,",
-            "data partnerships, and pre-packaged",
-            "workflows aims to reduce adoption",
-            "friction, positioning financial services",
-            "as a key market for AI where trust and",
-            "accuracy are paramount."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T17:00:00.000Z",
-      "ranking": 4.915915739334871,
-      "articleUrl": "https://venturebeat.com/ai/anthropic-rolls-out-claude-ai-for-finance-integrates-with-excel-to-rival"
     },
     {
       "id": "76",
@@ -952,7 +987,7 @@
         }
       ],
       "publishedAt": "2025-10-27T13:04:33.000Z",
-      "ranking": 4.323715049265575,
+      "ranking": 3.7553937229901133,
       "articleUrl": "https://www.theverge.com/news/807078/qualcomm-ai-chips-launch-hexagon-npus"
     },
     {
@@ -989,7 +1024,7 @@
         }
       ],
       "publishedAt": "2025-10-27T11:09:54.000Z",
-      "ranking": 4.0586208109565,
+      "ranking": 3.4637674459859547,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/806486/if-you-cant-afford-a-vacation-an-ai-app-will-sell-you-pictures-of-one"
     },
     {
@@ -1024,7 +1059,7 @@
         }
       ],
       "publishedAt": "2025-10-27T00:23:22.000Z",
-      "ranking": 3.691056671601383,
+      "ranking": 2.9465840503234144,
       "articleUrl": "https://www.marktechpost.com/2025/10/26/meet-kvcached-a-machine-learning-library-to-enable-virtualized-elastic-kv-cache-for-llm-serving-on-shared-gpus/"
     },
     {
@@ -1057,7 +1092,7 @@
         }
       ],
       "publishedAt": "2025-10-27T05:00:00.000Z",
-      "ranking": 2.9304874681345106,
+      "ranking": 2.250032697986593,
       "articleUrl": "https://venturebeat.com/ai/google-cloud-takes-aim-at-coreweave-and-aws-with-managed-slurm-for"
     },
     {
@@ -1586,40 +1621,6 @@
       "publishedAt": "2025-10-23T21:01:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/microsoft-copilot-gets-12-big-updates-for-fall-including-new-ai-assistant"
-    },
-    {
-      "id": "56",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Edge Copilot Mode",
-      "mediumTitle": "Microsoft Edge Launches AI Copilot Mode",
-      "longTitle": "Microsoft Edge Integrates AI Copilot Mode for Enhanced Web Interaction",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft Edge has officially launched a",
-            "new \u0022Copilot Mode,\u0022 integrating AI",
-            "features more deeply into the browsing",
-            "experience.",
-            "Upon opening a new tab, users are",
-            "presented with a chat window, offering",
-            "the ability to ask questions, perform",
-            "searches, or directly enter a web",
-            "address.",
-            "This feature aims to streamline the",
-            "process of engaging with information",
-            "online by placing AI assistance directly",
-            "at the forefront of the user\u0027s browsing",
-            "session.",
-            "This mode, previously announced in July,",
-            "transforms Copilot into a central hub",
-            "for web interaction."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-23T20:00:35.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch"
     }
   ]
 }
