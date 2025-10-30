@@ -107,6 +107,74 @@
       "articleUrl": "https://www.marktechpost.com/2025/10/29/ibm-ai-team-releases-granite-4-0-nano-series-compact-and-open-source-small-models-built-for-ai-at-the-edge/"
     },
     {
+      "id": "124",
+      "topic": "Music",
+      "source": "The Verge AI",
+      "shortTitle": "UMG \u0026 Udio AI Deal",
+      "mediumTitle": "UMG Licenses Music Catalog to Udio",
+      "longTitle": "Universal Music Group Partners with AI Startup Udio, Settles Copyright Litigation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Universal Music Group (UMG) has entered",
+            "into a significant partnership with AI",
+            "music startup Udio, settling ongoing",
+            "copyright infringement litigation and",
+            "securing a license for UMG\u0027s extensive",
+            "music catalog to be used on Udio\u0027s new",
+            "AI-powered platform.",
+            "As the music industry continues to adapt",
+            "to the rapid advancements in AI",
+            "technology, this partnership between",
+            "Universal Music Group and Udio",
+            "represents a significant step towards",
+            "establishing a more stable and",
+            "predictable environment for both",
+            "innovation and intellectual property",
+            "protection."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-30T10:02:23.000Z",
+      "ranking": 7.9739130434782615,
+      "articleUrl": "https://www.theverge.com/news/809882/universal-music-udio-settlement"
+    },
+    {
+      "id": "125",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Sora 2 Updates",
+      "mediumTitle": "OpenAI\u0027s Sora 2 Enhancements",
+      "longTitle": "OpenAI\u0027s Sora 2 Video Generator Receives Major Updates",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has significantly updated its",
+            "Sora 2 video generator, introducing",
+            "reusable characters and video stitching",
+            "to offer users more creative control.",
+            "The most notable new feature is the",
+            "introduction of \u0027character cameos,\u0027",
+            "allowing users to transform almost any",
+            "visual element into a reusable avatar.",
+            "Once created, these avatars can be",
+            "incorporated into various AI-generated",
+            "videos, effectively acting as custom",
+            "characters that can be easily deployed",
+            "across different projects.",
+            "In addition to character cameos, Sora 2",
+            "now supports clip stitching, which",
+            "allows users to combine multiple",
+            "generated video clips into a single,",
+            "cohesive video."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-30T09:20:45.000Z",
+      "ranking": 7.629166666666668,
+      "articleUrl": "https://www.theverge.com/news/809877/openai-sora-app-character-cameo-updates"
+    },
+    {
       "id": "112",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -137,7 +205,7 @@
         }
       ],
       "publishedAt": "2025-10-29T09:30:00.000Z",
-      "ranking": 7.555405247458105,
+      "ranking": 7.158894262725228,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808514/grokipedia-wikipedia-comparison"
     },
     {
@@ -170,7 +238,7 @@
         }
       ],
       "publishedAt": "2025-10-29T10:45:01.000Z",
-      "ranking": 7.181215196334909,
+      "ranking": 6.802094415403998,
       "articleUrl": "https://www.theverge.com/news/808749/tiktok-smart-split-ai-outline-revenue-sharing-subscriptions"
     },
     {
@@ -207,80 +275,8 @@
         }
       ],
       "publishedAt": "2025-10-29T11:57:09.000Z",
-      "ranking": 6.945665019084958,
+      "ranking": 6.583266032488382,
       "articleUrl": "https://www.theverge.com/news/809017/nvidia-5-trillion-market-cap-ai"
-    },
-    {
-      "id": "104",
-      "topic": "NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "LFM2-ColBERT-350M",
-      "mediumTitle": "New Model for Multilingual RAG",
-      "longTitle": "Liquid AI\u0027s LFM2-ColBERT-350M Enhances Multilingual RAG",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Liquid AI has introduced",
-            "LFM2-ColBERT-350M, a novel, compact late",
-            "interaction retriever designed to",
-            "enhance multilingual and cross-lingual",
-            "search capabilities within Retrieval",
-            "Augmented Generation (RAG) systems.",
-            "The core innovation of LFM2-ColBERT-350M",
-            "lies in its capacity to index documents",
-            "in one language and then efficiently",
-            "process queries submitted in a multitude",
-            "of languages, all while maintaining high",
-            "retrieval accuracy.",
-            "The ability to handle multilingual",
-            "queries against a single-language index",
-            "is a significant advancement,",
-            "potentially democratizing access to",
-            "information and AI-powered services",
-            "across language barriers."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T07:32:35.000Z",
-      "ranking": 6.730023795132533,
-      "articleUrl": "https://www.marktechpost.com/2025/10/28/liquid-ai-releases-lfm2-colbert-350m-a-new-small-model-that-brings-late-interaction-retrieval-to-multilingual-and-cross-lingual-rag/"
-    },
-    {
-      "id": "114",
-      "topic": "Environment",
-      "source": "The Verge AI",
-      "shortTitle": "Gates: Climate Optimism",
-      "mediumTitle": "Bill Gates Advocates Optimistic Climate Discourse",
-      "longTitle": "Bill Gates\u0027 Memo: Shifting Climate Change Discourse to Optimism",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Bill Gates, in a memo published Tuesday,",
-            "advocates for a more optimistic and",
-            "solutions-oriented approach to climate",
-            "change discourse.",
-            "In essence, Bill Gates is advocating for",
-            "a strategic communication shift on",
-            "climate change, emphasizing progress and",
-            "innovation.",
-            "He contends that significant progress",
-            "has already been made in addressing the",
-            "climate crisis, largely driven by",
-            "technological advancements.",
-            "Gates believes that this progress",
-            "warrants a re-evaluation of our",
-            "priorities, suggesting a greater focus",
-            "on improving human well-being.",
-            "His message is one of measured optimism,",
-            "grounded in the belief that human",
-            "ingenuity can overcome daunting",
-            "problems."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T09:05:45.000Z",
-      "ranking": 6.6304264096744525,
-      "articleUrl": "https://www.theverge.com/report/808647/bill-gates-climate-change-ai-emissions-memo"
     },
     {
       "id": "120",
@@ -317,112 +313,76 @@
       "articleUrl": "https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings"
     },
     {
-      "id": "108",
-      "topic": "Large Models",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI AGI Race",
-      "mediumTitle": "OpenAI\u0027s AGI Pursuit Under Pressure",
-      "longTitle": "OpenAI Faces Intensified Pressure to Achieve AGI Amidst New Structure",
+      "id": "104",
+      "topic": "NLP",
+      "source": "Marktechpost AI",
+      "shortTitle": "LFM2-ColBERT-350M",
+      "mediumTitle": "New Model for Multilingual RAG",
+      "longTitle": "Liquid AI\u0027s LFM2-ColBERT-350M Enhances Multilingual RAG",
       "paragraphs": [
         {
           "Lines": [
-            "OpenAI is under significant pressure to",
-            "achieve Artificial General Intelligence",
-            "(AGI), an AI system matching or",
-            "exceeding human cognitive abilities.",
-            "This pressure has intensified with the",
-            "company\u0027s adoption of a new for-profit",
-            "structure and a strengthened partnership",
-            "with Microsoft.",
-            "Microsoft\u0027s involvement suggests a",
-            "potential for increased",
-            "commercialization pressure or a shift in",
-            "focus that could complicate OpenAI\u0027s",
-            "original mission.",
-            "The partnership with Microsoft amplifies",
-            "these pressures by providing resources",
-            "and strategic alignment, but also",
-            "potentially dictating priorities."
+            "Liquid AI has introduced",
+            "LFM2-ColBERT-350M, a novel, compact late",
+            "interaction retriever designed to",
+            "enhance multilingual and cross-lingual",
+            "search capabilities within Retrieval",
+            "Augmented Generation (RAG) systems.",
+            "The core innovation of LFM2-ColBERT-350M",
+            "lies in its capacity to index documents",
+            "in one language and then efficiently",
+            "process queries submitted in a multitude",
+            "of languages, all while maintaining high",
+            "retrieval accuracy.",
+            "The ability to handle multilingual",
+            "queries against a single-language index",
+            "is a significant advancement,",
+            "potentially democratizing access to",
+            "information and AI-powered services",
+            "across language barriers."
           ]
         }
       ],
-      "publishedAt": "2025-10-29T10:19:21.000Z",
-      "ranking": 6.400379428513205,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808434/openai-for-profit-restructuring-microsoft-deal-agi-wars"
+      "publishedAt": "2025-10-29T07:32:35.000Z",
+      "ranking": 6.306293540941588,
+      "articleUrl": "https://www.marktechpost.com/2025/10/28/liquid-ai-releases-lfm2-colbert-350m-a-new-small-model-that-brings-late-interaction-retrieval-to-multilingual-and-cross-lingual-rag/"
     },
     {
-      "id": "113",
-      "topic": "Business",
+      "id": "114",
+      "topic": "Environment",
       "source": "The Verge AI",
-      "shortTitle": "Cameo sues OpenAI",
-      "mediumTitle": "Cameo sues OpenAI over \u0027cameo\u0027 name",
-      "longTitle": "Cameo alleges trademark infringement by OpenAI\u0027s Sora 2",
+      "shortTitle": "Gates: Climate Optimism",
+      "mediumTitle": "Bill Gates Advocates Optimistic Climate Discourse",
+      "longTitle": "Bill Gates\u0027 Memo: Shifting Climate Change Discourse to Optimism",
       "paragraphs": [
         {
           "Lines": [
-            "Cameo, the platform known for",
-            "personalized celebrity video messages,",
-            "has filed a lawsuit against OpenAI,",
-            "alleging trademark infringement over the",
-            "use of the term \u0027cameo\u0027 in relation to",
-            "OpenAI\u0027s new video generation model,",
-            "Sora 2.",
-            "Cameo is seeking to prevent OpenAI from",
-            "using the term \u0027cameo\u0027 in connection",
-            "with its AI video generation technology.",
-            "The company is likely aiming for an",
-            "injunction to stop OpenAI\u0027s use of the",
-            "name and potentially seeking damages for",
-            "the alleged infringement.",
-            "The lawsuit, lodged in a California",
-            "federal court, contends that OpenAI\u0027s",
-            "adoption of the term \u0027cameo\u0027 for its",
-            "AI-powered video feature is a deliberate",
-            "attempt to compete directly with Cameo\u0027s",
-            "established business."
+            "Bill Gates, in a memo published Tuesday,",
+            "advocates for a more optimistic and",
+            "solutions-oriented approach to climate",
+            "change discourse.",
+            "In essence, Bill Gates is advocating for",
+            "a strategic communication shift on",
+            "climate change, emphasizing progress and",
+            "innovation.",
+            "He contends that significant progress",
+            "has already been made in addressing the",
+            "climate crisis, largely driven by",
+            "technological advancements.",
+            "Gates believes that this progress",
+            "warrants a re-evaluation of our",
+            "priorities, suggesting a greater focus",
+            "on improving human well-being.",
+            "His message is one of measured optimism,",
+            "grounded in the belief that human",
+            "ingenuity can overcome daunting",
+            "problems."
           ]
         }
       ],
-      "publishedAt": "2025-10-29T09:25:29.000Z",
-      "ranking": 6.391649404319363,
-      "articleUrl": "https://www.theverge.com/news/808750/openai-sora-cameo-celebrity-deepfake-trademark-lawsuit"
-    },
-    {
-      "id": "111",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "YouTube TV Upgrades",
-      "mediumTitle": "YouTube Enhances TV Viewing Experience",
-      "longTitle": "YouTube Introduces AI Upscaling and Shopping for TV",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A key update is the implementation of",
-            "AI-powered upscaling for videos uploaded",
-            "at resolutions below 1080p.",
-            "This technology will automatically",
-            "enhance these lower-resolution videos to",
-            "HD.",
-            "Crucially, YouTube is providing users",
-            "with the option to opt out of this AI",
-            "upscaling feature.",
-            "This allows viewers to retain the",
-            "original resolution of videos if they",
-            "prefer, offering a degree of control",
-            "over their viewing experience.",
-            "In addition to visual improvements,",
-            "YouTube is also rolling out an instant",
-            "shopping tool.",
-            "YouTube is introducing new features",
-            "designed to enhance the viewing",
-            "experience, particularly on larger TV",
-            "screens."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T10:00:00.000Z",
-      "ranking": 6.370430294297913,
-      "articleUrl": "https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates"
+      "publishedAt": "2025-10-29T09:05:45.000Z",
+      "ranking": 6.228293853296771,
+      "articleUrl": "https://www.theverge.com/report/808647/bill-gates-climate-change-ai-emissions-memo"
     },
     {
       "id": "121",
@@ -460,37 +420,112 @@
       "articleUrl": "https://www.marktechpost.com/2025/10/29/microsoft-releases-agent-lightning-a-new-ai-framework-that-enables-reinforcement-learning-rl-based-training-of-llms-for-any-ai-agent/"
     },
     {
-      "id": "102",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "MiniMax M2 AI",
-      "mediumTitle": "MiniMax M2: Coding \u0026 Agent AI",
-      "longTitle": "MiniMax M2: Open-Source AI for Coding \u0026 Agents",
+      "id": "108",
+      "topic": "Large Models",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI AGI Race",
+      "mediumTitle": "OpenAI\u0027s AGI Pursuit Under Pressure",
+      "longTitle": "OpenAI Faces Intensified Pressure to Achieve AGI Amidst New Structure",
       "paragraphs": [
         {
           "Lines": [
-            "MiniMax has released MiniMax M2, an",
-            "open-source Mixture of Experts (MoE)",
-            "model specifically designed for coding",
-            "and agentic workflows.",
-            "MiniMax M2 is cost-effective, priced at",
-            "approximately 8% of the cost of Claude",
-            "Sonnet, making advanced AI capabilities",
-            "more accessible.",
-            "The model aims to provide powerful",
-            "capabilities at a significantly lower",
-            "cost and with improved speed compared to",
-            "existing flagship models.",
-            "The model is reported to be",
-            "approximately twice as fast as",
-            "comparable models, enhancing efficiency",
-            "for users."
+            "OpenAI is under significant pressure to",
+            "achieve Artificial General Intelligence",
+            "(AGI), an AI system matching or",
+            "exceeding human cognitive abilities.",
+            "This pressure has intensified with the",
+            "company\u0027s adoption of a new for-profit",
+            "structure and a strengthened partnership",
+            "with Microsoft.",
+            "Microsoft\u0027s involvement suggests a",
+            "potential for increased",
+            "commercialization pressure or a shift in",
+            "focus that could complicate OpenAI\u0027s",
+            "original mission.",
+            "The partnership with Microsoft amplifies",
+            "these pressures by providing resources",
+            "and strategic alignment, but also",
+            "potentially dictating priorities."
           ]
         }
       ],
-      "publishedAt": "2025-10-28T23:21:17.000Z",
-      "ranking": 6.134715414530529,
-      "articleUrl": "https://www.marktechpost.com/2025/10/28/minimax-open-sources-minimax-m2-a-mini-model-built-for-max-coding-and-agentic-workflows-at-8-claude-sonnet-price-and-2x-faster/"
+      "publishedAt": "2025-10-29T10:19:21.000Z",
+      "ranking": 6.015308667852251,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808434/openai-for-profit-restructuring-microsoft-deal-agi-wars"
+    },
+    {
+      "id": "113",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Cameo sues OpenAI",
+      "mediumTitle": "Cameo sues OpenAI over \u0027cameo\u0027 name",
+      "longTitle": "Cameo alleges trademark infringement by OpenAI\u0027s Sora 2",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Cameo, the platform known for",
+            "personalized celebrity video messages,",
+            "has filed a lawsuit against OpenAI,",
+            "alleging trademark infringement over the",
+            "use of the term \u0027cameo\u0027 in relation to",
+            "OpenAI\u0027s new video generation model,",
+            "Sora 2.",
+            "Cameo is seeking to prevent OpenAI from",
+            "using the term \u0027cameo\u0027 in connection",
+            "with its AI video generation technology.",
+            "The company is likely aiming for an",
+            "injunction to stop OpenAI\u0027s use of the",
+            "name and potentially seeking damages for",
+            "the alleged infringement.",
+            "The lawsuit, lodged in a California",
+            "federal court, contends that OpenAI\u0027s",
+            "adoption of the term \u0027cameo\u0027 for its",
+            "AI-powered video feature is a deliberate",
+            "attempt to compete directly with Cameo\u0027s",
+            "established business."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T09:25:29.000Z",
+      "ranking": 5.9940913927876185,
+      "articleUrl": "https://www.theverge.com/news/808750/openai-sora-cameo-celebrity-deepfake-trademark-lawsuit"
+    },
+    {
+      "id": "111",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "YouTube TV Upgrades",
+      "mediumTitle": "YouTube Enhances TV Viewing Experience",
+      "longTitle": "YouTube Introduces AI Upscaling and Shopping for TV",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A key update is the implementation of",
+            "AI-powered upscaling for videos uploaded",
+            "at resolutions below 1080p.",
+            "This technology will automatically",
+            "enhance these lower-resolution videos to",
+            "HD.",
+            "Crucially, YouTube is providing users",
+            "with the option to opt out of this AI",
+            "upscaling feature.",
+            "This allows viewers to retain the",
+            "original resolution of videos if they",
+            "prefer, offering a degree of control",
+            "over their viewing experience.",
+            "In addition to visual improvements,",
+            "YouTube is also rolling out an instant",
+            "shopping tool.",
+            "YouTube is introducing new features",
+            "designed to enhance the viewing",
+            "experience, particularly on larger TV",
+            "screens."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T10:00:00.000Z",
+      "ranking": 5.980873866075965,
+      "articleUrl": "https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates"
     },
     {
       "id": "110",
@@ -523,8 +558,41 @@
         }
       ],
       "publishedAt": "2025-10-29T10:00:00.000Z",
-      "ranking": 5.992652081933533,
+      "ranking": 5.603096084830565,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
+    },
+    {
+      "id": "102",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "MiniMax M2 AI",
+      "mediumTitle": "MiniMax M2: Coding \u0026 Agent AI",
+      "longTitle": "MiniMax M2: Open-Source AI for Coding \u0026 Agents",
+      "paragraphs": [
+        {
+          "Lines": [
+            "MiniMax has released MiniMax M2, an",
+            "open-source Mixture of Experts (MoE)",
+            "model specifically designed for coding",
+            "and agentic workflows.",
+            "MiniMax M2 is cost-effective, priced at",
+            "approximately 8% of the cost of Claude",
+            "Sonnet, making advanced AI capabilities",
+            "more accessible.",
+            "The model aims to provide powerful",
+            "capabilities at a significantly lower",
+            "cost and with improved speed compared to",
+            "existing flagship models.",
+            "The model is reported to be",
+            "approximately twice as fast as",
+            "comparable models, enhancing efficiency",
+            "for users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T23:21:17.000Z",
+      "ranking": 5.5970936767604345,
+      "articleUrl": "https://www.marktechpost.com/2025/10/28/minimax-open-sources-minimax-m2-a-mini-model-built-for-max-coding-and-agentic-workflows-at-8-claude-sonnet-price-and-2x-faster/"
     },
     {
       "id": "116",
@@ -559,7 +627,7 @@
         }
       ],
       "publishedAt": "2025-10-29T05:00:00.000Z",
-      "ranking": 5.748763212555708,
+      "ranking": 5.289661956320969,
       "articleUrl": "https://venturebeat.com/ai/agentic-ai-is-all-about-the-context-engineering-that-is"
     },
     {
@@ -595,7 +663,7 @@
         }
       ],
       "publishedAt": "2025-10-29T05:00:00.000Z",
-      "ranking": 5.7388084519808045,
+      "ranking": 5.279707200111098,
       "articleUrl": "https://venturebeat.com/ai/from-static-classifiers-to-reasoning-engines-openais-new-model-rethinks"
     },
     {
@@ -630,7 +698,7 @@
         }
       ],
       "publishedAt": "2025-10-29T10:01:00.000Z",
-      "ranking": 5.541775510568675,
+      "ranking": 5.152451339492615,
       "articleUrl": "https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch"
     },
     {
@@ -665,7 +733,7 @@
         }
       ],
       "publishedAt": "2025-10-29T11:08:48.000Z",
-      "ranking": 5.466127868062606,
+      "ranking": 5.092520928691998,
       "articleUrl": "https://www.theverge.com/news/808858/google-gemini-for-home-early-access-launch"
     },
     {
@@ -702,8 +770,41 @@
         }
       ],
       "publishedAt": "2025-10-29T01:00:00.000Z",
-      "ranking": 5.3793873757233825,
+      "ranking": 4.864649933666566,
       "articleUrl": "https://venturebeat.com/ai/nvidia-researchers-unlock-4-bit-llm-training-that-matches-8-bit-performance"
+    },
+    {
+      "id": "105",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Search Shift",
+      "mediumTitle": "AI Chatbots Reshape Online Discovery",
+      "longTitle": "Generative AI Disrupts Search, Creating New Optimization Field",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The rise of AI chatbots and generative",
+            "AI is predicted to cause a 25% decline",
+            "in traditional search engine volume by",
+            "2026, ushering in a new era of online",
+            "discovery.",
+            "The era of solely optimizing for Google",
+            "is over, replaced by a complex ecosystem",
+            "where understanding how AI synthesizes",
+            "information is paramount for business",
+            "discoverability.",
+            "This disruption has led to the emergence",
+            "of Generative Engine Optimization (GEO),",
+            "a field focused on how AI models",
+            "understand and synthesize information,",
+            "differing from traditional SEO\u0027s keyword",
+            "and backlink focus."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T08:00:00.000Z",
+      "ranking": 4.662256721295236,
+      "articleUrl": "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots"
     },
     {
       "id": "103",
@@ -739,41 +840,8 @@
         }
       ],
       "publishedAt": "2025-10-29T00:23:00.000Z",
-      "ranking": 5.184608792944841,
+      "ranking": 4.661294105029938,
       "articleUrl": "https://venturebeat.com/ai/ibms-open-source-granite-4-0-nano-ai-models-are-small-enough-to-run-locally"
-    },
-    {
-      "id": "105",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Search Shift",
-      "mediumTitle": "AI Chatbots Reshape Online Discovery",
-      "longTitle": "Generative AI Disrupts Search, Creating New Optimization Field",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The rise of AI chatbots and generative",
-            "AI is predicted to cause a 25% decline",
-            "in traditional search engine volume by",
-            "2026, ushering in a new era of online",
-            "discovery.",
-            "The era of solely optimizing for Google",
-            "is over, replaced by a complex ecosystem",
-            "where understanding how AI synthesizes",
-            "information is paramount for business",
-            "discoverability.",
-            "This disruption has led to the emergence",
-            "of Generative Engine Optimization (GEO),",
-            "a field focused on how AI models",
-            "understand and synthesize information,",
-            "differing from traditional SEO\u0027s keyword",
-            "and backlink focus."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T08:00:00.000Z",
-      "ranking": 5.079630792115592,
-      "articleUrl": "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots"
     },
     {
       "id": "101",
@@ -809,7 +877,7 @@
         }
       ],
       "publishedAt": "2025-10-28T19:42:04.000Z",
-      "ranking": 4.992429336891266,
+      "ranking": 4.403989395061128,
       "articleUrl": "https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban"
     },
     {
@@ -845,7 +913,7 @@
         }
       ],
       "publishedAt": "2025-10-28T17:10:00.000Z",
-      "ranking": 4.405010892307411,
+      "ranking": 3.7813192386477454,
       "articleUrl": "https://venturebeat.com/ai/githubs-agent-hq-aims-to-solve-enterprises-biggest-ai-coding-problem-too"
     },
     {
@@ -881,7 +949,7 @@
         }
       ],
       "publishedAt": "2025-10-28T21:30:00.000Z",
-      "ranking": 4.25297483538426,
+      "ranking": 3.6895557403001016,
       "articleUrl": "https://venturebeat.com/ai/microsofts-copilot-can-now-build-apps-and-automate-your-job-heres-how-it"
     },
     {
@@ -918,7 +986,7 @@
         }
       ],
       "publishedAt": "2025-10-28T13:30:00.000Z",
-      "ranking": 4.053705354303736,
+      "ranking": 3.3790138711286613,
       "articleUrl": "https://venturebeat.com/ai/intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in"
     },
     {
@@ -950,7 +1018,7 @@
         }
       ],
       "publishedAt": "2025-10-28T13:10:00.000Z",
-      "ranking": 4.041354485673429,
+      "ranking": 3.3620266561940166,
       "articleUrl": "https://www.theverge.com/news/808032/github-ai-agent-hq-coding-openai-anthropic"
     },
     {
@@ -986,7 +1054,7 @@
         }
       ],
       "publishedAt": "2025-10-28T10:38:55.000Z",
-      "ranking": 3.8874985918892753,
+      "ranking": 3.173147003951927,
       "articleUrl": "https://www.theverge.com/news/807875/openai-microsoft-for-profit-agi"
     },
     {
@@ -1020,7 +1088,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:35:08.000Z",
-      "ranking": 3.6866893302216592,
+      "ranking": 2.9575516455967845,
       "articleUrl": "https://www.marktechpost.com/2025/10/28/zhipu-ai-releases-glyph-an-ai-framework-for-scaling-the-context-length-through-visual-text-compression/"
     },
     {
@@ -1057,8 +1125,43 @@
         }
       ],
       "publishedAt": "2025-10-28T10:16:17.000Z",
-      "ranking": 3.590938580668814,
+      "ranking": 2.8713401878671645,
       "articleUrl": "https://www.theverge.com/news/807867/adobe-max-2025-all-the-latest-announcements"
+    },
+    {
+      "id": "97",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT PayPal",
+      "mediumTitle": "ChatGPT to Accept PayPal Payments",
+      "longTitle": "ChatGPT to Integrate PayPal for Seamless Service Payments",
+      "paragraphs": [
+        {
+          "Lines": [
+            "ChatGPT will soon allow users to pay for",
+            "services and features using their PayPal",
+            "accounts.",
+            "PayPal announced that starting in 2026,",
+            "users will have the option to integrate",
+            "their PayPal wallet for direct purchases",
+            "within the ChatGPT interface.",
+            "This integration will leverage ChatGPT\u0027s",
+            "recently introduced Instant Checkout",
+            "feature, allowing for a seamless payment",
+            "experience familiar to users who already",
+            "utilize PayPal for online transactions.",
+            "The announcement signifies a move",
+            "towards greater convenience and",
+            "accessibility for ChatGPT users.",
+            "It offers a trusted and widely adopted",
+            "payment method directly within the AI",
+            "chatbot interface."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T13:13:25.000Z",
+      "ranking": 2.8554073000947877,
+      "articleUrl": "https://www.theverge.com/news/808079/chatgpt-paypal-openai-acp-purchases"
     },
     {
       "id": "94",
@@ -1093,43 +1196,8 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 3.543583351801546,
+      "ranking": 2.8063011461346647,
       "articleUrl": "https://www.theverge.com/news/807811/adobe-photoshop-lightroom-premiere-pro-ai-max-2025"
-    },
-    {
-      "id": "97",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "ChatGPT PayPal",
-      "mediumTitle": "ChatGPT to Accept PayPal Payments",
-      "longTitle": "ChatGPT to Integrate PayPal for Seamless Service Payments",
-      "paragraphs": [
-        {
-          "Lines": [
-            "ChatGPT will soon allow users to pay for",
-            "services and features using their PayPal",
-            "accounts.",
-            "PayPal announced that starting in 2026,",
-            "users will have the option to integrate",
-            "their PayPal wallet for direct purchases",
-            "within the ChatGPT interface.",
-            "This integration will leverage ChatGPT\u0027s",
-            "recently introduced Instant Checkout",
-            "feature, allowing for a seamless payment",
-            "experience familiar to users who already",
-            "utilize PayPal for online transactions.",
-            "The announcement signifies a move",
-            "towards greater convenience and",
-            "accessibility for ChatGPT users.",
-            "It offers a trusted and widely adopted",
-            "payment method directly within the AI",
-            "chatbot interface."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T13:13:25.000Z",
-      "ranking": 3.533943069472593,
-      "articleUrl": "https://www.theverge.com/news/808079/chatgpt-paypal-openai-acp-purchases"
     },
     {
       "id": "95",
@@ -1159,7 +1227,7 @@
         }
       ],
       "publishedAt": "2025-10-28T08:40:45.000Z",
-      "ranking": 3.3015854074790036,
+      "ranking": 2.5598407321312457,
       "articleUrl": "https://www.theverge.com/news/807825/amazon-job-layoffs-2025-ai"
     },
     {
@@ -1196,7 +1264,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 3.133583313479324,
+      "ranking": 2.39630113197886,
       "articleUrl": "https://www.theverge.com/news/807809/adobe-firefly-ai-audio-generate-soundtrack-speech"
     },
     {
@@ -1232,7 +1300,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 2.8374294520752965,
+      "ranking": 2.100147277553307,
       "articleUrl": "https://www.theverge.com/news/807457/adobe-ai-agent-project-moonlight"
     },
     {
@@ -1268,7 +1336,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 2.175249950944356,
+      "ranking": 1.4379677844154353,
       "articleUrl": "https://www.theverge.com/news/807802/adobe-express-ai-assistant-prompt-editing-beta-max-2025"
     },
     {
@@ -1305,7 +1373,7 @@
         }
       ],
       "publishedAt": "2025-10-28T05:00:00.000Z",
-      "ranking": 2.0540767310655363,
+      "ranking": 1.26115837352818,
       "articleUrl": "https://venturebeat.com/ai/paypals-agentic-commerce-play-shows-why-flexibility-not-standards-will"
     },
     {
@@ -1342,7 +1410,7 @@
         }
       ],
       "publishedAt": "2025-10-27T21:46:59.000Z",
-      "ranking": 1.438637987990738,
+      "ranking": 0.5453388037871374,
       "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
     },
     {
@@ -1379,7 +1447,7 @@
         }
       ],
       "publishedAt": "2025-10-27T19:16:48.000Z",
-      "ranking": 1.3126984180799237,
+      "ranking": 0.38458413003803393,
       "articleUrl": "https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership"
     },
     {
@@ -1412,7 +1480,7 @@
         }
       ],
       "publishedAt": "2025-10-27T21:46:59.000Z",
-      "ranking": 0.9786379418047773,
+      "ranking": 0.08533878544817508,
       "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
     },
     {
@@ -1445,7 +1513,7 @@
         }
       ],
       "publishedAt": "2025-10-27T20:01:00.000Z",
-      "ranking": 0.8285552730498198,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/minimax-m2-is-the-new-king-of-open-source-llms-especially-for-agentic-tool"
     },
     {
@@ -1696,74 +1764,6 @@
       "publishedAt": "2025-10-27T08:43:09.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/10/27/how-to-build-an-agentic-decision-tree-rag-system-with-intelligent-query-routing-self-checking-and-iterative-refinement/"
-    },
-    {
-      "id": "73",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Google AI Training",
-      "mediumTitle": "Google Cloud Vertex AI Training",
-      "longTitle": "Google Cloud Launches Vertex AI Training for Custom AI Models",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google Cloud has launched Vertex AI",
-            "Training, a new service aimed at",
-            "enterprises looking to build and train",
-            "their own large-scale AI models from",
-            "scratch or customize open-source models.",
-            "Jaime de Guerre, senior director of",
-            "product management at Google Cloud,",
-            "highlighted that Vertex AI Training",
-            "targets longer training jobs that might",
-            "involve hundreds or thousands of chips,",
-            "emphasizing that it\u0027s for training",
-            "models with potentially random initial",
-            "weights, not for augmenting context.",
-            "It includes a managed Slurm environment",
-            "that handles job scheduling and",
-            "automatic recovery from failures."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T05:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/google-cloud-takes-aim-at-coreweave-and-aws-with-managed-slurm-for"
-    },
-    {
-      "id": "81",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "kvcached LLM",
-      "mediumTitle": "kvcached: Elastic LLM GPU Memory",
-      "longTitle": "kvcached: Revolutionizing LLM Serving with Elastic KV Caches",
-      "paragraphs": [
-        {
-          "Lines": [
-            "kvcached is a new machine learning",
-            "library designed to address a",
-            "significant inefficiency in large",
-            "language model (LLM) serving: the",
-            "wasteful pre-reservation of GPU memory",
-            "for KV caches.",
-            "By enabling this virtualized and elastic",
-            "KV cache, kvcached promises to",
-            "significantly improve the efficiency of",
-            "LLM serving on shared GPU",
-            "infrastructure.",
-            "This could translate into higher",
-            "throughput, lower latency, and reduced",
-            "operational expenses for organizations",
-            "deploying LLMs at scale.",
-            "The core problem kvcached aims to solve",
-            "is the memory overhead associated with",
-            "KV caches."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T00:23:22.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/10/26/meet-kvcached-a-machine-learning-library-to-enable-virtualized-elastic-kv-cache-for-llm-serving-on-shared-gpus/"
     }
   ]
 }
