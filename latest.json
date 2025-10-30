@@ -104,41 +104,6 @@
       "articleUrl": "https://venturebeat.com/ai/anthropic-scientists-hacked-claudes-brain-and-it-noticed-heres-why-thats"
     },
     {
-      "id": "104",
-      "topic": "NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "LFM2-ColBERT-350M",
-      "mediumTitle": "New Model for Multilingual RAG",
-      "longTitle": "Liquid AI\u0027s LFM2-ColBERT-350M Enhances Multilingual RAG",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Liquid AI has introduced",
-            "LFM2-ColBERT-350M, a novel, compact late",
-            "interaction retriever designed to",
-            "enhance multilingual and cross-lingual",
-            "search capabilities within Retrieval",
-            "Augmented Generation (RAG) systems.",
-            "The core innovation of LFM2-ColBERT-350M",
-            "lies in its capacity to index documents",
-            "in one language and then efficiently",
-            "process queries submitted in a multitude",
-            "of languages, all while maintaining high",
-            "retrieval accuracy.",
-            "The ability to handle multilingual",
-            "queries against a single-language index",
-            "is a significant advancement,",
-            "potentially democratizing access to",
-            "information and AI-powered services",
-            "across language barriers."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T07:32:35.000Z",
-      "ranking": 8.136363636363637,
-      "articleUrl": "https://www.marktechpost.com/2025/10/28/liquid-ai-releases-lfm2-colbert-350m-a-new-small-model-that-brings-late-interaction-retrieval-to-multilingual-and-cross-lingual-rag/"
-    },
-    {
       "id": "118",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -173,6 +138,40 @@
       "publishedAt": "2025-10-29T20:28:00.000Z",
       "ranking": 8.129166666666666,
       "articleUrl": "https://venturebeat.com/ai/vibe-coding-platform-cursor-releases-first-in-house-llm-composer-promising"
+    },
+    {
+      "id": "123",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "IBM AI Edge Models",
+      "mediumTitle": "IBM Granite 4.0 Nano: AI at the Edge",
+      "longTitle": "IBM\u0027s Granite 4.0 Nano: Compact, Open-Source AI for Edge Devices",
+      "paragraphs": [
+        {
+          "Lines": [
+            "IBM\u0027s AI team has introduced the Granite",
+            "4.0 Nano series, a new family of",
+            "compact, open-source small language",
+            "models designed for AI inference at the",
+            "edge and locally.",
+            "The primary objective of Granite 4.0",
+            "Nano is to enable enterprise-grade AI",
+            "capabilities on devices with limited",
+            "computational resources, such as",
+            "smartphones, IoT devices, and other edge",
+            "computing platforms.",
+            "This initiative by IBM signifies a",
+            "growing trend towards decentralized AI,",
+            "where powerful AI models can operate",
+            "directly on user devices, enhancing",
+            "privacy, reducing latency, and enabling",
+            "offline functionality."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-30T05:10:58.000Z",
+      "ranking": 7.991666666666668,
+      "articleUrl": "https://www.marktechpost.com/2025/10/29/ibm-ai-team-releases-granite-4-0-nano-series-compact-and-open-source-small-models-built-for-ai-at-the-edge/"
     },
     {
       "id": "117",
@@ -357,78 +356,6 @@
       "articleUrl": "https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates"
     },
     {
-      "id": "116",
-      "topic": "Context Eng.",
-      "source": "VentureBeat AI",
-      "shortTitle": "Agentic AI Context",
-      "mediumTitle": "Context Engineering for Agentic AI",
-      "longTitle": "Context Engineering is Key to Agentic AI Success",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Agentic AI systems autonomously gather",
-            "tools, data, and information to provide",
-            "answers, but their reliability depends",
-            "on accurate context.",
-            "Context engineering ensures relevant",
-            "context is delivered to AI agents at the",
-            "opportune moment, guiding LLMs to use",
-            "appropriate tools.",
-            "The article introduces Elasticsearch\u0027s",
-            "new feature, Agent Builder, designed to",
-            "streamline the entire operational",
-            "lifecycle of agents.",
-            "Agent Builder enables the creation of",
-            "MCP tools that leverage private data",
-            "through methods like Elasticsearch Query",
-            "Language or workflow modeling.",
-            "Elasticsearch is identified as a leading",
-            "platform for the foundational aspects of",
-            "context engineering."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T05:00:00.000Z",
-      "ranking": 7.417647058823529,
-      "articleUrl": "https://venturebeat.com/ai/agentic-ai-is-all-about-the-context-engineering-that-is"
-    },
-    {
-      "id": "119",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "OpenAI Safety Models",
-      "mediumTitle": "OpenAI Releases Open-Weight Safety Models",
-      "longTitle": "OpenAI Unveils Open-Weight Safety Models for Dynamic Content Moderation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has released two open-weight",
-            "models, gpt-oss-safeguard-120b and",
-            "gpt-oss-safeguard-20b, under a",
-            "permissive Apache 2.0 license.",
-            "OpenAI\u0027s new models aim to overcome this",
-            "limitation by using reasoning",
-            "capabilities to interpret",
-            "developer-provided policies directly at",
-            "inference time.",
-            "This dynamic policy application means",
-            "policies can be applied and revised",
-            "without retraining the model, which is",
-            "particularly beneficial for evolving",
-            "harms or nuanced domains.",
-            "These models are fine-tuned versions of",
-            "OpenAI\u0027s earlier gpt-oss models and are",
-            "designed to offer a more flexible",
-            "approach to content moderation and AI",
-            "safety for enterprises."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T05:00:00.000Z",
-      "ranking": 7.407692307692308,
-      "articleUrl": "https://venturebeat.com/ai/from-static-classifiers-to-reasoning-engines-openais-new-model-rethinks"
-    },
-    {
       "id": "110",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -463,37 +390,39 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
     },
     {
-      "id": "102",
-      "topic": "Generative AI",
+      "id": "104",
+      "topic": "NLP",
       "source": "Marktechpost AI",
-      "shortTitle": "MiniMax M2 AI",
-      "mediumTitle": "MiniMax M2: Coding \u0026 Agent AI",
-      "longTitle": "MiniMax M2: Open-Source AI for Coding \u0026 Agents",
+      "shortTitle": "LFM2-ColBERT-350M",
+      "mediumTitle": "New Model for Multilingual RAG",
+      "longTitle": "Liquid AI\u0027s LFM2-ColBERT-350M Enhances Multilingual RAG",
       "paragraphs": [
         {
           "Lines": [
-            "MiniMax has released MiniMax M2, an",
-            "open-source Mixture of Experts (MoE)",
-            "model specifically designed for coding",
-            "and agentic workflows.",
-            "MiniMax M2 is cost-effective, priced at",
-            "approximately 8% of the cost of Claude",
-            "Sonnet, making advanced AI capabilities",
-            "more accessible.",
-            "The model aims to provide powerful",
-            "capabilities at a significantly lower",
-            "cost and with improved speed compared to",
-            "existing flagship models.",
-            "The model is reported to be",
-            "approximately twice as fast as",
-            "comparable models, enhancing efficiency",
-            "for users."
+            "Liquid AI has introduced",
+            "LFM2-ColBERT-350M, a novel, compact late",
+            "interaction retriever designed to",
+            "enhance multilingual and cross-lingual",
+            "search capabilities within Retrieval",
+            "Augmented Generation (RAG) systems.",
+            "The core innovation of LFM2-ColBERT-350M",
+            "lies in its capacity to index documents",
+            "in one language and then efficiently",
+            "process queries submitted in a multitude",
+            "of languages, all while maintaining high",
+            "retrieval accuracy.",
+            "The ability to handle multilingual",
+            "queries against a single-language index",
+            "is a significant advancement,",
+            "potentially democratizing access to",
+            "information and AI-powered services",
+            "across language barriers."
           ]
         }
       ],
-      "publishedAt": "2025-10-28T23:21:17.000Z",
-      "ranking": 7.04147750328709,
-      "articleUrl": "https://www.marktechpost.com/2025/10/28/minimax-open-sources-minimax-m2-a-mini-model-built-for-max-coding-and-agentic-workflows-at-8-claude-sonnet-price-and-2x-faster/"
+      "publishedAt": "2025-10-29T07:32:35.000Z",
+      "ranking": 7.097423178966503,
+      "articleUrl": "https://www.marktechpost.com/2025/10/28/liquid-ai-releases-lfm2-colbert-350m-a-new-small-model-that-brings-late-interaction-retrieval-to-multilingual-and-cross-lingual-rag/"
     },
     {
       "id": "109",
@@ -529,6 +458,39 @@
       "publishedAt": "2025-10-29T10:01:00.000Z",
       "ranking": 6.7142857142857135,
       "articleUrl": "https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch"
+    },
+    {
+      "id": "102",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "MiniMax M2 AI",
+      "mediumTitle": "MiniMax M2: Coding \u0026 Agent AI",
+      "longTitle": "MiniMax M2: Open-Source AI for Coding \u0026 Agents",
+      "paragraphs": [
+        {
+          "Lines": [
+            "MiniMax has released MiniMax M2, an",
+            "open-source Mixture of Experts (MoE)",
+            "model specifically designed for coding",
+            "and agentic workflows.",
+            "MiniMax M2 is cost-effective, priced at",
+            "approximately 8% of the cost of Claude",
+            "Sonnet, making advanced AI capabilities",
+            "more accessible.",
+            "The model aims to provide powerful",
+            "capabilities at a significantly lower",
+            "cost and with improved speed compared to",
+            "existing flagship models.",
+            "The model is reported to be",
+            "approximately twice as fast as",
+            "comparable models, enhancing efficiency",
+            "for users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T23:21:17.000Z",
+      "ranking": 6.615801600539054,
+      "articleUrl": "https://www.marktechpost.com/2025/10/28/minimax-open-sources-minimax-m2-a-mini-model-built-for-max-coding-and-agentic-workflows-at-8-claude-sonnet-price-and-2x-faster/"
     },
     {
       "id": "106",
@@ -600,74 +562,40 @@
       "articleUrl": "https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings"
     },
     {
-      "id": "105",
-      "topic": "Generative AI",
+      "id": "116",
+      "topic": "Context Eng.",
       "source": "VentureBeat AI",
-      "shortTitle": "AI Search Shift",
-      "mediumTitle": "AI Chatbots Reshape Online Discovery",
-      "longTitle": "Generative AI Disrupts Search, Creating New Optimization Field",
+      "shortTitle": "Agentic AI Context",
+      "mediumTitle": "Context Engineering for Agentic AI",
+      "longTitle": "Context Engineering is Key to Agentic AI Success",
       "paragraphs": [
         {
           "Lines": [
-            "The rise of AI chatbots and generative",
-            "AI is predicted to cause a 25% decline",
-            "in traditional search engine volume by",
-            "2026, ushering in a new era of online",
-            "discovery.",
-            "The era of solely optimizing for Google",
-            "is over, replaced by a complex ecosystem",
-            "where understanding how AI synthesizes",
-            "information is paramount for business",
-            "discoverability.",
-            "This disruption has led to the emergence",
-            "of Generative Engine Optimization (GEO),",
-            "a field focused on how AI models",
-            "understand and synthesize information,",
-            "differing from traditional SEO\u0027s keyword",
-            "and backlink focus."
+            "Agentic AI systems autonomously gather",
+            "tools, data, and information to provide",
+            "answers, but their reliability depends",
+            "on accurate context.",
+            "Context engineering ensures relevant",
+            "context is delivered to AI agents at the",
+            "opportune moment, guiding LLMs to use",
+            "appropriate tools.",
+            "The article introduces Elasticsearch\u0027s",
+            "new feature, Agent Builder, designed to",
+            "streamline the entire operational",
+            "lifecycle of agents.",
+            "Agent Builder enables the creation of",
+            "MCP tools that leverage private data",
+            "through methods like Elasticsearch Query",
+            "Language or workflow modeling.",
+            "Elasticsearch is identified as a leading",
+            "platform for the foundational aspects of",
+            "context engineering."
           ]
         }
       ],
-      "publishedAt": "2025-10-29T08:00:00.000Z",
-      "ranking": 6.4411764705882355,
-      "articleUrl": "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots"
-    },
-    {
-      "id": "122",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "NVFP4 LLM Training",
-      "mediumTitle": "Nvidia\u0027s NVFP4 for LLM Training",
-      "longTitle": "Nvidia\u0027s NVFP4 Enables Stable 4-bit LLM Training",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Nvidia researchers have developed NVFP4,",
-            "a novel approach enabling large language",
-            "model (LLM) training using 4-bit",
-            "precision while matching the stability",
-            "and accuracy of higher-precision models.",
-            "This breakthrough significantly reduces",
-            "memory usage by half and requires a",
-            "fraction of the compute power, making",
-            "LLM training and inference more",
-            "cost-effective.",
-            "NVFP4 addresses challenges in 4-bit",
-            "precision, such as limited range and",
-            "accuracy degradation, through a",
-            "multi-level scaling approach and a",
-            "mixed-precision strategy.",
-            "A key feature of NVFP4 is its",
-            "multi-level scaling to better handle",
-            "outliers and a mixed-precision strategy",
-            "where sensitive layers remain in higher",
-            "precision like BF16."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T01:00:00.000Z",
-      "ranking": 6.240457025373466,
-      "articleUrl": "https://venturebeat.com/ai/nvidia-researchers-unlock-4-bit-llm-training-that-matches-8-bit-performance"
+      "publishedAt": "2025-10-29T05:00:00.000Z",
+      "ranking": 6.1514704830427345,
+      "articleUrl": "https://venturebeat.com/ai/agentic-ai-is-all-about-the-context-engineering-that-is"
     },
     {
       "id": "121",
@@ -705,6 +633,79 @@
       "articleUrl": "https://www.marktechpost.com/2025/10/29/microsoft-releases-agent-lightning-a-new-ai-framework-that-enables-reinforcement-learning-rl-based-training-of-llms-for-any-ai-agent/"
     },
     {
+      "id": "119",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "OpenAI Safety Models",
+      "mediumTitle": "OpenAI Releases Open-Weight Safety Models",
+      "longTitle": "OpenAI Unveils Open-Weight Safety Models for Dynamic Content Moderation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has released two open-weight",
+            "models, gpt-oss-safeguard-120b and",
+            "gpt-oss-safeguard-20b, under a",
+            "permissive Apache 2.0 license.",
+            "OpenAI\u0027s new models aim to overcome this",
+            "limitation by using reasoning",
+            "capabilities to interpret",
+            "developer-provided policies directly at",
+            "inference time.",
+            "This dynamic policy application means",
+            "policies can be applied and revised",
+            "without retraining the model, which is",
+            "particularly beneficial for evolving",
+            "harms or nuanced domains.",
+            "These models are fine-tuned versions of",
+            "OpenAI\u0027s earlier gpt-oss models and are",
+            "designed to offer a more flexible",
+            "approach to content moderation and AI",
+            "safety for enterprises."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T05:00:00.000Z",
+      "ranking": 6.141515721578535,
+      "articleUrl": "https://venturebeat.com/ai/from-static-classifiers-to-reasoning-engines-openais-new-model-rethinks"
+    },
+    {
+      "id": "122",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "NVFP4 LLM Training",
+      "mediumTitle": "Nvidia\u0027s NVFP4 for LLM Training",
+      "longTitle": "Nvidia\u0027s NVFP4 Enables Stable 4-bit LLM Training",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Nvidia researchers have developed NVFP4,",
+            "a novel approach enabling large language",
+            "model (LLM) training using 4-bit",
+            "precision while matching the stability",
+            "and accuracy of higher-precision models.",
+            "This breakthrough significantly reduces",
+            "memory usage by half and requires a",
+            "fraction of the compute power, making",
+            "LLM training and inference more",
+            "cost-effective.",
+            "NVFP4 addresses challenges in 4-bit",
+            "precision, such as limited range and",
+            "accuracy degradation, through a",
+            "multi-level scaling approach and a",
+            "mixed-precision strategy.",
+            "A key feature of NVFP4 is its",
+            "multi-level scaling to better handle",
+            "outliers and a mixed-precision strategy",
+            "where sensitive layers remain in higher",
+            "precision like BF16."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T01:00:00.000Z",
+      "ranking": 5.837630589655909,
+      "articleUrl": "https://venturebeat.com/ai/nvidia-researchers-unlock-4-bit-llm-training-that-matches-8-bit-performance"
+    },
+    {
       "id": "103",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -738,7 +739,7 @@
         }
       ],
       "publishedAt": "2025-10-29T00:23:00.000Z",
-      "ranking": 6.062804293311438,
+      "ranking": 5.65141380201964,
       "articleUrl": "https://venturebeat.com/ai/ibms-open-source-granite-4-0-nano-ai-models-are-small-enough-to-run-locally"
     },
     {
@@ -775,8 +776,41 @@
         }
       ],
       "publishedAt": "2025-10-28T19:42:04.000Z",
-      "ranking": 6.000657866917715,
+      "ranking": 5.524242229848452,
       "articleUrl": "https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban"
+    },
+    {
+      "id": "105",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Search Shift",
+      "mediumTitle": "AI Chatbots Reshape Online Discovery",
+      "longTitle": "Generative AI Disrupts Search, Creating New Optimization Field",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The rise of AI chatbots and generative",
+            "AI is predicted to cause a 25% decline",
+            "in traditional search engine volume by",
+            "2026, ushering in a new era of online",
+            "discovery.",
+            "The era of solely optimizing for Google",
+            "is over, replaced by a complex ecosystem",
+            "where understanding how AI synthesizes",
+            "information is paramount for business",
+            "discoverability.",
+            "This disruption has led to the emergence",
+            "of Generative Engine Optimization (GEO),",
+            "a field focused on how AI models",
+            "understand and synthesize information,",
+            "differing from traditional SEO\u0027s keyword",
+            "and backlink focus."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T08:00:00.000Z",
+      "ranking": 5.4406861389527075,
+      "articleUrl": "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots"
     },
     {
       "id": "96",
@@ -811,8 +845,44 @@
         }
       ],
       "publishedAt": "2025-10-28T17:10:00.000Z",
-      "ranking": 5.483625120707609,
+      "ranking": 4.972011955921934,
       "articleUrl": "https://venturebeat.com/ai/githubs-agent-hq-aims-to-solve-enterprises-biggest-ai-coding-problem-too"
+    },
+    {
+      "id": "100",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Copilot AI Expands",
+      "mediumTitle": "Microsoft Copilot: Build Apps with AI",
+      "longTitle": "Microsoft Copilot Gains New AI Tools for App Creation and Automation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft is significantly expanding its",
+            "Copilot AI assistant with new tools, App",
+            "Builder and Workflows, allowing",
+            "employees to create applications and",
+            "automate tasks using natural language",
+            "prompts, without requiring coding",
+            "knowledge.",
+            "The new capabilities transform Copilot",
+            "into a comprehensive development",
+            "environment where users can describe an",
+            "application, such as a project tracker,",
+            "and Copilot will generate a functional",
+            "app with a database, user interface, and",
+            "security controls.",
+            "These features aim to empower the",
+            "estimated 100 million Microsoft 365",
+            "users to develop business tools as",
+            "easily as they create emails or",
+            "spreadsheets."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T21:30:00.000Z",
+      "ranking": 4.759811988876833,
+      "articleUrl": "https://venturebeat.com/ai/microsofts-copilot-can-now-build-apps-and-automate-your-job-heres-how-it"
     },
     {
       "id": "88",
@@ -848,7 +918,7 @@
         }
       ],
       "publishedAt": "2025-10-28T13:30:00.000Z",
-      "ranking": 5.234148980878769,
+      "ranking": 4.67161436650296,
       "articleUrl": "https://venturebeat.com/ai/intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in"
     },
     {
@@ -880,44 +950,8 @@
         }
       ],
       "publishedAt": "2025-10-28T13:10:00.000Z",
-      "ranking": 5.231055336991568,
+      "ranking": 4.66389149930702,
       "articleUrl": "https://www.theverge.com/news/808032/github-ai-agent-hq-coding-openai-anthropic"
-    },
-    {
-      "id": "100",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Copilot AI Expands",
-      "mediumTitle": "Microsoft Copilot: Build Apps with AI",
-      "longTitle": "Microsoft Copilot Gains New AI Tools for App Creation and Automation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft is significantly expanding its",
-            "Copilot AI assistant with new tools, App",
-            "Builder and Workflows, allowing",
-            "employees to create applications and",
-            "automate tasks using natural language",
-            "prompts, without requiring coding",
-            "knowledge.",
-            "The new capabilities transform Copilot",
-            "into a comprehensive development",
-            "environment where users can describe an",
-            "application, such as a project tracker,",
-            "and Copilot will generate a functional",
-            "app with a database, user interface, and",
-            "security controls.",
-            "These features aim to empower the",
-            "estimated 100 million Microsoft 365",
-            "users to develop business tools as",
-            "easily as they create emails or",
-            "spreadsheets."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T21:30:00.000Z",
-      "ranking": 5.211245262212241,
-      "articleUrl": "https://venturebeat.com/ai/microsofts-copilot-can-now-build-apps-and-automate-your-job-heres-how-it"
     },
     {
       "id": "89",
@@ -952,7 +986,7 @@
         }
       ],
       "publishedAt": "2025-10-28T10:38:55.000Z",
-      "ranking": 5.147129997536732,
+      "ranking": 4.54499624956479,
       "articleUrl": "https://www.theverge.com/news/807875/openai-microsoft-for-profit-agi"
     },
     {
@@ -986,7 +1020,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:35:08.000Z",
-      "ranking": 4.975843545403224,
+      "ranking": 4.358946435598989,
       "articleUrl": "https://www.marktechpost.com/2025/10/28/zhipu-ai-releases-glyph-an-ai-framework-for-scaling-the-context-length-through-visual-text-compression/"
     },
     {
@@ -1023,7 +1057,7 @@
         }
       ],
       "publishedAt": "2025-10-28T10:16:17.000Z",
-      "ranking": 4.8610460855540225,
+      "ranking": 4.253673592228743,
       "articleUrl": "https://www.theverge.com/news/807867/adobe-max-2025-all-the-latest-announcements"
     },
     {
@@ -1059,7 +1093,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 4.84899942450032,
+      "ranking": 4.223970308388353,
       "articleUrl": "https://www.theverge.com/news/807811/adobe-photoshop-lightroom-premiere-pro-ai-max-2025"
     },
     {
@@ -1094,7 +1128,7 @@
         }
       ],
       "publishedAt": "2025-10-28T13:13:25.000Z",
-      "ranking": 4.722062512076601,
+      "ranking": 4.155689493759674,
       "articleUrl": "https://www.theverge.com/news/808079/chatgpt-paypal-openai-acp-purchases"
     },
     {
@@ -1125,7 +1159,7 @@
         }
       ],
       "publishedAt": "2025-10-28T08:40:45.000Z",
-      "ranking": 4.615911562587362,
+      "ranking": 3.9864268170665844,
       "articleUrl": "https://www.theverge.com/news/807825/amazon-job-layoffs-2025-ai"
     },
     {
@@ -1162,7 +1196,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 4.438999406987561,
+      "ranking": 3.8139702850622283,
       "articleUrl": "https://www.theverge.com/news/807809/adobe-firefly-ai-audio-generate-soundtrack-speech"
     },
     {
@@ -1198,7 +1232,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 4.142845554130579,
+      "ranking": 3.517816430779372,
       "articleUrl": "https://www.theverge.com/news/807457/adobe-ai-agent-project-moonlight"
     },
     {
@@ -1234,7 +1268,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 3.4806660621062537,
+      "ranking": 2.855636936037596,
       "articleUrl": "https://www.theverge.com/news/807802/adobe-express-ai-assistant-prompt-editing-beta-max-2025"
     },
     {
@@ -1271,7 +1305,7 @@
         }
       ],
       "publishedAt": "2025-10-28T05:00:00.000Z",
-      "ranking": 3.4705794404582493,
+      "ranking": 2.7899996486792373,
       "articleUrl": "https://venturebeat.com/ai/paypals-agentic-commerce-play-shows-why-flexibility-not-standards-will"
     },
     {
@@ -1308,7 +1342,7 @@
         }
       ],
       "publishedAt": "2025-10-27T21:46:59.000Z",
-      "ranking": 3.055567145223513,
+      "ranking": 2.274760836911846,
       "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
     },
     {
@@ -1345,7 +1379,7 @@
         }
       ],
       "publishedAt": "2025-10-27T19:16:48.000Z",
-      "ranking": 2.999141572311796,
+      "ranking": 2.1835736625535764,
       "articleUrl": "https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership"
     },
     {
@@ -1378,7 +1412,7 @@
         }
       ],
       "publishedAt": "2025-10-27T21:46:59.000Z",
-      "ranking": 2.595567129936634,
+      "ranking": 1.8147608166225835,
       "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
     },
     {
@@ -1411,7 +1445,7 @@
         }
       ],
       "publishedAt": "2025-10-27T20:01:00.000Z",
-      "ranking": 2.494540003741098,
+      "ranking": 1.6892026632764185,
       "articleUrl": "https://venturebeat.com/ai/minimax-m2-is-the-new-king-of-open-source-llms-especially-for-agentic-tool"
     },
     {
@@ -1444,7 +1478,7 @@
         }
       ],
       "publishedAt": "2025-10-27T13:00:00.000Z",
-      "ranking": 1.5080107113121883,
+      "ranking": 0.6052282497810104,
       "articleUrl": "https://www.theverge.com/report/806359/openai-sora-deepfake-detection-c2pa-content-credentials"
     },
     {
@@ -1480,7 +1514,7 @@
         }
       ],
       "publishedAt": "2025-10-27T14:51:24.000Z",
-      "ranking": 1.4445756342538827,
+      "ranking": 0.5675779384539341,
       "articleUrl": "https://www.theverge.com/podcast/807136/lexisnexis-ceo-sean-fitzpatick-ai-lawyer-legal-chatgpt-interview"
     },
     {
@@ -1516,79 +1550,8 @@
         }
       ],
       "publishedAt": "2025-10-27T17:00:00.000Z",
-      "ranking": 0.9987977921512439,
+      "ranking": 0.15156599290964756,
       "articleUrl": "https://venturebeat.com/ai/anthropic-rolls-out-claude-ai-for-finance-integrates-with-excel-to-rival"
-    },
-    {
-      "id": "79",
-      "topic": "Health",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0027Clinical\u0027 Claims",
-      "mediumTitle": "Critique of \u0027Clinical-Grade AI\u0027 Terminology",
-      "longTitle": "Article critiques the misleading use of \u0027clinical-grade AI\u0027 as a marketing buzzword.",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article critiques the increasingly",
-            "common, yet ultimately meaningless, use",
-            "of the term \u0027clinical-grade AI\u0027.",
-            "There is no standardized definition or",
-            "regulatory framework for what",
-            "constitutes \u0027clinical-grade AI\u0027, making",
-            "the label subjective and potentially",
-            "deceptive.",
-            "The term \u0027clinical\u0027 is misleading as",
-            "these AI applications do not necessarily",
-            "meet established medical standards or",
-            "undergo rigorous validation.",
-            "Companies use \u0027clinical-grade\u0027 to market",
-            "AI products, especially in mental",
-            "health, by associating them with the",
-            "perceived authority of the medical",
-            "field."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T11:00:00.000Z",
-      "ranking": 0.8453411071856625,
-      "articleUrl": "https://www.theverge.com/report/806887/clinical-grade-ai-buzzword"
-    },
-    {
-      "id": "80",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Agentic RAG System",
-      "mediumTitle": "Advanced Agentic RAG System Build",
-      "longTitle": "Building an Agentic Decision-Tree RAG System",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This article details how to build an",
-            "advanced Retrieval-Augmented Generation",
-            "(RAG) system with agentic capabilities,",
-            "featuring intelligent query routing,",
-            "self-checking, and iterative refinement.",
-            "A self-checking mechanism evaluates the",
-            "quality and accuracy of the system\u0027s",
-            "generated answers, potentially by",
-            "comparing against retrieved information",
-            "or checking factual consistency.",
-            "In essence, the tutorial describes a RAG",
-            "system that acts as an active agent",
-            "making intelligent decisions about",
-            "information retrieval and output",
-            "improvement.",
-            "Iterative refinement allows the system",
-            "to go through multiple cycles of",
-            "retrieval, generation, and self-checking",
-            "to progressively enhance response",
-            "accuracy and completeness."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T08:43:09.000Z",
-      "ranking": 0.414670515043988,
-      "articleUrl": "https://www.marktechpost.com/2025/10/27/how-to-build-an-agentic-decision-tree-rag-system-with-intelligent-query-routing-self-checking-and-iterative-refinement/"
     },
     {
       "id": "76",
@@ -1623,7 +1586,7 @@
         }
       ],
       "publishedAt": "2025-10-27T13:04:33.000Z",
-      "ranking": 0.07959086343549338,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/807078/qualcomm-ai-chips-launch-hexagon-npus"
     },
     {
@@ -1662,6 +1625,77 @@
       "publishedAt": "2025-10-27T11:09:54.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/806486/if-you-cant-afford-a-vacation-an-ai-app-will-sell-you-pictures-of-one"
+    },
+    {
+      "id": "79",
+      "topic": "Health",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0027Clinical\u0027 Claims",
+      "mediumTitle": "Critique of \u0027Clinical-Grade AI\u0027 Terminology",
+      "longTitle": "Article critiques the misleading use of \u0027clinical-grade AI\u0027 as a marketing buzzword.",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article critiques the increasingly",
+            "common, yet ultimately meaningless, use",
+            "of the term \u0027clinical-grade AI\u0027.",
+            "There is no standardized definition or",
+            "regulatory framework for what",
+            "constitutes \u0027clinical-grade AI\u0027, making",
+            "the label subjective and potentially",
+            "deceptive.",
+            "The term \u0027clinical\u0027 is misleading as",
+            "these AI applications do not necessarily",
+            "meet established medical standards or",
+            "undergo rigorous validation.",
+            "Companies use \u0027clinical-grade\u0027 to market",
+            "AI products, especially in mental",
+            "health, by associating them with the",
+            "perceived authority of the medical",
+            "field."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T11:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/report/806887/clinical-grade-ai-buzzword"
+    },
+    {
+      "id": "80",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "Agentic RAG System",
+      "mediumTitle": "Advanced Agentic RAG System Build",
+      "longTitle": "Building an Agentic Decision-Tree RAG System",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This article details how to build an",
+            "advanced Retrieval-Augmented Generation",
+            "(RAG) system with agentic capabilities,",
+            "featuring intelligent query routing,",
+            "self-checking, and iterative refinement.",
+            "A self-checking mechanism evaluates the",
+            "quality and accuracy of the system\u0027s",
+            "generated answers, potentially by",
+            "comparing against retrieved information",
+            "or checking factual consistency.",
+            "In essence, the tutorial describes a RAG",
+            "system that acts as an active agent",
+            "making intelligent decisions about",
+            "information retrieval and output",
+            "improvement.",
+            "Iterative refinement allows the system",
+            "to go through multiple cycles of",
+            "retrieval, generation, and self-checking",
+            "to progressively enhance response",
+            "accuracy and completeness."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T08:43:09.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.marktechpost.com/2025/10/27/how-to-build-an-agentic-decision-tree-rag-system-with-intelligent-query-routing-self-checking-and-iterative-refinement/"
     },
     {
       "id": "73",
