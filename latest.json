@@ -1,73 +1,6 @@
 {
   "articles": [
     {
-      "id": "112",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Grokipedia Biased",
-      "mediumTitle": "Grokipedia Launched with Bias Claims",
-      "longTitle": "Grokipedia Launched by xAI, Faces Bias Accusations",
-      "paragraphs": [
-        {
-          "Lines": [
-            "However, early observations and reports",
-            "suggest that Grokipedia exhibits",
-            "significant biases, including racism and",
-            "transphobia, and a strong, uncritical",
-            "admiration for Elon Musk himself.",
-            "Grokipedia, a new online encyclopedia",
-            "launched by Elon Musk\u0027s startup xAI, is",
-            "being promoted as a less \u0027woke\u0027 and less",
-            "biased alternative to Wikipedia, with",
-            "the stated goal of presenting \u0027the",
-            "truth, the whole truth and nothing but",
-            "the truth\u0027.",
-            "Specifically, it has been flagged for",
-            "displaying racist sentiments and",
-            "transphobic viewpoints, contradicting",
-            "Musk\u0027s claims of neutrality and",
-            "truthfulness."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T09:30:00.000Z",
-      "ranking": 8.774999999999999,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808514/grokipedia-wikipedia-comparison"
-    },
-    {
-      "id": "107",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "TikTok Creator Tools",
-      "mediumTitle": "TikTok Enhances Creator Experience",
-      "longTitle": "TikTok Unveils New Features for Creators at US Summit",
-      "paragraphs": [
-        {
-          "Lines": [
-            "TikTok has unveiled three new features",
-            "aimed at enhancing the creator",
-            "experience, announced at their recent US",
-            "Creator Summit.",
-            "These updates focus on improving revenue",
-            "opportunities, assisting with video",
-            "planning, and streamlining the editing",
-            "process, particularly for converting",
-            "longer videos into shorter, more",
-            "digestible clips.",
-            "The Smart Split tool, in particular,",
-            "addresses a common challenge for",
-            "creators: the need to adapt long-form",
-            "content for short-form platforms, a",
-            "crucial aspect of maximizing reach and",
-            "engagement."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T10:45:01.000Z",
-      "ranking": 8.288461538461538,
-      "articleUrl": "https://www.theverge.com/news/808749/tiktok-smart-split-ai-outline-revenue-sharing-subscriptions"
-    },
-    {
       "id": "115",
       "topic": "Neural Nets",
       "source": "VentureBeat AI",
@@ -174,6 +107,73 @@
       "articleUrl": "https://www.marktechpost.com/2025/10/29/ibm-ai-team-releases-granite-4-0-nano-series-compact-and-open-source-small-models-built-for-ai-at-the-edge/"
     },
     {
+      "id": "112",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Grokipedia Biased",
+      "mediumTitle": "Grokipedia Launched with Bias Claims",
+      "longTitle": "Grokipedia Launched by xAI, Faces Bias Accusations",
+      "paragraphs": [
+        {
+          "Lines": [
+            "However, early observations and reports",
+            "suggest that Grokipedia exhibits",
+            "significant biases, including racism and",
+            "transphobia, and a strong, uncritical",
+            "admiration for Elon Musk himself.",
+            "Grokipedia, a new online encyclopedia",
+            "launched by Elon Musk\u0027s startup xAI, is",
+            "being promoted as a less \u0027woke\u0027 and less",
+            "biased alternative to Wikipedia, with",
+            "the stated goal of presenting \u0027the",
+            "truth, the whole truth and nothing but",
+            "the truth\u0027.",
+            "Specifically, it has been flagged for",
+            "displaying racist sentiments and",
+            "transphobic viewpoints, contradicting",
+            "Musk\u0027s claims of neutrality and",
+            "truthfulness."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T09:30:00.000Z",
+      "ranking": 7.555405247458105,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808514/grokipedia-wikipedia-comparison"
+    },
+    {
+      "id": "107",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "TikTok Creator Tools",
+      "mediumTitle": "TikTok Enhances Creator Experience",
+      "longTitle": "TikTok Unveils New Features for Creators at US Summit",
+      "paragraphs": [
+        {
+          "Lines": [
+            "TikTok has unveiled three new features",
+            "aimed at enhancing the creator",
+            "experience, announced at their recent US",
+            "Creator Summit.",
+            "These updates focus on improving revenue",
+            "opportunities, assisting with video",
+            "planning, and streamlining the editing",
+            "process, particularly for converting",
+            "longer videos into shorter, more",
+            "digestible clips.",
+            "The Smart Split tool, in particular,",
+            "addresses a common challenge for",
+            "creators: the need to adapt long-form",
+            "content for short-form platforms, a",
+            "crucial aspect of maximizing reach and",
+            "engagement."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T10:45:01.000Z",
+      "ranking": 7.181215196334909,
+      "articleUrl": "https://www.theverge.com/news/808749/tiktok-smart-split-ai-outline-revenue-sharing-subscriptions"
+    },
+    {
       "id": "117",
       "topic": "Business",
       "source": "The Verge AI",
@@ -207,8 +207,43 @@
         }
       ],
       "publishedAt": "2025-10-29T11:57:09.000Z",
-      "ranking": 7.95,
+      "ranking": 6.945665019084958,
       "articleUrl": "https://www.theverge.com/news/809017/nvidia-5-trillion-market-cap-ai"
+    },
+    {
+      "id": "104",
+      "topic": "NLP",
+      "source": "Marktechpost AI",
+      "shortTitle": "LFM2-ColBERT-350M",
+      "mediumTitle": "New Model for Multilingual RAG",
+      "longTitle": "Liquid AI\u0027s LFM2-ColBERT-350M Enhances Multilingual RAG",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Liquid AI has introduced",
+            "LFM2-ColBERT-350M, a novel, compact late",
+            "interaction retriever designed to",
+            "enhance multilingual and cross-lingual",
+            "search capabilities within Retrieval",
+            "Augmented Generation (RAG) systems.",
+            "The core innovation of LFM2-ColBERT-350M",
+            "lies in its capacity to index documents",
+            "in one language and then efficiently",
+            "process queries submitted in a multitude",
+            "of languages, all while maintaining high",
+            "retrieval accuracy.",
+            "The ability to handle multilingual",
+            "queries against a single-language index",
+            "is a significant advancement,",
+            "potentially democratizing access to",
+            "information and AI-powered services",
+            "across language barriers."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T07:32:35.000Z",
+      "ranking": 6.730023795132533,
+      "articleUrl": "https://www.marktechpost.com/2025/10/28/liquid-ai-releases-lfm2-colbert-350m-a-new-small-model-that-brings-late-interaction-retrieval-to-multilingual-and-cross-lingual-rag/"
     },
     {
       "id": "114",
@@ -244,288 +279,8 @@
         }
       ],
       "publishedAt": "2025-10-29T09:05:45.000Z",
-      "ranking": 7.887499999999999,
+      "ranking": 6.6304264096744525,
       "articleUrl": "https://www.theverge.com/report/808647/bill-gates-climate-change-ai-emissions-memo"
-    },
-    {
-      "id": "113",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Cameo sues OpenAI",
-      "mediumTitle": "Cameo sues OpenAI over \u0027cameo\u0027 name",
-      "longTitle": "Cameo alleges trademark infringement by OpenAI\u0027s Sora 2",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Cameo, the platform known for",
-            "personalized celebrity video messages,",
-            "has filed a lawsuit against OpenAI,",
-            "alleging trademark infringement over the",
-            "use of the term \u0027cameo\u0027 in relation to",
-            "OpenAI\u0027s new video generation model,",
-            "Sora 2.",
-            "Cameo is seeking to prevent OpenAI from",
-            "using the term \u0027cameo\u0027 in connection",
-            "with its AI video generation technology.",
-            "The company is likely aiming for an",
-            "injunction to stop OpenAI\u0027s use of the",
-            "name and potentially seeking damages for",
-            "the alleged infringement.",
-            "The lawsuit, lodged in a California",
-            "federal court, contends that OpenAI\u0027s",
-            "adoption of the term \u0027cameo\u0027 for its",
-            "AI-powered video feature is a deliberate",
-            "attempt to compete directly with Cameo\u0027s",
-            "established business."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T09:25:29.000Z",
-      "ranking": 7.618181818181817,
-      "articleUrl": "https://www.theverge.com/news/808750/openai-sora-cameo-celebrity-deepfake-trademark-lawsuit"
-    },
-    {
-      "id": "108",
-      "topic": "Large Models",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI AGI Race",
-      "mediumTitle": "OpenAI\u0027s AGI Pursuit Under Pressure",
-      "longTitle": "OpenAI Faces Intensified Pressure to Achieve AGI Amidst New Structure",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI is under significant pressure to",
-            "achieve Artificial General Intelligence",
-            "(AGI), an AI system matching or",
-            "exceeding human cognitive abilities.",
-            "This pressure has intensified with the",
-            "company\u0027s adoption of a new for-profit",
-            "structure and a strengthened partnership",
-            "with Microsoft.",
-            "Microsoft\u0027s involvement suggests a",
-            "potential for increased",
-            "commercialization pressure or a shift in",
-            "focus that could complicate OpenAI\u0027s",
-            "original mission.",
-            "The partnership with Microsoft amplifies",
-            "these pressures by providing resources",
-            "and strategic alignment, but also",
-            "potentially dictating priorities."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T10:19:21.000Z",
-      "ranking": 7.545454545454547,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808434/openai-for-profit-restructuring-microsoft-deal-agi-wars"
-    },
-    {
-      "id": "111",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "YouTube TV Upgrades",
-      "mediumTitle": "YouTube Enhances TV Viewing Experience",
-      "longTitle": "YouTube Introduces AI Upscaling and Shopping for TV",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A key update is the implementation of",
-            "AI-powered upscaling for videos uploaded",
-            "at resolutions below 1080p.",
-            "This technology will automatically",
-            "enhance these lower-resolution videos to",
-            "HD.",
-            "Crucially, YouTube is providing users",
-            "with the option to opt out of this AI",
-            "upscaling feature.",
-            "This allows viewers to retain the",
-            "original resolution of videos if they",
-            "prefer, offering a degree of control",
-            "over their viewing experience.",
-            "In addition to visual improvements,",
-            "YouTube is also rolling out an instant",
-            "shopping tool.",
-            "YouTube is introducing new features",
-            "designed to enhance the viewing",
-            "experience, particularly on larger TV",
-            "screens."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T10:00:00.000Z",
-      "ranking": 7.544444444444444,
-      "articleUrl": "https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates"
-    },
-    {
-      "id": "110",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Chat Limits",
-      "mediumTitle": "Character.AI Restricts Under 18s",
-      "longTitle": "Character.AI Implements Age Restrictions for Underage Users",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Character.AI, a platform enabling",
-            "interaction with AI characters, is",
-            "implementing a new policy to restrict",
-            "access for users under the age of 18.",
-            "This initiative involves gradually",
-            "phasing out open-ended chats for minors",
-            "and introducing mechanisms to verify",
-            "user age.",
-            "Initially, users identified as under 18",
-            "will face a limitation of two hours per",
-            "day for engaging in \u0022open-ended chats\u0022",
-            "with the AI characters.",
-            "This daily time limit is set to",
-            "progressively decrease, ultimately",
-            "leading to a complete ban from these",
-            "types of interactions for underage",
-            "users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T10:00:00.000Z",
-      "ranking": 7.166666666666667,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
-    },
-    {
-      "id": "104",
-      "topic": "NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "LFM2-ColBERT-350M",
-      "mediumTitle": "New Model for Multilingual RAG",
-      "longTitle": "Liquid AI\u0027s LFM2-ColBERT-350M Enhances Multilingual RAG",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Liquid AI has introduced",
-            "LFM2-ColBERT-350M, a novel, compact late",
-            "interaction retriever designed to",
-            "enhance multilingual and cross-lingual",
-            "search capabilities within Retrieval",
-            "Augmented Generation (RAG) systems.",
-            "The core innovation of LFM2-ColBERT-350M",
-            "lies in its capacity to index documents",
-            "in one language and then efficiently",
-            "process queries submitted in a multitude",
-            "of languages, all while maintaining high",
-            "retrieval accuracy.",
-            "The ability to handle multilingual",
-            "queries against a single-language index",
-            "is a significant advancement,",
-            "potentially democratizing access to",
-            "information and AI-powered services",
-            "across language barriers."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T07:32:35.000Z",
-      "ranking": 7.097423178966503,
-      "articleUrl": "https://www.marktechpost.com/2025/10/28/liquid-ai-releases-lfm2-colbert-350m-a-new-small-model-that-brings-late-interaction-retrieval-to-multilingual-and-cross-lingual-rag/"
-    },
-    {
-      "id": "109",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Grammarly Rebrands",
-      "mediumTitle": "Grammarly Rebrands to Superhuman",
-      "longTitle": "Grammarly Rebrands to Superhuman, Integrating AI Tools",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Grammarly, the popular AI writing",
-            "assistant, is undergoing a significant",
-            "rebranding and integration into a larger",
-            "suite of productivity tools under the",
-            "new name \u0027Superhuman\u0027.",
-            "This strategic move consolidates",
-            "Grammarly\u0027s existing AI writing",
-            "capabilities with other established",
-            "platforms like Coda and Superhuman Mail,",
-            "and introduces a new AI assistant named",
-            "Superhuman Go.",
-            "The newly formed Superhuman suite,",
-            "encompassing all these integrated tools,",
-            "is now accessible to all users who hold",
-            "a paid Grammarly Pro subscription.",
-            "This assistant will be made available to",
-            "Superhuman subscribers at no additional",
-            "charge."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T10:01:00.000Z",
-      "ranking": 6.7142857142857135,
-      "articleUrl": "https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch"
-    },
-    {
-      "id": "102",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "MiniMax M2 AI",
-      "mediumTitle": "MiniMax M2: Coding \u0026 Agent AI",
-      "longTitle": "MiniMax M2: Open-Source AI for Coding \u0026 Agents",
-      "paragraphs": [
-        {
-          "Lines": [
-            "MiniMax has released MiniMax M2, an",
-            "open-source Mixture of Experts (MoE)",
-            "model specifically designed for coding",
-            "and agentic workflows.",
-            "MiniMax M2 is cost-effective, priced at",
-            "approximately 8% of the cost of Claude",
-            "Sonnet, making advanced AI capabilities",
-            "more accessible.",
-            "The model aims to provide powerful",
-            "capabilities at a significantly lower",
-            "cost and with improved speed compared to",
-            "existing flagship models.",
-            "The model is reported to be",
-            "approximately twice as fast as",
-            "comparable models, enhancing efficiency",
-            "for users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T23:21:17.000Z",
-      "ranking": 6.615801600539054,
-      "articleUrl": "https://www.marktechpost.com/2025/10/28/minimax-open-sources-minimax-m2-a-mini-model-built-for-max-coding-and-agentic-workflows-at-8-claude-sonnet-price-and-2x-faster/"
-    },
-    {
-      "id": "106",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Gemini for Home",
-      "mediumTitle": "Google Assistant Replaced by Gemini",
-      "longTitle": "Google Rolls Out Early Access for Gemini for Home in US",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google is rolling out early access to",
-            "Gemini for Home in the US, a significant",
-            "update that will eventually replace the",
-            "current Google Assistant on Nest",
-            "devices.",
-            "The article hints at the AI\u0027s ability to",
-            "run \u0027on-device,\u0027 which could lead to",
-            "faster response times and improved",
-            "privacy by reducing the need to send",
-            "data to the cloud for processing.",
-            "Gemini for Home is designed to leverage",
-            "the capabilities of Google\u0027s Gemini AI",
-            "model, which is known for its multimodal",
-            "understanding and advanced reasoning.",
-            "The transition from Google Assistant to",
-            "Gemini for Home is a strategic move by",
-            "Google to stay competitive in the",
-            "rapidly evolving smart home market."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T11:08:48.000Z",
-      "ranking": 6.53888888888889,
-      "articleUrl": "https://www.theverge.com/news/808858/google-gemini-for-home-early-access-launch"
     },
     {
       "id": "120",
@@ -562,40 +317,112 @@
       "articleUrl": "https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings"
     },
     {
-      "id": "116",
-      "topic": "Context Eng.",
-      "source": "VentureBeat AI",
-      "shortTitle": "Agentic AI Context",
-      "mediumTitle": "Context Engineering for Agentic AI",
-      "longTitle": "Context Engineering is Key to Agentic AI Success",
+      "id": "108",
+      "topic": "Large Models",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI AGI Race",
+      "mediumTitle": "OpenAI\u0027s AGI Pursuit Under Pressure",
+      "longTitle": "OpenAI Faces Intensified Pressure to Achieve AGI Amidst New Structure",
       "paragraphs": [
         {
           "Lines": [
-            "Agentic AI systems autonomously gather",
-            "tools, data, and information to provide",
-            "answers, but their reliability depends",
-            "on accurate context.",
-            "Context engineering ensures relevant",
-            "context is delivered to AI agents at the",
-            "opportune moment, guiding LLMs to use",
-            "appropriate tools.",
-            "The article introduces Elasticsearch\u0027s",
-            "new feature, Agent Builder, designed to",
-            "streamline the entire operational",
-            "lifecycle of agents.",
-            "Agent Builder enables the creation of",
-            "MCP tools that leverage private data",
-            "through methods like Elasticsearch Query",
-            "Language or workflow modeling.",
-            "Elasticsearch is identified as a leading",
-            "platform for the foundational aspects of",
-            "context engineering."
+            "OpenAI is under significant pressure to",
+            "achieve Artificial General Intelligence",
+            "(AGI), an AI system matching or",
+            "exceeding human cognitive abilities.",
+            "This pressure has intensified with the",
+            "company\u0027s adoption of a new for-profit",
+            "structure and a strengthened partnership",
+            "with Microsoft.",
+            "Microsoft\u0027s involvement suggests a",
+            "potential for increased",
+            "commercialization pressure or a shift in",
+            "focus that could complicate OpenAI\u0027s",
+            "original mission.",
+            "The partnership with Microsoft amplifies",
+            "these pressures by providing resources",
+            "and strategic alignment, but also",
+            "potentially dictating priorities."
           ]
         }
       ],
-      "publishedAt": "2025-10-29T05:00:00.000Z",
-      "ranking": 6.1514704830427345,
-      "articleUrl": "https://venturebeat.com/ai/agentic-ai-is-all-about-the-context-engineering-that-is"
+      "publishedAt": "2025-10-29T10:19:21.000Z",
+      "ranking": 6.400379428513205,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808434/openai-for-profit-restructuring-microsoft-deal-agi-wars"
+    },
+    {
+      "id": "113",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Cameo sues OpenAI",
+      "mediumTitle": "Cameo sues OpenAI over \u0027cameo\u0027 name",
+      "longTitle": "Cameo alleges trademark infringement by OpenAI\u0027s Sora 2",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Cameo, the platform known for",
+            "personalized celebrity video messages,",
+            "has filed a lawsuit against OpenAI,",
+            "alleging trademark infringement over the",
+            "use of the term \u0027cameo\u0027 in relation to",
+            "OpenAI\u0027s new video generation model,",
+            "Sora 2.",
+            "Cameo is seeking to prevent OpenAI from",
+            "using the term \u0027cameo\u0027 in connection",
+            "with its AI video generation technology.",
+            "The company is likely aiming for an",
+            "injunction to stop OpenAI\u0027s use of the",
+            "name and potentially seeking damages for",
+            "the alleged infringement.",
+            "The lawsuit, lodged in a California",
+            "federal court, contends that OpenAI\u0027s",
+            "adoption of the term \u0027cameo\u0027 for its",
+            "AI-powered video feature is a deliberate",
+            "attempt to compete directly with Cameo\u0027s",
+            "established business."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T09:25:29.000Z",
+      "ranking": 6.391649404319363,
+      "articleUrl": "https://www.theverge.com/news/808750/openai-sora-cameo-celebrity-deepfake-trademark-lawsuit"
+    },
+    {
+      "id": "111",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "YouTube TV Upgrades",
+      "mediumTitle": "YouTube Enhances TV Viewing Experience",
+      "longTitle": "YouTube Introduces AI Upscaling and Shopping for TV",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A key update is the implementation of",
+            "AI-powered upscaling for videos uploaded",
+            "at resolutions below 1080p.",
+            "This technology will automatically",
+            "enhance these lower-resolution videos to",
+            "HD.",
+            "Crucially, YouTube is providing users",
+            "with the option to opt out of this AI",
+            "upscaling feature.",
+            "This allows viewers to retain the",
+            "original resolution of videos if they",
+            "prefer, offering a degree of control",
+            "over their viewing experience.",
+            "In addition to visual improvements,",
+            "YouTube is also rolling out an instant",
+            "shopping tool.",
+            "YouTube is introducing new features",
+            "designed to enhance the viewing",
+            "experience, particularly on larger TV",
+            "screens."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T10:00:00.000Z",
+      "ranking": 6.370430294297913,
+      "articleUrl": "https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates"
     },
     {
       "id": "121",
@@ -633,6 +460,109 @@
       "articleUrl": "https://www.marktechpost.com/2025/10/29/microsoft-releases-agent-lightning-a-new-ai-framework-that-enables-reinforcement-learning-rl-based-training-of-llms-for-any-ai-agent/"
     },
     {
+      "id": "102",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "MiniMax M2 AI",
+      "mediumTitle": "MiniMax M2: Coding \u0026 Agent AI",
+      "longTitle": "MiniMax M2: Open-Source AI for Coding \u0026 Agents",
+      "paragraphs": [
+        {
+          "Lines": [
+            "MiniMax has released MiniMax M2, an",
+            "open-source Mixture of Experts (MoE)",
+            "model specifically designed for coding",
+            "and agentic workflows.",
+            "MiniMax M2 is cost-effective, priced at",
+            "approximately 8% of the cost of Claude",
+            "Sonnet, making advanced AI capabilities",
+            "more accessible.",
+            "The model aims to provide powerful",
+            "capabilities at a significantly lower",
+            "cost and with improved speed compared to",
+            "existing flagship models.",
+            "The model is reported to be",
+            "approximately twice as fast as",
+            "comparable models, enhancing efficiency",
+            "for users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T23:21:17.000Z",
+      "ranking": 6.134715414530529,
+      "articleUrl": "https://www.marktechpost.com/2025/10/28/minimax-open-sources-minimax-m2-a-mini-model-built-for-max-coding-and-agentic-workflows-at-8-claude-sonnet-price-and-2x-faster/"
+    },
+    {
+      "id": "110",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Chat Limits",
+      "mediumTitle": "Character.AI Restricts Under 18s",
+      "longTitle": "Character.AI Implements Age Restrictions for Underage Users",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Character.AI, a platform enabling",
+            "interaction with AI characters, is",
+            "implementing a new policy to restrict",
+            "access for users under the age of 18.",
+            "This initiative involves gradually",
+            "phasing out open-ended chats for minors",
+            "and introducing mechanisms to verify",
+            "user age.",
+            "Initially, users identified as under 18",
+            "will face a limitation of two hours per",
+            "day for engaging in \u0022open-ended chats\u0022",
+            "with the AI characters.",
+            "This daily time limit is set to",
+            "progressively decrease, ultimately",
+            "leading to a complete ban from these",
+            "types of interactions for underage",
+            "users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T10:00:00.000Z",
+      "ranking": 5.992652081933533,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
+    },
+    {
+      "id": "116",
+      "topic": "Context Eng.",
+      "source": "VentureBeat AI",
+      "shortTitle": "Agentic AI Context",
+      "mediumTitle": "Context Engineering for Agentic AI",
+      "longTitle": "Context Engineering is Key to Agentic AI Success",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Agentic AI systems autonomously gather",
+            "tools, data, and information to provide",
+            "answers, but their reliability depends",
+            "on accurate context.",
+            "Context engineering ensures relevant",
+            "context is delivered to AI agents at the",
+            "opportune moment, guiding LLMs to use",
+            "appropriate tools.",
+            "The article introduces Elasticsearch\u0027s",
+            "new feature, Agent Builder, designed to",
+            "streamline the entire operational",
+            "lifecycle of agents.",
+            "Agent Builder enables the creation of",
+            "MCP tools that leverage private data",
+            "through methods like Elasticsearch Query",
+            "Language or workflow modeling.",
+            "Elasticsearch is identified as a leading",
+            "platform for the foundational aspects of",
+            "context engineering."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T05:00:00.000Z",
+      "ranking": 5.748763212555708,
+      "articleUrl": "https://venturebeat.com/ai/agentic-ai-is-all-about-the-context-engineering-that-is"
+    },
+    {
       "id": "119",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -665,8 +595,78 @@
         }
       ],
       "publishedAt": "2025-10-29T05:00:00.000Z",
-      "ranking": 6.141515721578535,
+      "ranking": 5.7388084519808045,
       "articleUrl": "https://venturebeat.com/ai/from-static-classifiers-to-reasoning-engines-openais-new-model-rethinks"
+    },
+    {
+      "id": "109",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Grammarly Rebrands",
+      "mediumTitle": "Grammarly Rebrands to Superhuman",
+      "longTitle": "Grammarly Rebrands to Superhuman, Integrating AI Tools",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Grammarly, the popular AI writing",
+            "assistant, is undergoing a significant",
+            "rebranding and integration into a larger",
+            "suite of productivity tools under the",
+            "new name \u0027Superhuman\u0027.",
+            "This strategic move consolidates",
+            "Grammarly\u0027s existing AI writing",
+            "capabilities with other established",
+            "platforms like Coda and Superhuman Mail,",
+            "and introduces a new AI assistant named",
+            "Superhuman Go.",
+            "The newly formed Superhuman suite,",
+            "encompassing all these integrated tools,",
+            "is now accessible to all users who hold",
+            "a paid Grammarly Pro subscription.",
+            "This assistant will be made available to",
+            "Superhuman subscribers at no additional",
+            "charge."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T10:01:00.000Z",
+      "ranking": 5.541775510568675,
+      "articleUrl": "https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch"
+    },
+    {
+      "id": "106",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini for Home",
+      "mediumTitle": "Google Assistant Replaced by Gemini",
+      "longTitle": "Google Rolls Out Early Access for Gemini for Home in US",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google is rolling out early access to",
+            "Gemini for Home in the US, a significant",
+            "update that will eventually replace the",
+            "current Google Assistant on Nest",
+            "devices.",
+            "The article hints at the AI\u0027s ability to",
+            "run \u0027on-device,\u0027 which could lead to",
+            "faster response times and improved",
+            "privacy by reducing the need to send",
+            "data to the cloud for processing.",
+            "Gemini for Home is designed to leverage",
+            "the capabilities of Google\u0027s Gemini AI",
+            "model, which is known for its multimodal",
+            "understanding and advanced reasoning.",
+            "The transition from Google Assistant to",
+            "Gemini for Home is a strategic move by",
+            "Google to stay competitive in the",
+            "rapidly evolving smart home market."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T11:08:48.000Z",
+      "ranking": 5.466127868062606,
+      "articleUrl": "https://www.theverge.com/news/808858/google-gemini-for-home-early-access-launch"
     },
     {
       "id": "122",
@@ -702,7 +702,7 @@
         }
       ],
       "publishedAt": "2025-10-29T01:00:00.000Z",
-      "ranking": 5.837630589655909,
+      "ranking": 5.3793873757233825,
       "articleUrl": "https://venturebeat.com/ai/nvidia-researchers-unlock-4-bit-llm-training-that-matches-8-bit-performance"
     },
     {
@@ -739,8 +739,41 @@
         }
       ],
       "publishedAt": "2025-10-29T00:23:00.000Z",
-      "ranking": 5.65141380201964,
+      "ranking": 5.184608792944841,
       "articleUrl": "https://venturebeat.com/ai/ibms-open-source-granite-4-0-nano-ai-models-are-small-enough-to-run-locally"
+    },
+    {
+      "id": "105",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Search Shift",
+      "mediumTitle": "AI Chatbots Reshape Online Discovery",
+      "longTitle": "Generative AI Disrupts Search, Creating New Optimization Field",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The rise of AI chatbots and generative",
+            "AI is predicted to cause a 25% decline",
+            "in traditional search engine volume by",
+            "2026, ushering in a new era of online",
+            "discovery.",
+            "The era of solely optimizing for Google",
+            "is over, replaced by a complex ecosystem",
+            "where understanding how AI synthesizes",
+            "information is paramount for business",
+            "discoverability.",
+            "This disruption has led to the emergence",
+            "of Generative Engine Optimization (GEO),",
+            "a field focused on how AI models",
+            "understand and synthesize information,",
+            "differing from traditional SEO\u0027s keyword",
+            "and backlink focus."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T08:00:00.000Z",
+      "ranking": 5.079630792115592,
+      "articleUrl": "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots"
     },
     {
       "id": "101",
@@ -776,41 +809,8 @@
         }
       ],
       "publishedAt": "2025-10-28T19:42:04.000Z",
-      "ranking": 5.524242229848452,
+      "ranking": 4.992429336891266,
       "articleUrl": "https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban"
-    },
-    {
-      "id": "105",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Search Shift",
-      "mediumTitle": "AI Chatbots Reshape Online Discovery",
-      "longTitle": "Generative AI Disrupts Search, Creating New Optimization Field",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The rise of AI chatbots and generative",
-            "AI is predicted to cause a 25% decline",
-            "in traditional search engine volume by",
-            "2026, ushering in a new era of online",
-            "discovery.",
-            "The era of solely optimizing for Google",
-            "is over, replaced by a complex ecosystem",
-            "where understanding how AI synthesizes",
-            "information is paramount for business",
-            "discoverability.",
-            "This disruption has led to the emergence",
-            "of Generative Engine Optimization (GEO),",
-            "a field focused on how AI models",
-            "understand and synthesize information,",
-            "differing from traditional SEO\u0027s keyword",
-            "and backlink focus."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T08:00:00.000Z",
-      "ranking": 5.4406861389527075,
-      "articleUrl": "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots"
     },
     {
       "id": "96",
@@ -845,7 +845,7 @@
         }
       ],
       "publishedAt": "2025-10-28T17:10:00.000Z",
-      "ranking": 4.972011955921934,
+      "ranking": 4.405010892307411,
       "articleUrl": "https://venturebeat.com/ai/githubs-agent-hq-aims-to-solve-enterprises-biggest-ai-coding-problem-too"
     },
     {
@@ -881,7 +881,7 @@
         }
       ],
       "publishedAt": "2025-10-28T21:30:00.000Z",
-      "ranking": 4.759811988876833,
+      "ranking": 4.25297483538426,
       "articleUrl": "https://venturebeat.com/ai/microsofts-copilot-can-now-build-apps-and-automate-your-job-heres-how-it"
     },
     {
@@ -918,7 +918,7 @@
         }
       ],
       "publishedAt": "2025-10-28T13:30:00.000Z",
-      "ranking": 4.67161436650296,
+      "ranking": 4.053705354303736,
       "articleUrl": "https://venturebeat.com/ai/intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in"
     },
     {
@@ -950,7 +950,7 @@
         }
       ],
       "publishedAt": "2025-10-28T13:10:00.000Z",
-      "ranking": 4.66389149930702,
+      "ranking": 4.041354485673429,
       "articleUrl": "https://www.theverge.com/news/808032/github-ai-agent-hq-coding-openai-anthropic"
     },
     {
@@ -986,7 +986,7 @@
         }
       ],
       "publishedAt": "2025-10-28T10:38:55.000Z",
-      "ranking": 4.54499624956479,
+      "ranking": 3.8874985918892753,
       "articleUrl": "https://www.theverge.com/news/807875/openai-microsoft-for-profit-agi"
     },
     {
@@ -1020,7 +1020,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:35:08.000Z",
-      "ranking": 4.358946435598989,
+      "ranking": 3.6866893302216592,
       "articleUrl": "https://www.marktechpost.com/2025/10/28/zhipu-ai-releases-glyph-an-ai-framework-for-scaling-the-context-length-through-visual-text-compression/"
     },
     {
@@ -1057,7 +1057,7 @@
         }
       ],
       "publishedAt": "2025-10-28T10:16:17.000Z",
-      "ranking": 4.253673592228743,
+      "ranking": 3.590938580668814,
       "articleUrl": "https://www.theverge.com/news/807867/adobe-max-2025-all-the-latest-announcements"
     },
     {
@@ -1093,7 +1093,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 4.223970308388353,
+      "ranking": 3.543583351801546,
       "articleUrl": "https://www.theverge.com/news/807811/adobe-photoshop-lightroom-premiere-pro-ai-max-2025"
     },
     {
@@ -1128,7 +1128,7 @@
         }
       ],
       "publishedAt": "2025-10-28T13:13:25.000Z",
-      "ranking": 4.155689493759674,
+      "ranking": 3.533943069472593,
       "articleUrl": "https://www.theverge.com/news/808079/chatgpt-paypal-openai-acp-purchases"
     },
     {
@@ -1159,7 +1159,7 @@
         }
       ],
       "publishedAt": "2025-10-28T08:40:45.000Z",
-      "ranking": 3.9864268170665844,
+      "ranking": 3.3015854074790036,
       "articleUrl": "https://www.theverge.com/news/807825/amazon-job-layoffs-2025-ai"
     },
     {
@@ -1196,7 +1196,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 3.8139702850622283,
+      "ranking": 3.133583313479324,
       "articleUrl": "https://www.theverge.com/news/807809/adobe-firefly-ai-audio-generate-soundtrack-speech"
     },
     {
@@ -1232,7 +1232,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 3.517816430779372,
+      "ranking": 2.8374294520752965,
       "articleUrl": "https://www.theverge.com/news/807457/adobe-ai-agent-project-moonlight"
     },
     {
@@ -1268,7 +1268,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 2.855636936037596,
+      "ranking": 2.175249950944356,
       "articleUrl": "https://www.theverge.com/news/807802/adobe-express-ai-assistant-prompt-editing-beta-max-2025"
     },
     {
@@ -1305,7 +1305,7 @@
         }
       ],
       "publishedAt": "2025-10-28T05:00:00.000Z",
-      "ranking": 2.7899996486792373,
+      "ranking": 2.0540767310655363,
       "articleUrl": "https://venturebeat.com/ai/paypals-agentic-commerce-play-shows-why-flexibility-not-standards-will"
     },
     {
@@ -1342,7 +1342,7 @@
         }
       ],
       "publishedAt": "2025-10-27T21:46:59.000Z",
-      "ranking": 2.274760836911846,
+      "ranking": 1.438637987990738,
       "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
     },
     {
@@ -1379,7 +1379,7 @@
         }
       ],
       "publishedAt": "2025-10-27T19:16:48.000Z",
-      "ranking": 2.1835736625535764,
+      "ranking": 1.3126984180799237,
       "articleUrl": "https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership"
     },
     {
@@ -1412,7 +1412,7 @@
         }
       ],
       "publishedAt": "2025-10-27T21:46:59.000Z",
-      "ranking": 1.8147608166225835,
+      "ranking": 0.9786379418047773,
       "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
     },
     {
@@ -1445,77 +1445,8 @@
         }
       ],
       "publishedAt": "2025-10-27T20:01:00.000Z",
-      "ranking": 1.6892026632764185,
+      "ranking": 0.8285552730498198,
       "articleUrl": "https://venturebeat.com/ai/minimax-m2-is-the-new-king-of-open-source-llms-especially-for-agentic-tool"
-    },
-    {
-      "id": "77",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Sora Deepfake Threat",
-      "mediumTitle": "OpenAI\u0027s Sora: Deepfake Detection Challenges",
-      "longTitle": "OpenAI\u0027s Sora AI Video Generator Exposes Deepfake Detection Gaps",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI\u0027s new AI video platform, Sora,",
-            "demonstrates significant challenges in",
-            "detecting deepfakes due to its ability",
-            "to create highly detailed and realistic",
-            "videos.",
-            "The AI\u0027s capacity to generate convincing",
-            "visual narratives blurs the lines",
-            "between real and fabricated content,",
-            "making it increasingly difficult for",
-            "both automated systems and human",
-            "observers to distinguish between",
-            "authentic and AI-generated videos.",
-            "The article emphasizes that Sora\u0027s",
-            "advancements in realism mean that even",
-            "sophisticated deepfake detection tools",
-            "are struggling to keep pace."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T13:00:00.000Z",
-      "ranking": 0.6052282497810104,
-      "articleUrl": "https://www.theverge.com/report/806359/openai-sora-deepfake-detection-c2pa-content-credentials"
-    },
-    {
-      "id": "75",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI Law Era",
-      "mediumTitle": "LexisNexis CEO: AI Law Era Begins",
-      "longTitle": "LexisNexis CEO Sean Fitzpatrick Declares the AI Law Era Has Begun",
-      "paragraphs": [
-        {
-          "Lines": [
-            "LexisNexis CEO Sean Fitzpatrick asserts",
-            "that the \u0027AI law era\u0027 has already",
-            "commenced, emphasizing the",
-            "transformative impact of artificial",
-            "intelligence on the legal profession.",
-            "The CEO\u0027s pronouncement signifies a",
-            "pivotal moment, indicating that legal",
-            "practices and services are actively",
-            "evolving to incorporate AI capabilities.",
-            "The article implies that AI is no longer",
-            "a future concept in law but a present",
-            "reality, fundamentally altering how",
-            "legal professionals operate.",
-            "The interview with Sean Fitzpatrick will",
-            "explore the current state of AI adoption",
-            "in law, the benefits and challenges",
-            "associated with this integration, and",
-            "the future trajectory of legal",
-            "technology driven by AI."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T14:51:24.000Z",
-      "ranking": 0.5675779384539341,
-      "articleUrl": "https://www.theverge.com/podcast/807136/lexisnexis-ceo-sean-fitzpatick-ai-lawyer-legal-chatgpt-interview"
     },
     {
       "id": "72",
@@ -1550,8 +1481,44 @@
         }
       ],
       "publishedAt": "2025-10-27T17:00:00.000Z",
-      "ranking": 0.15156599290964756,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/anthropic-rolls-out-claude-ai-for-finance-integrates-with-excel-to-rival"
+    },
+    {
+      "id": "75",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Law Era",
+      "mediumTitle": "LexisNexis CEO: AI Law Era Begins",
+      "longTitle": "LexisNexis CEO Sean Fitzpatrick Declares the AI Law Era Has Begun",
+      "paragraphs": [
+        {
+          "Lines": [
+            "LexisNexis CEO Sean Fitzpatrick asserts",
+            "that the \u0027AI law era\u0027 has already",
+            "commenced, emphasizing the",
+            "transformative impact of artificial",
+            "intelligence on the legal profession.",
+            "The CEO\u0027s pronouncement signifies a",
+            "pivotal moment, indicating that legal",
+            "practices and services are actively",
+            "evolving to incorporate AI capabilities.",
+            "The article implies that AI is no longer",
+            "a future concept in law but a present",
+            "reality, fundamentally altering how",
+            "legal professionals operate.",
+            "The interview with Sean Fitzpatrick will",
+            "explore the current state of AI adoption",
+            "in law, the benefits and challenges",
+            "associated with this integration, and",
+            "the future trajectory of legal",
+            "technology driven by AI."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T14:51:24.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/podcast/807136/lexisnexis-ceo-sean-fitzpatick-ai-lawyer-legal-chatgpt-interview"
     },
     {
       "id": "76",
@@ -1588,6 +1555,39 @@
       "publishedAt": "2025-10-27T13:04:33.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/807078/qualcomm-ai-chips-launch-hexagon-npus"
+    },
+    {
+      "id": "77",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Sora Deepfake Threat",
+      "mediumTitle": "OpenAI\u0027s Sora: Deepfake Detection Challenges",
+      "longTitle": "OpenAI\u0027s Sora AI Video Generator Exposes Deepfake Detection Gaps",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI\u0027s new AI video platform, Sora,",
+            "demonstrates significant challenges in",
+            "detecting deepfakes due to its ability",
+            "to create highly detailed and realistic",
+            "videos.",
+            "The AI\u0027s capacity to generate convincing",
+            "visual narratives blurs the lines",
+            "between real and fabricated content,",
+            "making it increasingly difficult for",
+            "both automated systems and human",
+            "observers to distinguish between",
+            "authentic and AI-generated videos.",
+            "The article emphasizes that Sora\u0027s",
+            "advancements in realism mean that even",
+            "sophisticated deepfake detection tools",
+            "are struggling to keep pace."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T13:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/report/806359/openai-sora-deepfake-detection-c2pa-content-credentials"
     },
     {
       "id": "78",
