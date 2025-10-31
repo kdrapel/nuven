@@ -38,40 +38,6 @@
       "articleUrl": "https://www.theverge.com/report/810083/ai-browser-cybersecurity-problems"
     },
     {
-      "id": "123",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "IBM AI Edge Models",
-      "mediumTitle": "IBM Granite 4.0 Nano: AI at the Edge",
-      "longTitle": "IBM\u0027s Granite 4.0 Nano: Compact, Open-Source AI for Edge Devices",
-      "paragraphs": [
-        {
-          "Lines": [
-            "IBM\u0027s AI team has introduced the Granite",
-            "4.0 Nano series, a new family of",
-            "compact, open-source small language",
-            "models designed for AI inference at the",
-            "edge and locally.",
-            "The primary objective of Granite 4.0",
-            "Nano is to enable enterprise-grade AI",
-            "capabilities on devices with limited",
-            "computational resources, such as",
-            "smartphones, IoT devices, and other edge",
-            "computing platforms.",
-            "This initiative by IBM signifies a",
-            "growing trend towards decentralized AI,",
-            "where powerful AI models can operate",
-            "directly on user devices, enhancing",
-            "privacy, reducing latency, and enabling",
-            "offline functionality."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-30T05:10:58.000Z",
-      "ranking": 7.991666666666668,
-      "articleUrl": "https://www.marktechpost.com/2025/10/29/ibm-ai-team-releases-granite-4-0-nano-series-compact-and-open-source-small-models-built-for-ai-at-the-edge/"
-    },
-    {
       "id": "124",
       "topic": "Music",
       "source": "The Verge AI",
@@ -176,6 +142,40 @@
       "articleUrl": "https://www.theverge.com/news/809877/openai-sora-app-character-cameo-updates"
     },
     {
+      "id": "134",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Agentic Data Strategy",
+      "mediumTitle": "Qwen Models for Pipeline Intelligence",
+      "longTitle": "Designing Autonomous Multi-Agent Data and Infrastructure Strategy System",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This article details how to design an",
+            "autonomous multi-agent system for data",
+            "and infrastructure strategy using",
+            "lightweight Qwen models for efficient",
+            "pipeline intelligence.",
+            "The core of this system is built using",
+            "the lightweight Qwen2.5-0.5B-Instruct",
+            "model, chosen for its efficiency in",
+            "execution.",
+            "The tutorial begins by establishing a",
+            "flexible Large Language Model (LLM)",
+            "agent framework as the foundation for",
+            "specialized agents.",
+            "These specialized agents are designed to",
+            "address distinct aspects of data",
+            "management and infrastructure",
+            "optimization."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-31T05:27:43.000Z",
+      "ranking": 7.5,
+      "articleUrl": "https://www.marktechpost.com/2025/10/30/how-to-design-an-autonomous-multi-agent-data-and-infrastructure-strategy-system-using-lightweight-qwen-models-for-efficient-pipeline-intelligence/"
+    },
+    {
       "id": "130",
       "topic": "Art",
       "source": "The Verge AI",
@@ -242,6 +242,40 @@
       "articleUrl": "https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch"
     },
     {
+      "id": "123",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "IBM AI Edge Models",
+      "mediumTitle": "IBM Granite 4.0 Nano: AI at the Edge",
+      "longTitle": "IBM\u0027s Granite 4.0 Nano: Compact, Open-Source AI for Edge Devices",
+      "paragraphs": [
+        {
+          "Lines": [
+            "IBM\u0027s AI team has introduced the Granite",
+            "4.0 Nano series, a new family of",
+            "compact, open-source small language",
+            "models designed for AI inference at the",
+            "edge and locally.",
+            "The primary objective of Granite 4.0",
+            "Nano is to enable enterprise-grade AI",
+            "capabilities on devices with limited",
+            "computational resources, such as",
+            "smartphones, IoT devices, and other edge",
+            "computing platforms.",
+            "This initiative by IBM signifies a",
+            "growing trend towards decentralized AI,",
+            "where powerful AI models can operate",
+            "directly on user devices, enhancing",
+            "privacy, reducing latency, and enabling",
+            "offline functionality."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-30T05:10:58.000Z",
+      "ranking": 6.742583465150969,
+      "articleUrl": "https://www.marktechpost.com/2025/10/29/ibm-ai-team-releases-granite-4-0-nano-series-compact-and-open-source-small-models-built-for-ai-at-the-edge/"
+    },
+    {
       "id": "131",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -275,7 +309,7 @@
         }
       ],
       "publishedAt": "2025-10-30T01:00:00.000Z",
-      "ranking": 6.472421783581278,
+      "ranking": 6.069439603608377,
       "articleUrl": "https://venturebeat.com/ai/meta-researchers-open-the-llm-black-box-to-repair-flawed-ai-reasoning"
     },
     {
@@ -311,7 +345,7 @@
         }
       ],
       "publishedAt": "2025-10-29T20:28:00.000Z",
-      "ranking": 6.402378260839873,
+      "ranking": 5.936412214730105,
       "articleUrl": "https://venturebeat.com/ai/vibe-coding-platform-cursor-releases-first-in-house-llm-composer-promising"
     },
     {
@@ -346,7 +380,7 @@
         }
       ],
       "publishedAt": "2025-10-30T04:00:00.000Z",
-      "ranking": 6.2746313159131635,
+      "ranking": 5.913329634061132,
       "articleUrl": "https://venturebeat.com/ai/why-it-leaders-should-pay-attention-to-canvas-imagination-era-strategy"
     },
     {
@@ -382,7 +416,7 @@
         }
       ],
       "publishedAt": "2025-10-29T18:00:00.000Z",
-      "ranking": 6.253896897981504,
+      "ranking": 5.753660217871795,
       "articleUrl": "https://venturebeat.com/ai/anthropic-scientists-hacked-claudes-brain-and-it-noticed-heres-why-thats"
     },
     {
@@ -416,7 +450,7 @@
         }
       ],
       "publishedAt": "2025-10-29T09:30:00.000Z",
-      "ranking": 5.638496439395906,
+      "ranking": 5.020165010951214,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808514/grokipedia-wikipedia-comparison"
     },
     {
@@ -449,7 +483,7 @@
         }
       ],
       "publishedAt": "2025-10-29T10:45:01.000Z",
-      "ranking": 5.333766095027258,
+      "ranking": 4.732805400575391,
       "articleUrl": "https://www.theverge.com/news/808749/tiktok-smart-split-ai-outline-revenue-sharing-subscriptions"
     },
     {
@@ -486,43 +520,43 @@
         }
       ],
       "publishedAt": "2025-10-29T11:57:09.000Z",
-      "ranking": 5.165005876333751,
+      "ranking": 4.580748254607332,
       "articleUrl": "https://www.theverge.com/news/809017/nvidia-5-trillion-market-cap-ai"
     },
     {
-      "id": "104",
-      "topic": "NLP",
+      "id": "121",
+      "topic": "Learning",
       "source": "Marktechpost AI",
-      "shortTitle": "LFM2-ColBERT-350M",
-      "mediumTitle": "New Model for Multilingual RAG",
-      "longTitle": "Liquid AI\u0027s LFM2-ColBERT-350M Enhances Multilingual RAG",
+      "shortTitle": "Agent Lightning",
+      "mediumTitle": "Microsoft\u0027s Agent Lightning AI Framework",
+      "longTitle": "Microsoft Introduces Agent Lightning: Open-Source AI Framework for LLM Training",
       "paragraphs": [
         {
           "Lines": [
-            "Liquid AI has introduced",
-            "LFM2-ColBERT-350M, a novel, compact late",
-            "interaction retriever designed to",
-            "enhance multilingual and cross-lingual",
-            "search capabilities within Retrieval",
-            "Augmented Generation (RAG) systems.",
-            "The core innovation of LFM2-ColBERT-350M",
-            "lies in its capacity to index documents",
-            "in one language and then efficiently",
-            "process queries submitted in a multitude",
-            "of languages, all while maintaining high",
-            "retrieval accuracy.",
-            "The ability to handle multilingual",
-            "queries against a single-language index",
-            "is a significant advancement,",
-            "potentially democratizing access to",
-            "information and AI-powered services",
-            "across language barriers."
+            "Microsoft has introduced Agent",
+            "Lightning, a novel open-source AI",
+            "framework designed to facilitate the",
+            "training of Large Language Models (LLMs)",
+            "for any AI agent using Reinforcement",
+            "Learning (RL).",
+            "The primary objective of Agent Lightning",
+            "is to enable the conversion of real",
+            "agent traces into RL transitions,",
+            "thereby enhancing the policy LLMs",
+            "without necessitating modifications to",
+            "the existing agent stack.",
+            "This framework is particularly",
+            "beneficial for optimizing multi-agent",
+            "systems.",
+            "A key feature of Agent Lightning is its",
+            "ability to decouple the training process",
+            "from the execution of the AI agent."
           ]
         }
       ],
-      "publishedAt": "2025-10-29T07:32:35.000Z",
-      "ranking": 4.704396124711353,
-      "articleUrl": "https://www.marktechpost.com/2025/10/28/liquid-ai-releases-lfm2-colbert-350m-a-new-small-model-that-brings-late-interaction-retrieval-to-multilingual-and-cross-lingual-rag/"
+      "publishedAt": "2025-10-29T22:39:21.000Z",
+      "ranking": 4.210734238655795,
+      "articleUrl": "https://www.marktechpost.com/2025/10/29/microsoft-releases-agent-lightning-a-new-ai-framework-that-enables-reinforcement-learning-rl-based-training-of-llms-for-any-ai-agent/"
     },
     {
       "id": "114",
@@ -558,43 +592,43 @@
         }
       ],
       "publishedAt": "2025-10-29T09:05:45.000Z",
-      "ranking": 4.691063958679573,
+      "ranking": 4.067117219478774,
       "articleUrl": "https://www.theverge.com/report/808647/bill-gates-climate-change-ai-emissions-memo"
     },
     {
-      "id": "121",
-      "topic": "Learning",
+      "id": "104",
+      "topic": "NLP",
       "source": "Marktechpost AI",
-      "shortTitle": "Agent Lightning",
-      "mediumTitle": "Microsoft\u0027s Agent Lightning AI Framework",
-      "longTitle": "Microsoft Introduces Agent Lightning: Open-Source AI Framework for LLM Training",
+      "shortTitle": "LFM2-ColBERT-350M",
+      "mediumTitle": "New Model for Multilingual RAG",
+      "longTitle": "Liquid AI\u0027s LFM2-ColBERT-350M Enhances Multilingual RAG",
       "paragraphs": [
         {
           "Lines": [
-            "Microsoft has introduced Agent",
-            "Lightning, a novel open-source AI",
-            "framework designed to facilitate the",
-            "training of Large Language Models (LLMs)",
-            "for any AI agent using Reinforcement",
-            "Learning (RL).",
-            "The primary objective of Agent Lightning",
-            "is to enable the conversion of real",
-            "agent traces into RL transitions,",
-            "thereby enhancing the policy LLMs",
-            "without necessitating modifications to",
-            "the existing agent stack.",
-            "This framework is particularly",
-            "beneficial for optimizing multi-agent",
-            "systems.",
-            "A key feature of Agent Lightning is its",
-            "ability to decouple the training process",
-            "from the execution of the AI agent."
+            "Liquid AI has introduced",
+            "LFM2-ColBERT-350M, a novel, compact late",
+            "interaction retriever designed to",
+            "enhance multilingual and cross-lingual",
+            "search capabilities within Retrieval",
+            "Augmented Generation (RAG) systems.",
+            "The core innovation of LFM2-ColBERT-350M",
+            "lies in its capacity to index documents",
+            "in one language and then efficiently",
+            "process queries submitted in a multitude",
+            "of languages, all while maintaining high",
+            "retrieval accuracy.",
+            "The ability to handle multilingual",
+            "queries against a single-language index",
+            "is a significant advancement,",
+            "potentially democratizing access to",
+            "information and AI-powered services",
+            "across language barriers."
           ]
         }
       ],
-      "publishedAt": "2025-10-29T22:39:21.000Z",
-      "ranking": 4.646285101818836,
-      "articleUrl": "https://www.marktechpost.com/2025/10/29/microsoft-releases-agent-lightning-a-new-ai-framework-that-enables-reinforcement-learning-rl-based-training-of-llms-for-any-ai-agent/"
+      "publishedAt": "2025-10-29T07:32:35.000Z",
+      "ranking": 4.058875852244637,
+      "articleUrl": "https://www.marktechpost.com/2025/10/28/liquid-ai-releases-lfm2-colbert-350m-a-new-small-model-that-brings-late-interaction-retrieval-to-multilingual-and-cross-lingual-rag/"
     },
     {
       "id": "120",
@@ -627,7 +661,7 @@
         }
       ],
       "publishedAt": "2025-10-29T18:41:31.000Z",
-      "ranking": 4.535900501959331,
+      "ranking": 4.045277342648594,
       "articleUrl": "https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings"
     },
     {
@@ -661,7 +695,7 @@
         }
       ],
       "publishedAt": "2025-10-29T10:19:21.000Z",
-      "ranking": 4.529164932960386,
+      "ranking": 3.92226090247218,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808434/openai-for-profit-restructuring-microsoft-deal-agi-wars"
     },
     {
@@ -698,7 +732,7 @@
         }
       ],
       "publishedAt": "2025-10-29T10:00:00.000Z",
-      "ranking": 4.481299186051019,
+      "ranking": 3.8699145033033977,
       "articleUrl": "https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates"
     },
     {
@@ -735,7 +769,7 @@
         }
       ],
       "publishedAt": "2025-10-29T09:25:29.000Z",
-      "ranking": 4.4705584805463365,
+      "ranking": 3.851181176439266,
       "articleUrl": "https://www.theverge.com/news/808750/openai-sora-cameo-celebrity-deepfake-trademark-lawsuit"
     },
     {
@@ -769,76 +803,8 @@
         }
       ],
       "publishedAt": "2025-10-29T10:00:00.000Z",
-      "ranking": 4.103521392695791,
+      "ranking": 3.4921367103900476,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
-    },
-    {
-      "id": "102",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "MiniMax M2 AI",
-      "mediumTitle": "MiniMax M2: Coding \u0026 Agent AI",
-      "longTitle": "MiniMax M2: Open-Source AI for Coding \u0026 Agents",
-      "paragraphs": [
-        {
-          "Lines": [
-            "MiniMax has released MiniMax M2, an",
-            "open-source Mixture of Experts (MoE)",
-            "model specifically designed for coding",
-            "and agentic workflows.",
-            "MiniMax M2 is cost-effective, priced at",
-            "approximately 8% of the cost of Claude",
-            "Sonnet, making advanced AI capabilities",
-            "more accessible.",
-            "The model aims to provide powerful",
-            "capabilities at a significantly lower",
-            "cost and with improved speed compared to",
-            "existing flagship models.",
-            "The model is reported to be",
-            "approximately twice as fast as",
-            "comparable models, enhancing efficiency",
-            "for users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T23:21:17.000Z",
-      "ranking": 3.6541820233077473,
-      "articleUrl": "https://www.marktechpost.com/2025/10/28/minimax-open-sources-minimax-m2-a-mini-model-built-for-max-coding-and-agentic-workflows-at-8-claude-sonnet-price-and-2x-faster/"
-    },
-    {
-      "id": "109",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Grammarly Rebrands",
-      "mediumTitle": "Grammarly Rebrands to Superhuman",
-      "longTitle": "Grammarly Rebrands to Superhuman, Integrating AI Tools",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Grammarly, the popular AI writing",
-            "assistant, is undergoing a significant",
-            "rebranding and integration into a larger",
-            "suite of productivity tools under the",
-            "new name \u0027Superhuman\u0027.",
-            "This strategic move consolidates",
-            "Grammarly\u0027s existing AI writing",
-            "capabilities with other established",
-            "platforms like Coda and Superhuman Mail,",
-            "and introduces a new AI assistant named",
-            "Superhuman Go.",
-            "The newly formed Superhuman suite,",
-            "encompassing all these integrated tools,",
-            "is now accessible to all users who hold",
-            "a paid Grammarly Pro subscription.",
-            "This assistant will be made available to",
-            "Superhuman subscribers at no additional",
-            "charge."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T10:01:00.000Z",
-      "ranking": 3.6535707563210087,
-      "articleUrl": "https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch"
     },
     {
       "id": "106",
@@ -872,8 +838,43 @@
         }
       ],
       "publishedAt": "2025-10-29T11:08:48.000Z",
-      "ranking": 3.640700716142684,
+      "ranking": 3.04524726066448,
       "articleUrl": "https://www.theverge.com/news/808858/google-gemini-for-home-early-access-launch"
+    },
+    {
+      "id": "109",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Grammarly Rebrands",
+      "mediumTitle": "Grammarly Rebrands to Superhuman",
+      "longTitle": "Grammarly Rebrands to Superhuman, Integrating AI Tools",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Grammarly, the popular AI writing",
+            "assistant, is undergoing a significant",
+            "rebranding and integration into a larger",
+            "suite of productivity tools under the",
+            "new name \u0027Superhuman\u0027.",
+            "This strategic move consolidates",
+            "Grammarly\u0027s existing AI writing",
+            "capabilities with other established",
+            "platforms like Coda and Superhuman Mail,",
+            "and introduces a new AI assistant named",
+            "Superhuman Go.",
+            "The newly formed Superhuman suite,",
+            "encompassing all these integrated tools,",
+            "is now accessible to all users who hold",
+            "a paid Grammarly Pro subscription.",
+            "This assistant will be made available to",
+            "Superhuman subscribers at no additional",
+            "charge."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T10:01:00.000Z",
+      "ranking": 3.0424176313776563,
+      "articleUrl": "https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch"
     },
     {
       "id": "116",
@@ -908,8 +909,41 @@
         }
       ],
       "publishedAt": "2025-10-29T05:00:00.000Z",
-      "ranking": 3.581855494302976,
+      "ranking": 2.90100332188299,
       "articleUrl": "https://venturebeat.com/ai/agentic-ai-is-all-about-the-context-engineering-that-is"
+    },
+    {
+      "id": "102",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "MiniMax M2 AI",
+      "mediumTitle": "MiniMax M2: Coding \u0026 Agent AI",
+      "longTitle": "MiniMax M2: Open-Source AI for Coding \u0026 Agents",
+      "paragraphs": [
+        {
+          "Lines": [
+            "MiniMax has released MiniMax M2, an",
+            "open-source Mixture of Experts (MoE)",
+            "model specifically designed for coding",
+            "and agentic workflows.",
+            "MiniMax M2 is cost-effective, priced at",
+            "approximately 8% of the cost of Claude",
+            "Sonnet, making advanced AI capabilities",
+            "more accessible.",
+            "The model aims to provide powerful",
+            "capabilities at a significantly lower",
+            "cost and with improved speed compared to",
+            "existing flagship models.",
+            "The model is reported to be",
+            "approximately twice as fast as",
+            "comparable models, enhancing efficiency",
+            "for users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T23:21:17.000Z",
+      "ranking": 2.8948971517562185,
+      "articleUrl": "https://www.marktechpost.com/2025/10/28/minimax-open-sources-minimax-m2-a-mini-model-built-for-max-coding-and-agentic-workflows-at-8-claude-sonnet-price-and-2x-faster/"
     },
     {
       "id": "119",
@@ -944,7 +978,7 @@
         }
       ],
       "publishedAt": "2025-10-29T05:00:00.000Z",
-      "ranking": 3.571900735482759,
+      "ranking": 2.891048556450677,
       "articleUrl": "https://venturebeat.com/ai/from-static-classifiers-to-reasoning-engines-openais-new-model-rethinks"
     },
     {
@@ -977,7 +1011,7 @@
         }
       ],
       "publishedAt": "2025-10-29T08:00:00.000Z",
-      "ranking": 3.0793893168111466,
+      "ranking": 2.4402176363478905,
       "articleUrl": "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots"
     },
     {
@@ -1014,7 +1048,7 @@
         }
       ],
       "publishedAt": "2025-10-29T01:00:00.000Z",
-      "ranking": 2.9902580686997053,
+      "ranking": 2.2538318837154483,
       "articleUrl": "https://venturebeat.com/ai/nvidia-researchers-unlock-4-bit-llm-training-that-matches-8-bit-performance"
     },
     {
@@ -1051,7 +1085,7 @@
         }
       ],
       "publishedAt": "2025-10-29T00:23:00.000Z",
-      "ranking": 2.7612203259126256,
+      "ranking": 2.016226482493777,
       "articleUrl": "https://venturebeat.com/ai/ibms-open-source-granite-4-0-nano-ai-models-are-small-enough-to-run-locally"
     },
     {
@@ -1088,7 +1122,7 @@
         }
       ],
       "publishedAt": "2025-10-28T19:42:04.000Z",
-      "ranking": 2.3089181446627505,
+      "ranking": 1.4988718516319421,
       "articleUrl": "https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban"
     },
     {
@@ -1124,7 +1158,7 @@
         }
       ],
       "publishedAt": "2025-10-28T21:30:00.000Z",
-      "ranking": 1.669401647961699,
+      "ranking": 0.8843482176170516,
       "articleUrl": "https://venturebeat.com/ai/microsofts-copilot-can-now-build-apps-and-automate-your-job-heres-how-it"
     },
     {
@@ -1160,7 +1194,7 @@
         }
       ],
       "publishedAt": "2025-10-28T17:10:00.000Z",
-      "ranking": 1.5806976164064395,
+      "ranking": 0.7354390214069433,
       "articleUrl": "https://venturebeat.com/ai/githubs-agent-hq-aims-to-solve-enterprises-biggest-ai-coding-problem-too"
     },
     {
@@ -1197,7 +1231,7 @@
         }
       ],
       "publishedAt": "2025-10-28T13:30:00.000Z",
-      "ranking": 1.0256889678311705,
+      "ranking": 0.12948754144744967,
       "articleUrl": "https://venturebeat.com/ai/intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in"
     },
     {
@@ -1229,8 +1263,43 @@
         }
       ],
       "publishedAt": "2025-10-28T13:10:00.000Z",
-      "ranking": 0.9948196391529329,
+      "ranking": 0.09398704632971988,
       "articleUrl": "https://www.theverge.com/news/808032/github-ai-agent-hq-coding-openai-anthropic"
+    },
+    {
+      "id": "97",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT PayPal",
+      "mediumTitle": "ChatGPT to Accept PayPal Payments",
+      "longTitle": "ChatGPT to Integrate PayPal for Seamless Service Payments",
+      "paragraphs": [
+        {
+          "Lines": [
+            "ChatGPT will soon allow users to pay for",
+            "services and features using their PayPal",
+            "accounts.",
+            "PayPal announced that starting in 2026,",
+            "users will have the option to integrate",
+            "their PayPal wallet for direct purchases",
+            "within the ChatGPT interface.",
+            "This integration will leverage ChatGPT\u0027s",
+            "recently introduced Instant Checkout",
+            "feature, allowing for a seamless payment",
+            "experience familiar to users who already",
+            "utilize PayPal for online transactions.",
+            "The announcement signifies a move",
+            "towards greater convenience and",
+            "accessibility for ChatGPT users.",
+            "It offers a trusted and widely adopted",
+            "payment method directly within the AI",
+            "chatbot interface."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T13:13:25.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/808079/chatgpt-paypal-openai-acp-purchases"
     },
     {
       "id": "89",
@@ -1265,77 +1334,8 @@
         }
       ],
       "publishedAt": "2025-10-28T10:38:55.000Z",
-      "ranking": 0.7010721676549139,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/807875/openai-microsoft-for-profit-agi"
-    },
-    {
-      "id": "97",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "ChatGPT PayPal",
-      "mediumTitle": "ChatGPT to Accept PayPal Payments",
-      "longTitle": "ChatGPT to Integrate PayPal for Seamless Service Payments",
-      "paragraphs": [
-        {
-          "Lines": [
-            "ChatGPT will soon allow users to pay for",
-            "services and features using their PayPal",
-            "accounts.",
-            "PayPal announced that starting in 2026,",
-            "users will have the option to integrate",
-            "their PayPal wallet for direct purchases",
-            "within the ChatGPT interface.",
-            "This integration will leverage ChatGPT\u0027s",
-            "recently introduced Instant Checkout",
-            "feature, allowing for a seamless payment",
-            "experience familiar to users who already",
-            "utilize PayPal for online transactions.",
-            "The announcement signifies a move",
-            "towards greater convenience and",
-            "accessibility for ChatGPT users.",
-            "It offers a trusted and widely adopted",
-            "payment method directly within the AI",
-            "chatbot interface."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T13:13:25.000Z",
-      "ranking": 0.4905718419179319,
-      "articleUrl": "https://www.theverge.com/news/808079/chatgpt-paypal-openai-acp-purchases"
-    },
-    {
-      "id": "87",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Glyph AI",
-      "mediumTitle": "Zhipu AI\u0027s Glyph for LLMs",
-      "longTitle": "Zhipu AI\u0027s Glyph: Visual-Text Compression for LLMs",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Zhipu AI has introduced \u0022Glyph,\u0022 an",
-            "innovative AI framework designed to",
-            "significantly enhance the context length",
-            "capabilities of large language models",
-            "(LLMs) by employing a novel visual-text",
-            "compression technique.",
-            "The research team at Zhipu AI has",
-            "demonstrated that this visual-text",
-            "compression method can scale a 128K",
-            "context window towards the challenging",
-            "1M-token workload without compromising",
-            "the model\u0027s ability to understand and",
-            "generate accurate responses.",
-            "The core idea behind Glyph is to",
-            "represent lengthy textual sequences as",
-            "images, which can then be processed by",
-            "Vision-Language Models (VLMs)."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T09:35:08.000Z",
-      "ranking": 0.44120442236105895,
-      "articleUrl": "https://www.marktechpost.com/2025/10/28/zhipu-ai-releases-glyph-an-ai-framework-for-scaling-the-context-length-through-visual-text-compression/"
     },
     {
       "id": "90",
@@ -1371,111 +1371,42 @@
         }
       ],
       "publishedAt": "2025-10-28T10:16:17.000Z",
-      "ranking": 0.38355541479261923,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/807867/adobe-max-2025-all-the-latest-announcements"
     },
     {
-      "id": "94",
+      "id": "87",
       "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Adobe AI Update",
-      "mediumTitle": "Adobe Creative Cloud AI Enhancements",
-      "longTitle": "Adobe Unveils Generative AI Advancements for Creative Cloud",
+      "source": "Marktechpost AI",
+      "shortTitle": "Glyph AI",
+      "mediumTitle": "Zhipu AI\u0027s Glyph for LLMs",
+      "longTitle": "Zhipu AI\u0027s Glyph: Visual-Text Compression for LLMs",
       "paragraphs": [
         {
           "Lines": [
-            "Adobe has unveiled significant",
-            "advancements in its Creative Cloud",
-            "suite, particularly for Photoshop,",
-            "Premiere Pro, and Lightroom, at its",
-            "annual Max event.",
-            "The focus of these updates is the",
-            "integration of generative AI tools",
-            "designed to streamline and enhance",
-            "creative workflows.",
-            "The overarching theme of these",
-            "announcements is the acceleration of the",
-            "creative process through artificial",
-            "intelligence.",
-            "By automating or simplifying complex",
-            "editing tasks, Adobe aims to empower",
-            "creators to achieve more in less time.",
-            "The article highlights that these new",
-            "tools will enable instant editing of a",
-            "larger portion of users\u0027 work."
+            "Zhipu AI has introduced \u0022Glyph,\u0022 an",
+            "innovative AI framework designed to",
+            "significantly enhance the context length",
+            "capabilities of large language models",
+            "(LLMs) by employing a novel visual-text",
+            "compression technique.",
+            "The research team at Zhipu AI has",
+            "demonstrated that this visual-text",
+            "compression method can scale a 128K",
+            "context window towards the challenging",
+            "1M-token workload without compromising",
+            "the model\u0027s ability to understand and",
+            "generate accurate responses.",
+            "The core idea behind Glyph is to",
+            "represent lengthy textual sequences as",
+            "images, which can then be processed by",
+            "Vision-Language Models (VLMs)."
           ]
         }
       ],
-      "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 0.2655676674238583,
-      "articleUrl": "https://www.theverge.com/news/807811/adobe-photoshop-lightroom-premiere-pro-ai-max-2025"
-    },
-    {
-      "id": "95",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Amazon Layoffs",
-      "mediumTitle": "Amazon Cuts 14,000 Corporate Jobs",
-      "longTitle": "Amazon announces 14,000 corporate job cuts in cost-saving move",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Amazon is planning to eliminate",
-            "approximately 14,000 corporate positions",
-            "as part of a broader cost-cutting",
-            "initiative.",
-            "The company\u0027s decision to implement",
-            "these layoffs is driven by a strategic",
-            "effort to reduce expenses.",
-            "This figure represents a reduction from",
-            "earlier reports that suggested as many",
-            "as 30,000 job losses.",
-            "The announcement was made to employees",
-            "by Beth Galetti, a senior executive at",
-            "the e-commerce company, via a message on",
-            "Tuesday."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T08:40:45.000Z",
-      "ranking": 0.00574571279961944,
-      "articleUrl": "https://www.theverge.com/news/807825/amazon-job-layoffs-2025-ai"
-    },
-    {
-      "id": "91",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Adobe AI Social",
-      "mediumTitle": "Adobe\u0027s Project Moonlight AI",
-      "longTitle": "Adobe\u0027s Project Moonlight: AI Social Media Administrator",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Adobe\u0027s Project Moonlight is an",
-            "AI-powered social media administrator",
-            "designed to act as a centralized",
-            "creative director for social media",
-            "campaigns.",
-            "In essence, Project Moonlight aims to",
-            "streamline the social media content",
-            "creation process by providing an",
-            "AI-driven partner that can ideate,",
-            "refine, and potentially even produce",
-            "content.",
-            "This initiative is part of Adobe\u0027s",
-            "broader strategy to integrate AI",
-            "assistants across its suite of creative",
-            "applications, leveraging its Firefly",
-            "platform.",
-            "Project Moonlight functions as a chatbot",
-            "that seamlessly integrates with Adobe\u0027s",
-            "creative software."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T09:00:00.000Z",
+      "publishedAt": "2025-10-28T09:35:08.000Z",
       "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/807457/adobe-ai-agent-project-moonlight"
+      "articleUrl": "https://www.marktechpost.com/2025/10/28/zhipu-ai-releases-glyph-an-ai-framework-for-scaling-the-context-length-through-visual-text-compression/"
     },
     {
       "id": "93",
@@ -1515,6 +1446,78 @@
       "articleUrl": "https://www.theverge.com/news/807809/adobe-firefly-ai-audio-generate-soundtrack-speech"
     },
     {
+      "id": "94",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Adobe AI Update",
+      "mediumTitle": "Adobe Creative Cloud AI Enhancements",
+      "longTitle": "Adobe Unveils Generative AI Advancements for Creative Cloud",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Adobe has unveiled significant",
+            "advancements in its Creative Cloud",
+            "suite, particularly for Photoshop,",
+            "Premiere Pro, and Lightroom, at its",
+            "annual Max event.",
+            "The focus of these updates is the",
+            "integration of generative AI tools",
+            "designed to streamline and enhance",
+            "creative workflows.",
+            "The overarching theme of these",
+            "announcements is the acceleration of the",
+            "creative process through artificial",
+            "intelligence.",
+            "By automating or simplifying complex",
+            "editing tasks, Adobe aims to empower",
+            "creators to achieve more in less time.",
+            "The article highlights that these new",
+            "tools will enable instant editing of a",
+            "larger portion of users\u0027 work."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T09:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/807811/adobe-photoshop-lightroom-premiere-pro-ai-max-2025"
+    },
+    {
+      "id": "91",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Adobe AI Social",
+      "mediumTitle": "Adobe\u0027s Project Moonlight AI",
+      "longTitle": "Adobe\u0027s Project Moonlight: AI Social Media Administrator",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Adobe\u0027s Project Moonlight is an",
+            "AI-powered social media administrator",
+            "designed to act as a centralized",
+            "creative director for social media",
+            "campaigns.",
+            "In essence, Project Moonlight aims to",
+            "streamline the social media content",
+            "creation process by providing an",
+            "AI-driven partner that can ideate,",
+            "refine, and potentially even produce",
+            "content.",
+            "This initiative is part of Adobe\u0027s",
+            "broader strategy to integrate AI",
+            "assistants across its suite of creative",
+            "applications, leveraging its Firefly",
+            "platform.",
+            "Project Moonlight functions as a chatbot",
+            "that seamlessly integrates with Adobe\u0027s",
+            "creative software."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T09:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/807457/adobe-ai-agent-project-moonlight"
+    },
+    {
       "id": "92",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -1549,6 +1552,37 @@
       "publishedAt": "2025-10-28T09:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/807802/adobe-express-ai-assistant-prompt-editing-beta-max-2025"
+    },
+    {
+      "id": "95",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Amazon Layoffs",
+      "mediumTitle": "Amazon Cuts 14,000 Corporate Jobs",
+      "longTitle": "Amazon announces 14,000 corporate job cuts in cost-saving move",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon is planning to eliminate",
+            "approximately 14,000 corporate positions",
+            "as part of a broader cost-cutting",
+            "initiative.",
+            "The company\u0027s decision to implement",
+            "these layoffs is driven by a strategic",
+            "effort to reduce expenses.",
+            "This figure represents a reduction from",
+            "earlier reports that suggested as many",
+            "as 30,000 job losses.",
+            "The announcement was made to employees",
+            "by Beth Galetti, a senior executive at",
+            "the e-commerce company, via a message on",
+            "Tuesday."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T08:40:45.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/807825/amazon-job-layoffs-2025-ai"
     },
     {
       "id": "86",
@@ -1588,6 +1622,39 @@
       "articleUrl": "https://venturebeat.com/ai/paypals-agentic-commerce-play-shows-why-flexibility-not-standards-will"
     },
     {
+      "id": "99",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Grokipedia Launched",
+      "mediumTitle": "Elon Musk\u0027s xAI launches Grokipedia",
+      "longTitle": "Elon Musk\u0027s xAI launches Grokipedia, a Wikipedia-like encyclopedia",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Elon Musk\u0027s xAI has launched Grokipedia,",
+            "an online encyclopedia designed to be",
+            "similar to Wikipedia.",
+            "The core functionality and presentation",
+            "of Grokipedia are directly analogous to",
+            "Wikipedia\u0027s established layout and",
+            "content organization.",
+            "The entries themselves are also",
+            "presented in a rudimentary format,",
+            "mirroring Wikipedia\u0027s structure with",
+            "headings, subheadings, and citations.",
+            "The platform\u0027s current design is",
+            "described as basic, with its homepage",
+            "primarily featuring a search bar.",
+            "As of the article\u0027s writing, no images",
+            "have been observed on Grokipedia."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T21:46:59.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
+    },
+    {
       "id": "84",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -1623,72 +1690,6 @@
       "publishedAt": "2025-10-27T21:46:59.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
-    },
-    {
-      "id": "99",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Grokipedia Launched",
-      "mediumTitle": "Elon Musk\u0027s xAI launches Grokipedia",
-      "longTitle": "Elon Musk\u0027s xAI launches Grokipedia, a Wikipedia-like encyclopedia",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Elon Musk\u0027s xAI has launched Grokipedia,",
-            "an online encyclopedia designed to be",
-            "similar to Wikipedia.",
-            "The core functionality and presentation",
-            "of Grokipedia are directly analogous to",
-            "Wikipedia\u0027s established layout and",
-            "content organization.",
-            "The entries themselves are also",
-            "presented in a rudimentary format,",
-            "mirroring Wikipedia\u0027s structure with",
-            "headings, subheadings, and citations.",
-            "The platform\u0027s current design is",
-            "described as basic, with its homepage",
-            "primarily featuring a search bar.",
-            "As of the article\u0027s writing, no images",
-            "have been observed on Grokipedia."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T21:46:59.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
-    },
-    {
-      "id": "71",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "MiniMax-M2 LLM",
-      "mediumTitle": "MiniMax-M2: Top Open LLM for Agents",
-      "longTitle": "MiniMax-M2: Leading Open-Source LLM Excelling in Agentic Tool Calling",
-      "paragraphs": [
-        {
-          "Lines": [
-            "MiniMax-M2 is a new open-source large",
-            "language model from Chinese startup",
-            "MiniMax, excelling in agentic tool",
-            "calling and available under a permissive",
-            "MIT License for free commercial use.",
-            "Independent evaluations by Artificial",
-            "Analysis rank MiniMax-M2 as the top",
-            "open-weight system globally on their",
-            "Intelligence Index, a measure of",
-            "reasoning, coding, and task execution.",
-            "In agentic benchmarks, MiniMax-M2",
-            "demonstrates strong performance in",
-            "planning, executing, and using external",
-            "tools, achieving scores comparable to",
-            "proprietary models like GPT-5 and Claude",
-            "Sonnet 4.5."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T20:01:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/minimax-m2-is-the-new-king-of-open-source-llms-especially-for-agentic-tool"
     }
   ]
 }
