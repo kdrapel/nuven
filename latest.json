@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "136",
+      "topic": "Business",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Needs Process Intel",
+      "mediumTitle": "Celosphere 2025: AI\u0027s Process Intelligence Imperative",
+      "longTitle": "Celosphere 2025: Why Enterprise AI Requires Process Intelligence",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Ultimately, \u0027There is no AI without PI\u0027.",
+            "Celosphere 2025 highlights that",
+            "enterprise AI\u0027s effectiveness hinges on",
+            "process intelligence (PI) to understand",
+            "business operations and context,",
+            "enabling measurable ROI.",
+            "Rinke concludes that process",
+            "intelligence creates a virtuous cycle",
+            "where better understanding leads to",
+            "better optimization, which enables",
+            "better AI, driving further",
+            "understanding.",
+            "Process intelligence provides the",
+            "necessary \u0027rails\u0027 for these agents,",
+            "ensuring they can understand specific",
+            "business processes."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-31T05:00:00.000Z",
+      "ranking": 8.216666666666667,
+      "articleUrl": "https://venturebeat.com/ai/inside-celosphere-2025-why-theres-no-enterprise-ai-without-process"
+    },
+    {
       "id": "135",
       "topic": "Policy",
       "source": "Marktechpost AI",
@@ -38,6 +71,75 @@
       "articleUrl": "https://www.marktechpost.com/2025/10/31/openai-releases-research-preview-of-gpt-oss-safeguard-two-open-weight-reasoning-models-for-safety-classification-tasks/"
     },
     {
+      "id": "140",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Adobe AI Sneaks",
+      "mediumTitle": "Adobe\u0027s AI Tools for Creators",
+      "longTitle": "Adobe Showcases Experimental AI Tools at Max Conference",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Adobe showcased several experimental AI",
+            "tools at its Max conference, designed to",
+            "revolutionize photo, video, and audio",
+            "editing through intuitive interfaces.",
+            "A key highlight is an AI tool capable of",
+            "applying edits made to a single frame",
+            "across an entire video.",
+            "This means users can adjust elements",
+            "like color, lighting, or even object",
+            "placement in one frame, and the AI will",
+            "intelligently propagate those changes",
+            "throughout the whole video sequence.",
+            "These demonstrations underscore Adobe\u0027s",
+            "commitment to integrating cutting-edge",
+            "AI into its creative suite, aiming to",
+            "empower users with more efficient and",
+            "sophisticated editing capabilities."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-31T14:31:03.000Z",
+      "ranking": 7.634615384615385,
+      "articleUrl": "https://www.theverge.com/news/811602/adobe-max-2025-sneaks-projects"
+    },
+    {
+      "id": "137",
+      "topic": "Dev Tools",
+      "source": "The Verge AI",
+      "shortTitle": "AI Patent Search",
+      "mediumTitle": "Perplexity\u0027s AI for Patent Research",
+      "longTitle": "Perplexity Introduces AI Tool to Simplify Patent Research",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Perplexity has introduced a new",
+            "AI-powered tool designed to streamline",
+            "the often complex and time-consuming",
+            "process of patent research.",
+            "Perplexity\u0027s new patent research agent",
+            "aims to overcome these hurdles by",
+            "enabling users to conduct searches using",
+            "natural language queries.",
+            "This innovative approach allows",
+            "individuals to ask questions about",
+            "patents in a conversational manner,",
+            "similar to how they might interact with",
+            "a human expert.",
+            "The tool\u0027s core functionality lies in",
+            "its ability to understand the nuances of",
+            "human language, including context and",
+            "intent, which is a significant departure",
+            "from traditional keyword-based systems."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-31T10:23:18.000Z",
+      "ranking": 7.576923076923077,
+      "articleUrl": "https://www.theverge.com/news/811340/perplexity-ai-patent-research-tool"
+    },
+    {
       "id": "134",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -70,6 +172,39 @@
       "publishedAt": "2025-10-31T05:27:43.000Z",
       "ranking": 7.5,
       "articleUrl": "https://www.marktechpost.com/2025/10/30/how-to-design-an-autonomous-multi-agent-data-and-infrastructure-strategy-system-using-lightweight-qwen-models-for-efficient-pipeline-intelligence/"
+    },
+    {
+      "id": "139",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Sora Credits",
+      "mediumTitle": "Sora Introduces Paid Credits",
+      "longTitle": "OpenAI\u0027s Sora Now Offers Paid Credits for Video Generation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has introduced a new feature for",
+            "its AI video generation platform, Sora,",
+            "allowing users to purchase additional",
+            "credits to create more videos.",
+            "The core message is the introduction of",
+            "a purchasable credit system to expand",
+            "video generation capabilities, coupled",
+            "with the foreshadowing of a decrease in",
+            "free allowances.",
+            "This indicates a strategic evolution for",
+            "Sora as OpenAI seeks to balance user",
+            "access, resource management, and",
+            "financial sustainability.",
+            "This move comes as OpenAI anticipates a",
+            "future reduction in free video",
+            "generation allowances for users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-31T08:16:01.000Z",
+      "ranking": 6.994117647058823,
+      "articleUrl": "https://www.theverge.com/news/811241/sora-pay-for-extra-video-gens"
     },
     {
       "id": "129",
@@ -105,7 +240,7 @@
         }
       ],
       "publishedAt": "2025-10-30T12:53:23.000Z",
-      "ranking": 7.034100728977288,
+      "ranking": 6.627348401170942,
       "articleUrl": "https://www.theverge.com/report/810083/ai-browser-cybersecurity-problems"
     },
     {
@@ -141,7 +276,7 @@
         }
       ],
       "publishedAt": "2025-10-30T13:00:00.000Z",
-      "ranking": 6.525415317902892,
+      "ranking": 6.120202951211336,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/809326/pinterest-ai-shopping-assistant-ceo-ready"
     },
     {
@@ -174,8 +309,74 @@
         }
       ],
       "publishedAt": "2025-10-30T10:02:23.000Z",
-      "ranking": 6.414852604520545,
+      "ranking": 5.968302179159092,
       "articleUrl": "https://www.theverge.com/news/809882/universal-music-udio-settlement"
+    },
+    {
+      "id": "130",
+      "topic": "Art",
+      "source": "The Verge AI",
+      "shortTitle": "Trump Ballroom",
+      "mediumTitle": "Trump\u0027s White House Ballroom Design Criticized",
+      "longTitle": "Criticism Mounts Over President Trump\u0027s Proposed White House Ballroom Design",
+      "paragraphs": [
+        {
+          "Lines": [
+            "President Trump\u0027s proposed ballroom",
+            "design, intended to replace the",
+            "demolished East Wing of the White House,",
+            "has drawn criticism for its aesthetic",
+            "and practical shortcomings, despite",
+            "initial speculation that its unusual",
+            "appearance might be due to AI",
+            "generation.",
+            "In essence, the article critiques",
+            "President Trump\u0027s ballroom design for",
+            "its perceived ugliness and questionable",
+            "architectural merit, suggesting that its",
+            "flaws are not accidental or",
+            "technologically generated but rather the",
+            "result of deliberate, albeit misguided,",
+            "design decisions."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-30T12:37:41.000Z",
+      "ranking": 5.579132786253701,
+      "articleUrl": "https://www.theverge.com/policy/809914/trump-white-house-ballroom-3d-model-ai"
+    },
+    {
+      "id": "127",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Canva OS Launch",
+      "mediumTitle": "Canva Rebrands as Creative OS",
+      "longTitle": "Canva Launches Creative Operating System with AI and Marketing Tools",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Canva has launched a significant",
+            "overhaul of its design platform,",
+            "rebranding it as a \u0022Creative Operating",
+            "System\u0022 and introducing new digital",
+            "marketing and video-editing tools.",
+            "At the core of these advancements is",
+            "what Canva claims to be a \u0022world-first\u0022",
+            "design-focused AI model.",
+            "This initiative aims to transform Canva",
+            "into a comprehensive workspace",
+            "specifically tailored for marketing",
+            "teams.",
+            "The \u0022design-focused\u0022 AI model is",
+            "specifically trained to understand and",
+            "assist with design principles,",
+            "aesthetics, and visual content creation."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-30T14:59:26.000Z",
+      "ranking": 5.542364893365911,
+      "articleUrl": "https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch"
     },
     {
       "id": "125",
@@ -209,74 +410,8 @@
         }
       ],
       "publishedAt": "2025-10-30T09:20:45.000Z",
-      "ranking": 5.997069815845614,
+      "ranking": 5.540829652474558,
       "articleUrl": "https://www.theverge.com/news/809877/openai-sora-app-character-cameo-updates"
-    },
-    {
-      "id": "130",
-      "topic": "Art",
-      "source": "The Verge AI",
-      "shortTitle": "Trump Ballroom",
-      "mediumTitle": "Trump\u0027s White House Ballroom Design Criticized",
-      "longTitle": "Criticism Mounts Over President Trump\u0027s Proposed White House Ballroom Design",
-      "paragraphs": [
-        {
-          "Lines": [
-            "President Trump\u0027s proposed ballroom",
-            "design, intended to replace the",
-            "demolished East Wing of the White House,",
-            "has drawn criticism for its aesthetic",
-            "and practical shortcomings, despite",
-            "initial speculation that its unusual",
-            "appearance might be due to AI",
-            "generation.",
-            "In essence, the article critiques",
-            "President Trump\u0027s ballroom design for",
-            "its perceived ugliness and questionable",
-            "architectural merit, suggesting that its",
-            "flaws are not accidental or",
-            "technologically generated but rather the",
-            "result of deliberate, albeit misguided,",
-            "design decisions."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-30T12:37:41.000Z",
-      "ranking": 5.989538745535742,
-      "articleUrl": "https://www.theverge.com/policy/809914/trump-white-house-ballroom-3d-model-ai"
-    },
-    {
-      "id": "127",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Canva OS Launch",
-      "mediumTitle": "Canva Rebrands as Creative OS",
-      "longTitle": "Canva Launches Creative Operating System with AI and Marketing Tools",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Canva has launched a significant",
-            "overhaul of its design platform,",
-            "rebranding it as a \u0022Creative Operating",
-            "System\u0022 and introducing new digital",
-            "marketing and video-editing tools.",
-            "At the core of these advancements is",
-            "what Canva claims to be a \u0022world-first\u0022",
-            "design-focused AI model.",
-            "This initiative aims to transform Canva",
-            "into a comprehensive workspace",
-            "specifically tailored for marketing",
-            "teams.",
-            "The \u0022design-focused\u0022 AI model is",
-            "specifically trained to understand and",
-            "assist with design principles,",
-            "aesthetics, and visual content creation."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-30T14:59:26.000Z",
-      "ranking": 5.919780022852513,
-      "articleUrl": "https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch"
     },
     {
       "id": "123",
@@ -309,7 +444,7 @@
         }
       ],
       "publishedAt": "2025-10-30T05:10:58.000Z",
-      "ranking": 5.886276940478215,
+      "ranking": 5.371902321501736,
       "articleUrl": "https://www.marktechpost.com/2025/10/29/ibm-ai-team-releases-granite-4-0-nano-series-compact-and-open-source-small-models-built-for-ai-at-the-edge/"
     },
     {
@@ -346,7 +481,7 @@
         }
       ],
       "publishedAt": "2025-10-30T01:00:00.000Z",
-      "ranking": 5.09693125654657,
+      "ranking": 4.5241467618292415,
       "articleUrl": "https://venturebeat.com/ai/meta-researchers-open-the-llm-black-box-to-repair-flawed-ai-reasoning"
     },
     {
@@ -381,7 +516,7 @@
         }
       ],
       "publishedAt": "2025-10-30T04:00:00.000Z",
-      "ranking": 5.024164342971609,
+      "ranking": 4.493272970811091,
       "articleUrl": "https://venturebeat.com/ai/why-it-leaders-should-pay-attention-to-canvas-imagination-era-strategy"
     },
     {
@@ -417,7 +552,7 @@
         }
       ],
       "publishedAt": "2025-10-29T20:28:00.000Z",
-      "ranking": 4.837963249123897,
+      "ranking": 4.201873587995107,
       "articleUrl": "https://venturebeat.com/ai/vibe-coding-platform-cursor-releases-first-in-house-llm-composer-promising"
     },
     {
@@ -453,7 +588,7 @@
         }
       ],
       "publishedAt": "2025-10-29T18:00:00.000Z",
-      "ranking": 4.586684748927555,
+      "ranking": 3.9161496295212572,
       "articleUrl": "https://venturebeat.com/ai/anthropic-scientists-hacked-claudes-brain-and-it-noticed-heres-why-thats"
     },
     {
@@ -487,7 +622,7 @@
         }
       ],
       "publishedAt": "2025-10-29T09:30:00.000Z",
-      "ranking": 3.617050895941241,
+      "ranking": 2.827818591811556,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808514/grokipedia-wikipedia-comparison"
     },
     {
@@ -520,8 +655,43 @@
         }
       ],
       "publishedAt": "2025-10-29T10:45:01.000Z",
-      "ranking": 3.364425273803189,
+      "ranking": 2.592652316865564,
       "articleUrl": "https://www.theverge.com/news/808749/tiktok-smart-split-ai-outline-revenue-sharing-subscriptions"
+    },
+    {
+      "id": "121",
+      "topic": "Learning",
+      "source": "Marktechpost AI",
+      "shortTitle": "Agent Lightning",
+      "mediumTitle": "Microsoft\u0027s Agent Lightning AI Framework",
+      "longTitle": "Microsoft Introduces Agent Lightning: Open-Source AI Framework for LLM Training",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft has introduced Agent",
+            "Lightning, a novel open-source AI",
+            "framework designed to facilitate the",
+            "training of Large Language Models (LLMs)",
+            "for any AI agent using Reinforcement",
+            "Learning (RL).",
+            "The primary objective of Agent Lightning",
+            "is to enable the conversion of real",
+            "agent traces into RL transitions,",
+            "thereby enhancing the policy LLMs",
+            "without necessitating modifications to",
+            "the existing agent stack.",
+            "This framework is particularly",
+            "beneficial for optimizing multi-agent",
+            "systems.",
+            "A key feature of Agent Lightning is its",
+            "ability to decouple the training process",
+            "from the execution of the AI agent."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T22:39:21.000Z",
+      "ranking": 2.5675832430995063,
+      "articleUrl": "https://www.marktechpost.com/2025/10/29/microsoft-releases-agent-lightning-a-new-ai-framework-that-enables-reinforcement-learning-rl-based-training-of-llms-for-any-ai-agent/"
     },
     {
       "id": "117",
@@ -557,43 +727,8 @@
         }
       ],
       "publishedAt": "2025-10-29T11:57:09.000Z",
-      "ranking": 3.245767085072413,
+      "ranking": 2.490782392365138,
       "articleUrl": "https://www.theverge.com/news/809017/nvidia-5-trillion-market-cap-ai"
-    },
-    {
-      "id": "121",
-      "topic": "Learning",
-      "source": "Marktechpost AI",
-      "shortTitle": "Agent Lightning",
-      "mediumTitle": "Microsoft\u0027s Agent Lightning AI Framework",
-      "longTitle": "Microsoft Introduces Agent Lightning: Open-Source AI Framework for LLM Training",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft has introduced Agent",
-            "Lightning, a novel open-source AI",
-            "framework designed to facilitate the",
-            "training of Large Language Models (LLMs)",
-            "for any AI agent using Reinforcement",
-            "Learning (RL).",
-            "The primary objective of Agent Lightning",
-            "is to enable the conversion of real",
-            "agent traces into RL transitions,",
-            "thereby enhancing the policy LLMs",
-            "without necessitating modifications to",
-            "the existing agent stack.",
-            "This framework is particularly",
-            "beneficial for optimizing multi-agent",
-            "systems.",
-            "A key feature of Agent Lightning is its",
-            "ability to decouple the training process",
-            "from the execution of the AI agent."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T22:39:21.000Z",
-      "ranking": 3.1731025643350934,
-      "articleUrl": "https://www.marktechpost.com/2025/10/29/microsoft-releases-agent-lightning-a-new-ai-framework-that-enables-reinforcement-learning-rl-based-training-of-llms-for-any-ai-agent/"
     },
     {
       "id": "120",
@@ -626,7 +761,7 @@
         }
       ],
       "publishedAt": "2025-10-29T18:41:31.000Z",
-      "ranking": 2.8975248200530044,
+      "ranking": 2.236652258814434,
       "articleUrl": "https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings"
     },
     {
@@ -663,7 +798,7 @@
         }
       ],
       "publishedAt": "2025-10-29T09:05:45.000Z",
-      "ranking": 2.6527749558572644,
+      "ranking": 1.8578987023539657,
       "articleUrl": "https://www.theverge.com/report/808647/bill-gates-climate-change-ai-emissions-memo"
     },
     {
@@ -698,7 +833,7 @@
         }
       ],
       "publishedAt": "2025-10-29T07:32:35.000Z",
-      "ranking": 2.6013958432800335,
+      "ranking": 1.7848360169370068,
       "articleUrl": "https://www.marktechpost.com/2025/10/28/liquid-ai-releases-lfm2-colbert-350m-a-new-small-model-that-brings-late-interaction-retrieval-to-multilingual-and-cross-lingual-rag/"
     },
     {
@@ -732,7 +867,7 @@
         }
       ],
       "publishedAt": "2025-10-29T10:19:21.000Z",
-      "ranking": 2.5419966937016607,
+      "ranking": 1.7642500711470932,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808434/openai-for-profit-restructuring-microsoft-deal-agi-wars"
     },
     {
@@ -769,7 +904,7 @@
         }
       ],
       "publishedAt": "2025-10-29T10:00:00.000Z",
-      "ranking": 2.480690915701043,
+      "ranking": 1.6984407816551892,
       "articleUrl": "https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates"
     },
     {
@@ -806,7 +941,7 @@
         }
       ],
       "publishedAt": "2025-10-29T09:25:29.000Z",
-      "ranking": 2.445975786986576,
+      "ranking": 1.655692253972501,
       "articleUrl": "https://www.theverge.com/news/808750/openai-sora-cameo-celebrity-deepfake-trademark-lawsuit"
     },
     {
@@ -840,7 +975,7 @@
         }
       ],
       "publishedAt": "2025-10-29T10:00:00.000Z",
-      "ranking": 2.1029131222963313,
+      "ranking": 1.3206629809022292,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
     },
     {
@@ -875,7 +1010,7 @@
         }
       ],
       "publishedAt": "2025-10-29T11:08:48.000Z",
-      "ranking": 1.6878792370964515,
+      "ranking": 0.9216415791009478,
       "articleUrl": "https://www.theverge.com/news/808858/google-gemini-for-home-early-access-launch"
     },
     {
@@ -910,7 +1045,7 @@
         }
       ],
       "publishedAt": "2025-10-29T10:01:00.000Z",
-      "ranking": 1.6536570582304781,
+      "ranking": 0.8716396560765105,
       "articleUrl": "https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch"
     },
     {
@@ -946,7 +1081,7 @@
         }
       ],
       "publishedAt": "2025-10-29T05:00:00.000Z",
-      "ranking": 1.372874635188853,
+      "ranking": 0.5208026300031872,
       "articleUrl": "https://venturebeat.com/ai/agentic-ai-is-all-about-the-context-engineering-that-is"
     },
     {
@@ -982,7 +1117,7 @@
         }
       ],
       "publishedAt": "2025-10-29T05:00:00.000Z",
-      "ranking": 1.3629198693913285,
+      "ranking": 0.5108478546587891,
       "articleUrl": "https://venturebeat.com/ai/from-static-classifiers-to-reasoning-engines-openais-new-model-rethinks"
     },
     {
@@ -1015,7 +1150,7 @@
         }
       ],
       "publishedAt": "2025-10-28T23:21:17.000Z",
-      "ranking": 1.209936889362229,
+      "ranking": 0.2790320941239841,
       "articleUrl": "https://www.marktechpost.com/2025/10/28/minimax-open-sources-minimax-m2-a-mini-model-built-for-max-coding-and-agentic-workflows-at-8-claude-sonnet-price-and-2x-faster/"
     },
     {
@@ -1048,7 +1183,7 @@
         }
       ],
       "publishedAt": "2025-10-29T08:00:00.000Z",
-      "ranking": 0.9954319881822853,
+      "ranking": 0.18525309270408208,
       "articleUrl": "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots"
     },
     {
@@ -1085,7 +1220,7 @@
         }
       ],
       "publishedAt": "2025-10-29T01:00:00.000Z",
-      "ranking": 0.6145791232557549,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/nvidia-researchers-unlock-4-bit-llm-training-that-matches-8-bit-performance"
     },
     {
@@ -1122,7 +1257,7 @@
         }
       ],
       "publishedAt": "2025-10-29T00:23:00.000Z",
-      "ranking": 0.35984209553256274,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/ibms-open-source-granite-4-0-nano-ai-models-are-small-enough-to-run-locally"
     },
     {
@@ -1480,42 +1615,6 @@
       "publishedAt": "2025-10-28T09:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/807811/adobe-photoshop-lightroom-premiere-pro-ai-max-2025"
-    },
-    {
-      "id": "92",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Adobe Express AI Beta",
-      "mediumTitle": "Adobe Express Launches AI Assistant Beta",
-      "longTitle": "Adobe Express Introduces Public Beta for New Generative AI Assistant",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Adobe Express has launched a public beta",
-            "for its new AI Assistant, a generative",
-            "AI feature designed to help users modify",
-            "and enhance designs using text prompts.",
-            "This AI assistant acts as a",
-            "conversational creative agent, allowing",
-            "users of all skill levels to make design",
-            "changes through simple, descriptive text",
-            "commands.",
-            "The core functionality enables users to",
-            "understand natural language commands and",
-            "translate them into design edits,",
-            "bypassing manual tool selection.",
-            "The emphasis is on ease of use and the",
-            "ability to achieve desired visual",
-            "outcomes through natural language",
-            "interaction, thereby lowering the",
-            "barrier to entry for creative design",
-            "tasks within Adobe Express."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/807802/adobe-express-ai-assistant-prompt-editing-beta-max-2025"
     },
     {
       "id": "93",
