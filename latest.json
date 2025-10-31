@@ -38,37 +38,41 @@
       "articleUrl": "https://www.theverge.com/report/810083/ai-browser-cybersecurity-problems"
     },
     {
-      "id": "124",
-      "topic": "Music",
-      "source": "The Verge AI",
-      "shortTitle": "UMG \u0026 Udio AI Deal",
-      "mediumTitle": "UMG Licenses Music Catalog to Udio",
-      "longTitle": "Universal Music Group Partners with AI Startup Udio, Settles Copyright Litigation",
+      "id": "135",
+      "topic": "Policy",
+      "source": "Marktechpost AI",
+      "shortTitle": "AI Safety Models",
+      "mediumTitle": "OpenAI Releases Open-Weight AI Safety Models",
+      "longTitle": "OpenAI Introduces Open-Weight AI Safety Models for Enhanced Application Security",
       "paragraphs": [
         {
           "Lines": [
-            "Universal Music Group (UMG) has entered",
-            "into a significant partnership with AI",
-            "music startup Udio, settling ongoing",
-            "copyright infringement litigation and",
-            "securing a license for UMG\u0027s extensive",
-            "music catalog to be used on Udio\u0027s new",
-            "AI-powered platform.",
-            "As the music industry continues to adapt",
-            "to the rapid advancements in AI",
-            "technology, this partnership between",
-            "Universal Music Group and Udio",
-            "represents a significant step towards",
-            "establishing a more stable and",
-            "predictable environment for both",
-            "innovation and intellectual property",
-            "protection."
+            "The core innovation of gpt-oss-safeguard",
+            "lies in its \u0022policy-conditioned safety\u0022",
+            "capability.",
+            "This means the models are trained to",
+            "understand and apply specific safety",
+            "guidelines provided to them at runtime.",
+            "OpenAI has introduced a research preview",
+            "of \u0022gpt-oss-safeguard,\u0022 a new suite of",
+            "two open-weight reasoning models",
+            "designed to enhance safety in AI",
+            "applications.",
+            "This allows for a more dynamic and",
+            "adaptable approach to AI safety, where",
+            "policies can be adjusted or updated",
+            "without needing to retrain the entire",
+            "underlying AI model.",
+            "Their primary function is to allow",
+            "developers to implement custom safety",
+            "policies during the inference stage of",
+            "AI model deployment."
           ]
         }
       ],
-      "publishedAt": "2025-10-30T10:02:23.000Z",
-      "ranking": 7.9739130434782615,
-      "articleUrl": "https://www.theverge.com/news/809882/universal-music-udio-settlement"
+      "publishedAt": "2025-10-31T09:08:18.000Z",
+      "ranking": 7.875,
+      "articleUrl": "https://www.marktechpost.com/2025/10/31/openai-releases-research-preview-of-gpt-oss-safeguard-two-open-weight-reasoning-models-for-safety-classification-tasks/"
     },
     {
       "id": "128",
@@ -105,41 +109,6 @@
       "publishedAt": "2025-10-30T13:00:00.000Z",
       "ranking": 7.791666666666667,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/809326/pinterest-ai-shopping-assistant-ceo-ready"
-    },
-    {
-      "id": "125",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Sora 2 Updates",
-      "mediumTitle": "OpenAI\u0027s Sora 2 Enhancements",
-      "longTitle": "OpenAI\u0027s Sora 2 Video Generator Receives Major Updates",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has significantly updated its",
-            "Sora 2 video generator, introducing",
-            "reusable characters and video stitching",
-            "to offer users more creative control.",
-            "The most notable new feature is the",
-            "introduction of \u0027character cameos,\u0027",
-            "allowing users to transform almost any",
-            "visual element into a reusable avatar.",
-            "Once created, these avatars can be",
-            "incorporated into various AI-generated",
-            "videos, effectively acting as custom",
-            "characters that can be easily deployed",
-            "across different projects.",
-            "In addition to character cameos, Sora 2",
-            "now supports clip stitching, which",
-            "allows users to combine multiple",
-            "generated video clips into a single,",
-            "cohesive video."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-30T09:20:45.000Z",
-      "ranking": 7.629166666666668,
-      "articleUrl": "https://www.theverge.com/news/809877/openai-sora-app-character-cameo-updates"
     },
     {
       "id": "134",
@@ -242,6 +211,74 @@
       "articleUrl": "https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch"
     },
     {
+      "id": "124",
+      "topic": "Music",
+      "source": "The Verge AI",
+      "shortTitle": "UMG \u0026 Udio AI Deal",
+      "mediumTitle": "UMG Licenses Music Catalog to Udio",
+      "longTitle": "Universal Music Group Partners with AI Startup Udio, Settles Copyright Litigation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Universal Music Group (UMG) has entered",
+            "into a significant partnership with AI",
+            "music startup Udio, settling ongoing",
+            "copyright infringement litigation and",
+            "securing a license for UMG\u0027s extensive",
+            "music catalog to be used on Udio\u0027s new",
+            "AI-powered platform.",
+            "As the music industry continues to adapt",
+            "to the rapid advancements in AI",
+            "technology, this partnership between",
+            "Universal Music Group and Udio",
+            "represents a significant step towards",
+            "establishing a more stable and",
+            "predictable environment for both",
+            "innovation and intellectual property",
+            "protection."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-30T10:02:23.000Z",
+      "ranking": 6.803201139390508,
+      "articleUrl": "https://www.theverge.com/news/809882/universal-music-udio-settlement"
+    },
+    {
+      "id": "125",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Sora 2 Updates",
+      "mediumTitle": "OpenAI\u0027s Sora 2 Enhancements",
+      "longTitle": "OpenAI\u0027s Sora 2 Video Generator Receives Major Updates",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has significantly updated its",
+            "Sora 2 video generator, introducing",
+            "reusable characters and video stitching",
+            "to offer users more creative control.",
+            "The most notable new feature is the",
+            "introduction of \u0027character cameos,\u0027",
+            "allowing users to transform almost any",
+            "visual element into a reusable avatar.",
+            "Once created, these avatars can be",
+            "incorporated into various AI-generated",
+            "videos, effectively acting as custom",
+            "characters that can be easily deployed",
+            "across different projects.",
+            "In addition to character cameos, Sora 2",
+            "now supports clip stitching, which",
+            "allows users to combine multiple",
+            "generated video clips into a single,",
+            "cohesive video."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-30T09:20:45.000Z",
+      "ranking": 6.39505352395526,
+      "articleUrl": "https://www.theverge.com/news/809877/openai-sora-app-character-cameo-updates"
+    },
+    {
       "id": "123",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -272,7 +309,7 @@
         }
       ],
       "publishedAt": "2025-10-30T05:10:58.000Z",
-      "ranking": 6.742583465150969,
+      "ranking": 6.342067816853643,
       "articleUrl": "https://www.marktechpost.com/2025/10/29/ibm-ai-team-releases-granite-4-0-nano-series-compact-and-open-source-small-models-built-for-ai-at-the-edge/"
     },
     {
@@ -309,8 +346,43 @@
         }
       ],
       "publishedAt": "2025-10-30T01:00:00.000Z",
-      "ranking": 6.069439603608377,
+      "ranking": 5.610803144459113,
       "articleUrl": "https://venturebeat.com/ai/meta-researchers-open-the-llm-black-box-to-repair-flawed-ai-reasoning"
+    },
+    {
+      "id": "126",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Canva\u0027s AI Shift",
+      "mediumTitle": "Canva Embraces AI for Creative Operating System",
+      "longTitle": "Canva Launches Creative Operating System Driven by AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Canva is shifting towards an",
+            "\u0022imagination era\u0022 powered by AI, aiming",
+            "to translate creativity into action with",
+            "its new Creative Operating System (COS).",
+            "The COS integrates AI across design,",
+            "collaboration, and a foundational",
+            "proprietary model to offer a",
+            "comprehensive content creation platform.",
+            "Canva\u0027s AI layer enables users to",
+            "generate, edit, and launch various",
+            "content types from a single dashboard,",
+            "understanding design complexity for",
+            "brand consistency.",
+            "Features like \u0022Ask Canva\u0022 provide",
+            "AI-powered design advice and editing,",
+            "fostering a human-AI partnership,",
+            "alongside new video and form/email",
+            "tools."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-30T04:00:00.000Z",
+      "ranking": 5.496378978796401,
+      "articleUrl": "https://venturebeat.com/ai/why-it-leaders-should-pay-attention-to-canvas-imagination-era-strategy"
     },
     {
       "id": "118",
@@ -345,43 +417,8 @@
         }
       ],
       "publishedAt": "2025-10-29T20:28:00.000Z",
-      "ranking": 5.936412214730105,
+      "ranking": 5.414783877535701,
       "articleUrl": "https://venturebeat.com/ai/vibe-coding-platform-cursor-releases-first-in-house-llm-composer-promising"
-    },
-    {
-      "id": "126",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Canva\u0027s AI Shift",
-      "mediumTitle": "Canva Embraces AI for Creative Operating System",
-      "longTitle": "Canva Launches Creative Operating System Driven by AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Canva is shifting towards an",
-            "\u0022imagination era\u0022 powered by AI, aiming",
-            "to translate creativity into action with",
-            "its new Creative Operating System (COS).",
-            "The COS integrates AI across design,",
-            "collaboration, and a foundational",
-            "proprietary model to offer a",
-            "comprehensive content creation platform.",
-            "Canva\u0027s AI layer enables users to",
-            "generate, edit, and launch various",
-            "content types from a single dashboard,",
-            "understanding design complexity for",
-            "brand consistency.",
-            "Features like \u0022Ask Canva\u0022 provide",
-            "AI-powered design advice and editing,",
-            "fostering a human-AI partnership,",
-            "alongside new video and form/email",
-            "tools."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-30T04:00:00.000Z",
-      "ranking": 5.913329634061132,
-      "articleUrl": "https://venturebeat.com/ai/why-it-leaders-should-pay-attention-to-canvas-imagination-era-strategy"
     },
     {
       "id": "115",
@@ -416,7 +453,7 @@
         }
       ],
       "publishedAt": "2025-10-29T18:00:00.000Z",
-      "ranking": 5.753660217871795,
+      "ranking": 5.197756898545782,
       "articleUrl": "https://venturebeat.com/ai/anthropic-scientists-hacked-claudes-brain-and-it-noticed-heres-why-thats"
     },
     {
@@ -450,7 +487,7 @@
         }
       ],
       "publishedAt": "2025-10-29T09:30:00.000Z",
-      "ranking": 5.020165010951214,
+      "ranking": 4.34615193082608,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808514/grokipedia-wikipedia-comparison"
     },
     {
@@ -483,7 +520,7 @@
         }
       ],
       "publishedAt": "2025-10-29T10:45:01.000Z",
-      "ranking": 4.732805400575391,
+      "ranking": 4.076165261195623,
       "articleUrl": "https://www.theverge.com/news/808749/tiktok-smart-split-ai-outline-revenue-sharing-subscriptions"
     },
     {
@@ -520,7 +557,7 @@
         }
       ],
       "publishedAt": "2025-10-29T11:57:09.000Z",
-      "ranking": 4.580748254607332,
+      "ranking": 3.9408133142793433,
       "articleUrl": "https://www.theverge.com/news/809017/nvidia-5-trillion-market-cap-ai"
     },
     {
@@ -555,8 +592,42 @@
         }
       ],
       "publishedAt": "2025-10-29T22:39:21.000Z",
-      "ranking": 4.210734238655795,
+      "ranking": 3.7195249703995197,
       "articleUrl": "https://www.marktechpost.com/2025/10/29/microsoft-releases-agent-lightning-a-new-ai-framework-that-enables-reinforcement-learning-rl-based-training-of-llms-for-any-ai-agent/"
+    },
+    {
+      "id": "120",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Meta AI Content",
+      "mediumTitle": "Meta to Boost AI Content in Feeds",
+      "longTitle": "Meta CEO Mark Zuckerberg Announces Plans for More AI-Generated Content",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta CEO Mark Zuckerberg announced plans",
+            "to significantly increase AI-generated",
+            "content in social media feeds, aiming to",
+            "enrich and personalize the user",
+            "experience.",
+            "During a recent earnings call,",
+            "Zuckerberg stated the company intends to",
+            "\u0022add yet another huge corpus of content\u0022",
+            "to its recommendation systems.",
+            "This expansion is driven by the",
+            "increasing ease with which artificial",
+            "intelligence can be used to create and",
+            "remix content that is subsequently",
+            "shared online.",
+            "Meta\u0027s strategy revolves around",
+            "leveraging AI to enhance the volume and",
+            "variety of content presented to users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T18:41:31.000Z",
+      "ranking": 3.4989888013687303,
+      "articleUrl": "https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings"
     },
     {
       "id": "114",
@@ -592,7 +663,7 @@
         }
       ],
       "publishedAt": "2025-10-29T09:05:45.000Z",
-      "ranking": 4.067117219478774,
+      "ranking": 3.3874881442005638,
       "articleUrl": "https://www.theverge.com/report/808647/bill-gates-climate-change-ai-emissions-memo"
     },
     {
@@ -627,42 +698,8 @@
         }
       ],
       "publishedAt": "2025-10-29T07:32:35.000Z",
-      "ranking": 4.058875852244637,
+      "ranking": 3.357670511697841,
       "articleUrl": "https://www.marktechpost.com/2025/10/28/liquid-ai-releases-lfm2-colbert-350m-a-new-small-model-that-brings-late-interaction-retrieval-to-multilingual-and-cross-lingual-rag/"
-    },
-    {
-      "id": "120",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Meta AI Content",
-      "mediumTitle": "Meta to Boost AI Content in Feeds",
-      "longTitle": "Meta CEO Mark Zuckerberg Announces Plans for More AI-Generated Content",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta CEO Mark Zuckerberg announced plans",
-            "to significantly increase AI-generated",
-            "content in social media feeds, aiming to",
-            "enrich and personalize the user",
-            "experience.",
-            "During a recent earnings call,",
-            "Zuckerberg stated the company intends to",
-            "\u0022add yet another huge corpus of content\u0022",
-            "to its recommendation systems.",
-            "This expansion is driven by the",
-            "increasing ease with which artificial",
-            "intelligence can be used to create and",
-            "remix content that is subsequently",
-            "shared online.",
-            "Meta\u0027s strategy revolves around",
-            "leveraging AI to enhance the volume and",
-            "variety of content presented to users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T18:41:31.000Z",
-      "ranking": 4.045277342648594,
-      "articleUrl": "https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings"
     },
     {
       "id": "108",
@@ -695,7 +732,7 @@
         }
       ],
       "publishedAt": "2025-10-29T10:19:21.000Z",
-      "ranking": 3.92226090247218,
+      "ranking": 3.2596766877102787,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808434/openai-for-profit-restructuring-microsoft-deal-agi-wars"
     },
     {
@@ -732,7 +769,7 @@
         }
       ],
       "publishedAt": "2025-10-29T10:00:00.000Z",
-      "ranking": 3.8699145033033977,
+      "ranking": 3.2028490659703834,
       "articleUrl": "https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates"
     },
     {
@@ -769,7 +806,7 @@
         }
       ],
       "publishedAt": "2025-10-29T09:25:29.000Z",
-      "ranking": 3.851181176439266,
+      "ranking": 3.1761221012067056,
       "articleUrl": "https://www.theverge.com/news/808750/openai-sora-cameo-celebrity-deepfake-trademark-lawsuit"
     },
     {
@@ -803,7 +840,7 @@
         }
       ],
       "publishedAt": "2025-10-29T10:00:00.000Z",
-      "ranking": 3.4921367103900476,
+      "ranking": 2.8250712724542995,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
     },
     {
@@ -838,7 +875,7 @@
         }
       ],
       "publishedAt": "2025-10-29T11:08:48.000Z",
-      "ranking": 3.04524726066448,
+      "ranking": 2.394115060190722,
       "articleUrl": "https://www.theverge.com/news/808858/google-gemini-for-home-early-access-launch"
     },
     {
@@ -873,7 +910,7 @@
         }
       ],
       "publishedAt": "2025-10-29T10:01:00.000Z",
-      "ranking": 3.0424176313776563,
+      "ranking": 2.3755837795223202,
       "articleUrl": "https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch"
     },
     {
@@ -909,41 +946,8 @@
         }
       ],
       "publishedAt": "2025-10-29T05:00:00.000Z",
-      "ranking": 2.90100332188299,
+      "ranking": 2.1644615530787554,
       "articleUrl": "https://venturebeat.com/ai/agentic-ai-is-all-about-the-context-engineering-that-is"
-    },
-    {
-      "id": "102",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "MiniMax M2 AI",
-      "mediumTitle": "MiniMax M2: Coding \u0026 Agent AI",
-      "longTitle": "MiniMax M2: Open-Source AI for Coding \u0026 Agents",
-      "paragraphs": [
-        {
-          "Lines": [
-            "MiniMax has released MiniMax M2, an",
-            "open-source Mixture of Experts (MoE)",
-            "model specifically designed for coding",
-            "and agentic workflows.",
-            "MiniMax M2 is cost-effective, priced at",
-            "approximately 8% of the cost of Claude",
-            "Sonnet, making advanced AI capabilities",
-            "more accessible.",
-            "The model aims to provide powerful",
-            "capabilities at a significantly lower",
-            "cost and with improved speed compared to",
-            "existing flagship models.",
-            "The model is reported to be",
-            "approximately twice as fast as",
-            "comparable models, enhancing efficiency",
-            "for users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T23:21:17.000Z",
-      "ranking": 2.8948971517562185,
-      "articleUrl": "https://www.marktechpost.com/2025/10/28/minimax-open-sources-minimax-m2-a-mini-model-built-for-max-coding-and-agentic-workflows-at-8-claude-sonnet-price-and-2x-faster/"
     },
     {
       "id": "119",
@@ -978,8 +982,41 @@
         }
       ],
       "publishedAt": "2025-10-29T05:00:00.000Z",
-      "ranking": 2.891048556450677,
+      "ranking": 2.154506794546341,
       "articleUrl": "https://venturebeat.com/ai/from-static-classifiers-to-reasoning-engines-openais-new-model-rethinks"
+    },
+    {
+      "id": "102",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "MiniMax M2 AI",
+      "mediumTitle": "MiniMax M2: Coding \u0026 Agent AI",
+      "longTitle": "MiniMax M2: Open-Source AI for Coding \u0026 Agents",
+      "paragraphs": [
+        {
+          "Lines": [
+            "MiniMax has released MiniMax M2, an",
+            "open-source Mixture of Experts (MoE)",
+            "model specifically designed for coding",
+            "and agentic workflows.",
+            "MiniMax M2 is cost-effective, priced at",
+            "approximately 8% of the cost of Claude",
+            "Sonnet, making advanced AI capabilities",
+            "more accessible.",
+            "The model aims to provide powerful",
+            "capabilities at a significantly lower",
+            "cost and with improved speed compared to",
+            "existing flagship models.",
+            "The model is reported to be",
+            "approximately twice as fast as",
+            "comparable models, enhancing efficiency",
+            "for users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T23:21:17.000Z",
+      "ranking": 2.0799127408768,
+      "articleUrl": "https://www.marktechpost.com/2025/10/28/minimax-open-sources-minimax-m2-a-mini-model-built-for-max-coding-and-agentic-workflows-at-8-claude-sonnet-price-and-2x-faster/"
     },
     {
       "id": "105",
@@ -1011,7 +1048,7 @@
         }
       ],
       "publishedAt": "2025-10-29T08:00:00.000Z",
-      "ranking": 2.4402176363478905,
+      "ranking": 1.7453616589497694,
       "articleUrl": "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots"
     },
     {
@@ -1048,7 +1085,7 @@
         }
       ],
       "publishedAt": "2025-10-29T01:00:00.000Z",
-      "ranking": 2.2538318837154483,
+      "ranking": 1.4617090541570281,
       "articleUrl": "https://venturebeat.com/ai/nvidia-researchers-unlock-4-bit-llm-training-that-matches-8-bit-performance"
     },
     {
@@ -1085,7 +1122,7 @@
         }
       ],
       "publishedAt": "2025-10-29T00:23:00.000Z",
-      "ranking": 2.016226482493777,
+      "ranking": 1.2155349063413103,
       "articleUrl": "https://venturebeat.com/ai/ibms-open-source-granite-4-0-nano-ai-models-are-small-enough-to-run-locally"
     },
     {
@@ -1122,7 +1159,7 @@
         }
       ],
       "publishedAt": "2025-10-28T19:42:04.000Z",
-      "ranking": 1.4988718516319421,
+      "ranking": 0.6331195555731943,
       "articleUrl": "https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban"
     },
     {
@@ -1158,7 +1195,7 @@
         }
       ],
       "publishedAt": "2025-10-28T21:30:00.000Z",
-      "ranking": 0.8843482176170516,
+      "ranking": 0.04359195951135053,
       "articleUrl": "https://venturebeat.com/ai/microsofts-copilot-can-now-build-apps-and-automate-your-job-heres-how-it"
     },
     {
@@ -1194,7 +1231,7 @@
         }
       ],
       "publishedAt": "2025-10-28T17:10:00.000Z",
-      "ranking": 0.7354390214069433,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/githubs-agent-hq-aims-to-solve-enterprises-biggest-ai-coding-problem-too"
     },
     {
@@ -1231,40 +1268,8 @@
         }
       ],
       "publishedAt": "2025-10-28T13:30:00.000Z",
-      "ranking": 0.12948754144744967,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in"
-    },
-    {
-      "id": "98",
-      "topic": "Dev Tools",
-      "source": "The Verge AI",
-      "shortTitle": "GitHub AI Agents",
-      "mediumTitle": "GitHub Agent HQ: AI Coding Agents",
-      "longTitle": "GitHub Launches Agent HQ for Third-Party AI Coding Assistants",
-      "paragraphs": [
-        {
-          "Lines": [
-            "GitHub is launching a new initiative",
-            "called \u0022Agent HQ\u0022 to provide developers",
-            "with access to a variety of third-party",
-            "AI coding agents directly within the",
-            "GitHub platform.",
-            "In the coming months, developers will be",
-            "able to utilize agents from prominent AI",
-            "research and development companies,",
-            "including OpenAI\u0027s Codex, Anthropic\u0027s",
-            "Claude, Google\u0027s Jules, xAI, and",
-            "Cognition\u0027s Devin.",
-            "This move signifies a departure from",
-            "relying solely on GitHub Copilot,",
-            "opening up the ecosystem to a broader",
-            "range of AI tools."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T13:10:00.000Z",
-      "ranking": 0.09398704632971988,
-      "articleUrl": "https://www.theverge.com/news/808032/github-ai-agent-hq-coding-openai-anthropic"
     },
     {
       "id": "97",
@@ -1300,6 +1305,38 @@
       "publishedAt": "2025-10-28T13:13:25.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/808079/chatgpt-paypal-openai-acp-purchases"
+    },
+    {
+      "id": "98",
+      "topic": "Dev Tools",
+      "source": "The Verge AI",
+      "shortTitle": "GitHub AI Agents",
+      "mediumTitle": "GitHub Agent HQ: AI Coding Agents",
+      "longTitle": "GitHub Launches Agent HQ for Third-Party AI Coding Assistants",
+      "paragraphs": [
+        {
+          "Lines": [
+            "GitHub is launching a new initiative",
+            "called \u0022Agent HQ\u0022 to provide developers",
+            "with access to a variety of third-party",
+            "AI coding agents directly within the",
+            "GitHub platform.",
+            "In the coming months, developers will be",
+            "able to utilize agents from prominent AI",
+            "research and development companies,",
+            "including OpenAI\u0027s Codex, Anthropic\u0027s",
+            "Claude, Google\u0027s Jules, xAI, and",
+            "Cognition\u0027s Devin.",
+            "This move signifies a departure from",
+            "relying solely on GitHub Copilot,",
+            "opening up the ecosystem to a broader",
+            "range of AI tools."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T13:10:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/808032/github-ai-agent-hq-coding-openai-anthropic"
     },
     {
       "id": "89",
@@ -1407,6 +1444,42 @@
       "publishedAt": "2025-10-28T09:35:08.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/10/28/zhipu-ai-releases-glyph-an-ai-framework-for-scaling-the-context-length-through-visual-text-compression/"
+    },
+    {
+      "id": "92",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Adobe Express AI Beta",
+      "mediumTitle": "Adobe Express Launches AI Assistant Beta",
+      "longTitle": "Adobe Express Introduces Public Beta for New Generative AI Assistant",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Adobe Express has launched a public beta",
+            "for its new AI Assistant, a generative",
+            "AI feature designed to help users modify",
+            "and enhance designs using text prompts.",
+            "This AI assistant acts as a",
+            "conversational creative agent, allowing",
+            "users of all skill levels to make design",
+            "changes through simple, descriptive text",
+            "commands.",
+            "The core functionality enables users to",
+            "understand natural language commands and",
+            "translate them into design edits,",
+            "bypassing manual tool selection.",
+            "The emphasis is on ease of use and the",
+            "ability to achieve desired visual",
+            "outcomes through natural language",
+            "interaction, thereby lowering the",
+            "barrier to entry for creative design",
+            "tasks within Adobe Express."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T09:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/807802/adobe-express-ai-assistant-prompt-editing-beta-max-2025"
     },
     {
       "id": "93",
@@ -1518,42 +1591,6 @@
       "articleUrl": "https://www.theverge.com/news/807457/adobe-ai-agent-project-moonlight"
     },
     {
-      "id": "92",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Adobe Express AI Beta",
-      "mediumTitle": "Adobe Express Launches AI Assistant Beta",
-      "longTitle": "Adobe Express Introduces Public Beta for New Generative AI Assistant",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Adobe Express has launched a public beta",
-            "for its new AI Assistant, a generative",
-            "AI feature designed to help users modify",
-            "and enhance designs using text prompts.",
-            "This AI assistant acts as a",
-            "conversational creative agent, allowing",
-            "users of all skill levels to make design",
-            "changes through simple, descriptive text",
-            "commands.",
-            "The core functionality enables users to",
-            "understand natural language commands and",
-            "translate them into design edits,",
-            "bypassing manual tool selection.",
-            "The emphasis is on ease of use and the",
-            "ability to achieve desired visual",
-            "outcomes through natural language",
-            "interaction, thereby lowering the",
-            "barrier to entry for creative design",
-            "tasks within Adobe Express."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/807802/adobe-express-ai-assistant-prompt-editing-beta-max-2025"
-    },
-    {
       "id": "95",
       "topic": "Business",
       "source": "The Verge AI",
@@ -1647,43 +1684,6 @@
             "primarily featuring a search bar.",
             "As of the article\u0027s writing, no images",
             "have been observed on Grokipedia."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T21:46:59.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
-    },
-    {
-      "id": "84",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Grokipedia Launched",
-      "mediumTitle": "Grokipedia Launched, Mimics Wikipedia",
-      "longTitle": "Elon Musk\u0027s Grokipedia Launched, Directly Copies Wikipedia Content",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Notably, the article highlights that",
-            "Grokipedia\u0027s content appears to be",
-            "directly copied from Wikipedia pages.",
-            "Elon Musk\u0027s new AI-powered encyclopedia,",
-            "Grokipedia, has launched and exhibits",
-            "striking similarities to Wikipedia, not",
-            "only in its basic design but also in its",
-            "content.",
-            "The homepage features a prominent search",
-            "bar, and individual entries are",
-            "structured with headings, subheadings,",
-            "and citations, mirroring the familiar",
-            "layout of Wikipedia.",
-            "While the current iteration of",
-            "Grokipedia is described as basic,",
-            "lacking visual elements like",
-            "photographs, its core functionality and",
-            "informational structure are heavily",
-            "influenced by its established",
-            "predecessor."
           ]
         }
       ],
