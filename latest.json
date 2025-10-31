@@ -141,43 +141,6 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/809326/pinterest-ai-shopping-assistant-ceo-ready"
     },
     {
-      "id": "131",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Reasoning Debugger",
-      "mediumTitle": "CRV: Debugging AI Reasoning Errors",
-      "longTitle": "CRV: A Novel Technique for Inspecting and Correcting LLM Reasoning",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Researchers at Meta FAIR and the",
-            "University of Edinburgh have developed a",
-            "novel technique called Circuit-based",
-            "Reasoning Verification (CRV) that allows",
-            "for the inspection and correction of",
-            "reasoning errors within large language",
-            "models (LLMs).",
-            "The success of CRV in detecting and",
-            "localizing reasoning errors indicates",
-            "that such debuggers could become a",
-            "reality, leading to more robust LLMs and",
-            "autonomous agents capable of handling",
-            "real-world unpredictability and",
-            "self-correcting reasoning mistakes.",
-            "Crucially, CRV\u0027s error signatures are",
-            "not merely correlational but causal.",
-            "The implications of CRV are substantial,",
-            "suggesting the potential for a new class",
-            "of AI model debuggers that can identify",
-            "the root cause of failures."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-30T01:00:00.000Z",
-      "ranking": 7.7384615384615385,
-      "articleUrl": "https://venturebeat.com/ai/meta-researchers-open-the-llm-black-box-to-repair-flawed-ai-reasoning"
-    },
-    {
       "id": "125",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -246,41 +209,6 @@
       "articleUrl": "https://www.theverge.com/policy/809914/trump-white-house-ballroom-3d-model-ai"
     },
     {
-      "id": "126",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Canva\u0027s AI Shift",
-      "mediumTitle": "Canva Embraces AI for Creative Operating System",
-      "longTitle": "Canva Launches Creative Operating System Driven by AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Canva is shifting towards an",
-            "\u0022imagination era\u0022 powered by AI, aiming",
-            "to translate creativity into action with",
-            "its new Creative Operating System (COS).",
-            "The COS integrates AI across design,",
-            "collaboration, and a foundational",
-            "proprietary model to offer a",
-            "comprehensive content creation platform.",
-            "Canva\u0027s AI layer enables users to",
-            "generate, edit, and launch various",
-            "content types from a single dashboard,",
-            "understanding design complexity for",
-            "brand consistency.",
-            "Features like \u0022Ask Canva\u0022 provide",
-            "AI-powered design advice and editing,",
-            "fostering a human-AI partnership,",
-            "alongside new video and form/email",
-            "tools."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-30T04:00:00.000Z",
-      "ranking": 7.275,
-      "articleUrl": "https://venturebeat.com/ai/why-it-leaders-should-pay-attention-to-canvas-imagination-era-strategy"
-    },
-    {
       "id": "127",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -312,6 +240,43 @@
       "publishedAt": "2025-10-30T14:59:26.000Z",
       "ranking": 7.0062500000000005,
       "articleUrl": "https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch"
+    },
+    {
+      "id": "131",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Reasoning Debugger",
+      "mediumTitle": "CRV: Debugging AI Reasoning Errors",
+      "longTitle": "CRV: A Novel Technique for Inspecting and Correcting LLM Reasoning",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Researchers at Meta FAIR and the",
+            "University of Edinburgh have developed a",
+            "novel technique called Circuit-based",
+            "Reasoning Verification (CRV) that allows",
+            "for the inspection and correction of",
+            "reasoning errors within large language",
+            "models (LLMs).",
+            "The success of CRV in detecting and",
+            "localizing reasoning errors indicates",
+            "that such debuggers could become a",
+            "reality, leading to more robust LLMs and",
+            "autonomous agents capable of handling",
+            "real-world unpredictability and",
+            "self-correcting reasoning mistakes.",
+            "Crucially, CRV\u0027s error signatures are",
+            "not merely correlational but causal.",
+            "The implications of CRV are substantial,",
+            "suggesting the potential for a new class",
+            "of AI model debuggers that can identify",
+            "the root cause of failures."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-30T01:00:00.000Z",
+      "ranking": 6.472421783581278,
+      "articleUrl": "https://venturebeat.com/ai/meta-researchers-open-the-llm-black-box-to-repair-flawed-ai-reasoning"
     },
     {
       "id": "118",
@@ -346,8 +311,43 @@
         }
       ],
       "publishedAt": "2025-10-29T20:28:00.000Z",
-      "ranking": 6.81237167654001,
+      "ranking": 6.402378260839873,
       "articleUrl": "https://venturebeat.com/ai/vibe-coding-platform-cursor-releases-first-in-house-llm-composer-promising"
+    },
+    {
+      "id": "126",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Canva\u0027s AI Shift",
+      "mediumTitle": "Canva Embraces AI for Creative Operating System",
+      "longTitle": "Canva Launches Creative Operating System Driven by AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Canva is shifting towards an",
+            "\u0022imagination era\u0022 powered by AI, aiming",
+            "to translate creativity into action with",
+            "its new Creative Operating System (COS).",
+            "The COS integrates AI across design,",
+            "collaboration, and a foundational",
+            "proprietary model to offer a",
+            "comprehensive content creation platform.",
+            "Canva\u0027s AI layer enables users to",
+            "generate, edit, and launch various",
+            "content types from a single dashboard,",
+            "understanding design complexity for",
+            "brand consistency.",
+            "Features like \u0022Ask Canva\u0022 provide",
+            "AI-powered design advice and editing,",
+            "fostering a human-AI partnership,",
+            "alongside new video and form/email",
+            "tools."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-30T04:00:00.000Z",
+      "ranking": 6.2746313159131635,
+      "articleUrl": "https://venturebeat.com/ai/why-it-leaders-should-pay-attention-to-canvas-imagination-era-strategy"
     },
     {
       "id": "115",
@@ -382,7 +382,7 @@
         }
       ],
       "publishedAt": "2025-10-29T18:00:00.000Z",
-      "ranking": 6.698126901093305,
+      "ranking": 6.253896897981504,
       "articleUrl": "https://venturebeat.com/ai/anthropic-scientists-hacked-claudes-brain-and-it-noticed-heres-why-thats"
     },
     {
@@ -416,7 +416,7 @@
         }
       ],
       "publishedAt": "2025-10-29T09:30:00.000Z",
-      "ranking": 6.2007038475801455,
+      "ranking": 5.638496439395906,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808514/grokipedia-wikipedia-comparison"
     },
     {
@@ -449,7 +449,7 @@
         }
       ],
       "publishedAt": "2025-10-29T10:45:01.000Z",
-      "ranking": 5.878620030851065,
+      "ranking": 5.333766095027258,
       "articleUrl": "https://www.theverge.com/news/808749/tiktok-smart-split-ai-outline-revenue-sharing-subscriptions"
     },
     {
@@ -486,7 +486,7 @@
         }
       ],
       "publishedAt": "2025-10-29T11:57:09.000Z",
-      "ranking": 5.693173337290712,
+      "ranking": 5.165005876333751,
       "articleUrl": "https://www.theverge.com/news/809017/nvidia-5-trillion-market-cap-ai"
     },
     {
@@ -521,7 +521,7 @@
         }
       ],
       "publishedAt": "2025-10-29T07:32:35.000Z",
-      "ranking": 5.293765320813887,
+      "ranking": 4.704396124711353,
       "articleUrl": "https://www.marktechpost.com/2025/10/28/liquid-ai-releases-lfm2-colbert-350m-a-new-small-model-that-brings-late-interaction-retrieval-to-multilingual-and-cross-lingual-rag/"
     },
     {
@@ -558,8 +558,77 @@
         }
       ],
       "publishedAt": "2025-10-29T09:05:45.000Z",
-      "ranking": 5.2588810718473065,
+      "ranking": 4.691063958679573,
       "articleUrl": "https://www.theverge.com/report/808647/bill-gates-climate-change-ai-emissions-memo"
+    },
+    {
+      "id": "121",
+      "topic": "Learning",
+      "source": "Marktechpost AI",
+      "shortTitle": "Agent Lightning",
+      "mediumTitle": "Microsoft\u0027s Agent Lightning AI Framework",
+      "longTitle": "Microsoft Introduces Agent Lightning: Open-Source AI Framework for LLM Training",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft has introduced Agent",
+            "Lightning, a novel open-source AI",
+            "framework designed to facilitate the",
+            "training of Large Language Models (LLMs)",
+            "for any AI agent using Reinforcement",
+            "Learning (RL).",
+            "The primary objective of Agent Lightning",
+            "is to enable the conversion of real",
+            "agent traces into RL transitions,",
+            "thereby enhancing the policy LLMs",
+            "without necessitating modifications to",
+            "the existing agent stack.",
+            "This framework is particularly",
+            "beneficial for optimizing multi-agent",
+            "systems.",
+            "A key feature of Agent Lightning is its",
+            "ability to decouple the training process",
+            "from the execution of the AI agent."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T22:39:21.000Z",
+      "ranking": 4.646285101818836,
+      "articleUrl": "https://www.marktechpost.com/2025/10/29/microsoft-releases-agent-lightning-a-new-ai-framework-that-enables-reinforcement-learning-rl-based-training-of-llms-for-any-ai-agent/"
+    },
+    {
+      "id": "120",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Meta AI Content",
+      "mediumTitle": "Meta to Boost AI Content in Feeds",
+      "longTitle": "Meta CEO Mark Zuckerberg Announces Plans for More AI-Generated Content",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta CEO Mark Zuckerberg announced plans",
+            "to significantly increase AI-generated",
+            "content in social media feeds, aiming to",
+            "enrich and personalize the user",
+            "experience.",
+            "During a recent earnings call,",
+            "Zuckerberg stated the company intends to",
+            "\u0022add yet another huge corpus of content\u0022",
+            "to its recommendation systems.",
+            "This expansion is driven by the",
+            "increasing ease with which artificial",
+            "intelligence can be used to create and",
+            "remix content that is subsequently",
+            "shared online.",
+            "Meta\u0027s strategy revolves around",
+            "leveraging AI to enhance the volume and",
+            "variety of content presented to users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T18:41:31.000Z",
+      "ranking": 4.535900501959331,
+      "articleUrl": "https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings"
     },
     {
       "id": "108",
@@ -592,7 +661,7 @@
         }
       ],
       "publishedAt": "2025-10-29T10:19:21.000Z",
-      "ranking": 5.0799563191770805,
+      "ranking": 4.529164932960386,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808434/openai-for-profit-restructuring-microsoft-deal-agi-wars"
     },
     {
@@ -629,7 +698,7 @@
         }
       ],
       "publishedAt": "2025-10-29T10:00:00.000Z",
-      "ranking": 5.036566777411568,
+      "ranking": 4.481299186051019,
       "articleUrl": "https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates"
     },
     {
@@ -666,77 +735,8 @@
         }
       ],
       "publishedAt": "2025-10-29T09:25:29.000Z",
-      "ranking": 5.033810754259429,
+      "ranking": 4.4705584805463365,
       "articleUrl": "https://www.theverge.com/news/808750/openai-sora-cameo-celebrity-deepfake-trademark-lawsuit"
-    },
-    {
-      "id": "121",
-      "topic": "Learning",
-      "source": "Marktechpost AI",
-      "shortTitle": "Agent Lightning",
-      "mediumTitle": "Microsoft\u0027s Agent Lightning AI Framework",
-      "longTitle": "Microsoft Introduces Agent Lightning: Open-Source AI Framework for LLM Training",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft has introduced Agent",
-            "Lightning, a novel open-source AI",
-            "framework designed to facilitate the",
-            "training of Large Language Models (LLMs)",
-            "for any AI agent using Reinforcement",
-            "Learning (RL).",
-            "The primary objective of Agent Lightning",
-            "is to enable the conversion of real",
-            "agent traces into RL transitions,",
-            "thereby enhancing the policy LLMs",
-            "without necessitating modifications to",
-            "the existing agent stack.",
-            "This framework is particularly",
-            "beneficial for optimizing multi-agent",
-            "systems.",
-            "A key feature of Agent Lightning is its",
-            "ability to decouple the training process",
-            "from the execution of the AI agent."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T22:39:21.000Z",
-      "ranking": 5.025893548278559,
-      "articleUrl": "https://www.marktechpost.com/2025/10/29/microsoft-releases-agent-lightning-a-new-ai-framework-that-enables-reinforcement-learning-rl-based-training-of-llms-for-any-ai-agent/"
-    },
-    {
-      "id": "120",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Meta AI Content",
-      "mediumTitle": "Meta to Boost AI Content in Feeds",
-      "longTitle": "Meta CEO Mark Zuckerberg Announces Plans for More AI-Generated Content",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta CEO Mark Zuckerberg announced plans",
-            "to significantly increase AI-generated",
-            "content in social media feeds, aiming to",
-            "enrich and personalize the user",
-            "experience.",
-            "During a recent earnings call,",
-            "Zuckerberg stated the company intends to",
-            "\u0022add yet another huge corpus of content\u0022",
-            "to its recommendation systems.",
-            "This expansion is driven by the",
-            "increasing ease with which artificial",
-            "intelligence can be used to create and",
-            "remix content that is subsequently",
-            "shared online.",
-            "Meta\u0027s strategy revolves around",
-            "leveraging AI to enhance the volume and",
-            "variety of content presented to users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T18:41:31.000Z",
-      "ranking": 4.970526521915917,
-      "articleUrl": "https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings"
     },
     {
       "id": "110",
@@ -769,7 +769,7 @@
         }
       ],
       "publishedAt": "2025-10-29T10:00:00.000Z",
-      "ranking": 4.6587889748456135,
+      "ranking": 4.103521392695791,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
     },
     {
@@ -802,7 +802,7 @@
         }
       ],
       "publishedAt": "2025-10-28T23:21:17.000Z",
-      "ranking": 4.357202814907873,
+      "ranking": 3.6541820233077473,
       "articleUrl": "https://www.marktechpost.com/2025/10/28/minimax-open-sources-minimax-m2-a-mini-model-built-for-max-coding-and-agentic-workflows-at-8-claude-sonnet-price-and-2x-faster/"
     },
     {
@@ -837,8 +837,43 @@
         }
       ],
       "publishedAt": "2025-10-29T10:01:00.000Z",
-      "ranking": 4.2086070136769145,
+      "ranking": 3.6535707563210087,
       "articleUrl": "https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch"
+    },
+    {
+      "id": "106",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini for Home",
+      "mediumTitle": "Google Assistant Replaced by Gemini",
+      "longTitle": "Google Rolls Out Early Access for Gemini for Home in US",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google is rolling out early access to",
+            "Gemini for Home in the US, a significant",
+            "update that will eventually replace the",
+            "current Google Assistant on Nest",
+            "devices.",
+            "The article hints at the AI\u0027s ability to",
+            "run \u0027on-device,\u0027 which could lead to",
+            "faster response times and improved",
+            "privacy by reducing the need to send",
+            "data to the cloud for processing.",
+            "Gemini for Home is designed to leverage",
+            "the capabilities of Google\u0027s Gemini AI",
+            "model, which is known for its multimodal",
+            "understanding and advanced reasoning.",
+            "The transition from Google Assistant to",
+            "Gemini for Home is a strategic move by",
+            "Google to stay competitive in the",
+            "rapidly evolving smart home market."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T11:08:48.000Z",
+      "ranking": 3.640700716142684,
+      "articleUrl": "https://www.theverge.com/news/808858/google-gemini-for-home-early-access-launch"
     },
     {
       "id": "116",
@@ -873,7 +908,7 @@
         }
       ],
       "publishedAt": "2025-10-29T05:00:00.000Z",
-      "ranking": 4.206521566054133,
+      "ranking": 3.581855494302976,
       "articleUrl": "https://venturebeat.com/ai/agentic-ai-is-all-about-the-context-engineering-that-is"
     },
     {
@@ -909,43 +944,41 @@
         }
       ],
       "publishedAt": "2025-10-29T05:00:00.000Z",
-      "ranking": 4.196566808850154,
+      "ranking": 3.571900735482759,
       "articleUrl": "https://venturebeat.com/ai/from-static-classifiers-to-reasoning-engines-openais-new-model-rethinks"
     },
     {
-      "id": "106",
+      "id": "105",
       "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Gemini for Home",
-      "mediumTitle": "Google Assistant Replaced by Gemini",
-      "longTitle": "Google Rolls Out Early Access for Gemini for Home in US",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Search Shift",
+      "mediumTitle": "AI Chatbots Reshape Online Discovery",
+      "longTitle": "Generative AI Disrupts Search, Creating New Optimization Field",
       "paragraphs": [
         {
           "Lines": [
-            "Google is rolling out early access to",
-            "Gemini for Home in the US, a significant",
-            "update that will eventually replace the",
-            "current Google Assistant on Nest",
-            "devices.",
-            "The article hints at the AI\u0027s ability to",
-            "run \u0027on-device,\u0027 which could lead to",
-            "faster response times and improved",
-            "privacy by reducing the need to send",
-            "data to the cloud for processing.",
-            "Gemini for Home is designed to leverage",
-            "the capabilities of Google\u0027s Gemini AI",
-            "model, which is known for its multimodal",
-            "understanding and advanced reasoning.",
-            "The transition from Google Assistant to",
-            "Gemini for Home is a strategic move by",
-            "Google to stay competitive in the",
-            "rapidly evolving smart home market."
+            "The rise of AI chatbots and generative",
+            "AI is predicted to cause a 25% decline",
+            "in traditional search engine volume by",
+            "2026, ushering in a new era of online",
+            "discovery.",
+            "The era of solely optimizing for Google",
+            "is over, replaced by a complex ecosystem",
+            "where understanding how AI synthesizes",
+            "information is paramount for business",
+            "discoverability.",
+            "This disruption has led to the emergence",
+            "of Generative Engine Optimization (GEO),",
+            "a field focused on how AI models",
+            "understand and synthesize information,",
+            "differing from traditional SEO\u0027s keyword",
+            "and backlink focus."
           ]
         }
       ],
-      "publishedAt": "2025-10-29T11:08:48.000Z",
-      "ranking": 4.1800529115967695,
-      "articleUrl": "https://www.theverge.com/news/808858/google-gemini-for-home-early-access-launch"
+      "publishedAt": "2025-10-29T08:00:00.000Z",
+      "ranking": 3.0793893168111466,
+      "articleUrl": "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots"
     },
     {
       "id": "122",
@@ -981,41 +1014,8 @@
         }
       ],
       "publishedAt": "2025-10-29T01:00:00.000Z",
-      "ranking": 3.6704429250863195,
+      "ranking": 2.9902580686997053,
       "articleUrl": "https://venturebeat.com/ai/nvidia-researchers-unlock-4-bit-llm-training-that-matches-8-bit-performance"
-    },
-    {
-      "id": "105",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Search Shift",
-      "mediumTitle": "AI Chatbots Reshape Online Discovery",
-      "longTitle": "Generative AI Disrupts Search, Creating New Optimization Field",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The rise of AI chatbots and generative",
-            "AI is predicted to cause a 25% decline",
-            "in traditional search engine volume by",
-            "2026, ushering in a new era of online",
-            "discovery.",
-            "The era of solely optimizing for Google",
-            "is over, replaced by a complex ecosystem",
-            "where understanding how AI synthesizes",
-            "information is paramount for business",
-            "discoverability.",
-            "This disruption has led to the emergence",
-            "of Generative Engine Optimization (GEO),",
-            "a field focused on how AI models",
-            "understand and synthesize information,",
-            "differing from traditional SEO\u0027s keyword",
-            "and backlink focus."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T08:00:00.000Z",
-      "ranking": 3.66241629472399,
-      "articleUrl": "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots"
     },
     {
       "id": "103",
@@ -1051,7 +1051,7 @@
         }
       ],
       "publishedAt": "2025-10-29T00:23:00.000Z",
-      "ranking": 3.449964320074221,
+      "ranking": 2.7612203259126256,
       "articleUrl": "https://venturebeat.com/ai/ibms-open-source-granite-4-0-nano-ai-models-are-small-enough-to-run-locally"
     },
     {
@@ -1088,7 +1088,7 @@
         }
       ],
       "publishedAt": "2025-10-28T19:42:04.000Z",
-      "ranking": 3.062649960814566,
+      "ranking": 2.3089181446627505,
       "articleUrl": "https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban"
     },
     {
@@ -1124,7 +1124,7 @@
         }
       ],
       "publishedAt": "2025-10-28T21:30:00.000Z",
-      "ranking": 2.398165436496705,
+      "ranking": 1.669401647961699,
       "articleUrl": "https://venturebeat.com/ai/microsofts-copilot-can-now-build-apps-and-automate-your-job-heres-how-it"
     },
     {
@@ -1160,7 +1160,7 @@
         }
       ],
       "publishedAt": "2025-10-28T17:10:00.000Z",
-      "ranking": 2.369606753062798,
+      "ranking": 1.5806976164064395,
       "articleUrl": "https://venturebeat.com/ai/githubs-agent-hq-aims-to-solve-enterprises-biggest-ai-coding-problem-too"
     },
     {
@@ -1197,7 +1197,7 @@
         }
       ],
       "publishedAt": "2025-10-28T13:30:00.000Z",
-      "ranking": 1.8654903222251429,
+      "ranking": 1.0256889678311705,
       "articleUrl": "https://venturebeat.com/ai/intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in"
     },
     {
@@ -1229,7 +1229,7 @@
         }
       ],
       "publishedAt": "2025-10-28T13:10:00.000Z",
-      "ranking": 1.839247560376453,
+      "ranking": 0.9948196391529329,
       "articleUrl": "https://www.theverge.com/news/808032/github-ai-agent-hq-coding-openai-anthropic"
     },
     {
@@ -1265,42 +1265,8 @@
         }
       ],
       "publishedAt": "2025-10-28T10:38:55.000Z",
-      "ranking": 1.5804499356427177,
+      "ranking": 0.7010721676549139,
       "articleUrl": "https://www.theverge.com/news/807875/openai-microsoft-for-profit-agi"
-    },
-    {
-      "id": "87",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Glyph AI",
-      "mediumTitle": "Zhipu AI\u0027s Glyph for LLMs",
-      "longTitle": "Zhipu AI\u0027s Glyph: Visual-Text Compression for LLMs",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Zhipu AI has introduced \u0022Glyph,\u0022 an",
-            "innovative AI framework designed to",
-            "significantly enhance the context length",
-            "capabilities of large language models",
-            "(LLMs) by employing a novel visual-text",
-            "compression technique.",
-            "The research team at Zhipu AI has",
-            "demonstrated that this visual-text",
-            "compression method can scale a 128K",
-            "context window towards the challenging",
-            "1M-token workload without compromising",
-            "the model\u0027s ability to understand and",
-            "generate accurate responses.",
-            "The core idea behind Glyph is to",
-            "represent lengthy textual sequences as",
-            "images, which can then be processed by",
-            "Vision-Language Models (VLMs)."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T09:35:08.000Z",
-      "ranking": 1.3353370886895917,
-      "articleUrl": "https://www.marktechpost.com/2025/10/28/zhipu-ai-releases-glyph-an-ai-framework-for-scaling-the-context-length-through-visual-text-compression/"
     },
     {
       "id": "97",
@@ -1334,8 +1300,42 @@
         }
       ],
       "publishedAt": "2025-10-28T13:13:25.000Z",
-      "ranking": 1.3342093880355081,
+      "ranking": 0.4905718419179319,
       "articleUrl": "https://www.theverge.com/news/808079/chatgpt-paypal-openai-acp-purchases"
+    },
+    {
+      "id": "87",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "Glyph AI",
+      "mediumTitle": "Zhipu AI\u0027s Glyph for LLMs",
+      "longTitle": "Zhipu AI\u0027s Glyph: Visual-Text Compression for LLMs",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Zhipu AI has introduced \u0022Glyph,\u0022 an",
+            "innovative AI framework designed to",
+            "significantly enhance the context length",
+            "capabilities of large language models",
+            "(LLMs) by employing a novel visual-text",
+            "compression technique.",
+            "The research team at Zhipu AI has",
+            "demonstrated that this visual-text",
+            "compression method can scale a 128K",
+            "context window towards the challenging",
+            "1M-token workload without compromising",
+            "the model\u0027s ability to understand and",
+            "generate accurate responses.",
+            "The core idea behind Glyph is to",
+            "represent lengthy textual sequences as",
+            "images, which can then be processed by",
+            "Vision-Language Models (VLMs)."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T09:35:08.000Z",
+      "ranking": 0.44120442236105895,
+      "articleUrl": "https://www.marktechpost.com/2025/10/28/zhipu-ai-releases-glyph-an-ai-framework-for-scaling-the-context-length-through-visual-text-compression/"
     },
     {
       "id": "90",
@@ -1371,7 +1371,7 @@
         }
       ],
       "publishedAt": "2025-10-28T10:16:17.000Z",
-      "ranking": 1.268168927541522,
+      "ranking": 0.38355541479261923,
       "articleUrl": "https://www.theverge.com/news/807867/adobe-max-2025-all-the-latest-announcements"
     },
     {
@@ -1407,7 +1407,7 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 1.1678276689705305,
+      "ranking": 0.2655676674238583,
       "articleUrl": "https://www.theverge.com/news/807811/adobe-photoshop-lightroom-premiere-pro-ai-max-2025"
     },
     {
@@ -1438,8 +1438,44 @@
         }
       ],
       "publishedAt": "2025-10-28T08:40:45.000Z",
-      "ranking": 0.9124587832718634,
+      "ranking": 0.00574571279961944,
       "articleUrl": "https://www.theverge.com/news/807825/amazon-job-layoffs-2025-ai"
+    },
+    {
+      "id": "91",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Adobe AI Social",
+      "mediumTitle": "Adobe\u0027s Project Moonlight AI",
+      "longTitle": "Adobe\u0027s Project Moonlight: AI Social Media Administrator",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Adobe\u0027s Project Moonlight is an",
+            "AI-powered social media administrator",
+            "designed to act as a centralized",
+            "creative director for social media",
+            "campaigns.",
+            "In essence, Project Moonlight aims to",
+            "streamline the social media content",
+            "creation process by providing an",
+            "AI-driven partner that can ideate,",
+            "refine, and potentially even produce",
+            "content.",
+            "This initiative is part of Adobe\u0027s",
+            "broader strategy to integrate AI",
+            "assistants across its suite of creative",
+            "applications, leveraging its Firefly",
+            "platform.",
+            "Project Moonlight functions as a chatbot",
+            "that seamlessly integrates with Adobe\u0027s",
+            "creative software."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-28T09:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/807457/adobe-ai-agent-project-moonlight"
     },
     {
       "id": "93",
@@ -1475,44 +1511,8 @@
         }
       ],
       "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 0.7578276494935219,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/807809/adobe-firefly-ai-audio-generate-soundtrack-speech"
-    },
-    {
-      "id": "91",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Adobe AI Social",
-      "mediumTitle": "Adobe\u0027s Project Moonlight AI",
-      "longTitle": "Adobe\u0027s Project Moonlight: AI Social Media Administrator",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Adobe\u0027s Project Moonlight is an",
-            "AI-powered social media administrator",
-            "designed to act as a centralized",
-            "creative director for social media",
-            "campaigns.",
-            "In essence, Project Moonlight aims to",
-            "streamline the social media content",
-            "creation process by providing an",
-            "AI-driven partner that can ideate,",
-            "refine, and potentially even produce",
-            "content.",
-            "This initiative is part of Adobe\u0027s",
-            "broader strategy to integrate AI",
-            "assistants across its suite of creative",
-            "applications, leveraging its Firefly",
-            "platform.",
-            "Project Moonlight functions as a chatbot",
-            "that seamlessly integrates with Adobe\u0027s",
-            "creative software."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 0.46167379462515346,
-      "articleUrl": "https://www.theverge.com/news/807457/adobe-ai-agent-project-moonlight"
     },
     {
       "id": "92",
@@ -1588,39 +1588,6 @@
       "articleUrl": "https://venturebeat.com/ai/paypals-agentic-commerce-play-shows-why-flexibility-not-standards-will"
     },
     {
-      "id": "99",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Grokipedia Launched",
-      "mediumTitle": "Elon Musk\u0027s xAI launches Grokipedia",
-      "longTitle": "Elon Musk\u0027s xAI launches Grokipedia, a Wikipedia-like encyclopedia",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Elon Musk\u0027s xAI has launched Grokipedia,",
-            "an online encyclopedia designed to be",
-            "similar to Wikipedia.",
-            "The core functionality and presentation",
-            "of Grokipedia are directly analogous to",
-            "Wikipedia\u0027s established layout and",
-            "content organization.",
-            "The entries themselves are also",
-            "presented in a rudimentary format,",
-            "mirroring Wikipedia\u0027s structure with",
-            "headings, subheadings, and citations.",
-            "The platform\u0027s current design is",
-            "described as basic, with its homepage",
-            "primarily featuring a search bar.",
-            "As of the article\u0027s writing, no images",
-            "have been observed on Grokipedia."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T21:46:59.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
-    },
-    {
       "id": "84",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -1650,6 +1617,39 @@
             "informational structure are heavily",
             "influenced by its established",
             "predecessor."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-27T21:46:59.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied"
+    },
+    {
+      "id": "99",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Grokipedia Launched",
+      "mediumTitle": "Elon Musk\u0027s xAI launches Grokipedia",
+      "longTitle": "Elon Musk\u0027s xAI launches Grokipedia, a Wikipedia-like encyclopedia",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Elon Musk\u0027s xAI has launched Grokipedia,",
+            "an online encyclopedia designed to be",
+            "similar to Wikipedia.",
+            "The core functionality and presentation",
+            "of Grokipedia are directly analogous to",
+            "Wikipedia\u0027s established layout and",
+            "content organization.",
+            "The entries themselves are also",
+            "presented in a rudimentary format,",
+            "mirroring Wikipedia\u0027s structure with",
+            "headings, subheadings, and citations.",
+            "The platform\u0027s current design is",
+            "described as basic, with its homepage",
+            "primarily featuring a search bar.",
+            "As of the article\u0027s writing, no images",
+            "have been observed on Grokipedia."
           ]
         }
       ],
@@ -1689,43 +1689,6 @@
       "publishedAt": "2025-10-27T20:01:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/minimax-m2-is-the-new-king-of-open-source-llms-especially-for-agentic-tool"
-    },
-    {
-      "id": "85",
-      "topic": "Hardware",
-      "source": "The Verge AI",
-      "shortTitle": "DOE Supercomputers",
-      "mediumTitle": "DOE Invests $1B in Supercomputers",
-      "longTitle": "AMD, Oracle, HPE Partner with DOE for $1B Supercomputers",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AMD, in collaboration with Oracle and",
-            "Hewlett Packard Enterprise (HPE), has",
-            "secured a significant $1 billion",
-            "partnership with the US Department of",
-            "Energy (DOE) to develop two advanced",
-            "supercomputers.",
-            "The overall initiative underscores a",
-            "substantial investment in",
-            "high-performance computing and",
-            "artificial intelligence (AI)",
-            "capabilities for the DOE.",
-            "The sheer scale of the investment ($1",
-            "billion) highlights the critical role",
-            "supercomputing plays in national",
-            "research priorities, particularly in the",
-            "rapidly evolving field of AI.",
-            "This partnership is expected to drive",
-            "advancements in AI research and",
-            "development, leveraging AMD\u0027s",
-            "cutting-edge technology."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-27T19:16:48.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership"
     }
   ]
 }
