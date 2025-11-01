@@ -1,41 +1,76 @@
 {
   "articles": [
     {
-      "id": "135",
-      "topic": "Policy",
+      "id": "142",
+      "topic": "Large Models",
       "source": "Marktechpost AI",
-      "shortTitle": "AI Safety Models",
-      "mediumTitle": "OpenAI Releases Open-Weight AI Safety Models",
-      "longTitle": "OpenAI Introduces Open-Weight AI Safety Models for Enhanced Application Security",
+      "shortTitle": "Claude Introspection",
+      "mediumTitle": "Anthropic\u0027s Claude: Introspection?",
+      "longTitle": "Anthropic\u0027s Claude Models Show Nascent Introspective Awareness",
       "paragraphs": [
         {
           "Lines": [
-            "The core innovation of gpt-oss-safeguard",
-            "lies in its \u0022policy-conditioned safety\u0022",
-            "capability.",
-            "This means the models are trained to",
-            "understand and apply specific safety",
-            "guidelines provided to them at runtime.",
-            "OpenAI has introduced a research preview",
-            "of \u0022gpt-oss-safeguard,\u0022 a new suite of",
-            "two open-weight reasoning models",
-            "designed to enhance safety in AI",
-            "applications.",
-            "This allows for a more dynamic and",
-            "adaptable approach to AI safety, where",
-            "policies can be adjusted or updated",
-            "without needing to retrain the entire",
-            "underlying AI model.",
-            "Their primary function is to allow",
-            "developers to implement custom safety",
-            "policies during the inference stage of",
-            "AI model deployment."
+            "Anthropic\u0027s latest research, detailed in",
+            "the paper \u0027Emergent Introspective",
+            "Awareness in Large Language Models,\u0027",
+            "investigates whether their Claude models",
+            "exhibit genuine introspection or merely",
+            "regurgitate information from their",
+            "training data when discussing their own",
+            "capabilities.",
+            "The findings indicate that Claude can",
+            "indeed detect these injected concepts,",
+            "but this detection is limited to",
+            "specific, controlled layers within the",
+            "model\u0027s architecture.",
+            "The core of the research involves",
+            "injecting specific concepts into the",
+            "model\u0027s processing layers and then",
+            "testing Claude\u0027s ability to detect these",
+            "injected concepts."
           ]
         }
       ],
-      "publishedAt": "2025-10-31T09:08:18.000Z",
-      "ranking": 7.875,
-      "articleUrl": "https://www.marktechpost.com/2025/10/31/openai-releases-research-preview-of-gpt-oss-safeguard-two-open-weight-reasoning-models-for-safety-classification-tasks/"
+      "publishedAt": "2025-11-01T10:10:11.000Z",
+      "ranking": 8.336363636363636,
+      "articleUrl": "https://www.marktechpost.com/2025/11/01/anthropics-new-research-shows-claude-can-detect-injected-concepts-but-only-in-controlled-layers/"
+    },
+    {
+      "id": "143",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "Spark ML Pipeline",
+      "mediumTitle": "End-to-End Spark ML Pipeline Tutorial",
+      "longTitle": "Build End-to-End Data Engineering and ML Pipeline with Spark",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This tutorial, titled \u0027How to Build an",
+            "End-to-End Data Engineering and Machine",
+            "Learning Pipeline with Apache Spark and",
+            "PySpark,\u0027 guides readers through",
+            "constructing a comprehensive data",
+            "pipeline using Apache Spark and its",
+            "Python API, PySpark, within the Google",
+            "Colab environment.",
+            "The ultimate goal is to showcase how to",
+            "create a complete, end-to-end pipeline",
+            "that encompasses both the data",
+            "engineering and machine learning phases,",
+            "demonstrating the capabilities of Spark",
+            "and PySpark in a practical, integrated",
+            "manner.",
+            "Specifically, the tutorial focuses on",
+            "creating a model designed to predict",
+            "user subscription types.",
+            "It outlines the process of building and",
+            "evaluating a machine learning model."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-01T08:11:01.000Z",
+      "ranking": 7.853846153846151,
+      "articleUrl": "https://www.marktechpost.com/2025/11/01/how-to-build-an-end-to-end-data-engineering-and-machine-learning-pipeline-with-apache-spark-and-pyspark/"
     },
     {
       "id": "140",
@@ -104,72 +139,41 @@
       "articleUrl": "https://www.marktechpost.com/2025/10/31/google-ai-unveils-supervised-reinforcement-learning-srl-a-step-wise-framework-with-expert-trajectories-to-teach-small-language-models-to-reason-through-hard-problems/"
     },
     {
-      "id": "137",
-      "topic": "Dev Tools",
-      "source": "The Verge AI",
-      "shortTitle": "AI Patent Search",
-      "mediumTitle": "Perplexity\u0027s AI for Patent Research",
-      "longTitle": "Perplexity Introduces AI Tool to Simplify Patent Research",
+      "id": "135",
+      "topic": "Policy",
+      "source": "Marktechpost AI",
+      "shortTitle": "AI Safety Models",
+      "mediumTitle": "OpenAI Releases Open-Weight AI Safety Models",
+      "longTitle": "OpenAI Introduces Open-Weight AI Safety Models for Enhanced Application Security",
       "paragraphs": [
         {
           "Lines": [
-            "Perplexity has introduced a new",
-            "AI-powered tool designed to streamline",
-            "the often complex and time-consuming",
-            "process of patent research.",
-            "Perplexity\u0027s new patent research agent",
-            "aims to overcome these hurdles by",
-            "enabling users to conduct searches using",
-            "natural language queries.",
-            "This innovative approach allows",
-            "individuals to ask questions about",
-            "patents in a conversational manner,",
-            "similar to how they might interact with",
-            "a human expert.",
-            "The tool\u0027s core functionality lies in",
-            "its ability to understand the nuances of",
-            "human language, including context and",
-            "intent, which is a significant departure",
-            "from traditional keyword-based systems."
+            "The core innovation of gpt-oss-safeguard",
+            "lies in its \u0022policy-conditioned safety\u0022",
+            "capability.",
+            "This means the models are trained to",
+            "understand and apply specific safety",
+            "guidelines provided to them at runtime.",
+            "OpenAI has introduced a research preview",
+            "of \u0022gpt-oss-safeguard,\u0022 a new suite of",
+            "two open-weight reasoning models",
+            "designed to enhance safety in AI",
+            "applications.",
+            "This allows for a more dynamic and",
+            "adaptable approach to AI safety, where",
+            "policies can be adjusted or updated",
+            "without needing to retrain the entire",
+            "underlying AI model.",
+            "Their primary function is to allow",
+            "developers to implement custom safety",
+            "policies during the inference stage of",
+            "AI model deployment."
           ]
         }
       ],
-      "publishedAt": "2025-10-31T10:23:18.000Z",
-      "ranking": 7.576923076923077,
-      "articleUrl": "https://www.theverge.com/news/811340/perplexity-ai-patent-research-tool"
-    },
-    {
-      "id": "139",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Sora Credits",
-      "mediumTitle": "Sora Introduces Paid Credits",
-      "longTitle": "OpenAI\u0027s Sora Now Offers Paid Credits for Video Generation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has introduced a new feature for",
-            "its AI video generation platform, Sora,",
-            "allowing users to purchase additional",
-            "credits to create more videos.",
-            "The core message is the introduction of",
-            "a purchasable credit system to expand",
-            "video generation capabilities, coupled",
-            "with the foreshadowing of a decrease in",
-            "free allowances.",
-            "This indicates a strategic evolution for",
-            "Sora as OpenAI seeks to balance user",
-            "access, resource management, and",
-            "financial sustainability.",
-            "This move comes as OpenAI anticipates a",
-            "future reduction in free video",
-            "generation allowances for users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-31T08:16:01.000Z",
-      "ranking": 6.994117647058823,
-      "articleUrl": "https://www.theverge.com/news/811241/sora-pay-for-extra-video-gens"
+      "publishedAt": "2025-10-31T09:08:18.000Z",
+      "ranking": 6.621505200429425,
+      "articleUrl": "https://www.marktechpost.com/2025/10/31/openai-releases-research-preview-of-gpt-oss-safeguard-two-open-weight-reasoning-models-for-safety-classification-tasks/"
     },
     {
       "id": "136",
@@ -201,8 +205,43 @@
         }
       ],
       "publishedAt": "2025-10-31T05:00:00.000Z",
-      "ranking": 6.950664665106167,
+      "ranking": 6.547334507243641,
       "articleUrl": "https://venturebeat.com/ai/inside-celosphere-2025-why-theres-no-enterprise-ai-without-process"
+    },
+    {
+      "id": "137",
+      "topic": "Dev Tools",
+      "source": "The Verge AI",
+      "shortTitle": "AI Patent Search",
+      "mediumTitle": "Perplexity\u0027s AI for Patent Research",
+      "longTitle": "Perplexity Introduces AI Tool to Simplify Patent Research",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Perplexity has introduced a new",
+            "AI-powered tool designed to streamline",
+            "the often complex and time-consuming",
+            "process of patent research.",
+            "Perplexity\u0027s new patent research agent",
+            "aims to overcome these hurdles by",
+            "enabling users to conduct searches using",
+            "natural language queries.",
+            "This innovative approach allows",
+            "individuals to ask questions about",
+            "patents in a conversational manner,",
+            "similar to how they might interact with",
+            "a human expert.",
+            "The tool\u0027s core functionality lies in",
+            "its ability to understand the nuances of",
+            "human language, including context and",
+            "intent, which is a significant departure",
+            "from traditional keyword-based systems."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-31T10:23:18.000Z",
+      "ranking": 6.4373401522375975,
+      "articleUrl": "https://www.theverge.com/news/811340/perplexity-ai-patent-research-tool"
     },
     {
       "id": "134",
@@ -235,8 +274,41 @@
         }
       ],
       "publishedAt": "2025-10-31T05:27:43.000Z",
-      "ranking": 6.27694126123262,
+      "ranking": 5.8800343807497075,
       "articleUrl": "https://www.marktechpost.com/2025/10/30/how-to-design-an-autonomous-multi-agent-data-and-infrastructure-strategy-system-using-lightweight-qwen-models-for-efficient-pipeline-intelligence/"
+    },
+    {
+      "id": "139",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Sora Credits",
+      "mediumTitle": "Sora Introduces Paid Credits",
+      "longTitle": "OpenAI\u0027s Sora Now Offers Paid Credits for Video Generation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has introduced a new feature for",
+            "its AI video generation platform, Sora,",
+            "allowing users to purchase additional",
+            "credits to create more videos.",
+            "The core message is the introduction of",
+            "a purchasable credit system to expand",
+            "video generation capabilities, coupled",
+            "with the foreshadowing of a decrease in",
+            "free allowances.",
+            "This indicates a strategic evolution for",
+            "Sora as OpenAI seeks to balance user",
+            "access, resource management, and",
+            "financial sustainability.",
+            "This move comes as OpenAI anticipates a",
+            "future reduction in free video",
+            "generation allowances for users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-31T08:16:01.000Z",
+      "ranking": 5.658004279673932,
+      "articleUrl": "https://www.theverge.com/news/811241/sora-pay-for-extra-video-gens"
     },
     {
       "id": "132",
@@ -269,7 +341,7 @@
         }
       ],
       "publishedAt": "2025-10-30T21:39:40.000Z",
-      "ranking": 5.989868973872159,
+      "ranking": 5.48449225618976,
       "articleUrl": "https://www.marktechpost.com/2025/10/30/ant-group-releases-ling-2-0-a-reasoning-first-moe-language-model-series-built-on-the-principle-that-each-activation-enhances-reasoning-capability/"
     },
     {
@@ -306,7 +378,7 @@
         }
       ],
       "publishedAt": "2025-10-30T12:53:23.000Z",
-      "ranking": 5.0835566838923585,
+      "ranking": 4.456214653445677,
       "articleUrl": "https://www.theverge.com/report/810083/ai-browser-cybersecurity-problems"
     },
     {
@@ -342,7 +414,7 @@
         }
       ],
       "publishedAt": "2025-10-30T13:00:00.000Z",
-      "ranking": 4.580996794127119,
+      "ranking": 3.9551881662853385,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/809326/pinterest-ai-shopping-assistant-ceo-ready"
     },
     {
@@ -375,7 +447,7 @@
         }
       ],
       "publishedAt": "2025-10-30T10:02:23.000Z",
-      "ranking": 4.306001299117131,
+      "ranking": 3.6390302279118405,
       "articleUrl": "https://www.theverge.com/news/809882/universal-music-udio-settlement"
     },
     {
@@ -408,7 +480,7 @@
         }
       ],
       "publishedAt": "2025-10-30T14:59:26.000Z",
-      "ranking": 4.08592930844967,
+      "ranking": 3.4877990942150046,
       "articleUrl": "https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch"
     },
     {
@@ -441,7 +513,7 @@
         }
       ],
       "publishedAt": "2025-10-30T12:37:41.000Z",
-      "ranking": 4.024459826187515,
+      "ranking": 3.3934792759989474,
       "articleUrl": "https://www.theverge.com/policy/809914/trump-white-house-ballroom-3d-model-ai"
     },
     {
@@ -476,7 +548,7 @@
         }
       ],
       "publishedAt": "2025-10-30T09:20:45.000Z",
-      "ranking": 3.849675501690418,
+      "ranking": 3.1730559703077246,
       "articleUrl": "https://www.theverge.com/news/809877/openai-sora-app-character-cameo-updates"
     },
     {
@@ -510,7 +582,7 @@
         }
       ],
       "publishedAt": "2025-10-30T05:10:58.000Z",
-      "ranking": 3.507640205447447,
+      "ranking": 2.773133790090461,
       "articleUrl": "https://www.marktechpost.com/2025/10/29/ibm-ai-team-releases-granite-4-0-nano-series-compact-and-open-source-small-models-built-for-ai-at-the-edge/"
     },
     {
@@ -545,7 +617,7 @@
         }
       ],
       "publishedAt": "2025-10-30T04:00:00.000Z",
-      "ranking": 2.579828651813348,
+      "ranking": 1.8288758280152555,
       "articleUrl": "https://venturebeat.com/ai/why-it-leaders-should-pay-attention-to-canvas-imagination-era-strategy"
     },
     {
@@ -582,7 +654,7 @@
         }
       ],
       "publishedAt": "2025-10-30T01:00:00.000Z",
-      "ranking": 2.4859565779994286,
+      "ranking": 1.6932890465517048,
       "articleUrl": "https://venturebeat.com/ai/meta-researchers-open-the-llm-black-box-to-repair-flawed-ai-reasoning"
     },
     {
@@ -618,7 +690,7 @@
         }
       ],
       "publishedAt": "2025-10-29T20:28:00.000Z",
-      "ranking": 1.9751785705652978,
+      "ranking": 1.1194754818065924,
       "articleUrl": "https://venturebeat.com/ai/vibe-coding-platform-cursor-releases-first-in-house-llm-composer-promising"
     },
     {
@@ -654,7 +726,7 @@
         }
       ],
       "publishedAt": "2025-10-29T18:00:00.000Z",
-      "ranking": 1.5868858008892879,
+      "ranking": 0.6968839530732049,
       "articleUrl": "https://venturebeat.com/ai/anthropic-scientists-hacked-claudes-brain-and-it-noticed-heres-why-thats"
     },
     {
@@ -689,42 +761,8 @@
         }
       ],
       "publishedAt": "2025-10-29T22:39:21.000Z",
-      "ranking": 0.43191805227813074,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/10/29/microsoft-releases-agent-lightning-a-new-ai-framework-that-enables-reinforcement-learning-rl-based-training-of-llms-for-any-ai-agent/"
-    },
-    {
-      "id": "112",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Grokipedia Biased",
-      "mediumTitle": "Grokipedia Launched with Bias Claims",
-      "longTitle": "Grokipedia Launched by xAI, Faces Bias Accusations",
-      "paragraphs": [
-        {
-          "Lines": [
-            "However, early observations and reports",
-            "suggest that Grokipedia exhibits",
-            "significant biases, including racism and",
-            "transphobia, and a strong, uncritical",
-            "admiration for Elon Musk himself.",
-            "Grokipedia, a new online encyclopedia",
-            "launched by Elon Musk\u0027s startup xAI, is",
-            "being promoted as a less \u0027woke\u0027 and less",
-            "biased alternative to Wikipedia, with",
-            "the stated goal of presenting \u0027the",
-            "truth, the whole truth and nothing but",
-            "the truth\u0027.",
-            "Specifically, it has been flagged for",
-            "displaying racist sentiments and",
-            "transphobic viewpoints, contradicting",
-            "Musk\u0027s claims of neutrality and",
-            "truthfulness."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T09:30:00.000Z",
-      "ranking": 0.14510817662881514,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808514/grokipedia-wikipedia-comparison"
     },
     {
       "id": "120",
@@ -1004,6 +1042,40 @@
       "publishedAt": "2025-10-29T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
+    },
+    {
+      "id": "112",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Grokipedia Biased",
+      "mediumTitle": "Grokipedia Launched with Bias Claims",
+      "longTitle": "Grokipedia Launched by xAI, Faces Bias Accusations",
+      "paragraphs": [
+        {
+          "Lines": [
+            "However, early observations and reports",
+            "suggest that Grokipedia exhibits",
+            "significant biases, including racism and",
+            "transphobia, and a strong, uncritical",
+            "admiration for Elon Musk himself.",
+            "Grokipedia, a new online encyclopedia",
+            "launched by Elon Musk\u0027s startup xAI, is",
+            "being promoted as a less \u0027woke\u0027 and less",
+            "biased alternative to Wikipedia, with",
+            "the stated goal of presenting \u0027the",
+            "truth, the whole truth and nothing but",
+            "the truth\u0027.",
+            "Specifically, it has been flagged for",
+            "displaying racist sentiments and",
+            "transphobic viewpoints, contradicting",
+            "Musk\u0027s claims of neutrality and",
+            "truthfulness."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T09:30:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808514/grokipedia-wikipedia-comparison"
     },
     {
       "id": "113",
@@ -1611,76 +1683,6 @@
       "publishedAt": "2025-10-28T10:16:17.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/807867/adobe-max-2025-all-the-latest-announcements"
-    },
-    {
-      "id": "87",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Glyph AI",
-      "mediumTitle": "Zhipu AI\u0027s Glyph for LLMs",
-      "longTitle": "Zhipu AI\u0027s Glyph: Visual-Text Compression for LLMs",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Zhipu AI has introduced \u0022Glyph,\u0022 an",
-            "innovative AI framework designed to",
-            "significantly enhance the context length",
-            "capabilities of large language models",
-            "(LLMs) by employing a novel visual-text",
-            "compression technique.",
-            "The research team at Zhipu AI has",
-            "demonstrated that this visual-text",
-            "compression method can scale a 128K",
-            "context window towards the challenging",
-            "1M-token workload without compromising",
-            "the model\u0027s ability to understand and",
-            "generate accurate responses.",
-            "The core idea behind Glyph is to",
-            "represent lengthy textual sequences as",
-            "images, which can then be processed by",
-            "Vision-Language Models (VLMs)."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T09:35:08.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/10/28/zhipu-ai-releases-glyph-an-ai-framework-for-scaling-the-context-length-through-visual-text-compression/"
-    },
-    {
-      "id": "94",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Adobe AI Update",
-      "mediumTitle": "Adobe Creative Cloud AI Enhancements",
-      "longTitle": "Adobe Unveils Generative AI Advancements for Creative Cloud",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Adobe has unveiled significant",
-            "advancements in its Creative Cloud",
-            "suite, particularly for Photoshop,",
-            "Premiere Pro, and Lightroom, at its",
-            "annual Max event.",
-            "The focus of these updates is the",
-            "integration of generative AI tools",
-            "designed to streamline and enhance",
-            "creative workflows.",
-            "The overarching theme of these",
-            "announcements is the acceleration of the",
-            "creative process through artificial",
-            "intelligence.",
-            "By automating or simplifying complex",
-            "editing tasks, Adobe aims to empower",
-            "creators to achieve more in less time.",
-            "The article highlights that these new",
-            "tools will enable instant editing of a",
-            "larger portion of users\u0027 work."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/807811/adobe-photoshop-lightroom-premiere-pro-ai-max-2025"
     }
   ]
 }
