@@ -73,40 +73,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/01/how-to-build-an-end-to-end-data-engineering-and-machine-learning-pipeline-with-apache-spark-and-pyspark/"
     },
     {
-      "id": "140",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Adobe AI Sneaks",
-      "mediumTitle": "Adobe\u0027s AI Tools for Creators",
-      "longTitle": "Adobe Showcases Experimental AI Tools at Max Conference",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Adobe showcased several experimental AI",
-            "tools at its Max conference, designed to",
-            "revolutionize photo, video, and audio",
-            "editing through intuitive interfaces.",
-            "A key highlight is an AI tool capable of",
-            "applying edits made to a single frame",
-            "across an entire video.",
-            "This means users can adjust elements",
-            "like color, lighting, or even object",
-            "placement in one frame, and the AI will",
-            "intelligently propagate those changes",
-            "throughout the whole video sequence.",
-            "These demonstrations underscore Adobe\u0027s",
-            "commitment to integrating cutting-edge",
-            "AI into its creative suite, aiming to",
-            "empower users with more efficient and",
-            "sophisticated editing capabilities."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-31T14:31:03.000Z",
-      "ranking": 7.634615384615385,
-      "articleUrl": "https://www.theverge.com/news/811602/adobe-max-2025-sneaks-projects"
-    },
-    {
       "id": "141",
       "topic": "Learning",
       "source": "Marktechpost AI",
@@ -137,6 +103,40 @@
       "publishedAt": "2025-11-01T03:58:55.000Z",
       "ranking": 7.599999999999999,
       "articleUrl": "https://www.marktechpost.com/2025/10/31/google-ai-unveils-supervised-reinforcement-learning-srl-a-step-wise-framework-with-expert-trajectories-to-teach-small-language-models-to-reason-through-hard-problems/"
+    },
+    {
+      "id": "140",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Adobe AI Sneaks",
+      "mediumTitle": "Adobe\u0027s AI Tools for Creators",
+      "longTitle": "Adobe Showcases Experimental AI Tools at Max Conference",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Adobe showcased several experimental AI",
+            "tools at its Max conference, designed to",
+            "revolutionize photo, video, and audio",
+            "editing through intuitive interfaces.",
+            "A key highlight is an AI tool capable of",
+            "applying edits made to a single frame",
+            "across an entire video.",
+            "This means users can adjust elements",
+            "like color, lighting, or even object",
+            "placement in one frame, and the AI will",
+            "intelligently propagate those changes",
+            "throughout the whole video sequence.",
+            "These demonstrations underscore Adobe\u0027s",
+            "commitment to integrating cutting-edge",
+            "AI into its creative suite, aiming to",
+            "empower users with more efficient and",
+            "sophisticated editing capabilities."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-31T14:31:03.000Z",
+      "ranking": 6.506886532848903,
+      "articleUrl": "https://www.theverge.com/news/811602/adobe-max-2025-sneaks-projects"
     },
     {
       "id": "135",
@@ -172,7 +172,7 @@
         }
       ],
       "publishedAt": "2025-10-31T09:08:18.000Z",
-      "ranking": 6.621505200429425,
+      "ranking": 6.221004065985521,
       "articleUrl": "https://www.marktechpost.com/2025/10/31/openai-releases-research-preview-of-gpt-oss-safeguard-two-open-weight-reasoning-models-for-safety-classification-tasks/"
     },
     {
@@ -205,7 +205,7 @@
         }
       ],
       "publishedAt": "2025-10-31T05:00:00.000Z",
-      "ranking": 6.547334507243641,
+      "ranking": 6.089420233378243,
       "articleUrl": "https://venturebeat.com/ai/inside-celosphere-2025-why-theres-no-enterprise-ai-without-process"
     },
     {
@@ -240,7 +240,7 @@
         }
       ],
       "publishedAt": "2025-10-31T10:23:18.000Z",
-      "ranking": 6.4373401522375975,
+      "ranking": 6.054180888302504,
       "articleUrl": "https://www.theverge.com/news/811340/perplexity-ai-patent-research-tool"
     },
     {
@@ -274,7 +274,7 @@
         }
       ],
       "publishedAt": "2025-10-31T05:27:43.000Z",
-      "ranking": 5.8800343807497075,
+      "ranking": 5.428528898877875,
       "articleUrl": "https://www.marktechpost.com/2025/10/30/how-to-design-an-autonomous-multi-agent-data-and-infrastructure-strategy-system-using-lightweight-qwen-models-for-efficient-pipeline-intelligence/"
     },
     {
@@ -307,7 +307,7 @@
         }
       ],
       "publishedAt": "2025-10-31T08:16:01.000Z",
-      "ranking": 5.658004279673932,
+      "ranking": 5.24541394308101,
       "articleUrl": "https://www.theverge.com/news/811241/sora-pay-for-extra-video-gens"
     },
     {
@@ -341,7 +341,7 @@
         }
       ],
       "publishedAt": "2025-10-30T21:39:40.000Z",
-      "ranking": 5.48449225618976,
+      "ranking": 4.924761969026758,
       "articleUrl": "https://www.marktechpost.com/2025/10/30/ant-group-releases-ling-2-0-a-reasoning-first-moe-language-model-series-built-on-the-principle-that-each-activation-enhances-reasoning-capability/"
     },
     {
@@ -378,7 +378,7 @@
         }
       ],
       "publishedAt": "2025-10-30T12:53:23.000Z",
-      "ranking": 4.456214653445677,
+      "ranking": 3.7747945673865395,
       "articleUrl": "https://www.theverge.com/report/810083/ai-browser-cybersecurity-problems"
     },
     {
@@ -414,7 +414,7 @@
         }
       ],
       "publishedAt": "2025-10-30T13:00:00.000Z",
-      "ranking": 3.9551881662853385,
+      "ranking": 3.2752980174532382,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/809326/pinterest-ai-shopping-assistant-ceo-ready"
     },
     {
@@ -447,7 +447,7 @@
         }
       ],
       "publishedAt": "2025-10-30T10:02:23.000Z",
-      "ranking": 3.6390302279118405,
+      "ranking": 2.9180706406451673,
       "articleUrl": "https://www.theverge.com/news/809882/universal-music-udio-settlement"
     },
     {
@@ -480,7 +480,7 @@
         }
       ],
       "publishedAt": "2025-10-30T14:59:26.000Z",
-      "ranking": 3.4877990942150046,
+      "ranking": 2.8355248541531743,
       "articleUrl": "https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch"
     },
     {
@@ -513,7 +513,7 @@
         }
       ],
       "publishedAt": "2025-10-30T12:37:41.000Z",
-      "ranking": 3.3934792759989474,
+      "ranking": 2.7084289113890723,
       "articleUrl": "https://www.theverge.com/policy/809914/trump-white-house-ballroom-3d-model-ai"
     },
     {
@@ -548,7 +548,7 @@
         }
       ],
       "publishedAt": "2025-10-30T09:20:45.000Z",
-      "ranking": 3.1730559703077246,
+      "ranking": 2.4424697211862645,
       "articleUrl": "https://www.theverge.com/news/809877/openai-sora-app-character-cameo-updates"
     },
     {
@@ -582,7 +582,7 @@
         }
       ],
       "publishedAt": "2025-10-30T05:10:58.000Z",
-      "ranking": 2.773133790090461,
+      "ranking": 1.9847914207672472,
       "articleUrl": "https://www.marktechpost.com/2025/10/29/ibm-ai-team-releases-granite-4-0-nano-series-compact-and-open-source-small-models-built-for-ai-at-the-edge/"
     },
     {
@@ -617,7 +617,7 @@
         }
       ],
       "publishedAt": "2025-10-30T04:00:00.000Z",
-      "ranking": 1.8288758280152555,
+      "ranking": 1.02412419831985,
       "articleUrl": "https://venturebeat.com/ai/why-it-leaders-should-pay-attention-to-canvas-imagination-era-strategy"
     },
     {
@@ -654,7 +654,7 @@
         }
       ],
       "publishedAt": "2025-10-30T01:00:00.000Z",
-      "ranking": 1.6932890465517048,
+      "ranking": 0.8469169379676247,
       "articleUrl": "https://venturebeat.com/ai/meta-researchers-open-the-llm-black-box-to-repair-flawed-ai-reasoning"
     },
     {
@@ -690,44 +690,8 @@
         }
       ],
       "publishedAt": "2025-10-29T20:28:00.000Z",
-      "ranking": 1.1194754818065924,
+      "ranking": 0.21021020608121788,
       "articleUrl": "https://venturebeat.com/ai/vibe-coding-platform-cursor-releases-first-in-house-llm-composer-promising"
-    },
-    {
-      "id": "115",
-      "topic": "Neural Nets",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Introspection",
-      "mediumTitle": "AI Can Observe Its Own Processes",
-      "longTitle": "Anthropic AI Demonstrates Limited Introspection, Raising Transparency Hopes",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Anthropic scientists have conducted",
-            "groundbreaking research demonstrating",
-            "that their AI model, Claude, possesses a",
-            "limited but genuine ability to observe",
-            "and report on its own internal",
-            "processes.",
-            "The core takeaway is that while AI",
-            "models can sometimes accurately report",
-            "on their internal states, this",
-            "capability is not yet consistent enough",
-            "to be fully trusted.",
-            "Claude\u0027s introspective capabilities are",
-            "highly unreliable and context-dependent,",
-            "succeeding only about 20% of the time.",
-            "The critical challenge is to refine and",
-            "validate these abilities before AI",
-            "systems become too powerful to",
-            "understand, ensuring safety and",
-            "preventing potential misuse."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T18:00:00.000Z",
-      "ranking": 0.6968839530732049,
-      "articleUrl": "https://venturebeat.com/ai/anthropic-scientists-hacked-claudes-brain-and-it-noticed-heres-why-thats"
     },
     {
       "id": "121",
@@ -797,6 +761,42 @@
       "publishedAt": "2025-10-29T18:41:31.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings"
+    },
+    {
+      "id": "115",
+      "topic": "Neural Nets",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Introspection",
+      "mediumTitle": "AI Can Observe Its Own Processes",
+      "longTitle": "Anthropic AI Demonstrates Limited Introspection, Raising Transparency Hopes",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Anthropic scientists have conducted",
+            "groundbreaking research demonstrating",
+            "that their AI model, Claude, possesses a",
+            "limited but genuine ability to observe",
+            "and report on its own internal",
+            "processes.",
+            "The core takeaway is that while AI",
+            "models can sometimes accurately report",
+            "on their internal states, this",
+            "capability is not yet consistent enough",
+            "to be fully trusted.",
+            "Claude\u0027s introspective capabilities are",
+            "highly unreliable and context-dependent,",
+            "succeeding only about 20% of the time.",
+            "The critical challenge is to refine and",
+            "validate these abilities before AI",
+            "systems become too powerful to",
+            "understand, ensuring safety and",
+            "preventing potential misuse."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T18:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/anthropic-scientists-hacked-claudes-brain-and-it-noticed-heres-why-thats"
     },
     {
       "id": "117",
