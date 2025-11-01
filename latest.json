@@ -1,39 +1,6 @@
 {
   "articles": [
     {
-      "id": "136",
-      "topic": "Business",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Needs Process Intel",
-      "mediumTitle": "Celosphere 2025: AI\u0027s Process Intelligence Imperative",
-      "longTitle": "Celosphere 2025: Why Enterprise AI Requires Process Intelligence",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Ultimately, \u0027There is no AI without PI\u0027.",
-            "Celosphere 2025 highlights that",
-            "enterprise AI\u0027s effectiveness hinges on",
-            "process intelligence (PI) to understand",
-            "business operations and context,",
-            "enabling measurable ROI.",
-            "Rinke concludes that process",
-            "intelligence creates a virtuous cycle",
-            "where better understanding leads to",
-            "better optimization, which enables",
-            "better AI, driving further",
-            "understanding.",
-            "Process intelligence provides the",
-            "necessary \u0027rails\u0027 for these agents,",
-            "ensuring they can understand specific",
-            "business processes."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-31T05:00:00.000Z",
-      "ranking": 8.216666666666667,
-      "articleUrl": "https://venturebeat.com/ai/inside-celosphere-2025-why-theres-no-enterprise-ai-without-process"
-    },
-    {
       "id": "135",
       "topic": "Policy",
       "source": "Marktechpost AI",
@@ -172,40 +139,6 @@
       "articleUrl": "https://www.theverge.com/news/811340/perplexity-ai-patent-research-tool"
     },
     {
-      "id": "134",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Agentic Data Strategy",
-      "mediumTitle": "Qwen Models for Pipeline Intelligence",
-      "longTitle": "Designing Autonomous Multi-Agent Data and Infrastructure Strategy System",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This article details how to design an",
-            "autonomous multi-agent system for data",
-            "and infrastructure strategy using",
-            "lightweight Qwen models for efficient",
-            "pipeline intelligence.",
-            "The core of this system is built using",
-            "the lightweight Qwen2.5-0.5B-Instruct",
-            "model, chosen for its efficiency in",
-            "execution.",
-            "The tutorial begins by establishing a",
-            "flexible Large Language Model (LLM)",
-            "agent framework as the foundation for",
-            "specialized agents.",
-            "These specialized agents are designed to",
-            "address distinct aspects of data",
-            "management and infrastructure",
-            "optimization."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-31T05:27:43.000Z",
-      "ranking": 7.5,
-      "articleUrl": "https://www.marktechpost.com/2025/10/30/how-to-design-an-autonomous-multi-agent-data-and-infrastructure-strategy-system-using-lightweight-qwen-models-for-efficient-pipeline-intelligence/"
-    },
-    {
       "id": "139",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -239,6 +172,73 @@
       "articleUrl": "https://www.theverge.com/news/811241/sora-pay-for-extra-video-gens"
     },
     {
+      "id": "136",
+      "topic": "Business",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Needs Process Intel",
+      "mediumTitle": "Celosphere 2025: AI\u0027s Process Intelligence Imperative",
+      "longTitle": "Celosphere 2025: Why Enterprise AI Requires Process Intelligence",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Ultimately, \u0027There is no AI without PI\u0027.",
+            "Celosphere 2025 highlights that",
+            "enterprise AI\u0027s effectiveness hinges on",
+            "process intelligence (PI) to understand",
+            "business operations and context,",
+            "enabling measurable ROI.",
+            "Rinke concludes that process",
+            "intelligence creates a virtuous cycle",
+            "where better understanding leads to",
+            "better optimization, which enables",
+            "better AI, driving further",
+            "understanding.",
+            "Process intelligence provides the",
+            "necessary \u0027rails\u0027 for these agents,",
+            "ensuring they can understand specific",
+            "business processes."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-31T05:00:00.000Z",
+      "ranking": 6.950664665106167,
+      "articleUrl": "https://venturebeat.com/ai/inside-celosphere-2025-why-theres-no-enterprise-ai-without-process"
+    },
+    {
+      "id": "134",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Agentic Data Strategy",
+      "mediumTitle": "Qwen Models for Pipeline Intelligence",
+      "longTitle": "Designing Autonomous Multi-Agent Data and Infrastructure Strategy System",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This article details how to design an",
+            "autonomous multi-agent system for data",
+            "and infrastructure strategy using",
+            "lightweight Qwen models for efficient",
+            "pipeline intelligence.",
+            "The core of this system is built using",
+            "the lightweight Qwen2.5-0.5B-Instruct",
+            "model, chosen for its efficiency in",
+            "execution.",
+            "The tutorial begins by establishing a",
+            "flexible Large Language Model (LLM)",
+            "agent framework as the foundation for",
+            "specialized agents.",
+            "These specialized agents are designed to",
+            "address distinct aspects of data",
+            "management and infrastructure",
+            "optimization."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-31T05:27:43.000Z",
+      "ranking": 6.27694126123262,
+      "articleUrl": "https://www.marktechpost.com/2025/10/30/how-to-design-an-autonomous-multi-agent-data-and-infrastructure-strategy-system-using-lightweight-qwen-models-for-efficient-pipeline-intelligence/"
+    },
+    {
       "id": "132",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -269,7 +269,7 @@
         }
       ],
       "publishedAt": "2025-10-30T21:39:40.000Z",
-      "ranking": 6.438843497729408,
+      "ranking": 5.989868973872159,
       "articleUrl": "https://www.marktechpost.com/2025/10/30/ant-group-releases-ling-2-0-a-reasoning-first-moe-language-model-series-built-on-the-principle-that-each-activation-enhances-reasoning-capability/"
     },
     {
@@ -306,7 +306,7 @@
         }
       ],
       "publishedAt": "2025-10-30T12:53:23.000Z",
-      "ranking": 5.654288831601084,
+      "ranking": 5.0835566838923585,
       "articleUrl": "https://www.theverge.com/report/810083/ai-browser-cybersecurity-problems"
     },
     {
@@ -342,7 +342,7 @@
         }
       ],
       "publishedAt": "2025-10-30T13:00:00.000Z",
-      "ranking": 5.1501981536389145,
+      "ranking": 4.580996794127119,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/809326/pinterest-ai-shopping-assistant-ceo-ready"
     },
     {
@@ -375,7 +375,7 @@
         }
       ],
       "publishedAt": "2025-10-30T10:02:23.000Z",
-      "ranking": 4.916295005832996,
+      "ranking": 4.306001299117131,
       "articleUrl": "https://www.theverge.com/news/809882/universal-music-udio-settlement"
     },
     {
@@ -408,7 +408,7 @@
         }
       ],
       "publishedAt": "2025-10-30T14:59:26.000Z",
-      "ranking": 4.627499387007047,
+      "ranking": 4.08592930844967,
       "articleUrl": "https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch"
     },
     {
@@ -441,7 +441,7 @@
         }
       ],
       "publishedAt": "2025-10-30T12:37:41.000Z",
-      "ranking": 4.598824300018407,
+      "ranking": 4.024459826187515,
       "articleUrl": "https://www.theverge.com/policy/809914/trump-white-house-ballroom-3d-model-ai"
     },
     {
@@ -476,7 +476,7 @@
         }
       ],
       "publishedAt": "2025-10-30T09:20:45.000Z",
-      "ranking": 4.4696012448012405,
+      "ranking": 3.849675501690418,
       "articleUrl": "https://www.theverge.com/news/809877/openai-sora-app-character-cameo-updates"
     },
     {
@@ -510,7 +510,7 @@
         }
       ],
       "publishedAt": "2025-10-30T05:10:58.000Z",
-      "ranking": 4.185354261011473,
+      "ranking": 3.507640205447447,
       "articleUrl": "https://www.marktechpost.com/2025/10/29/ibm-ai-team-releases-granite-4-0-nano-series-compact-and-open-source-small-models-built-for-ai-at-the-edge/"
     },
     {
@@ -545,7 +545,7 @@
         }
       ],
       "publishedAt": "2025-10-30T04:00:00.000Z",
-      "ranking": 3.273961115155503,
+      "ranking": 2.579828651813348,
       "articleUrl": "https://venturebeat.com/ai/why-it-leaders-should-pay-attention-to-canvas-imagination-era-strategy"
     },
     {
@@ -582,7 +582,7 @@
         }
       ],
       "publishedAt": "2025-10-30T01:00:00.000Z",
-      "ranking": 3.2217327199977763,
+      "ranking": 2.4859565779994286,
       "articleUrl": "https://venturebeat.com/ai/meta-researchers-open-the-llm-black-box-to-repair-flawed-ai-reasoning"
     },
     {
@@ -618,7 +618,7 @@
         }
       ],
       "publishedAt": "2025-10-29T20:28:00.000Z",
-      "ranking": 2.77388293855883,
+      "ranking": 1.9751785705652978,
       "articleUrl": "https://venturebeat.com/ai/vibe-coding-platform-cursor-releases-first-in-house-llm-composer-promising"
     },
     {
@@ -654,7 +654,7 @@
         }
       ],
       "publishedAt": "2025-10-29T18:00:00.000Z",
-      "ranking": 2.4198305279156997,
+      "ranking": 1.5868858008892879,
       "articleUrl": "https://venturebeat.com/ai/anthropic-scientists-hacked-claudes-brain-and-it-noticed-heres-why-thats"
     },
     {
@@ -689,7 +689,7 @@
         }
       ],
       "publishedAt": "2025-10-29T22:39:21.000Z",
-      "ranking": 1.2002341014322973,
+      "ranking": 0.43191805227813074,
       "articleUrl": "https://www.marktechpost.com/2025/10/29/microsoft-releases-agent-lightning-a-new-ai-framework-that-enables-reinforcement-learning-rl-based-training-of-llms-for-any-ai-agent/"
     },
     {
@@ -723,41 +723,42 @@
         }
       ],
       "publishedAt": "2025-10-29T09:30:00.000Z",
-      "ranking": 1.0960433112501269,
+      "ranking": 0.14510817662881514,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808514/grokipedia-wikipedia-comparison"
     },
     {
-      "id": "107",
+      "id": "120",
       "topic": "Generative AI",
       "source": "The Verge AI",
-      "shortTitle": "TikTok Creator Tools",
-      "mediumTitle": "TikTok Enhances Creator Experience",
-      "longTitle": "TikTok Unveils New Features for Creators at US Summit",
+      "shortTitle": "Meta AI Content",
+      "mediumTitle": "Meta to Boost AI Content in Feeds",
+      "longTitle": "Meta CEO Mark Zuckerberg Announces Plans for More AI-Generated Content",
       "paragraphs": [
         {
           "Lines": [
-            "TikTok has unveiled three new features",
-            "aimed at enhancing the creator",
-            "experience, announced at their recent US",
-            "Creator Summit.",
-            "These updates focus on improving revenue",
-            "opportunities, assisting with video",
-            "planning, and streamlining the editing",
-            "process, particularly for converting",
-            "longer videos into shorter, more",
-            "digestible clips.",
-            "The Smart Split tool, in particular,",
-            "addresses a common challenge for",
-            "creators: the need to adapt long-form",
-            "content for short-form platforms, a",
-            "crucial aspect of maximizing reach and",
-            "engagement."
+            "Meta CEO Mark Zuckerberg announced plans",
+            "to significantly increase AI-generated",
+            "content in social media feeds, aiming to",
+            "enrich and personalize the user",
+            "experience.",
+            "During a recent earnings call,",
+            "Zuckerberg stated the company intends to",
+            "\u0022add yet another huge corpus of content\u0022",
+            "to its recommendation systems.",
+            "This expansion is driven by the",
+            "increasing ease with which artificial",
+            "intelligence can be used to create and",
+            "remix content that is subsequently",
+            "shared online.",
+            "Meta\u0027s strategy revolves around",
+            "leveraging AI to enhance the volume and",
+            "variety of content presented to users."
           ]
         }
       ],
-      "publishedAt": "2025-10-29T10:45:01.000Z",
-      "ranking": 0.8955106321791337,
-      "articleUrl": "https://www.theverge.com/news/808749/tiktok-smart-split-ai-outline-revenue-sharing-subscriptions"
+      "publishedAt": "2025-10-29T18:41:31.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings"
     },
     {
       "id": "117",
@@ -793,113 +794,8 @@
         }
       ],
       "publishedAt": "2025-10-29T11:57:09.000Z",
-      "ranking": 0.8269431490792725,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/809017/nvidia-5-trillion-market-cap-ai"
-    },
-    {
-      "id": "120",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Meta AI Content",
-      "mediumTitle": "Meta to Boost AI Content in Feeds",
-      "longTitle": "Meta CEO Mark Zuckerberg Announces Plans for More AI-Generated Content",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta CEO Mark Zuckerberg announced plans",
-            "to significantly increase AI-generated",
-            "content in social media feeds, aiming to",
-            "enrich and personalize the user",
-            "experience.",
-            "During a recent earnings call,",
-            "Zuckerberg stated the company intends to",
-            "\u0022add yet another huge corpus of content\u0022",
-            "to its recommendation systems.",
-            "This expansion is driven by the",
-            "increasing ease with which artificial",
-            "intelligence can be used to create and",
-            "remix content that is subsequently",
-            "shared online.",
-            "Meta\u0027s strategy revolves around",
-            "leveraging AI to enhance the volume and",
-            "variety of content presented to users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T18:41:31.000Z",
-      "ranking": 0.7595005049399157,
-      "articleUrl": "https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings"
-    },
-    {
-      "id": "114",
-      "topic": "Environment",
-      "source": "The Verge AI",
-      "shortTitle": "Gates: Climate Optimism",
-      "mediumTitle": "Bill Gates Advocates Optimistic Climate Discourse",
-      "longTitle": "Bill Gates\u0027 Memo: Shifting Climate Change Discourse to Optimism",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Bill Gates, in a memo published Tuesday,",
-            "advocates for a more optimistic and",
-            "solutions-oriented approach to climate",
-            "change discourse.",
-            "In essence, Bill Gates is advocating for",
-            "a strategic communication shift on",
-            "climate change, emphasizing progress and",
-            "innovation.",
-            "He contends that significant progress",
-            "has already been made in addressing the",
-            "climate crisis, largely driven by",
-            "technological advancements.",
-            "Gates believes that this progress",
-            "warrants a re-evaluation of our",
-            "priorities, suggesting a greater focus",
-            "on improving human well-being.",
-            "His message is one of measured optimism,",
-            "grounded in the belief that human",
-            "ingenuity can overcome daunting",
-            "problems."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T09:05:45.000Z",
-      "ranking": 0.11492772265476159,
-      "articleUrl": "https://www.theverge.com/report/808647/bill-gates-climate-change-ai-emissions-memo"
-    },
-    {
-      "id": "108",
-      "topic": "Large Models",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI AGI Race",
-      "mediumTitle": "OpenAI\u0027s AGI Pursuit Under Pressure",
-      "longTitle": "OpenAI Faces Intensified Pressure to Achieve AGI Amidst New Structure",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI is under significant pressure to",
-            "achieve Artificial General Intelligence",
-            "(AGI), an AI system matching or",
-            "exceeding human cognitive abilities.",
-            "This pressure has intensified with the",
-            "company\u0027s adoption of a new for-profit",
-            "structure and a strengthened partnership",
-            "with Microsoft.",
-            "Microsoft\u0027s involvement suggests a",
-            "potential for increased",
-            "commercialization pressure or a shift in",
-            "focus that could complicate OpenAI\u0027s",
-            "original mission.",
-            "The partnership with Microsoft amplifies",
-            "these pressures by providing resources",
-            "and strategic alignment, but also",
-            "potentially dictating priorities."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T10:19:21.000Z",
-      "ranking": 0.055258652857525625,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808434/openai-for-profit-restructuring-microsoft-deal-agi-wars"
     },
     {
       "id": "106",
@@ -935,6 +831,73 @@
       "publishedAt": "2025-10-29T11:08:48.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/808858/google-gemini-for-home-early-access-launch"
+    },
+    {
+      "id": "107",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "TikTok Creator Tools",
+      "mediumTitle": "TikTok Enhances Creator Experience",
+      "longTitle": "TikTok Unveils New Features for Creators at US Summit",
+      "paragraphs": [
+        {
+          "Lines": [
+            "TikTok has unveiled three new features",
+            "aimed at enhancing the creator",
+            "experience, announced at their recent US",
+            "Creator Summit.",
+            "These updates focus on improving revenue",
+            "opportunities, assisting with video",
+            "planning, and streamlining the editing",
+            "process, particularly for converting",
+            "longer videos into shorter, more",
+            "digestible clips.",
+            "The Smart Split tool, in particular,",
+            "addresses a common challenge for",
+            "creators: the need to adapt long-form",
+            "content for short-form platforms, a",
+            "crucial aspect of maximizing reach and",
+            "engagement."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T10:45:01.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/808749/tiktok-smart-split-ai-outline-revenue-sharing-subscriptions"
+    },
+    {
+      "id": "108",
+      "topic": "Large Models",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI AGI Race",
+      "mediumTitle": "OpenAI\u0027s AGI Pursuit Under Pressure",
+      "longTitle": "OpenAI Faces Intensified Pressure to Achieve AGI Amidst New Structure",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI is under significant pressure to",
+            "achieve Artificial General Intelligence",
+            "(AGI), an AI system matching or",
+            "exceeding human cognitive abilities.",
+            "This pressure has intensified with the",
+            "company\u0027s adoption of a new for-profit",
+            "structure and a strengthened partnership",
+            "with Microsoft.",
+            "Microsoft\u0027s involvement suggests a",
+            "potential for increased",
+            "commercialization pressure or a shift in",
+            "focus that could complicate OpenAI\u0027s",
+            "original mission.",
+            "The partnership with Microsoft amplifies",
+            "these pressures by providing resources",
+            "and strategic alignment, but also",
+            "potentially dictating priorities."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T10:19:21.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808434/openai-for-profit-restructuring-microsoft-deal-agi-wars"
     },
     {
       "id": "109",
@@ -1078,6 +1041,43 @@
       "publishedAt": "2025-10-29T09:25:29.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/808750/openai-sora-cameo-celebrity-deepfake-trademark-lawsuit"
+    },
+    {
+      "id": "114",
+      "topic": "Environment",
+      "source": "The Verge AI",
+      "shortTitle": "Gates: Climate Optimism",
+      "mediumTitle": "Bill Gates Advocates Optimistic Climate Discourse",
+      "longTitle": "Bill Gates\u0027 Memo: Shifting Climate Change Discourse to Optimism",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Bill Gates, in a memo published Tuesday,",
+            "advocates for a more optimistic and",
+            "solutions-oriented approach to climate",
+            "change discourse.",
+            "In essence, Bill Gates is advocating for",
+            "a strategic communication shift on",
+            "climate change, emphasizing progress and",
+            "innovation.",
+            "He contends that significant progress",
+            "has already been made in addressing the",
+            "climate crisis, largely driven by",
+            "technological advancements.",
+            "Gates believes that this progress",
+            "warrants a re-evaluation of our",
+            "priorities, suggesting a greater focus",
+            "on improving human well-being.",
+            "His message is one of measured optimism,",
+            "grounded in the belief that human",
+            "ingenuity can overcome daunting",
+            "problems."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T09:05:45.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/report/808647/bill-gates-climate-change-ai-emissions-memo"
     },
     {
       "id": "105",
