@@ -105,6 +105,38 @@
       "articleUrl": "https://www.theverge.com/news/811602/adobe-max-2025-sneaks-projects"
     },
     {
+      "id": "141",
+      "topic": "Learning",
+      "source": "Marktechpost AI",
+      "shortTitle": "AI Reasoning Boost",
+      "mediumTitle": "New AI Training for LLM Reasoning",
+      "longTitle": "Google AI and UCLA Introduce SRL for Enhanced LLM Reasoning",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google AI, in collaboration with UCLA",
+            "researchers, has introduced a novel",
+            "training framework called Supervised",
+            "Reinforcement Learning (SRL).",
+            "This framework aims to enable smaller",
+            "language models (LLMs), specifically",
+            "those around the 7 billion parameter",
+            "scale, to learn to reason through",
+            "complex problems, even those they",
+            "currently struggle with.",
+            "Instead of just providing a final",
+            "correct answer, the framework guides the",
+            "model through the intermediate steps of",
+            "solving a problem, as demonstrated by an",
+            "expert."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-01T03:58:55.000Z",
+      "ranking": 7.599999999999999,
+      "articleUrl": "https://www.marktechpost.com/2025/10/31/google-ai-unveils-supervised-reinforcement-learning-srl-a-step-wise-framework-with-expert-trajectories-to-teach-small-language-models-to-reason-through-hard-problems/"
+    },
+    {
       "id": "137",
       "topic": "Dev Tools",
       "source": "The Verge AI",
@@ -237,7 +269,7 @@
         }
       ],
       "publishedAt": "2025-10-30T21:39:40.000Z",
-      "ranking": 6.832524650337286,
+      "ranking": 6.438843497729408,
       "articleUrl": "https://www.marktechpost.com/2025/10/30/ant-group-releases-ling-2-0-a-reasoning-first-moe-language-model-series-built-on-the-principle-that-each-activation-enhances-reasoning-capability/"
     },
     {
@@ -274,7 +306,7 @@
         }
       ],
       "publishedAt": "2025-10-30T12:53:23.000Z",
-      "ranking": 6.169794479169818,
+      "ranking": 5.654288831601084,
       "articleUrl": "https://www.theverge.com/report/810083/ai-browser-cybersecurity-problems"
     },
     {
@@ -310,7 +342,7 @@
         }
       ],
       "publishedAt": "2025-10-30T13:00:00.000Z",
-      "ranking": 5.664172169461383,
+      "ranking": 5.1501981536389145,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/809326/pinterest-ai-shopping-assistant-ceo-ready"
     },
     {
@@ -343,41 +375,8 @@
         }
       ],
       "publishedAt": "2025-10-30T10:02:23.000Z",
-      "ranking": 5.471383920020788,
+      "ranking": 4.916295005832996,
       "articleUrl": "https://www.theverge.com/news/809882/universal-music-udio-settlement"
-    },
-    {
-      "id": "130",
-      "topic": "Art",
-      "source": "The Verge AI",
-      "shortTitle": "Trump Ballroom",
-      "mediumTitle": "Trump\u0027s White House Ballroom Design Criticized",
-      "longTitle": "Criticism Mounts Over President Trump\u0027s Proposed White House Ballroom Design",
-      "paragraphs": [
-        {
-          "Lines": [
-            "President Trump\u0027s proposed ballroom",
-            "design, intended to replace the",
-            "demolished East Wing of the White House,",
-            "has drawn criticism for its aesthetic",
-            "and practical shortcomings, despite",
-            "initial speculation that its unusual",
-            "appearance might be due to AI",
-            "generation.",
-            "In essence, the article critiques",
-            "President Trump\u0027s ballroom design for",
-            "its perceived ugliness and questionable",
-            "architectural merit, suggesting that its",
-            "flaws are not accidental or",
-            "technologically generated but rather the",
-            "result of deliberate, albeit misguided,",
-            "design decisions."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-30T12:37:41.000Z",
-      "ranking": 5.117964255664349,
-      "articleUrl": "https://www.theverge.com/policy/809914/trump-white-house-ballroom-3d-model-ai"
     },
     {
       "id": "127",
@@ -409,8 +408,41 @@
         }
       ],
       "publishedAt": "2025-10-30T14:59:26.000Z",
-      "ranking": 5.113826919441572,
+      "ranking": 4.627499387007047,
       "articleUrl": "https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch"
+    },
+    {
+      "id": "130",
+      "topic": "Art",
+      "source": "The Verge AI",
+      "shortTitle": "Trump Ballroom",
+      "mediumTitle": "Trump\u0027s White House Ballroom Design Criticized",
+      "longTitle": "Criticism Mounts Over President Trump\u0027s Proposed White House Ballroom Design",
+      "paragraphs": [
+        {
+          "Lines": [
+            "President Trump\u0027s proposed ballroom",
+            "design, intended to replace the",
+            "demolished East Wing of the White House,",
+            "has drawn criticism for its aesthetic",
+            "and practical shortcomings, despite",
+            "initial speculation that its unusual",
+            "appearance might be due to AI",
+            "generation.",
+            "In essence, the article critiques",
+            "President Trump\u0027s ballroom design for",
+            "its perceived ugliness and questionable",
+            "architectural merit, suggesting that its",
+            "flaws are not accidental or",
+            "technologically generated but rather the",
+            "result of deliberate, albeit misguided,",
+            "design decisions."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-30T12:37:41.000Z",
+      "ranking": 4.598824300018407,
+      "articleUrl": "https://www.theverge.com/policy/809914/trump-white-house-ballroom-3d-model-ai"
     },
     {
       "id": "125",
@@ -444,7 +476,7 @@
         }
       ],
       "publishedAt": "2025-10-30T09:20:45.000Z",
-      "ranking": 5.03432747209939,
+      "ranking": 4.4696012448012405,
       "articleUrl": "https://www.theverge.com/news/809877/openai-sora-app-character-cameo-updates"
     },
     {
@@ -478,7 +510,7 @@
         }
       ],
       "publishedAt": "2025-10-30T05:10:58.000Z",
-      "ranking": 4.8079005378603235,
+      "ranking": 4.185354261011473,
       "articleUrl": "https://www.marktechpost.com/2025/10/29/ibm-ai-team-releases-granite-4-0-nano-series-compact-and-open-source-small-models-built-for-ai-at-the-edge/"
     },
     {
@@ -513,7 +545,7 @@
         }
       ],
       "publishedAt": "2025-10-30T04:00:00.000Z",
-      "ranking": 3.912934811525115,
+      "ranking": 3.273961115155503,
       "articleUrl": "https://venturebeat.com/ai/why-it-leaders-should-pay-attention-to-canvas-imagination-era-strategy"
     },
     {
@@ -550,7 +582,7 @@
         }
       ],
       "publishedAt": "2025-10-30T01:00:00.000Z",
-      "ranking": 3.9023729640562967,
+      "ranking": 3.2217327199977763,
       "articleUrl": "https://venturebeat.com/ai/meta-researchers-open-the-llm-black-box-to-repair-flawed-ai-reasoning"
     },
     {
@@ -586,7 +618,7 @@
         }
       ],
       "publishedAt": "2025-10-29T20:28:00.000Z",
-      "ranking": 3.517485964577097,
+      "ranking": 2.77388293855883,
       "articleUrl": "https://venturebeat.com/ai/vibe-coding-platform-cursor-releases-first-in-house-llm-composer-promising"
     },
     {
@@ -622,42 +654,8 @@
         }
       ],
       "publishedAt": "2025-10-29T18:00:00.000Z",
-      "ranking": 3.1976927161807147,
+      "ranking": 2.4198305279156997,
       "articleUrl": "https://venturebeat.com/ai/anthropic-scientists-hacked-claudes-brain-and-it-noticed-heres-why-thats"
-    },
-    {
-      "id": "112",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Grokipedia Biased",
-      "mediumTitle": "Grokipedia Launched with Bias Claims",
-      "longTitle": "Grokipedia Launched by xAI, Faces Bias Accusations",
-      "paragraphs": [
-        {
-          "Lines": [
-            "However, early observations and reports",
-            "suggest that Grokipedia exhibits",
-            "significant biases, including racism and",
-            "transphobia, and a strong, uncritical",
-            "admiration for Elon Musk himself.",
-            "Grokipedia, a new online encyclopedia",
-            "launched by Elon Musk\u0027s startup xAI, is",
-            "being promoted as a less \u0027woke\u0027 and less",
-            "biased alternative to Wikipedia, with",
-            "the stated goal of presenting \u0027the",
-            "truth, the whole truth and nothing but",
-            "the truth\u0027.",
-            "Specifically, it has been flagged for",
-            "displaying racist sentiments and",
-            "transphobic viewpoints, contradicting",
-            "Musk\u0027s claims of neutrality and",
-            "truthfulness."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T09:30:00.000Z",
-      "ranking": 1.9919607422084473,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808514/grokipedia-wikipedia-comparison"
     },
     {
       "id": "121",
@@ -691,8 +689,42 @@
         }
       ],
       "publishedAt": "2025-10-29T22:39:21.000Z",
-      "ranking": 1.91343212567575,
+      "ranking": 1.2002341014322973,
       "articleUrl": "https://www.marktechpost.com/2025/10/29/microsoft-releases-agent-lightning-a-new-ai-framework-that-enables-reinforcement-learning-rl-based-training-of-llms-for-any-ai-agent/"
+    },
+    {
+      "id": "112",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Grokipedia Biased",
+      "mediumTitle": "Grokipedia Launched with Bias Claims",
+      "longTitle": "Grokipedia Launched by xAI, Faces Bias Accusations",
+      "paragraphs": [
+        {
+          "Lines": [
+            "However, early observations and reports",
+            "suggest that Grokipedia exhibits",
+            "significant biases, including racism and",
+            "transphobia, and a strong, uncritical",
+            "admiration for Elon Musk himself.",
+            "Grokipedia, a new online encyclopedia",
+            "launched by Elon Musk\u0027s startup xAI, is",
+            "being promoted as a less \u0027woke\u0027 and less",
+            "biased alternative to Wikipedia, with",
+            "the stated goal of presenting \u0027the",
+            "truth, the whole truth and nothing but",
+            "the truth\u0027.",
+            "Specifically, it has been flagged for",
+            "displaying racist sentiments and",
+            "transphobic viewpoints, contradicting",
+            "Musk\u0027s claims of neutrality and",
+            "truthfulness."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T09:30:00.000Z",
+      "ranking": 1.0960433112501269,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808514/grokipedia-wikipedia-comparison"
     },
     {
       "id": "107",
@@ -724,7 +756,7 @@
         }
       ],
       "publishedAt": "2025-10-29T10:45:01.000Z",
-      "ranking": 1.774063136789085,
+      "ranking": 0.8955106321791337,
       "articleUrl": "https://www.theverge.com/news/808749/tiktok-smart-split-ai-outline-revenue-sharing-subscriptions"
     },
     {
@@ -761,7 +793,7 @@
         }
       ],
       "publishedAt": "2025-10-29T11:57:09.000Z",
-      "ranking": 1.6887981714639295,
+      "ranking": 0.8269431490792725,
       "articleUrl": "https://www.theverge.com/news/809017/nvidia-5-trillion-market-cap-ai"
     },
     {
@@ -795,7 +827,7 @@
         }
       ],
       "publishedAt": "2025-10-29T18:41:31.000Z",
-      "ranking": 1.5277524011293009,
+      "ranking": 0.7595005049399157,
       "articleUrl": "https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings"
     },
     {
@@ -832,7 +864,7 @@
         }
       ],
       "publishedAt": "2025-10-29T09:05:45.000Z",
-      "ranking": 1.0164585598588962,
+      "ranking": 0.11492772265476159,
       "articleUrl": "https://www.theverge.com/report/808647/bill-gates-climate-change-ai-emissions-memo"
     },
     {
@@ -866,43 +898,78 @@
         }
       ],
       "publishedAt": "2025-10-29T10:19:21.000Z",
-      "ranking": 0.9397525031411913,
+      "ranking": 0.055258652857525625,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808434/openai-for-profit-restructuring-microsoft-deal-agi-wars"
     },
     {
-      "id": "104",
-      "topic": "NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "LFM2-ColBERT-350M",
-      "mediumTitle": "New Model for Multilingual RAG",
-      "longTitle": "Liquid AI\u0027s LFM2-ColBERT-350M Enhances Multilingual RAG",
+      "id": "106",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini for Home",
+      "mediumTitle": "Google Assistant Replaced by Gemini",
+      "longTitle": "Google Rolls Out Early Access for Gemini for Home in US",
       "paragraphs": [
         {
           "Lines": [
-            "Liquid AI has introduced",
-            "LFM2-ColBERT-350M, a novel, compact late",
-            "interaction retriever designed to",
-            "enhance multilingual and cross-lingual",
-            "search capabilities within Retrieval",
-            "Augmented Generation (RAG) systems.",
-            "The core innovation of LFM2-ColBERT-350M",
-            "lies in its capacity to index documents",
-            "in one language and then efficiently",
-            "process queries submitted in a multitude",
-            "of languages, all while maintaining high",
-            "retrieval accuracy.",
-            "The ability to handle multilingual",
-            "queries against a single-language index",
-            "is a significant advancement,",
-            "potentially democratizing access to",
-            "information and AI-powered services",
-            "across language barriers."
+            "Google is rolling out early access to",
+            "Gemini for Home in the US, a significant",
+            "update that will eventually replace the",
+            "current Google Assistant on Nest",
+            "devices.",
+            "The article hints at the AI\u0027s ability to",
+            "run \u0027on-device,\u0027 which could lead to",
+            "faster response times and improved",
+            "privacy by reducing the need to send",
+            "data to the cloud for processing.",
+            "Gemini for Home is designed to leverage",
+            "the capabilities of Google\u0027s Gemini AI",
+            "model, which is known for its multimodal",
+            "understanding and advanced reasoning.",
+            "The transition from Google Assistant to",
+            "Gemini for Home is a strategic move by",
+            "Google to stay competitive in the",
+            "rapidly evolving smart home market."
           ]
         }
       ],
-      "publishedAt": "2025-10-29T07:32:35.000Z",
-      "ranking": 0.9219490941391433,
-      "articleUrl": "https://www.marktechpost.com/2025/10/28/liquid-ai-releases-lfm2-colbert-350m-a-new-small-model-that-brings-late-interaction-retrieval-to-multilingual-and-cross-lingual-rag/"
+      "publishedAt": "2025-10-29T11:08:48.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/808858/google-gemini-for-home-early-access-launch"
+    },
+    {
+      "id": "109",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Grammarly Rebrands",
+      "mediumTitle": "Grammarly Rebrands to Superhuman",
+      "longTitle": "Grammarly Rebrands to Superhuman, Integrating AI Tools",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Grammarly, the popular AI writing",
+            "assistant, is undergoing a significant",
+            "rebranding and integration into a larger",
+            "suite of productivity tools under the",
+            "new name \u0027Superhuman\u0027.",
+            "This strategic move consolidates",
+            "Grammarly\u0027s existing AI writing",
+            "capabilities with other established",
+            "platforms like Coda and Superhuman Mail,",
+            "and introduces a new AI assistant named",
+            "Superhuman Go.",
+            "The newly formed Superhuman suite,",
+            "encompassing all these integrated tools,",
+            "is now accessible to all users who hold",
+            "a paid Grammarly Pro subscription.",
+            "This assistant will be made available to",
+            "Superhuman subscribers at no additional",
+            "charge."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T10:01:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch"
     },
     {
       "id": "111",
@@ -938,8 +1005,42 @@
         }
       ],
       "publishedAt": "2025-10-29T10:00:00.000Z",
-      "ranking": 0.869488875799993,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates"
+    },
+    {
+      "id": "110",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Chat Limits",
+      "mediumTitle": "Character.AI Restricts Under 18s",
+      "longTitle": "Character.AI Implements Age Restrictions for Underage Users",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Character.AI, a platform enabling",
+            "interaction with AI characters, is",
+            "implementing a new policy to restrict",
+            "access for users under the age of 18.",
+            "This initiative involves gradually",
+            "phasing out open-ended chats for minors",
+            "and introducing mechanisms to verify",
+            "user age.",
+            "Initially, users identified as under 18",
+            "will face a limitation of two hours per",
+            "day for engaging in \u0022open-ended chats\u0022",
+            "with the AI characters.",
+            "This daily time limit is set to",
+            "progressively decrease, ultimately",
+            "leading to a complete ban from these",
+            "types of interactions for underage",
+            "users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
     },
     {
       "id": "113",
@@ -975,112 +1076,8 @@
         }
       ],
       "publishedAt": "2025-10-29T09:25:29.000Z",
-      "ranking": 0.8187946862284141,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/808750/openai-sora-cameo-celebrity-deepfake-trademark-lawsuit"
-    },
-    {
-      "id": "110",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Chat Limits",
-      "mediumTitle": "Character.AI Restricts Under 18s",
-      "longTitle": "Character.AI Implements Age Restrictions for Underage Users",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Character.AI, a platform enabling",
-            "interaction with AI characters, is",
-            "implementing a new policy to restrict",
-            "access for users under the age of 18.",
-            "This initiative involves gradually",
-            "phasing out open-ended chats for minors",
-            "and introducing mechanisms to verify",
-            "user age.",
-            "Initially, users identified as under 18",
-            "will face a limitation of two hours per",
-            "day for engaging in \u0022open-ended chats\u0022",
-            "with the AI characters.",
-            "This daily time limit is set to",
-            "progressively decrease, ultimately",
-            "leading to a complete ban from these",
-            "types of interactions for underage",
-            "users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T10:00:00.000Z",
-      "ranking": 0.491711078746933,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
-    },
-    {
-      "id": "106",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Gemini for Home",
-      "mediumTitle": "Google Assistant Replaced by Gemini",
-      "longTitle": "Google Rolls Out Early Access for Gemini for Home in US",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google is rolling out early access to",
-            "Gemini for Home in the US, a significant",
-            "update that will eventually replace the",
-            "current Google Assistant on Nest",
-            "devices.",
-            "The article hints at the AI\u0027s ability to",
-            "run \u0027on-device,\u0027 which could lead to",
-            "faster response times and improved",
-            "privacy by reducing the need to send",
-            "data to the cloud for processing.",
-            "Gemini for Home is designed to leverage",
-            "the capabilities of Google\u0027s Gemini AI",
-            "model, which is known for its multimodal",
-            "understanding and advanced reasoning.",
-            "The transition from Google Assistant to",
-            "Gemini for Home is a strategic move by",
-            "Google to stay competitive in the",
-            "rapidly evolving smart home market."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T11:08:48.000Z",
-      "ranking": 0.1085272872823877,
-      "articleUrl": "https://www.theverge.com/news/808858/google-gemini-for-home-early-access-launch"
-    },
-    {
-      "id": "109",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Grammarly Rebrands",
-      "mediumTitle": "Grammarly Rebrands to Superhuman",
-      "longTitle": "Grammarly Rebrands to Superhuman, Integrating AI Tools",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Grammarly, the popular AI writing",
-            "assistant, is undergoing a significant",
-            "rebranding and integration into a larger",
-            "suite of productivity tools under the",
-            "new name \u0027Superhuman\u0027.",
-            "This strategic move consolidates",
-            "Grammarly\u0027s existing AI writing",
-            "capabilities with other established",
-            "platforms like Coda and Superhuman Mail,",
-            "and introduces a new AI assistant named",
-            "Superhuman Go.",
-            "The newly formed Superhuman suite,",
-            "encompassing all these integrated tools,",
-            "is now accessible to all users who hold",
-            "a paid Grammarly Pro subscription.",
-            "This assistant will be made available to",
-            "Superhuman subscribers at no additional",
-            "charge."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T10:01:00.000Z",
-      "ranking": 0.042917944823493315,
-      "articleUrl": "https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch"
     },
     {
       "id": "105",
@@ -1114,6 +1111,41 @@
       "publishedAt": "2025-10-29T08:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots"
+    },
+    {
+      "id": "104",
+      "topic": "NLP",
+      "source": "Marktechpost AI",
+      "shortTitle": "LFM2-ColBERT-350M",
+      "mediumTitle": "New Model for Multilingual RAG",
+      "longTitle": "Liquid AI\u0027s LFM2-ColBERT-350M Enhances Multilingual RAG",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Liquid AI has introduced",
+            "LFM2-ColBERT-350M, a novel, compact late",
+            "interaction retriever designed to",
+            "enhance multilingual and cross-lingual",
+            "search capabilities within Retrieval",
+            "Augmented Generation (RAG) systems.",
+            "The core innovation of LFM2-ColBERT-350M",
+            "lies in its capacity to index documents",
+            "in one language and then efficiently",
+            "process queries submitted in a multitude",
+            "of languages, all while maintaining high",
+            "retrieval accuracy.",
+            "The ability to handle multilingual",
+            "queries against a single-language index",
+            "is a significant advancement,",
+            "potentially democratizing access to",
+            "information and AI-powered services",
+            "across language barriers."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T07:32:35.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.marktechpost.com/2025/10/28/liquid-ai-releases-lfm2-colbert-350m-a-new-small-model-that-brings-late-interaction-retrieval-to-multilingual-and-cross-lingual-rag/"
     },
     {
       "id": "116",
@@ -1613,43 +1645,6 @@
       "publishedAt": "2025-10-28T09:35:08.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/10/28/zhipu-ai-releases-glyph-an-ai-framework-for-scaling-the-context-length-through-visual-text-compression/"
-    },
-    {
-      "id": "93",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Adobe AI Audio",
-      "mediumTitle": "Adobe\u0027s New AI Audio Tools",
-      "longTitle": "Adobe Introduces Generative AI Audio Tools for Video Production",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Adobe is introducing new generative AI",
-            "audio tools designed to significantly",
-            "streamline video production for",
-            "filmmakers.",
-            "These tools, named \u0022Generate Soundtrack\u0022",
-            "and \u0022Generate Speech,\u0022 are integrated",
-            "into a redesigned Adobe Firefly AI app.",
-            "The introduction of these AI audio tools",
-            "signifies Adobe\u0027s commitment to",
-            "leveraging artificial intelligence to",
-            "enhance creativity and efficiency in",
-            "video production.",
-            "Complementing this is \u0022Generate Speech,\u0022",
-            "which enables the creation of narration",
-            "and voice-overs.",
-            "By automating aspects of soundtrack and",
-            "voice-over generation, Adobe aims to",
-            "empower creators with faster and more",
-            "flexible ways to bring their visual",
-            "stories to life."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T09:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/807809/adobe-firefly-ai-audio-generate-soundtrack-speech"
     },
     {
       "id": "94",
