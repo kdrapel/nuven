@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "146",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "LongCat Omni",
+      "mediumTitle": "Meituan\u0027s LongCat-Flash-Omni Model",
+      "longTitle": "Meituan\u0027s LongCat-Flash-Omni: A 560B Parameter Omni-Modal AI Model",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meituan\u0027s LongCat team has released",
+            "LongCat-Flash-Omni, an open-source",
+            "omni-modal model with 560 billion",
+            "parameters, designed for real-time",
+            "interaction across text, image, video,",
+            "and audio.",
+            "Its primary innovation lies in its",
+            "ability to efficiently process and",
+            "interact with multiple modalities \u2013",
+            "text, image, video, and audio \u2013 in",
+            "real-time.",
+            "The core challenge addressed by",
+            "LongCat-Flash-Omni is the design of a",
+            "single model capable of seamlessly",
+            "integrating these diverse data types",
+            "without compromising efficiency."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-02T16:44:14.000Z",
+      "ranking": 8.287500000000001,
+      "articleUrl": "https://www.marktechpost.com/2025/11/02/longcat-flash-omni-a-sota-open-source-omni-modal-model-with-560b-parameters-with-27b-activated-excelling-at-real-time-audio-visual-interaction/"
+    },
+    {
       "id": "142",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -32,7 +65,7 @@
         }
       ],
       "publishedAt": "2025-11-01T10:10:11.000Z",
-      "ranking": 6.7909758486432334,
+      "ranking": 6.348679729070593,
       "articleUrl": "https://www.marktechpost.com/2025/11/01/anthropics-new-research-shows-claude-can-detect-injected-concepts-but-only-in-controlled-layers/"
     },
     {
@@ -69,7 +102,7 @@
         }
       ],
       "publishedAt": "2025-11-01T08:11:01.000Z",
-      "ranking": 6.0958589803711565,
+      "ranking": 5.625970268523828,
       "articleUrl": "https://www.marktechpost.com/2025/11/01/how-to-build-an-end-to-end-data-engineering-and-machine-learning-pipeline-with-apache-spark-and-pyspark/"
     },
     {
@@ -101,7 +134,7 @@
         }
       ],
       "publishedAt": "2025-11-01T03:58:55.000Z",
-      "ranking": 5.347117473383577,
+      "ranking": 4.818855010519483,
       "articleUrl": "https://www.marktechpost.com/2025/10/31/google-ai-unveils-supervised-reinforcement-learning-srl-a-step-wise-framework-with-expert-trajectories-to-teach-small-language-models-to-reason-through-hard-problems/"
     },
     {
@@ -135,7 +168,7 @@
         }
       ],
       "publishedAt": "2025-11-01T06:00:00.000Z",
-      "ranking": 5.192465549790387,
+      "ranking": 4.69223993088425,
       "articleUrl": "https://venturebeat.com/ai/large-reasoning-models-almost-certainly-can-think"
     },
     {
@@ -169,7 +202,7 @@
         }
       ],
       "publishedAt": "2025-10-31T14:31:03.000Z",
-      "ranking": 3.3828577533044735,
+      "ranking": 2.667533773764574,
       "articleUrl": "https://www.theverge.com/news/811602/adobe-max-2025-sneaks-projects"
     },
     {
@@ -206,7 +239,7 @@
         }
       ],
       "publishedAt": "2025-10-31T09:08:18.000Z",
-      "ranking": 2.6486964807028563,
+      "ranking": 1.858639742853451,
       "articleUrl": "https://www.marktechpost.com/2025/10/31/openai-releases-research-preview-of-gpt-oss-safeguard-two-open-weight-reasoning-models-for-safety-classification-tasks/"
     },
     {
@@ -241,7 +274,7 @@
         }
       ],
       "publishedAt": "2025-10-31T10:23:18.000Z",
-      "ranking": 2.5860434384473825,
+      "ranking": 1.813352947618096,
       "articleUrl": "https://www.theverge.com/news/811340/perplexity-ai-patent-research-tool"
     },
     {
@@ -274,7 +307,7 @@
         }
       ],
       "publishedAt": "2025-10-31T05:00:00.000Z",
-      "ranking": 2.172240051739734,
+      "ranking": 1.3246894495199895,
       "articleUrl": "https://venturebeat.com/ai/inside-celosphere-2025-why-theres-no-enterprise-ai-without-process"
     },
     {
@@ -307,7 +340,7 @@
         }
       ],
       "publishedAt": "2025-10-31T08:16:01.000Z",
-      "ranking": 1.6004881870615684,
+      "ranking": 0.7983252510678414,
       "articleUrl": "https://www.theverge.com/news/811241/sora-pay-for-extra-video-gens"
     },
     {
@@ -341,7 +374,7 @@
         }
       ],
       "publishedAt": "2025-10-31T05:27:43.000Z",
-      "ranking": 1.5498453527709772,
+      "ranking": 0.7087125557554055,
       "articleUrl": "https://www.marktechpost.com/2025/10/30/how-to-design-an-autonomous-multi-agent-data-and-infrastructure-strategy-system-using-lightweight-qwen-models-for-efficient-pipeline-intelligence/"
     },
     {
@@ -375,7 +408,7 @@
         }
       ],
       "publishedAt": "2025-10-30T21:39:40.000Z",
-      "ranking": 0.3959873513568368,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/10/30/ant-group-releases-ling-2-0-a-reasoning-first-moe-language-model-series-built-on-the-principle-that-each-activation-enhances-reasoning-capability/"
     },
     {
@@ -1007,6 +1040,40 @@
       "articleUrl": "https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch"
     },
     {
+      "id": "110",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Chat Limits",
+      "mediumTitle": "Character.AI Restricts Under 18s",
+      "longTitle": "Character.AI Implements Age Restrictions for Underage Users",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Character.AI, a platform enabling",
+            "interaction with AI characters, is",
+            "implementing a new policy to restrict",
+            "access for users under the age of 18.",
+            "This initiative involves gradually",
+            "phasing out open-ended chats for minors",
+            "and introducing mechanisms to verify",
+            "user age.",
+            "Initially, users identified as under 18",
+            "will face a limitation of two hours per",
+            "day for engaging in \u0022open-ended chats\u0022",
+            "with the AI characters.",
+            "This daily time limit is set to",
+            "progressively decrease, ultimately",
+            "leading to a complete ban from these",
+            "types of interactions for underage",
+            "users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
+    },
+    {
       "id": "111",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -1042,40 +1109,6 @@
       "publishedAt": "2025-10-29T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates"
-    },
-    {
-      "id": "110",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Chat Limits",
-      "mediumTitle": "Character.AI Restricts Under 18s",
-      "longTitle": "Character.AI Implements Age Restrictions for Underage Users",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Character.AI, a platform enabling",
-            "interaction with AI characters, is",
-            "implementing a new policy to restrict",
-            "access for users under the age of 18.",
-            "This initiative involves gradually",
-            "phasing out open-ended chats for minors",
-            "and introducing mechanisms to verify",
-            "user age.",
-            "Initially, users identified as under 18",
-            "will face a limitation of two hours per",
-            "day for engaging in \u0022open-ended chats\u0022",
-            "with the AI characters.",
-            "This daily time limit is set to",
-            "progressively decrease, ultimately",
-            "leading to a complete ban from these",
-            "types of interactions for underage",
-            "users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
     },
     {
       "id": "112",
@@ -1612,38 +1645,6 @@
       "publishedAt": "2025-10-28T13:13:25.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/808079/chatgpt-paypal-openai-acp-purchases"
-    },
-    {
-      "id": "98",
-      "topic": "Dev Tools",
-      "source": "The Verge AI",
-      "shortTitle": "GitHub AI Agents",
-      "mediumTitle": "GitHub Agent HQ: AI Coding Agents",
-      "longTitle": "GitHub Launches Agent HQ for Third-Party AI Coding Assistants",
-      "paragraphs": [
-        {
-          "Lines": [
-            "GitHub is launching a new initiative",
-            "called \u0022Agent HQ\u0022 to provide developers",
-            "with access to a variety of third-party",
-            "AI coding agents directly within the",
-            "GitHub platform.",
-            "In the coming months, developers will be",
-            "able to utilize agents from prominent AI",
-            "research and development companies,",
-            "including OpenAI\u0027s Codex, Anthropic\u0027s",
-            "Claude, Google\u0027s Jules, xAI, and",
-            "Cognition\u0027s Devin.",
-            "This move signifies a departure from",
-            "relying solely on GitHub Copilot,",
-            "opening up the ecosystem to a broader",
-            "range of AI tools."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T13:10:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/808032/github-ai-agent-hq-coding-openai-anthropic"
     }
   ]
 }
