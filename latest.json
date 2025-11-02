@@ -32,7 +32,7 @@
         }
       ],
       "publishedAt": "2025-11-01T10:10:11.000Z",
-      "ranking": 8.336363636363636,
+      "ranking": 7.177581946286178,
       "articleUrl": "https://www.marktechpost.com/2025/11/01/anthropics-new-research-shows-claude-can-detect-injected-concepts-but-only-in-controlled-layers/"
     },
     {
@@ -69,7 +69,7 @@
         }
       ],
       "publishedAt": "2025-11-01T08:11:01.000Z",
-      "ranking": 7.853846153846151,
+      "ranking": 6.510050565058123,
       "articleUrl": "https://www.marktechpost.com/2025/11/01/how-to-build-an-end-to-end-data-engineering-and-machine-learning-pipeline-with-apache-spark-and-pyspark/"
     },
     {
@@ -101,7 +101,7 @@
         }
       ],
       "publishedAt": "2025-11-01T03:58:55.000Z",
-      "ranking": 6.236710503715419,
+      "ranking": 5.8196663921182425,
       "articleUrl": "https://www.marktechpost.com/2025/10/31/google-ai-unveils-supervised-reinforcement-learning-srl-a-step-wise-framework-with-expert-trajectories-to-teach-small-language-models-to-reason-through-hard-problems/"
     },
     {
@@ -135,7 +135,7 @@
         }
       ],
       "publishedAt": "2025-11-01T06:00:00.000Z",
-      "ranking": 6.025996887751862,
+      "ranking": 5.636985502156003,
       "articleUrl": "https://venturebeat.com/ai/large-reasoning-models-almost-certainly-can-think"
     },
     {
@@ -169,7 +169,7 @@
         }
       ],
       "publishedAt": "2025-10-31T14:31:03.000Z",
-      "ranking": 4.64649377499966,
+      "ranking": 4.04241556761779,
       "articleUrl": "https://www.theverge.com/news/811602/adobe-max-2025-sneaks-projects"
     },
     {
@@ -206,7 +206,7 @@
         }
       ],
       "publishedAt": "2025-10-31T09:08:18.000Z",
-      "ranking": 4.061766040280126,
+      "ranking": 3.3829660297769655,
       "articleUrl": "https://www.marktechpost.com/2025/10/31/openai-releases-research-preview-of-gpt-oss-safeguard-two-open-weight-reasoning-models-for-safety-classification-tasks/"
     },
     {
@@ -241,7 +241,7 @@
         }
       ],
       "publishedAt": "2025-10-31T10:23:18.000Z",
-      "ranking": 3.9643879251787526,
+      "ranking": 3.3029516167260278,
       "articleUrl": "https://www.theverge.com/news/811340/perplexity-ai-patent-research-tool"
     },
     {
@@ -274,8 +274,41 @@
         }
       ],
       "publishedAt": "2025-10-31T05:00:00.000Z",
-      "ranking": 3.7002727251841474,
+      "ranking": 2.963987280497065,
       "articleUrl": "https://venturebeat.com/ai/inside-celosphere-2025-why-theres-no-enterprise-ai-without-process"
+    },
+    {
+      "id": "139",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Sora Credits",
+      "mediumTitle": "Sora Introduces Paid Credits",
+      "longTitle": "OpenAI\u0027s Sora Now Offers Paid Credits for Video Generation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has introduced a new feature for",
+            "its AI video generation platform, Sora,",
+            "allowing users to purchase additional",
+            "credits to create more videos.",
+            "The core message is the introduction of",
+            "a purchasable credit system to expand",
+            "video generation capabilities, coupled",
+            "with the foreshadowing of a decrease in",
+            "free allowances.",
+            "This indicates a strategic evolution for",
+            "Sora as OpenAI seeks to balance user",
+            "access, resource management, and",
+            "financial sustainability.",
+            "This move comes as OpenAI anticipates a",
+            "future reduction in free video",
+            "generation allowances for users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-31T08:16:01.000Z",
+      "ranking": 2.346860530518841,
+      "articleUrl": "https://www.theverge.com/news/811241/sora-pay-for-extra-video-gens"
     },
     {
       "id": "134",
@@ -308,41 +341,8 @@
         }
       ],
       "publishedAt": "2025-10-31T05:27:43.000Z",
-      "ranking": 3.0650452031755178,
+      "ranking": 2.3351765947367538,
       "articleUrl": "https://www.marktechpost.com/2025/10/30/how-to-design-an-autonomous-multi-agent-data-and-infrastructure-strategy-system-using-lightweight-qwen-models-for-efficient-pipeline-intelligence/"
-    },
-    {
-      "id": "139",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Sora Credits",
-      "mediumTitle": "Sora Introduces Paid Credits",
-      "longTitle": "OpenAI\u0027s Sora Now Offers Paid Credits for Video Generation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has introduced a new feature for",
-            "its AI video generation platform, Sora,",
-            "allowing users to purchase additional",
-            "credits to create more videos.",
-            "The core message is the introduction of",
-            "a purchasable credit system to expand",
-            "video generation capabilities, coupled",
-            "with the foreshadowing of a decrease in",
-            "free allowances.",
-            "This indicates a strategic evolution for",
-            "Sora as OpenAI seeks to balance user",
-            "access, resource management, and",
-            "financial sustainability.",
-            "This move comes as OpenAI anticipates a",
-            "future reduction in free video",
-            "generation allowances for users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-31T08:16:01.000Z",
-      "ranking": 3.03776496979065,
-      "articleUrl": "https://www.theverge.com/news/811241/sora-pay-for-extra-video-gens"
     },
     {
       "id": "132",
@@ -375,45 +375,8 @@
         }
       ],
       "publishedAt": "2025-10-30T21:39:40.000Z",
-      "ranking": 2.1278947603409994,
+      "ranking": 1.2896650779235905,
       "articleUrl": "https://www.marktechpost.com/2025/10/30/ant-group-releases-ling-2-0-a-reasoning-first-moe-language-model-series-built-on-the-principle-that-each-activation-enhances-reasoning-capability/"
-    },
-    {
-      "id": "129",
-      "topic": "Security",
-      "source": "The Verge AI",
-      "shortTitle": "AI Browser Risks",
-      "mediumTitle": "AI Browsers: A Cybersecurity Threat",
-      "longTitle": "AI Browsers Introduce Significant Cybersecurity Risks",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article \u0027AI browsers are a",
-            "cybersecurity time bomb\u0027 discusses the",
-            "emerging trend of integrating Artificial",
-            "Intelligence (AI) capabilities directly",
-            "into web browsers, highlighting the",
-            "significant cybersecurity risks",
-            "associated with this development.",
-            "AI browsers promise a more intelligent",
-            "and interactive web experience but",
-            "simultaneously introduce a new and",
-            "potentially severe landscape of",
-            "cybersecurity threats demanding",
-            "immediate attention.",
-            "The rapid pace of AI integration into",
-            "browsers might be outpacing the",
-            "development of adequate security",
-            "protocols, creating a \u0027time bomb\u0027",
-            "scenario where problems are likely to",
-            "emerge as technologies become more",
-            "widespread."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-30T12:53:23.000Z",
-      "ranking": 0.49062361415862554,
-      "articleUrl": "https://www.theverge.com/report/810083/ai-browser-cybersecurity-problems"
     },
     {
       "id": "127",
@@ -483,6 +446,43 @@
       "publishedAt": "2025-10-30T13:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/809326/pinterest-ai-shopping-assistant-ceo-ready"
+    },
+    {
+      "id": "129",
+      "topic": "Security",
+      "source": "The Verge AI",
+      "shortTitle": "AI Browser Risks",
+      "mediumTitle": "AI Browsers: A Cybersecurity Threat",
+      "longTitle": "AI Browsers Introduce Significant Cybersecurity Risks",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article \u0027AI browsers are a",
+            "cybersecurity time bomb\u0027 discusses the",
+            "emerging trend of integrating Artificial",
+            "Intelligence (AI) capabilities directly",
+            "into web browsers, highlighting the",
+            "significant cybersecurity risks",
+            "associated with this development.",
+            "AI browsers promise a more intelligent",
+            "and interactive web experience but",
+            "simultaneously introduce a new and",
+            "potentially severe landscape of",
+            "cybersecurity threats demanding",
+            "immediate attention.",
+            "The rapid pace of AI integration into",
+            "browsers might be outpacing the",
+            "development of adequate security",
+            "protocols, creating a \u0027time bomb\u0027",
+            "scenario where problems are likely to",
+            "emerge as technologies become more",
+            "widespread."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-30T12:53:23.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/report/810083/ai-browser-cybersecurity-problems"
     },
     {
       "id": "130",
@@ -1007,40 +1007,6 @@
       "articleUrl": "https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch"
     },
     {
-      "id": "110",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Chat Limits",
-      "mediumTitle": "Character.AI Restricts Under 18s",
-      "longTitle": "Character.AI Implements Age Restrictions for Underage Users",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Character.AI, a platform enabling",
-            "interaction with AI characters, is",
-            "implementing a new policy to restrict",
-            "access for users under the age of 18.",
-            "This initiative involves gradually",
-            "phasing out open-ended chats for minors",
-            "and introducing mechanisms to verify",
-            "user age.",
-            "Initially, users identified as under 18",
-            "will face a limitation of two hours per",
-            "day for engaging in \u0022open-ended chats\u0022",
-            "with the AI characters.",
-            "This daily time limit is set to",
-            "progressively decrease, ultimately",
-            "leading to a complete ban from these",
-            "types of interactions for underage",
-            "users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
-    },
-    {
       "id": "111",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -1076,6 +1042,40 @@
       "publishedAt": "2025-10-29T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates"
+    },
+    {
+      "id": "110",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Chat Limits",
+      "mediumTitle": "Character.AI Restricts Under 18s",
+      "longTitle": "Character.AI Implements Age Restrictions for Underage Users",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Character.AI, a platform enabling",
+            "interaction with AI characters, is",
+            "implementing a new policy to restrict",
+            "access for users under the age of 18.",
+            "This initiative involves gradually",
+            "phasing out open-ended chats for minors",
+            "and introducing mechanisms to verify",
+            "user age.",
+            "Initially, users identified as under 18",
+            "will face a limitation of two hours per",
+            "day for engaging in \u0022open-ended chats\u0022",
+            "with the AI characters.",
+            "This daily time limit is set to",
+            "progressively decrease, ultimately",
+            "leading to a complete ban from these",
+            "types of interactions for underage",
+            "users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
     },
     {
       "id": "112",
@@ -1254,42 +1254,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/10/28/liquid-ai-releases-lfm2-colbert-350m-a-new-small-model-that-brings-late-interaction-retrieval-to-multilingual-and-cross-lingual-rag/"
     },
     {
-      "id": "119",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "OpenAI Safety Models",
-      "mediumTitle": "OpenAI Releases Open-Weight Safety Models",
-      "longTitle": "OpenAI Unveils Open-Weight Safety Models for Dynamic Content Moderation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has released two open-weight",
-            "models, gpt-oss-safeguard-120b and",
-            "gpt-oss-safeguard-20b, under a",
-            "permissive Apache 2.0 license.",
-            "OpenAI\u0027s new models aim to overcome this",
-            "limitation by using reasoning",
-            "capabilities to interpret",
-            "developer-provided policies directly at",
-            "inference time.",
-            "This dynamic policy application means",
-            "policies can be applied and revised",
-            "without retraining the model, which is",
-            "particularly beneficial for evolving",
-            "harms or nuanced domains.",
-            "These models are fine-tuned versions of",
-            "OpenAI\u0027s earlier gpt-oss models and are",
-            "designed to offer a more flexible",
-            "approach to content moderation and AI",
-            "safety for enterprises."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T05:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/from-static-classifiers-to-reasoning-engines-openais-new-model-rethinks"
-    },
-    {
       "id": "116",
       "topic": "Context Eng.",
       "source": "VentureBeat AI",
@@ -1324,6 +1288,42 @@
       "publishedAt": "2025-10-29T05:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/agentic-ai-is-all-about-the-context-engineering-that-is"
+    },
+    {
+      "id": "119",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "OpenAI Safety Models",
+      "mediumTitle": "OpenAI Releases Open-Weight Safety Models",
+      "longTitle": "OpenAI Unveils Open-Weight Safety Models for Dynamic Content Moderation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has released two open-weight",
+            "models, gpt-oss-safeguard-120b and",
+            "gpt-oss-safeguard-20b, under a",
+            "permissive Apache 2.0 license.",
+            "OpenAI\u0027s new models aim to overcome this",
+            "limitation by using reasoning",
+            "capabilities to interpret",
+            "developer-provided policies directly at",
+            "inference time.",
+            "This dynamic policy application means",
+            "policies can be applied and revised",
+            "without retraining the model, which is",
+            "particularly beneficial for evolving",
+            "harms or nuanced domains.",
+            "These models are fine-tuned versions of",
+            "OpenAI\u0027s earlier gpt-oss models and are",
+            "designed to offer a more flexible",
+            "approach to content moderation and AI",
+            "safety for enterprises."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T05:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/from-static-classifiers-to-reasoning-engines-openais-new-model-rethinks"
     },
     {
       "id": "122",
@@ -1644,42 +1644,6 @@
       "publishedAt": "2025-10-28T13:10:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/808032/github-ai-agent-hq-coding-openai-anthropic"
-    },
-    {
-      "id": "89",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI Restructures",
-      "mediumTitle": "OpenAI\u0027s For-Profit Shift \u0026 Microsoft Deal",
-      "longTitle": "OpenAI Finalizes For-Profit Restructuring with Enhanced Microsoft Partnership",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has finalized its for-profit",
-            "restructuring, establishing OpenAI Group",
-            "PBC as its new for-profit public benefit",
-            "corporation.",
-            "This restructuring is accompanied by a",
-            "significant new agreement with",
-            "Microsoft, which will influence OpenAI\u0027s",
-            "future endeavors, including the",
-            "development of consumer hardware and",
-            "strategies for achieving Artificial",
-            "General Intelligence (AGI).",
-            "In essence, OpenAI\u0027s completed",
-            "restructuring and its renewed, expanded",
-            "partnership with Microsoft represent a",
-            "strategic pivot towards greater",
-            "commercialization and accelerated",
-            "development, particularly in the pursuit",
-            "of AGI and the creation of",
-            "consumer-facing AI hardware."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T10:38:55.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/807875/openai-microsoft-for-profit-agi"
     }
   ]
 }
