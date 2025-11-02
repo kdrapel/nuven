@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@color/black"
+    android:padding="12dp"
+    android:gravity="center_vertical">
+
+    <!-- Current Page Number -->
+    <TextView
+        android:id="@+id/currentPageNumber"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="100"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:fontFamily="monospace"
+        android:gravity="start"
+        android:singleLine="true"
+        android:ellipsize="none" />
+
+    <!-- Home Button -->
+    <ImageButton
+        android:id="@+id/homeButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="4dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:src="@drawable/house_icon"
+        android:contentDescription="Home" />
+
+    <!-- Back Button -->
+    <ImageButton
+        android:id="@+id/backButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="4dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:src="@drawable/arrow_left_icon"
+        android:contentDescription="Back" />
+
+    <!-- Forward Button -->
+    <ImageButton
+        android:id="@+id/forwardButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="4dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:src="@drawable/arrow_right_icon"
+        android:contentDescription="Forward" />
+
+    <!-- Expand/Collapse Toggle Button -->
+    <ImageButton
+        android:id="@+id/expandToggleButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="4dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:src="@drawable/arrows_vertical_icon"
+        android:contentDescription="Toggle Expand" />
+
+    <!-- Page Selector Button -->
+    <ImageButton
+        android:id="@+id/keypadButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="4dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:src="@drawable/squares_four_icon"
+        android:contentDescription="@string/keypad_dialog_title" />
+
+    <!-- Settings Button -->
+    <ImageButton
+        android:id="@+id/settingsButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:src="@drawable/gear_icon"
+        android:contentDescription="Settings" />
+
+</LinearLayout>

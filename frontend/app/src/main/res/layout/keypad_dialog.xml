@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="@color/black">
+
+    <TextView
+        android:id="@+id/dialogTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/keypad_dialog_title"
+        android:textColor="@color/cyan"
+        android:fontFamily="monospace"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:paddingBottom="16dp" />
+
+    <TextView
+        android:id="@+id/displayText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textColor="@color/yellow"
+        android:fontFamily="monospace"
+        android:textSize="24sp"
+        android:gravity="center"
+        android:minHeight="48dp"
+        android:paddingBottom="16dp" />
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="3"
+        android:rowCount="4">
+
+        <Button android:id="@+id/btn1" style="@style/KeypadButton" android:text="1" />
+        <Button android:id="@+id/btn2" style="@style/KeypadButton" android:text="2" />
+        <Button android:id="@+id/btn3" style="@style/KeypadButton" android:text="3" />
+        <Button android:id="@+id/btn4" style="@style/KeypadButton" android:text="4" />
+        <Button android:id="@+id/btn5" style="@style/KeypadButton" android:text="5" />
+        <Button android:id="@+id/btn6" style="@style/KeypadButton" android:text="6" />
+        <Button android:id="@+id/btn7" style="@style/KeypadButton" android:text="7" />
+        <Button android:id="@+id/btn8" style="@style/KeypadButton" android:text="8" />
+        <Button android:id="@+id/btn9" style="@style/KeypadButton" android:text="9" />
+        <ImageButton android:id="@+id/btnHome" style="@style/KeypadButton" android:src="@drawable/house_icon_black" android:contentDescription="@string/keypad_home" />
+        <Button android:id="@+id/btn0" style="@style/KeypadButton" android:text="0" />
+        <ImageButton android:id="@+id/btnEnter" style="@style/KeypadButton" android:src="@drawable/key_return_icon" android:contentDescription="@string/keypad_enter" />
+
+    </GridLayout>
+
+</LinearLayout>
