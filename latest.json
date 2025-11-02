@@ -73,6 +73,38 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/01/how-to-build-an-end-to-end-data-engineering-and-machine-learning-pipeline-with-apache-spark-and-pyspark/"
     },
     {
+      "id": "141",
+      "topic": "Learning",
+      "source": "Marktechpost AI",
+      "shortTitle": "AI Reasoning Boost",
+      "mediumTitle": "New AI Training for LLM Reasoning",
+      "longTitle": "Google AI and UCLA Introduce SRL for Enhanced LLM Reasoning",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google AI, in collaboration with UCLA",
+            "researchers, has introduced a novel",
+            "training framework called Supervised",
+            "Reinforcement Learning (SRL).",
+            "This framework aims to enable smaller",
+            "language models (LLMs), specifically",
+            "those around the 7 billion parameter",
+            "scale, to learn to reason through",
+            "complex problems, even those they",
+            "currently struggle with.",
+            "Instead of just providing a final",
+            "correct answer, the framework guides the",
+            "model through the intermediate steps of",
+            "solving a problem, as demonstrated by an",
+            "expert."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-01T03:58:55.000Z",
+      "ranking": 6.236710503715419,
+      "articleUrl": "https://www.marktechpost.com/2025/10/31/google-ai-unveils-supervised-reinforcement-learning-srl-a-step-wise-framework-with-expert-trajectories-to-teach-small-language-models-to-reason-through-hard-problems/"
+    },
+    {
       "id": "144",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -103,40 +135,8 @@
         }
       ],
       "publishedAt": "2025-11-01T06:00:00.000Z",
-      "ranking": 7.200000000000001,
+      "ranking": 6.025996887751862,
       "articleUrl": "https://venturebeat.com/ai/large-reasoning-models-almost-certainly-can-think"
-    },
-    {
-      "id": "141",
-      "topic": "Learning",
-      "source": "Marktechpost AI",
-      "shortTitle": "AI Reasoning Boost",
-      "mediumTitle": "New AI Training for LLM Reasoning",
-      "longTitle": "Google AI and UCLA Introduce SRL for Enhanced LLM Reasoning",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google AI, in collaboration with UCLA",
-            "researchers, has introduced a novel",
-            "training framework called Supervised",
-            "Reinforcement Learning (SRL).",
-            "This framework aims to enable smaller",
-            "language models (LLMs), specifically",
-            "those around the 7 billion parameter",
-            "scale, to learn to reason through",
-            "complex problems, even those they",
-            "currently struggle with.",
-            "Instead of just providing a final",
-            "correct answer, the framework guides the",
-            "model through the intermediate steps of",
-            "solving a problem, as demonstrated by an",
-            "expert."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-01T03:58:55.000Z",
-      "ranking": 6.598158262757831,
-      "articleUrl": "https://www.marktechpost.com/2025/10/31/google-ai-unveils-supervised-reinforcement-learning-srl-a-step-wise-framework-with-expert-trajectories-to-teach-small-language-models-to-reason-through-hard-problems/"
     },
     {
       "id": "140",
@@ -169,7 +169,7 @@
         }
       ],
       "publishedAt": "2025-10-31T14:31:03.000Z",
-      "ranking": 5.194962052295768,
+      "ranking": 4.64649377499966,
       "articleUrl": "https://www.theverge.com/news/811602/adobe-max-2025-sneaks-projects"
     },
     {
@@ -206,7 +206,7 @@
         }
       ],
       "publishedAt": "2025-10-31T09:08:18.000Z",
-      "ranking": 4.684950695967935,
+      "ranking": 4.061766040280126,
       "articleUrl": "https://www.marktechpost.com/2025/10/31/openai-releases-research-preview-of-gpt-oss-safeguard-two-open-weight-reasoning-models-for-safety-classification-tasks/"
     },
     {
@@ -241,7 +241,7 @@
         }
       ],
       "publishedAt": "2025-10-31T10:23:18.000Z",
-      "ranking": 4.570210136982187,
+      "ranking": 3.9643879251787526,
       "articleUrl": "https://www.theverge.com/news/811340/perplexity-ai-patent-research-tool"
     },
     {
@@ -274,7 +274,7 @@
         }
       ],
       "publishedAt": "2025-10-31T05:00:00.000Z",
-      "ranking": 4.380938637502743,
+      "ranking": 3.7002727251841474,
       "articleUrl": "https://venturebeat.com/ai/inside-celosphere-2025-why-theres-no-enterprise-ai-without-process"
     },
     {
@@ -308,7 +308,7 @@
         }
       ],
       "publishedAt": "2025-10-31T05:27:43.000Z",
-      "ranking": 3.739294729235015,
+      "ranking": 3.0650452031755178,
       "articleUrl": "https://www.marktechpost.com/2025/10/30/how-to-design-an-autonomous-multi-agent-data-and-infrastructure-strategy-system-using-lightweight-qwen-models-for-efficient-pipeline-intelligence/"
     },
     {
@@ -341,7 +341,7 @@
         }
       ],
       "publishedAt": "2025-10-31T08:16:01.000Z",
-      "ranking": 3.6730531769175467,
+      "ranking": 3.03776496979065,
       "articleUrl": "https://www.theverge.com/news/811241/sora-pay-for-extra-video-gens"
     },
     {
@@ -375,7 +375,7 @@
         }
       ],
       "publishedAt": "2025-10-30T21:39:40.000Z",
-      "ranking": 2.910497503086443,
+      "ranking": 2.1278947603409994,
       "articleUrl": "https://www.marktechpost.com/2025/10/30/ant-group-releases-ling-2-0-a-reasoning-first-moe-language-model-series-built-on-the-principle-that-each-activation-enhances-reasoning-capability/"
     },
     {
@@ -412,8 +412,41 @@
         }
       ],
       "publishedAt": "2025-10-30T12:53:23.000Z",
-      "ranking": 1.3950605446266957,
+      "ranking": 0.49062361415862554,
       "articleUrl": "https://www.theverge.com/report/810083/ai-browser-cybersecurity-problems"
+    },
+    {
+      "id": "127",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Canva OS Launch",
+      "mediumTitle": "Canva Rebrands as Creative OS",
+      "longTitle": "Canva Launches Creative Operating System with AI and Marketing Tools",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Canva has launched a significant",
+            "overhaul of its design platform,",
+            "rebranding it as a \u0022Creative Operating",
+            "System\u0022 and introducing new digital",
+            "marketing and video-editing tools.",
+            "At the core of these advancements is",
+            "what Canva claims to be a \u0022world-first\u0022",
+            "design-focused AI model.",
+            "This initiative aims to transform Canva",
+            "into a comprehensive workspace",
+            "specifically tailored for marketing",
+            "teams.",
+            "The \u0022design-focused\u0022 AI model is",
+            "specifically trained to understand and",
+            "assist with design principles,",
+            "aesthetics, and visual content creation."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-30T14:59:26.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch"
     },
     {
       "id": "128",
@@ -448,74 +481,8 @@
         }
       ],
       "publishedAt": "2025-10-30T13:00:00.000Z",
-      "ranking": 0.900158837043266,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/809326/pinterest-ai-shopping-assistant-ceo-ready"
-    },
-    {
-      "id": "127",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Canva OS Launch",
-      "mediumTitle": "Canva Rebrands as Creative OS",
-      "longTitle": "Canva Launches Creative Operating System with AI and Marketing Tools",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Canva has launched a significant",
-            "overhaul of its design platform,",
-            "rebranding it as a \u0022Creative Operating",
-            "System\u0022 and introducing new digital",
-            "marketing and video-editing tools.",
-            "At the core of these advancements is",
-            "what Canva claims to be a \u0022world-first\u0022",
-            "design-focused AI model.",
-            "This initiative aims to transform Canva",
-            "into a comprehensive workspace",
-            "specifically tailored for marketing",
-            "teams.",
-            "The \u0022design-focused\u0022 AI model is",
-            "specifically trained to understand and",
-            "assist with design principles,",
-            "aesthetics, and visual content creation."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-30T14:59:26.000Z",
-      "ranking": 0.5433242179317368,
-      "articleUrl": "https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch"
-    },
-    {
-      "id": "124",
-      "topic": "Music",
-      "source": "The Verge AI",
-      "shortTitle": "UMG \u0026 Udio AI Deal",
-      "mediumTitle": "UMG Licenses Music Catalog to Udio",
-      "longTitle": "Universal Music Group Partners with AI Startup Udio, Settles Copyright Litigation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Universal Music Group (UMG) has entered",
-            "into a significant partnership with AI",
-            "music startup Udio, settling ongoing",
-            "copyright infringement litigation and",
-            "securing a license for UMG\u0027s extensive",
-            "music catalog to be used on Udio\u0027s new",
-            "AI-powered platform.",
-            "As the music industry continues to adapt",
-            "to the rapid advancements in AI",
-            "technology, this partnership between",
-            "Universal Music Group and Udio",
-            "represents a significant step towards",
-            "establishing a more stable and",
-            "predictable environment for both",
-            "innovation and intellectual property",
-            "protection."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-30T10:02:23.000Z",
-      "ranking": 0.41958803637260367,
-      "articleUrl": "https://www.theverge.com/news/809882/universal-music-udio-settlement"
     },
     {
       "id": "130",
@@ -547,8 +514,41 @@
         }
       ],
       "publishedAt": "2025-10-30T12:37:41.000Z",
-      "ranking": 0.3177920803455887,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/policy/809914/trump-white-house-ballroom-3d-model-ai"
+    },
+    {
+      "id": "124",
+      "topic": "Music",
+      "source": "The Verge AI",
+      "shortTitle": "UMG \u0026 Udio AI Deal",
+      "mediumTitle": "UMG Licenses Music Catalog to Udio",
+      "longTitle": "Universal Music Group Partners with AI Startup Udio, Settles Copyright Litigation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Universal Music Group (UMG) has entered",
+            "into a significant partnership with AI",
+            "music startup Udio, settling ongoing",
+            "copyright infringement litigation and",
+            "securing a license for UMG\u0027s extensive",
+            "music catalog to be used on Udio\u0027s new",
+            "AI-powered platform.",
+            "As the music industry continues to adapt",
+            "to the rapid advancements in AI",
+            "technology, this partnership between",
+            "Universal Music Group and Udio",
+            "represents a significant step towards",
+            "establishing a more stable and",
+            "predictable environment for both",
+            "innovation and intellectual property",
+            "protection."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-30T10:02:23.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/809882/universal-music-udio-settlement"
     },
     {
       "id": "125",
