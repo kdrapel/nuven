@@ -73,38 +73,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/01/how-to-build-an-end-to-end-data-engineering-and-machine-learning-pipeline-with-apache-spark-and-pyspark/"
     },
     {
-      "id": "141",
-      "topic": "Learning",
-      "source": "Marktechpost AI",
-      "shortTitle": "AI Reasoning Boost",
-      "mediumTitle": "New AI Training for LLM Reasoning",
-      "longTitle": "Google AI and UCLA Introduce SRL for Enhanced LLM Reasoning",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google AI, in collaboration with UCLA",
-            "researchers, has introduced a novel",
-            "training framework called Supervised",
-            "Reinforcement Learning (SRL).",
-            "This framework aims to enable smaller",
-            "language models (LLMs), specifically",
-            "those around the 7 billion parameter",
-            "scale, to learn to reason through",
-            "complex problems, even those they",
-            "currently struggle with.",
-            "Instead of just providing a final",
-            "correct answer, the framework guides the",
-            "model through the intermediate steps of",
-            "solving a problem, as demonstrated by an",
-            "expert."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-01T03:58:55.000Z",
-      "ranking": 7.599999999999999,
-      "articleUrl": "https://www.marktechpost.com/2025/10/31/google-ai-unveils-supervised-reinforcement-learning-srl-a-step-wise-framework-with-expert-trajectories-to-teach-small-language-models-to-reason-through-hard-problems/"
-    },
-    {
       "id": "144",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -139,6 +107,38 @@
       "articleUrl": "https://venturebeat.com/ai/large-reasoning-models-almost-certainly-can-think"
     },
     {
+      "id": "141",
+      "topic": "Learning",
+      "source": "Marktechpost AI",
+      "shortTitle": "AI Reasoning Boost",
+      "mediumTitle": "New AI Training for LLM Reasoning",
+      "longTitle": "Google AI and UCLA Introduce SRL for Enhanced LLM Reasoning",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google AI, in collaboration with UCLA",
+            "researchers, has introduced a novel",
+            "training framework called Supervised",
+            "Reinforcement Learning (SRL).",
+            "This framework aims to enable smaller",
+            "language models (LLMs), specifically",
+            "those around the 7 billion parameter",
+            "scale, to learn to reason through",
+            "complex problems, even those they",
+            "currently struggle with.",
+            "Instead of just providing a final",
+            "correct answer, the framework guides the",
+            "model through the intermediate steps of",
+            "solving a problem, as demonstrated by an",
+            "expert."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-01T03:58:55.000Z",
+      "ranking": 6.598158262757831,
+      "articleUrl": "https://www.marktechpost.com/2025/10/31/google-ai-unveils-supervised-reinforcement-learning-srl-a-step-wise-framework-with-expert-trajectories-to-teach-small-language-models-to-reason-through-hard-problems/"
+    },
+    {
       "id": "140",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -169,7 +169,7 @@
         }
       ],
       "publishedAt": "2025-10-31T14:31:03.000Z",
-      "ranking": 5.68756813117047,
+      "ranking": 5.194962052295768,
       "articleUrl": "https://www.theverge.com/news/811602/adobe-max-2025-sneaks-projects"
     },
     {
@@ -206,7 +206,7 @@
         }
       ],
       "publishedAt": "2025-10-31T09:08:18.000Z",
-      "ranking": 5.252225264773234,
+      "ranking": 4.684950695967935,
       "articleUrl": "https://www.marktechpost.com/2025/10/31/openai-releases-research-preview-of-gpt-oss-safeguard-two-open-weight-reasoning-models-for-safety-classification-tasks/"
     },
     {
@@ -241,7 +241,7 @@
         }
       ],
       "publishedAt": "2025-10-31T10:23:18.000Z",
-      "ranking": 5.1201334021712235,
+      "ranking": 4.570210136982187,
       "articleUrl": "https://www.theverge.com/news/811340/perplexity-ai-patent-research-tool"
     },
     {
@@ -274,7 +274,7 @@
         }
       ],
       "publishedAt": "2025-10-31T05:00:00.000Z",
-      "ranking": 5.005657638150524,
+      "ranking": 4.380938637502743,
       "articleUrl": "https://venturebeat.com/ai/inside-celosphere-2025-why-theres-no-enterprise-ai-without-process"
     },
     {
@@ -308,7 +308,7 @@
         }
       ],
       "publishedAt": "2025-10-31T05:27:43.000Z",
-      "ranking": 4.3576014571802135,
+      "ranking": 3.739294729235015,
       "articleUrl": "https://www.marktechpost.com/2025/10/30/how-to-design-an-autonomous-multi-agent-data-and-infrastructure-strategy-system-using-lightweight-qwen-models-for-efficient-pipeline-intelligence/"
     },
     {
@@ -341,7 +341,7 @@
         }
       ],
       "publishedAt": "2025-10-31T08:16:01.000Z",
-      "ranking": 4.252423557564897,
+      "ranking": 3.6730531769175467,
       "articleUrl": "https://www.theverge.com/news/811241/sora-pay-for-extra-video-gens"
     },
     {
@@ -375,7 +375,7 @@
         }
       ],
       "publishedAt": "2025-10-30T21:39:40.000Z",
-      "ranking": 3.6370880055578922,
+      "ranking": 2.910497503086443,
       "articleUrl": "https://www.marktechpost.com/2025/10/30/ant-group-releases-ling-2-0-a-reasoning-first-moe-language-model-series-built-on-the-principle-that-each-activation-enhances-reasoning-capability/"
     },
     {
@@ -412,7 +412,7 @@
         }
       ],
       "publishedAt": "2025-10-30T12:53:23.000Z",
-      "ranking": 2.243407151808336,
+      "ranking": 1.3950605446266957,
       "articleUrl": "https://www.theverge.com/report/810083/ai-browser-cybersecurity-problems"
     },
     {
@@ -448,7 +448,7 @@
         }
       ],
       "publishedAt": "2025-10-30T13:00:00.000Z",
-      "ranking": 1.7469746750174018,
+      "ranking": 0.900158837043266,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/809326/pinterest-ai-shopping-assistant-ceo-ready"
     },
     {
@@ -481,7 +481,7 @@
         }
       ],
       "publishedAt": "2025-10-30T14:59:26.000Z",
-      "ranking": 1.3625091127103541,
+      "ranking": 0.5433242179317368,
       "articleUrl": "https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch"
     },
     {
@@ -514,7 +514,7 @@
         }
       ],
       "publishedAt": "2025-10-30T10:02:23.000Z",
-      "ranking": 1.307495710056445,
+      "ranking": 0.41958803637260367,
       "articleUrl": "https://www.theverge.com/news/809882/universal-music-udio-settlement"
     },
     {
@@ -547,7 +547,7 @@
         }
       ],
       "publishedAt": "2025-10-30T12:37:41.000Z",
-      "ranking": 1.1697709677812282,
+      "ranking": 0.3177920803455887,
       "articleUrl": "https://www.theverge.com/policy/809914/trump-white-house-ballroom-3d-model-ai"
     },
     {
@@ -582,7 +582,7 @@
         }
       ],
       "publishedAt": "2025-10-30T09:20:45.000Z",
-      "ranking": 0.8126150795005698,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/809877/openai-sora-app-character-cameo-updates"
     },
     {
@@ -616,7 +616,7 @@
         }
       ],
       "publishedAt": "2025-10-30T05:10:58.000Z",
-      "ranking": 0.2392660852805344,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/10/29/ibm-ai-team-releases-granite-4-0-nano-series-compact-and-open-source-small-models-built-for-ai-at-the-edge/"
     },
     {
@@ -1254,42 +1254,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/10/28/liquid-ai-releases-lfm2-colbert-350m-a-new-small-model-that-brings-late-interaction-retrieval-to-multilingual-and-cross-lingual-rag/"
     },
     {
-      "id": "116",
-      "topic": "Context Eng.",
-      "source": "VentureBeat AI",
-      "shortTitle": "Agentic AI Context",
-      "mediumTitle": "Context Engineering for Agentic AI",
-      "longTitle": "Context Engineering is Key to Agentic AI Success",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Agentic AI systems autonomously gather",
-            "tools, data, and information to provide",
-            "answers, but their reliability depends",
-            "on accurate context.",
-            "Context engineering ensures relevant",
-            "context is delivered to AI agents at the",
-            "opportune moment, guiding LLMs to use",
-            "appropriate tools.",
-            "The article introduces Elasticsearch\u0027s",
-            "new feature, Agent Builder, designed to",
-            "streamline the entire operational",
-            "lifecycle of agents.",
-            "Agent Builder enables the creation of",
-            "MCP tools that leverage private data",
-            "through methods like Elasticsearch Query",
-            "Language or workflow modeling.",
-            "Elasticsearch is identified as a leading",
-            "platform for the foundational aspects of",
-            "context engineering."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T05:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/agentic-ai-is-all-about-the-context-engineering-that-is"
-    },
-    {
       "id": "119",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -1324,6 +1288,42 @@
       "publishedAt": "2025-10-29T05:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/from-static-classifiers-to-reasoning-engines-openais-new-model-rethinks"
+    },
+    {
+      "id": "116",
+      "topic": "Context Eng.",
+      "source": "VentureBeat AI",
+      "shortTitle": "Agentic AI Context",
+      "mediumTitle": "Context Engineering for Agentic AI",
+      "longTitle": "Context Engineering is Key to Agentic AI Success",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Agentic AI systems autonomously gather",
+            "tools, data, and information to provide",
+            "answers, but their reliability depends",
+            "on accurate context.",
+            "Context engineering ensures relevant",
+            "context is delivered to AI agents at the",
+            "opportune moment, guiding LLMs to use",
+            "appropriate tools.",
+            "The article introduces Elasticsearch\u0027s",
+            "new feature, Agent Builder, designed to",
+            "streamline the entire operational",
+            "lifecycle of agents.",
+            "Agent Builder enables the creation of",
+            "MCP tools that leverage private data",
+            "through methods like Elasticsearch Query",
+            "Language or workflow modeling.",
+            "Elasticsearch is identified as a leading",
+            "platform for the foundational aspects of",
+            "context engineering."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T05:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/agentic-ai-is-all-about-the-context-engineering-that-is"
     },
     {
       "id": "122",
