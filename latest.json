@@ -34,6 +34,38 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/02/longcat-flash-omni-a-sota-open-source-omni-modal-model-with-560b-parameters-with-27b-activated-excelling-at-real-time-audio-visual-interaction/"
     },
     {
+      "id": "147",
+      "topic": "Hardware",
+      "source": "VentureBeat AI",
+      "shortTitle": "New CPU Model",
+      "mediumTitle": "Deterministic CPU Execution Model",
+      "longTitle": "Deterministic, Time-Based CPU Execution Model Challenges Speculation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This novel approach, detailed in a",
+            "series of U.S. patents, fundamentally",
+            "alters instruction execution by",
+            "replacing speculative guesswork with a",
+            "time-based, latency-tolerant mechanism.",
+            "The architecture integrates a time",
+            "counter and register scoreboard between",
+            "fetch/decode and execution units,",
+            "utilizing a Time Resource Matrix (TRM)",
+            "for scheduling based on operand",
+            "readiness and resource availability.",
+            "For over three decades, modern CPUs have",
+            "utilized speculative execution to",
+            "maintain pipeline efficiency by",
+            "predicting instruction outcomes."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-02T06:00:00.000Z",
+      "ranking": 8.251724137931035,
+      "articleUrl": "https://venturebeat.com/ai/moving-past-speculation-how-deterministic-cpus-deliver-predictable-ai"
+    },
+    {
       "id": "142",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -65,7 +97,7 @@
         }
       ],
       "publishedAt": "2025-11-01T10:10:11.000Z",
-      "ranking": 6.348679729070593,
+      "ranking": 5.850849692897935,
       "articleUrl": "https://www.marktechpost.com/2025/11/01/anthropics-new-research-shows-claude-can-detect-injected-concepts-but-only-in-controlled-layers/"
     },
     {
@@ -102,7 +134,7 @@
         }
       ],
       "publishedAt": "2025-11-01T08:11:01.000Z",
-      "ranking": 5.625970268523828,
+      "ranking": 5.100550027151771,
       "articleUrl": "https://www.marktechpost.com/2025/11/01/how-to-build-an-end-to-end-data-engineering-and-machine-learning-pipeline-with-apache-spark-and-pyspark/"
     },
     {
@@ -134,7 +166,7 @@
         }
       ],
       "publishedAt": "2025-11-01T03:58:55.000Z",
-      "ranking": 4.818855010519483,
+      "ranking": 4.235067022115492,
       "articleUrl": "https://www.marktechpost.com/2025/10/31/google-ai-unveils-supervised-reinforcement-learning-srl-a-step-wise-framework-with-expert-trajectories-to-teach-small-language-models-to-reason-through-hard-problems/"
     },
     {
@@ -168,7 +200,7 @@
         }
       ],
       "publishedAt": "2025-11-01T06:00:00.000Z",
-      "ranking": 4.69223993088425,
+      "ranking": 4.1364858983474235,
       "articleUrl": "https://venturebeat.com/ai/large-reasoning-models-almost-certainly-can-think"
     },
     {
@@ -202,7 +234,7 @@
         }
       ],
       "publishedAt": "2025-10-31T14:31:03.000Z",
-      "ranking": 2.667533773764574,
+      "ranking": 1.896703507167505,
       "articleUrl": "https://www.theverge.com/news/811602/adobe-max-2025-sneaks-projects"
     },
     {
@@ -239,7 +271,7 @@
         }
       ],
       "publishedAt": "2025-10-31T09:08:18.000Z",
-      "ranking": 1.858639742853451,
+      "ranking": 1.0130843910358012,
       "articleUrl": "https://www.marktechpost.com/2025/10/31/openai-releases-research-preview-of-gpt-oss-safeguard-two-open-weight-reasoning-models-for-safety-classification-tasks/"
     },
     {
@@ -274,7 +306,7 @@
         }
       ],
       "publishedAt": "2025-10-31T10:23:18.000Z",
-      "ranking": 1.813352947618096,
+      "ranking": 0.9851620552421423,
       "articleUrl": "https://www.theverge.com/news/811340/perplexity-ai-patent-research-tool"
     },
     {
@@ -307,7 +339,7 @@
         }
       ],
       "publishedAt": "2025-10-31T05:00:00.000Z",
-      "ranking": 1.3246894495199895,
+      "ranking": 0.42164614387866983,
       "articleUrl": "https://venturebeat.com/ai/inside-celosphere-2025-why-theres-no-enterprise-ai-without-process"
     },
     {
@@ -340,7 +372,7 @@
         }
       ],
       "publishedAt": "2025-10-31T08:16:01.000Z",
-      "ranking": 0.7983252510678414,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/811241/sora-pay-for-extra-video-gens"
     },
     {
@@ -374,7 +406,7 @@
         }
       ],
       "publishedAt": "2025-10-31T05:27:43.000Z",
-      "ranking": 0.7087125557554055,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/10/30/how-to-design-an-autonomous-multi-agent-data-and-infrastructure-strategy-system-using-lightweight-qwen-models-for-efficient-pipeline-intelligence/"
     },
     {
@@ -1287,42 +1319,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/10/28/liquid-ai-releases-lfm2-colbert-350m-a-new-small-model-that-brings-late-interaction-retrieval-to-multilingual-and-cross-lingual-rag/"
     },
     {
-      "id": "119",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "OpenAI Safety Models",
-      "mediumTitle": "OpenAI Releases Open-Weight Safety Models",
-      "longTitle": "OpenAI Unveils Open-Weight Safety Models for Dynamic Content Moderation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has released two open-weight",
-            "models, gpt-oss-safeguard-120b and",
-            "gpt-oss-safeguard-20b, under a",
-            "permissive Apache 2.0 license.",
-            "OpenAI\u0027s new models aim to overcome this",
-            "limitation by using reasoning",
-            "capabilities to interpret",
-            "developer-provided policies directly at",
-            "inference time.",
-            "This dynamic policy application means",
-            "policies can be applied and revised",
-            "without retraining the model, which is",
-            "particularly beneficial for evolving",
-            "harms or nuanced domains.",
-            "These models are fine-tuned versions of",
-            "OpenAI\u0027s earlier gpt-oss models and are",
-            "designed to offer a more flexible",
-            "approach to content moderation and AI",
-            "safety for enterprises."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T05:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/from-static-classifiers-to-reasoning-engines-openais-new-model-rethinks"
-    },
-    {
       "id": "116",
       "topic": "Context Eng.",
       "source": "VentureBeat AI",
@@ -1357,6 +1353,42 @@
       "publishedAt": "2025-10-29T05:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/agentic-ai-is-all-about-the-context-engineering-that-is"
+    },
+    {
+      "id": "119",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "OpenAI Safety Models",
+      "mediumTitle": "OpenAI Releases Open-Weight Safety Models",
+      "longTitle": "OpenAI Unveils Open-Weight Safety Models for Dynamic Content Moderation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has released two open-weight",
+            "models, gpt-oss-safeguard-120b and",
+            "gpt-oss-safeguard-20b, under a",
+            "permissive Apache 2.0 license.",
+            "OpenAI\u0027s new models aim to overcome this",
+            "limitation by using reasoning",
+            "capabilities to interpret",
+            "developer-provided policies directly at",
+            "inference time.",
+            "This dynamic policy application means",
+            "policies can be applied and revised",
+            "without retraining the model, which is",
+            "particularly beneficial for evolving",
+            "harms or nuanced domains.",
+            "These models are fine-tuned versions of",
+            "OpenAI\u0027s earlier gpt-oss models and are",
+            "designed to offer a more flexible",
+            "approach to content moderation and AI",
+            "safety for enterprises."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T05:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/from-static-classifiers-to-reasoning-engines-openais-new-model-rethinks"
     },
     {
       "id": "122",
@@ -1610,41 +1642,6 @@
       "publishedAt": "2025-10-28T13:30:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in"
-    },
-    {
-      "id": "97",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "ChatGPT PayPal",
-      "mediumTitle": "ChatGPT to Accept PayPal Payments",
-      "longTitle": "ChatGPT to Integrate PayPal for Seamless Service Payments",
-      "paragraphs": [
-        {
-          "Lines": [
-            "ChatGPT will soon allow users to pay for",
-            "services and features using their PayPal",
-            "accounts.",
-            "PayPal announced that starting in 2026,",
-            "users will have the option to integrate",
-            "their PayPal wallet for direct purchases",
-            "within the ChatGPT interface.",
-            "This integration will leverage ChatGPT\u0027s",
-            "recently introduced Instant Checkout",
-            "feature, allowing for a seamless payment",
-            "experience familiar to users who already",
-            "utilize PayPal for online transactions.",
-            "The announcement signifies a move",
-            "towards greater convenience and",
-            "accessibility for ChatGPT users.",
-            "It offers a trusted and widely adopted",
-            "payment method directly within the AI",
-            "chatbot interface."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T13:13:25.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/808079/chatgpt-paypal-openai-acp-purchases"
     }
   ]
 }
