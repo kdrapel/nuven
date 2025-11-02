@@ -149,7 +149,7 @@ class SettingsActivity : AppCompatActivity() {
             <br/><br/>
             Articles are fetched and curated from public RSS feeds and web sources.<br/>
             All content belongs to their respective publishers.<br/>
-            Data repository: <a href="https://github.com/kdrapel/nuven">https://github.com/kdrapel/nuven</a>
+            Data repository: <a href="${AppConfig.githubRepoUrl}">${AppConfig.githubRepoUrl}</a>
         """.trimIndent()
         
         licensesTextView.text = Html.fromHtml(licensesText, Html.FROM_HTML_MODE_COMPACT)

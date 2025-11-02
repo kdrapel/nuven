@@ -23,7 +23,6 @@ sealed class LoadResult {
 object DataManager {
 
     private const val TAG = "DataManager"
-    private const val DATA_URL = "https://raw.githubusercontent.com/kdrapel/nuven/refs/heads/main/latest.json"
 
     private val _loadState = MutableLiveData<LoadResult>()
     val loadState: LiveData<LoadResult> = _loadState
@@ -82,7 +81,7 @@ object DataManager {
     }
 
     private fun downloadAndHash(): Triple<String, String, String> {
-        val url = URL(DATA_URL)
+        val url = URL(AppConfig.dataUrl)
         val connection = url.openConnection() as HttpURLConnection
         val content = StringBuilder()
         try {
@@ -98,8 +97,7 @@ object DataManager {
         val hash = contentString.toSha256()
 
         // Fetch commit date
-        val apiUrl = "https://api.github.com/repos/kdrapel/nuven/commits?path=latest.json&page=1&per_page=1"
-        val apiConnection = URL(apiUrl).openConnection() as HttpURLConnection
+        val apiConnection = URL(AppConfig.githubCommitsApiUrl).openConnection() as HttpURLConnection
         var lastUpdated = ""
         try {
             apiConnection.connect()

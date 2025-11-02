@@ -16,6 +16,12 @@ android {
         versionName "1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        
+        // Application configuration
+        buildConfigField "String", "DATA_URL", '"https://raw.githubusercontent.com/kdrapel/nuven/refs/heads/main/latest.json"'
+        buildConfigField "String", "GITHUB_REPO", '"kdrapel/nuven"'
+        buildConfigField "String", "GITHUB_API_BASE", '"https://api.github.com"'
+        buildConfigField "String", "DATA_FILE_PATH", '"latest.json"'
     }
 
     buildTypes {
@@ -33,6 +39,7 @@ android {
     }
     buildFeatures {
         viewBinding true
+        buildConfig true
     }
 }
 
