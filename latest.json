@@ -62,7 +62,7 @@
         }
       ],
       "publishedAt": "2025-11-02T06:00:00.000Z",
-      "ranking": 6.6886511829336355,
+      "ranking": 6.244036834539896,
       "articleUrl": "https://venturebeat.com/ai/moving-past-speculation-how-deterministic-cpus-deliver-predictable-ai"
     },
     {
@@ -97,7 +97,7 @@
         }
       ],
       "publishedAt": "2025-11-01T10:10:11.000Z",
-      "ranking": 4.024549838876067,
+      "ranking": 3.304460431082224,
       "articleUrl": "https://www.marktechpost.com/2025/11/01/anthropics-new-research-shows-claude-can-detect-injected-concepts-but-only-in-controlled-layers/"
     },
     {
@@ -134,40 +134,8 @@
         }
       ],
       "publishedAt": "2025-11-01T08:11:01.000Z",
-      "ranking": 3.1915055694205012,
+      "ranking": 2.4438258230280097,
       "articleUrl": "https://www.marktechpost.com/2025/11/01/how-to-build-an-end-to-end-data-engineering-and-machine-learning-pipeline-with-apache-spark-and-pyspark/"
-    },
-    {
-      "id": "141",
-      "topic": "Learning",
-      "source": "Marktechpost AI",
-      "shortTitle": "AI Reasoning Boost",
-      "mediumTitle": "New AI Training for LLM Reasoning",
-      "longTitle": "Google AI and UCLA Introduce SRL for Enhanced LLM Reasoning",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google AI, in collaboration with UCLA",
-            "researchers, has introduced a novel",
-            "training framework called Supervised",
-            "Reinforcement Learning (SRL).",
-            "This framework aims to enable smaller",
-            "language models (LLMs), specifically",
-            "those around the 7 billion parameter",
-            "scale, to learn to reason through",
-            "complex problems, even those they",
-            "currently struggle with.",
-            "Instead of just providing a final",
-            "correct answer, the framework guides the",
-            "model through the intermediate steps of",
-            "solving a problem, as demonstrated by an",
-            "expert."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-01T03:58:55.000Z",
-      "ranking": 2.150974320517771,
-      "articleUrl": "https://www.marktechpost.com/2025/10/31/google-ai-unveils-supervised-reinforcement-learning-srl-a-step-wise-framework-with-expert-trajectories-to-teach-small-language-models-to-reason-through-hard-problems/"
     },
     {
       "id": "144",
@@ -200,8 +168,40 @@
         }
       ],
       "publishedAt": "2025-11-01T06:00:00.000Z",
-      "ranking": 2.1364686625936695,
+      "ranking": 1.3584549880772983,
       "articleUrl": "https://venturebeat.com/ai/large-reasoning-models-almost-certainly-can-think"
+    },
+    {
+      "id": "141",
+      "topic": "Learning",
+      "source": "Marktechpost AI",
+      "shortTitle": "AI Reasoning Boost",
+      "mediumTitle": "New AI Training for LLM Reasoning",
+      "longTitle": "Google AI and UCLA Introduce SRL for Enhanced LLM Reasoning",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google AI, in collaboration with UCLA",
+            "researchers, has introduced a novel",
+            "training framework called Supervised",
+            "Reinforcement Learning (SRL).",
+            "This framework aims to enable smaller",
+            "language models (LLMs), specifically",
+            "those around the 7 billion parameter",
+            "scale, to learn to reason through",
+            "complex problems, even those they",
+            "currently struggle with.",
+            "Instead of just providing a final",
+            "correct answer, the framework guides the",
+            "model through the intermediate steps of",
+            "solving a problem, as demonstrated by an",
+            "expert."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-01T03:58:55.000Z",
+      "ranking": 1.3449265287704435,
+      "articleUrl": "https://www.marktechpost.com/2025/10/31/google-ai-unveils-supervised-reinforcement-learning-srl-a-step-wise-framework-with-expert-trajectories-to-teach-small-language-models-to-reason-through-hard-problems/"
     },
     {
       "id": "140",
@@ -1532,79 +1532,6 @@
       "publishedAt": "2025-10-28T21:30:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/microsofts-copilot-can-now-build-apps-and-automate-your-job-heres-how-it"
-    },
-    {
-      "id": "101",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "Teen AI Ban",
-      "mediumTitle": "New Bill to Limit Teen AI Access",
-      "longTitle": "Proposed Legislation Aims to Restrict Teenagers\u0027 Access to AI Chatbots",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Senators Josh Hawley (R-MO) and Richard",
-            "Blumenthal (D-CT) have introduced the",
-            "proposed GUARD Act, which aims to",
-            "restrict teenagers\u0027 access to AI",
-            "chatbots.",
-            "Furthermore, the bill explicitly",
-            "prohibits individuals under the age of",
-            "18 from accessing these AI chatbots.",
-            "The legislation would mandate that AI",
-            "companies implement age verification",
-            "processes for all users of their chatbot",
-            "services.",
-            "The bill\u0027s introduction signifies a",
-            "proactive step by lawmakers to address",
-            "perceived risks associated with AI",
-            "chatbot usage by adolescents.",
-            "This legislative proposal comes at a",
-            "time when concerns about the potential",
-            "impact of AI on young people are",
-            "growing."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T19:42:04.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban"
-    },
-    {
-      "id": "96",
-      "topic": "Dev Tools",
-      "source": "VentureBeat AI",
-      "shortTitle": "GitHub Agent HQ",
-      "mediumTitle": "GitHub Agent HQ: AI Agent Management",
-      "longTitle": "GitHub Agent HQ: Unified AI Agent Orchestration and Management",
-      "paragraphs": [
-        {
-          "Lines": [
-            "GitHub\u0027s Agent HQ is a new architecture",
-            "designed to address the growing",
-            "challenge enterprises face with managing",
-            "multiple AI coding agents.",
-            "Instead of offering another proprietary",
-            "agent, GitHub is positioning itself as a",
-            "central control plane, enabling",
-            "developers to orchestrate and manage",
-            "agents from various providers like",
-            "Anthropic, OpenAI, Google, Cognition,",
-            "and xAI within a unified platform.",
-            "Security is paramount, with agents",
-            "operating under strict controls, using",
-            "locked-down GitHub tokens, and confined",
-            "to designated branches within sandboxed",
-            "GitHub Actions environments with",
-            "firewall protections.",
-            "This prevents unauthorized access to",
-            "external networks or data exfiltration."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T17:10:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/githubs-agent-hq-aims-to-solve-enterprises-biggest-ai-coding-problem-too"
     }
   ]
 }
