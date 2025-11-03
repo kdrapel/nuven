@@ -97,7 +97,7 @@
         }
       ],
       "publishedAt": "2025-11-01T10:10:11.000Z",
-      "ranking": 5.850849692897935,
+      "ranking": 5.2978304743185145,
       "articleUrl": "https://www.marktechpost.com/2025/11/01/anthropics-new-research-shows-claude-can-detect-injected-concepts-but-only-in-controlled-layers/"
     },
     {
@@ -134,7 +134,7 @@
         }
       ],
       "publishedAt": "2025-11-01T08:11:01.000Z",
-      "ranking": 5.100550027151771,
+      "ranking": 4.519959025803175,
       "articleUrl": "https://www.marktechpost.com/2025/11/01/how-to-build-an-end-to-end-data-engineering-and-machine-learning-pipeline-with-apache-spark-and-pyspark/"
     },
     {
@@ -166,7 +166,7 @@
         }
       ],
       "publishedAt": "2025-11-01T03:58:55.000Z",
-      "ranking": 4.235067022115492,
+      "ranking": 3.596147228405039,
       "articleUrl": "https://www.marktechpost.com/2025/10/31/google-ai-unveils-supervised-reinforcement-learning-srl-a-step-wise-framework-with-expert-trajectories-to-teach-small-language-models-to-reason-through-hard-problems/"
     },
     {
@@ -200,7 +200,7 @@
         }
       ],
       "publishedAt": "2025-11-01T06:00:00.000Z",
-      "ranking": 4.1364858983474235,
+      "ranking": 3.5255813593182617,
       "articleUrl": "https://venturebeat.com/ai/large-reasoning-models-almost-certainly-can-think"
     },
     {
@@ -234,7 +234,7 @@
         }
       ],
       "publishedAt": "2025-10-31T14:31:03.000Z",
-      "ranking": 1.896703507167505,
+      "ranking": 1.0708662639334614,
       "articleUrl": "https://www.theverge.com/news/811602/adobe-max-2025-sneaks-projects"
     },
     {
@@ -271,7 +271,7 @@
         }
       ],
       "publishedAt": "2025-10-31T09:08:18.000Z",
-      "ranking": 1.0130843910358012,
+      "ranking": 0.11257195721162638,
       "articleUrl": "https://www.marktechpost.com/2025/10/31/openai-releases-research-preview-of-gpt-oss-safeguard-two-open-weight-reasoning-models-for-safety-classification-tasks/"
     },
     {
@@ -306,41 +306,8 @@
         }
       ],
       "publishedAt": "2025-10-31T10:23:18.000Z",
-      "ranking": 0.9851620552421423,
+      "ranking": 0.1020024995835973,
       "articleUrl": "https://www.theverge.com/news/811340/perplexity-ai-patent-research-tool"
-    },
-    {
-      "id": "136",
-      "topic": "Business",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Needs Process Intel",
-      "mediumTitle": "Celosphere 2025: AI\u0027s Process Intelligence Imperative",
-      "longTitle": "Celosphere 2025: Why Enterprise AI Requires Process Intelligence",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Ultimately, \u0027There is no AI without PI\u0027.",
-            "Celosphere 2025 highlights that",
-            "enterprise AI\u0027s effectiveness hinges on",
-            "process intelligence (PI) to understand",
-            "business operations and context,",
-            "enabling measurable ROI.",
-            "Rinke concludes that process",
-            "intelligence creates a virtuous cycle",
-            "where better understanding leads to",
-            "better optimization, which enables",
-            "better AI, driving further",
-            "understanding.",
-            "Process intelligence provides the",
-            "necessary \u0027rails\u0027 for these agents,",
-            "ensuring they can understand specific",
-            "business processes."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-31T05:00:00.000Z",
-      "ranking": 0.42164614387866983,
-      "articleUrl": "https://venturebeat.com/ai/inside-celosphere-2025-why-theres-no-enterprise-ai-without-process"
     },
     {
       "id": "139",
@@ -408,6 +375,39 @@
       "publishedAt": "2025-10-31T05:27:43.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/10/30/how-to-design-an-autonomous-multi-agent-data-and-infrastructure-strategy-system-using-lightweight-qwen-models-for-efficient-pipeline-intelligence/"
+    },
+    {
+      "id": "136",
+      "topic": "Business",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Needs Process Intel",
+      "mediumTitle": "Celosphere 2025: AI\u0027s Process Intelligence Imperative",
+      "longTitle": "Celosphere 2025: Why Enterprise AI Requires Process Intelligence",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Ultimately, \u0027There is no AI without PI\u0027.",
+            "Celosphere 2025 highlights that",
+            "enterprise AI\u0027s effectiveness hinges on",
+            "process intelligence (PI) to understand",
+            "business operations and context,",
+            "enabling measurable ROI.",
+            "Rinke concludes that process",
+            "intelligence creates a virtuous cycle",
+            "where better understanding leads to",
+            "better optimization, which enables",
+            "better AI, driving further",
+            "understanding.",
+            "Process intelligence provides the",
+            "necessary \u0027rails\u0027 for these agents,",
+            "ensuring they can understand specific",
+            "business processes."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-31T05:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/inside-celosphere-2025-why-theres-no-enterprise-ai-without-process"
     },
     {
       "id": "132",
@@ -1072,40 +1072,6 @@
       "articleUrl": "https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch"
     },
     {
-      "id": "110",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Chat Limits",
-      "mediumTitle": "Character.AI Restricts Under 18s",
-      "longTitle": "Character.AI Implements Age Restrictions for Underage Users",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Character.AI, a platform enabling",
-            "interaction with AI characters, is",
-            "implementing a new policy to restrict",
-            "access for users under the age of 18.",
-            "This initiative involves gradually",
-            "phasing out open-ended chats for minors",
-            "and introducing mechanisms to verify",
-            "user age.",
-            "Initially, users identified as under 18",
-            "will face a limitation of two hours per",
-            "day for engaging in \u0022open-ended chats\u0022",
-            "with the AI characters.",
-            "This daily time limit is set to",
-            "progressively decrease, ultimately",
-            "leading to a complete ban from these",
-            "types of interactions for underage",
-            "users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
-    },
-    {
       "id": "111",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -1141,6 +1107,40 @@
       "publishedAt": "2025-10-29T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates"
+    },
+    {
+      "id": "110",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Chat Limits",
+      "mediumTitle": "Character.AI Restricts Under 18s",
+      "longTitle": "Character.AI Implements Age Restrictions for Underage Users",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Character.AI, a platform enabling",
+            "interaction with AI characters, is",
+            "implementing a new policy to restrict",
+            "access for users under the age of 18.",
+            "This initiative involves gradually",
+            "phasing out open-ended chats for minors",
+            "and introducing mechanisms to verify",
+            "user age.",
+            "Initially, users identified as under 18",
+            "will face a limitation of two hours per",
+            "day for engaging in \u0022open-ended chats\u0022",
+            "with the AI characters.",
+            "This daily time limit is set to",
+            "progressively decrease, ultimately",
+            "leading to a complete ban from these",
+            "types of interactions for underage",
+            "users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
     },
     {
       "id": "112",
@@ -1605,43 +1605,6 @@
       "publishedAt": "2025-10-28T17:10:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/githubs-agent-hq-aims-to-solve-enterprises-biggest-ai-coding-problem-too"
-    },
-    {
-      "id": "88",
-      "topic": "Finance",
-      "source": "VentureBeat AI",
-      "shortTitle": "Intuit\u0027s AI Approach",
-      "mediumTitle": "Intuit\u0027s Trust-First AI Strategy",
-      "longTitle": "Intuit Prioritizes Trust and Usability in Financial AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Intuit\u0027s new QuickBooks release,",
-            "featuring Intuit Intelligence,",
-            "emphasizes a deliberate approach to",
-            "building financial AI, prioritizing",
-            "trust and usability over generative",
-            "capabilities.",
-            "The company learned that errors in",
-            "financial software significantly erode",
-            "customer trust, necessitating a cautious",
-            "AI deployment strategy.",
-            "Intuit aims to embed AI agents",
-            "seamlessly into natural customer",
-            "workflows, enabling them to perform",
-            "tasks without disrupting established",
-            "processes.",
-            "Intuit Intelligence\u0027s architecture",
-            "prioritizes querying verified financial",
-            "data over generating responses from",
-            "large language models to minimize",
-            "hallucination risks."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-28T13:30:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in"
     }
   ]
 }
