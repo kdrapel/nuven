@@ -1,6 +1,40 @@
 {
   "articles": [
     {
+      "id": "157",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Gemma Model Controversy",
+      "mediumTitle": "Google\u0027s Gemma Model Removed Amidst Controversy",
+      "longTitle": "Google\u0027s Gemma Model Removal Highlights AI Model Lifecycle Risks",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google removed its Gemma model from AI",
+            "Studio following a statement from",
+            "Senator Marsha Blackburn alleging that",
+            "the model \u0022willfully hallucinated",
+            "falsehoods\u0022 about her, fabricating",
+            "defamatory news stories.",
+            "The article stresses the importance for",
+            "enterprise developers to save their",
+            "projects locally or in a way that",
+            "ensures continuity, as AI models can be",
+            "removed from platforms due to technical",
+            "issues, political controversies, or",
+            "company decisions.",
+            "The controversy underscores the dangers",
+            "of relying on experimental AI models,",
+            "which can produce inaccurate or harmful",
+            "information."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-03T06:00:00.000Z",
+      "ranking": 8.113636363636363,
+      "articleUrl": "https://venturebeat.com/ai/developers-beware-googles-gemma-model-controversy-exposes-model-lifecycle"
+    },
+    {
       "id": "151",
       "topic": "Business",
       "source": "VentureBeat AI",
@@ -33,6 +67,43 @@
       "publishedAt": "2025-11-03T16:00:00.000Z",
       "ranking": 7.986666666666667,
       "articleUrl": "https://venturebeat.com/ai/strengthening-our-core-welcoming-karyne-levy-as-venturebeats-new-managing"
+    },
+    {
+      "id": "158",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT Policy False",
+      "mediumTitle": "OpenAI Denies ChatGPT Advice Ban",
+      "longTitle": "OpenAI Clarifies No New Policy Banning ChatGPT Legal/Health Advice",
+      "paragraphs": [
+        {
+          "Lines": [
+            "According to the article, OpenAI has",
+            "clarified that the chatbot\u0027s behavior",
+            "has not changed and these reports are",
+            "untrue.",
+            "Karan Singhal, OpenAI\u0027s head of health",
+            "AI, explicitly stated on X (formerly",
+            "Twitter) that the claims are \u0022not true.\u0022",
+            "The core message is that there has been",
+            "no recent policy update to restrict",
+            "ChatGPT\u0027s ability to discuss or provide",
+            "information related to legal or health",
+            "topics.",
+            "The article emphasizes that ChatGPT has",
+            "always been positioned as a tool that",
+            "should not be considered a substitute",
+            "for professional advice in any field.",
+            "A false claim circulating on social",
+            "media suggested OpenAI implemented a new",
+            "policy banning ChatGPT from providing",
+            "legal and health advice."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-03T18:20:38.000Z",
+      "ranking": 7.925000000000001,
+      "articleUrl": "https://www.theverge.com/news/812848/chatgpt-legal-medical-advice-rumor"
     },
     {
       "id": "150",
@@ -203,6 +274,39 @@
       "articleUrl": "https://www.theverge.com/news/812443/openai-amazon-38-billion-cloud-computing-ai"
     },
     {
+      "id": "156",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Denario AI Research",
+      "mediumTitle": "Denario: AI Research Assistant",
+      "longTitle": "Denario: AI System Conducts Autonomous Scientific Research",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Denario is an AI system developed by an",
+            "international team that functions as an",
+            "AI research assistant, capable of",
+            "autonomously conducting scientific",
+            "research across multiple disciplines.",
+            "The system can generate research ideas,",
+            "review literature, develop",
+            "methodologies, write and execute code,",
+            "create visualizations, and draft",
+            "academic papers, completing the process",
+            "in about 30 minutes for approximately",
+            "$4.",
+            "Notably, one AI-generated paper was",
+            "accepted for publication at the",
+            "Agents4Science 2025 conference, where AI",
+            "systems are the primary authors."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-03T10:40:00.000Z",
+      "ranking": 6.925,
+      "articleUrl": "https://venturebeat.com/ai/meet-denario-the-ai-research-assistant-that-is-already-getting-its-own"
+    },
+    {
       "id": "146",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -232,7 +336,7 @@
         }
       ],
       "publishedAt": "2025-11-02T16:44:14.000Z",
-      "ranking": 6.993600992102165,
+      "ranking": 6.587779008527809,
       "articleUrl": "https://www.marktechpost.com/2025/11/02/longcat-flash-omni-a-sota-open-source-omni-modal-model-with-560b-parameters-with-27b-activated-excelling-at-real-time-audio-visual-interaction/"
     },
     {
@@ -301,7 +405,7 @@
         }
       ],
       "publishedAt": "2025-11-02T06:00:00.000Z",
-      "ranking": 5.739876101663889,
+      "ranking": 5.1853107826823415,
       "articleUrl": "https://venturebeat.com/ai/moving-past-speculation-how-deterministic-cpus-deliver-predictable-ai"
     },
     {
@@ -336,7 +440,7 @@
         }
       ],
       "publishedAt": "2025-11-01T10:10:11.000Z",
-      "ranking": 2.5227547315548318,
+      "ranking": 1.6934794739364856,
       "articleUrl": "https://www.marktechpost.com/2025/11/01/anthropics-new-research-shows-claude-can-detect-injected-concepts-but-only-in-controlled-layers/"
     },
     {
@@ -373,7 +477,7 @@
         }
       ],
       "publishedAt": "2025-11-01T08:11:01.000Z",
-      "ranking": 1.6343224797927736,
+      "ranking": 0.7775335120819893,
       "articleUrl": "https://www.marktechpost.com/2025/11/01/how-to-build-an-end-to-end-data-engineering-and-machine-learning-pipeline-with-apache-spark-and-pyspark/"
     },
     {
@@ -407,7 +511,7 @@
         }
       ],
       "publishedAt": "2025-11-01T06:00:00.000Z",
-      "ranking": 0.5183897828833945,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/large-reasoning-models-almost-certainly-can-think"
     },
     {
@@ -439,7 +543,7 @@
         }
       ],
       "publishedAt": "2025-11-01T03:58:55.000Z",
-      "ranking": 0.47661657929462287,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/10/31/google-ai-unveils-supervised-reinforcement-learning-srl-a-step-wise-framework-with-expert-trajectories-to-teach-small-language-models-to-reason-through-hard-problems/"
     },
     {
@@ -1488,110 +1592,6 @@
       "publishedAt": "2025-10-29T09:05:45.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/report/808647/bill-gates-climate-change-ai-emissions-memo"
-    },
-    {
-      "id": "105",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Search Shift",
-      "mediumTitle": "AI Chatbots Reshape Online Discovery",
-      "longTitle": "Generative AI Disrupts Search, Creating New Optimization Field",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The rise of AI chatbots and generative",
-            "AI is predicted to cause a 25% decline",
-            "in traditional search engine volume by",
-            "2026, ushering in a new era of online",
-            "discovery.",
-            "The era of solely optimizing for Google",
-            "is over, replaced by a complex ecosystem",
-            "where understanding how AI synthesizes",
-            "information is paramount for business",
-            "discoverability.",
-            "This disruption has led to the emergence",
-            "of Generative Engine Optimization (GEO),",
-            "a field focused on how AI models",
-            "understand and synthesize information,",
-            "differing from traditional SEO\u0027s keyword",
-            "and backlink focus."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T08:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots"
-    },
-    {
-      "id": "104",
-      "topic": "NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "LFM2-ColBERT-350M",
-      "mediumTitle": "New Model for Multilingual RAG",
-      "longTitle": "Liquid AI\u0027s LFM2-ColBERT-350M Enhances Multilingual RAG",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Liquid AI has introduced",
-            "LFM2-ColBERT-350M, a novel, compact late",
-            "interaction retriever designed to",
-            "enhance multilingual and cross-lingual",
-            "search capabilities within Retrieval",
-            "Augmented Generation (RAG) systems.",
-            "The core innovation of LFM2-ColBERT-350M",
-            "lies in its capacity to index documents",
-            "in one language and then efficiently",
-            "process queries submitted in a multitude",
-            "of languages, all while maintaining high",
-            "retrieval accuracy.",
-            "The ability to handle multilingual",
-            "queries against a single-language index",
-            "is a significant advancement,",
-            "potentially democratizing access to",
-            "information and AI-powered services",
-            "across language barriers."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T07:32:35.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/10/28/liquid-ai-releases-lfm2-colbert-350m-a-new-small-model-that-brings-late-interaction-retrieval-to-multilingual-and-cross-lingual-rag/"
-    },
-    {
-      "id": "119",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "OpenAI Safety Models",
-      "mediumTitle": "OpenAI Releases Open-Weight Safety Models",
-      "longTitle": "OpenAI Unveils Open-Weight Safety Models for Dynamic Content Moderation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has released two open-weight",
-            "models, gpt-oss-safeguard-120b and",
-            "gpt-oss-safeguard-20b, under a",
-            "permissive Apache 2.0 license.",
-            "OpenAI\u0027s new models aim to overcome this",
-            "limitation by using reasoning",
-            "capabilities to interpret",
-            "developer-provided policies directly at",
-            "inference time.",
-            "This dynamic policy application means",
-            "policies can be applied and revised",
-            "without retraining the model, which is",
-            "particularly beneficial for evolving",
-            "harms or nuanced domains.",
-            "These models are fine-tuned versions of",
-            "OpenAI\u0027s earlier gpt-oss models and are",
-            "designed to offer a more flexible",
-            "approach to content moderation and AI",
-            "safety for enterprises."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T05:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/from-static-classifiers-to-reasoning-engines-openais-new-model-rethinks"
     }
   ]
 }
