@@ -1,6 +1,283 @@
 {
   "articles": [
     {
+      "id": "168",
+      "topic": "Vision",
+      "source": "The Verge AI",
+      "shortTitle": "Google Maps Lane Guidance",
+      "mediumTitle": "Google Maps Adds Lane Guidance for Polestar 4",
+      "longTitle": "Google Maps Introduces Live Lane Guidance for Polestar 4 EVs",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google Maps is introducing a new live",
+            "lane guidance feature specifically for",
+            "drivers of the Polestar 4, an electric",
+            "vehicle powered by Google\u0027s systems.",
+            "This innovative feature leverages the",
+            "Polestar 4\u0027s front-facing camera to",
+            "detect lane markings and road signs in",
+            "real-time.",
+            "This AI analysis allows the system to",
+            "provide drivers with personalized audio",
+            "and visual cues, guiding them on when",
+            "and how to merge lanes safely.",
+            "The data captured by the camera is then",
+            "processed by Google Maps\u0027 artificial",
+            "intelligence (AI)."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T12:57:50.000Z",
+      "ranking": 8.67142857142857,
+      "articleUrl": "https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance"
+    },
+    {
+      "id": "163",
+      "topic": "Education",
+      "source": "The Verge AI",
+      "shortTitle": "AI Targets Students",
+      "mediumTitle": "AI Companies Court Students for Future Growth",
+      "longTitle": "AI Companies Strategically Target Students for Future Market Dominance",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Tech companies are actively targeting",
+            "students with their AI agents,",
+            "recognizing them as crucial for future",
+            "business growth.",
+            "Companies are likely choosing not to",
+            "actively discourage AI use for cheating",
+            "because the benefits of hooking students",
+            "outweigh the perceived risks of academic",
+            "misconduct.",
+            "This proactive approach suggests that AI",
+            "companies are not only aware of but also",
+            "implicitly condone the use of their AI",
+            "tools by students, even when that use",
+            "might involve academic dishonesty.",
+            "The AI industry\u0027s business model is",
+            "intrinsically linked to the future",
+            "adoption and integration of AI by",
+            "younger generations."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T09:20:33.000Z",
+      "ranking": 8.325,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students"
+    },
+    {
+      "id": "161",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "LLM C2C Comms",
+      "mediumTitle": "Cache-to-Cache LLM Collaboration",
+      "longTitle": "Cache-to-Cache: A Novel LLM Communication Paradigm",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Cache-to-Cache (C2C) is a novel",
+            "communication paradigm that enables",
+            "large language models (LLMs) to",
+            "collaborate without exchanging textual",
+            "tokens.",
+            "Developed by a research team from",
+            "Tsinghua University, Infinigence AI, The",
+            "Chinese University of Hong Kong,",
+            "Shanghai AI Laboratory, and Shanghai",
+            "Jiao Tong University, C2C facilitates",
+            "direct semantic communication by",
+            "leveraging the KV-Cache of LLMs.",
+            "C2C proposes an alternative approach",
+            "where LLMs can directly share and fuse",
+            "their internal representations stored in",
+            "the KV-Cache."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T09:32:23.000Z",
+      "ranking": 8.088888888888889,
+      "articleUrl": "https://www.marktechpost.com/2025/11/04/cache-to-cachec2c-direct-semantic-communication-between-large-language-models-via-kv-cache-fusion/"
+    },
+    {
+      "id": "166",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Zendesk AI Boost",
+      "mediumTitle": "Zendesk\u0027s AI Transformation",
+      "longTitle": "Zendesk Enhances Customer Support with GPT-5 and HyperArc",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Zendesk is significantly transforming",
+            "its customer support by integrating",
+            "GPT-5 and acquiring HyperArc to enhance",
+            "AI capabilities.",
+            "The integration of GPT-5 marks a",
+            "significant leap from basic chatbots to",
+            "agents capable of taking action, like",
+            "processing returns and issuing refunds.",
+            "GPT-5\u0027s enhanced reasoning and",
+            "action-taking capabilities, coupled with",
+            "improved intent understanding and over",
+            "95% reliability, lead to a better",
+            "customer experience.",
+            "Specifically, GPT-5 reduces workflow",
+            "failures by 30% and fallback escalations",
+            "by over 20%, resulting in faster",
+            "resolutions and fewer hand-offs."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T05:00:00.000Z",
+      "ranking": 7.659090909090907,
+      "articleUrl": "https://venturebeat.com/ai/inside-zendesks-dual-ai-leap-from-reliable-agents-to-real-time-intelligence"
+    },
+    {
+      "id": "164",
+      "topic": "Business",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI in Market Research",
+      "mediumTitle": "AI Adoption and Concerns in Market Research",
+      "longTitle": "AI Adoption in Market Research: Benefits, Challenges, and Future Outlook",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A recent survey of 219 U.S. market",
+            "research and insights professionals,",
+            "conducted by QuestDIY in August 2025,",
+            "reveals that artificial intelligence",
+            "(AI) has been rapidly adopted by the",
+            "industry, with 98% of professionals",
+            "using AI tools and 72% using them daily.",
+            "Nearly four in ten researchers (39%)",
+            "report an increased reliance on",
+            "technology that sometimes produces",
+            "errors, and 37% have experienced new",
+            "risks around data quality or accuracy.",
+            "The primary frustration with AI, as",
+            "noted in an open-ended question, is",
+            "accuracy, with researchers often",
+            "encountering \u0022hallucinations\u0022 \u2013",
+            "fabricated information presented as",
+            "fact."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T09:00:00.000Z",
+      "ranking": 7.657500000000001,
+      "articleUrl": "https://venturebeat.com/ai/98-of-market-researchers-use-ai-daily-but-4-in-10-say-it-makes-errors"
+    },
+    {
+      "id": "165",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "SAP\u0027s RPT-1 AI",
+      "mediumTitle": "SAP RPT-1: Business-Ready AI Model",
+      "longTitle": "SAP Introduces RPT-1, a Foundational Tabular AI for Business",
+      "paragraphs": [
+        {
+          "Lines": [
+            "SAP is introducing SAP RPT-1, a",
+            "foundational \u0022tabular\u0022 AI model designed",
+            "to be ready-to-use for business tasks,",
+            "aiming to reduce the need for extensive",
+            "fine-tuning that is common with general",
+            "large language models (LLMs).",
+            "Unlike LLMs that are trained on text and",
+            "code, RPT-1 is trained on business",
+            "transaction data, essentially",
+            "spreadsheets, allowing it to perform",
+            "predictive analytics and other",
+            "enterprise functions out-of-the-box.",
+            "The distinction between tabular and LLMs",
+            "is significant, as tabular models like",
+            "RPT-1 understand numbers and the",
+            "relationships within data, offering more",
+            "structured and precise answers."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T06:00:00.000Z",
+      "ranking": 7.573333333333334,
+      "articleUrl": "https://venturebeat.com/ai/forget-fine-tuning-saps-rpt-1-brings-ready-to-use-ai-for-business-tasks"
+    },
+    {
+      "id": "167",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Sora on Android",
+      "mediumTitle": "OpenAI\u0027s Sora AI Video Generator Now on Android",
+      "longTitle": "OpenAI Launches Sora AI Video Generation App for Android Users",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has officially launched its AI",
+            "video generation application, Sora, on",
+            "the Android platform, expanding its",
+            "accessibility beyond iOS.",
+            "The core features of Sora revolve around",
+            "its ability to translate text prompts",
+            "into visual narratives.",
+            "The expansion to Android is a",
+            "significant step in making this",
+            "technology more widely available to a",
+            "larger user base.",
+            "The application allows users to",
+            "generate, share, and modify videos",
+            "created using artificial intelligence.",
+            "This move signifies an expansion of",
+            "Sora\u0027s accessibility beyond its initial",
+            "iOS release.",
+            "Users can engage in the creation and",
+            "manipulation of AI-generated video",
+            "content."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T14:51:31.000Z",
+      "ranking": 7.358333333333333,
+      "articleUrl": "https://www.theverge.com/news/813533/openai-sora-android-launch"
+    },
+    {
+      "id": "162",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Alexa AI in Music",
+      "mediumTitle": "Alexa Plus Enhances Amazon Music",
+      "longTitle": "Amazon Integrates Generative AI Assistant Alexa Plus into Music Streaming Service",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon is integrating its generative AI",
+            "assistant, Alexa Plus, into its Music",
+            "streaming service to improve user",
+            "experience.",
+            "The primary function of Alexa Plus",
+            "within the app is to offer users the",
+            "ability to request obscure information",
+            "or complex queries.",
+            "This new feature is currently available",
+            "to customers in the Alexa Plus Early",
+            "Access beta program via the Amazon Music",
+            "app on iOS and Android.",
+            "The AI is designed to go beyond simple",
+            "music playback commands and provide",
+            "detailed answers or explanations related",
+            "to music, artists, genres, or broader",
+            "topics.",
+            "The integration aims to provide advanced",
+            "AI capabilities to users across all",
+            "subscription tiers."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T10:00:00.000Z",
+      "ranking": 7.209090909090908,
+      "articleUrl": "https://www.theverge.com/news/813102/amazon-music-alexa-plus-ai-integration"
+    },
+    {
       "id": "158",
       "topic": "Policy",
       "source": "The Verge AI",
@@ -34,7 +311,7 @@
         }
       ],
       "publishedAt": "2025-11-03T18:20:38.000Z",
-      "ranking": 7.925000000000001,
+      "ranking": 6.777231212849122,
       "articleUrl": "https://www.theverge.com/news/812848/chatgpt-legal-medical-advice-rumor"
     },
     {
@@ -68,7 +345,7 @@
         }
       ],
       "publishedAt": "2025-11-03T16:00:00.000Z",
-      "ranking": 6.986025975835288,
+      "ranking": 6.620101565527458,
       "articleUrl": "https://venturebeat.com/ai/strengthening-our-core-welcoming-karyne-levy-as-venturebeats-new-managing"
     },
     {
@@ -102,7 +379,7 @@
         }
       ],
       "publishedAt": "2025-11-03T13:34:13.000Z",
-      "ranking": 6.51656837813282,
+      "ranking": 6.116489882093806,
       "articleUrl": "https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement"
     },
     {
@@ -133,8 +410,41 @@
         }
       ],
       "publishedAt": "2025-11-03T13:06:02.000Z",
-      "ranking": 6.393066436301776,
+      "ranking": 5.986385155047479,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812455/ai-industry-earnings-bubble-fomo-hype"
+    },
+    {
+      "id": "149",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AUI Funding",
+      "mediumTitle": "AUI Secures Funding for AI",
+      "longTitle": "Augmented Intelligence Inc. Secures $20M for Novel Neuro-Symbolic AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Augmented Intelligence Inc. (AUI), a New",
+            "York City-based startup, has secured $20",
+            "million in a bridge SAFE funding round,",
+            "valuing the company at a $750 million",
+            "cap.",
+            "This funding brings AUI\u0027s total funding",
+            "to nearly $60 million as they develop a",
+            "novel approach to AI that aims to move",
+            "beyond the limitations of current",
+            "transformer-based large language models",
+            "(LLMs).",
+            "AUI\u0027s core innovation is its",
+            "\u0022neuro-symbolic AI\u0022 architecture,",
+            "implemented in its foundation model",
+            "called Apollo-1, which is designed for",
+            "task-oriented dialog."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-03T15:00:00.000Z",
+      "ranking": 5.713229334908643,
+      "articleUrl": "https://venturebeat.com/ai/the-beginning-of-the-end-of-the-transformer-era-neuro-symbolic-ai-startup"
     },
     {
       "id": "157",
@@ -167,41 +477,8 @@
         }
       ],
       "publishedAt": "2025-11-03T06:00:00.000Z",
-      "ranking": 6.105784296246372,
+      "ranking": 5.5992920065037985,
       "articleUrl": "https://venturebeat.com/ai/developers-beware-googles-gemma-model-controversy-exposes-model-lifecycle"
-    },
-    {
-      "id": "149",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AUI Funding",
-      "mediumTitle": "AUI Secures Funding for AI",
-      "longTitle": "Augmented Intelligence Inc. Secures $20M for Novel Neuro-Symbolic AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Augmented Intelligence Inc. (AUI), a New",
-            "York City-based startup, has secured $20",
-            "million in a bridge SAFE funding round,",
-            "valuing the company at a $750 million",
-            "cap.",
-            "This funding brings AUI\u0027s total funding",
-            "to nearly $60 million as they develop a",
-            "novel approach to AI that aims to move",
-            "beyond the limitations of current",
-            "transformer-based large language models",
-            "(LLMs).",
-            "AUI\u0027s core innovation is its",
-            "\u0022neuro-symbolic AI\u0022 architecture,",
-            "implemented in its foundation model",
-            "called Apollo-1, which is designed for",
-            "task-oriented dialog."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-03T15:00:00.000Z",
-      "ranking": 6.0932105234466345,
-      "articleUrl": "https://venturebeat.com/ai/the-beginning-of-the-end-of-the-transformer-era-neuro-symbolic-ai-startup"
     },
     {
       "id": "150",
@@ -234,7 +511,7 @@
         }
       ],
       "publishedAt": "2025-11-03T07:40:40.000Z",
-      "ranking": 5.940931749802747,
+      "ranking": 5.458024083348022,
       "articleUrl": "https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination"
     },
     {
@@ -270,7 +547,7 @@
         }
       ],
       "publishedAt": "2025-11-03T11:12:19.000Z",
-      "ranking": 5.619758619424357,
+      "ranking": 5.186436231635737,
       "articleUrl": "https://www.theverge.com/news/812443/openai-amazon-38-billion-cloud-computing-ai"
     },
     {
@@ -303,7 +580,7 @@
         }
       ],
       "publishedAt": "2025-11-03T10:40:00.000Z",
-      "ranking": 5.430389340498907,
+      "ranking": 4.989495820346734,
       "articleUrl": "https://venturebeat.com/ai/meet-denario-the-ai-research-assistant-that-is-already-getting-its-own"
     },
     {
@@ -340,7 +617,7 @@
         }
       ],
       "publishedAt": "2025-11-03T13:31:51.000Z",
-      "ranking": 5.282944405017897,
+      "ranking": 4.882311827347495,
       "articleUrl": "https://www.theverge.com/news/812559/coca-cola-ai-holiday-christmas-commercial-2025"
     },
     {
@@ -373,7 +650,7 @@
         }
       ],
       "publishedAt": "2025-11-02T16:44:14.000Z",
-      "ranking": 4.408164449079036,
+      "ranking": 3.7152407885284857,
       "articleUrl": "https://www.marktechpost.com/2025/11/02/longcat-flash-omni-a-sota-open-source-omni-modal-model-with-560b-parameters-with-27b-activated-excelling-at-real-time-audio-visual-interaction/"
     },
     {
@@ -405,7 +682,7 @@
         }
       ],
       "publishedAt": "2025-11-02T06:00:00.000Z",
-      "ranking": 2.4098972439125568,
+      "ranking": 1.566042883576257,
       "articleUrl": "https://venturebeat.com/ai/moving-past-speculation-how-deterministic-cpus-deliver-predictable-ai"
     },
     {
@@ -1239,180 +1516,6 @@
       "publishedAt": "2025-10-29T18:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/anthropic-scientists-hacked-claudes-brain-and-it-noticed-heres-why-thats"
-    },
-    {
-      "id": "117",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Nvidia $5T",
-      "mediumTitle": "Nvidia Reaches $5 Trillion Valuation",
-      "longTitle": "Nvidia Achieves $5 Trillion Market Capitalization Driven by AI Dominance",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Nvidia has officially achieved the",
-            "monumental status of a $5 trillion",
-            "company, marking a significant milestone",
-            "in its rapid ascent.",
-            "The sustained surge in Nvidia\u0027s share",
-            "price is largely attributed to the",
-            "company\u0027s dominant position and",
-            "continued growth in the artificial",
-            "intelligence (AI) sector.",
-            "Nvidia\u0027s graphics processing units",
-            "(GPUs) are the backbone of AI",
-            "development, powering everything from",
-            "large language models to complex",
-            "scientific research.",
-            "The insatiable demand for AI-driven",
-            "technologies has directly translated",
-            "into robust sales and profitability for",
-            "Nvidia, fueling investor confidence and",
-            "driving its market capitalization to new",
-            "heights."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T11:57:09.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/809017/nvidia-5-trillion-market-cap-ai"
-    },
-    {
-      "id": "106",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Gemini for Home",
-      "mediumTitle": "Google Assistant Replaced by Gemini",
-      "longTitle": "Google Rolls Out Early Access for Gemini for Home in US",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google is rolling out early access to",
-            "Gemini for Home in the US, a significant",
-            "update that will eventually replace the",
-            "current Google Assistant on Nest",
-            "devices.",
-            "The article hints at the AI\u0027s ability to",
-            "run \u0027on-device,\u0027 which could lead to",
-            "faster response times and improved",
-            "privacy by reducing the need to send",
-            "data to the cloud for processing.",
-            "Gemini for Home is designed to leverage",
-            "the capabilities of Google\u0027s Gemini AI",
-            "model, which is known for its multimodal",
-            "understanding and advanced reasoning.",
-            "The transition from Google Assistant to",
-            "Gemini for Home is a strategic move by",
-            "Google to stay competitive in the",
-            "rapidly evolving smart home market."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T11:08:48.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/808858/google-gemini-for-home-early-access-launch"
-    },
-    {
-      "id": "107",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "TikTok Creator Tools",
-      "mediumTitle": "TikTok Enhances Creator Experience",
-      "longTitle": "TikTok Unveils New Features for Creators at US Summit",
-      "paragraphs": [
-        {
-          "Lines": [
-            "TikTok has unveiled three new features",
-            "aimed at enhancing the creator",
-            "experience, announced at their recent US",
-            "Creator Summit.",
-            "These updates focus on improving revenue",
-            "opportunities, assisting with video",
-            "planning, and streamlining the editing",
-            "process, particularly for converting",
-            "longer videos into shorter, more",
-            "digestible clips.",
-            "The Smart Split tool, in particular,",
-            "addresses a common challenge for",
-            "creators: the need to adapt long-form",
-            "content for short-form platforms, a",
-            "crucial aspect of maximizing reach and",
-            "engagement."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T10:45:01.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/808749/tiktok-smart-split-ai-outline-revenue-sharing-subscriptions"
-    },
-    {
-      "id": "108",
-      "topic": "Large Models",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI AGI Race",
-      "mediumTitle": "OpenAI\u0027s AGI Pursuit Under Pressure",
-      "longTitle": "OpenAI Faces Intensified Pressure to Achieve AGI Amidst New Structure",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI is under significant pressure to",
-            "achieve Artificial General Intelligence",
-            "(AGI), an AI system matching or",
-            "exceeding human cognitive abilities.",
-            "This pressure has intensified with the",
-            "company\u0027s adoption of a new for-profit",
-            "structure and a strengthened partnership",
-            "with Microsoft.",
-            "Microsoft\u0027s involvement suggests a",
-            "potential for increased",
-            "commercialization pressure or a shift in",
-            "focus that could complicate OpenAI\u0027s",
-            "original mission.",
-            "The partnership with Microsoft amplifies",
-            "these pressures by providing resources",
-            "and strategic alignment, but also",
-            "potentially dictating priorities."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T10:19:21.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808434/openai-for-profit-restructuring-microsoft-deal-agi-wars"
-    },
-    {
-      "id": "109",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Grammarly Rebrands",
-      "mediumTitle": "Grammarly Rebrands to Superhuman",
-      "longTitle": "Grammarly Rebrands to Superhuman, Integrating AI Tools",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Grammarly, the popular AI writing",
-            "assistant, is undergoing a significant",
-            "rebranding and integration into a larger",
-            "suite of productivity tools under the",
-            "new name \u0027Superhuman\u0027.",
-            "This strategic move consolidates",
-            "Grammarly\u0027s existing AI writing",
-            "capabilities with other established",
-            "platforms like Coda and Superhuman Mail,",
-            "and introduces a new AI assistant named",
-            "Superhuman Go.",
-            "The newly formed Superhuman suite,",
-            "encompassing all these integrated tools,",
-            "is now accessible to all users who hold",
-            "a paid Grammarly Pro subscription.",
-            "This assistant will be made available to",
-            "Superhuman subscribers at no additional",
-            "charge."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T10:01:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch"
     }
   ]
 }
