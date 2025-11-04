@@ -101,6 +101,42 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/04/cache-to-cachec2c-direct-semantic-communication-between-large-language-models-via-kv-cache-fusion/"
     },
     {
+      "id": "169",
+      "topic": "Model Eval",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Judges Explained",
+      "mediumTitle": "Databricks\u0027 AI Judges for Output Quality",
+      "longTitle": "Databricks\u0027 AI Judges: Solving Enterprise AI Output Quality Challenges",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The primary obstacle to enterprise AI",
+            "deployment is not the technical",
+            "intelligence of AI models, but rather",
+            "the difficulty in defining and measuring",
+            "AI output quality, which is where \u0027AI",
+            "judges\u0027 come into play.",
+            "An AI judge is an AI system designed to",
+            "score the outputs of another AI system,",
+            "and Databricks\u0027 \u0027Judge Builder\u0027",
+            "framework, initially part of their Agent",
+            "Bricks technology, has evolved to",
+            "address this challenge.",
+            "Databricks now offers a structured",
+            "workshop process to help teams overcome",
+            "three core challenges: achieving",
+            "stakeholder consensus on quality",
+            "criteria, capturing domain expertise",
+            "from limited subject matter experts, and",
+            "deploying evaluation systems at scale."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T21:00:00.000Z",
+      "ranking": 7.975000000000001,
+      "articleUrl": "https://venturebeat.com/ai/databricks-research-reveals-that-building-better-ai-judges-isnt-just-a"
+    },
+    {
       "id": "166",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -204,6 +240,76 @@
       "articleUrl": "https://venturebeat.com/ai/forget-fine-tuning-saps-rpt-1-brings-ready-to-use-ai-for-business-tasks"
     },
     {
+      "id": "173",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Home Test",
+      "mediumTitle": "Gemini for Home AI Weekend Test",
+      "longTitle": "Author tests Google\u0027s Gemini for Home AI by observing family for a weekend.",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The author tested Google\u0027s Gemini for",
+            "Home AI by letting it observe their",
+            "family for a weekend to see if constant",
+            "surveillance would be helpful or",
+            "unsettling.",
+            "The author\u0027s intention was to determine",
+            "if the AI\u0027s constant surveillance",
+            "capabilities would be helpful or",
+            "unsettling.",
+            "The author\u0027s goal was to gather data on",
+            "whether this level of AI oversight",
+            "offers practical benefits or becomes",
+            "intrusive.",
+            "The core of the article appears to be",
+            "the author\u0027s personal reaction and",
+            "assessment of the AI\u0027s performance.",
+            "The Gemini for Home system was",
+            "configured to watch, interpret, and",
+            "narrate the family\u0027s activities."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T17:01:37.000Z",
+      "ranking": 7.45,
+      "articleUrl": "https://www.theverge.com/tech/813523/gemini-for-home-google-nest-camera-hands-on"
+    },
+    {
+      "id": "170",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Brumby AI Model",
+      "mediumTitle": "Brumby-14B-Base: Attention-Free AI",
+      "longTitle": "Manifest AI\u0027s Brumby-14B-Base challenges transformer dominance with Power Retention",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Manifest AI has introduced",
+            "Brumby-14B-Base, a new large language",
+            "model variant that moves away from the",
+            "standard transformer architecture by",
+            "replacing its attention mechanism with a",
+            "novel \u0027Power Retention\u0027 technique.",
+            "The \u0027Power Retention\u0027 method is a",
+            "recurrent, hardware-efficient",
+            "architecture that maintains a constant",
+            "computational cost per token, unlike the",
+            "attention mechanism\u0027s quadratic scaling",
+            "with context length.",
+            "This innovation addresses the quadratic",
+            "scaling issues of the computationally",
+            "expensive \u0027attention\u0027 mechanism, which",
+            "hinders processing of long data",
+            "sequences."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T20:37:00.000Z",
+      "ranking": 7.420000000000001,
+      "articleUrl": "https://venturebeat.com/ai/attention-isnt-all-you-need-new-qwen3-variant-brumby-14b-base-leverages"
+    },
+    {
       "id": "167",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -278,6 +384,75 @@
       "articleUrl": "https://www.theverge.com/news/813102/amazon-music-alexa-plus-ai-integration"
     },
     {
+      "id": "171",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "MS AI Image Tool",
+      "mediumTitle": "Microsoft Releases MAI-Image-1",
+      "longTitle": "Microsoft Launches MAI-Image-1 AI Image Generator",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft has released its first",
+            "internally developed AI image generator,",
+            "MAI-Image-1, which is now accessible",
+            "through two of their products: Bing",
+            "Image Creator and Copilot Audio",
+            "Expressions.",
+            "The core functionality of MAI-Image-1 is",
+            "its ability to generate images based on",
+            "textual descriptions.",
+            "The announcement of MAI-Image-1",
+            "signifies Microsoft\u0027s commitment to",
+            "developing its own proprietary AI",
+            "models.",
+            "Mustafa Suleyman, the head of Microsoft",
+            "AI, stated that MAI-Image-1 would soon",
+            "be rolled out to users in the European",
+            "Union."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T17:48:09.000Z",
+      "ranking": 6.592857142857143,
+      "articleUrl": "https://www.theverge.com/news/813789/microsoft-in-house-ai-image-generator-mai-image-1"
+    },
+    {
+      "id": "172",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Amazon vs Perplexity",
+      "mediumTitle": "Amazon Demands Perplexity AI Stop Direct Purchases",
+      "longTitle": "Amazon Requests Perplexity\u0027s Comet AI Cease Direct Product Purchases",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon has requested that Perplexity,",
+            "the company behind the AI-powered",
+            "browser Comet, cease its ability to",
+            "purchase products for users directly",
+            "from Amazon.",
+            "Perplexity has characterized Amazon\u0027s",
+            "requests as \u0027bullying.\u0027",
+            "Their accusation of \u0027bullying\u0027 suggests",
+            "they believe Amazon is attempting to",
+            "stifle innovation and competition by",
+            "leveraging its dominant market position",
+            "to dictate how other companies can",
+            "interact with its platform.",
+            "The core of the dispute lies in Comet\u0027s",
+            "functionality, which allows users to",
+            "find products on Amazon and then have",
+            "the AI browser complete the purchase on",
+            "their behalf."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T17:36:41.000Z",
+      "ranking": 6.55625,
+      "articleUrl": "https://www.theverge.com/news/813755/amazon-perplexity-ai-shopping-agent-block"
+    },
+    {
       "id": "158",
       "topic": "Policy",
       "source": "The Verge AI",
@@ -311,7 +486,7 @@
         }
       ],
       "publishedAt": "2025-11-03T18:20:38.000Z",
-      "ranking": 6.777231212849122,
+      "ranking": 6.394746707236711,
       "articleUrl": "https://www.theverge.com/news/812848/chatgpt-legal-medical-advice-rumor"
     },
     {
@@ -345,7 +520,7 @@
         }
       ],
       "publishedAt": "2025-11-03T16:00:00.000Z",
-      "ranking": 6.620101565527458,
+      "ranking": 6.2052529629007305,
       "articleUrl": "https://venturebeat.com/ai/strengthening-our-core-welcoming-karyne-levy-as-venturebeats-new-managing"
     },
     {
@@ -379,7 +554,7 @@
         }
       ],
       "publishedAt": "2025-11-03T13:34:13.000Z",
-      "ranking": 6.116489882093806,
+      "ranking": 5.668092007797283,
       "articleUrl": "https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement"
     },
     {
@@ -410,7 +585,7 @@
         }
       ],
       "publishedAt": "2025-11-03T13:06:02.000Z",
-      "ranking": 5.986385155047479,
+      "ranking": 5.531501421131869,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812455/ai-industry-earnings-bubble-fomo-hype"
     },
     {
@@ -443,7 +618,7 @@
         }
       ],
       "publishedAt": "2025-11-03T15:00:00.000Z",
-      "ranking": 5.713229334908643,
+      "ranking": 5.2845728691318925,
       "articleUrl": "https://venturebeat.com/ai/the-beginning-of-the-end-of-the-transformer-era-neuro-symbolic-ai-startup"
     },
     {
@@ -477,7 +652,7 @@
         }
       ],
       "publishedAt": "2025-11-03T06:00:00.000Z",
-      "ranking": 5.5992920065037985,
+      "ranking": 5.0463647756400025,
       "articleUrl": "https://venturebeat.com/ai/developers-beware-googles-gemma-model-controversy-exposes-model-lifecycle"
     },
     {
@@ -511,7 +686,7 @@
         }
       ],
       "publishedAt": "2025-11-03T07:40:40.000Z",
-      "ranking": 5.458024083348022,
+      "ranking": 4.928263377201738,
       "articleUrl": "https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination"
     },
     {
@@ -547,7 +722,7 @@
         }
       ],
       "publishedAt": "2025-11-03T11:12:19.000Z",
-      "ranking": 5.186436231635737,
+      "ranking": 4.705382761388039,
       "articleUrl": "https://www.theverge.com/news/812443/openai-amazon-38-billion-cloud-computing-ai"
     },
     {
@@ -580,7 +755,7 @@
         }
       ],
       "publishedAt": "2025-11-03T10:40:00.000Z",
-      "ranking": 4.989495820346734,
+      "ranking": 4.501005281508471,
       "articleUrl": "https://venturebeat.com/ai/meet-denario-the-ai-research-assistant-that-is-already-getting-its-own"
     },
     {
@@ -617,7 +792,7 @@
         }
       ],
       "publishedAt": "2025-11-03T13:31:51.000Z",
-      "ranking": 4.882311827347495,
+      "ranking": 4.433369309333643,
       "articleUrl": "https://www.theverge.com/news/812559/coca-cola-ai-holiday-christmas-commercial-2025"
     },
     {
@@ -650,7 +825,7 @@
         }
       ],
       "publishedAt": "2025-11-02T16:44:14.000Z",
-      "ranking": 3.7152407885284857,
+      "ranking": 2.9791829407283057,
       "articleUrl": "https://www.marktechpost.com/2025/11/02/longcat-flash-omni-a-sota-open-source-omni-modal-model-with-560b-parameters-with-27b-activated-excelling-at-real-time-audio-visual-interaction/"
     },
     {
@@ -682,7 +857,7 @@
         }
       ],
       "publishedAt": "2025-11-02T06:00:00.000Z",
-      "ranking": 1.566042883576257,
+      "ranking": 0.6817269442114524,
       "articleUrl": "https://venturebeat.com/ai/moving-past-speculation-how-deterministic-cpus-deliver-predictable-ai"
     },
     {
@@ -1338,184 +1513,6 @@
       "publishedAt": "2025-10-30T04:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/why-it-leaders-should-pay-attention-to-canvas-imagination-era-strategy"
-    },
-    {
-      "id": "131",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Reasoning Debugger",
-      "mediumTitle": "CRV: Debugging AI Reasoning Errors",
-      "longTitle": "CRV: A Novel Technique for Inspecting and Correcting LLM Reasoning",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Researchers at Meta FAIR and the",
-            "University of Edinburgh have developed a",
-            "novel technique called Circuit-based",
-            "Reasoning Verification (CRV) that allows",
-            "for the inspection and correction of",
-            "reasoning errors within large language",
-            "models (LLMs).",
-            "The success of CRV in detecting and",
-            "localizing reasoning errors indicates",
-            "that such debuggers could become a",
-            "reality, leading to more robust LLMs and",
-            "autonomous agents capable of handling",
-            "real-world unpredictability and",
-            "self-correcting reasoning mistakes.",
-            "Crucially, CRV\u0027s error signatures are",
-            "not merely correlational but causal.",
-            "The implications of CRV are substantial,",
-            "suggesting the potential for a new class",
-            "of AI model debuggers that can identify",
-            "the root cause of failures."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-30T01:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/meta-researchers-open-the-llm-black-box-to-repair-flawed-ai-reasoning"
-    },
-    {
-      "id": "121",
-      "topic": "Learning",
-      "source": "Marktechpost AI",
-      "shortTitle": "Agent Lightning",
-      "mediumTitle": "Microsoft\u0027s Agent Lightning AI Framework",
-      "longTitle": "Microsoft Introduces Agent Lightning: Open-Source AI Framework for LLM Training",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft has introduced Agent",
-            "Lightning, a novel open-source AI",
-            "framework designed to facilitate the",
-            "training of Large Language Models (LLMs)",
-            "for any AI agent using Reinforcement",
-            "Learning (RL).",
-            "The primary objective of Agent Lightning",
-            "is to enable the conversion of real",
-            "agent traces into RL transitions,",
-            "thereby enhancing the policy LLMs",
-            "without necessitating modifications to",
-            "the existing agent stack.",
-            "This framework is particularly",
-            "beneficial for optimizing multi-agent",
-            "systems.",
-            "A key feature of Agent Lightning is its",
-            "ability to decouple the training process",
-            "from the execution of the AI agent."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T22:39:21.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/10/29/microsoft-releases-agent-lightning-a-new-ai-framework-that-enables-reinforcement-learning-rl-based-training-of-llms-for-any-ai-agent/"
-    },
-    {
-      "id": "118",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Cursor\u0027s Composer LLM",
-      "mediumTitle": "Cursor Launches Composer LLM",
-      "longTitle": "Cursor\u0027s Composer LLM Accelerates Coding with Agentic Workflows",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The coding platform Cursor, developed by",
-            "Anysphere, has launched its first",
-            "in-house large language model (LLM)",
-            "named Composer, a core component of the",
-            "Cursor 2.0 update designed to",
-            "significantly accelerate coding tasks in",
-            "production environments.",
-            "Its combination of RL, MoE design, and",
-            "tight product integration provides a",
-            "practical advantage in speed and",
-            "responsiveness, offering a glimpse into",
-            "a future of seamless human-model",
-            "collaboration.",
-            "Composer\u0027s focus on speed, RL, and",
-            "integration with live coding workflows",
-            "differentiates it from other AI coding",
-            "assistants like GitHub Copilot, designed",
-            "for continuous, agent-driven",
-            "collaboration."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T20:28:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/vibe-coding-platform-cursor-releases-first-in-house-llm-composer-promising"
-    },
-    {
-      "id": "120",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Meta AI Content",
-      "mediumTitle": "Meta to Boost AI Content in Feeds",
-      "longTitle": "Meta CEO Mark Zuckerberg Announces Plans for More AI-Generated Content",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta CEO Mark Zuckerberg announced plans",
-            "to significantly increase AI-generated",
-            "content in social media feeds, aiming to",
-            "enrich and personalize the user",
-            "experience.",
-            "During a recent earnings call,",
-            "Zuckerberg stated the company intends to",
-            "\u0022add yet another huge corpus of content\u0022",
-            "to its recommendation systems.",
-            "This expansion is driven by the",
-            "increasing ease with which artificial",
-            "intelligence can be used to create and",
-            "remix content that is subsequently",
-            "shared online.",
-            "Meta\u0027s strategy revolves around",
-            "leveraging AI to enhance the volume and",
-            "variety of content presented to users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T18:41:31.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings"
-    },
-    {
-      "id": "115",
-      "topic": "Neural Nets",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Introspection",
-      "mediumTitle": "AI Can Observe Its Own Processes",
-      "longTitle": "Anthropic AI Demonstrates Limited Introspection, Raising Transparency Hopes",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Anthropic scientists have conducted",
-            "groundbreaking research demonstrating",
-            "that their AI model, Claude, possesses a",
-            "limited but genuine ability to observe",
-            "and report on its own internal",
-            "processes.",
-            "The core takeaway is that while AI",
-            "models can sometimes accurately report",
-            "on their internal states, this",
-            "capability is not yet consistent enough",
-            "to be fully trusted.",
-            "Claude\u0027s introspective capabilities are",
-            "highly unreliable and context-dependent,",
-            "succeeding only about 20% of the time.",
-            "The critical challenge is to refine and",
-            "validate these abilities before AI",
-            "systems become too powerful to",
-            "understand, ensuring safety and",
-            "preventing potential misuse."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T18:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/anthropic-scientists-hacked-claudes-brain-and-it-noticed-heres-why-thats"
     }
   ]
 }
