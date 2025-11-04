@@ -307,39 +307,6 @@
       "articleUrl": "https://venturebeat.com/ai/meet-denario-the-ai-research-assistant-that-is-already-getting-its-own"
     },
     {
-      "id": "146",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "LongCat Omni",
-      "mediumTitle": "Meituan\u0027s LongCat-Flash-Omni Model",
-      "longTitle": "Meituan\u0027s LongCat-Flash-Omni: A 560B Parameter Omni-Modal AI Model",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meituan\u0027s LongCat team has released",
-            "LongCat-Flash-Omni, an open-source",
-            "omni-modal model with 560 billion",
-            "parameters, designed for real-time",
-            "interaction across text, image, video,",
-            "and audio.",
-            "Its primary innovation lies in its",
-            "ability to efficiently process and",
-            "interact with multiple modalities \u2013",
-            "text, image, video, and audio \u2013 in",
-            "real-time.",
-            "The core challenge addressed by",
-            "LongCat-Flash-Omni is the design of a",
-            "single model capable of seamlessly",
-            "integrating these diverse data types",
-            "without compromising efficiency."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-02T16:44:14.000Z",
-      "ranking": 6.587779008527809,
-      "articleUrl": "https://www.marktechpost.com/2025/11/02/longcat-flash-omni-a-sota-open-source-omni-modal-model-with-560b-parameters-with-27b-activated-excelling-at-real-time-audio-visual-interaction/"
-    },
-    {
       "id": "153",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -377,6 +344,39 @@
       "articleUrl": "https://www.theverge.com/news/812559/coca-cola-ai-holiday-christmas-commercial-2025"
     },
     {
+      "id": "146",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "LongCat Omni",
+      "mediumTitle": "Meituan\u0027s LongCat-Flash-Omni Model",
+      "longTitle": "Meituan\u0027s LongCat-Flash-Omni: A 560B Parameter Omni-Modal AI Model",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meituan\u0027s LongCat team has released",
+            "LongCat-Flash-Omni, an open-source",
+            "omni-modal model with 560 billion",
+            "parameters, designed for real-time",
+            "interaction across text, image, video,",
+            "and audio.",
+            "Its primary innovation lies in its",
+            "ability to efficiently process and",
+            "interact with multiple modalities \u2013",
+            "text, image, video, and audio \u2013 in",
+            "real-time.",
+            "The core challenge addressed by",
+            "LongCat-Flash-Omni is the design of a",
+            "single model capable of seamlessly",
+            "integrating these diverse data types",
+            "without compromising efficiency."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-02T16:44:14.000Z",
+      "ranking": 6.128101438470885,
+      "articleUrl": "https://www.marktechpost.com/2025/11/02/longcat-flash-omni-a-sota-open-source-omni-modal-model-with-560b-parameters-with-27b-activated-excelling-at-real-time-audio-visual-interaction/"
+    },
+    {
       "id": "147",
       "topic": "Hardware",
       "source": "VentureBeat AI",
@@ -405,7 +405,7 @@
         }
       ],
       "publishedAt": "2025-11-02T06:00:00.000Z",
-      "ranking": 5.1853107826823415,
+      "ranking": 4.577320204116365,
       "articleUrl": "https://venturebeat.com/ai/moving-past-speculation-how-deterministic-cpus-deliver-predictable-ai"
     },
     {
@@ -440,7 +440,7 @@
         }
       ],
       "publishedAt": "2025-11-01T10:10:11.000Z",
-      "ranking": 1.6934794739364856,
+      "ranking": 0.811573705834995,
       "articleUrl": "https://www.marktechpost.com/2025/11/01/anthropics-new-research-shows-claude-can-detect-injected-concepts-but-only-in-controlled-layers/"
     },
     {
@@ -477,7 +477,7 @@
         }
       ],
       "publishedAt": "2025-11-01T08:11:01.000Z",
-      "ranking": 0.7775335120819893,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/01/how-to-build-an-end-to-end-data-engineering-and-machine-learning-pipeline-with-apache-spark-and-pyspark/"
     },
     {
@@ -1415,6 +1415,40 @@
       "articleUrl": "https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch"
     },
     {
+      "id": "110",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Chat Limits",
+      "mediumTitle": "Character.AI Restricts Under 18s",
+      "longTitle": "Character.AI Implements Age Restrictions for Underage Users",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Character.AI, a platform enabling",
+            "interaction with AI characters, is",
+            "implementing a new policy to restrict",
+            "access for users under the age of 18.",
+            "This initiative involves gradually",
+            "phasing out open-ended chats for minors",
+            "and introducing mechanisms to verify",
+            "user age.",
+            "Initially, users identified as under 18",
+            "will face a limitation of two hours per",
+            "day for engaging in \u0022open-ended chats\u0022",
+            "with the AI characters.",
+            "This daily time limit is set to",
+            "progressively decrease, ultimately",
+            "leading to a complete ban from these",
+            "types of interactions for underage",
+            "users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
+    },
+    {
       "id": "111",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -1450,40 +1484,6 @@
       "publishedAt": "2025-10-29T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates"
-    },
-    {
-      "id": "110",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Chat Limits",
-      "mediumTitle": "Character.AI Restricts Under 18s",
-      "longTitle": "Character.AI Implements Age Restrictions for Underage Users",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Character.AI, a platform enabling",
-            "interaction with AI characters, is",
-            "implementing a new policy to restrict",
-            "access for users under the age of 18.",
-            "This initiative involves gradually",
-            "phasing out open-ended chats for minors",
-            "and introducing mechanisms to verify",
-            "user age.",
-            "Initially, users identified as under 18",
-            "will face a limitation of two hours per",
-            "day for engaging in \u0022open-ended chats\u0022",
-            "with the AI characters.",
-            "This daily time limit is set to",
-            "progressively decrease, ultimately",
-            "leading to a complete ban from these",
-            "types of interactions for underage",
-            "users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
     },
     {
       "id": "112",
@@ -1555,43 +1555,6 @@
       "publishedAt": "2025-10-29T09:25:29.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/808750/openai-sora-cameo-celebrity-deepfake-trademark-lawsuit"
-    },
-    {
-      "id": "114",
-      "topic": "Environment",
-      "source": "The Verge AI",
-      "shortTitle": "Gates: Climate Optimism",
-      "mediumTitle": "Bill Gates Advocates Optimistic Climate Discourse",
-      "longTitle": "Bill Gates\u0027 Memo: Shifting Climate Change Discourse to Optimism",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Bill Gates, in a memo published Tuesday,",
-            "advocates for a more optimistic and",
-            "solutions-oriented approach to climate",
-            "change discourse.",
-            "In essence, Bill Gates is advocating for",
-            "a strategic communication shift on",
-            "climate change, emphasizing progress and",
-            "innovation.",
-            "He contends that significant progress",
-            "has already been made in addressing the",
-            "climate crisis, largely driven by",
-            "technological advancements.",
-            "Gates believes that this progress",
-            "warrants a re-evaluation of our",
-            "priorities, suggesting a greater focus",
-            "on improving human well-being.",
-            "His message is one of measured optimism,",
-            "grounded in the belief that human",
-            "ingenuity can overcome daunting",
-            "problems."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T09:05:45.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/report/808647/bill-gates-climate-change-ai-emissions-memo"
     }
   ]
 }
