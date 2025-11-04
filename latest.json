@@ -170,42 +170,6 @@
       "articleUrl": "https://venturebeat.com/ai/the-beginning-of-the-end-of-the-transformer-era-neuro-symbolic-ai-startup"
     },
     {
-      "id": "155",
-      "topic": "Hardware",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI \u0026 AWS Deal",
-      "mediumTitle": "OpenAI Secures $38B AWS Partnership",
-      "longTitle": "OpenAI Signs $38 Billion Seven-Year Deal with AWS for GPU Access",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This agreement will grant OpenAI access",
-            "to a substantial number of Nvidia",
-            "Graphics Processing Units (GPUs),",
-            "reportedly \u0022hundreds of thousands,\u0022",
-            "which are crucial for training its",
-            "advanced Artificial Intelligence (AI)",
-            "models.",
-            "OpenAI has secured a significant",
-            "seven-year partnership with Amazon Web",
-            "Services (AWS), valued at $38 billion.",
-            "This deal marks a notable shift in",
-            "OpenAI\u0027s cloud infrastructure strategy,",
-            "as it signals a loosening of Microsoft\u0027s",
-            "exclusive cloud provider status for the",
-            "AI company.",
-            "Previously, Microsoft held a dominant",
-            "position, but this new arrangement with",
-            "AWS diversifies OpenAI\u0027s cloud computing",
-            "resources."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-03T11:12:19.000Z",
-      "ranking": 7.06,
-      "articleUrl": "https://www.theverge.com/news/812443/openai-amazon-38-billion-cloud-computing-ai"
-    },
-    {
       "id": "157",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -236,75 +200,8 @@
         }
       ],
       "publishedAt": "2025-11-03T06:00:00.000Z",
-      "ranking": 6.939584609161092,
+      "ranking": 6.550507549278566,
       "articleUrl": "https://venturebeat.com/ai/developers-beware-googles-gemma-model-controversy-exposes-model-lifecycle"
-    },
-    {
-      "id": "156",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Denario AI Research",
-      "mediumTitle": "Denario: AI Research Assistant",
-      "longTitle": "Denario: AI System Conducts Autonomous Scientific Research",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Denario is an AI system developed by an",
-            "international team that functions as an",
-            "AI research assistant, capable of",
-            "autonomously conducting scientific",
-            "research across multiple disciplines.",
-            "The system can generate research ideas,",
-            "review literature, develop",
-            "methodologies, write and execute code,",
-            "create visualizations, and draft",
-            "academic papers, completing the process",
-            "in about 30 minutes for approximately",
-            "$4.",
-            "Notably, one AI-generated paper was",
-            "accepted for publication at the",
-            "Agents4Science 2025 conference, where AI",
-            "systems are the primary authors."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-03T10:40:00.000Z",
-      "ranking": 6.925,
-      "articleUrl": "https://venturebeat.com/ai/meet-denario-the-ai-research-assistant-that-is-already-getting-its-own"
-    },
-    {
-      "id": "150",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Gemma AI Pulled",
-      "mediumTitle": "Google\u0027s Gemma AI Temporarily Removed",
-      "longTitle": "Google Temporarily Removes Gemma AI Following Allegations",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has temporarily removed its AI",
-            "model, Gemma, from its AI Studio",
-            "platform following a complaint from a",
-            "Republican senator.",
-            "The senator alleged that Gemma",
-            "fabricated serious criminal allegations",
-            "about her.",
-            "This event underscores the ongoing",
-            "challenges in controlling AI outputs and",
-            "the critical importance of ethical",
-            "considerations in the development and",
-            "release of artificial intelligence",
-            "technologies.",
-            "Google stated that it observed instances",
-            "of non-developers attempting to use",
-            "Gemma within AI Studio and prompting it",
-            "with inappropriate requests."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-03T07:40:40.000Z",
-      "ranking": 6.728110887845694,
-      "articleUrl": "https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination"
     },
     {
       "id": "153",
@@ -344,6 +241,109 @@
       "articleUrl": "https://www.theverge.com/news/812559/coca-cola-ai-holiday-christmas-commercial-2025"
     },
     {
+      "id": "150",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Gemma AI Pulled",
+      "mediumTitle": "Google\u0027s Gemma AI Temporarily Removed",
+      "longTitle": "Google Temporarily Removes Gemma AI Following Allegations",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has temporarily removed its AI",
+            "model, Gemma, from its AI Studio",
+            "platform following a complaint from a",
+            "Republican senator.",
+            "The senator alleged that Gemma",
+            "fabricated serious criminal allegations",
+            "about her.",
+            "This event underscores the ongoing",
+            "challenges in controlling AI outputs and",
+            "the critical importance of ethical",
+            "considerations in the development and",
+            "release of artificial intelligence",
+            "technologies.",
+            "Google stated that it observed instances",
+            "of non-developers attempting to use",
+            "Gemma within AI Studio and prompting it",
+            "with inappropriate requests."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-03T07:40:40.000Z",
+      "ranking": 6.362342966697206,
+      "articleUrl": "https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination"
+    },
+    {
+      "id": "155",
+      "topic": "Hardware",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI \u0026 AWS Deal",
+      "mediumTitle": "OpenAI Secures $38B AWS Partnership",
+      "longTitle": "OpenAI Signs $38 Billion Seven-Year Deal with AWS for GPU Access",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This agreement will grant OpenAI access",
+            "to a substantial number of Nvidia",
+            "Graphics Processing Units (GPUs),",
+            "reportedly \u0022hundreds of thousands,\u0022",
+            "which are crucial for training its",
+            "advanced Artificial Intelligence (AI)",
+            "models.",
+            "OpenAI has secured a significant",
+            "seven-year partnership with Amazon Web",
+            "Services (AWS), valued at $38 billion.",
+            "This deal marks a notable shift in",
+            "OpenAI\u0027s cloud infrastructure strategy,",
+            "as it signals a loosening of Microsoft\u0027s",
+            "exclusive cloud provider status for the",
+            "AI company.",
+            "Previously, Microsoft held a dominant",
+            "position, but this new arrangement with",
+            "AWS diversifies OpenAI\u0027s cloud computing",
+            "resources."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-03T11:12:19.000Z",
+      "ranking": 5.992156558801951,
+      "articleUrl": "https://www.theverge.com/news/812443/openai-amazon-38-billion-cloud-computing-ai"
+    },
+    {
+      "id": "156",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Denario AI Research",
+      "mediumTitle": "Denario: AI Research Assistant",
+      "longTitle": "Denario: AI System Conducts Autonomous Scientific Research",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Denario is an AI system developed by an",
+            "international team that functions as an",
+            "AI research assistant, capable of",
+            "autonomously conducting scientific",
+            "research across multiple disciplines.",
+            "The system can generate research ideas,",
+            "review literature, develop",
+            "methodologies, write and execute code,",
+            "create visualizations, and draft",
+            "academic papers, completing the process",
+            "in about 30 minutes for approximately",
+            "$4.",
+            "Notably, one AI-generated paper was",
+            "accepted for publication at the",
+            "Agents4Science 2025 conference, where AI",
+            "systems are the primary authors."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-03T10:40:00.000Z",
+      "ranking": 5.8102710785403815,
+      "articleUrl": "https://venturebeat.com/ai/meet-denario-the-ai-research-assistant-that-is-already-getting-its-own"
+    },
+    {
       "id": "146",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -373,7 +373,7 @@
         }
       ],
       "publishedAt": "2025-11-02T16:44:14.000Z",
-      "ranking": 5.610504641588813,
+      "ranking": 5.037169052314265,
       "articleUrl": "https://www.marktechpost.com/2025/11/02/longcat-flash-omni-a-sota-open-source-omni-modal-model-with-560b-parameters-with-27b-activated-excelling-at-real-time-audio-visual-interaction/"
     },
     {
@@ -405,7 +405,7 @@
         }
       ],
       "publishedAt": "2025-11-02T06:00:00.000Z",
-      "ranking": 3.9105982515339806,
+      "ranking": 3.1880914943776197,
       "articleUrl": "https://venturebeat.com/ai/moving-past-speculation-how-deterministic-cpus-deliver-predictable-ai"
     },
     {
@@ -1415,6 +1415,40 @@
       "articleUrl": "https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch"
     },
     {
+      "id": "110",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Chat Limits",
+      "mediumTitle": "Character.AI Restricts Under 18s",
+      "longTitle": "Character.AI Implements Age Restrictions for Underage Users",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Character.AI, a platform enabling",
+            "interaction with AI characters, is",
+            "implementing a new policy to restrict",
+            "access for users under the age of 18.",
+            "This initiative involves gradually",
+            "phasing out open-ended chats for minors",
+            "and introducing mechanisms to verify",
+            "user age.",
+            "Initially, users identified as under 18",
+            "will face a limitation of two hours per",
+            "day for engaging in \u0022open-ended chats\u0022",
+            "with the AI characters.",
+            "This daily time limit is set to",
+            "progressively decrease, ultimately",
+            "leading to a complete ban from these",
+            "types of interactions for underage",
+            "users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
+    },
+    {
       "id": "111",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -1450,111 +1484,6 @@
       "publishedAt": "2025-10-29T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates"
-    },
-    {
-      "id": "110",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Chat Limits",
-      "mediumTitle": "Character.AI Restricts Under 18s",
-      "longTitle": "Character.AI Implements Age Restrictions for Underage Users",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Character.AI, a platform enabling",
-            "interaction with AI characters, is",
-            "implementing a new policy to restrict",
-            "access for users under the age of 18.",
-            "This initiative involves gradually",
-            "phasing out open-ended chats for minors",
-            "and introducing mechanisms to verify",
-            "user age.",
-            "Initially, users identified as under 18",
-            "will face a limitation of two hours per",
-            "day for engaging in \u0022open-ended chats\u0022",
-            "with the AI characters.",
-            "This daily time limit is set to",
-            "progressively decrease, ultimately",
-            "leading to a complete ban from these",
-            "types of interactions for underage",
-            "users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
-    },
-    {
-      "id": "112",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Grokipedia Biased",
-      "mediumTitle": "Grokipedia Launched with Bias Claims",
-      "longTitle": "Grokipedia Launched by xAI, Faces Bias Accusations",
-      "paragraphs": [
-        {
-          "Lines": [
-            "However, early observations and reports",
-            "suggest that Grokipedia exhibits",
-            "significant biases, including racism and",
-            "transphobia, and a strong, uncritical",
-            "admiration for Elon Musk himself.",
-            "Grokipedia, a new online encyclopedia",
-            "launched by Elon Musk\u0027s startup xAI, is",
-            "being promoted as a less \u0027woke\u0027 and less",
-            "biased alternative to Wikipedia, with",
-            "the stated goal of presenting \u0027the",
-            "truth, the whole truth and nothing but",
-            "the truth\u0027.",
-            "Specifically, it has been flagged for",
-            "displaying racist sentiments and",
-            "transphobic viewpoints, contradicting",
-            "Musk\u0027s claims of neutrality and",
-            "truthfulness."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T09:30:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808514/grokipedia-wikipedia-comparison"
-    },
-    {
-      "id": "113",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Cameo sues OpenAI",
-      "mediumTitle": "Cameo sues OpenAI over \u0027cameo\u0027 name",
-      "longTitle": "Cameo alleges trademark infringement by OpenAI\u0027s Sora 2",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Cameo, the platform known for",
-            "personalized celebrity video messages,",
-            "has filed a lawsuit against OpenAI,",
-            "alleging trademark infringement over the",
-            "use of the term \u0027cameo\u0027 in relation to",
-            "OpenAI\u0027s new video generation model,",
-            "Sora 2.",
-            "Cameo is seeking to prevent OpenAI from",
-            "using the term \u0027cameo\u0027 in connection",
-            "with its AI video generation technology.",
-            "The company is likely aiming for an",
-            "injunction to stop OpenAI\u0027s use of the",
-            "name and potentially seeking damages for",
-            "the alleged infringement.",
-            "The lawsuit, lodged in a California",
-            "federal court, contends that OpenAI\u0027s",
-            "adoption of the term \u0027cameo\u0027 for its",
-            "AI-powered video feature is a deliberate",
-            "attempt to compete directly with Cameo\u0027s",
-            "established business."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T09:25:29.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/808750/openai-sora-cameo-celebrity-deepfake-trademark-lawsuit"
     }
   ]
 }
