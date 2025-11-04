@@ -1,40 +1,6 @@
 {
   "articles": [
     {
-      "id": "157",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Gemma Model Controversy",
-      "mediumTitle": "Google\u0027s Gemma Model Removed Amidst Controversy",
-      "longTitle": "Google\u0027s Gemma Model Removal Highlights AI Model Lifecycle Risks",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google removed its Gemma model from AI",
-            "Studio following a statement from",
-            "Senator Marsha Blackburn alleging that",
-            "the model \u0022willfully hallucinated",
-            "falsehoods\u0022 about her, fabricating",
-            "defamatory news stories.",
-            "The article stresses the importance for",
-            "enterprise developers to save their",
-            "projects locally or in a way that",
-            "ensures continuity, as AI models can be",
-            "removed from platforms due to technical",
-            "issues, political controversies, or",
-            "company decisions.",
-            "The controversy underscores the dangers",
-            "of relying on experimental AI models,",
-            "which can produce inaccurate or harmful",
-            "information."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-03T06:00:00.000Z",
-      "ranking": 8.113636363636363,
-      "articleUrl": "https://venturebeat.com/ai/developers-beware-googles-gemma-model-controversy-exposes-model-lifecycle"
-    },
-    {
       "id": "151",
       "topic": "Business",
       "source": "VentureBeat AI",
@@ -104,40 +70,6 @@
       "publishedAt": "2025-11-03T18:20:38.000Z",
       "ranking": 7.925000000000001,
       "articleUrl": "https://www.theverge.com/news/812848/chatgpt-legal-medical-advice-rumor"
-    },
-    {
-      "id": "150",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Gemma AI Pulled",
-      "mediumTitle": "Google\u0027s Gemma AI Temporarily Removed",
-      "longTitle": "Google Temporarily Removes Gemma AI Following Allegations",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has temporarily removed its AI",
-            "model, Gemma, from its AI Studio",
-            "platform following a complaint from a",
-            "Republican senator.",
-            "The senator alleged that Gemma",
-            "fabricated serious criminal allegations",
-            "about her.",
-            "This event underscores the ongoing",
-            "challenges in controlling AI outputs and",
-            "the critical importance of ethical",
-            "considerations in the development and",
-            "release of artificial intelligence",
-            "technologies.",
-            "Google stated that it observed instances",
-            "of non-developers attempting to use",
-            "Gemma within AI Studio and prompting it",
-            "with inappropriate requests."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-03T07:40:40.000Z",
-      "ranking": 7.7555555555555555,
-      "articleUrl": "https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination"
     },
     {
       "id": "152",
@@ -274,6 +206,40 @@
       "articleUrl": "https://www.theverge.com/news/812443/openai-amazon-38-billion-cloud-computing-ai"
     },
     {
+      "id": "157",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Gemma Model Controversy",
+      "mediumTitle": "Google\u0027s Gemma Model Removed Amidst Controversy",
+      "longTitle": "Google\u0027s Gemma Model Removal Highlights AI Model Lifecycle Risks",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google removed its Gemma model from AI",
+            "Studio following a statement from",
+            "Senator Marsha Blackburn alleging that",
+            "the model \u0022willfully hallucinated",
+            "falsehoods\u0022 about her, fabricating",
+            "defamatory news stories.",
+            "The article stresses the importance for",
+            "enterprise developers to save their",
+            "projects locally or in a way that",
+            "ensures continuity, as AI models can be",
+            "removed from platforms due to technical",
+            "issues, political controversies, or",
+            "company decisions.",
+            "The controversy underscores the dangers",
+            "of relying on experimental AI models,",
+            "which can produce inaccurate or harmful",
+            "information."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-03T06:00:00.000Z",
+      "ranking": 6.939584609161092,
+      "articleUrl": "https://venturebeat.com/ai/developers-beware-googles-gemma-model-controversy-exposes-model-lifecycle"
+    },
+    {
       "id": "156",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -305,6 +271,40 @@
       "publishedAt": "2025-11-03T10:40:00.000Z",
       "ranking": 6.925,
       "articleUrl": "https://venturebeat.com/ai/meet-denario-the-ai-research-assistant-that-is-already-getting-its-own"
+    },
+    {
+      "id": "150",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Gemma AI Pulled",
+      "mediumTitle": "Google\u0027s Gemma AI Temporarily Removed",
+      "longTitle": "Google Temporarily Removes Gemma AI Following Allegations",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has temporarily removed its AI",
+            "model, Gemma, from its AI Studio",
+            "platform following a complaint from a",
+            "Republican senator.",
+            "The senator alleged that Gemma",
+            "fabricated serious criminal allegations",
+            "about her.",
+            "This event underscores the ongoing",
+            "challenges in controlling AI outputs and",
+            "the critical importance of ethical",
+            "considerations in the development and",
+            "release of artificial intelligence",
+            "technologies.",
+            "Google stated that it observed instances",
+            "of non-developers attempting to use",
+            "Gemma within AI Studio and prompting it",
+            "with inappropriate requests."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-03T07:40:40.000Z",
+      "ranking": 6.728110887845694,
+      "articleUrl": "https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination"
     },
     {
       "id": "153",
@@ -373,7 +373,7 @@
         }
       ],
       "publishedAt": "2025-11-02T16:44:14.000Z",
-      "ranking": 6.128101438470885,
+      "ranking": 5.610504641588813,
       "articleUrl": "https://www.marktechpost.com/2025/11/02/longcat-flash-omni-a-sota-open-source-omni-modal-model-with-560b-parameters-with-27b-activated-excelling-at-real-time-audio-visual-interaction/"
     },
     {
@@ -405,7 +405,7 @@
         }
       ],
       "publishedAt": "2025-11-02T06:00:00.000Z",
-      "ranking": 4.577320204116365,
+      "ranking": 3.9105982515339806,
       "articleUrl": "https://venturebeat.com/ai/moving-past-speculation-how-deterministic-cpus-deliver-predictable-ai"
     },
     {
@@ -440,7 +440,7 @@
         }
       ],
       "publishedAt": "2025-11-01T10:10:11.000Z",
-      "ranking": 0.811573705834995,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/01/anthropics-new-research-shows-claude-can-detect-injected-concepts-but-only-in-controlled-layers/"
     },
     {
@@ -1415,40 +1415,6 @@
       "articleUrl": "https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch"
     },
     {
-      "id": "110",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Chat Limits",
-      "mediumTitle": "Character.AI Restricts Under 18s",
-      "longTitle": "Character.AI Implements Age Restrictions for Underage Users",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Character.AI, a platform enabling",
-            "interaction with AI characters, is",
-            "implementing a new policy to restrict",
-            "access for users under the age of 18.",
-            "This initiative involves gradually",
-            "phasing out open-ended chats for minors",
-            "and introducing mechanisms to verify",
-            "user age.",
-            "Initially, users identified as under 18",
-            "will face a limitation of two hours per",
-            "day for engaging in \u0022open-ended chats\u0022",
-            "with the AI characters.",
-            "This daily time limit is set to",
-            "progressively decrease, ultimately",
-            "leading to a complete ban from these",
-            "types of interactions for underage",
-            "users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-29T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
-    },
-    {
       "id": "111",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -1484,6 +1450,40 @@
       "publishedAt": "2025-10-29T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates"
+    },
+    {
+      "id": "110",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Chat Limits",
+      "mediumTitle": "Character.AI Restricts Under 18s",
+      "longTitle": "Character.AI Implements Age Restrictions for Underage Users",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Character.AI, a platform enabling",
+            "interaction with AI characters, is",
+            "implementing a new policy to restrict",
+            "access for users under the age of 18.",
+            "This initiative involves gradually",
+            "phasing out open-ended chats for minors",
+            "and introducing mechanisms to verify",
+            "user age.",
+            "Initially, users identified as under 18",
+            "will face a limitation of two hours per",
+            "day for engaging in \u0022open-ended chats\u0022",
+            "with the AI characters.",
+            "This daily time limit is set to",
+            "progressively decrease, ultimately",
+            "leading to a complete ban from these",
+            "types of interactions for underage",
+            "users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-10-29T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban"
     },
     {
       "id": "112",
