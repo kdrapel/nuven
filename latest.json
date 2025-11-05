@@ -174,40 +174,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/04/how-can-we-build-scalable-and-reproducible-machine-learning-experiment-pipelines-using-meta-research-hydra/"
     },
     {
-      "id": "166",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Zendesk AI Boost",
-      "mediumTitle": "Zendesk\u0027s AI Transformation",
-      "longTitle": "Zendesk Enhances Customer Support with GPT-5 and HyperArc",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Zendesk is significantly transforming",
-            "its customer support by integrating",
-            "GPT-5 and acquiring HyperArc to enhance",
-            "AI capabilities.",
-            "The integration of GPT-5 marks a",
-            "significant leap from basic chatbots to",
-            "agents capable of taking action, like",
-            "processing returns and issuing refunds.",
-            "GPT-5\u0027s enhanced reasoning and",
-            "action-taking capabilities, coupled with",
-            "improved intent understanding and over",
-            "95% reliability, lead to a better",
-            "customer experience.",
-            "Specifically, GPT-5 reduces workflow",
-            "failures by 30% and fallback escalations",
-            "by over 20%, resulting in faster",
-            "resolutions and fewer hand-offs."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T05:00:00.000Z",
-      "ranking": 7.659090909090907,
-      "articleUrl": "https://venturebeat.com/ai/inside-zendesks-dual-ai-leap-from-reliable-agents-to-real-time-intelligence"
-    },
-    {
       "id": "164",
       "topic": "Business",
       "source": "VentureBeat AI",
@@ -241,40 +207,6 @@
       "publishedAt": "2025-11-04T09:00:00.000Z",
       "ranking": 7.657500000000001,
       "articleUrl": "https://venturebeat.com/ai/98-of-market-researchers-use-ai-daily-but-4-in-10-say-it-makes-errors"
-    },
-    {
-      "id": "165",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "SAP\u0027s RPT-1 AI",
-      "mediumTitle": "SAP RPT-1: Business-Ready AI Model",
-      "longTitle": "SAP Introduces RPT-1, a Foundational Tabular AI for Business",
-      "paragraphs": [
-        {
-          "Lines": [
-            "SAP is introducing SAP RPT-1, a",
-            "foundational \u0022tabular\u0022 AI model designed",
-            "to be ready-to-use for business tasks,",
-            "aiming to reduce the need for extensive",
-            "fine-tuning that is common with general",
-            "large language models (LLMs).",
-            "Unlike LLMs that are trained on text and",
-            "code, RPT-1 is trained on business",
-            "transaction data, essentially",
-            "spreadsheets, allowing it to perform",
-            "predictive analytics and other",
-            "enterprise functions out-of-the-box.",
-            "The distinction between tabular and LLMs",
-            "is significant, as tabular models like",
-            "RPT-1 understand numbers and the",
-            "relationships within data, offering more",
-            "structured and precise answers."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T06:00:00.000Z",
-      "ranking": 7.573333333333334,
-      "articleUrl": "https://venturebeat.com/ai/forget-fine-tuning-saps-rpt-1-brings-ready-to-use-ai-for-business-tasks"
     },
     {
       "id": "173",
@@ -526,6 +458,74 @@
       "articleUrl": "https://www.theverge.com/news/813755/amazon-perplexity-ai-shopping-agent-block"
     },
     {
+      "id": "165",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "SAP\u0027s RPT-1 AI",
+      "mediumTitle": "SAP RPT-1: Business-Ready AI Model",
+      "longTitle": "SAP Introduces RPT-1, a Foundational Tabular AI for Business",
+      "paragraphs": [
+        {
+          "Lines": [
+            "SAP is introducing SAP RPT-1, a",
+            "foundational \u0022tabular\u0022 AI model designed",
+            "to be ready-to-use for business tasks,",
+            "aiming to reduce the need for extensive",
+            "fine-tuning that is common with general",
+            "large language models (LLMs).",
+            "Unlike LLMs that are trained on text and",
+            "code, RPT-1 is trained on business",
+            "transaction data, essentially",
+            "spreadsheets, allowing it to perform",
+            "predictive analytics and other",
+            "enterprise functions out-of-the-box.",
+            "The distinction between tabular and LLMs",
+            "is significant, as tabular models like",
+            "RPT-1 understand numbers and the",
+            "relationships within data, offering more",
+            "structured and precise answers."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T06:00:00.000Z",
+      "ranking": 6.399241098112706,
+      "articleUrl": "https://venturebeat.com/ai/forget-fine-tuning-saps-rpt-1-brings-ready-to-use-ai-for-business-tasks"
+    },
+    {
+      "id": "166",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Zendesk AI Boost",
+      "mediumTitle": "Zendesk\u0027s AI Transformation",
+      "longTitle": "Zendesk Enhances Customer Support with GPT-5 and HyperArc",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Zendesk is significantly transforming",
+            "its customer support by integrating",
+            "GPT-5 and acquiring HyperArc to enhance",
+            "AI capabilities.",
+            "The integration of GPT-5 marks a",
+            "significant leap from basic chatbots to",
+            "agents capable of taking action, like",
+            "processing returns and issuing refunds.",
+            "GPT-5\u0027s enhanced reasoning and",
+            "action-taking capabilities, coupled with",
+            "improved intent understanding and over",
+            "95% reliability, lead to a better",
+            "customer experience.",
+            "Specifically, GPT-5 reduces workflow",
+            "failures by 30% and fallback escalations",
+            "by over 20%, resulting in faster",
+            "resolutions and fewer hand-offs."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T05:00:00.000Z",
+      "ranking": 6.392966278819574,
+      "articleUrl": "https://venturebeat.com/ai/inside-zendesks-dual-ai-leap-from-reliable-agents-to-real-time-intelligence"
+    },
+    {
       "id": "158",
       "topic": "Policy",
       "source": "The Verge AI",
@@ -559,7 +559,7 @@
         }
       ],
       "publishedAt": "2025-11-03T18:20:38.000Z",
-      "ranking": 5.955459376273612,
+      "ranking": 5.462527666500861,
       "articleUrl": "https://www.theverge.com/news/812848/chatgpt-legal-medical-advice-rumor"
     },
     {
@@ -593,7 +593,7 @@
         }
       ],
       "publishedAt": "2025-11-03T16:00:00.000Z",
-      "ranking": 5.733469721407836,
+      "ranking": 5.208148708781137,
       "articleUrl": "https://venturebeat.com/ai/strengthening-our-core-welcoming-karyne-levy-as-venturebeats-new-managing"
     },
     {
@@ -627,7 +627,7 @@
         }
       ],
       "publishedAt": "2025-11-03T13:34:13.000Z",
-      "ranking": 5.1626228591566905,
+      "ranking": 4.60372643994888,
       "articleUrl": "https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement"
     },
     {
@@ -658,7 +658,7 @@
         }
       ],
       "publishedAt": "2025-11-03T13:06:02.000Z",
-      "ranking": 5.0195199957188,
+      "ranking": 4.45413266404357,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812455/ai-industry-earnings-bubble-fomo-hype"
     },
     {
@@ -691,7 +691,7 @@
         }
       ],
       "publishedAt": "2025-11-03T15:00:00.000Z",
-      "ranking": 4.798925522861161,
+      "ranking": 4.259785890492255,
       "articleUrl": "https://venturebeat.com/ai/the-beginning-of-the-end-of-the-transformer-era-neuro-symbolic-ai-startup"
     },
     {
@@ -725,7 +725,7 @@
         }
       ],
       "publishedAt": "2025-11-03T06:00:00.000Z",
-      "ranking": 4.435940554664933,
+      "ranking": 3.772433344699394,
       "articleUrl": "https://venturebeat.com/ai/developers-beware-googles-gemma-model-controversy-exposes-model-lifecycle"
     },
     {
@@ -759,7 +759,7 @@
         }
       ],
       "publishedAt": "2025-11-03T07:40:40.000Z",
-      "ranking": 4.341099396399496,
+      "ranking": 3.700776721583386,
       "articleUrl": "https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination"
     },
     {
@@ -795,41 +795,8 @@
         }
       ],
       "publishedAt": "2025-11-03T11:12:19.000Z",
-      "ranking": 4.167124413175054,
+      "ranking": 3.5755469233576167,
       "articleUrl": "https://www.theverge.com/news/812443/openai-amazon-38-billion-cloud-computing-ai"
-    },
-    {
-      "id": "156",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Denario AI Research",
-      "mediumTitle": "Denario: AI Research Assistant",
-      "longTitle": "Denario: AI System Conducts Autonomous Scientific Research",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Denario is an AI system developed by an",
-            "international team that functions as an",
-            "AI research assistant, capable of",
-            "autonomously conducting scientific",
-            "research across multiple disciplines.",
-            "The system can generate research ideas,",
-            "review literature, develop",
-            "methodologies, write and execute code,",
-            "create visualizations, and draft",
-            "academic papers, completing the process",
-            "in about 30 minutes for approximately",
-            "$4.",
-            "Notably, one AI-generated paper was",
-            "accepted for publication at the",
-            "Agents4Science 2025 conference, where AI",
-            "systems are the primary authors."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-03T10:40:00.000Z",
-      "ranking": 3.955279562936892,
-      "articleUrl": "https://venturebeat.com/ai/meet-denario-the-ai-research-assistant-that-is-already-getting-its-own"
     },
     {
       "id": "153",
@@ -865,8 +832,41 @@
         }
       ],
       "publishedAt": "2025-11-03T13:31:51.000Z",
-      "ranking": 3.9273527141856612,
+      "ranking": 3.3679111982569143,
       "articleUrl": "https://www.theverge.com/news/812559/coca-cola-ai-holiday-christmas-commercial-2025"
+    },
+    {
+      "id": "156",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Denario AI Research",
+      "mediumTitle": "Denario: AI Research Assistant",
+      "longTitle": "Denario: AI System Conducts Autonomous Scientific Research",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Denario is an AI system developed by an",
+            "international team that functions as an",
+            "AI research assistant, capable of",
+            "autonomously conducting scientific",
+            "research across multiple disciplines.",
+            "The system can generate research ideas,",
+            "review literature, develop",
+            "methodologies, write and execute code,",
+            "create visualizations, and draft",
+            "academic papers, completing the process",
+            "in about 30 minutes for approximately",
+            "$4.",
+            "Notably, one AI-generated paper was",
+            "accepted for publication at the",
+            "Agents4Science 2025 conference, where AI",
+            "systems are the primary authors."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-03T10:40:00.000Z",
+      "ranking": 3.3562592050663067,
+      "articleUrl": "https://venturebeat.com/ai/meet-denario-the-ai-research-assistant-that-is-already-getting-its-own"
     },
     {
       "id": "146",
@@ -898,7 +898,7 @@
         }
       ],
       "publishedAt": "2025-11-02T16:44:14.000Z",
-      "ranking": 2.1848813897439507,
+      "ranking": 1.3381008795460287,
       "articleUrl": "https://www.marktechpost.com/2025/11/02/longcat-flash-omni-a-sota-open-source-omni-modal-model-with-560b-parameters-with-27b-activated-excelling-at-real-time-audio-visual-interaction/"
     },
     {
