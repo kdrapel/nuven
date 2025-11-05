@@ -35,6 +35,40 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/05/google-ai-introduces-consistency-training-for-safer-language-models-under-sycophantic-and-jailbreak-style-prompts/"
     },
     {
+      "id": "186",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini Accesses Data",
+      "mediumTitle": "Gemini Deep Research Integrates Personal Data",
+      "longTitle": "Google Gemini\u0027s Deep Research Now Analyzes User\u0027s Personal Data",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google\u0027s Gemini, a powerful AI agent",
+            "designed for creating research reports,",
+            "has introduced a significant new",
+            "capability: the ability to access and",
+            "analyze a user\u0027s personal data,",
+            "including emails, Google Drive",
+            "documents, and chats.",
+            "However, the ability of an AI to access",
+            "and process such sensitive personal data",
+            "also raises significant privacy and",
+            "security concerns.",
+            "While Google emphasizes that this is a",
+            "user-controlled feature, the mere",
+            "existence of such a capability",
+            "necessitates careful consideration of",
+            "data handling, consent, and potential",
+            "misuse."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T18:09:51.000Z",
+      "ranking": 8.049999999999999,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized"
+    },
+    {
       "id": "179",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -68,42 +102,6 @@
       "publishedAt": "2025-11-05T18:44:00.000Z",
       "ranking": 8.01904761904762,
       "articleUrl": "https://venturebeat.com/ai/the-agent-builder-arms-race-continues-as-google-cloud-pushes-deeper-into"
-    },
-    {
-      "id": "169",
-      "topic": "Model Eval",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Judges Explained",
-      "mediumTitle": "Databricks\u0027 AI Judges for Output Quality",
-      "longTitle": "Databricks\u0027 AI Judges: Solving Enterprise AI Output Quality Challenges",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The primary obstacle to enterprise AI",
-            "deployment is not the technical",
-            "intelligence of AI models, but rather",
-            "the difficulty in defining and measuring",
-            "AI output quality, which is where \u0027AI",
-            "judges\u0027 come into play.",
-            "An AI judge is an AI system designed to",
-            "score the outputs of another AI system,",
-            "and Databricks\u0027 \u0027Judge Builder\u0027",
-            "framework, initially part of their Agent",
-            "Bricks technology, has evolved to",
-            "address this challenge.",
-            "Databricks now offers a structured",
-            "workshop process to help teams overcome",
-            "three core challenges: achieving",
-            "stakeholder consensus on quality",
-            "criteria, capturing domain expertise",
-            "from limited subject matter experts, and",
-            "deploying evaluation systems at scale."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T21:00:00.000Z",
-      "ranking": 7.975000000000001,
-      "articleUrl": "https://venturebeat.com/ai/databricks-research-reveals-that-building-better-ai-judges-isnt-just-a"
     },
     {
       "id": "180",
@@ -321,40 +319,6 @@
       "articleUrl": "https://www.theverge.com/tech/813944/browser-wars-chatgpt-gemini-chrome"
     },
     {
-      "id": "170",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Brumby AI Model",
-      "mediumTitle": "Brumby-14B-Base: Attention-Free AI",
-      "longTitle": "Manifest AI\u0027s Brumby-14B-Base challenges transformer dominance with Power Retention",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Manifest AI has introduced",
-            "Brumby-14B-Base, a new large language",
-            "model variant that moves away from the",
-            "standard transformer architecture by",
-            "replacing its attention mechanism with a",
-            "novel \u0027Power Retention\u0027 technique.",
-            "The \u0027Power Retention\u0027 method is a",
-            "recurrent, hardware-efficient",
-            "architecture that maintains a constant",
-            "computational cost per token, unlike the",
-            "attention mechanism\u0027s quadratic scaling",
-            "with context length.",
-            "This innovation addresses the quadratic",
-            "scaling issues of the computationally",
-            "expensive \u0027attention\u0027 mechanism, which",
-            "hinders processing of long data",
-            "sequences."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T20:37:00.000Z",
-      "ranking": 7.420000000000001,
-      "articleUrl": "https://venturebeat.com/ai/attention-isnt-all-you-need-new-qwen3-variant-brumby-14b-base-leverages"
-    },
-    {
       "id": "183",
       "topic": "NLP",
       "source": "Marktechpost AI",
@@ -426,6 +390,78 @@
       "articleUrl": "https://www.theverge.com/news/814042/getty-lawsuit-stability-ai-copyright-ruling-uk"
     },
     {
+      "id": "187",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Apple \u0026 Google AI",
+      "mediumTitle": "Apple to Integrate Google Gemini AI",
+      "longTitle": "Apple Reportedly Planning to Integrate Google\u0027s Gemini AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Apple is reportedly planning to",
+            "integrate a custom version of Google\u0027s",
+            "Gemini AI model into its upcoming",
+            "AI-powered features, codenamed \u0022Apple",
+            "Intelligence.\u0022",
+            "Specifically, Gemini will be utilized to",
+            "generate summaries of text and perform",
+            "planning-related tasks.",
+            "This significant move, detailed in a",
+            "Bloomberg report by Mark Gurman,",
+            "suggests a strategic partnership where",
+            "Apple would pay Google approximately $1",
+            "billion annually for access to Gemini\u0027s",
+            "capabilities.",
+            "The integration of Gemini is expected to",
+            "be a key component of Apple",
+            "Intelligence, which aims to bring more",
+            "sophisticated AI capabilities across",
+            "Apple devices."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T16:12:33.000Z",
+      "ranking": 7.3166666666666655,
+      "articleUrl": "https://www.theverge.com/news/814654/apple-intelligence-google-gemini-ai-siri"
+    },
+    {
+      "id": "169",
+      "topic": "Model Eval",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Judges Explained",
+      "mediumTitle": "Databricks\u0027 AI Judges for Output Quality",
+      "longTitle": "Databricks\u0027 AI Judges: Solving Enterprise AI Output Quality Challenges",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The primary obstacle to enterprise AI",
+            "deployment is not the technical",
+            "intelligence of AI models, but rather",
+            "the difficulty in defining and measuring",
+            "AI output quality, which is where \u0027AI",
+            "judges\u0027 come into play.",
+            "An AI judge is an AI system designed to",
+            "score the outputs of another AI system,",
+            "and Databricks\u0027 \u0027Judge Builder\u0027",
+            "framework, initially part of their Agent",
+            "Bricks technology, has evolved to",
+            "address this challenge.",
+            "Databricks now offers a structured",
+            "workshop process to help teams overcome",
+            "three core challenges: achieving",
+            "stakeholder consensus on quality",
+            "criteria, capturing domain expertise",
+            "from limited subject matter experts, and",
+            "deploying evaluation systems at scale."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T21:00:00.000Z",
+      "ranking": 6.706661756601422,
+      "articleUrl": "https://venturebeat.com/ai/databricks-research-reveals-that-building-better-ai-judges-isnt-just-a"
+    },
+    {
       "id": "168",
       "topic": "Vision",
       "source": "The Verge AI",
@@ -454,43 +490,79 @@
         }
       ],
       "publishedAt": "2025-11-04T12:57:50.000Z",
-      "ranking": 6.995154328416531,
+      "ranking": 6.536781324883339,
       "articleUrl": "https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance"
     },
     {
-      "id": "163",
-      "topic": "Education",
-      "source": "The Verge AI",
-      "shortTitle": "AI Targets Students",
-      "mediumTitle": "AI Companies Court Students for Future Growth",
-      "longTitle": "AI Companies Strategically Target Students for Future Market Dominance",
+      "id": "185",
+      "topic": "Business",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Cost Crunch",
+      "mediumTitle": "AI\u0027s Emerging Capacity Crunch",
+      "longTitle": "AI Faces Capacity Crunch Driven by Costs and Efficiency Needs",
       "paragraphs": [
         {
           "Lines": [
-            "Tech companies are actively targeting",
-            "students with their AI agents,",
-            "recognizing them as crucial for future",
-            "business growth.",
-            "Companies are likely choosing not to",
-            "actively discourage AI use for cheating",
-            "because the benefits of hooking students",
-            "outweigh the perceived risks of academic",
-            "misconduct.",
-            "This proactive approach suggests that AI",
-            "companies are not only aware of but also",
-            "implicitly condone the use of their AI",
-            "tools by students, even when that use",
-            "might involve academic dishonesty.",
-            "The AI industry\u0027s business model is",
-            "intrinsically linked to the future",
-            "adoption and integration of AI by",
-            "younger generations."
+            "AI is facing an emerging \u0022capacity",
+            "crunch\u0022 due to rising costs, latency",
+            "issues, and an impending shift towards",
+            "real market pricing, akin to surge",
+            "pricing in ride-sharing services.",
+            "Val Bercovici, chief AI officer at WEKA,",
+            "argues that current AI rates are",
+            "subsidized, enabling innovation, but",
+            "this will change as significant capital",
+            "expenditures and finite energy resources",
+            "necessitate realistic market pricing,",
+            "likely by 2027.",
+            "Accuracy, particularly in output tokens,",
+            "is non-negotiable for both",
+            "consumer-facing AI agents like ChatGPT",
+            "and high-stakes applications in fields",
+            "like drug discovery and regulated",
+            "industries.",
+            "Bercovici emphasizes that \u0022unit",
+            "economics\u0022 are paramount."
           ]
         }
       ],
-      "publishedAt": "2025-11-04T09:20:33.000Z",
-      "ranking": 6.235236867798793,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students"
+      "publishedAt": "2025-11-05T06:00:00.000Z",
+      "ranking": 6.5249999999999995,
+      "articleUrl": "https://venturebeat.com/ai/ais-capacity-crunch-latency-risk-escalating-costs-and-the-coming-surge"
+    },
+    {
+      "id": "170",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Brumby AI Model",
+      "mediumTitle": "Brumby-14B-Base: Attention-Free AI",
+      "longTitle": "Manifest AI\u0027s Brumby-14B-Base challenges transformer dominance with Power Retention",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Manifest AI has introduced",
+            "Brumby-14B-Base, a new large language",
+            "model variant that moves away from the",
+            "standard transformer architecture by",
+            "replacing its attention mechanism with a",
+            "novel \u0027Power Retention\u0027 technique.",
+            "The \u0027Power Retention\u0027 method is a",
+            "recurrent, hardware-efficient",
+            "architecture that maintains a constant",
+            "computational cost per token, unlike the",
+            "attention mechanism\u0027s quadratic scaling",
+            "with context length.",
+            "This innovation addresses the quadratic",
+            "scaling issues of the computationally",
+            "expensive \u0027attention\u0027 mechanism, which",
+            "hinders processing of long data",
+            "sequences."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T20:37:00.000Z",
+      "ranking": 6.115430631558739,
+      "articleUrl": "https://venturebeat.com/ai/attention-isnt-all-you-need-new-qwen3-variant-brumby-14b-base-leverages"
     },
     {
       "id": "173",
@@ -525,41 +597,43 @@
         }
       ],
       "publishedAt": "2025-11-04T17:01:37.000Z",
-      "ranking": 6.183438554374483,
+      "ranking": 5.781383929186536,
       "articleUrl": "https://www.theverge.com/tech/813523/gemini-for-home-google-nest-camera-hands-on"
     },
     {
-      "id": "161",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "LLM C2C Comms",
-      "mediumTitle": "Cache-to-Cache LLM Collaboration",
-      "longTitle": "Cache-to-Cache: A Novel LLM Communication Paradigm",
+      "id": "163",
+      "topic": "Education",
+      "source": "The Verge AI",
+      "shortTitle": "AI Targets Students",
+      "mediumTitle": "AI Companies Court Students for Future Growth",
+      "longTitle": "AI Companies Strategically Target Students for Future Market Dominance",
       "paragraphs": [
         {
           "Lines": [
-            "Cache-to-Cache (C2C) is a novel",
-            "communication paradigm that enables",
-            "large language models (LLMs) to",
-            "collaborate without exchanging textual",
-            "tokens.",
-            "Developed by a research team from",
-            "Tsinghua University, Infinigence AI, The",
-            "Chinese University of Hong Kong,",
-            "Shanghai AI Laboratory, and Shanghai",
-            "Jiao Tong University, C2C facilitates",
-            "direct semantic communication by",
-            "leveraging the KV-Cache of LLMs.",
-            "C2C proposes an alternative approach",
-            "where LLMs can directly share and fuse",
-            "their internal representations stored in",
-            "the KV-Cache."
+            "Tech companies are actively targeting",
+            "students with their AI agents,",
+            "recognizing them as crucial for future",
+            "business growth.",
+            "Companies are likely choosing not to",
+            "actively discourage AI use for cheating",
+            "because the benefits of hooking students",
+            "outweigh the perceived risks of academic",
+            "misconduct.",
+            "This proactive approach suggests that AI",
+            "companies are not only aware of but also",
+            "implicitly condone the use of their AI",
+            "tools by students, even when that use",
+            "might involve academic dishonesty.",
+            "The AI industry\u0027s business model is",
+            "intrinsically linked to the future",
+            "adoption and integration of AI by",
+            "younger generations."
           ]
         }
       ],
-      "publishedAt": "2025-11-04T09:32:23.000Z",
-      "ranking": 6.0228169460260155,
-      "articleUrl": "https://www.marktechpost.com/2025/11/04/cache-to-cachec2c-direct-semantic-communication-between-large-language-models-via-kv-cache-fusion/"
+      "publishedAt": "2025-11-04T09:20:33.000Z",
+      "ranking": 5.72666743916399,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students"
     },
     {
       "id": "174",
@@ -594,8 +668,41 @@
         }
       ],
       "publishedAt": "2025-11-04T19:51:44.000Z",
-      "ranking": 5.904435528943501,
+      "ranking": 5.541680947665755,
       "articleUrl": "https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites"
+    },
+    {
+      "id": "161",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "LLM C2C Comms",
+      "mediumTitle": "Cache-to-Cache LLM Collaboration",
+      "longTitle": "Cache-to-Cache: A Novel LLM Communication Paradigm",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Cache-to-Cache (C2C) is a novel",
+            "communication paradigm that enables",
+            "large language models (LLMs) to",
+            "collaborate without exchanging textual",
+            "tokens.",
+            "Developed by a research team from",
+            "Tsinghua University, Infinigence AI, The",
+            "Chinese University of Hong Kong,",
+            "Shanghai AI Laboratory, and Shanghai",
+            "Jiao Tong University, C2C facilitates",
+            "direct semantic communication by",
+            "leveraging the KV-Cache of LLMs.",
+            "C2C proposes an alternative approach",
+            "where LLMs can directly share and fuse",
+            "their internal representations stored in",
+            "the KV-Cache."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T09:32:23.000Z",
+      "ranking": 5.516981230499869,
+      "articleUrl": "https://www.marktechpost.com/2025/11/04/cache-to-cachec2c-direct-semantic-communication-between-large-language-models-via-kv-cache-fusion/"
     },
     {
       "id": "167",
@@ -631,7 +738,7 @@
         }
       ],
       "publishedAt": "2025-11-04T14:51:31.000Z",
-      "ranking": 5.880252818218314,
+      "ranking": 5.448142715905595,
       "articleUrl": "https://www.theverge.com/news/813533/openai-sora-android-launch"
     },
     {
@@ -666,7 +773,7 @@
         }
       ],
       "publishedAt": "2025-11-04T09:00:00.000Z",
-      "ranking": 5.526273323122154,
+      "ranking": 5.012956468215128,
       "articleUrl": "https://venturebeat.com/ai/98-of-market-researchers-use-ai-daily-but-4-in-10-say-it-makes-errors"
     },
     {
@@ -700,7 +807,7 @@
         }
       ],
       "publishedAt": "2025-11-04T17:48:09.000Z",
-      "ranking": 5.397986665211316,
+      "ranking": 5.006682076844879,
       "articleUrl": "https://www.theverge.com/news/813789/microsoft-in-house-ai-image-generator-mai-image-1"
     },
     {
@@ -735,7 +842,7 @@
         }
       ],
       "publishedAt": "2025-11-04T17:36:41.000Z",
-      "ranking": 5.34390745967821,
+      "ranking": 4.949953861993883,
       "articleUrl": "https://www.theverge.com/news/813755/amazon-perplexity-ai-shopping-agent-block"
     },
     {
@@ -772,7 +879,7 @@
         }
       ],
       "publishedAt": "2025-11-04T10:00:00.000Z",
-      "ranking": 5.1977841230118145,
+      "ranking": 4.698328357730612,
       "articleUrl": "https://www.theverge.com/news/813102/amazon-music-alexa-plus-ai-integration"
     },
     {
@@ -806,7 +913,7 @@
         }
       ],
       "publishedAt": "2025-11-04T06:00:00.000Z",
-      "ranking": 5.061513605695694,
+      "ranking": 4.506613468541305,
       "articleUrl": "https://venturebeat.com/ai/forget-fine-tuning-saps-rpt-1-brings-ready-to-use-ai-for-business-tasks"
     },
     {
@@ -840,7 +947,7 @@
         }
       ],
       "publishedAt": "2025-11-04T05:00:00.000Z",
-      "ranking": 5.013462387682884,
+      "ranking": 4.444701156207763,
       "articleUrl": "https://venturebeat.com/ai/inside-zendesks-dual-ai-leap-from-reliable-agents-to-real-time-intelligence"
     },
     {
@@ -877,7 +984,7 @@
         }
       ],
       "publishedAt": "2025-11-03T18:20:38.000Z",
-      "ranking": 3.637849830495459,
+      "ranking": 2.921383252081167,
       "articleUrl": "https://www.theverge.com/news/812848/chatgpt-legal-medical-advice-rumor"
     },
     {
@@ -911,7 +1018,7 @@
         }
       ],
       "publishedAt": "2025-11-03T16:00:00.000Z",
-      "ranking": 3.285551635665568,
+      "ranking": 2.5365961948245763,
       "articleUrl": "https://venturebeat.com/ai/strengthening-our-core-welcoming-karyne-levy-as-venturebeats-new-managing"
     },
     {
@@ -945,7 +1052,7 @@
         }
       ],
       "publishedAt": "2025-11-03T13:34:13.000Z",
-      "ranking": 2.5796243243393517,
+      "ranking": 1.796990265728919,
       "articleUrl": "https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement"
     },
     {
@@ -976,7 +1083,7 @@
         }
       ],
       "publishedAt": "2025-11-03T13:06:02.000Z",
-      "ranking": 2.410407246232902,
+      "ranking": 1.6212623195421587,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812455/ai-industry-earnings-bubble-fomo-hype"
     },
     {
@@ -1009,7 +1116,7 @@
         }
       ],
       "publishedAt": "2025-11-03T15:00:00.000Z",
-      "ranking": 2.2954124214724914,
+      "ranking": 1.5325958692630737,
       "articleUrl": "https://venturebeat.com/ai/the-beginning-of-the-end-of-the-transformer-era-neuro-symbolic-ai-startup"
     },
     {
@@ -1045,42 +1152,8 @@
         }
       ],
       "publishedAt": "2025-11-03T11:12:19.000Z",
-      "ranking": 1.452644276286832,
+      "ranking": 0.6372287247007771,
       "articleUrl": "https://www.theverge.com/news/812443/openai-amazon-38-billion-cloud-computing-ai"
-    },
-    {
-      "id": "157",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Gemma Model Controversy",
-      "mediumTitle": "Google\u0027s Gemma Model Removed Amidst Controversy",
-      "longTitle": "Google\u0027s Gemma Model Removal Highlights AI Model Lifecycle Risks",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google removed its Gemma model from AI",
-            "Studio following a statement from",
-            "Senator Marsha Blackburn alleging that",
-            "the model \u0022willfully hallucinated",
-            "falsehoods\u0022 about her, fabricating",
-            "defamatory news stories.",
-            "The article stresses the importance for",
-            "enterprise developers to save their",
-            "projects locally or in a way that",
-            "ensures continuity, as AI models can be",
-            "removed from platforms due to technical",
-            "issues, political controversies, or",
-            "company decisions.",
-            "The controversy underscores the dangers",
-            "of relying on experimental AI models,",
-            "which can produce inaccurate or harmful",
-            "information."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-03T06:00:00.000Z",
-      "ranking": 1.4320722843774831,
-      "articleUrl": "https://venturebeat.com/ai/developers-beware-googles-gemma-model-controversy-exposes-model-lifecycle"
     },
     {
       "id": "150",
@@ -1113,7 +1186,7 @@
         }
       ],
       "publishedAt": "2025-11-03T07:40:40.000Z",
-      "ranking": 1.4305078413963699,
+      "ranking": 0.5661972957156758,
       "articleUrl": "https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination"
     },
     {
@@ -1150,8 +1223,42 @@
         }
       ],
       "publishedAt": "2025-11-03T13:31:51.000Z",
-      "ranking": 1.3421618342648713,
+      "ranking": 0.5589810347120387,
       "articleUrl": "https://www.theverge.com/news/812559/coca-cola-ai-holiday-christmas-commercial-2025"
+    },
+    {
+      "id": "157",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Gemma Model Controversy",
+      "mediumTitle": "Google\u0027s Gemma Model Removed Amidst Controversy",
+      "longTitle": "Google\u0027s Gemma Model Removal Highlights AI Model Lifecycle Risks",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google removed its Gemma model from AI",
+            "Studio following a statement from",
+            "Senator Marsha Blackburn alleging that",
+            "the model \u0022willfully hallucinated",
+            "falsehoods\u0022 about her, fabricating",
+            "defamatory news stories.",
+            "The article stresses the importance for",
+            "enterprise developers to save their",
+            "projects locally or in a way that",
+            "ensures continuity, as AI models can be",
+            "removed from platforms due to technical",
+            "issues, political controversies, or",
+            "company decisions.",
+            "The controversy underscores the dangers",
+            "of relying on experimental AI models,",
+            "which can produce inaccurate or harmful",
+            "information."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-03T06:00:00.000Z",
+      "ranking": 0.5445058729234677,
+      "articleUrl": "https://venturebeat.com/ai/developers-beware-googles-gemma-model-controversy-exposes-model-lifecycle"
     },
     {
       "id": "156",
@@ -1183,7 +1290,7 @@
         }
       ],
       "publishedAt": "2025-11-03T10:40:00.000Z",
-      "ranking": 1.2108553158263398,
+      "ranking": 0.38797402567370476,
       "articleUrl": "https://venturebeat.com/ai/meet-denario-the-ai-research-assistant-that-is-already-getting-its-own"
     },
     {
@@ -1457,110 +1564,6 @@
       "publishedAt": "2025-10-31T10:23:18.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/811340/perplexity-ai-patent-research-tool"
-    },
-    {
-      "id": "135",
-      "topic": "Policy",
-      "source": "Marktechpost AI",
-      "shortTitle": "AI Safety Models",
-      "mediumTitle": "OpenAI Releases Open-Weight AI Safety Models",
-      "longTitle": "OpenAI Introduces Open-Weight AI Safety Models for Enhanced Application Security",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The core innovation of gpt-oss-safeguard",
-            "lies in its \u0022policy-conditioned safety\u0022",
-            "capability.",
-            "This means the models are trained to",
-            "understand and apply specific safety",
-            "guidelines provided to them at runtime.",
-            "OpenAI has introduced a research preview",
-            "of \u0022gpt-oss-safeguard,\u0022 a new suite of",
-            "two open-weight reasoning models",
-            "designed to enhance safety in AI",
-            "applications.",
-            "This allows for a more dynamic and",
-            "adaptable approach to AI safety, where",
-            "policies can be adjusted or updated",
-            "without needing to retrain the entire",
-            "underlying AI model.",
-            "Their primary function is to allow",
-            "developers to implement custom safety",
-            "policies during the inference stage of",
-            "AI model deployment."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-31T09:08:18.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/10/31/openai-releases-research-preview-of-gpt-oss-safeguard-two-open-weight-reasoning-models-for-safety-classification-tasks/"
-    },
-    {
-      "id": "139",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Sora Credits",
-      "mediumTitle": "Sora Introduces Paid Credits",
-      "longTitle": "OpenAI\u0027s Sora Now Offers Paid Credits for Video Generation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has introduced a new feature for",
-            "its AI video generation platform, Sora,",
-            "allowing users to purchase additional",
-            "credits to create more videos.",
-            "The core message is the introduction of",
-            "a purchasable credit system to expand",
-            "video generation capabilities, coupled",
-            "with the foreshadowing of a decrease in",
-            "free allowances.",
-            "This indicates a strategic evolution for",
-            "Sora as OpenAI seeks to balance user",
-            "access, resource management, and",
-            "financial sustainability.",
-            "This move comes as OpenAI anticipates a",
-            "future reduction in free video",
-            "generation allowances for users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-31T08:16:01.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/811241/sora-pay-for-extra-video-gens"
-    },
-    {
-      "id": "134",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Agentic Data Strategy",
-      "mediumTitle": "Qwen Models for Pipeline Intelligence",
-      "longTitle": "Designing Autonomous Multi-Agent Data and Infrastructure Strategy System",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This article details how to design an",
-            "autonomous multi-agent system for data",
-            "and infrastructure strategy using",
-            "lightweight Qwen models for efficient",
-            "pipeline intelligence.",
-            "The core of this system is built using",
-            "the lightweight Qwen2.5-0.5B-Instruct",
-            "model, chosen for its efficiency in",
-            "execution.",
-            "The tutorial begins by establishing a",
-            "flexible Large Language Model (LLM)",
-            "agent framework as the foundation for",
-            "specialized agents.",
-            "These specialized agents are designed to",
-            "address distinct aspects of data",
-            "management and infrastructure",
-            "optimization."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-31T05:27:43.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/10/30/how-to-design-an-autonomous-multi-agent-data-and-infrastructure-strategy-system-using-lightweight-qwen-models-for-efficient-pipeline-intelligence/"
     }
   ]
 }
