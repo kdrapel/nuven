@@ -33,74 +33,6 @@
       "articleUrl": "https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance"
     },
     {
-      "id": "163",
-      "topic": "Education",
-      "source": "The Verge AI",
-      "shortTitle": "AI Targets Students",
-      "mediumTitle": "AI Companies Court Students for Future Growth",
-      "longTitle": "AI Companies Strategically Target Students for Future Market Dominance",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Tech companies are actively targeting",
-            "students with their AI agents,",
-            "recognizing them as crucial for future",
-            "business growth.",
-            "Companies are likely choosing not to",
-            "actively discourage AI use for cheating",
-            "because the benefits of hooking students",
-            "outweigh the perceived risks of academic",
-            "misconduct.",
-            "This proactive approach suggests that AI",
-            "companies are not only aware of but also",
-            "implicitly condone the use of their AI",
-            "tools by students, even when that use",
-            "might involve academic dishonesty.",
-            "The AI industry\u0027s business model is",
-            "intrinsically linked to the future",
-            "adoption and integration of AI by",
-            "younger generations."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T09:20:33.000Z",
-      "ranking": 8.325,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students"
-    },
-    {
-      "id": "161",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "LLM C2C Comms",
-      "mediumTitle": "Cache-to-Cache LLM Collaboration",
-      "longTitle": "Cache-to-Cache: A Novel LLM Communication Paradigm",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Cache-to-Cache (C2C) is a novel",
-            "communication paradigm that enables",
-            "large language models (LLMs) to",
-            "collaborate without exchanging textual",
-            "tokens.",
-            "Developed by a research team from",
-            "Tsinghua University, Infinigence AI, The",
-            "Chinese University of Hong Kong,",
-            "Shanghai AI Laboratory, and Shanghai",
-            "Jiao Tong University, C2C facilitates",
-            "direct semantic communication by",
-            "leveraging the KV-Cache of LLMs.",
-            "C2C proposes an alternative approach",
-            "where LLMs can directly share and fuse",
-            "their internal representations stored in",
-            "the KV-Cache."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T09:32:23.000Z",
-      "ranking": 8.088888888888889,
-      "articleUrl": "https://www.marktechpost.com/2025/11/04/cache-to-cachec2c-direct-semantic-communication-between-large-language-models-via-kv-cache-fusion/"
-    },
-    {
       "id": "169",
       "topic": "Model Eval",
       "source": "VentureBeat AI",
@@ -172,41 +104,6 @@
       "publishedAt": "2025-11-05T01:00:56.000Z",
       "ranking": 7.863636363636363,
       "articleUrl": "https://www.marktechpost.com/2025/11/04/how-can-we-build-scalable-and-reproducible-machine-learning-experiment-pipelines-using-meta-research-hydra/"
-    },
-    {
-      "id": "164",
-      "topic": "Business",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI in Market Research",
-      "mediumTitle": "AI Adoption and Concerns in Market Research",
-      "longTitle": "AI Adoption in Market Research: Benefits, Challenges, and Future Outlook",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A recent survey of 219 U.S. market",
-            "research and insights professionals,",
-            "conducted by QuestDIY in August 2025,",
-            "reveals that artificial intelligence",
-            "(AI) has been rapidly adopted by the",
-            "industry, with 98% of professionals",
-            "using AI tools and 72% using them daily.",
-            "Nearly four in ten researchers (39%)",
-            "report an increased reliance on",
-            "technology that sometimes produces",
-            "errors, and 37% have experienced new",
-            "risks around data quality or accuracy.",
-            "The primary frustration with AI, as",
-            "noted in an open-ended question, is",
-            "accuracy, with researchers often",
-            "encountering \u0022hallucinations\u0022 \u2013",
-            "fabricated information presented as",
-            "fact."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T09:00:00.000Z",
-      "ranking": 7.657500000000001,
-      "articleUrl": "https://venturebeat.com/ai/98-of-market-researchers-use-ai-daily-but-4-in-10-say-it-makes-errors"
     },
     {
       "id": "173",
@@ -316,41 +213,39 @@
       "articleUrl": "https://www.theverge.com/news/813533/openai-sora-android-launch"
     },
     {
-      "id": "162",
-      "topic": "Generative AI",
+      "id": "163",
+      "topic": "Education",
       "source": "The Verge AI",
-      "shortTitle": "Alexa AI in Music",
-      "mediumTitle": "Alexa Plus Enhances Amazon Music",
-      "longTitle": "Amazon Integrates Generative AI Assistant Alexa Plus into Music Streaming Service",
+      "shortTitle": "AI Targets Students",
+      "mediumTitle": "AI Companies Court Students for Future Growth",
+      "longTitle": "AI Companies Strategically Target Students for Future Market Dominance",
       "paragraphs": [
         {
           "Lines": [
-            "Amazon is integrating its generative AI",
-            "assistant, Alexa Plus, into its Music",
-            "streaming service to improve user",
-            "experience.",
-            "The primary function of Alexa Plus",
-            "within the app is to offer users the",
-            "ability to request obscure information",
-            "or complex queries.",
-            "This new feature is currently available",
-            "to customers in the Alexa Plus Early",
-            "Access beta program via the Amazon Music",
-            "app on iOS and Android.",
-            "The AI is designed to go beyond simple",
-            "music playback commands and provide",
-            "detailed answers or explanations related",
-            "to music, artists, genres, or broader",
-            "topics.",
-            "The integration aims to provide advanced",
-            "AI capabilities to users across all",
-            "subscription tiers."
+            "Tech companies are actively targeting",
+            "students with their AI agents,",
+            "recognizing them as crucial for future",
+            "business growth.",
+            "Companies are likely choosing not to",
+            "actively discourage AI use for cheating",
+            "because the benefits of hooking students",
+            "outweigh the perceived risks of academic",
+            "misconduct.",
+            "This proactive approach suggests that AI",
+            "companies are not only aware of but also",
+            "implicitly condone the use of their AI",
+            "tools by students, even when that use",
+            "might involve academic dishonesty.",
+            "The AI industry\u0027s business model is",
+            "intrinsically linked to the future",
+            "adoption and integration of AI by",
+            "younger generations."
           ]
         }
       ],
-      "publishedAt": "2025-11-04T10:00:00.000Z",
-      "ranking": 7.209090909090908,
-      "articleUrl": "https://www.theverge.com/news/813102/amazon-music-alexa-plus-ai-integration"
+      "publishedAt": "2025-11-04T09:20:33.000Z",
+      "ranking": 7.090775754535782,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students"
     },
     {
       "id": "174",
@@ -387,6 +282,39 @@
       "publishedAt": "2025-11-04T19:51:44.000Z",
       "ranking": 6.919047619047618,
       "articleUrl": "https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites"
+    },
+    {
+      "id": "161",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "LLM C2C Comms",
+      "mediumTitle": "Cache-to-Cache LLM Collaboration",
+      "longTitle": "Cache-to-Cache: A Novel LLM Communication Paradigm",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Cache-to-Cache (C2C) is a novel",
+            "communication paradigm that enables",
+            "large language models (LLMs) to",
+            "collaborate without exchanging textual",
+            "tokens.",
+            "Developed by a research team from",
+            "Tsinghua University, Infinigence AI, The",
+            "Chinese University of Hong Kong,",
+            "Shanghai AI Laboratory, and Shanghai",
+            "Jiao Tong University, C2C facilitates",
+            "direct semantic communication by",
+            "leveraging the KV-Cache of LLMs.",
+            "C2C proposes an alternative approach",
+            "where LLMs can directly share and fuse",
+            "their internal representations stored in",
+            "the KV-Cache."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T09:32:23.000Z",
+      "ranking": 6.872855881472316,
+      "articleUrl": "https://www.marktechpost.com/2025/11/04/cache-to-cachec2c-direct-semantic-communication-between-large-language-models-via-kv-cache-fusion/"
     },
     {
       "id": "171",
@@ -458,6 +386,78 @@
       "articleUrl": "https://www.theverge.com/news/813755/amazon-perplexity-ai-shopping-agent-block"
     },
     {
+      "id": "164",
+      "topic": "Business",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI in Market Research",
+      "mediumTitle": "AI Adoption and Concerns in Market Research",
+      "longTitle": "AI Adoption in Market Research: Benefits, Challenges, and Future Outlook",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A recent survey of 219 U.S. market",
+            "research and insights professionals,",
+            "conducted by QuestDIY in August 2025,",
+            "reveals that artificial intelligence",
+            "(AI) has been rapidly adopted by the",
+            "industry, with 98% of professionals",
+            "using AI tools and 72% using them daily.",
+            "Nearly four in ten researchers (39%)",
+            "report an increased reliance on",
+            "technology that sometimes produces",
+            "errors, and 37% have experienced new",
+            "risks around data quality or accuracy.",
+            "The primary frustration with AI, as",
+            "noted in an open-ended question, is",
+            "accuracy, with researchers often",
+            "encountering \u0022hallucinations\u0022 \u2013",
+            "fabricated information presented as",
+            "fact."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T09:00:00.000Z",
+      "ranking": 6.391363528476374,
+      "articleUrl": "https://venturebeat.com/ai/98-of-market-researchers-use-ai-daily-but-4-in-10-say-it-makes-errors"
+    },
+    {
+      "id": "162",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Alexa AI in Music",
+      "mediumTitle": "Alexa Plus Enhances Amazon Music",
+      "longTitle": "Amazon Integrates Generative AI Assistant Alexa Plus into Music Streaming Service",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon is integrating its generative AI",
+            "assistant, Alexa Plus, into its Music",
+            "streaming service to improve user",
+            "experience.",
+            "The primary function of Alexa Plus",
+            "within the app is to offer users the",
+            "ability to request obscure information",
+            "or complex queries.",
+            "This new feature is currently available",
+            "to customers in the Alexa Plus Early",
+            "Access beta program via the Amazon Music",
+            "app on iOS and Android.",
+            "The AI is designed to go beyond simple",
+            "music playback commands and provide",
+            "detailed answers or explanations related",
+            "to music, artists, genres, or broader",
+            "topics.",
+            "The integration aims to provide advanced",
+            "AI capabilities to users across all",
+            "subscription tiers."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T10:00:00.000Z",
+      "ranking": 6.03498726394183,
+      "articleUrl": "https://www.theverge.com/news/813102/amazon-music-alexa-plus-ai-integration"
+    },
+    {
       "id": "165",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -488,7 +488,7 @@
         }
       ],
       "publishedAt": "2025-11-04T06:00:00.000Z",
-      "ranking": 6.399241098112706,
+      "ranking": 6.010265028716119,
       "articleUrl": "https://venturebeat.com/ai/forget-fine-tuning-saps-rpt-1-brings-ready-to-use-ai-for-business-tasks"
     },
     {
@@ -522,7 +522,7 @@
         }
       ],
       "publishedAt": "2025-11-04T05:00:00.000Z",
-      "ranking": 6.392966278819574,
+      "ranking": 5.990100879882911,
       "articleUrl": "https://venturebeat.com/ai/inside-zendesks-dual-ai-leap-from-reliable-agents-to-real-time-intelligence"
     },
     {
@@ -559,7 +559,7 @@
         }
       ],
       "publishedAt": "2025-11-03T18:20:38.000Z",
-      "ranking": 5.462527666500861,
+      "ranking": 4.911656038435061,
       "articleUrl": "https://www.theverge.com/news/812848/chatgpt-legal-medical-advice-rumor"
     },
     {
@@ -593,7 +593,7 @@
         }
       ],
       "publishedAt": "2025-11-03T16:00:00.000Z",
-      "ranking": 5.208148708781137,
+      "ranking": 4.624722034530862,
       "articleUrl": "https://venturebeat.com/ai/strengthening-our-core-welcoming-karyne-levy-as-venturebeats-new-managing"
     },
     {
@@ -627,7 +627,7 @@
         }
       ],
       "publishedAt": "2025-11-03T13:34:13.000Z",
-      "ranking": 4.60372643994888,
+      "ranking": 3.986552554467889,
       "articleUrl": "https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement"
     },
     {
@@ -658,7 +658,7 @@
         }
       ],
       "publishedAt": "2025-11-03T13:06:02.000Z",
-      "ranking": 4.45413266404357,
+      "ranking": 3.83043465142574,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812455/ai-industry-earnings-bubble-fomo-hype"
     },
     {
@@ -691,7 +691,7 @@
         }
       ],
       "publishedAt": "2025-11-03T15:00:00.000Z",
-      "ranking": 4.259785890492255,
+      "ranking": 3.662469883068094,
       "articleUrl": "https://venturebeat.com/ai/the-beginning-of-the-end-of-the-transformer-era-neuro-symbolic-ai-startup"
     },
     {
@@ -725,7 +725,7 @@
         }
       ],
       "publishedAt": "2025-11-03T06:00:00.000Z",
-      "ranking": 3.772433344699394,
+      "ranking": 3.0501133819369457,
       "articleUrl": "https://venturebeat.com/ai/developers-beware-googles-gemma-model-controversy-exposes-model-lifecycle"
     },
     {
@@ -759,7 +759,7 @@
         }
       ],
       "publishedAt": "2025-11-03T07:40:40.000Z",
-      "ranking": 3.700776721583386,
+      "ranking": 3.0017598296132464,
       "articleUrl": "https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination"
     },
     {
@@ -795,7 +795,7 @@
         }
       ],
       "publishedAt": "2025-11-03T11:12:19.000Z",
-      "ranking": 3.5755469233576167,
+      "ranking": 2.9255246391021563,
       "articleUrl": "https://www.theverge.com/news/812443/openai-amazon-38-billion-cloud-computing-ai"
     },
     {
@@ -832,7 +832,7 @@
         }
       ],
       "publishedAt": "2025-11-03T13:31:51.000Z",
-      "ranking": 3.3679111982569143,
+      "ranking": 2.750189318277862,
       "articleUrl": "https://www.theverge.com/news/812559/coca-cola-ai-holiday-christmas-commercial-2025"
     },
     {
@@ -865,7 +865,7 @@
         }
       ],
       "publishedAt": "2025-11-03T10:40:00.000Z",
-      "ranking": 3.3562592050663067,
+      "ranking": 2.6987559660605287,
       "articleUrl": "https://venturebeat.com/ai/meet-denario-the-ai-research-assistant-that-is-already-getting-its-own"
     },
     {
@@ -898,7 +898,7 @@
         }
       ],
       "publishedAt": "2025-11-02T16:44:14.000Z",
-      "ranking": 1.3381008795460287,
+      "ranking": 0.43156967160948057,
       "articleUrl": "https://www.marktechpost.com/2025/11/02/longcat-flash-omni-a-sota-open-source-omni-modal-model-with-560b-parameters-with-27b-activated-excelling-at-real-time-audio-visual-interaction/"
     },
     {
