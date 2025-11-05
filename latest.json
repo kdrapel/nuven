@@ -137,6 +137,43 @@
       "articleUrl": "https://venturebeat.com/ai/databricks-research-reveals-that-building-better-ai-judges-isnt-just-a"
     },
     {
+      "id": "175",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "Meta Hydra ML",
+      "mediumTitle": "Meta Hydra for ML Pipelines",
+      "longTitle": "Meta Research Hydra for Scalable ML Experiment Pipelines",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta Research\u0027s Hydra is an open-source",
+            "configuration management framework",
+            "designed to build scalable and",
+            "reproducible machine learning experiment",
+            "pipelines.",
+            "The core benefit highlighted is the",
+            "enhancement of scalability and",
+            "reproducibility, critical challenges in",
+            "modern ML development.",
+            "By leveraging Hydra, researchers and",
+            "engineers can streamline their workflow",
+            "and ensure consistency across",
+            "experiments.",
+            "Hydra helps in more effectively managing",
+            "the numerous parameters involved in",
+            "training and evaluating ML models.",
+            "Python dataclasses are introduced as a",
+            "method for defining these",
+            "configurations, ensuring experiments are",
+            "reproducible and understandable."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T01:00:56.000Z",
+      "ranking": 7.863636363636363,
+      "articleUrl": "https://www.marktechpost.com/2025/11/04/how-can-we-build-scalable-and-reproducible-machine-learning-experiment-pipelines-using-meta-research-hydra/"
+    },
+    {
       "id": "166",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -384,6 +421,42 @@
       "articleUrl": "https://www.theverge.com/news/813102/amazon-music-alexa-plus-ai-integration"
     },
     {
+      "id": "174",
+      "topic": "Space",
+      "source": "The Verge AI",
+      "shortTitle": "Google\u0027s Space AI",
+      "mediumTitle": "Google\u0027s Project Suncatcher: AI in Space",
+      "longTitle": "Google\u0027s Project Suncatcher aims to move AI data centers to space",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google is exploring a \u0022moonshot\u0022",
+            "research project, dubbed Project",
+            "Suncatcher, which aims to address the",
+            "significant energy and resource demands",
+            "of AI data centers on Earth by",
+            "relocating them to space.",
+            "The primary motivation behind Project",
+            "Suncatcher is the escalating energy",
+            "consumption of AI data centers.",
+            "It could pave the way for a new era of",
+            "AI development, unburdened by Earth\u0027s",
+            "resource limitations.",
+            "Moreover, by reducing the reliance on",
+            "terrestrial energy sources for AI",
+            "computation, it could contribute to",
+            "global efforts to combat climate change.",
+            "This could accelerate innovation and",
+            "enable the deployment of even more",
+            "powerful AI systems."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T19:51:44.000Z",
+      "ranking": 6.919047619047618,
+      "articleUrl": "https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites"
+    },
+    {
       "id": "171",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -486,7 +559,7 @@
         }
       ],
       "publishedAt": "2025-11-03T18:20:38.000Z",
-      "ranking": 6.394746707236711,
+      "ranking": 5.955459376273612,
       "articleUrl": "https://www.theverge.com/news/812848/chatgpt-legal-medical-advice-rumor"
     },
     {
@@ -520,7 +593,7 @@
         }
       ],
       "publishedAt": "2025-11-03T16:00:00.000Z",
-      "ranking": 6.2052529629007305,
+      "ranking": 5.733469721407836,
       "articleUrl": "https://venturebeat.com/ai/strengthening-our-core-welcoming-karyne-levy-as-venturebeats-new-managing"
     },
     {
@@ -554,7 +627,7 @@
         }
       ],
       "publishedAt": "2025-11-03T13:34:13.000Z",
-      "ranking": 5.668092007797283,
+      "ranking": 5.1626228591566905,
       "articleUrl": "https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement"
     },
     {
@@ -585,7 +658,7 @@
         }
       ],
       "publishedAt": "2025-11-03T13:06:02.000Z",
-      "ranking": 5.531501421131869,
+      "ranking": 5.0195199957188,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812455/ai-industry-earnings-bubble-fomo-hype"
     },
     {
@@ -618,7 +691,7 @@
         }
       ],
       "publishedAt": "2025-11-03T15:00:00.000Z",
-      "ranking": 5.2845728691318925,
+      "ranking": 4.798925522861161,
       "articleUrl": "https://venturebeat.com/ai/the-beginning-of-the-end-of-the-transformer-era-neuro-symbolic-ai-startup"
     },
     {
@@ -652,7 +725,7 @@
         }
       ],
       "publishedAt": "2025-11-03T06:00:00.000Z",
-      "ranking": 5.0463647756400025,
+      "ranking": 4.435940554664933,
       "articleUrl": "https://venturebeat.com/ai/developers-beware-googles-gemma-model-controversy-exposes-model-lifecycle"
     },
     {
@@ -686,7 +759,7 @@
         }
       ],
       "publishedAt": "2025-11-03T07:40:40.000Z",
-      "ranking": 4.928263377201738,
+      "ranking": 4.341099396399496,
       "articleUrl": "https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination"
     },
     {
@@ -722,7 +795,7 @@
         }
       ],
       "publishedAt": "2025-11-03T11:12:19.000Z",
-      "ranking": 4.705382761388039,
+      "ranking": 4.167124413175054,
       "articleUrl": "https://www.theverge.com/news/812443/openai-amazon-38-billion-cloud-computing-ai"
     },
     {
@@ -755,7 +828,7 @@
         }
       ],
       "publishedAt": "2025-11-03T10:40:00.000Z",
-      "ranking": 4.501005281508471,
+      "ranking": 3.955279562936892,
       "articleUrl": "https://venturebeat.com/ai/meet-denario-the-ai-research-assistant-that-is-already-getting-its-own"
     },
     {
@@ -792,7 +865,7 @@
         }
       ],
       "publishedAt": "2025-11-03T13:31:51.000Z",
-      "ranking": 4.433369309333643,
+      "ranking": 3.9273527141856612,
       "articleUrl": "https://www.theverge.com/news/812559/coca-cola-ai-holiday-christmas-commercial-2025"
     },
     {
@@ -825,7 +898,7 @@
         }
       ],
       "publishedAt": "2025-11-02T16:44:14.000Z",
-      "ranking": 2.9791829407283057,
+      "ranking": 2.1848813897439507,
       "articleUrl": "https://www.marktechpost.com/2025/11/02/longcat-flash-omni-a-sota-open-source-omni-modal-model-with-560b-parameters-with-27b-activated-excelling-at-real-time-audio-visual-interaction/"
     },
     {
@@ -857,7 +930,7 @@
         }
       ],
       "publishedAt": "2025-11-02T06:00:00.000Z",
-      "ranking": 0.6817269442114524,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/moving-past-speculation-how-deterministic-cpus-deliver-predictable-ai"
     },
     {
@@ -1444,75 +1517,6 @@
       "publishedAt": "2025-10-30T09:20:45.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/809877/openai-sora-app-character-cameo-updates"
-    },
-    {
-      "id": "123",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "IBM AI Edge Models",
-      "mediumTitle": "IBM Granite 4.0 Nano: AI at the Edge",
-      "longTitle": "IBM\u0027s Granite 4.0 Nano: Compact, Open-Source AI for Edge Devices",
-      "paragraphs": [
-        {
-          "Lines": [
-            "IBM\u0027s AI team has introduced the Granite",
-            "4.0 Nano series, a new family of",
-            "compact, open-source small language",
-            "models designed for AI inference at the",
-            "edge and locally.",
-            "The primary objective of Granite 4.0",
-            "Nano is to enable enterprise-grade AI",
-            "capabilities on devices with limited",
-            "computational resources, such as",
-            "smartphones, IoT devices, and other edge",
-            "computing platforms.",
-            "This initiative by IBM signifies a",
-            "growing trend towards decentralized AI,",
-            "where powerful AI models can operate",
-            "directly on user devices, enhancing",
-            "privacy, reducing latency, and enabling",
-            "offline functionality."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-30T05:10:58.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/10/29/ibm-ai-team-releases-granite-4-0-nano-series-compact-and-open-source-small-models-built-for-ai-at-the-edge/"
-    },
-    {
-      "id": "126",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Canva\u0027s AI Shift",
-      "mediumTitle": "Canva Embraces AI for Creative Operating System",
-      "longTitle": "Canva Launches Creative Operating System Driven by AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Canva is shifting towards an",
-            "\u0022imagination era\u0022 powered by AI, aiming",
-            "to translate creativity into action with",
-            "its new Creative Operating System (COS).",
-            "The COS integrates AI across design,",
-            "collaboration, and a foundational",
-            "proprietary model to offer a",
-            "comprehensive content creation platform.",
-            "Canva\u0027s AI layer enables users to",
-            "generate, edit, and launch various",
-            "content types from a single dashboard,",
-            "understanding design complexity for",
-            "brand consistency.",
-            "Features like \u0022Ask Canva\u0022 provide",
-            "AI-powered design advice and editing,",
-            "fostering a human-AI partnership,",
-            "alongside new video and form/email",
-            "tools."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-30T04:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/why-it-leaders-should-pay-attention-to-canvas-imagination-era-strategy"
     }
   ]
 }
