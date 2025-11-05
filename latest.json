@@ -1,6 +1,75 @@
 {
   "articles": [
     {
+      "id": "184",
+      "topic": "Safety",
+      "source": "Marktechpost AI",
+      "shortTitle": "LLM Safety Boost",
+      "mediumTitle": "Google AI Enhances LLM Safety",
+      "longTitle": "Google AI\u0027s Consistency Training for LLM Safety",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google AI, through its DeepMind",
+            "researchers, has introduced a novel",
+            "technique called \u0022consistency training\u0022",
+            "designed to enhance the safety and",
+            "robustness of large language models",
+            "(LLMs) against specific types of",
+            "adversarial prompts.",
+            "Consistency training aims to address",
+            "this by ensuring that the model\u0027s",
+            "behavior remains consistent across",
+            "different prompt styles, particularly",
+            "when the underlying task is the same.",
+            "The goal is to train the model to",
+            "recognize that the underlying intent of",
+            "the request, regardless of the stylistic",
+            "wrapper, should lead to a consistent and",
+            "safe response."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T16:32:08.000Z",
+      "ranking": 8.130769230769232,
+      "articleUrl": "https://www.marktechpost.com/2025/11/05/google-ai-introduces-consistency-training-for-safer-language-models-under-sycophantic-and-jailbreak-style-prompts/"
+    },
+    {
+      "id": "179",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Vertex AI Updates",
+      "mediumTitle": "Google Cloud Vertex AI Agent Builder",
+      "longTitle": "Google Cloud Enhances Vertex AI Agent Builder for Enterprise AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google Cloud has significantly updated",
+            "its Vertex AI Agent Builder, a platform",
+            "designed for enterprises to",
+            "conceptualize, design, build, test,",
+            "deploy, and modify AI agents for various",
+            "use cases.",
+            "Key new features include advanced",
+            "governance tools for enterprises,",
+            "expanded capabilities for low-code agent",
+            "creation, faster development cycles with",
+            "state-of-the-art context management,",
+            "one-click deployment, and managed",
+            "services for scaling production and",
+            "evaluation.",
+            "The governance layer further includes",
+            "unique, native identities for agents",
+            "within Google Cloud, providing granular",
+            "control and audit trails."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T18:44:00.000Z",
+      "ranking": 8.01904761904762,
+      "articleUrl": "https://venturebeat.com/ai/the-agent-builder-arms-race-continues-as-google-cloud-pushes-deeper-into"
+    },
+    {
       "id": "169",
       "topic": "Model Eval",
       "source": "VentureBeat AI",
@@ -35,6 +104,42 @@
       "publishedAt": "2025-11-04T21:00:00.000Z",
       "ranking": 7.975000000000001,
       "articleUrl": "https://venturebeat.com/ai/databricks-research-reveals-that-building-better-ai-judges-isnt-just-a"
+    },
+    {
+      "id": "180",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI in IT Observability",
+      "mediumTitle": "AI Revolutionizes IT Incident Diagnosis",
+      "longTitle": "AI-Driven Observability Transforms IT Incident Resolution",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A significant breakthrough in IT",
+            "observability, driven by Artificial",
+            "Intelligence (AI), aims to transform how",
+            "organizations diagnose and resolve",
+            "network incidents.",
+            "Elastic, the Search AI Company, has",
+            "introduced a new feature called Streams,",
+            "designed to make logs the primary tool",
+            "for investigations.",
+            "Streams enables logs to be used",
+            "proactively, generating information-rich",
+            "alerts that allow teams to jump directly",
+            "to problem-solving, potentially offering",
+            "automated remediation before notifying",
+            "the team.",
+            "Streams utilizes AI to automatically",
+            "partition and parse raw logs, extracting",
+            "relevant fields and reducing the effort",
+            "required to make them usable."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T06:00:00.000Z",
+      "ranking": 7.955000000000001,
+      "articleUrl": "https://venturebeat.com/ai/from-logs-to-insights-the-ai-breakthrough-redefining-observability"
     },
     {
       "id": "175",
@@ -146,40 +251,74 @@
       "articleUrl": "https://www.theverge.com/news/813588/google-maps-gemini-ai-chatbot-navigation-directions"
     },
     {
-      "id": "173",
-      "topic": "Generative AI",
+      "id": "181",
+      "topic": "Speech",
       "source": "The Verge AI",
-      "shortTitle": "AI Home Test",
-      "mediumTitle": "Gemini for Home AI Weekend Test",
-      "longTitle": "Author tests Google\u0027s Gemini for Home AI by observing family for a weekend.",
+      "shortTitle": "Stream Ring",
+      "mediumTitle": "Sandbar\u0027s AI Stream Ring",
+      "longTitle": "Sandbar launches AI-powered Stream Ring for discreet voice notes",
       "paragraphs": [
         {
           "Lines": [
-            "The author tested Google\u0027s Gemini for",
-            "Home AI by letting it observe their",
-            "family for a weekend to see if constant",
-            "surveillance would be helpful or",
-            "unsettling.",
-            "The author\u0027s intention was to determine",
-            "if the AI\u0027s constant surveillance",
-            "capabilities would be helpful or",
-            "unsettling.",
-            "The author\u0027s goal was to gather data on",
-            "whether this level of AI oversight",
-            "offers practical benefits or becomes",
-            "intrusive.",
-            "The core of the article appears to be",
-            "the author\u0027s personal reaction and",
-            "assessment of the AI\u0027s performance.",
-            "The Gemini for Home system was",
-            "configured to watch, interpret, and",
-            "narrate the family\u0027s activities."
+            "Sandbar, a company established by former",
+            "employees of Meta-acquired neural",
+            "interface startup CTRL-Labs, is",
+            "introducing the Stream Ring, a new",
+            "AI-powered wearable.",
+            "The primary function of the Stream Ring",
+            "is its ability to record voice notes",
+            "discreetly.",
+            "The Stream Ring is an AI wearable with a",
+            "unique form factor and a specific use",
+            "case centered on voice recording.",
+            "It is highlighted for its capacity to",
+            "capture audio even when spoken in a",
+            "whisper.",
+            "This feature suggests a focus on privacy",
+            "and convenience for users needing to",
+            "record thoughts or messages without",
+            "drawing attention."
           ]
         }
       ],
-      "publishedAt": "2025-11-04T17:01:37.000Z",
-      "ranking": 7.45,
-      "articleUrl": "https://www.theverge.com/tech/813523/gemini-for-home-google-nest-camera-hands-on"
+      "publishedAt": "2025-11-05T12:55:55.000Z",
+      "ranking": 7.55,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814329/sandbar-stream-ring-ai-wearable"
+    },
+    {
+      "id": "182",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI Web Pivot",
+      "mediumTitle": "OpenAI\u0027s Unexpected Web Browsing Integration",
+      "longTitle": "OpenAI\u0027s Strategic Shift to Web Browsing Driven by User Behavior",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI unexpectedly developed web",
+            "browsing capabilities for ChatGPT due to",
+            "observed user behavior, initially not",
+            "planning for a browser.",
+            "Users were frequently keeping ChatGPT",
+            "tabs open alongside other browsing",
+            "activities, prompting OpenAI to",
+            "reconsider their strategy.",
+            "The core idea was to leverage existing",
+            "user engagement with ChatGPT and enhance",
+            "their experience by allowing direct",
+            "interaction with the web within the same",
+            "interface.",
+            "This integration aims to streamline",
+            "workflows and provide more immediate",
+            "access to information and services users",
+            "were already seeking through separate",
+            "browser tabs."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T12:10:00.000Z",
+      "ranking": 7.48,
+      "articleUrl": "https://www.theverge.com/tech/813944/browser-wars-chatgpt-gemini-chrome"
     },
     {
       "id": "170",
@@ -216,36 +355,38 @@
       "articleUrl": "https://venturebeat.com/ai/attention-isnt-all-you-need-new-qwen3-variant-brumby-14b-base-leverages"
     },
     {
-      "id": "168",
-      "topic": "Vision",
-      "source": "The Verge AI",
-      "shortTitle": "Google Maps Lane Guidance",
-      "mediumTitle": "Google Maps Adds Lane Guidance for Polestar 4",
-      "longTitle": "Google Maps Introduces Live Lane Guidance for Polestar 4 EVs",
+      "id": "183",
+      "topic": "NLP",
+      "source": "Marktechpost AI",
+      "shortTitle": "IndQA Benchmark",
+      "mediumTitle": "OpenAI\u0027s IndQA for Indian Languages",
+      "longTitle": "OpenAI launches IndQA to test LLMs on Indian languages and culture",
       "paragraphs": [
         {
           "Lines": [
-            "Google Maps is introducing a new live",
-            "lane guidance feature specifically for",
-            "drivers of the Polestar 4, an electric",
-            "vehicle powered by Google\u0027s systems.",
-            "This innovative feature leverages the",
-            "Polestar 4\u0027s front-facing camera to",
-            "detect lane markings and road signs in",
-            "real-time.",
-            "This AI analysis allows the system to",
-            "provide drivers with personalized audio",
-            "and visual cues, guiding them on when",
-            "and how to merge lanes safely.",
-            "The data captured by the camera is then",
-            "processed by Google Maps\u0027 artificial",
-            "intelligence (AI)."
+            "OpenAI has introduced IndQA, a new",
+            "benchmark designed to evaluate the",
+            "understanding and reasoning capabilities",
+            "of large language models (LLMs)",
+            "specifically within the context of",
+            "Indian languages and culture.",
+            "The primary goal of IndQA is to provide",
+            "a reliable method for testing how well",
+            "AI models can comprehend and respond to",
+            "questions that are relevant to",
+            "real-world Indian contexts.",
+            "Approximately 80 percent of people",
+            "worldwide do not use English as their",
+            "primary language, underscoring the",
+            "critical need for AI models to be",
+            "proficient in a diverse range of",
+            "languages and culturally sensitive."
           ]
         }
       ],
-      "publishedAt": "2025-11-04T12:57:50.000Z",
-      "ranking": 7.399287666159652,
-      "articleUrl": "https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance"
+      "publishedAt": "2025-11-05T18:37:16.000Z",
+      "ranking": 7.4,
+      "articleUrl": "https://www.marktechpost.com/2025/11/05/openai-introduces-indqa-a-culture-aware-benchmark-for-indian-languages/"
     },
     {
       "id": "178",
@@ -285,40 +426,36 @@
       "articleUrl": "https://www.theverge.com/news/814042/getty-lawsuit-stability-ai-copyright-ruling-uk"
     },
     {
-      "id": "174",
-      "topic": "Space",
+      "id": "168",
+      "topic": "Vision",
       "source": "The Verge AI",
-      "shortTitle": "Google\u0027s Space AI",
-      "mediumTitle": "Google\u0027s Project Suncatcher: AI in Space",
-      "longTitle": "Google\u0027s Project Suncatcher aims to move AI data centers to space",
+      "shortTitle": "Google Maps Lane Guidance",
+      "mediumTitle": "Google Maps Adds Lane Guidance for Polestar 4",
+      "longTitle": "Google Maps Introduces Live Lane Guidance for Polestar 4 EVs",
       "paragraphs": [
         {
           "Lines": [
-            "Google is exploring a \u0022moonshot\u0022",
-            "research project, dubbed Project",
-            "Suncatcher, which aims to address the",
-            "significant energy and resource demands",
-            "of AI data centers on Earth by",
-            "relocating them to space.",
-            "The primary motivation behind Project",
-            "Suncatcher is the escalating energy",
-            "consumption of AI data centers.",
-            "It could pave the way for a new era of",
-            "AI development, unburdened by Earth\u0027s",
-            "resource limitations.",
-            "Moreover, by reducing the reliance on",
-            "terrestrial energy sources for AI",
-            "computation, it could contribute to",
-            "global efforts to combat climate change.",
-            "This could accelerate innovation and",
-            "enable the deployment of even more",
-            "powerful AI systems."
+            "Google Maps is introducing a new live",
+            "lane guidance feature specifically for",
+            "drivers of the Polestar 4, an electric",
+            "vehicle powered by Google\u0027s systems.",
+            "This innovative feature leverages the",
+            "Polestar 4\u0027s front-facing camera to",
+            "detect lane markings and road signs in",
+            "real-time.",
+            "This AI analysis allows the system to",
+            "provide drivers with personalized audio",
+            "and visual cues, guiding them on when",
+            "and how to merge lanes safely.",
+            "The data captured by the camera is then",
+            "processed by Google Maps\u0027 artificial",
+            "intelligence (AI)."
           ]
         }
       ],
-      "publishedAt": "2025-11-04T19:51:44.000Z",
-      "ranking": 6.919047619047618,
-      "articleUrl": "https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites"
+      "publishedAt": "2025-11-04T12:57:50.000Z",
+      "ranking": 6.995154328416531,
+      "articleUrl": "https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance"
     },
     {
       "id": "163",
@@ -352,77 +489,44 @@
         }
       ],
       "publishedAt": "2025-11-04T09:20:33.000Z",
-      "ranking": 6.68971288907175,
+      "ranking": 6.235236867798793,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students"
     },
     {
-      "id": "171",
+      "id": "173",
       "topic": "Generative AI",
       "source": "The Verge AI",
-      "shortTitle": "MS AI Image Tool",
-      "mediumTitle": "Microsoft Releases MAI-Image-1",
-      "longTitle": "Microsoft Launches MAI-Image-1 AI Image Generator",
+      "shortTitle": "AI Home Test",
+      "mediumTitle": "Gemini for Home AI Weekend Test",
+      "longTitle": "Author tests Google\u0027s Gemini for Home AI by observing family for a weekend.",
       "paragraphs": [
         {
           "Lines": [
-            "Microsoft has released its first",
-            "internally developed AI image generator,",
-            "MAI-Image-1, which is now accessible",
-            "through two of their products: Bing",
-            "Image Creator and Copilot Audio",
-            "Expressions.",
-            "The core functionality of MAI-Image-1 is",
-            "its ability to generate images based on",
-            "textual descriptions.",
-            "The announcement of MAI-Image-1",
-            "signifies Microsoft\u0027s commitment to",
-            "developing its own proprietary AI",
-            "models.",
-            "Mustafa Suleyman, the head of Microsoft",
-            "AI, stated that MAI-Image-1 would soon",
-            "be rolled out to users in the European",
-            "Union."
+            "The author tested Google\u0027s Gemini for",
+            "Home AI by letting it observe their",
+            "family for a weekend to see if constant",
+            "surveillance would be helpful or",
+            "unsettling.",
+            "The author\u0027s intention was to determine",
+            "if the AI\u0027s constant surveillance",
+            "capabilities would be helpful or",
+            "unsettling.",
+            "The author\u0027s goal was to gather data on",
+            "whether this level of AI oversight",
+            "offers practical benefits or becomes",
+            "intrusive.",
+            "The core of the article appears to be",
+            "the author\u0027s personal reaction and",
+            "assessment of the AI\u0027s performance.",
+            "The Gemini for Home system was",
+            "configured to watch, interpret, and",
+            "narrate the family\u0027s activities."
           ]
         }
       ],
-      "publishedAt": "2025-11-04T17:48:09.000Z",
-      "ranking": 6.592857142857143,
-      "articleUrl": "https://www.theverge.com/news/813789/microsoft-in-house-ai-image-generator-mai-image-1"
-    },
-    {
-      "id": "172",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Amazon vs Perplexity",
-      "mediumTitle": "Amazon Demands Perplexity AI Stop Direct Purchases",
-      "longTitle": "Amazon Requests Perplexity\u0027s Comet AI Cease Direct Product Purchases",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Amazon has requested that Perplexity,",
-            "the company behind the AI-powered",
-            "browser Comet, cease its ability to",
-            "purchase products for users directly",
-            "from Amazon.",
-            "Perplexity has characterized Amazon\u0027s",
-            "requests as \u0027bullying.\u0027",
-            "Their accusation of \u0027bullying\u0027 suggests",
-            "they believe Amazon is attempting to",
-            "stifle innovation and competition by",
-            "leveraging its dominant market position",
-            "to dictate how other companies can",
-            "interact with its platform.",
-            "The core of the dispute lies in Comet\u0027s",
-            "functionality, which allows users to",
-            "find products on Amazon and then have",
-            "the AI browser complete the purchase on",
-            "their behalf."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T17:36:41.000Z",
-      "ranking": 6.55625,
-      "articleUrl": "https://www.theverge.com/news/813755/amazon-perplexity-ai-shopping-agent-block"
+      "publishedAt": "2025-11-04T17:01:37.000Z",
+      "ranking": 6.183438554374483,
+      "articleUrl": "https://www.theverge.com/tech/813523/gemini-for-home-google-nest-camera-hands-on"
     },
     {
       "id": "161",
@@ -454,8 +558,44 @@
         }
       ],
       "publishedAt": "2025-11-04T09:32:23.000Z",
-      "ranking": 6.474551280079659,
+      "ranking": 6.0228169460260155,
       "articleUrl": "https://www.marktechpost.com/2025/11/04/cache-to-cachec2c-direct-semantic-communication-between-large-language-models-via-kv-cache-fusion/"
+    },
+    {
+      "id": "174",
+      "topic": "Space",
+      "source": "The Verge AI",
+      "shortTitle": "Google\u0027s Space AI",
+      "mediumTitle": "Google\u0027s Project Suncatcher: AI in Space",
+      "longTitle": "Google\u0027s Project Suncatcher aims to move AI data centers to space",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google is exploring a \u0022moonshot\u0022",
+            "research project, dubbed Project",
+            "Suncatcher, which aims to address the",
+            "significant energy and resource demands",
+            "of AI data centers on Earth by",
+            "relocating them to space.",
+            "The primary motivation behind Project",
+            "Suncatcher is the escalating energy",
+            "consumption of AI data centers.",
+            "It could pave the way for a new era of",
+            "AI development, unburdened by Earth\u0027s",
+            "resource limitations.",
+            "Moreover, by reducing the reliance on",
+            "terrestrial energy sources for AI",
+            "computation, it could contribute to",
+            "global efforts to combat climate change.",
+            "This could accelerate innovation and",
+            "enable the deployment of even more",
+            "powerful AI systems."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T19:51:44.000Z",
+      "ranking": 5.904435528943501,
+      "articleUrl": "https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites"
     },
     {
       "id": "167",
@@ -491,7 +631,7 @@
         }
       ],
       "publishedAt": "2025-11-04T14:51:31.000Z",
-      "ranking": 6.258046685834646,
+      "ranking": 5.880252818218314,
       "articleUrl": "https://www.theverge.com/news/813533/openai-sora-android-launch"
     },
     {
@@ -526,8 +666,77 @@
         }
       ],
       "publishedAt": "2025-11-04T09:00:00.000Z",
-      "ranking": 5.985510600517508,
+      "ranking": 5.526273323122154,
       "articleUrl": "https://venturebeat.com/ai/98-of-market-researchers-use-ai-daily-but-4-in-10-say-it-makes-errors"
+    },
+    {
+      "id": "171",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "MS AI Image Tool",
+      "mediumTitle": "Microsoft Releases MAI-Image-1",
+      "longTitle": "Microsoft Launches MAI-Image-1 AI Image Generator",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft has released its first",
+            "internally developed AI image generator,",
+            "MAI-Image-1, which is now accessible",
+            "through two of their products: Bing",
+            "Image Creator and Copilot Audio",
+            "Expressions.",
+            "The core functionality of MAI-Image-1 is",
+            "its ability to generate images based on",
+            "textual descriptions.",
+            "The announcement of MAI-Image-1",
+            "signifies Microsoft\u0027s commitment to",
+            "developing its own proprietary AI",
+            "models.",
+            "Mustafa Suleyman, the head of Microsoft",
+            "AI, stated that MAI-Image-1 would soon",
+            "be rolled out to users in the European",
+            "Union."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T17:48:09.000Z",
+      "ranking": 5.397986665211316,
+      "articleUrl": "https://www.theverge.com/news/813789/microsoft-in-house-ai-image-generator-mai-image-1"
+    },
+    {
+      "id": "172",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Amazon vs Perplexity",
+      "mediumTitle": "Amazon Demands Perplexity AI Stop Direct Purchases",
+      "longTitle": "Amazon Requests Perplexity\u0027s Comet AI Cease Direct Product Purchases",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon has requested that Perplexity,",
+            "the company behind the AI-powered",
+            "browser Comet, cease its ability to",
+            "purchase products for users directly",
+            "from Amazon.",
+            "Perplexity has characterized Amazon\u0027s",
+            "requests as \u0027bullying.\u0027",
+            "Their accusation of \u0027bullying\u0027 suggests",
+            "they believe Amazon is attempting to",
+            "stifle innovation and competition by",
+            "leveraging its dominant market position",
+            "to dictate how other companies can",
+            "interact with its platform.",
+            "The core of the dispute lies in Comet\u0027s",
+            "functionality, which allows users to",
+            "find products on Amazon and then have",
+            "the AI browser complete the purchase on",
+            "their behalf."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T17:36:41.000Z",
+      "ranking": 5.34390745967821,
+      "articleUrl": "https://www.theverge.com/news/813755/amazon-perplexity-ai-shopping-agent-block"
     },
     {
       "id": "162",
@@ -563,7 +772,7 @@
         }
       ],
       "publishedAt": "2025-11-04T10:00:00.000Z",
-      "ranking": 5.643119919338142,
+      "ranking": 5.1977841230118145,
       "articleUrl": "https://www.theverge.com/news/813102/amazon-music-alexa-plus-ai-integration"
     },
     {
@@ -597,7 +806,7 @@
         }
       ],
       "publishedAt": "2025-11-04T06:00:00.000Z",
-      "ranking": 5.562455352631039,
+      "ranking": 5.061513605695694,
       "articleUrl": "https://venturebeat.com/ai/forget-fine-tuning-saps-rpt-1-brings-ready-to-use-ai-for-business-tasks"
     },
     {
@@ -631,7 +840,7 @@
         }
       ],
       "publishedAt": "2025-11-04T05:00:00.000Z",
-      "ranking": 5.528305617721685,
+      "ranking": 5.013462387682884,
       "articleUrl": "https://venturebeat.com/ai/inside-zendesks-dual-ai-leap-from-reliable-agents-to-real-time-intelligence"
     },
     {
@@ -668,7 +877,7 @@
         }
       ],
       "publishedAt": "2025-11-03T18:20:38.000Z",
-      "ranking": 4.300828857262916,
+      "ranking": 3.637849830495459,
       "articleUrl": "https://www.theverge.com/news/812848/chatgpt-legal-medical-advice-rumor"
     },
     {
@@ -702,7 +911,7 @@
         }
       ],
       "publishedAt": "2025-11-03T16:00:00.000Z",
-      "ranking": 3.9811142053423945,
+      "ranking": 3.285551635665568,
       "articleUrl": "https://venturebeat.com/ai/strengthening-our-core-welcoming-karyne-levy-as-venturebeats-new-managing"
     },
     {
@@ -736,7 +945,7 @@
         }
       ],
       "publishedAt": "2025-11-03T13:34:13.000Z",
-      "ranking": 3.308963645569138,
+      "ranking": 2.5796243243393517,
       "articleUrl": "https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement"
     },
     {
@@ -767,7 +976,7 @@
         }
       ],
       "publishedAt": "2025-11-03T13:06:02.000Z",
-      "ranking": 3.146276403753169,
+      "ranking": 2.410407246232902,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812455/ai-industry-earnings-bubble-fomo-hype"
     },
     {
@@ -800,76 +1009,8 @@
         }
       ],
       "publishedAt": "2025-11-03T15:00:00.000Z",
-      "ranking": 3.0048764749440764,
+      "ranking": 2.2954124214724914,
       "articleUrl": "https://venturebeat.com/ai/the-beginning-of-the-end-of-the-transformer-era-neuro-symbolic-ai-startup"
-    },
-    {
-      "id": "157",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Gemma Model Controversy",
-      "mediumTitle": "Google\u0027s Gemma Model Removed Amidst Controversy",
-      "longTitle": "Google\u0027s Gemma Model Removal Highlights AI Model Lifecycle Risks",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google removed its Gemma model from AI",
-            "Studio following a statement from",
-            "Senator Marsha Blackburn alleging that",
-            "the model \u0022willfully hallucinated",
-            "falsehoods\u0022 about her, fabricating",
-            "defamatory news stories.",
-            "The article stresses the importance for",
-            "enterprise developers to save their",
-            "projects locally or in a way that",
-            "ensures continuity, as AI models can be",
-            "removed from platforms due to technical",
-            "issues, political controversies, or",
-            "company decisions.",
-            "The controversy underscores the dangers",
-            "of relying on experimental AI models,",
-            "which can produce inaccurate or harmful",
-            "information."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-03T06:00:00.000Z",
-      "ranking": 2.266649732874715,
-      "articleUrl": "https://venturebeat.com/ai/developers-beware-googles-gemma-model-controversy-exposes-model-lifecycle"
-    },
-    {
-      "id": "150",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Gemma AI Pulled",
-      "mediumTitle": "Google\u0027s Gemma AI Temporarily Removed",
-      "longTitle": "Google Temporarily Removes Gemma AI Following Allegations",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has temporarily removed its AI",
-            "model, Gemma, from its AI Studio",
-            "platform following a complaint from a",
-            "Republican senator.",
-            "The senator alleged that Gemma",
-            "fabricated serious criminal allegations",
-            "about her.",
-            "This event underscores the ongoing",
-            "challenges in controlling AI outputs and",
-            "the critical importance of ethical",
-            "considerations in the development and",
-            "release of artificial intelligence",
-            "technologies.",
-            "Google stated that it observed instances",
-            "of non-developers attempting to use",
-            "Gemma within AI Studio and prompting it",
-            "with inappropriate requests."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-03T07:40:40.000Z",
-      "ranking": 2.241761681971372,
-      "articleUrl": "https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination"
     },
     {
       "id": "155",
@@ -904,8 +1045,76 @@
         }
       ],
       "publishedAt": "2025-11-03T11:12:19.000Z",
-      "ranking": 2.2148605911700345,
+      "ranking": 1.452644276286832,
       "articleUrl": "https://www.theverge.com/news/812443/openai-amazon-38-billion-cloud-computing-ai"
+    },
+    {
+      "id": "157",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Gemma Model Controversy",
+      "mediumTitle": "Google\u0027s Gemma Model Removed Amidst Controversy",
+      "longTitle": "Google\u0027s Gemma Model Removal Highlights AI Model Lifecycle Risks",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google removed its Gemma model from AI",
+            "Studio following a statement from",
+            "Senator Marsha Blackburn alleging that",
+            "the model \u0022willfully hallucinated",
+            "falsehoods\u0022 about her, fabricating",
+            "defamatory news stories.",
+            "The article stresses the importance for",
+            "enterprise developers to save their",
+            "projects locally or in a way that",
+            "ensures continuity, as AI models can be",
+            "removed from platforms due to technical",
+            "issues, political controversies, or",
+            "company decisions.",
+            "The controversy underscores the dangers",
+            "of relying on experimental AI models,",
+            "which can produce inaccurate or harmful",
+            "information."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-03T06:00:00.000Z",
+      "ranking": 1.4320722843774831,
+      "articleUrl": "https://venturebeat.com/ai/developers-beware-googles-gemma-model-controversy-exposes-model-lifecycle"
+    },
+    {
+      "id": "150",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Gemma AI Pulled",
+      "mediumTitle": "Google\u0027s Gemma AI Temporarily Removed",
+      "longTitle": "Google Temporarily Removes Gemma AI Following Allegations",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has temporarily removed its AI",
+            "model, Gemma, from its AI Studio",
+            "platform following a complaint from a",
+            "Republican senator.",
+            "The senator alleged that Gemma",
+            "fabricated serious criminal allegations",
+            "about her.",
+            "This event underscores the ongoing",
+            "challenges in controlling AI outputs and",
+            "the critical importance of ethical",
+            "considerations in the development and",
+            "release of artificial intelligence",
+            "technologies.",
+            "Google stated that it observed instances",
+            "of non-developers attempting to use",
+            "Gemma within AI Studio and prompting it",
+            "with inappropriate requests."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-03T07:40:40.000Z",
+      "ranking": 1.4305078413963699,
+      "articleUrl": "https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination"
     },
     {
       "id": "153",
@@ -941,7 +1150,7 @@
         }
       ],
       "publishedAt": "2025-11-03T13:31:51.000Z",
-      "ranking": 2.072049486210487,
+      "ranking": 1.3421618342648713,
       "articleUrl": "https://www.theverge.com/news/812559/coca-cola-ai-holiday-christmas-commercial-2025"
     },
     {
@@ -974,7 +1183,7 @@
         }
       ],
       "publishedAt": "2025-11-03T10:40:00.000Z",
-      "ranking": 1.9805591395787907,
+      "ranking": 1.2108553158263398,
       "articleUrl": "https://venturebeat.com/ai/meet-denario-the-ai-research-assistant-that-is-already-getting-its-own"
     },
     {
@@ -1352,179 +1561,6 @@
       "publishedAt": "2025-10-31T05:27:43.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/10/30/how-to-design-an-autonomous-multi-agent-data-and-infrastructure-strategy-system-using-lightweight-qwen-models-for-efficient-pipeline-intelligence/"
-    },
-    {
-      "id": "136",
-      "topic": "Business",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Needs Process Intel",
-      "mediumTitle": "Celosphere 2025: AI\u0027s Process Intelligence Imperative",
-      "longTitle": "Celosphere 2025: Why Enterprise AI Requires Process Intelligence",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Ultimately, \u0027There is no AI without PI\u0027.",
-            "Celosphere 2025 highlights that",
-            "enterprise AI\u0027s effectiveness hinges on",
-            "process intelligence (PI) to understand",
-            "business operations and context,",
-            "enabling measurable ROI.",
-            "Rinke concludes that process",
-            "intelligence creates a virtuous cycle",
-            "where better understanding leads to",
-            "better optimization, which enables",
-            "better AI, driving further",
-            "understanding.",
-            "Process intelligence provides the",
-            "necessary \u0027rails\u0027 for these agents,",
-            "ensuring they can understand specific",
-            "business processes."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-31T05:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/inside-celosphere-2025-why-theres-no-enterprise-ai-without-process"
-    },
-    {
-      "id": "132",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Ling 2.0 AI",
-      "mediumTitle": "Ant Group\u0027s Ling 2.0 Reasoning Models",
-      "longTitle": "Ant Group\u0027s Ling 2.0: Reasoning-First MoE Language Models",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Ant Group\u0027s Inclusion AI team has",
-            "introduced Ling 2.0, a new series of",
-            "reasoning-first Mixture-of-Experts (MoE)",
-            "language models.",
-            "This implies that the selection and",
-            "activation of experts are specifically",
-            "optimized to improve the model\u0027s ability",
-            "to perform complex reasoning tasks.",
-            "By focusing on a reasoning-centric MoE",
-            "architecture, they aim to address the",
-            "scalability and computational challenges",
-            "inherent in current LLM development,",
-            "paving the way for more powerful and",
-            "accessible AI systems.",
-            "Ling 2.0 differentiates itself by",
-            "focusing on a \u0027reasoning-first\u0027 approach",
-            "within this MoE framework."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-30T21:39:40.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/10/30/ant-group-releases-ling-2-0-a-reasoning-first-moe-language-model-series-built-on-the-principle-that-each-activation-enhances-reasoning-capability/"
-    },
-    {
-      "id": "127",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Canva OS Launch",
-      "mediumTitle": "Canva Rebrands as Creative OS",
-      "longTitle": "Canva Launches Creative Operating System with AI and Marketing Tools",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Canva has launched a significant",
-            "overhaul of its design platform,",
-            "rebranding it as a \u0022Creative Operating",
-            "System\u0022 and introducing new digital",
-            "marketing and video-editing tools.",
-            "At the core of these advancements is",
-            "what Canva claims to be a \u0022world-first\u0022",
-            "design-focused AI model.",
-            "This initiative aims to transform Canva",
-            "into a comprehensive workspace",
-            "specifically tailored for marketing",
-            "teams.",
-            "The \u0022design-focused\u0022 AI model is",
-            "specifically trained to understand and",
-            "assist with design principles,",
-            "aesthetics, and visual content creation."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-30T14:59:26.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch"
-    },
-    {
-      "id": "128",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Pinterest AI Shopper",
-      "mediumTitle": "Pinterest\u0027s New AI Shopping Assistant",
-      "longTitle": "Pinterest Launches AI-Powered Shopping Assistant for Fashion Discovery",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Pinterest is introducing an AI-powered",
-            "shopping assistant designed to help",
-            "users discover and select their next",
-            "fashion purchases.",
-            "This new feature allows users to engage",
-            "in conversational searches, describing",
-            "what they are looking for in terms of",
-            "clothing or style.",
-            "The AI assistant will then provide",
-            "personalized recommendations based on",
-            "these descriptions.",
-            "The assistant aims to streamline the",
-            "process of finding suitable outfits by",
-            "understanding user preferences through",
-            "natural language.",
-            "This initiative signifies Pinterest\u0027s",
-            "move towards integrating AI more deeply",
-            "into its platform to enhance the user",
-            "shopping experience."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-30T13:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/809326/pinterest-ai-shopping-assistant-ceo-ready"
-    },
-    {
-      "id": "129",
-      "topic": "Security",
-      "source": "The Verge AI",
-      "shortTitle": "AI Browser Risks",
-      "mediumTitle": "AI Browsers: A Cybersecurity Threat",
-      "longTitle": "AI Browsers Introduce Significant Cybersecurity Risks",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article \u0027AI browsers are a",
-            "cybersecurity time bomb\u0027 discusses the",
-            "emerging trend of integrating Artificial",
-            "Intelligence (AI) capabilities directly",
-            "into web browsers, highlighting the",
-            "significant cybersecurity risks",
-            "associated with this development.",
-            "AI browsers promise a more intelligent",
-            "and interactive web experience but",
-            "simultaneously introduce a new and",
-            "potentially severe landscape of",
-            "cybersecurity threats demanding",
-            "immediate attention.",
-            "The rapid pace of AI integration into",
-            "browsers might be outpacing the",
-            "development of adequate security",
-            "protocols, creating a \u0027time bomb\u0027",
-            "scenario where problems are likely to",
-            "emerge as technologies become more",
-            "widespread."
-          ]
-        }
-      ],
-      "publishedAt": "2025-10-30T12:53:23.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/report/810083/ai-browser-cybersecurity-problems"
     }
   ]
 }
