@@ -104,42 +104,6 @@
       "articleUrl": "https://venturebeat.com/ai/the-agent-builder-arms-race-continues-as-google-cloud-pushes-deeper-into"
     },
     {
-      "id": "180",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI in IT Observability",
-      "mediumTitle": "AI Revolutionizes IT Incident Diagnosis",
-      "longTitle": "AI-Driven Observability Transforms IT Incident Resolution",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A significant breakthrough in IT",
-            "observability, driven by Artificial",
-            "Intelligence (AI), aims to transform how",
-            "organizations diagnose and resolve",
-            "network incidents.",
-            "Elastic, the Search AI Company, has",
-            "introduced a new feature called Streams,",
-            "designed to make logs the primary tool",
-            "for investigations.",
-            "Streams enables logs to be used",
-            "proactively, generating information-rich",
-            "alerts that allow teams to jump directly",
-            "to problem-solving, potentially offering",
-            "automated remediation before notifying",
-            "the team.",
-            "Streams utilizes AI to automatically",
-            "partition and parse raw logs, extracting",
-            "relevant fields and reducing the effort",
-            "required to make them usable."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T06:00:00.000Z",
-      "ranking": 7.955000000000001,
-      "articleUrl": "https://venturebeat.com/ai/from-logs-to-insights-the-ai-breakthrough-redefining-observability"
-    },
-    {
       "id": "176",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -389,6 +353,42 @@
       "articleUrl": "https://www.theverge.com/news/814654/apple-intelligence-google-gemini-ai-siri"
     },
     {
+      "id": "180",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI in IT Observability",
+      "mediumTitle": "AI Revolutionizes IT Incident Diagnosis",
+      "longTitle": "AI-Driven Observability Transforms IT Incident Resolution",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A significant breakthrough in IT",
+            "observability, driven by Artificial",
+            "Intelligence (AI), aims to transform how",
+            "organizations diagnose and resolve",
+            "network incidents.",
+            "Elastic, the Search AI Company, has",
+            "introduced a new feature called Streams,",
+            "designed to make logs the primary tool",
+            "for investigations.",
+            "Streams enables logs to be used",
+            "proactively, generating information-rich",
+            "alerts that allow teams to jump directly",
+            "to problem-solving, potentially offering",
+            "automated remediation before notifying",
+            "the team.",
+            "Streams utilizes AI to automatically",
+            "partition and parse raw logs, extracting",
+            "relevant fields and reducing the effort",
+            "required to make them usable."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T06:00:00.000Z",
+      "ranking": 6.78092064324607,
+      "articleUrl": "https://venturebeat.com/ai/from-logs-to-insights-the-ai-breakthrough-redefining-observability"
+    },
+    {
       "id": "175",
       "topic": "Dev Tools",
       "source": "Marktechpost AI",
@@ -422,8 +422,76 @@
         }
       ],
       "publishedAt": "2025-11-05T01:00:56.000Z",
-      "ranking": 6.598956746392055,
+      "ranking": 6.19634953887922,
       "articleUrl": "https://www.marktechpost.com/2025/11/04/how-can-we-build-scalable-and-reproducible-machine-learning-experiment-pipelines-using-meta-research-hydra/"
+    },
+    {
+      "id": "169",
+      "topic": "Model Eval",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Judges Explained",
+      "mediumTitle": "Databricks\u0027 AI Judges for Output Quality",
+      "longTitle": "Databricks\u0027 AI Judges: Solving Enterprise AI Output Quality Challenges",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The primary obstacle to enterprise AI",
+            "deployment is not the technical",
+            "intelligence of AI models, but rather",
+            "the difficulty in defining and measuring",
+            "AI output quality, which is where \u0027AI",
+            "judges\u0027 come into play.",
+            "An AI judge is an AI system designed to",
+            "score the outputs of another AI system,",
+            "and Databricks\u0027 \u0027Judge Builder\u0027",
+            "framework, initially part of their Agent",
+            "Bricks technology, has evolved to",
+            "address this challenge.",
+            "Databricks now offers a structured",
+            "workshop process to help teams overcome",
+            "three core challenges: achieving",
+            "stakeholder consensus on quality",
+            "criteria, capturing domain expertise",
+            "from limited subject matter experts, and",
+            "deploying evaluation systems at scale."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T21:00:00.000Z",
+      "ranking": 5.847633561553294,
+      "articleUrl": "https://venturebeat.com/ai/databricks-research-reveals-that-building-better-ai-judges-isnt-just-a"
+    },
+    {
+      "id": "168",
+      "topic": "Vision",
+      "source": "The Verge AI",
+      "shortTitle": "Google Maps Lane Guidance",
+      "mediumTitle": "Google Maps Adds Lane Guidance for Polestar 4",
+      "longTitle": "Google Maps Introduces Live Lane Guidance for Polestar 4 EVs",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google Maps is introducing a new live",
+            "lane guidance feature specifically for",
+            "drivers of the Polestar 4, an electric",
+            "vehicle powered by Google\u0027s systems.",
+            "This innovative feature leverages the",
+            "Polestar 4\u0027s front-facing camera to",
+            "detect lane markings and road signs in",
+            "real-time.",
+            "This AI analysis allows the system to",
+            "provide drivers with personalized audio",
+            "and visual cues, guiding them on when",
+            "and how to merge lanes safely.",
+            "The data captured by the camera is then",
+            "processed by Google Maps\u0027 artificial",
+            "intelligence (AI)."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T12:57:50.000Z",
+      "ranking": 5.455190226267043,
+      "articleUrl": "https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance"
     },
     {
       "id": "185",
@@ -459,76 +527,8 @@
         }
       ],
       "publishedAt": "2025-11-05T06:00:00.000Z",
-      "ranking": 6.5249999999999995,
+      "ranking": 5.350920619623687,
       "articleUrl": "https://venturebeat.com/ai/ais-capacity-crunch-latency-risk-escalating-costs-and-the-coming-surge"
-    },
-    {
-      "id": "169",
-      "topic": "Model Eval",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Judges Explained",
-      "mediumTitle": "Databricks\u0027 AI Judges for Output Quality",
-      "longTitle": "Databricks\u0027 AI Judges: Solving Enterprise AI Output Quality Challenges",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The primary obstacle to enterprise AI",
-            "deployment is not the technical",
-            "intelligence of AI models, but rather",
-            "the difficulty in defining and measuring",
-            "AI output quality, which is where \u0027AI",
-            "judges\u0027 come into play.",
-            "An AI judge is an AI system designed to",
-            "score the outputs of another AI system,",
-            "and Databricks\u0027 \u0027Judge Builder\u0027",
-            "framework, initially part of their Agent",
-            "Bricks technology, has evolved to",
-            "address this challenge.",
-            "Databricks now offers a structured",
-            "workshop process to help teams overcome",
-            "three core challenges: achieving",
-            "stakeholder consensus on quality",
-            "criteria, capturing domain expertise",
-            "from limited subject matter experts, and",
-            "deploying evaluation systems at scale."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T21:00:00.000Z",
-      "ranking": 6.3060084175044615,
-      "articleUrl": "https://venturebeat.com/ai/databricks-research-reveals-that-building-better-ai-judges-isnt-just-a"
-    },
-    {
-      "id": "168",
-      "topic": "Vision",
-      "source": "The Verge AI",
-      "shortTitle": "Google Maps Lane Guidance",
-      "mediumTitle": "Google Maps Adds Lane Guidance for Polestar 4",
-      "longTitle": "Google Maps Introduces Live Lane Guidance for Polestar 4 EVs",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google Maps is introducing a new live",
-            "lane guidance feature specifically for",
-            "drivers of the Polestar 4, an electric",
-            "vehicle powered by Google\u0027s systems.",
-            "This innovative feature leverages the",
-            "Polestar 4\u0027s front-facing camera to",
-            "detect lane markings and road signs in",
-            "real-time.",
-            "This AI analysis allows the system to",
-            "provide drivers with personalized audio",
-            "and visual cues, guiding them on when",
-            "and how to merge lanes safely.",
-            "The data captured by the camera is then",
-            "processed by Google Maps\u0027 artificial",
-            "intelligence (AI)."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T12:57:50.000Z",
-      "ranking": 6.02516982172641,
-      "articleUrl": "https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance"
     },
     {
       "id": "170",
@@ -561,7 +561,7 @@
         }
       ],
       "publishedAt": "2025-11-04T20:37:00.000Z",
-      "ranking": 5.70948443511076,
+      "ranking": 5.2457858703611855,
       "articleUrl": "https://venturebeat.com/ai/attention-isnt-all-you-need-new-qwen3-variant-brumby-14b-base-leverages"
     },
     {
@@ -597,43 +597,8 @@
         }
       ],
       "publishedAt": "2025-11-04T17:01:37.000Z",
-      "ranking": 5.32587284177729,
+      "ranking": 4.812320554691479,
       "articleUrl": "https://www.theverge.com/tech/813523/gemini-for-home-google-nest-camera-hands-on"
-    },
-    {
-      "id": "163",
-      "topic": "Education",
-      "source": "The Verge AI",
-      "shortTitle": "AI Targets Students",
-      "mediumTitle": "AI Companies Court Students for Future Growth",
-      "longTitle": "AI Companies Strategically Target Students for Future Market Dominance",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Tech companies are actively targeting",
-            "students with their AI agents,",
-            "recognizing them as crucial for future",
-            "business growth.",
-            "Companies are likely choosing not to",
-            "actively discourage AI use for cheating",
-            "because the benefits of hooking students",
-            "outweigh the perceived risks of academic",
-            "misconduct.",
-            "This proactive approach suggests that AI",
-            "companies are not only aware of but also",
-            "implicitly condone the use of their AI",
-            "tools by students, even when that use",
-            "might involve academic dishonesty.",
-            "The AI industry\u0027s business model is",
-            "intrinsically linked to the future",
-            "adoption and integration of AI by",
-            "younger generations."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T09:20:33.000Z",
-      "ranking": 5.16505381249688,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students"
     },
     {
       "id": "174",
@@ -668,8 +633,43 @@
         }
       ],
       "publishedAt": "2025-11-04T19:51:44.000Z",
-      "ranking": 5.125317798341335,
+      "ranking": 4.651141583559916,
       "articleUrl": "https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites"
+    },
+    {
+      "id": "163",
+      "topic": "Education",
+      "source": "The Verge AI",
+      "shortTitle": "AI Targets Students",
+      "mediumTitle": "AI Companies Court Students for Future Growth",
+      "longTitle": "AI Companies Strategically Target Students for Future Market Dominance",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Tech companies are actively targeting",
+            "students with their AI agents,",
+            "recognizing them as crucial for future",
+            "business growth.",
+            "Companies are likely choosing not to",
+            "actively discourage AI use for cheating",
+            "because the benefits of hooking students",
+            "outweigh the perceived risks of academic",
+            "misconduct.",
+            "This proactive approach suggests that AI",
+            "companies are not only aware of but also",
+            "implicitly condone the use of their AI",
+            "tools by students, even when that use",
+            "might involve academic dishonesty.",
+            "The AI industry\u0027s business model is",
+            "intrinsically linked to the future",
+            "adoption and integration of AI by",
+            "younger generations."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T09:20:33.000Z",
+      "ranking": 4.544780682303838,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students"
     },
     {
       "id": "167",
@@ -705,7 +705,7 @@
         }
       ],
       "publishedAt": "2025-11-04T14:51:31.000Z",
-      "ranking": 4.962692486870598,
+      "ranking": 4.419026590409274,
       "articleUrl": "https://www.theverge.com/news/813533/openai-sora-android-launch"
     },
     {
@@ -738,7 +738,7 @@
         }
       ],
       "publishedAt": "2025-11-04T09:32:23.000Z",
-      "ranking": 4.958090729339155,
+      "ranking": 4.340556607792976,
       "articleUrl": "https://www.marktechpost.com/2025/11/04/cache-to-cachec2c-direct-semantic-communication-between-large-language-models-via-kv-cache-fusion/"
     },
     {
@@ -772,7 +772,7 @@
         }
       ],
       "publishedAt": "2025-11-04T17:48:09.000Z",
-      "ranking": 4.561879427662318,
+      "ranking": 4.059097978822058,
       "articleUrl": "https://www.theverge.com/news/813789/microsoft-in-house-ai-image-generator-mai-image-1"
     },
     {
@@ -807,7 +807,7 @@
         }
       ],
       "publishedAt": "2025-11-04T17:36:41.000Z",
-      "ranking": 4.502512456018221,
+      "ranking": 3.9970768732604838,
       "articleUrl": "https://www.theverge.com/news/813755/amazon-perplexity-ai-shopping-agent-block"
     },
     {
@@ -842,7 +842,7 @@
         }
       ],
       "publishedAt": "2025-11-04T09:00:00.000Z",
-      "ranking": 4.446613775371277,
+      "ranking": 3.821584039246665,
       "articleUrl": "https://venturebeat.com/ai/98-of-market-researchers-use-ai-daily-but-4-in-10-say-it-makes-errors"
     },
     {
@@ -879,7 +879,7 @@
         }
       ],
       "publishedAt": "2025-11-04T10:00:00.000Z",
-      "ranking": 4.14579311765184,
+      "ranking": 3.5346512862135016,
       "articleUrl": "https://www.theverge.com/news/813102/amazon-music-alexa-plus-ai-integration"
     },
     {
@@ -913,7 +913,7 @@
         }
       ],
       "publishedAt": "2025-11-04T06:00:00.000Z",
-      "ranking": 3.898848450215771,
+      "ranking": 3.2321549971952583,
       "articleUrl": "https://venturebeat.com/ai/forget-fine-tuning-saps-rpt-1-brings-ready-to-use-ai-for-business-tasks"
     },
     {
@@ -947,7 +947,7 @@
         }
       ],
       "publishedAt": "2025-11-04T05:00:00.000Z",
-      "ranking": 3.823128692736729,
+      "ranking": 3.1425473335857133,
       "articleUrl": "https://venturebeat.com/ai/inside-zendesks-dual-ai-leap-from-reliable-agents-to-real-time-intelligence"
     },
     {
@@ -984,7 +984,7 @@
         }
       ],
       "publishedAt": "2025-11-03T18:20:38.000Z",
-      "ranking": 2.1526771291368565,
+      "ranking": 1.3241047083958701,
       "articleUrl": "https://www.theverge.com/news/812848/chatgpt-legal-medical-advice-rumor"
     },
     {
@@ -1018,7 +1018,7 @@
         }
       ],
       "publishedAt": "2025-11-03T16:00:00.000Z",
-      "ranking": 1.7355269556512551,
+      "ranking": 0.8744028278814202,
       "articleUrl": "https://venturebeat.com/ai/strengthening-our-core-welcoming-karyne-levy-as-venturebeats-new-managing"
     },
     {
@@ -1052,39 +1052,8 @@
         }
       ],
       "publishedAt": "2025-11-03T13:34:13.000Z",
-      "ranking": 0.9623727818832482,
+      "ranking": 0.06750490047982449,
       "articleUrl": "https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement"
-    },
-    {
-      "id": "154",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "AI FOMO Spending",
-      "mediumTitle": "Big Tech\u0027s AI Investment Driven by FOMO",
-      "longTitle": "Big Tech Companies Invest Billions in AI Due to Fear of Missing Out",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Big Tech companies are investing heavily",
-            "in AI due to a fear of missing out,",
-            "rather than immediate guaranteed",
-            "returns.",
-            "Major players like Amazon, Google,",
-            "Microsoft, and Meta have reported",
-            "capital expenditures exceeding $350",
-            "billion this year for AI development.",
-            "The core of the article\u0027s argument is",
-            "that the current AI boom is",
-            "characterized by immense spending and",
-            "ambitious promises, but the tangible,",
-            "profitable applications are still",
-            "largely in their nascent stages."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-03T13:06:02.000Z",
-      "ranking": 0.7801591728698076,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812455/ai-industry-earnings-bubble-fomo-hype"
     },
     {
       "id": "149",
@@ -1116,7 +1085,7 @@
         }
       ],
       "publishedAt": "2025-11-03T15:00:00.000Z",
-      "ranking": 0.7177191953133697,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/the-beginning-of-the-end-of-the-transformer-era-neuro-symbolic-ai-startup"
     },
     {
@@ -1155,6 +1124,37 @@
       "publishedAt": "2025-11-03T13:31:51.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/812559/coca-cola-ai-holiday-christmas-commercial-2025"
+    },
+    {
+      "id": "154",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "AI FOMO Spending",
+      "mediumTitle": "Big Tech\u0027s AI Investment Driven by FOMO",
+      "longTitle": "Big Tech Companies Invest Billions in AI Due to Fear of Missing Out",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Big Tech companies are investing heavily",
+            "in AI due to a fear of missing out,",
+            "rather than immediate guaranteed",
+            "returns.",
+            "Major players like Amazon, Google,",
+            "Microsoft, and Meta have reported",
+            "capital expenditures exceeding $350",
+            "billion this year for AI development.",
+            "The core of the article\u0027s argument is",
+            "that the current AI boom is",
+            "characterized by immense spending and",
+            "ambitious promises, but the tangible,",
+            "profitable applications are still",
+            "largely in their nascent stages."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-03T13:06:02.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812455/ai-industry-earnings-bubble-fomo-hype"
     },
     {
       "id": "155",
