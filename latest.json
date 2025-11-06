@@ -1,107 +1,106 @@
 {
   "articles": [
     {
-      "id": "184",
-      "topic": "Safety",
-      "source": "Marktechpost AI",
-      "shortTitle": "LLM Safety Boost",
-      "mediumTitle": "Google AI Enhances LLM Safety",
-      "longTitle": "Google AI\u0027s Consistency Training for LLM Safety",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google AI, through its DeepMind",
-            "researchers, has introduced a novel",
-            "technique called \u0022consistency training\u0022",
-            "designed to enhance the safety and",
-            "robustness of large language models",
-            "(LLMs) against specific types of",
-            "adversarial prompts.",
-            "Consistency training aims to address",
-            "this by ensuring that the model\u0027s",
-            "behavior remains consistent across",
-            "different prompt styles, particularly",
-            "when the underlying task is the same.",
-            "The goal is to train the model to",
-            "recognize that the underlying intent of",
-            "the request, regardless of the stylistic",
-            "wrapper, should lead to a consistent and",
-            "safe response."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T16:32:08.000Z",
-      "ranking": 8.130769230769232,
-      "articleUrl": "https://www.marktechpost.com/2025/11/05/google-ai-introduces-consistency-training-for-safer-language-models-under-sycophantic-and-jailbreak-style-prompts/"
-    },
-    {
-      "id": "186",
-      "topic": "Generative AI",
+      "id": "198",
+      "topic": "Policy",
       "source": "The Verge AI",
-      "shortTitle": "Gemini Accesses Data",
-      "mediumTitle": "Gemini Deep Research Integrates Personal Data",
-      "longTitle": "Google Gemini\u0027s Deep Research Now Analyzes User\u0027s Personal Data",
+      "shortTitle": "Altman Ouster",
+      "mediumTitle": "Altman\u0027s OpenAI Ouster: Safety Fears",
+      "longTitle": "Altman Ousted from OpenAI Amidst Safety Concerns and Lies",
       "paragraphs": [
         {
           "Lines": [
-            "Google\u0027s Gemini, a powerful AI agent",
-            "designed for creating research reports,",
-            "has introduced a significant new",
-            "capability: the ability to access and",
-            "analyze a user\u0027s personal data,",
-            "including emails, Google Drive",
-            "documents, and chats.",
-            "However, the ability of an AI to access",
-            "and process such sensitive personal data",
-            "also raises significant privacy and",
-            "security concerns.",
-            "While Google emphasizes that this is a",
-            "user-controlled feature, the mere",
-            "existence of such a capability",
-            "necessitates careful consideration of",
-            "data handling, consent, and potential",
-            "misuse."
+            "Sam Altman was ousted from OpenAI in",
+            "November 2023 due to a disagreement over",
+            "AI development pace and safety, with new",
+            "testimony suggesting fears of",
+            "existential threats and alleged",
+            "deception.",
+            "He allegedly believed that OpenAI was",
+            "moving too quickly, potentially creating",
+            "an AI that could pose an existential",
+            "threat to humanity.",
+            "The testimony reportedly reveals that",
+            "Sutskever\u0027s decision to support Altman\u0027s",
+            "removal stemmed from a profound fear",
+            "regarding the safety implications of the",
+            "AI models being developed.",
+            "This alleged deception would have",
+            "further eroded trust and justified the",
+            "board\u0027s drastic action to remove Altman,",
+            "aiming to regain control and prioritize",
+            "safety over rapid expansion."
           ]
         }
       ],
-      "publishedAt": "2025-11-05T18:09:51.000Z",
-      "ranking": 8.049999999999999,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized"
+      "publishedAt": "2025-11-06T11:13:17.000Z",
+      "ranking": 8.226666666666667,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814876/ilya-sutskever-deposition-openai-sam-altman-elon-musk-lawsuit"
     },
     {
-      "id": "179",
+      "id": "195",
+      "topic": "Finance",
+      "source": "The Verge AI",
+      "shortTitle": "Google Finance AI",
+      "mediumTitle": "Google Finance Integrates Gemini AI",
+      "longTitle": "Google Finance Enhances Trader Tools with Gemini AI and Deep Search",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google Finance is integrating Gemini AI",
+            "tools to enhance its offerings for stock",
+            "traders.",
+            "A key new feature is \u0022Deep Search,\u0022",
+            "designed to provide more detailed and",
+            "nuanced responses from the AI chatbot.",
+            "The emphasis on \u0022turbocharging\u0022 the AI",
+            "chatbot with Deep Search highlights a",
+            "commitment to improving the depth and",
+            "accuracy of the information traders can",
+            "access.",
+            "This upgrade aims to empower traders",
+            "with more sophisticated information",
+            "retrieval capabilities, allowing them to",
+            "ask more complex queries and receive",
+            "more in-depth answers."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T13:00:00.000Z",
+      "ranking": 7.86,
+      "articleUrl": "https://www.theverge.com/news/815300/google-finance-gets-ai-deep-search"
+    },
+    {
+      "id": "194",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
-      "shortTitle": "Vertex AI Updates",
-      "mediumTitle": "Google Cloud Vertex AI Agent Builder",
-      "longTitle": "Google Cloud Enhances Vertex AI Agent Builder for Enterprise AI",
+      "shortTitle": "AI Code Gen",
+      "mediumTitle": "AI Code Generation for Enterprise",
+      "longTitle": "Enterprise Adoption of AI-Powered Code Generation",
       "paragraphs": [
         {
           "Lines": [
-            "Google Cloud has significantly updated",
-            "its Vertex AI Agent Builder, a platform",
-            "designed for enterprises to",
-            "conceptualize, design, build, test,",
-            "deploy, and modify AI agents for various",
-            "use cases.",
-            "Key new features include advanced",
-            "governance tools for enterprises,",
-            "expanded capabilities for low-code agent",
-            "creation, faster development cycles with",
-            "state-of-the-art context management,",
-            "one-click deployment, and managed",
-            "services for scaling production and",
-            "evaluation.",
-            "The governance layer further includes",
-            "unique, native identities for agents",
-            "within Google Cloud, providing granular",
-            "control and audit trails."
+            "However, its application in enterprise",
+            "production environments faces skepticism",
+            "due to potential risks like security",
+            "vulnerabilities, the introduction of",
+            "technical debt through poorly structured",
+            "code, and the illusion of progress where",
+            "the final 20% of complex tasks becomes",
+            "exponentially harder.",
+            "The article emphasizes that core",
+            "infrastructure should never be managed",
+            "solely by AI without human oversight.",
+            "Vibe coding, the use of generative AI to",
+            "create code from plain-language prompts,",
+            "offers significant speed advantages for",
+            "rapid prototyping and experimentation."
           ]
         }
       ],
-      "publishedAt": "2025-11-05T18:44:00.000Z",
-      "ranking": 8.01904761904762,
-      "articleUrl": "https://venturebeat.com/ai/the-agent-builder-arms-race-continues-as-google-cloud-pushes-deeper-into"
+      "publishedAt": "2025-11-06T06:00:00.000Z",
+      "ranking": 7.74375,
+      "articleUrl": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise"
     },
     {
       "id": "189",
@@ -139,6 +138,40 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/06/cmu-researchers-introduce-ppp-and-userville-to-train-proactive-and-personalized-llm-agents/"
     },
     {
+      "id": "196",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "MS AI: Superintelligence",
+      "mediumTitle": "Microsoft AI Pursues Superintelligence",
+      "longTitle": "Microsoft AI Aims for Human-Centric Superintelligence",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft AI, under the leadership of",
+            "Mustafa Suleyman, has announced its",
+            "commitment to developing",
+            "\u0027superintelligent AI\u0027 with a primary",
+            "focus on ensuring it serves humanity and",
+            "maintains human primacy.",
+            "The company is forming a dedicated team",
+            "to pursue this goal, emphasizing a",
+            "\u0027humanist superintelligence\u0027 designed",
+            "explicitly for human benefit.",
+            "The core of Microsoft AI\u0027s strategy",
+            "revolves around addressing the potential",
+            "dangers associated with advanced AI,",
+            "such as misalignment with human values,",
+            "unintended consequences, and the",
+            "possibility of AI surpassing human",
+            "control."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T12:51:08.000Z",
+      "ranking": 7.513333333333334,
+      "articleUrl": "https://www.theverge.com/news/815619/microsoft-ai-humanist-superintelligence"
+    },
+    {
       "id": "188",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -174,76 +207,6 @@
       "publishedAt": "2025-11-06T06:03:50.000Z",
       "ranking": 7.463636363636362,
       "articleUrl": "https://www.theverge.com/news/815286/tinder-ai-chemistry-camera-roll-feature-test"
-    },
-    {
-      "id": "183",
-      "topic": "NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "IndQA Benchmark",
-      "mediumTitle": "OpenAI\u0027s IndQA for Indian Languages",
-      "longTitle": "OpenAI launches IndQA to test LLMs on Indian languages and culture",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has introduced IndQA, a new",
-            "benchmark designed to evaluate the",
-            "understanding and reasoning capabilities",
-            "of large language models (LLMs)",
-            "specifically within the context of",
-            "Indian languages and culture.",
-            "The primary goal of IndQA is to provide",
-            "a reliable method for testing how well",
-            "AI models can comprehend and respond to",
-            "questions that are relevant to",
-            "real-world Indian contexts.",
-            "Approximately 80 percent of people",
-            "worldwide do not use English as their",
-            "primary language, underscoring the",
-            "critical need for AI models to be",
-            "proficient in a diverse range of",
-            "languages and culturally sensitive."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T18:37:16.000Z",
-      "ranking": 7.4,
-      "articleUrl": "https://www.marktechpost.com/2025/11/05/openai-introduces-indqa-a-culture-aware-benchmark-for-indian-languages/"
-    },
-    {
-      "id": "187",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Apple \u0026 Google AI",
-      "mediumTitle": "Apple to Integrate Google Gemini AI",
-      "longTitle": "Apple Reportedly Planning to Integrate Google\u0027s Gemini AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Apple is reportedly planning to",
-            "integrate a custom version of Google\u0027s",
-            "Gemini AI model into its upcoming",
-            "AI-powered features, codenamed \u0022Apple",
-            "Intelligence.\u0022",
-            "Specifically, Gemini will be utilized to",
-            "generate summaries of text and perform",
-            "planning-related tasks.",
-            "This significant move, detailed in a",
-            "Bloomberg report by Mark Gurman,",
-            "suggests a strategic partnership where",
-            "Apple would pay Google approximately $1",
-            "billion annually for access to Gemini\u0027s",
-            "capabilities.",
-            "The integration of Gemini is expected to",
-            "be a key component of Apple",
-            "Intelligence, which aims to bring more",
-            "sophisticated AI capabilities across",
-            "Apple devices."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T16:12:33.000Z",
-      "ranking": 7.3166666666666655,
-      "articleUrl": "https://www.theverge.com/news/814654/apple-intelligence-google-gemini-ai-siri"
     },
     {
       "id": "191",
@@ -314,39 +277,144 @@
       "articleUrl": "https://venturebeat.com/ai/google-debuts-ai-chips-with-4x-performance-boost-secures-anthropic-megadeal"
     },
     {
-      "id": "176",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "xAI Biometric Data",
-      "mediumTitle": "xAI Collects Employee Biometrics for Chatbot",
-      "longTitle": "xAI Reportedly Used Employee Biometric Data for NSFW Chatbot Training",
+      "id": "179",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Vertex AI Updates",
+      "mediumTitle": "Google Cloud Vertex AI Agent Builder",
+      "longTitle": "Google Cloud Enhances Vertex AI Agent Builder for Enterprise AI",
       "paragraphs": [
         {
           "Lines": [
-            "The Wall Street Journal reported that",
-            "Elon Musk\u0027s artificial intelligence",
-            "company, xAI, required employees to",
-            "submit their biometric data.",
-            "This data was reportedly used for the",
-            "purpose of training its \u0027Ani\u0027 female",
-            "chatbot.",
-            "The core of the report centers on the",
-            "alleged use of personal employee data,",
-            "specifically biometric information, to",
-            "develop and refine a commercial AI",
-            "product.",
-            "\u0027Ani\u0027 is described as an anime avatar",
-            "with blond pigtails and an NSFW (Not",
-            "Safe For Work) setting.",
-            "The article implies that this practice",
-            "of using employee biometric data for AI",
-            "training has raised concerns."
+            "Google Cloud has significantly updated",
+            "its Vertex AI Agent Builder, a platform",
+            "designed for enterprises to",
+            "conceptualize, design, build, test,",
+            "deploy, and modify AI agents for various",
+            "use cases.",
+            "Key new features include advanced",
+            "governance tools for enterprises,",
+            "expanded capabilities for low-code agent",
+            "creation, faster development cycles with",
+            "state-of-the-art context management,",
+            "one-click deployment, and managed",
+            "services for scaling production and",
+            "evaluation.",
+            "The governance layer further includes",
+            "unique, native identities for agents",
+            "within Google Cloud, providing granular",
+            "control and audit trails."
           ]
         }
       ],
-      "publishedAt": "2025-11-05T10:43:02.000Z",
-      "ranking": 6.370366280134878,
-      "articleUrl": "https://www.theverge.com/news/814168/xai-grok-ani-employee-biometric-data"
+      "publishedAt": "2025-11-05T18:44:00.000Z",
+      "ranking": 6.907743205921639,
+      "articleUrl": "https://venturebeat.com/ai/the-agent-builder-arms-race-continues-as-google-cloud-pushes-deeper-into"
+    },
+    {
+      "id": "186",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini Accesses Data",
+      "mediumTitle": "Gemini Deep Research Integrates Personal Data",
+      "longTitle": "Google Gemini\u0027s Deep Research Now Analyzes User\u0027s Personal Data",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google\u0027s Gemini, a powerful AI agent",
+            "designed for creating research reports,",
+            "has introduced a significant new",
+            "capability: the ability to access and",
+            "analyze a user\u0027s personal data,",
+            "including emails, Google Drive",
+            "documents, and chats.",
+            "However, the ability of an AI to access",
+            "and process such sensitive personal data",
+            "also raises significant privacy and",
+            "security concerns.",
+            "While Google emphasizes that this is a",
+            "user-controlled feature, the mere",
+            "existence of such a capability",
+            "necessitates careful consideration of",
+            "data handling, consent, and potential",
+            "misuse."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T18:09:51.000Z",
+      "ranking": 6.88813262562463,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized"
+    },
+    {
+      "id": "184",
+      "topic": "Safety",
+      "source": "Marktechpost AI",
+      "shortTitle": "LLM Safety Boost",
+      "mediumTitle": "Google AI Enhances LLM Safety",
+      "longTitle": "Google AI\u0027s Consistency Training for LLM Safety",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google AI, through its DeepMind",
+            "researchers, has introduced a novel",
+            "technique called \u0022consistency training\u0022",
+            "designed to enhance the safety and",
+            "robustness of large language models",
+            "(LLMs) against specific types of",
+            "adversarial prompts.",
+            "Consistency training aims to address",
+            "this by ensuring that the model\u0027s",
+            "behavior remains consistent across",
+            "different prompt styles, particularly",
+            "when the underlying task is the same.",
+            "The goal is to train the model to",
+            "recognize that the underlying intent of",
+            "the request, regardless of the stylistic",
+            "wrapper, should lead to a consistent and",
+            "safe response."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T16:32:08.000Z",
+      "ranking": 6.818007108412754,
+      "articleUrl": "https://www.marktechpost.com/2025/11/05/google-ai-introduces-consistency-training-for-safer-language-models-under-sycophantic-and-jailbreak-style-prompts/"
+    },
+    {
+      "id": "193",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Kimi K2 AI",
+      "mediumTitle": "Kimi K2: Open-Source AI Surpasses Rivals",
+      "longTitle": "Moonshot AI\u0027s Kimi K2 Open-Source Model Outperforms GPT-5 and Claude",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Moonshot AI has released Kimi K2",
+            "Thinking, a new open-source AI model",
+            "that has surpassed leading proprietary",
+            "models like OpenAI\u0027s GPT-5 and",
+            "Anthropic\u0027s Claude Sonnet 4.5, as well",
+            "as other open-weight competitors, on key",
+            "benchmarks for reasoning, coding, and",
+            "agentic tool use.",
+            "This development marks a significant",
+            "shift in the AI landscape, demonstrating",
+            "that open-source models can now achieve",
+            "or exceed the performance of closed,",
+            "high-cost systems.",
+            "Its performance on benchmarks like",
+            "Humanity\u0027s Last Exam (HLE), BrowseComp,",
+            "SWE-Bench Verified, LiveCodeBench v6,",
+            "and Seal-0 is reported to be superior to",
+            "GPT-5 and Claude Sonnet 4.5, and",
+            "significantly better than the previous",
+            "open-source leader, MiniMax-M2."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T19:27:00.000Z",
+      "ranking": 6.656666666666666,
+      "articleUrl": "https://venturebeat.com/ai/moonshots-kimi-k2-thinking-emerges-as-leading-open-source-ai-outperforming"
     },
     {
       "id": "192",
@@ -386,6 +454,111 @@
       "articleUrl": "https://www.theverge.com/news/815328/beebot-app-foursquare-founder-ai-audio-updates"
     },
     {
+      "id": "183",
+      "topic": "NLP",
+      "source": "Marktechpost AI",
+      "shortTitle": "IndQA Benchmark",
+      "mediumTitle": "OpenAI\u0027s IndQA for Indian Languages",
+      "longTitle": "OpenAI launches IndQA to test LLMs on Indian languages and culture",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has introduced IndQA, a new",
+            "benchmark designed to evaluate the",
+            "understanding and reasoning capabilities",
+            "of large language models (LLMs)",
+            "specifically within the context of",
+            "Indian languages and culture.",
+            "The primary goal of IndQA is to provide",
+            "a reliable method for testing how well",
+            "AI models can comprehend and respond to",
+            "questions that are relevant to",
+            "real-world Indian contexts.",
+            "Approximately 80 percent of people",
+            "worldwide do not use English as their",
+            "primary language, underscoring the",
+            "critical need for AI models to be",
+            "proficient in a diverse range of",
+            "languages and culturally sensitive."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T18:37:16.000Z",
+      "ranking": 6.278815133279482,
+      "articleUrl": "https://www.marktechpost.com/2025/11/05/openai-introduces-indqa-a-culture-aware-benchmark-for-indian-languages/"
+    },
+    {
+      "id": "187",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Apple \u0026 Google AI",
+      "mediumTitle": "Apple to Integrate Google Gemini AI",
+      "longTitle": "Apple Reportedly Planning to Integrate Google\u0027s Gemini AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Apple is reportedly planning to",
+            "integrate a custom version of Google\u0027s",
+            "Gemini AI model into its upcoming",
+            "AI-powered features, codenamed \u0022Apple",
+            "Intelligence.\u0022",
+            "Specifically, Gemini will be utilized to",
+            "generate summaries of text and perform",
+            "planning-related tasks.",
+            "This significant move, detailed in a",
+            "Bloomberg report by Mark Gurman,",
+            "suggests a strategic partnership where",
+            "Apple would pay Google approximately $1",
+            "billion annually for access to Gemini\u0027s",
+            "capabilities.",
+            "The integration of Gemini is expected to",
+            "be a key component of Apple",
+            "Intelligence, which aims to bring more",
+            "sophisticated AI capabilities across",
+            "Apple devices."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T16:12:33.000Z",
+      "ranking": 5.972556013946031,
+      "articleUrl": "https://www.theverge.com/news/814654/apple-intelligence-google-gemini-ai-siri"
+    },
+    {
+      "id": "176",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "xAI Biometric Data",
+      "mediumTitle": "xAI Collects Employee Biometrics for Chatbot",
+      "longTitle": "xAI Reportedly Used Employee Biometric Data for NSFW Chatbot Training",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The Wall Street Journal reported that",
+            "Elon Musk\u0027s artificial intelligence",
+            "company, xAI, required employees to",
+            "submit their biometric data.",
+            "This data was reportedly used for the",
+            "purpose of training its \u0027Ani\u0027 female",
+            "chatbot.",
+            "The core of the report centers on the",
+            "alleged use of personal employee data,",
+            "specifically biometric information, to",
+            "develop and refine a commercial AI",
+            "product.",
+            "\u0027Ani\u0027 is described as an anime avatar",
+            "with blond pigtails and an NSFW (Not",
+            "Safe For Work) setting.",
+            "The article implies that this practice",
+            "of using employee biometric data for AI",
+            "training has raised concerns."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T10:43:02.000Z",
+      "ranking": 5.935431626831168,
+      "articleUrl": "https://www.theverge.com/news/814168/xai-grok-ani-employee-biometric-data"
+    },
+    {
       "id": "181",
       "topic": "Speech",
       "source": "The Verge AI",
@@ -417,7 +590,7 @@
         }
       ],
       "publishedAt": "2025-11-05T12:55:55.000Z",
-      "ranking": 6.274796321286969,
+      "ranking": 5.870620405465914,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814329/sandbar-stream-ring-ai-wearable"
     },
     {
@@ -452,7 +625,7 @@
         }
       ],
       "publishedAt": "2025-11-05T12:10:00.000Z",
-      "ranking": 6.131763789125853,
+      "ranking": 5.716959465463384,
       "articleUrl": "https://www.theverge.com/tech/813944/browser-wars-chatgpt-gemini-chrome"
     },
     {
@@ -489,7 +662,7 @@
         }
       ],
       "publishedAt": "2025-11-05T10:00:00.000Z",
-      "ranking": 6.057041121130363,
+      "ranking": 5.612145477906022,
       "articleUrl": "https://www.theverge.com/news/813588/google-maps-gemini-ai-chatbot-navigation-directions"
     },
     {
@@ -525,7 +698,7 @@
         }
       ],
       "publishedAt": "2025-11-05T06:00:00.000Z",
-      "ranking": 5.944048575274476,
+      "ranking": 5.443599725433885,
       "articleUrl": "https://venturebeat.com/ai/from-logs-to-insights-the-ai-breakthrough-redefining-observability"
     },
     {
@@ -562,7 +735,7 @@
         }
       ],
       "publishedAt": "2025-11-05T08:22:25.000Z",
-      "ranking": 5.589764843963524,
+      "ranking": 5.122281423116202,
       "articleUrl": "https://www.theverge.com/news/814042/getty-lawsuit-stability-ai-copyright-ruling-uk"
     },
     {
@@ -599,7 +772,7 @@
         }
       ],
       "publishedAt": "2025-11-05T01:00:56.000Z",
-      "ranking": 5.22052329912966,
+      "ranking": 4.650848981434693,
       "articleUrl": "https://www.marktechpost.com/2025/11/04/how-can-we-build-scalable-and-reproducible-machine-learning-experiment-pipelines-using-meta-research-hydra/"
     },
     {
@@ -635,7 +808,7 @@
         }
       ],
       "publishedAt": "2025-11-04T21:00:00.000Z",
-      "ranking": 4.759863415311521,
+      "ranking": 4.134419851334217,
       "articleUrl": "https://venturebeat.com/ai/databricks-research-reveals-that-building-better-ai-judges-isnt-just-a"
     },
     {
@@ -672,7 +845,7 @@
         }
       ],
       "publishedAt": "2025-11-05T06:00:00.000Z",
-      "ranking": 4.514048555253938,
+      "ranking": 4.0135997091206015,
       "articleUrl": "https://venturebeat.com/ai/ais-capacity-crunch-latency-risk-escalating-costs-and-the-coming-surge"
     },
     {
@@ -706,7 +879,7 @@
         }
       ],
       "publishedAt": "2025-11-04T20:37:00.000Z",
-      "ranking": 4.147329338522115,
+      "ranking": 3.5165619277547626,
       "articleUrl": "https://venturebeat.com/ai/attention-isnt-all-you-need-new-qwen3-variant-brumby-14b-base-leverages"
     },
     {
@@ -738,7 +911,7 @@
         }
       ],
       "publishedAt": "2025-11-04T12:57:50.000Z",
-      "ranking": 4.143392861944243,
+      "ranking": 3.4063413631574866,
       "articleUrl": "https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance"
     },
     {
@@ -774,7 +947,7 @@
         }
       ],
       "publishedAt": "2025-11-04T17:01:37.000Z",
-      "ranking": 3.613791307260362,
+      "ranking": 2.9331687505218724,
       "articleUrl": "https://www.theverge.com/tech/813523/gemini-for-home-google-nest-camera-hands-on"
     },
     {
@@ -810,7 +983,7 @@
         }
       ],
       "publishedAt": "2025-11-04T19:51:44.000Z",
-      "ranking": 3.5316529715463165,
+      "ranking": 2.8904076091723905,
       "articleUrl": "https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites"
     },
     {
@@ -847,7 +1020,7 @@
         }
       ],
       "publishedAt": "2025-11-04T14:51:31.000Z",
-      "ranking": 3.160049497916903,
+      "ranking": 2.4493124747988606,
       "articleUrl": "https://www.theverge.com/news/813533/openai-sora-android-launch"
     },
     {
@@ -882,41 +1055,8 @@
         }
       ],
       "publishedAt": "2025-11-04T09:20:33.000Z",
-      "ranking": 3.1320278392432614,
+      "ranking": 2.344681402537697,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students"
-    },
-    {
-      "id": "161",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "LLM C2C Comms",
-      "mediumTitle": "Cache-to-Cache LLM Collaboration",
-      "longTitle": "Cache-to-Cache: A Novel LLM Communication Paradigm",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Cache-to-Cache (C2C) is a novel",
-            "communication paradigm that enables",
-            "large language models (LLMs) to",
-            "collaborate without exchanging textual",
-            "tokens.",
-            "Developed by a research team from",
-            "Tsinghua University, Infinigence AI, The",
-            "Chinese University of Hong Kong,",
-            "Shanghai AI Laboratory, and Shanghai",
-            "Jiao Tong University, C2C facilitates",
-            "direct semantic communication by",
-            "leveraging the KV-Cache of LLMs.",
-            "C2C proposes an alternative approach",
-            "where LLMs can directly share and fuse",
-            "their internal representations stored in",
-            "the KV-Cache."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T09:32:23.000Z",
-      "ranking": 2.933301847893122,
-      "articleUrl": "https://www.marktechpost.com/2025/11/04/cache-to-cachec2c-direct-semantic-communication-between-large-language-models-via-kv-cache-fusion/"
     },
     {
       "id": "171",
@@ -949,8 +1089,41 @@
         }
       ],
       "publishedAt": "2025-11-04T17:48:09.000Z",
-      "ranking": 2.882189330849601,
+      "ranking": 2.212337930894578,
       "articleUrl": "https://www.theverge.com/news/813789/microsoft-in-house-ai-image-generator-mai-image-1"
+    },
+    {
+      "id": "161",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "LLM C2C Comms",
+      "mediumTitle": "Cache-to-Cache LLM Collaboration",
+      "longTitle": "Cache-to-Cache: A Novel LLM Communication Paradigm",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Cache-to-Cache (C2C) is a novel",
+            "communication paradigm that enables",
+            "large language models (LLMs) to",
+            "collaborate without exchanging textual",
+            "tokens.",
+            "Developed by a research team from",
+            "Tsinghua University, Infinigence AI, The",
+            "Chinese University of Hong Kong,",
+            "Shanghai AI Laboratory, and Shanghai",
+            "Jiao Tong University, C2C facilitates",
+            "direct semantic communication by",
+            "leveraging the KV-Cache of LLMs.",
+            "C2C proposes an alternative approach",
+            "where LLMs can directly share and fuse",
+            "their internal representations stored in",
+            "the KV-Cache."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T09:32:23.000Z",
+      "ranking": 2.148694488541002,
+      "articleUrl": "https://www.marktechpost.com/2025/11/04/cache-to-cachec2c-direct-semantic-communication-between-large-language-models-via-kv-cache-fusion/"
     },
     {
       "id": "172",
@@ -984,7 +1157,7 @@
         }
       ],
       "publishedAt": "2025-11-04T17:36:41.000Z",
-      "ranking": 2.8148405091767565,
+      "ranking": 2.1423349009338555,
       "articleUrl": "https://www.theverge.com/news/813755/amazon-perplexity-ai-shopping-agent-block"
     },
     {
@@ -1019,7 +1192,7 @@
         }
       ],
       "publishedAt": "2025-11-04T09:00:00.000Z",
-      "ranking": 2.3992831347892025,
+      "ranking": 1.6071799635187887,
       "articleUrl": "https://venturebeat.com/ai/98-of-market-researchers-use-ai-daily-but-4-in-10-say-it-makes-errors"
     },
     {
@@ -1056,7 +1229,7 @@
         }
       ],
       "publishedAt": "2025-11-04T10:00:00.000Z",
-      "ranking": 2.1402279442433354,
+      "ranking": 1.3620130758946773,
       "articleUrl": "https://www.theverge.com/news/813102/amazon-music-alexa-plus-ai-integration"
     },
     {
@@ -1090,7 +1263,7 @@
         }
       ],
       "publishedAt": "2025-11-04T06:00:00.000Z",
-      "ranking": 1.7262214005651408,
+      "ranking": 0.8924533285398608,
       "articleUrl": "https://venturebeat.com/ai/forget-fine-tuning-saps-rpt-1-brings-ready-to-use-ai-for-business-tasks"
     },
     {
@@ -1124,7 +1297,7 @@
         }
       ],
       "publishedAt": "2025-11-04T05:00:00.000Z",
-      "ranking": 1.6087361730101462,
+      "ranking": 0.7610798013922784,
       "articleUrl": "https://venturebeat.com/ai/inside-zendesks-dual-ai-leap-from-reliable-agents-to-real-time-intelligence"
     },
     {
@@ -1469,143 +1642,6 @@
       "publishedAt": "2025-11-03T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/developers-beware-googles-gemma-model-controversy-exposes-model-lifecycle"
-    },
-    {
-      "id": "146",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "LongCat Omni",
-      "mediumTitle": "Meituan\u0027s LongCat-Flash-Omni Model",
-      "longTitle": "Meituan\u0027s LongCat-Flash-Omni: A 560B Parameter Omni-Modal AI Model",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meituan\u0027s LongCat team has released",
-            "LongCat-Flash-Omni, an open-source",
-            "omni-modal model with 560 billion",
-            "parameters, designed for real-time",
-            "interaction across text, image, video,",
-            "and audio.",
-            "Its primary innovation lies in its",
-            "ability to efficiently process and",
-            "interact with multiple modalities \u2013",
-            "text, image, video, and audio \u2013 in",
-            "real-time.",
-            "The core challenge addressed by",
-            "LongCat-Flash-Omni is the design of a",
-            "single model capable of seamlessly",
-            "integrating these diverse data types",
-            "without compromising efficiency."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-02T16:44:14.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/02/longcat-flash-omni-a-sota-open-source-omni-modal-model-with-560b-parameters-with-27b-activated-excelling-at-real-time-audio-visual-interaction/"
-    },
-    {
-      "id": "147",
-      "topic": "Hardware",
-      "source": "VentureBeat AI",
-      "shortTitle": "New CPU Model",
-      "mediumTitle": "Deterministic CPU Execution Model",
-      "longTitle": "Deterministic, Time-Based CPU Execution Model Challenges Speculation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This novel approach, detailed in a",
-            "series of U.S. patents, fundamentally",
-            "alters instruction execution by",
-            "replacing speculative guesswork with a",
-            "time-based, latency-tolerant mechanism.",
-            "The architecture integrates a time",
-            "counter and register scoreboard between",
-            "fetch/decode and execution units,",
-            "utilizing a Time Resource Matrix (TRM)",
-            "for scheduling based on operand",
-            "readiness and resource availability.",
-            "For over three decades, modern CPUs have",
-            "utilized speculative execution to",
-            "maintain pipeline efficiency by",
-            "predicting instruction outcomes."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-02T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/moving-past-speculation-how-deterministic-cpus-deliver-predictable-ai"
-    },
-    {
-      "id": "142",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Claude Introspection",
-      "mediumTitle": "Anthropic\u0027s Claude: Introspection?",
-      "longTitle": "Anthropic\u0027s Claude Models Show Nascent Introspective Awareness",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Anthropic\u0027s latest research, detailed in",
-            "the paper \u0027Emergent Introspective",
-            "Awareness in Large Language Models,\u0027",
-            "investigates whether their Claude models",
-            "exhibit genuine introspection or merely",
-            "regurgitate information from their",
-            "training data when discussing their own",
-            "capabilities.",
-            "The findings indicate that Claude can",
-            "indeed detect these injected concepts,",
-            "but this detection is limited to",
-            "specific, controlled layers within the",
-            "model\u0027s architecture.",
-            "The core of the research involves",
-            "injecting specific concepts into the",
-            "model\u0027s processing layers and then",
-            "testing Claude\u0027s ability to detect these",
-            "injected concepts."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-01T10:10:11.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/01/anthropics-new-research-shows-claude-can-detect-injected-concepts-but-only-in-controlled-layers/"
-    },
-    {
-      "id": "143",
-      "topic": "Dev Tools",
-      "source": "Marktechpost AI",
-      "shortTitle": "Spark ML Pipeline",
-      "mediumTitle": "End-to-End Spark ML Pipeline Tutorial",
-      "longTitle": "Build End-to-End Data Engineering and ML Pipeline with Spark",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This tutorial, titled \u0027How to Build an",
-            "End-to-End Data Engineering and Machine",
-            "Learning Pipeline with Apache Spark and",
-            "PySpark,\u0027 guides readers through",
-            "constructing a comprehensive data",
-            "pipeline using Apache Spark and its",
-            "Python API, PySpark, within the Google",
-            "Colab environment.",
-            "The ultimate goal is to showcase how to",
-            "create a complete, end-to-end pipeline",
-            "that encompasses both the data",
-            "engineering and machine learning phases,",
-            "demonstrating the capabilities of Spark",
-            "and PySpark in a practical, integrated",
-            "manner.",
-            "Specifically, the tutorial focuses on",
-            "creating a model designed to predict",
-            "user subscription types.",
-            "It outlines the process of building and",
-            "evaluating a machine learning model."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-01T08:11:01.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/01/how-to-build-an-end-to-end-data-engineering-and-machine-learning-pipeline-with-apache-spark-and-pyspark/"
     }
   ]
 }
