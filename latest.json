@@ -140,43 +140,6 @@
       "articleUrl": "https://venturebeat.com/ai/from-logs-to-insights-the-ai-breakthrough-redefining-observability"
     },
     {
-      "id": "175",
-      "topic": "Dev Tools",
-      "source": "Marktechpost AI",
-      "shortTitle": "Meta Hydra ML",
-      "mediumTitle": "Meta Hydra for ML Pipelines",
-      "longTitle": "Meta Research Hydra for Scalable ML Experiment Pipelines",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta Research\u0027s Hydra is an open-source",
-            "configuration management framework",
-            "designed to build scalable and",
-            "reproducible machine learning experiment",
-            "pipelines.",
-            "The core benefit highlighted is the",
-            "enhancement of scalability and",
-            "reproducibility, critical challenges in",
-            "modern ML development.",
-            "By leveraging Hydra, researchers and",
-            "engineers can streamline their workflow",
-            "and ensure consistency across",
-            "experiments.",
-            "Hydra helps in more effectively managing",
-            "the numerous parameters involved in",
-            "training and evaluating ML models.",
-            "Python dataclasses are introduced as a",
-            "method for defining these",
-            "configurations, ensuring experiments are",
-            "reproducible and understandable."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T01:00:56.000Z",
-      "ranking": 7.863636363636363,
-      "articleUrl": "https://www.marktechpost.com/2025/11/04/how-can-we-build-scalable-and-reproducible-machine-learning-experiment-pipelines-using-meta-research-hydra/"
-    },
-    {
       "id": "176",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -426,72 +389,41 @@
       "articleUrl": "https://www.theverge.com/news/814654/apple-intelligence-google-gemini-ai-siri"
     },
     {
-      "id": "169",
-      "topic": "Model Eval",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Judges Explained",
-      "mediumTitle": "Databricks\u0027 AI Judges for Output Quality",
-      "longTitle": "Databricks\u0027 AI Judges: Solving Enterprise AI Output Quality Challenges",
+      "id": "175",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "Meta Hydra ML",
+      "mediumTitle": "Meta Hydra for ML Pipelines",
+      "longTitle": "Meta Research Hydra for Scalable ML Experiment Pipelines",
       "paragraphs": [
         {
           "Lines": [
-            "The primary obstacle to enterprise AI",
-            "deployment is not the technical",
-            "intelligence of AI models, but rather",
-            "the difficulty in defining and measuring",
-            "AI output quality, which is where \u0027AI",
-            "judges\u0027 come into play.",
-            "An AI judge is an AI system designed to",
-            "score the outputs of another AI system,",
-            "and Databricks\u0027 \u0027Judge Builder\u0027",
-            "framework, initially part of their Agent",
-            "Bricks technology, has evolved to",
-            "address this challenge.",
-            "Databricks now offers a structured",
-            "workshop process to help teams overcome",
-            "three core challenges: achieving",
-            "stakeholder consensus on quality",
-            "criteria, capturing domain expertise",
-            "from limited subject matter experts, and",
-            "deploying evaluation systems at scale."
+            "Meta Research\u0027s Hydra is an open-source",
+            "configuration management framework",
+            "designed to build scalable and",
+            "reproducible machine learning experiment",
+            "pipelines.",
+            "The core benefit highlighted is the",
+            "enhancement of scalability and",
+            "reproducibility, critical challenges in",
+            "modern ML development.",
+            "By leveraging Hydra, researchers and",
+            "engineers can streamline their workflow",
+            "and ensure consistency across",
+            "experiments.",
+            "Hydra helps in more effectively managing",
+            "the numerous parameters involved in",
+            "training and evaluating ML models.",
+            "Python dataclasses are introduced as a",
+            "method for defining these",
+            "configurations, ensuring experiments are",
+            "reproducible and understandable."
           ]
         }
       ],
-      "publishedAt": "2025-11-04T21:00:00.000Z",
-      "ranking": 6.706661756601422,
-      "articleUrl": "https://venturebeat.com/ai/databricks-research-reveals-that-building-better-ai-judges-isnt-just-a"
-    },
-    {
-      "id": "168",
-      "topic": "Vision",
-      "source": "The Verge AI",
-      "shortTitle": "Google Maps Lane Guidance",
-      "mediumTitle": "Google Maps Adds Lane Guidance for Polestar 4",
-      "longTitle": "Google Maps Introduces Live Lane Guidance for Polestar 4 EVs",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google Maps is introducing a new live",
-            "lane guidance feature specifically for",
-            "drivers of the Polestar 4, an electric",
-            "vehicle powered by Google\u0027s systems.",
-            "This innovative feature leverages the",
-            "Polestar 4\u0027s front-facing camera to",
-            "detect lane markings and road signs in",
-            "real-time.",
-            "This AI analysis allows the system to",
-            "provide drivers with personalized audio",
-            "and visual cues, guiding them on when",
-            "and how to merge lanes safely.",
-            "The data captured by the camera is then",
-            "processed by Google Maps\u0027 artificial",
-            "intelligence (AI)."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T12:57:50.000Z",
-      "ranking": 6.536781324883339,
-      "articleUrl": "https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance"
+      "publishedAt": "2025-11-05T01:00:56.000Z",
+      "ranking": 6.598956746392055,
+      "articleUrl": "https://www.marktechpost.com/2025/11/04/how-can-we-build-scalable-and-reproducible-machine-learning-experiment-pipelines-using-meta-research-hydra/"
     },
     {
       "id": "185",
@@ -531,6 +463,74 @@
       "articleUrl": "https://venturebeat.com/ai/ais-capacity-crunch-latency-risk-escalating-costs-and-the-coming-surge"
     },
     {
+      "id": "169",
+      "topic": "Model Eval",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Judges Explained",
+      "mediumTitle": "Databricks\u0027 AI Judges for Output Quality",
+      "longTitle": "Databricks\u0027 AI Judges: Solving Enterprise AI Output Quality Challenges",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The primary obstacle to enterprise AI",
+            "deployment is not the technical",
+            "intelligence of AI models, but rather",
+            "the difficulty in defining and measuring",
+            "AI output quality, which is where \u0027AI",
+            "judges\u0027 come into play.",
+            "An AI judge is an AI system designed to",
+            "score the outputs of another AI system,",
+            "and Databricks\u0027 \u0027Judge Builder\u0027",
+            "framework, initially part of their Agent",
+            "Bricks technology, has evolved to",
+            "address this challenge.",
+            "Databricks now offers a structured",
+            "workshop process to help teams overcome",
+            "three core challenges: achieving",
+            "stakeholder consensus on quality",
+            "criteria, capturing domain expertise",
+            "from limited subject matter experts, and",
+            "deploying evaluation systems at scale."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T21:00:00.000Z",
+      "ranking": 6.3060084175044615,
+      "articleUrl": "https://venturebeat.com/ai/databricks-research-reveals-that-building-better-ai-judges-isnt-just-a"
+    },
+    {
+      "id": "168",
+      "topic": "Vision",
+      "source": "The Verge AI",
+      "shortTitle": "Google Maps Lane Guidance",
+      "mediumTitle": "Google Maps Adds Lane Guidance for Polestar 4",
+      "longTitle": "Google Maps Introduces Live Lane Guidance for Polestar 4 EVs",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google Maps is introducing a new live",
+            "lane guidance feature specifically for",
+            "drivers of the Polestar 4, an electric",
+            "vehicle powered by Google\u0027s systems.",
+            "This innovative feature leverages the",
+            "Polestar 4\u0027s front-facing camera to",
+            "detect lane markings and road signs in",
+            "real-time.",
+            "This AI analysis allows the system to",
+            "provide drivers with personalized audio",
+            "and visual cues, guiding them on when",
+            "and how to merge lanes safely.",
+            "The data captured by the camera is then",
+            "processed by Google Maps\u0027 artificial",
+            "intelligence (AI)."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T12:57:50.000Z",
+      "ranking": 6.02516982172641,
+      "articleUrl": "https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance"
+    },
+    {
       "id": "170",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -561,7 +561,7 @@
         }
       ],
       "publishedAt": "2025-11-04T20:37:00.000Z",
-      "ranking": 6.115430631558739,
+      "ranking": 5.70948443511076,
       "articleUrl": "https://venturebeat.com/ai/attention-isnt-all-you-need-new-qwen3-variant-brumby-14b-base-leverages"
     },
     {
@@ -597,7 +597,7 @@
         }
       ],
       "publishedAt": "2025-11-04T17:01:37.000Z",
-      "ranking": 5.781383929186536,
+      "ranking": 5.32587284177729,
       "articleUrl": "https://www.theverge.com/tech/813523/gemini-for-home-google-nest-camera-hands-on"
     },
     {
@@ -632,7 +632,7 @@
         }
       ],
       "publishedAt": "2025-11-04T09:20:33.000Z",
-      "ranking": 5.72666743916399,
+      "ranking": 5.16505381249688,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students"
     },
     {
@@ -668,41 +668,8 @@
         }
       ],
       "publishedAt": "2025-11-04T19:51:44.000Z",
-      "ranking": 5.541680947665755,
+      "ranking": 5.125317798341335,
       "articleUrl": "https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites"
-    },
-    {
-      "id": "161",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "LLM C2C Comms",
-      "mediumTitle": "Cache-to-Cache LLM Collaboration",
-      "longTitle": "Cache-to-Cache: A Novel LLM Communication Paradigm",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Cache-to-Cache (C2C) is a novel",
-            "communication paradigm that enables",
-            "large language models (LLMs) to",
-            "collaborate without exchanging textual",
-            "tokens.",
-            "Developed by a research team from",
-            "Tsinghua University, Infinigence AI, The",
-            "Chinese University of Hong Kong,",
-            "Shanghai AI Laboratory, and Shanghai",
-            "Jiao Tong University, C2C facilitates",
-            "direct semantic communication by",
-            "leveraging the KV-Cache of LLMs.",
-            "C2C proposes an alternative approach",
-            "where LLMs can directly share and fuse",
-            "their internal representations stored in",
-            "the KV-Cache."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T09:32:23.000Z",
-      "ranking": 5.516981230499869,
-      "articleUrl": "https://www.marktechpost.com/2025/11/04/cache-to-cachec2c-direct-semantic-communication-between-large-language-models-via-kv-cache-fusion/"
     },
     {
       "id": "167",
@@ -738,43 +705,41 @@
         }
       ],
       "publishedAt": "2025-11-04T14:51:31.000Z",
-      "ranking": 5.448142715905595,
+      "ranking": 4.962692486870598,
       "articleUrl": "https://www.theverge.com/news/813533/openai-sora-android-launch"
     },
     {
-      "id": "164",
-      "topic": "Business",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI in Market Research",
-      "mediumTitle": "AI Adoption and Concerns in Market Research",
-      "longTitle": "AI Adoption in Market Research: Benefits, Challenges, and Future Outlook",
+      "id": "161",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "LLM C2C Comms",
+      "mediumTitle": "Cache-to-Cache LLM Collaboration",
+      "longTitle": "Cache-to-Cache: A Novel LLM Communication Paradigm",
       "paragraphs": [
         {
           "Lines": [
-            "A recent survey of 219 U.S. market",
-            "research and insights professionals,",
-            "conducted by QuestDIY in August 2025,",
-            "reveals that artificial intelligence",
-            "(AI) has been rapidly adopted by the",
-            "industry, with 98% of professionals",
-            "using AI tools and 72% using them daily.",
-            "Nearly four in ten researchers (39%)",
-            "report an increased reliance on",
-            "technology that sometimes produces",
-            "errors, and 37% have experienced new",
-            "risks around data quality or accuracy.",
-            "The primary frustration with AI, as",
-            "noted in an open-ended question, is",
-            "accuracy, with researchers often",
-            "encountering \u0022hallucinations\u0022 \u2013",
-            "fabricated information presented as",
-            "fact."
+            "Cache-to-Cache (C2C) is a novel",
+            "communication paradigm that enables",
+            "large language models (LLMs) to",
+            "collaborate without exchanging textual",
+            "tokens.",
+            "Developed by a research team from",
+            "Tsinghua University, Infinigence AI, The",
+            "Chinese University of Hong Kong,",
+            "Shanghai AI Laboratory, and Shanghai",
+            "Jiao Tong University, C2C facilitates",
+            "direct semantic communication by",
+            "leveraging the KV-Cache of LLMs.",
+            "C2C proposes an alternative approach",
+            "where LLMs can directly share and fuse",
+            "their internal representations stored in",
+            "the KV-Cache."
           ]
         }
       ],
-      "publishedAt": "2025-11-04T09:00:00.000Z",
-      "ranking": 5.012956468215128,
-      "articleUrl": "https://venturebeat.com/ai/98-of-market-researchers-use-ai-daily-but-4-in-10-say-it-makes-errors"
+      "publishedAt": "2025-11-04T09:32:23.000Z",
+      "ranking": 4.958090729339155,
+      "articleUrl": "https://www.marktechpost.com/2025/11/04/cache-to-cachec2c-direct-semantic-communication-between-large-language-models-via-kv-cache-fusion/"
     },
     {
       "id": "171",
@@ -807,7 +772,7 @@
         }
       ],
       "publishedAt": "2025-11-04T17:48:09.000Z",
-      "ranking": 5.006682076844879,
+      "ranking": 4.561879427662318,
       "articleUrl": "https://www.theverge.com/news/813789/microsoft-in-house-ai-image-generator-mai-image-1"
     },
     {
@@ -842,8 +807,43 @@
         }
       ],
       "publishedAt": "2025-11-04T17:36:41.000Z",
-      "ranking": 4.949953861993883,
+      "ranking": 4.502512456018221,
       "articleUrl": "https://www.theverge.com/news/813755/amazon-perplexity-ai-shopping-agent-block"
+    },
+    {
+      "id": "164",
+      "topic": "Business",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI in Market Research",
+      "mediumTitle": "AI Adoption and Concerns in Market Research",
+      "longTitle": "AI Adoption in Market Research: Benefits, Challenges, and Future Outlook",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A recent survey of 219 U.S. market",
+            "research and insights professionals,",
+            "conducted by QuestDIY in August 2025,",
+            "reveals that artificial intelligence",
+            "(AI) has been rapidly adopted by the",
+            "industry, with 98% of professionals",
+            "using AI tools and 72% using them daily.",
+            "Nearly four in ten researchers (39%)",
+            "report an increased reliance on",
+            "technology that sometimes produces",
+            "errors, and 37% have experienced new",
+            "risks around data quality or accuracy.",
+            "The primary frustration with AI, as",
+            "noted in an open-ended question, is",
+            "accuracy, with researchers often",
+            "encountering \u0022hallucinations\u0022 \u2013",
+            "fabricated information presented as",
+            "fact."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T09:00:00.000Z",
+      "ranking": 4.446613775371277,
+      "articleUrl": "https://venturebeat.com/ai/98-of-market-researchers-use-ai-daily-but-4-in-10-say-it-makes-errors"
     },
     {
       "id": "162",
@@ -879,7 +879,7 @@
         }
       ],
       "publishedAt": "2025-11-04T10:00:00.000Z",
-      "ranking": 4.698328357730612,
+      "ranking": 4.14579311765184,
       "articleUrl": "https://www.theverge.com/news/813102/amazon-music-alexa-plus-ai-integration"
     },
     {
@@ -913,7 +913,7 @@
         }
       ],
       "publishedAt": "2025-11-04T06:00:00.000Z",
-      "ranking": 4.506613468541305,
+      "ranking": 3.898848450215771,
       "articleUrl": "https://venturebeat.com/ai/forget-fine-tuning-saps-rpt-1-brings-ready-to-use-ai-for-business-tasks"
     },
     {
@@ -947,7 +947,7 @@
         }
       ],
       "publishedAt": "2025-11-04T05:00:00.000Z",
-      "ranking": 4.444701156207763,
+      "ranking": 3.823128692736729,
       "articleUrl": "https://venturebeat.com/ai/inside-zendesks-dual-ai-leap-from-reliable-agents-to-real-time-intelligence"
     },
     {
@@ -984,7 +984,7 @@
         }
       ],
       "publishedAt": "2025-11-03T18:20:38.000Z",
-      "ranking": 2.921383252081167,
+      "ranking": 2.1526771291368565,
       "articleUrl": "https://www.theverge.com/news/812848/chatgpt-legal-medical-advice-rumor"
     },
     {
@@ -1018,7 +1018,7 @@
         }
       ],
       "publishedAt": "2025-11-03T16:00:00.000Z",
-      "ranking": 2.5365961948245763,
+      "ranking": 1.7355269556512551,
       "articleUrl": "https://venturebeat.com/ai/strengthening-our-core-welcoming-karyne-levy-as-venturebeats-new-managing"
     },
     {
@@ -1052,7 +1052,7 @@
         }
       ],
       "publishedAt": "2025-11-03T13:34:13.000Z",
-      "ranking": 1.796990265728919,
+      "ranking": 0.9623727818832482,
       "articleUrl": "https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement"
     },
     {
@@ -1083,7 +1083,7 @@
         }
       ],
       "publishedAt": "2025-11-03T13:06:02.000Z",
-      "ranking": 1.6212623195421587,
+      "ranking": 0.7801591728698076,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812455/ai-industry-earnings-bubble-fomo-hype"
     },
     {
@@ -1116,78 +1116,8 @@
         }
       ],
       "publishedAt": "2025-11-03T15:00:00.000Z",
-      "ranking": 1.5325958692630737,
+      "ranking": 0.7177191953133697,
       "articleUrl": "https://venturebeat.com/ai/the-beginning-of-the-end-of-the-transformer-era-neuro-symbolic-ai-startup"
-    },
-    {
-      "id": "155",
-      "topic": "Hardware",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI \u0026 AWS Deal",
-      "mediumTitle": "OpenAI Secures $38B AWS Partnership",
-      "longTitle": "OpenAI Signs $38 Billion Seven-Year Deal with AWS for GPU Access",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This agreement will grant OpenAI access",
-            "to a substantial number of Nvidia",
-            "Graphics Processing Units (GPUs),",
-            "reportedly \u0022hundreds of thousands,\u0022",
-            "which are crucial for training its",
-            "advanced Artificial Intelligence (AI)",
-            "models.",
-            "OpenAI has secured a significant",
-            "seven-year partnership with Amazon Web",
-            "Services (AWS), valued at $38 billion.",
-            "This deal marks a notable shift in",
-            "OpenAI\u0027s cloud infrastructure strategy,",
-            "as it signals a loosening of Microsoft\u0027s",
-            "exclusive cloud provider status for the",
-            "AI company.",
-            "Previously, Microsoft held a dominant",
-            "position, but this new arrangement with",
-            "AWS diversifies OpenAI\u0027s cloud computing",
-            "resources."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-03T11:12:19.000Z",
-      "ranking": 0.6372287247007771,
-      "articleUrl": "https://www.theverge.com/news/812443/openai-amazon-38-billion-cloud-computing-ai"
-    },
-    {
-      "id": "150",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Gemma AI Pulled",
-      "mediumTitle": "Google\u0027s Gemma AI Temporarily Removed",
-      "longTitle": "Google Temporarily Removes Gemma AI Following Allegations",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has temporarily removed its AI",
-            "model, Gemma, from its AI Studio",
-            "platform following a complaint from a",
-            "Republican senator.",
-            "The senator alleged that Gemma",
-            "fabricated serious criminal allegations",
-            "about her.",
-            "This event underscores the ongoing",
-            "challenges in controlling AI outputs and",
-            "the critical importance of ethical",
-            "considerations in the development and",
-            "release of artificial intelligence",
-            "technologies.",
-            "Google stated that it observed instances",
-            "of non-developers attempting to use",
-            "Gemma within AI Studio and prompting it",
-            "with inappropriate requests."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-03T07:40:40.000Z",
-      "ranking": 0.5661972957156758,
-      "articleUrl": "https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination"
     },
     {
       "id": "153",
@@ -1223,8 +1153,111 @@
         }
       ],
       "publishedAt": "2025-11-03T13:31:51.000Z",
-      "ranking": 0.5589810347120387,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/812559/coca-cola-ai-holiday-christmas-commercial-2025"
+    },
+    {
+      "id": "155",
+      "topic": "Hardware",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI \u0026 AWS Deal",
+      "mediumTitle": "OpenAI Secures $38B AWS Partnership",
+      "longTitle": "OpenAI Signs $38 Billion Seven-Year Deal with AWS for GPU Access",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This agreement will grant OpenAI access",
+            "to a substantial number of Nvidia",
+            "Graphics Processing Units (GPUs),",
+            "reportedly \u0022hundreds of thousands,\u0022",
+            "which are crucial for training its",
+            "advanced Artificial Intelligence (AI)",
+            "models.",
+            "OpenAI has secured a significant",
+            "seven-year partnership with Amazon Web",
+            "Services (AWS), valued at $38 billion.",
+            "This deal marks a notable shift in",
+            "OpenAI\u0027s cloud infrastructure strategy,",
+            "as it signals a loosening of Microsoft\u0027s",
+            "exclusive cloud provider status for the",
+            "AI company.",
+            "Previously, Microsoft held a dominant",
+            "position, but this new arrangement with",
+            "AWS diversifies OpenAI\u0027s cloud computing",
+            "resources."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-03T11:12:19.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/812443/openai-amazon-38-billion-cloud-computing-ai"
+    },
+    {
+      "id": "156",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Denario AI Research",
+      "mediumTitle": "Denario: AI Research Assistant",
+      "longTitle": "Denario: AI System Conducts Autonomous Scientific Research",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Denario is an AI system developed by an",
+            "international team that functions as an",
+            "AI research assistant, capable of",
+            "autonomously conducting scientific",
+            "research across multiple disciplines.",
+            "The system can generate research ideas,",
+            "review literature, develop",
+            "methodologies, write and execute code,",
+            "create visualizations, and draft",
+            "academic papers, completing the process",
+            "in about 30 minutes for approximately",
+            "$4.",
+            "Notably, one AI-generated paper was",
+            "accepted for publication at the",
+            "Agents4Science 2025 conference, where AI",
+            "systems are the primary authors."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-03T10:40:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/meet-denario-the-ai-research-assistant-that-is-already-getting-its-own"
+    },
+    {
+      "id": "150",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Gemma AI Pulled",
+      "mediumTitle": "Google\u0027s Gemma AI Temporarily Removed",
+      "longTitle": "Google Temporarily Removes Gemma AI Following Allegations",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has temporarily removed its AI",
+            "model, Gemma, from its AI Studio",
+            "platform following a complaint from a",
+            "Republican senator.",
+            "The senator alleged that Gemma",
+            "fabricated serious criminal allegations",
+            "about her.",
+            "This event underscores the ongoing",
+            "challenges in controlling AI outputs and",
+            "the critical importance of ethical",
+            "considerations in the development and",
+            "release of artificial intelligence",
+            "technologies.",
+            "Google stated that it observed instances",
+            "of non-developers attempting to use",
+            "Gemma within AI Studio and prompting it",
+            "with inappropriate requests."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-03T07:40:40.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination"
     },
     {
       "id": "157",
@@ -1257,41 +1290,8 @@
         }
       ],
       "publishedAt": "2025-11-03T06:00:00.000Z",
-      "ranking": 0.5445058729234677,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/developers-beware-googles-gemma-model-controversy-exposes-model-lifecycle"
-    },
-    {
-      "id": "156",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Denario AI Research",
-      "mediumTitle": "Denario: AI Research Assistant",
-      "longTitle": "Denario: AI System Conducts Autonomous Scientific Research",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Denario is an AI system developed by an",
-            "international team that functions as an",
-            "AI research assistant, capable of",
-            "autonomously conducting scientific",
-            "research across multiple disciplines.",
-            "The system can generate research ideas,",
-            "review literature, develop",
-            "methodologies, write and execute code,",
-            "create visualizations, and draft",
-            "academic papers, completing the process",
-            "in about 30 minutes for approximately",
-            "$4.",
-            "Notably, one AI-generated paper was",
-            "accepted for publication at the",
-            "Agents4Science 2025 conference, where AI",
-            "systems are the primary authors."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-03T10:40:00.000Z",
-      "ranking": 0.38797402567370476,
-      "articleUrl": "https://venturebeat.com/ai/meet-denario-the-ai-research-assistant-that-is-already-getting-its-own"
     },
     {
       "id": "146",
