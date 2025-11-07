@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "id": "203",
-      "topic": "Dev Tools",
-      "source": "Marktechpost AI",
-      "shortTitle": "DS STAR Automates",
-      "mediumTitle": "Google AI\u0027s DS STAR Automates Data Science",
-      "longTitle": "Google AI Introduces DS STAR for Automated Data Science Workflows",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google AI has introduced DS STAR (Data",
-            "Science Agent via Iterative Planning and",
-            "Verification), a novel multi-agent",
-            "framework designed to automate the",
-            "entire data science workflow.",
-            "This system aims to transform vague",
-            "business inquiries, posed over disparate",
-            "data sources like CSV, JSON, and text",
-            "files, into reliable Python code for",
-            "analysis, all without requiring human",
-            "intervention.",
-            "Crucially, DS STAR incorporates a",
-            "verification agent that reviews the",
-            "generated code and its output to ensure",
-            "accuracy and reliability.",
-            "DS STAR operates by breaking down the",
-            "complex data science process into a",
-            "series of interconnected agents, each",
-            "specializing in a particular task."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T23:03:23.000Z",
-      "ranking": 8.12142857142857,
-      "articleUrl": "https://www.marktechpost.com/2025/11/06/google-ai-introduces-ds-star-a-multi-agent-data-science-system-that-plans-codes-and-verifies-end-to-end-analytics/"
-    },
-    {
       "id": "202",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -106,6 +70,76 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/07/build-a-multi-agent-system-for-integrated-transcriptomic-proteomic-and-metabolomic-data-interpretation-with-pathway-reasoning/"
     },
     {
+      "id": "209",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Costs Shift",
+      "mediumTitle": "AI Deployment: Beyond Cost Concerns",
+      "longTitle": "AI Deployment Focus Shifts from Cost to Speed and Capacity",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Leading AI engineers are shifting their",
+            "focus from cost concerns to deployment",
+            "speed, flexibility, and capacity, as",
+            "highlighted by insights from Wonder and",
+            "Recursion.",
+            "From a cost perspective, moving large",
+            "workloads on-premises is estimated to be",
+            "at least 10 times cheaper, with a",
+            "five-year total cost of ownership being",
+            "half that of cloud solutions.",
+            "Wonder\u0027s primary challenge is cloud",
+            "capacity, as demand has grown",
+            "significantly, leading to unexpected",
+            "capacity limitations from cloud",
+            "providers.",
+            "Tech leaders are advised to commit to AI",
+            "with multi-year buy-ins, as a reluctance",
+            "to invest in compute can stifle",
+            "innovation."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-07T06:00:00.000Z",
+      "ranking": 7.923076923076923,
+      "articleUrl": "https://venturebeat.com/data-infrastructure/ship-fast-optimize-later-top-ai-engineers-dont-care-about-cost-theyre"
+    },
+    {
+      "id": "210",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "ADK Go Released",
+      "mediumTitle": "Google AI Releases ADK Go Toolkit",
+      "longTitle": "Google AI Launches Open-Source ADK Go for Developers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google AI has released the Agent",
+            "Development Kit for Go (ADK Go), an",
+            "open-source toolkit aimed at enabling Go",
+            "developers to build AI agents.",
+            "This new offering allows developers to",
+            "integrate AI capabilities into their",
+            "existing Go services without the need to",
+            "incorporate a separate programming",
+            "language stack.",
+            "The primary benefit of ADK Go is its",
+            "ability to keep the entire AI agent",
+            "development process within the familiar",
+            "Go toolchain.",
+            "This means Go developers can utilize",
+            "their existing knowledge, libraries, and",
+            "development environments to create",
+            "sophisticated AI agents."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-07T23:08:43.000Z",
+      "ranking": 7.590909090909093,
+      "articleUrl": "https://www.marktechpost.com/2025/11/07/google-extends-its-agent-development-kit-adk-to-go-bringing-native-agentic-workflows-to-backend-teams/"
+    },
+    {
       "id": "206",
       "topic": "Business",
       "source": "The Verge AI",
@@ -140,6 +174,42 @@
       "articleUrl": "https://www.theverge.com/podcast/816270/ibook-cheap-mac-ai-shopping-comet-vergecast"
     },
     {
+      "id": "203",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "DS STAR Automates",
+      "mediumTitle": "Google AI\u0027s DS STAR Automates Data Science",
+      "longTitle": "Google AI Introduces DS STAR for Automated Data Science Workflows",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google AI has introduced DS STAR (Data",
+            "Science Agent via Iterative Planning and",
+            "Verification), a novel multi-agent",
+            "framework designed to automate the",
+            "entire data science workflow.",
+            "This system aims to transform vague",
+            "business inquiries, posed over disparate",
+            "data sources like CSV, JSON, and text",
+            "files, into reliable Python code for",
+            "analysis, all without requiring human",
+            "intervention.",
+            "Crucially, DS STAR incorporates a",
+            "verification agent that reviews the",
+            "generated code and its output to ensure",
+            "accuracy and reliability.",
+            "DS STAR operates by breaking down the",
+            "complex data science process into a",
+            "series of interconnected agents, each",
+            "specializing in a particular task."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T23:03:23.000Z",
+      "ranking": 7.038964047157996,
+      "articleUrl": "https://www.marktechpost.com/2025/11/06/google-ai-introduces-ds-star-a-multi-agent-data-science-system-that-plans-codes-and-verifies-end-to-end-analytics/"
+    },
+    {
       "id": "199",
       "topic": "Business",
       "source": "The Verge AI",
@@ -170,7 +240,7 @@
         }
       ],
       "publishedAt": "2025-11-06T17:55:13.000Z",
-      "ranking": 6.408167398232904,
+      "ranking": 6.0159036834660204,
       "articleUrl": "https://www.theverge.com/news/815892/tesla-shareholder-vote-elon-musk-pay-trillion-robot"
     },
     {
@@ -207,8 +277,43 @@
         }
       ],
       "publishedAt": "2025-11-06T11:13:17.000Z",
-      "ranking": 6.360711972379041,
+      "ranking": 5.874920025101808,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814876/ilya-sutskever-deposition-openai-sam-altman-elon-musk-lawsuit"
+    },
+    {
+      "id": "197",
+      "topic": "Education",
+      "source": "The Verge AI",
+      "shortTitle": "AI\u0027s Edu Crisis",
+      "mediumTitle": "AI Fuels Education\u0027s Existential Crisis",
+      "longTitle": "Generative AI is Causing Widespread Problems in Education",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Generative AI is fueling an existential",
+            "crisis in education, causing widespread",
+            "problems in schools.",
+            "The core issue highlighted is that",
+            "generative AI tools are causing",
+            "widespread problems in schools, a",
+            "sentiment frequently echoed by various",
+            "stakeholders.",
+            "Generative AI is described as a \u0027very",
+            "big idea that is causing quite a few",
+            "problems.\u0027",
+            "The \u0027existential crisis\u0027 framing implies",
+            "a fundamental questioning of current",
+            "educational models and practices.",
+            "This establishes the central theme: the",
+            "disruptive and problematic impact of",
+            "generative AI on educational",
+            "institutions."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T11:30:00.000Z",
+      "ranking": 5.813723708968998,
+      "articleUrl": "https://www.theverge.com/podcast/815434/ai-education-schools-research-cheating-chatgpt-jobs-grades"
     },
     {
       "id": "195",
@@ -240,7 +345,7 @@
         }
       ],
       "publishedAt": "2025-11-06T13:00:00.000Z",
-      "ranking": 6.191018347855614,
+      "ranking": 5.730058924667068,
       "articleUrl": "https://www.theverge.com/news/815300/google-finance-gets-ai-deep-search"
     },
     {
@@ -276,7 +381,7 @@
         }
       ],
       "publishedAt": "2025-11-06T17:17:59.000Z",
-      "ranking": 5.9254557668117265,
+      "ranking": 5.524528003426023,
       "articleUrl": "https://www.theverge.com/news/815987/amazon-kindle-translate-ai-ebook-translation"
     },
     {
@@ -310,43 +415,8 @@
         }
       ],
       "publishedAt": "2025-11-06T12:51:08.000Z",
-      "ranking": 5.828404357301285,
+      "ranking": 5.365381703595249,
       "articleUrl": "https://www.theverge.com/news/815619/microsoft-ai-humanist-superintelligence"
-    },
-    {
-      "id": "189",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Smarter LLM Agents",
-      "mediumTitle": "CMU\u0027s New LLM Training Systems",
-      "longTitle": "CMU Researchers Develop PPP and UserVille for Enhanced LLM Agent Interaction",
-      "paragraphs": [
-        {
-          "Lines": [
-            "CMU researchers have developed two novel",
-            "systems, PPP (Proactive, Personalized,",
-            "and Polite) and UserVille, aimed at",
-            "training Large Language Model (LLM)",
-            "agents to be more proactive,",
-            "personalized, and considerate in their",
-            "interactions with users.",
-            "Unlike current LLM agents that are",
-            "primarily optimized for task completion,",
-            "these new systems focus on enhancing the",
-            "agent\u0027s ability to reason about when to",
-            "ask clarifying questions and how to",
-            "adapt to individual user preferences.",
-            "The core problem addressed is that",
-            "existing LLM agents often lack the",
-            "nuanced understanding required for",
-            "effective human-computer interaction,",
-            "leading to frustrating user experiences."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T10:49:46.000Z",
-      "ranking": 5.618328916438601,
-      "articleUrl": "https://www.marktechpost.com/2025/11/06/cmu-researchers-introduce-ppp-and-userville-to-train-proactive-and-personalized-llm-agents/"
     },
     {
       "id": "193",
@@ -382,8 +452,43 @@
         }
       ],
       "publishedAt": "2025-11-06T19:27:00.000Z",
-      "ranking": 5.609849697856466,
+      "ranking": 5.238943590152101,
       "articleUrl": "https://venturebeat.com/ai/moonshots-kimi-k2-thinking-emerges-as-leading-open-source-ai-outperforming"
+    },
+    {
+      "id": "189",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Smarter LLM Agents",
+      "mediumTitle": "CMU\u0027s New LLM Training Systems",
+      "longTitle": "CMU Researchers Develop PPP and UserVille for Enhanced LLM Agent Interaction",
+      "paragraphs": [
+        {
+          "Lines": [
+            "CMU researchers have developed two novel",
+            "systems, PPP (Proactive, Personalized,",
+            "and Polite) and UserVille, aimed at",
+            "training Large Language Model (LLM)",
+            "agents to be more proactive,",
+            "personalized, and considerate in their",
+            "interactions with users.",
+            "Unlike current LLM agents that are",
+            "primarily optimized for task completion,",
+            "these new systems focus on enhancing the",
+            "agent\u0027s ability to reason about when to",
+            "ask clarifying questions and how to",
+            "adapt to individual user preferences.",
+            "The core problem addressed is that",
+            "existing LLM agents often lack the",
+            "nuanced understanding required for",
+            "effective human-computer interaction,",
+            "leading to frustrating user experiences."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T10:49:46.000Z",
+      "ranking": 5.127064733260795,
+      "articleUrl": "https://www.marktechpost.com/2025/11/06/cmu-researchers-introduce-ppp-and-userville-to-train-proactive-and-personalized-llm-agents/"
     },
     {
       "id": "190",
@@ -416,7 +521,7 @@
         }
       ],
       "publishedAt": "2025-11-06T14:00:00.000Z",
-      "ranking": 5.540511196971135,
+      "ranking": 5.093513531559384,
       "articleUrl": "https://venturebeat.com/ai/google-debuts-ai-chips-with-4x-performance-boost-secures-anthropic-megadeal"
     },
     {
@@ -452,7 +557,7 @@
         }
       ],
       "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 5.405679270129648,
+      "ranking": 4.846987582194643,
       "articleUrl": "https://venturebeat.com/ai/why-googles-file-search-could-displace-diy-rag-stacks-in-the-enterprise"
     },
     {
@@ -484,7 +589,7 @@
         }
       ],
       "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 5.236095932463522,
+      "ranking": 4.677404244329529,
       "articleUrl": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise"
     },
     {
@@ -521,7 +626,7 @@
         }
       ],
       "publishedAt": "2025-11-06T06:03:50.000Z",
-      "ranking": 4.964406181111778,
+      "ranking": 4.406606493362174,
       "articleUrl": "https://www.theverge.com/news/815286/tinder-ai-chemistry-camera-roll-feature-test"
     },
     {
@@ -555,7 +660,7 @@
         }
       ],
       "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 4.675679253920177,
+      "ranking": 4.116987566065891,
       "articleUrl": "https://venturebeat.com/ai/the-compute-rethink-scaling-ai-where-data-lives-at-the-edge"
     },
     {
@@ -592,7 +697,7 @@
         }
       ],
       "publishedAt": "2025-11-06T09:15:35.000Z",
-      "ranking": 4.204061472444126,
+      "ranking": 3.690881220698978,
       "articleUrl": "https://www.theverge.com/news/815328/beebot-app-foursquare-founder-ai-audio-updates"
     },
     {
@@ -627,7 +732,7 @@
         }
       ],
       "publishedAt": "2025-11-05T18:44:00.000Z",
-      "ranking": 3.8042309797741307,
+      "ranking": 3.0882368789990196,
       "articleUrl": "https://venturebeat.com/ai/the-agent-builder-arms-race-continues-as-google-cloud-pushes-deeper-into"
     },
     {
@@ -661,7 +766,7 @@
         }
       ],
       "publishedAt": "2025-11-05T18:09:51.000Z",
-      "ranking": 3.7372459205888573,
+      "ranking": 3.013305255296835,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized"
     },
     {
@@ -695,7 +800,7 @@
         }
       ],
       "publishedAt": "2025-11-05T16:32:08.000Z",
-      "ranking": 3.5315632772036167,
+      "ranking": 2.7848843461266837,
       "articleUrl": "https://www.marktechpost.com/2025/11/05/google-ai-introduces-consistency-training-for-safer-language-models-under-sycophantic-and-jailbreak-style-prompts/"
     },
     {
@@ -729,7 +834,7 @@
         }
       ],
       "publishedAt": "2025-11-05T18:37:16.000Z",
-      "ranking": 3.1659621073441278,
+      "ranking": 2.448401187026179,
       "articleUrl": "https://www.marktechpost.com/2025/11/05/openai-introduces-indqa-a-culture-aware-benchmark-for-indian-languages/"
     },
     {
@@ -765,7 +870,7 @@
         }
       ],
       "publishedAt": "2025-11-05T16:12:33.000Z",
-      "ranking": 2.6589445358591393,
+      "ranking": 1.9077093738931072,
       "articleUrl": "https://www.theverge.com/news/814654/apple-intelligence-google-gemini-ai-siri"
     },
     {
@@ -800,7 +905,7 @@
         }
       ],
       "publishedAt": "2025-11-05T12:55:55.000Z",
-      "ranking": 2.2842299277425067,
+      "ranking": 1.4872390569822818,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814329/sandbar-stream-ring-ai-wearable"
     },
     {
@@ -835,7 +940,7 @@
         }
       ],
       "publishedAt": "2025-11-05T10:43:02.000Z",
-      "ranking": 2.164699138688343,
+      "ranking": 1.3367868987224423,
       "articleUrl": "https://www.theverge.com/news/814168/xai-grok-ani-employee-biometric-data"
     },
     {
@@ -870,7 +975,7 @@
         }
       ],
       "publishedAt": "2025-11-05T12:10:00.000Z",
-      "ranking": 2.066871217410595,
+      "ranking": 1.2591957291366427,
       "articleUrl": "https://www.theverge.com/tech/813944/browser-wars-chatgpt-gemini-chrome"
     },
     {
@@ -907,7 +1012,7 @@
         }
       ],
       "publishedAt": "2025-11-05T10:00:00.000Z",
-      "ranking": 1.781715123257122,
+      "ranking": 0.9437891978809816,
       "articleUrl": "https://www.theverge.com/news/813588/google-maps-gemini-ai-chatbot-navigation-directions"
     },
     {
@@ -943,7 +1048,7 @@
         }
       ],
       "publishedAt": "2025-11-05T06:00:00.000Z",
-      "ranking": 1.2802301019995115,
+      "ranking": 0.3864572206926571,
       "articleUrl": "https://venturebeat.com/ai/from-logs-to-insights-the-ai-breakthrough-redefining-observability"
     },
     {
@@ -980,45 +1085,8 @@
         }
       ],
       "publishedAt": "2025-11-05T08:22:25.000Z",
-      "ranking": 1.1564788793924539,
+      "ranking": 0.295845735330416,
       "articleUrl": "https://www.theverge.com/news/814042/getty-lawsuit-stability-ai-copyright-ruling-uk"
-    },
-    {
-      "id": "175",
-      "topic": "Dev Tools",
-      "source": "Marktechpost AI",
-      "shortTitle": "Meta Hydra ML",
-      "mediumTitle": "Meta Hydra for ML Pipelines",
-      "longTitle": "Meta Research Hydra for Scalable ML Experiment Pipelines",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta Research\u0027s Hydra is an open-source",
-            "configuration management framework",
-            "designed to build scalable and",
-            "reproducible machine learning experiment",
-            "pipelines.",
-            "The core benefit highlighted is the",
-            "enhancement of scalability and",
-            "reproducibility, critical challenges in",
-            "modern ML development.",
-            "By leveraging Hydra, researchers and",
-            "engineers can streamline their workflow",
-            "and ensure consistency across",
-            "experiments.",
-            "Hydra helps in more effectively managing",
-            "the numerous parameters involved in",
-            "training and evaluating ML models.",
-            "Python dataclasses are introduced as a",
-            "method for defining these",
-            "configurations, ensuring experiments are",
-            "reproducible and understandable."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T01:00:56.000Z",
-      "ranking": 0.07260003314105035,
-      "articleUrl": "https://www.marktechpost.com/2025/11/04/how-can-we-build-scalable-and-reproducible-machine-learning-experiment-pipelines-using-meta-research-hydra/"
     },
     {
       "id": "185",
@@ -1056,6 +1124,43 @@
       "publishedAt": "2025-11-05T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/ais-capacity-crunch-latency-risk-escalating-costs-and-the-coming-surge"
+    },
+    {
+      "id": "175",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "Meta Hydra ML",
+      "mediumTitle": "Meta Hydra for ML Pipelines",
+      "longTitle": "Meta Research Hydra for Scalable ML Experiment Pipelines",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta Research\u0027s Hydra is an open-source",
+            "configuration management framework",
+            "designed to build scalable and",
+            "reproducible machine learning experiment",
+            "pipelines.",
+            "The core benefit highlighted is the",
+            "enhancement of scalability and",
+            "reproducibility, critical challenges in",
+            "modern ML development.",
+            "By leveraging Hydra, researchers and",
+            "engineers can streamline their workflow",
+            "and ensure consistency across",
+            "experiments.",
+            "Hydra helps in more effectively managing",
+            "the numerous parameters involved in",
+            "training and evaluating ML models.",
+            "Python dataclasses are introduced as a",
+            "method for defining these",
+            "configurations, ensuring experiments are",
+            "reproducible and understandable."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T01:00:56.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.marktechpost.com/2025/11/04/how-can-we-build-scalable-and-reproducible-machine-learning-experiment-pipelines-using-meta-research-hydra/"
     },
     {
       "id": "169",
@@ -1510,40 +1615,6 @@
       "publishedAt": "2025-11-04T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/forget-fine-tuning-saps-rpt-1-brings-ready-to-use-ai-for-business-tasks"
-    },
-    {
-      "id": "166",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Zendesk AI Boost",
-      "mediumTitle": "Zendesk\u0027s AI Transformation",
-      "longTitle": "Zendesk Enhances Customer Support with GPT-5 and HyperArc",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Zendesk is significantly transforming",
-            "its customer support by integrating",
-            "GPT-5 and acquiring HyperArc to enhance",
-            "AI capabilities.",
-            "The integration of GPT-5 marks a",
-            "significant leap from basic chatbots to",
-            "agents capable of taking action, like",
-            "processing returns and issuing refunds.",
-            "GPT-5\u0027s enhanced reasoning and",
-            "action-taking capabilities, coupled with",
-            "improved intent understanding and over",
-            "95% reliability, lead to a better",
-            "customer experience.",
-            "Specifically, GPT-5 reduces workflow",
-            "failures by 30% and fallback escalations",
-            "by over 20%, resulting in faster",
-            "resolutions and fewer hand-offs."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T05:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/inside-zendesks-dual-ai-leap-from-reliable-agents-to-real-time-intelligence"
     }
   ]
 }
