@@ -107,42 +107,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/06/moonshot-ai-releases-kimi-k2-thinking-an-impressive-thinking-model-that-can-execute-up-to-200-300-sequential-tool-calls-without-human-interference/"
     },
     {
-      "id": "201",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Google File Search",
-      "mediumTitle": "Google\u0027s File Search Tool for RAG",
-      "longTitle": "Google\u0027s File Search Tool Simplifies Enterprise Data Grounding for AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has released the File Search Tool",
-            "on the Gemini API, a fully managed",
-            "Retrieval Augmented Generation (RAG)",
-            "system designed to simplify the process",
-            "of grounding AI applications with",
-            "enterprise data.",
-            "A key feature is its built-in citations,",
-            "which link generated answers to the",
-            "specific parts of the source documents",
-            "used, enhancing accuracy and",
-            "verifiability.",
-            "The tool utilizes vector search to",
-            "understand the meaning and context of",
-            "user queries, enabling it to find",
-            "relevant information from documents even",
-            "if the prompt uses inexact wording.",
-            "File Search handles complexities like",
-            "file storage, chunking strategies, and",
-            "embedding generation internally."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 7.913333333333336,
-      "articleUrl": "https://venturebeat.com/ai/why-googles-file-search-could-displace-diy-rag-stacks-in-the-enterprise"
-    },
-    {
       "id": "195",
       "topic": "Finance",
       "source": "The Verge AI",
@@ -174,38 +138,6 @@
       "publishedAt": "2025-11-06T13:00:00.000Z",
       "ranking": 7.86,
       "articleUrl": "https://www.theverge.com/news/815300/google-finance-gets-ai-deep-search"
-    },
-    {
-      "id": "194",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Code Gen",
-      "mediumTitle": "AI Code Generation for Enterprise",
-      "longTitle": "Enterprise Adoption of AI-Powered Code Generation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "However, its application in enterprise",
-            "production environments faces skepticism",
-            "due to potential risks like security",
-            "vulnerabilities, the introduction of",
-            "technical debt through poorly structured",
-            "code, and the illusion of progress where",
-            "the final 20% of complex tasks becomes",
-            "exponentially harder.",
-            "The article emphasizes that core",
-            "infrastructure should never be managed",
-            "solely by AI without human oversight.",
-            "Vibe coding, the use of generative AI to",
-            "create code from plain-language prompts,",
-            "offers significant speed advantages for",
-            "rapid prototyping and experimentation."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 7.74375,
-      "articleUrl": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise"
     },
     {
       "id": "199",
@@ -311,77 +243,6 @@
       "articleUrl": "https://www.theverge.com/news/815619/microsoft-ai-humanist-superintelligence"
     },
     {
-      "id": "188",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Tinder AI",
-      "mediumTitle": "Tinder\u0027s New AI Feature: Chemistry",
-      "longTitle": "Tinder Pilots AI Feature \u0027Chemistry\u0027 to Enhance Match Quality",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Tinder is piloting a new AI-driven",
-            "feature called \u0022Chemistry\u0022 aimed at",
-            "improving match quality and reducing",
-            "user fatigue.",
-            "This innovative tool analyzes a user\u0027s",
-            "camera roll, with their explicit",
-            "permission, to glean insights into their",
-            "interests and personality.",
-            "This data is then used to refine the",
-            "matching algorithm, prioritizing",
-            "individuals who are more likely to share",
-            "common ground and have a genuine",
-            "connection.",
-            "The objective is to move beyond",
-            "superficial swiping and present users",
-            "with fewer, but significantly more",
-            "compatible, potential matches.",
-            "The feature is designed to be opt-in,",
-            "ensuring user privacy and control over",
-            "their data."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T06:03:50.000Z",
-      "ranking": 7.463636363636362,
-      "articleUrl": "https://www.theverge.com/news/815286/tinder-ai-chemistry-camera-roll-feature-test"
-    },
-    {
-      "id": "191",
-      "topic": "Hardware",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Moves to Edge",
-      "mediumTitle": "AI Processing Shifts to the Edge",
-      "longTitle": "The Compute Rethink: Scaling AI at the Edge",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article \u0027The compute rethink:",
-            "Scaling AI where data lives, at the",
-            "edge\u0027 discusses the significant shift of",
-            "Artificial Intelligence (AI) processing",
-            "from centralized cloud data centers to",
-            "the \u0027edge,\u0027 meaning directly on devices,",
-            "sensors, and networks where data is",
-            "generated.",
-            "This transition is driven by several key",
-            "factors: the need for reduced latency,",
-            "enhanced data privacy, and cost",
-            "optimization as companies increasingly",
-            "invest in AI.",
-            "By processing data locally, dependency",
-            "on the cloud is reduced, leading to",
-            "faster and safer real-time",
-            "decision-making."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 7.183333333333335,
-      "articleUrl": "https://venturebeat.com/ai/the-compute-rethink-scaling-ai-where-data-lives-at-the-edge"
-    },
-    {
       "id": "200",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -452,6 +313,42 @@
       "articleUrl": "https://venturebeat.com/ai/google-debuts-ai-chips-with-4x-performance-boost-secures-anthropic-megadeal"
     },
     {
+      "id": "201",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Google File Search",
+      "mediumTitle": "Google\u0027s File Search Tool for RAG",
+      "longTitle": "Google\u0027s File Search Tool Simplifies Enterprise Data Grounding for AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has released the File Search Tool",
+            "on the Gemini API, a fully managed",
+            "Retrieval Augmented Generation (RAG)",
+            "system designed to simplify the process",
+            "of grounding AI applications with",
+            "enterprise data.",
+            "A key feature is its built-in citations,",
+            "which link generated answers to the",
+            "specific parts of the source documents",
+            "used, enhancing accuracy and",
+            "verifiability.",
+            "The tool utilizes vector search to",
+            "understand the meaning and context of",
+            "user queries, enabling it to find",
+            "relevant information from documents even",
+            "if the prompt uses inexact wording.",
+            "File Search handles complexities like",
+            "file storage, chunking strategies, and",
+            "embedding generation internally."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T06:00:00.000Z",
+      "ranking": 6.7392727923974745,
+      "articleUrl": "https://venturebeat.com/ai/why-googles-file-search-could-displace-diy-rag-stacks-in-the-enterprise"
+    },
+    {
       "id": "193",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -487,6 +384,38 @@
       "publishedAt": "2025-11-06T19:27:00.000Z",
       "ranking": 6.656666666666666,
       "articleUrl": "https://venturebeat.com/ai/moonshots-kimi-k2-thinking-emerges-as-leading-open-source-ai-outperforming"
+    },
+    {
+      "id": "194",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Code Gen",
+      "mediumTitle": "AI Code Generation for Enterprise",
+      "longTitle": "Enterprise Adoption of AI-Powered Code Generation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "However, its application in enterprise",
+            "production environments faces skepticism",
+            "due to potential risks like security",
+            "vulnerabilities, the introduction of",
+            "technical debt through poorly structured",
+            "code, and the illusion of progress where",
+            "the final 20% of complex tasks becomes",
+            "exponentially harder.",
+            "The article emphasizes that core",
+            "infrastructure should never be managed",
+            "solely by AI without human oversight.",
+            "Vibe coding, the use of generative AI to",
+            "create code from plain-language prompts,",
+            "offers significant speed advantages for",
+            "rapid prototyping and experimentation."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T06:00:00.000Z",
+      "ranking": 6.569689452003567,
+      "articleUrl": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise"
     },
     {
       "id": "192",
@@ -526,6 +455,77 @@
       "articleUrl": "https://www.theverge.com/news/815328/beebot-app-foursquare-founder-ai-audio-updates"
     },
     {
+      "id": "188",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Tinder AI",
+      "mediumTitle": "Tinder\u0027s New AI Feature: Chemistry",
+      "longTitle": "Tinder Pilots AI Feature \u0027Chemistry\u0027 to Enhance Match Quality",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Tinder is piloting a new AI-driven",
+            "feature called \u0022Chemistry\u0022 aimed at",
+            "improving match quality and reducing",
+            "user fatigue.",
+            "This innovative tool analyzes a user\u0027s",
+            "camera roll, with their explicit",
+            "permission, to glean insights into their",
+            "interests and personality.",
+            "This data is then used to refine the",
+            "matching algorithm, prioritizing",
+            "individuals who are more likely to share",
+            "common ground and have a genuine",
+            "connection.",
+            "The objective is to move beyond",
+            "superficial swiping and present users",
+            "with fewer, but significantly more",
+            "compatible, potential matches.",
+            "The feature is designed to be opt-in,",
+            "ensuring user privacy and control over",
+            "their data."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T06:03:50.000Z",
+      "ranking": 6.295337572698365,
+      "articleUrl": "https://www.theverge.com/news/815286/tinder-ai-chemistry-camera-roll-feature-test"
+    },
+    {
+      "id": "191",
+      "topic": "Hardware",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Moves to Edge",
+      "mediumTitle": "AI Processing Shifts to the Edge",
+      "longTitle": "The Compute Rethink: Scaling AI at the Edge",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article \u0027The compute rethink:",
+            "Scaling AI where data lives, at the",
+            "edge\u0027 discusses the significant shift of",
+            "Artificial Intelligence (AI) processing",
+            "from centralized cloud data centers to",
+            "the \u0027edge,\u0027 meaning directly on devices,",
+            "sensors, and networks where data is",
+            "generated.",
+            "This transition is driven by several key",
+            "factors: the need for reduced latency,",
+            "enhanced data privacy, and cost",
+            "optimization as companies increasingly",
+            "invest in AI.",
+            "By processing data locally, dependency",
+            "on the cloud is reduced, leading to",
+            "faster and safer real-time",
+            "decision-making."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T06:00:00.000Z",
+      "ranking": 6.009272773591019,
+      "articleUrl": "https://venturebeat.com/ai/the-compute-rethink-scaling-ai-where-data-lives-at-the-edge"
+    },
+    {
       "id": "179",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -557,7 +557,7 @@
         }
       ],
       "publishedAt": "2025-11-05T18:44:00.000Z",
-      "ranking": 6.094722619528069,
+      "ranking": 5.60728459614124,
       "articleUrl": "https://venturebeat.com/ai/the-agent-builder-arms-race-continues-as-google-cloud-pushes-deeper-into"
     },
     {
@@ -591,7 +591,7 @@
         }
       ],
       "publishedAt": "2025-11-05T18:09:51.000Z",
-      "ranking": 6.059316895031457,
+      "ranking": 5.56401560695575,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized"
     },
     {
@@ -625,7 +625,7 @@
         }
       ],
       "publishedAt": "2025-11-05T16:32:08.000Z",
-      "ranking": 5.943995222857801,
+      "ranking": 5.426194023535665,
       "articleUrl": "https://www.marktechpost.com/2025/11/05/google-ai-introduces-consistency-training-for-safer-language-models-under-sycophantic-and-jailbreak-style-prompts/"
     },
     {
@@ -659,7 +659,7 @@
         }
       ],
       "publishedAt": "2025-11-05T18:37:16.000Z",
-      "ranking": 5.462680230531413,
+      "ranking": 4.973691810047341,
       "articleUrl": "https://www.marktechpost.com/2025/11/05/openai-introduces-indqa-a-culture-aware-benchmark-for-indian-languages/"
     },
     {
@@ -695,43 +695,8 @@
         }
       ],
       "publishedAt": "2025-11-05T16:12:33.000Z",
-      "ranking": 5.089485892008144,
+      "ranking": 4.567175445153695,
       "articleUrl": "https://www.theverge.com/news/814654/apple-intelligence-google-gemini-ai-siri"
-    },
-    {
-      "id": "176",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "xAI Biometric Data",
-      "mediumTitle": "xAI Collects Employee Biometrics for Chatbot",
-      "longTitle": "xAI Reportedly Used Employee Biometric Data for NSFW Chatbot Training",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The Wall Street Journal reported that",
-            "Elon Musk\u0027s artificial intelligence",
-            "company, xAI, required employees to",
-            "submit their biometric data.",
-            "This data was reportedly used for the",
-            "purpose of training its \u0027Ani\u0027 female",
-            "chatbot.",
-            "The core of the report centers on the",
-            "alleged use of personal employee data,",
-            "specifically biometric information, to",
-            "develop and refine a commercial AI",
-            "product.",
-            "\u0027Ani\u0027 is described as an anime avatar",
-            "with blond pigtails and an NSFW (Not",
-            "Safe For Work) setting.",
-            "The article implies that this practice",
-            "of using employee biometric data for AI",
-            "training has raised concerns."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T10:43:02.000Z",
-      "ranking": 4.899952553706571,
-      "articleUrl": "https://www.theverge.com/news/814168/xai-grok-ani-employee-biometric-data"
     },
     {
       "id": "181",
@@ -765,8 +730,43 @@
         }
       ],
       "publishedAt": "2025-11-05T12:55:55.000Z",
-      "ranking": 4.896602888747312,
+      "ranking": 4.3290163159156805,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814329/sandbar-stream-ring-ai-wearable"
+    },
+    {
+      "id": "176",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "xAI Biometric Data",
+      "mediumTitle": "xAI Collects Employee Biometrics for Chatbot",
+      "longTitle": "xAI Reportedly Used Employee Biometric Data for NSFW Chatbot Training",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The Wall Street Journal reported that",
+            "Elon Musk\u0027s artificial intelligence",
+            "company, xAI, required employees to",
+            "submit their biometric data.",
+            "This data was reportedly used for the",
+            "purpose of training its \u0027Ani\u0027 female",
+            "chatbot.",
+            "The core of the report centers on the",
+            "alleged use of personal employee data,",
+            "specifically biometric information, to",
+            "develop and refine a commercial AI",
+            "product.",
+            "\u0027Ani\u0027 is described as an anime avatar",
+            "with blond pigtails and an NSFW (Not",
+            "Safe For Work) setting.",
+            "The article implies that this practice",
+            "of using employee biometric data for AI",
+            "training has raised concerns."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T10:43:02.000Z",
+      "ranking": 4.301768697604342,
+      "articleUrl": "https://www.theverge.com/news/814168/xai-grok-ani-employee-biometric-data"
     },
     {
       "id": "182",
@@ -800,7 +800,7 @@
         }
       ],
       "publishedAt": "2025-11-05T12:10:00.000Z",
-      "ranking": 4.72170444617695,
+      "ranking": 4.14354524614078,
       "articleUrl": "https://www.theverge.com/tech/813944/browser-wars-chatgpt-gemini-chrome"
     },
     {
@@ -837,7 +837,7 @@
         }
       ],
       "publishedAt": "2025-11-05T10:00:00.000Z",
-      "ranking": 4.55676250429503,
+      "ranking": 3.948669940487665,
       "articleUrl": "https://www.theverge.com/news/813588/google-maps-gemini-ai-chatbot-navigation-directions"
     },
     {
@@ -873,7 +873,7 @@
         }
       ],
       "publishedAt": "2025-11-05T06:00:00.000Z",
-      "ranking": 4.277211300704957,
+      "ranking": 3.6138571420837353,
       "articleUrl": "https://venturebeat.com/ai/from-logs-to-insights-the-ai-breakthrough-redefining-observability"
     },
     {
@@ -910,7 +910,7 @@
         }
       ],
       "publishedAt": "2025-11-05T08:22:25.000Z",
-      "ranking": 4.0217639378956385,
+      "ranking": 3.391202162255695,
       "articleUrl": "https://www.theverge.com/news/814042/getty-lawsuit-stability-ai-copyright-ruling-uk"
     },
     {
@@ -947,7 +947,7 @@
         }
       ],
       "publishedAt": "2025-11-05T01:00:56.000Z",
-      "ranking": 3.346135428276458,
+      "ranking": 2.6139191815479483,
       "articleUrl": "https://www.marktechpost.com/2025/11/04/how-can-we-build-scalable-and-reproducible-machine-learning-experiment-pipelines-using-meta-research-hydra/"
     },
     {
@@ -984,7 +984,7 @@
         }
       ],
       "publishedAt": "2025-11-05T06:00:00.000Z",
-      "ranking": 2.8472112791701516,
+      "ranking": 2.1838571189188096,
       "articleUrl": "https://venturebeat.com/ai/ais-capacity-crunch-latency-risk-escalating-costs-and-the-coming-surge"
     },
     {
@@ -1020,7 +1020,7 @@
         }
       ],
       "publishedAt": "2025-11-04T21:00:00.000Z",
-      "ranking": 2.718269144539499,
+      "ranking": 1.9305763981861093,
       "articleUrl": "https://venturebeat.com/ai/databricks-research-reveals-that-building-better-ai-judges-isnt-just-a"
     },
     {
@@ -1054,7 +1054,7 @@
         }
       ],
       "publishedAt": "2025-11-04T20:37:00.000Z",
-      "ranking": 2.0897732022037534,
+      "ranking": 1.2967845512078355,
       "articleUrl": "https://venturebeat.com/ai/attention-isnt-all-you-need-new-qwen3-variant-brumby-14b-base-leverages"
     },
     {
@@ -1086,7 +1086,7 @@
         }
       ],
       "publishedAt": "2025-11-04T12:57:50.000Z",
-      "ranking": 1.767177626621847,
+      "ranking": 0.8684628001396026,
       "articleUrl": "https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance"
     },
     {
@@ -1122,7 +1122,7 @@
         }
       ],
       "publishedAt": "2025-11-04T19:51:44.000Z",
-      "ranking": 1.4426820269521876,
+      "ranking": 0.6392704220925864,
       "articleUrl": "https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites"
     },
     {
@@ -1158,8 +1158,77 @@
         }
       ],
       "publishedAt": "2025-11-04T17:01:37.000Z",
-      "ranking": 1.406760332363433,
+      "ranking": 0.5641782343954871,
       "articleUrl": "https://www.theverge.com/tech/813523/gemini-for-home-google-nest-camera-hands-on"
+    },
+    {
+      "id": "171",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "MS AI Image Tool",
+      "mediumTitle": "Microsoft Releases MAI-Image-1",
+      "longTitle": "Microsoft Launches MAI-Image-1 AI Image Generator",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft has released its first",
+            "internally developed AI image generator,",
+            "MAI-Image-1, which is now accessible",
+            "through two of their products: Bing",
+            "Image Creator and Copilot Audio",
+            "Expressions.",
+            "The core functionality of MAI-Image-1 is",
+            "its ability to generate images based on",
+            "textual descriptions.",
+            "The announcement of MAI-Image-1",
+            "signifies Microsoft\u0027s commitment to",
+            "developing its own proprietary AI",
+            "models.",
+            "Mustafa Suleyman, the head of Microsoft",
+            "AI, stated that MAI-Image-1 would soon",
+            "be rolled out to users in the European",
+            "Union."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T17:48:09.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/813789/microsoft-in-house-ai-image-generator-mai-image-1"
+    },
+    {
+      "id": "172",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Amazon vs Perplexity",
+      "mediumTitle": "Amazon Demands Perplexity AI Stop Direct Purchases",
+      "longTitle": "Amazon Requests Perplexity\u0027s Comet AI Cease Direct Product Purchases",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon has requested that Perplexity,",
+            "the company behind the AI-powered",
+            "browser Comet, cease its ability to",
+            "purchase products for users directly",
+            "from Amazon.",
+            "Perplexity has characterized Amazon\u0027s",
+            "requests as \u0027bullying.\u0027",
+            "Their accusation of \u0027bullying\u0027 suggests",
+            "they believe Amazon is attempting to",
+            "stifle innovation and competition by",
+            "leveraging its dominant market position",
+            "to dictate how other companies can",
+            "interact with its platform.",
+            "The core of the dispute lies in Comet\u0027s",
+            "functionality, which allows users to",
+            "find products on Amazon and then have",
+            "the AI browser complete the purchase on",
+            "their behalf."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T17:36:41.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/813755/amazon-perplexity-ai-shopping-agent-block"
     },
     {
       "id": "167",
@@ -1195,145 +1264,8 @@
         }
       ],
       "publishedAt": "2025-11-04T14:51:31.000Z",
-      "ranking": 0.8627298560534502,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/813533/openai-sora-android-launch"
-    },
-    {
-      "id": "171",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "MS AI Image Tool",
-      "mediumTitle": "Microsoft Releases MAI-Image-1",
-      "longTitle": "Microsoft Launches MAI-Image-1 AI Image Generator",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft has released its first",
-            "internally developed AI image generator,",
-            "MAI-Image-1, which is now accessible",
-            "through two of their products: Bing",
-            "Image Creator and Copilot Audio",
-            "Expressions.",
-            "The core functionality of MAI-Image-1 is",
-            "its ability to generate images based on",
-            "textual descriptions.",
-            "The announcement of MAI-Image-1",
-            "signifies Microsoft\u0027s commitment to",
-            "developing its own proprietary AI",
-            "models.",
-            "Mustafa Suleyman, the head of Microsoft",
-            "AI, stated that MAI-Image-1 would soon",
-            "be rolled out to users in the European",
-            "Union."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T17:48:09.000Z",
-      "ranking": 0.7074522433955321,
-      "articleUrl": "https://www.theverge.com/news/813789/microsoft-in-house-ai-image-generator-mai-image-1"
-    },
-    {
-      "id": "172",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Amazon vs Perplexity",
-      "mediumTitle": "Amazon Demands Perplexity AI Stop Direct Purchases",
-      "longTitle": "Amazon Requests Perplexity\u0027s Comet AI Cease Direct Product Purchases",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Amazon has requested that Perplexity,",
-            "the company behind the AI-powered",
-            "browser Comet, cease its ability to",
-            "purchase products for users directly",
-            "from Amazon.",
-            "Perplexity has characterized Amazon\u0027s",
-            "requests as \u0027bullying.\u0027",
-            "Their accusation of \u0027bullying\u0027 suggests",
-            "they believe Amazon is attempting to",
-            "stifle innovation and competition by",
-            "leveraging its dominant market position",
-            "to dictate how other companies can",
-            "interact with its platform.",
-            "The core of the dispute lies in Comet\u0027s",
-            "functionality, which allows users to",
-            "find products on Amazon and then have",
-            "the AI browser complete the purchase on",
-            "their behalf."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T17:36:41.000Z",
-      "ranking": 0.6321456215775614,
-      "articleUrl": "https://www.theverge.com/news/813755/amazon-perplexity-ai-shopping-agent-block"
-    },
-    {
-      "id": "163",
-      "topic": "Education",
-      "source": "The Verge AI",
-      "shortTitle": "AI Targets Students",
-      "mediumTitle": "AI Companies Court Students for Future Growth",
-      "longTitle": "AI Companies Strategically Target Students for Future Market Dominance",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Tech companies are actively targeting",
-            "students with their AI agents,",
-            "recognizing them as crucial for future",
-            "business growth.",
-            "Companies are likely choosing not to",
-            "actively discourage AI use for cheating",
-            "because the benefits of hooking students",
-            "outweigh the perceived risks of academic",
-            "misconduct.",
-            "This proactive approach suggests that AI",
-            "companies are not only aware of but also",
-            "implicitly condone the use of their AI",
-            "tools by students, even when that use",
-            "might involve academic dishonesty.",
-            "The AI industry\u0027s business model is",
-            "intrinsically linked to the future",
-            "adoption and integration of AI by",
-            "younger generations."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T09:20:33.000Z",
-      "ranking": 0.6050191658039754,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students"
-    },
-    {
-      "id": "161",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "LLM C2C Comms",
-      "mediumTitle": "Cache-to-Cache LLM Collaboration",
-      "longTitle": "Cache-to-Cache: A Novel LLM Communication Paradigm",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Cache-to-Cache (C2C) is a novel",
-            "communication paradigm that enables",
-            "large language models (LLMs) to",
-            "collaborate without exchanging textual",
-            "tokens.",
-            "Developed by a research team from",
-            "Tsinghua University, Infinigence AI, The",
-            "Chinese University of Hong Kong,",
-            "Shanghai AI Laboratory, and Shanghai",
-            "Jiao Tong University, C2C facilitates",
-            "direct semantic communication by",
-            "leveraging the KV-Cache of LLMs.",
-            "C2C proposes an alternative approach",
-            "where LLMs can directly share and fuse",
-            "their internal representations stored in",
-            "the KV-Cache."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T09:32:23.000Z",
-      "ranking": 0.4145054409590285,
-      "articleUrl": "https://www.marktechpost.com/2025/11/04/cache-to-cachec2c-direct-semantic-communication-between-large-language-models-via-kv-cache-fusion/"
     },
     {
       "id": "162",
@@ -1371,6 +1303,74 @@
       "publishedAt": "2025-11-04T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/813102/amazon-music-alexa-plus-ai-integration"
+    },
+    {
+      "id": "161",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "LLM C2C Comms",
+      "mediumTitle": "Cache-to-Cache LLM Collaboration",
+      "longTitle": "Cache-to-Cache: A Novel LLM Communication Paradigm",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Cache-to-Cache (C2C) is a novel",
+            "communication paradigm that enables",
+            "large language models (LLMs) to",
+            "collaborate without exchanging textual",
+            "tokens.",
+            "Developed by a research team from",
+            "Tsinghua University, Infinigence AI, The",
+            "Chinese University of Hong Kong,",
+            "Shanghai AI Laboratory, and Shanghai",
+            "Jiao Tong University, C2C facilitates",
+            "direct semantic communication by",
+            "leveraging the KV-Cache of LLMs.",
+            "C2C proposes an alternative approach",
+            "where LLMs can directly share and fuse",
+            "their internal representations stored in",
+            "the KV-Cache."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T09:32:23.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.marktechpost.com/2025/11/04/cache-to-cachec2c-direct-semantic-communication-between-large-language-models-via-kv-cache-fusion/"
+    },
+    {
+      "id": "163",
+      "topic": "Education",
+      "source": "The Verge AI",
+      "shortTitle": "AI Targets Students",
+      "mediumTitle": "AI Companies Court Students for Future Growth",
+      "longTitle": "AI Companies Strategically Target Students for Future Market Dominance",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Tech companies are actively targeting",
+            "students with their AI agents,",
+            "recognizing them as crucial for future",
+            "business growth.",
+            "Companies are likely choosing not to",
+            "actively discourage AI use for cheating",
+            "because the benefits of hooking students",
+            "outweigh the perceived risks of academic",
+            "misconduct.",
+            "This proactive approach suggests that AI",
+            "companies are not only aware of but also",
+            "implicitly condone the use of their AI",
+            "tools by students, even when that use",
+            "might involve academic dishonesty.",
+            "The AI industry\u0027s business model is",
+            "intrinsically linked to the future",
+            "adoption and integration of AI by",
+            "younger generations."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T09:20:33.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students"
     },
     {
       "id": "164",
