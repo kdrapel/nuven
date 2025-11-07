@@ -38,6 +38,111 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814876/ilya-sutskever-deposition-openai-sam-altman-elon-musk-lawsuit"
     },
     {
+      "id": "203",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "DS STAR Automates",
+      "mediumTitle": "Google AI\u0027s DS STAR Automates Data Science",
+      "longTitle": "Google AI Introduces DS STAR for Automated Data Science Workflows",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google AI has introduced DS STAR (Data",
+            "Science Agent via Iterative Planning and",
+            "Verification), a novel multi-agent",
+            "framework designed to automate the",
+            "entire data science workflow.",
+            "This system aims to transform vague",
+            "business inquiries, posed over disparate",
+            "data sources like CSV, JSON, and text",
+            "files, into reliable Python code for",
+            "analysis, all without requiring human",
+            "intervention.",
+            "Crucially, DS STAR incorporates a",
+            "verification agent that reviews the",
+            "generated code and its output to ensure",
+            "accuracy and reliability.",
+            "DS STAR operates by breaking down the",
+            "complex data science process into a",
+            "series of interconnected agents, each",
+            "specializing in a particular task."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T23:03:23.000Z",
+      "ranking": 8.12142857142857,
+      "articleUrl": "https://www.marktechpost.com/2025/11/06/google-ai-introduces-ds-star-a-multi-agent-data-science-system-that-plans-codes-and-verifies-end-to-end-analytics/"
+    },
+    {
+      "id": "202",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Kimi K2 Thinking",
+      "mediumTitle": "Moonshot AI\u0027s Kimi K2 Thinking",
+      "longTitle": "Moonshot AI releases Kimi K2 Thinking for complex reasoning",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Moonshot AI has introduced Kimi K2",
+            "Thinking, an open-source thinking agent",
+            "model designed to address the challenge",
+            "of AI systems performing complex,",
+            "multi-step reasoning and actions without",
+            "continuous human intervention.",
+            "A key feature of Kimi K2 Thinking is its",
+            "ability to execute a significant number",
+            "of sequential tool calls, reportedly",
+            "between 200 and 300, autonomously.",
+            "This new model provides transparency",
+            "into the full reasoning process of the",
+            "Kimi K2 Mixture of Experts (MoE)",
+            "architecture, making it suitable for",
+            "tasks requiring in-depth analysis and",
+            "decision-making over extended sequences."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-07T03:19:24.000Z",
+      "ranking": 8.071428571428571,
+      "articleUrl": "https://www.marktechpost.com/2025/11/06/moonshot-ai-releases-kimi-k2-thinking-an-impressive-thinking-model-that-can-execute-up-to-200-300-sequential-tool-calls-without-human-interference/"
+    },
+    {
+      "id": "201",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Google File Search",
+      "mediumTitle": "Google\u0027s File Search Tool for RAG",
+      "longTitle": "Google\u0027s File Search Tool Simplifies Enterprise Data Grounding for AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has released the File Search Tool",
+            "on the Gemini API, a fully managed",
+            "Retrieval Augmented Generation (RAG)",
+            "system designed to simplify the process",
+            "of grounding AI applications with",
+            "enterprise data.",
+            "A key feature is its built-in citations,",
+            "which link generated answers to the",
+            "specific parts of the source documents",
+            "used, enhancing accuracy and",
+            "verifiability.",
+            "The tool utilizes vector search to",
+            "understand the meaning and context of",
+            "user queries, enabling it to find",
+            "relevant information from documents even",
+            "if the prompt uses inexact wording.",
+            "File Search handles complexities like",
+            "file storage, chunking strategies, and",
+            "embedding generation internally."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T06:00:00.000Z",
+      "ranking": 7.913333333333336,
+      "articleUrl": "https://venturebeat.com/ai/why-googles-file-search-could-displace-diy-rag-stacks-in-the-enterprise"
+    },
+    {
       "id": "195",
       "topic": "Finance",
       "source": "The Verge AI",
@@ -384,109 +489,6 @@
       "articleUrl": "https://venturebeat.com/ai/moonshots-kimi-k2-thinking-emerges-as-leading-open-source-ai-outperforming"
     },
     {
-      "id": "179",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Vertex AI Updates",
-      "mediumTitle": "Google Cloud Vertex AI Agent Builder",
-      "longTitle": "Google Cloud Enhances Vertex AI Agent Builder for Enterprise AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google Cloud has significantly updated",
-            "its Vertex AI Agent Builder, a platform",
-            "designed for enterprises to",
-            "conceptualize, design, build, test,",
-            "deploy, and modify AI agents for various",
-            "use cases.",
-            "Key new features include advanced",
-            "governance tools for enterprises,",
-            "expanded capabilities for low-code agent",
-            "creation, faster development cycles with",
-            "state-of-the-art context management,",
-            "one-click deployment, and managed",
-            "services for scaling production and",
-            "evaluation.",
-            "The governance layer further includes",
-            "unique, native identities for agents",
-            "within Google Cloud, providing granular",
-            "control and audit trails."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T18:44:00.000Z",
-      "ranking": 6.526570248111074,
-      "articleUrl": "https://venturebeat.com/ai/the-agent-builder-arms-race-continues-as-google-cloud-pushes-deeper-into"
-    },
-    {
-      "id": "186",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Gemini Accesses Data",
-      "mediumTitle": "Gemini Deep Research Integrates Personal Data",
-      "longTitle": "Google Gemini\u0027s Deep Research Now Analyzes User\u0027s Personal Data",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google\u0027s Gemini, a powerful AI agent",
-            "designed for creating research reports,",
-            "has introduced a significant new",
-            "capability: the ability to access and",
-            "analyze a user\u0027s personal data,",
-            "including emails, Google Drive",
-            "documents, and chats.",
-            "However, the ability of an AI to access",
-            "and process such sensitive personal data",
-            "also raises significant privacy and",
-            "security concerns.",
-            "While Google emphasizes that this is a",
-            "user-controlled feature, the mere",
-            "existence of such a capability",
-            "necessitates careful consideration of",
-            "data handling, consent, and potential",
-            "misuse."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T18:09:51.000Z",
-      "ranking": 6.499015727508139,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized"
-    },
-    {
-      "id": "184",
-      "topic": "Safety",
-      "source": "Marktechpost AI",
-      "shortTitle": "LLM Safety Boost",
-      "mediumTitle": "Google AI Enhances LLM Safety",
-      "longTitle": "Google AI\u0027s Consistency Training for LLM Safety",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google AI, through its DeepMind",
-            "researchers, has introduced a novel",
-            "technique called \u0022consistency training\u0022",
-            "designed to enhance the safety and",
-            "robustness of large language models",
-            "(LLMs) against specific types of",
-            "adversarial prompts.",
-            "Consistency training aims to address",
-            "this by ensuring that the model\u0027s",
-            "behavior remains consistent across",
-            "different prompt styles, particularly",
-            "when the underlying task is the same.",
-            "The goal is to train the model to",
-            "recognize that the underlying intent of",
-            "the request, regardless of the stylistic",
-            "wrapper, should lead to a consistent and",
-            "safe response."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T16:32:08.000Z",
-      "ranking": 6.406159456881539,
-      "articleUrl": "https://www.marktechpost.com/2025/11/05/google-ai-introduces-consistency-training-for-safer-language-models-under-sycophantic-and-jailbreak-style-prompts/"
-    },
-    {
       "id": "192",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -524,6 +526,109 @@
       "articleUrl": "https://www.theverge.com/news/815328/beebot-app-foursquare-founder-ai-audio-updates"
     },
     {
+      "id": "179",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Vertex AI Updates",
+      "mediumTitle": "Google Cloud Vertex AI Agent Builder",
+      "longTitle": "Google Cloud Enhances Vertex AI Agent Builder for Enterprise AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google Cloud has significantly updated",
+            "its Vertex AI Agent Builder, a platform",
+            "designed for enterprises to",
+            "conceptualize, design, build, test,",
+            "deploy, and modify AI agents for various",
+            "use cases.",
+            "Key new features include advanced",
+            "governance tools for enterprises,",
+            "expanded capabilities for low-code agent",
+            "creation, faster development cycles with",
+            "state-of-the-art context management,",
+            "one-click deployment, and managed",
+            "services for scaling production and",
+            "evaluation.",
+            "The governance layer further includes",
+            "unique, native identities for agents",
+            "within Google Cloud, providing granular",
+            "control and audit trails."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T18:44:00.000Z",
+      "ranking": 6.094722619528069,
+      "articleUrl": "https://venturebeat.com/ai/the-agent-builder-arms-race-continues-as-google-cloud-pushes-deeper-into"
+    },
+    {
+      "id": "186",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini Accesses Data",
+      "mediumTitle": "Gemini Deep Research Integrates Personal Data",
+      "longTitle": "Google Gemini\u0027s Deep Research Now Analyzes User\u0027s Personal Data",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google\u0027s Gemini, a powerful AI agent",
+            "designed for creating research reports,",
+            "has introduced a significant new",
+            "capability: the ability to access and",
+            "analyze a user\u0027s personal data,",
+            "including emails, Google Drive",
+            "documents, and chats.",
+            "However, the ability of an AI to access",
+            "and process such sensitive personal data",
+            "also raises significant privacy and",
+            "security concerns.",
+            "While Google emphasizes that this is a",
+            "user-controlled feature, the mere",
+            "existence of such a capability",
+            "necessitates careful consideration of",
+            "data handling, consent, and potential",
+            "misuse."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T18:09:51.000Z",
+      "ranking": 6.059316895031457,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized"
+    },
+    {
+      "id": "184",
+      "topic": "Safety",
+      "source": "Marktechpost AI",
+      "shortTitle": "LLM Safety Boost",
+      "mediumTitle": "Google AI Enhances LLM Safety",
+      "longTitle": "Google AI\u0027s Consistency Training for LLM Safety",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google AI, through its DeepMind",
+            "researchers, has introduced a novel",
+            "technique called \u0022consistency training\u0022",
+            "designed to enhance the safety and",
+            "robustness of large language models",
+            "(LLMs) against specific types of",
+            "adversarial prompts.",
+            "Consistency training aims to address",
+            "this by ensuring that the model\u0027s",
+            "behavior remains consistent across",
+            "different prompt styles, particularly",
+            "when the underlying task is the same.",
+            "The goal is to train the model to",
+            "recognize that the underlying intent of",
+            "the request, regardless of the stylistic",
+            "wrapper, should lead to a consistent and",
+            "safe response."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T16:32:08.000Z",
+      "ranking": 5.943995222857801,
+      "articleUrl": "https://www.marktechpost.com/2025/11/05/google-ai-introduces-consistency-training-for-safer-language-models-under-sycophantic-and-jailbreak-style-prompts/"
+    },
+    {
       "id": "183",
       "topic": "NLP",
       "source": "Marktechpost AI",
@@ -554,7 +659,7 @@
         }
       ],
       "publishedAt": "2025-11-05T18:37:16.000Z",
-      "ranking": 5.8960758705547605,
+      "ranking": 5.462680230531413,
       "articleUrl": "https://www.marktechpost.com/2025/11/05/openai-introduces-indqa-a-culture-aware-benchmark-for-indian-languages/"
     },
     {
@@ -590,7 +695,7 @@
         }
       ],
       "publishedAt": "2025-11-05T16:12:33.000Z",
-      "ranking": 5.556152454669411,
+      "ranking": 5.089485892008144,
       "articleUrl": "https://www.theverge.com/news/814654/apple-intelligence-google-gemini-ai-siri"
     },
     {
@@ -625,7 +730,7 @@
         }
       ],
       "publishedAt": "2025-11-05T10:43:02.000Z",
-      "ranking": 5.442376146002555,
+      "ranking": 4.899952553706571,
       "articleUrl": "https://www.theverge.com/news/814168/xai-grok-ani-employee-biometric-data"
     },
     {
@@ -660,7 +765,7 @@
         }
       ],
       "publishedAt": "2025-11-05T12:55:55.000Z",
-      "ranking": 5.408476139394177,
+      "ranking": 4.896602888747312,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814329/sandbar-stream-ring-ai-wearable"
     },
     {
@@ -695,7 +800,7 @@
         }
       ],
       "publishedAt": "2025-11-05T12:10:00.000Z",
-      "ranking": 5.244134098008975,
+      "ranking": 4.72170444617695,
       "articleUrl": "https://www.theverge.com/tech/813944/browser-wars-chatgpt-gemini-chrome"
     },
     {
@@ -732,7 +837,7 @@
         }
       ],
       "publishedAt": "2025-11-05T10:00:00.000Z",
-      "ranking": 5.109079608541402,
+      "ranking": 4.55676250429503,
       "articleUrl": "https://www.theverge.com/news/813588/google-maps-gemini-ai-chatbot-navigation-directions"
     },
     {
@@ -768,7 +873,7 @@
         }
       ],
       "publishedAt": "2025-11-05T06:00:00.000Z",
-      "ranking": 4.884705238676521,
+      "ranking": 4.277211300704957,
       "articleUrl": "https://venturebeat.com/ai/from-logs-to-insights-the-ai-breakthrough-redefining-observability"
     },
     {
@@ -805,7 +910,7 @@
         }
       ],
       "publishedAt": "2025-11-05T08:22:25.000Z",
-      "ranking": 4.596515789474556,
+      "ranking": 4.0217639378956385,
       "articleUrl": "https://www.theverge.com/news/814042/getty-lawsuit-stability-ai-copyright-ruling-uk"
     },
     {
@@ -842,7 +947,7 @@
         }
       ],
       "publishedAt": "2025-11-05T01:00:56.000Z",
-      "ranking": 4.022385832340376,
+      "ranking": 3.346135428276458,
       "articleUrl": "https://www.marktechpost.com/2025/11/04/how-can-we-build-scalable-and-reproducible-machine-learning-experiment-pipelines-using-meta-research-hydra/"
     },
     {
@@ -879,7 +984,7 @@
         }
       ],
       "publishedAt": "2025-11-05T06:00:00.000Z",
-      "ranking": 3.4547052188950262,
+      "ranking": 2.8472112791701516,
       "articleUrl": "https://venturebeat.com/ai/ais-capacity-crunch-latency-risk-escalating-costs-and-the-coming-surge"
     },
     {
@@ -915,7 +1020,7 @@
         }
       ],
       "publishedAt": "2025-11-04T21:00:00.000Z",
-      "ranking": 3.4499109609227103,
+      "ranking": 2.718269144539499,
       "articleUrl": "https://venturebeat.com/ai/databricks-research-reveals-that-building-better-ai-judges-isnt-just-a"
     },
     {
@@ -949,7 +1054,7 @@
         }
       ],
       "publishedAt": "2025-11-04T20:37:00.000Z",
-      "ranking": 2.8267027981080872,
+      "ranking": 2.0897732022037534,
       "articleUrl": "https://venturebeat.com/ai/attention-isnt-all-you-need-new-qwen3-variant-brumby-14b-base-leverages"
     },
     {
@@ -981,44 +1086,8 @@
         }
       ],
       "publishedAt": "2025-11-04T12:57:50.000Z",
-      "ranking": 2.6096712343668758,
+      "ranking": 1.767177626621847,
       "articleUrl": "https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance"
-    },
-    {
-      "id": "173",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Home Test",
-      "mediumTitle": "Gemini for Home AI Weekend Test",
-      "longTitle": "Author tests Google\u0027s Gemini for Home AI by observing family for a weekend.",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The author tested Google\u0027s Gemini for",
-            "Home AI by letting it observe their",
-            "family for a weekend to see if constant",
-            "surveillance would be helpful or",
-            "unsettling.",
-            "The author\u0027s intention was to determine",
-            "if the AI\u0027s constant surveillance",
-            "capabilities would be helpful or",
-            "unsettling.",
-            "The author\u0027s goal was to gather data on",
-            "whether this level of AI oversight",
-            "offers practical benefits or becomes",
-            "intrusive.",
-            "The core of the article appears to be",
-            "the author\u0027s personal reaction and",
-            "assessment of the AI\u0027s performance.",
-            "The Gemini for Home system was",
-            "configured to watch, interpret, and",
-            "narrate the family\u0027s activities."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T17:01:37.000Z",
-      "ranking": 2.1932073056879497,
-      "articleUrl": "https://www.theverge.com/tech/813523/gemini-for-home-google-nest-camera-hands-on"
     },
     {
       "id": "174",
@@ -1053,8 +1122,44 @@
         }
       ],
       "publishedAt": "2025-11-04T19:51:44.000Z",
-      "ranking": 2.190018569176315,
+      "ranking": 1.4426820269521876,
       "articleUrl": "https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites"
+    },
+    {
+      "id": "173",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Home Test",
+      "mediumTitle": "Gemini for Home AI Weekend Test",
+      "longTitle": "Author tests Google\u0027s Gemini for Home AI by observing family for a weekend.",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The author tested Google\u0027s Gemini for",
+            "Home AI by letting it observe their",
+            "family for a weekend to see if constant",
+            "surveillance would be helpful or",
+            "unsettling.",
+            "The author\u0027s intention was to determine",
+            "if the AI\u0027s constant surveillance",
+            "capabilities would be helpful or",
+            "unsettling.",
+            "The author\u0027s goal was to gather data on",
+            "whether this level of AI oversight",
+            "offers practical benefits or becomes",
+            "intrusive.",
+            "The core of the article appears to be",
+            "the author\u0027s personal reaction and",
+            "assessment of the AI\u0027s performance.",
+            "The Gemini for Home system was",
+            "configured to watch, interpret, and",
+            "narrate the family\u0027s activities."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T17:01:37.000Z",
+      "ranking": 1.406760332363433,
+      "articleUrl": "https://www.theverge.com/tech/813523/gemini-for-home-google-nest-camera-hands-on"
     },
     {
       "id": "167",
@@ -1090,43 +1195,8 @@
         }
       ],
       "publishedAt": "2025-11-04T14:51:31.000Z",
-      "ranking": 1.6790872600819977,
+      "ranking": 0.8627298560534502,
       "articleUrl": "https://www.theverge.com/news/813533/openai-sora-android-launch"
-    },
-    {
-      "id": "163",
-      "topic": "Education",
-      "source": "The Verge AI",
-      "shortTitle": "AI Targets Students",
-      "mediumTitle": "AI Companies Court Students for Future Growth",
-      "longTitle": "AI Companies Strategically Target Students for Future Market Dominance",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Tech companies are actively targeting",
-            "students with their AI agents,",
-            "recognizing them as crucial for future",
-            "business growth.",
-            "Companies are likely choosing not to",
-            "actively discourage AI use for cheating",
-            "because the benefits of hooking students",
-            "outweigh the perceived risks of academic",
-            "misconduct.",
-            "This proactive approach suggests that AI",
-            "companies are not only aware of but also",
-            "implicitly condone the use of their AI",
-            "tools by students, even when that use",
-            "might involve academic dishonesty.",
-            "The AI industry\u0027s business model is",
-            "intrinsically linked to the future",
-            "adoption and integration of AI by",
-            "younger generations."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T09:20:33.000Z",
-      "ranking": 1.497466970648139,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students"
     },
     {
       "id": "171",
@@ -1159,7 +1229,7 @@
         }
       ],
       "publishedAt": "2025-11-04T17:48:09.000Z",
-      "ranking": 1.483201023313928,
+      "ranking": 0.7074522433955321,
       "articleUrl": "https://www.theverge.com/news/813789/microsoft-in-house-ai-image-generator-mai-image-1"
     },
     {
@@ -1194,8 +1264,43 @@
         }
       ],
       "publishedAt": "2025-11-04T17:36:41.000Z",
-      "ranking": 1.410530627502136,
+      "ranking": 0.6321456215775614,
       "articleUrl": "https://www.theverge.com/news/813755/amazon-perplexity-ai-shopping-agent-block"
+    },
+    {
+      "id": "163",
+      "topic": "Education",
+      "source": "The Verge AI",
+      "shortTitle": "AI Targets Students",
+      "mediumTitle": "AI Companies Court Students for Future Growth",
+      "longTitle": "AI Companies Strategically Target Students for Future Market Dominance",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Tech companies are actively targeting",
+            "students with their AI agents,",
+            "recognizing them as crucial for future",
+            "business growth.",
+            "Companies are likely choosing not to",
+            "actively discourage AI use for cheating",
+            "because the benefits of hooking students",
+            "outweigh the perceived risks of academic",
+            "misconduct.",
+            "This proactive approach suggests that AI",
+            "companies are not only aware of but also",
+            "implicitly condone the use of their AI",
+            "tools by students, even when that use",
+            "might involve academic dishonesty.",
+            "The AI industry\u0027s business model is",
+            "intrinsically linked to the future",
+            "adoption and integration of AI by",
+            "younger generations."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T09:20:33.000Z",
+      "ranking": 0.6050191658039754,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students"
     },
     {
       "id": "161",
@@ -1227,43 +1332,8 @@
         }
       ],
       "publishedAt": "2025-11-04T09:32:23.000Z",
-      "ranking": 1.3042326920549252,
+      "ranking": 0.4145054409590285,
       "articleUrl": "https://www.marktechpost.com/2025/11/04/cache-to-cachec2c-direct-semantic-communication-between-large-language-models-via-kv-cache-fusion/"
-    },
-    {
-      "id": "164",
-      "topic": "Business",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI in Market Research",
-      "mediumTitle": "AI Adoption and Concerns in Market Research",
-      "longTitle": "AI Adoption in Market Research: Benefits, Challenges, and Future Outlook",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A recent survey of 219 U.S. market",
-            "research and insights professionals,",
-            "conducted by QuestDIY in August 2025,",
-            "reveals that artificial intelligence",
-            "(AI) has been rapidly adopted by the",
-            "industry, with 98% of professionals",
-            "using AI tools and 72% using them daily.",
-            "Nearly four in ten researchers (39%)",
-            "report an increased reliance on",
-            "technology that sometimes produces",
-            "errors, and 37% have experienced new",
-            "risks around data quality or accuracy.",
-            "The primary frustration with AI, as",
-            "noted in an open-ended question, is",
-            "accuracy, with researchers often",
-            "encountering \u0022hallucinations\u0022 \u2013",
-            "fabricated information presented as",
-            "fact."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T09:00:00.000Z",
-      "ranking": 0.7551851827560538,
-      "articleUrl": "https://venturebeat.com/ai/98-of-market-researchers-use-ai-daily-but-4-in-10-say-it-makes-errors"
     },
     {
       "id": "162",
@@ -1299,8 +1369,43 @@
         }
       ],
       "publishedAt": "2025-11-04T10:00:00.000Z",
-      "ranking": 0.523975446537027,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/813102/amazon-music-alexa-plus-ai-integration"
+    },
+    {
+      "id": "164",
+      "topic": "Business",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI in Market Research",
+      "mediumTitle": "AI Adoption and Concerns in Market Research",
+      "longTitle": "AI Adoption in Market Research: Benefits, Challenges, and Future Outlook",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A recent survey of 219 U.S. market",
+            "research and insights professionals,",
+            "conducted by QuestDIY in August 2025,",
+            "reveals that artificial intelligence",
+            "(AI) has been rapidly adopted by the",
+            "industry, with 98% of professionals",
+            "using AI tools and 72% using them daily.",
+            "Nearly four in ten researchers (39%)",
+            "report an increased reliance on",
+            "technology that sometimes produces",
+            "errors, and 37% have experienced new",
+            "risks around data quality or accuracy.",
+            "The primary frustration with AI, as",
+            "noted in an open-ended question, is",
+            "accuracy, with researchers often",
+            "encountering \u0022hallucinations\u0022 \u2013",
+            "fabricated information presented as",
+            "fact."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T09:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/98-of-market-researchers-use-ai-daily-but-4-in-10-say-it-makes-errors"
     },
     {
       "id": "165",
@@ -1544,106 +1649,6 @@
       "publishedAt": "2025-11-03T13:31:51.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/812559/coca-cola-ai-holiday-christmas-commercial-2025"
-    },
-    {
-      "id": "154",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "AI FOMO Spending",
-      "mediumTitle": "Big Tech\u0027s AI Investment Driven by FOMO",
-      "longTitle": "Big Tech Companies Invest Billions in AI Due to Fear of Missing Out",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Big Tech companies are investing heavily",
-            "in AI due to a fear of missing out,",
-            "rather than immediate guaranteed",
-            "returns.",
-            "Major players like Amazon, Google,",
-            "Microsoft, and Meta have reported",
-            "capital expenditures exceeding $350",
-            "billion this year for AI development.",
-            "The core of the article\u0027s argument is",
-            "that the current AI boom is",
-            "characterized by immense spending and",
-            "ambitious promises, but the tangible,",
-            "profitable applications are still",
-            "largely in their nascent stages."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-03T13:06:02.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812455/ai-industry-earnings-bubble-fomo-hype"
-    },
-    {
-      "id": "155",
-      "topic": "Hardware",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI \u0026 AWS Deal",
-      "mediumTitle": "OpenAI Secures $38B AWS Partnership",
-      "longTitle": "OpenAI Signs $38 Billion Seven-Year Deal with AWS for GPU Access",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This agreement will grant OpenAI access",
-            "to a substantial number of Nvidia",
-            "Graphics Processing Units (GPUs),",
-            "reportedly \u0022hundreds of thousands,\u0022",
-            "which are crucial for training its",
-            "advanced Artificial Intelligence (AI)",
-            "models.",
-            "OpenAI has secured a significant",
-            "seven-year partnership with Amazon Web",
-            "Services (AWS), valued at $38 billion.",
-            "This deal marks a notable shift in",
-            "OpenAI\u0027s cloud infrastructure strategy,",
-            "as it signals a loosening of Microsoft\u0027s",
-            "exclusive cloud provider status for the",
-            "AI company.",
-            "Previously, Microsoft held a dominant",
-            "position, but this new arrangement with",
-            "AWS diversifies OpenAI\u0027s cloud computing",
-            "resources."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-03T11:12:19.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/812443/openai-amazon-38-billion-cloud-computing-ai"
-    },
-    {
-      "id": "156",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Denario AI Research",
-      "mediumTitle": "Denario: AI Research Assistant",
-      "longTitle": "Denario: AI System Conducts Autonomous Scientific Research",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Denario is an AI system developed by an",
-            "international team that functions as an",
-            "AI research assistant, capable of",
-            "autonomously conducting scientific",
-            "research across multiple disciplines.",
-            "The system can generate research ideas,",
-            "review literature, develop",
-            "methodologies, write and execute code,",
-            "create visualizations, and draft",
-            "academic papers, completing the process",
-            "in about 30 minutes for approximately",
-            "$4.",
-            "Notably, one AI-generated paper was",
-            "accepted for publication at the",
-            "Agents4Science 2025 conference, where AI",
-            "systems are the primary authors."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-03T10:40:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/meet-denario-the-ai-research-assistant-that-is-already-getting-its-own"
     }
   ]
 }
