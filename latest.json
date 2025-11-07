@@ -1,43 +1,6 @@
 {
   "articles": [
     {
-      "id": "198",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "Altman Ouster",
-      "mediumTitle": "Altman\u0027s OpenAI Ouster: Safety Fears",
-      "longTitle": "Altman Ousted from OpenAI Amidst Safety Concerns and Lies",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Sam Altman was ousted from OpenAI in",
-            "November 2023 due to a disagreement over",
-            "AI development pace and safety, with new",
-            "testimony suggesting fears of",
-            "existential threats and alleged",
-            "deception.",
-            "He allegedly believed that OpenAI was",
-            "moving too quickly, potentially creating",
-            "an AI that could pose an existential",
-            "threat to humanity.",
-            "The testimony reportedly reveals that",
-            "Sutskever\u0027s decision to support Altman\u0027s",
-            "removal stemmed from a profound fear",
-            "regarding the safety implications of the",
-            "AI models being developed.",
-            "This alleged deception would have",
-            "further eroded trust and justified the",
-            "board\u0027s drastic action to remove Altman,",
-            "aiming to regain control and prioritize",
-            "safety over rapid expansion."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T11:13:17.000Z",
-      "ranking": 8.226666666666667,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814876/ilya-sutskever-deposition-openai-sam-altman-elon-musk-lawsuit"
-    },
-    {
       "id": "203",
       "topic": "Dev Tools",
       "source": "Marktechpost AI",
@@ -107,6 +70,42 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/06/moonshot-ai-releases-kimi-k2-thinking-an-impressive-thinking-model-that-can-execute-up-to-200-300-sequential-tool-calls-without-human-interference/"
     },
     {
+      "id": "205",
+      "topic": "Science",
+      "source": "Marktechpost AI",
+      "shortTitle": "Omics AI",
+      "mediumTitle": "Multi-Agent Omics Data Interpretation",
+      "longTitle": "Sophisticated Multi-Agent System for Integrated Omics Data Interpretation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This tutorial details the construction",
+            "of a sophisticated multi-agent system",
+            "designed for the integrated",
+            "interpretation of omics data,",
+            "specifically transcriptomics,",
+            "proteomics, and metabolomics, with the",
+            "aim of revealing significant biological",
+            "insights.",
+            "The ultimate goal of this multi-agent",
+            "pipeline is to leverage the combined",
+            "power of these different omics layers",
+            "and analytical techniques to provide a",
+            "more comprehensive understanding of",
+            "biological systems.",
+            "These agents are engineered to perform",
+            "distinct analytical tasks, including",
+            "statistical analysis, network inference,",
+            "pathway enrichment, and drug",
+            "repurposing."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-07T09:43:02.000Z",
+      "ranking": 7.999999999999999,
+      "articleUrl": "https://www.marktechpost.com/2025/11/07/build-a-multi-agent-system-for-integrated-transcriptomic-proteomic-and-metabolomic-data-interpretation-with-pathway-reasoning/"
+    },
+    {
       "id": "195",
       "topic": "Finance",
       "source": "The Verge AI",
@@ -172,41 +171,6 @@
       "publishedAt": "2025-11-06T17:55:13.000Z",
       "ranking": 7.589473684210525,
       "articleUrl": "https://www.theverge.com/news/815892/tesla-shareholder-vote-elon-musk-pay-trillion-robot"
-    },
-    {
-      "id": "189",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Smarter LLM Agents",
-      "mediumTitle": "CMU\u0027s New LLM Training Systems",
-      "longTitle": "CMU Researchers Develop PPP and UserVille for Enhanced LLM Agent Interaction",
-      "paragraphs": [
-        {
-          "Lines": [
-            "CMU researchers have developed two novel",
-            "systems, PPP (Proactive, Personalized,",
-            "and Polite) and UserVille, aimed at",
-            "training Large Language Model (LLM)",
-            "agents to be more proactive,",
-            "personalized, and considerate in their",
-            "interactions with users.",
-            "Unlike current LLM agents that are",
-            "primarily optimized for task completion,",
-            "these new systems focus on enhancing the",
-            "agent\u0027s ability to reason about when to",
-            "ask clarifying questions and how to",
-            "adapt to individual user preferences.",
-            "The core problem addressed is that",
-            "existing LLM agents often lack the",
-            "nuanced understanding required for",
-            "effective human-computer interaction,",
-            "leading to frustrating user experiences."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T10:49:46.000Z",
-      "ranking": 7.529166666666666,
-      "articleUrl": "https://www.marktechpost.com/2025/11/06/cmu-researchers-introduce-ppp-and-userville-to-train-proactive-and-personalized-llm-agents/"
     },
     {
       "id": "196",
@@ -279,6 +243,43 @@
       "articleUrl": "https://www.theverge.com/news/815987/amazon-kindle-translate-ai-ebook-translation"
     },
     {
+      "id": "198",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "Altman Ouster",
+      "mediumTitle": "Altman\u0027s OpenAI Ouster: Safety Fears",
+      "longTitle": "Altman Ousted from OpenAI Amidst Safety Concerns and Lies",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Sam Altman was ousted from OpenAI in",
+            "November 2023 due to a disagreement over",
+            "AI development pace and safety, with new",
+            "testimony suggesting fears of",
+            "existential threats and alleged",
+            "deception.",
+            "He allegedly believed that OpenAI was",
+            "moving too quickly, potentially creating",
+            "an AI that could pose an existential",
+            "threat to humanity.",
+            "The testimony reportedly reveals that",
+            "Sutskever\u0027s decision to support Altman\u0027s",
+            "removal stemmed from a profound fear",
+            "regarding the safety implications of the",
+            "AI models being developed.",
+            "This alleged deception would have",
+            "further eroded trust and justified the",
+            "board\u0027s drastic action to remove Altman,",
+            "aiming to regain control and prioritize",
+            "safety over rapid expansion."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T11:13:17.000Z",
+      "ranking": 7.160115610971809,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814876/ilya-sutskever-deposition-openai-sam-altman-elon-musk-lawsuit"
+    },
+    {
       "id": "190",
       "topic": "Hardware",
       "source": "VentureBeat AI",
@@ -311,42 +312,6 @@
       "publishedAt": "2025-11-06T14:00:00.000Z",
       "ranking": 7.103571428571428,
       "articleUrl": "https://venturebeat.com/ai/google-debuts-ai-chips-with-4x-performance-boost-secures-anthropic-megadeal"
-    },
-    {
-      "id": "201",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Google File Search",
-      "mediumTitle": "Google\u0027s File Search Tool for RAG",
-      "longTitle": "Google\u0027s File Search Tool Simplifies Enterprise Data Grounding for AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has released the File Search Tool",
-            "on the Gemini API, a fully managed",
-            "Retrieval Augmented Generation (RAG)",
-            "system designed to simplify the process",
-            "of grounding AI applications with",
-            "enterprise data.",
-            "A key feature is its built-in citations,",
-            "which link generated answers to the",
-            "specific parts of the source documents",
-            "used, enhancing accuracy and",
-            "verifiability.",
-            "The tool utilizes vector search to",
-            "understand the meaning and context of",
-            "user queries, enabling it to find",
-            "relevant information from documents even",
-            "if the prompt uses inexact wording.",
-            "File Search handles complexities like",
-            "file storage, chunking strategies, and",
-            "embedding generation internally."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 6.7392727923974745,
-      "articleUrl": "https://venturebeat.com/ai/why-googles-file-search-could-displace-diy-rag-stacks-in-the-enterprise"
     },
     {
       "id": "193",
@@ -386,6 +351,77 @@
       "articleUrl": "https://venturebeat.com/ai/moonshots-kimi-k2-thinking-emerges-as-leading-open-source-ai-outperforming"
     },
     {
+      "id": "189",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Smarter LLM Agents",
+      "mediumTitle": "CMU\u0027s New LLM Training Systems",
+      "longTitle": "CMU Researchers Develop PPP and UserVille for Enhanced LLM Agent Interaction",
+      "paragraphs": [
+        {
+          "Lines": [
+            "CMU researchers have developed two novel",
+            "systems, PPP (Proactive, Personalized,",
+            "and Polite) and UserVille, aimed at",
+            "training Large Language Model (LLM)",
+            "agents to be more proactive,",
+            "personalized, and considerate in their",
+            "interactions with users.",
+            "Unlike current LLM agents that are",
+            "primarily optimized for task completion,",
+            "these new systems focus on enhancing the",
+            "agent\u0027s ability to reason about when to",
+            "ask clarifying questions and how to",
+            "adapt to individual user preferences.",
+            "The core problem addressed is that",
+            "existing LLM agents often lack the",
+            "nuanced understanding required for",
+            "effective human-computer interaction,",
+            "leading to frustrating user experiences."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T10:49:46.000Z",
+      "ranking": 6.42861751833114,
+      "articleUrl": "https://www.marktechpost.com/2025/11/06/cmu-researchers-introduce-ppp-and-userville-to-train-proactive-and-personalized-llm-agents/"
+    },
+    {
+      "id": "201",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Google File Search",
+      "mediumTitle": "Google\u0027s File Search Tool for RAG",
+      "longTitle": "Google\u0027s File Search Tool Simplifies Enterprise Data Grounding for AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has released the File Search Tool",
+            "on the Gemini API, a fully managed",
+            "Retrieval Augmented Generation (RAG)",
+            "system designed to simplify the process",
+            "of grounding AI applications with",
+            "enterprise data.",
+            "A key feature is its built-in citations,",
+            "which link generated answers to the",
+            "specific parts of the source documents",
+            "used, enhancing accuracy and",
+            "verifiability.",
+            "The tool utilizes vector search to",
+            "understand the meaning and context of",
+            "user queries, enabling it to find",
+            "relevant information from documents even",
+            "if the prompt uses inexact wording.",
+            "File Search handles complexities like",
+            "file storage, chunking strategies, and",
+            "embedding generation internally."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T06:00:00.000Z",
+      "ranking": 6.350089581893519,
+      "articleUrl": "https://venturebeat.com/ai/why-googles-file-search-could-displace-diy-rag-stacks-in-the-enterprise"
+    },
+    {
       "id": "194",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -414,45 +450,8 @@
         }
       ],
       "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 6.569689452003567,
+      "ranking": 6.18050624501478,
       "articleUrl": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise"
-    },
-    {
-      "id": "192",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "BeeBot AI App",
-      "mediumTitle": "Foursquare Co-founder\u0027s New AI App",
-      "longTitle": "Foursquare Co-founder Launches AI-Powered Location Audio App BeeBot",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Foursquare co-founder Dennis Crowley has",
-            "launched BeeBot, a new AI-powered social",
-            "app for iPhones.",
-            "BeeBot provides users with",
-            "location-based audio updates about their",
-            "neighborhood, acting like a personalized",
-            "radio DJ.",
-            "The app delivers audio updates through",
-            "headphones about local activities,",
-            "happenings, and what friends are doing.",
-            "It aims to offer a more engaging and",
-            "informative way to experience",
-            "surroundings using AI to curate relevant",
-            "content.",
-            "BeeBot focuses on local discovery and",
-            "social connection through a",
-            "conversational, audio-first platform.",
-            "The app\u0027s emphasis on \u0027talking to you",
-            "about your neighborhood\u0027 suggests a",
-            "personalized and dynamic experience."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T09:15:35.000Z",
-      "ranking": 6.300000000000001,
-      "articleUrl": "https://www.theverge.com/news/815328/beebot-app-foursquare-founder-ai-audio-updates"
     },
     {
       "id": "188",
@@ -488,7 +487,7 @@
         }
       ],
       "publishedAt": "2025-11-06T06:03:50.000Z",
-      "ranking": 6.295337572698365,
+      "ranking": 5.907042193445134,
       "articleUrl": "https://www.theverge.com/news/815286/tinder-ai-chemistry-camera-roll-feature-test"
     },
     {
@@ -522,7 +521,7 @@
         }
       ],
       "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 6.009272773591019,
+      "ranking": 5.620089567520886,
       "articleUrl": "https://venturebeat.com/ai/the-compute-rethink-scaling-ai-where-data-lives-at-the-edge"
     },
     {
@@ -557,8 +556,45 @@
         }
       ],
       "publishedAt": "2025-11-05T18:44:00.000Z",
-      "ranking": 5.60728459614124,
+      "ranking": 5.061535358828619,
       "articleUrl": "https://venturebeat.com/ai/the-agent-builder-arms-race-continues-as-google-cloud-pushes-deeper-into"
+    },
+    {
+      "id": "192",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "BeeBot AI App",
+      "mediumTitle": "Foursquare Co-founder\u0027s New AI App",
+      "longTitle": "Foursquare Co-founder Launches AI-Powered Location Audio App BeeBot",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Foursquare co-founder Dennis Crowley has",
+            "launched BeeBot, a new AI-powered social",
+            "app for iPhones.",
+            "BeeBot provides users with",
+            "location-based audio updates about their",
+            "neighborhood, acting like a personalized",
+            "radio DJ.",
+            "The app delivers audio updates through",
+            "headphones about local activities,",
+            "happenings, and what friends are doing.",
+            "It aims to offer a more engaging and",
+            "informative way to experience",
+            "surroundings using AI to curate relevant",
+            "content.",
+            "BeeBot focuses on local discovery and",
+            "social connection through a",
+            "conversational, audio-first platform.",
+            "The app\u0027s emphasis on \u0027talking to you",
+            "about your neighborhood\u0027 suggests a",
+            "personalized and dynamic experience."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T09:15:35.000Z",
+      "ranking": 5.057943881472399,
+      "articleUrl": "https://www.theverge.com/news/815328/beebot-app-foursquare-founder-ai-audio-updates"
     },
     {
       "id": "186",
@@ -591,7 +627,7 @@
         }
       ],
       "publishedAt": "2025-11-05T18:09:51.000Z",
-      "ranking": 5.56401560695575,
+      "ranking": 5.010356998717773,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized"
     },
     {
@@ -625,7 +661,7 @@
         }
       ],
       "publishedAt": "2025-11-05T16:32:08.000Z",
-      "ranking": 5.426194023535665,
+      "ranking": 4.849903593751767,
       "articleUrl": "https://www.marktechpost.com/2025/11/05/google-ai-introduces-consistency-training-for-safer-language-models-under-sycophantic-and-jailbreak-style-prompts/"
     },
     {
@@ -659,7 +695,7 @@
         }
       ],
       "publishedAt": "2025-11-05T18:37:16.000Z",
-      "ranking": 4.973691810047341,
+      "ranking": 4.426383080860685,
       "articleUrl": "https://www.marktechpost.com/2025/11/05/openai-introduces-indqa-a-culture-aware-benchmark-for-indian-languages/"
     },
     {
@@ -695,7 +731,7 @@
         }
       ],
       "publishedAt": "2025-11-05T16:12:33.000Z",
-      "ranking": 4.567175445153695,
+      "ranking": 3.9863493403030223,
       "articleUrl": "https://www.theverge.com/news/814654/apple-intelligence-google-gemini-ai-siri"
     },
     {
@@ -730,7 +766,7 @@
         }
       ],
       "publishedAt": "2025-11-05T12:55:55.000Z",
-      "ranking": 4.3290163159156805,
+      "ranking": 3.7026486418385915,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814329/sandbar-stream-ring-ai-wearable"
     },
     {
@@ -765,7 +801,7 @@
         }
       ],
       "publishedAt": "2025-11-05T10:43:02.000Z",
-      "ranking": 4.301768697604342,
+      "ranking": 3.644624372332629,
       "articleUrl": "https://www.theverge.com/news/814168/xai-grok-ani-employee-biometric-data"
     },
     {
@@ -800,7 +836,7 @@
         }
       ],
       "publishedAt": "2025-11-05T12:10:00.000Z",
-      "ranking": 4.14354524614078,
+      "ranking": 3.506542970852696,
       "articleUrl": "https://www.theverge.com/tech/813944/browser-wars-chatgpt-gemini-chrome"
     },
     {
@@ -837,7 +873,7 @@
         }
       ],
       "publishedAt": "2025-11-05T10:00:00.000Z",
-      "ranking": 3.948669940487665,
+      "ranking": 3.2815588119646284,
       "articleUrl": "https://www.theverge.com/news/813588/google-maps-gemini-ai-chatbot-navigation-directions"
     },
     {
@@ -873,7 +909,7 @@
         }
       ],
       "publishedAt": "2025-11-05T06:00:00.000Z",
-      "ranking": 3.6138571420837353,
+      "ranking": 2.891160440440066,
       "articleUrl": "https://venturebeat.com/ai/from-logs-to-insights-the-ai-breakthrough-redefining-observability"
     },
     {
@@ -910,7 +946,7 @@
         }
       ],
       "publishedAt": "2025-11-05T08:22:25.000Z",
-      "ranking": 3.391202162255695,
+      "ranking": 2.7014900933351536,
       "articleUrl": "https://www.theverge.com/news/814042/getty-lawsuit-stability-ai-copyright-ruling-uk"
     },
     {
@@ -947,7 +983,7 @@
         }
       ],
       "publishedAt": "2025-11-05T01:00:56.000Z",
-      "ranking": 2.6139191815479483,
+      "ranking": 1.8219566810948313,
       "articleUrl": "https://www.marktechpost.com/2025/11/04/how-can-we-build-scalable-and-reproducible-machine-learning-experiment-pipelines-using-meta-research-hydra/"
     },
     {
@@ -984,7 +1020,7 @@
         }
       ],
       "publishedAt": "2025-11-05T06:00:00.000Z",
-      "ranking": 2.1838571189188096,
+      "ranking": 1.461160417056762,
       "articleUrl": "https://venturebeat.com/ai/ais-capacity-crunch-latency-risk-escalating-costs-and-the-coming-surge"
     },
     {
@@ -1020,7 +1056,7 @@
         }
       ],
       "publishedAt": "2025-11-04T21:00:00.000Z",
-      "ranking": 1.9305763981861093,
+      "ranking": 1.0828121504254318,
       "articleUrl": "https://venturebeat.com/ai/databricks-research-reveals-that-building-better-ai-judges-isnt-just-a"
     },
     {
@@ -1054,40 +1090,8 @@
         }
       ],
       "publishedAt": "2025-11-04T20:37:00.000Z",
-      "ranking": 1.2967845512078355,
+      "ranking": 0.4436933517203645,
       "articleUrl": "https://venturebeat.com/ai/attention-isnt-all-you-need-new-qwen3-variant-brumby-14b-base-leverages"
-    },
-    {
-      "id": "168",
-      "topic": "Vision",
-      "source": "The Verge AI",
-      "shortTitle": "Google Maps Lane Guidance",
-      "mediumTitle": "Google Maps Adds Lane Guidance for Polestar 4",
-      "longTitle": "Google Maps Introduces Live Lane Guidance for Polestar 4 EVs",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google Maps is introducing a new live",
-            "lane guidance feature specifically for",
-            "drivers of the Polestar 4, an electric",
-            "vehicle powered by Google\u0027s systems.",
-            "This innovative feature leverages the",
-            "Polestar 4\u0027s front-facing camera to",
-            "detect lane markings and road signs in",
-            "real-time.",
-            "This AI analysis allows the system to",
-            "provide drivers with personalized audio",
-            "and visual cues, guiding them on when",
-            "and how to merge lanes safely.",
-            "The data captured by the camera is then",
-            "processed by Google Maps\u0027 artificial",
-            "intelligence (AI)."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T12:57:50.000Z",
-      "ranking": 0.8684628001396026,
-      "articleUrl": "https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance"
     },
     {
       "id": "174",
@@ -1122,44 +1126,8 @@
         }
       ],
       "publishedAt": "2025-11-04T19:51:44.000Z",
-      "ranking": 0.6392704220925864,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites"
-    },
-    {
-      "id": "173",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Home Test",
-      "mediumTitle": "Gemini for Home AI Weekend Test",
-      "longTitle": "Author tests Google\u0027s Gemini for Home AI by observing family for a weekend.",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The author tested Google\u0027s Gemini for",
-            "Home AI by letting it observe their",
-            "family for a weekend to see if constant",
-            "surveillance would be helpful or",
-            "unsettling.",
-            "The author\u0027s intention was to determine",
-            "if the AI\u0027s constant surveillance",
-            "capabilities would be helpful or",
-            "unsettling.",
-            "The author\u0027s goal was to gather data on",
-            "whether this level of AI oversight",
-            "offers practical benefits or becomes",
-            "intrusive.",
-            "The core of the article appears to be",
-            "the author\u0027s personal reaction and",
-            "assessment of the AI\u0027s performance.",
-            "The Gemini for Home system was",
-            "configured to watch, interpret, and",
-            "narrate the family\u0027s activities."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T17:01:37.000Z",
-      "ranking": 0.5641782343954871,
-      "articleUrl": "https://www.theverge.com/tech/813523/gemini-for-home-google-nest-camera-hands-on"
     },
     {
       "id": "171",
@@ -1231,6 +1199,42 @@
       "articleUrl": "https://www.theverge.com/news/813755/amazon-perplexity-ai-shopping-agent-block"
     },
     {
+      "id": "173",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Home Test",
+      "mediumTitle": "Gemini for Home AI Weekend Test",
+      "longTitle": "Author tests Google\u0027s Gemini for Home AI by observing family for a weekend.",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The author tested Google\u0027s Gemini for",
+            "Home AI by letting it observe their",
+            "family for a weekend to see if constant",
+            "surveillance would be helpful or",
+            "unsettling.",
+            "The author\u0027s intention was to determine",
+            "if the AI\u0027s constant surveillance",
+            "capabilities would be helpful or",
+            "unsettling.",
+            "The author\u0027s goal was to gather data on",
+            "whether this level of AI oversight",
+            "offers practical benefits or becomes",
+            "intrusive.",
+            "The core of the article appears to be",
+            "the author\u0027s personal reaction and",
+            "assessment of the AI\u0027s performance.",
+            "The Gemini for Home system was",
+            "configured to watch, interpret, and",
+            "narrate the family\u0027s activities."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T17:01:37.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/813523/gemini-for-home-google-nest-camera-hands-on"
+    },
+    {
       "id": "167",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -1266,6 +1270,38 @@
       "publishedAt": "2025-11-04T14:51:31.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/813533/openai-sora-android-launch"
+    },
+    {
+      "id": "168",
+      "topic": "Vision",
+      "source": "The Verge AI",
+      "shortTitle": "Google Maps Lane Guidance",
+      "mediumTitle": "Google Maps Adds Lane Guidance for Polestar 4",
+      "longTitle": "Google Maps Introduces Live Lane Guidance for Polestar 4 EVs",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google Maps is introducing a new live",
+            "lane guidance feature specifically for",
+            "drivers of the Polestar 4, an electric",
+            "vehicle powered by Google\u0027s systems.",
+            "This innovative feature leverages the",
+            "Polestar 4\u0027s front-facing camera to",
+            "detect lane markings and road signs in",
+            "real-time.",
+            "This AI analysis allows the system to",
+            "provide drivers with personalized audio",
+            "and visual cues, guiding them on when",
+            "and how to merge lanes safely.",
+            "The data captured by the camera is then",
+            "processed by Google Maps\u0027 artificial",
+            "intelligence (AI)."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-04T12:57:50.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance"
     },
     {
       "id": "162",
@@ -1578,77 +1614,6 @@
       "publishedAt": "2025-11-03T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/the-beginning-of-the-end-of-the-transformer-era-neuro-symbolic-ai-startup"
-    },
-    {
-      "id": "152",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI IP Row",
-      "mediumTitle": "Ghibli \u0026 Co. vs OpenAI",
-      "longTitle": "Japanese Studios Demand OpenAI Stop AI Training on IP",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Studio Ghibli, Bandai Namco, and Square",
-            "Enix, represented by the Content",
-            "Overseas Distribution Association",
-            "(CODA), have formally requested OpenAI",
-            "to cease using their intellectual",
-            "property for AI model training,",
-            "specifically mentioning Sora 2.",
-            "The association asserts that the act of",
-            "copying content to train AI models",
-            "constitutes copyright infringement.",
-            "The letter specifically targets the",
-            "training of Sora 2, OpenAI\u0027s",
-            "text-to-video model, suggesting that the",
-            "association has evidence or strong",
-            "suspicions that content belonging to its",
-            "members has been incorporated into the",
-            "datasets used for its development."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-03T13:34:13.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement"
-    },
-    {
-      "id": "153",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Coke AI Ads",
-      "mediumTitle": "Coca-Cola\u0027s AI Holiday Ad Criticism",
-      "longTitle": "Coca-Cola Faces Criticism for AI-Generated Holiday Ads",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Coca-Cola\u0027s latest holiday ad, using",
-            "generative AI, has drawn criticism for",
-            "being a \u0022sloppy eyesore\u0022 that harms the",
-            "brand\u0027s festive spirit.",
-            "This follows a similar backlash last",
-            "year when AI-generated commercials were",
-            "criticized for their \u0022gliding wheels\u0022",
-            "and \u0022uncanny-looking faces.\u0022",
-            "Despite previous negative reception,",
-            "Coca-Cola has \u0022doubled down\u0022 on AI for",
-            "this year\u0027s campaign.",
-            "The continued reliance on AI is seen as",
-            "a misstep due to the perceived lack of",
-            "quality and unsettling aesthetic",
-            "produced by the technology.",
-            "The AI-generated elements are described",
-            "as creating a visually unappealing",
-            "experience that detracts from the warmth",
-            "and joy typically associated with",
-            "Coca-Cola\u0027s Christmas commercials."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-03T13:31:51.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/812559/coca-cola-ai-holiday-christmas-commercial-2025"
     }
   ]
 }
