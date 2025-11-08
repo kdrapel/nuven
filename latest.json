@@ -37,6 +37,42 @@
       "articleUrl": "https://venturebeat.com/ai/terminal-bench-2-0-launches-alongside-harbor-a-new-framework-for-testing"
     },
     {
+      "id": "215",
+      "topic": "Energy",
+      "source": "The Verge AI",
+      "shortTitle": "Energy Costs Sway Votes",
+      "mediumTitle": "Rising Electricity Rates Impact Elections",
+      "longTitle": "Voter Concerns Over Soaring Electricity Rates Influence Recent Election Outcomes",
+      "paragraphs": [
+        {
+          "Lines": [
+            "However, the true test of their",
+            "leadership and policy effectiveness will",
+            "be their ability to implement solutions",
+            "that address the root causes of soaring",
+            "electricity rates and ensure a stable",
+            "and affordable energy future.",
+            "Soaring electricity rates have emerged",
+            "as a significant concern for voters,",
+            "influencing recent Democratic victories",
+            "in New Jersey, Virginia, and Georgia.",
+            "The \u0027hard part\u0027 is the transition from",
+            "electoral victory to effective",
+            "governance and problem-solving in the",
+            "energy sector.",
+            "This suggests that the \u0027hard part\u0027",
+            "refers to the policy implementation and",
+            "infrastructure improvements required to",
+            "stabilize and potentially lower energy",
+            "costs for consumers."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-08T09:00:00.000Z",
+      "ranking": 8.215384615384615,
+      "articleUrl": "https://www.theverge.com/report/816946/electricity-rates-election-democrats"
+    },
+    {
       "id": "214",
       "topic": "Dev Tools",
       "source": "Marktechpost AI",
@@ -172,7 +208,7 @@
         }
       ],
       "publishedAt": "2025-11-07T09:43:02.000Z",
-      "ranking": 6.798422117195749,
+      "ranking": 6.405396330572054,
       "articleUrl": "https://www.marktechpost.com/2025/11/07/build-a-multi-agent-system-for-integrated-transcriptomic-proteomic-and-metabolomic-data-interpretation-with-pathway-reasoning/"
     },
     {
@@ -206,7 +242,7 @@
         }
       ],
       "publishedAt": "2025-11-07T10:10:27.000Z",
-      "ranking": 6.409800155817855,
+      "ranking": 6.023118708244524,
       "articleUrl": "https://www.theverge.com/podcast/816270/ibook-cheap-mac-ai-shopping-comet-vergecast"
     },
     {
@@ -242,8 +278,41 @@
         }
       ],
       "publishedAt": "2025-11-07T06:00:00.000Z",
-      "ranking": 6.357952452466969,
+      "ranking": 5.913315803322563,
       "articleUrl": "https://venturebeat.com/data-infrastructure/ship-fast-optimize-later-top-ai-engineers-dont-care-about-cost-theyre"
+    },
+    {
+      "id": "202",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Kimi K2 Thinking",
+      "mediumTitle": "Moonshot AI\u0027s Kimi K2 Thinking",
+      "longTitle": "Moonshot AI releases Kimi K2 Thinking for complex reasoning",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Moonshot AI has introduced Kimi K2",
+            "Thinking, an open-source thinking agent",
+            "model designed to address the challenge",
+            "of AI systems performing complex,",
+            "multi-step reasoning and actions without",
+            "continuous human intervention.",
+            "A key feature of Kimi K2 Thinking is its",
+            "ability to execute a significant number",
+            "of sequential tool calls, reportedly",
+            "between 200 and 300, autonomously.",
+            "This new model provides transparency",
+            "into the full reasoning process of the",
+            "Kimi K2 Mixture of Experts (MoE)",
+            "architecture, making it suitable for",
+            "tasks requiring in-depth analysis and",
+            "decision-making over extended sequences."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-07T03:19:24.000Z",
+      "ranking": 5.733011964562103,
+      "articleUrl": "https://www.marktechpost.com/2025/11/06/moonshot-ai-releases-kimi-k2-thinking-an-impressive-thinking-model-that-can-execute-up-to-200-300-sequential-tool-calls-without-human-interference/"
     },
     {
       "id": "212",
@@ -276,41 +345,8 @@
         }
       ],
       "publishedAt": "2025-11-07T01:00:00.000Z",
-      "ranking": 6.220202181941614,
+      "ranking": 5.706144241248603,
       "articleUrl": "https://venturebeat.com/ai/nyus-new-ai-architecture-makes-high-quality-image-generation-faster-and"
-    },
-    {
-      "id": "202",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Kimi K2 Thinking",
-      "mediumTitle": "Moonshot AI\u0027s Kimi K2 Thinking",
-      "longTitle": "Moonshot AI releases Kimi K2 Thinking for complex reasoning",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Moonshot AI has introduced Kimi K2",
-            "Thinking, an open-source thinking agent",
-            "model designed to address the challenge",
-            "of AI systems performing complex,",
-            "multi-step reasoning and actions without",
-            "continuous human intervention.",
-            "A key feature of Kimi K2 Thinking is its",
-            "ability to execute a significant number",
-            "of sequential tool calls, reportedly",
-            "between 200 and 300, autonomously.",
-            "This new model provides transparency",
-            "into the full reasoning process of the",
-            "Kimi K2 Mixture of Experts (MoE)",
-            "architecture, making it suitable for",
-            "tasks requiring in-depth analysis and",
-            "decision-making over extended sequences."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-07T03:19:24.000Z",
-      "ranking": 6.214812135027817,
-      "articleUrl": "https://www.marktechpost.com/2025/11/06/moonshot-ai-releases-kimi-k2-thinking-an-impressive-thinking-model-that-can-execute-up-to-200-300-sequential-tool-calls-without-human-interference/"
     },
     {
       "id": "203",
@@ -345,7 +381,7 @@
         }
       ],
       "publishedAt": "2025-11-06T23:03:23.000Z",
-      "ranking": 5.748699665663521,
+      "ranking": 5.207656134561976,
       "articleUrl": "https://www.marktechpost.com/2025/11/06/google-ai-introduces-ds-star-a-multi-agent-data-science-system-that-plans-codes-and-verifies-end-to-end-analytics/"
     },
     {
@@ -379,7 +415,7 @@
         }
       ],
       "publishedAt": "2025-11-06T17:55:13.000Z",
-      "ranking": 4.511655672794058,
+      "ranking": 3.8993010516791093,
       "articleUrl": "https://www.theverge.com/news/815892/tesla-shareholder-vote-elon-musk-pay-trillion-robot"
     },
     {
@@ -416,76 +452,8 @@
         }
       ],
       "publishedAt": "2025-11-06T11:13:17.000Z",
-      "ranking": 4.091579033528429,
+      "ranking": 3.3862153142227207,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814876/ilya-sutskever-deposition-openai-sam-altman-elon-musk-lawsuit"
-    },
-    {
-      "id": "197",
-      "topic": "Education",
-      "source": "The Verge AI",
-      "shortTitle": "AI\u0027s Edu Crisis",
-      "mediumTitle": "AI Fuels Education\u0027s Existential Crisis",
-      "longTitle": "Generative AI is Causing Widespread Problems in Education",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Generative AI is fueling an existential",
-            "crisis in education, causing widespread",
-            "problems in schools.",
-            "The core issue highlighted is that",
-            "generative AI tools are causing",
-            "widespread problems in schools, a",
-            "sentiment frequently echoed by various",
-            "stakeholders.",
-            "Generative AI is described as a \u0027very",
-            "big idea that is causing quite a few",
-            "problems.\u0027",
-            "The \u0027existential crisis\u0027 framing implies",
-            "a fundamental questioning of current",
-            "educational models and practices.",
-            "This establishes the central theme: the",
-            "disruptive and problematic impact of",
-            "generative AI on educational",
-            "institutions."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T11:30:00.000Z",
-      "ranking": 4.041990371118265,
-      "articleUrl": "https://www.theverge.com/podcast/815434/ai-education-schools-research-cheating-chatgpt-jobs-grades"
-    },
-    {
-      "id": "195",
-      "topic": "Finance",
-      "source": "The Verge AI",
-      "shortTitle": "Google Finance AI",
-      "mediumTitle": "Google Finance Integrates Gemini AI",
-      "longTitle": "Google Finance Enhances Trader Tools with Gemini AI and Deep Search",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google Finance is integrating Gemini AI",
-            "tools to enhance its offerings for stock",
-            "traders.",
-            "A key new feature is \u0022Deep Search,\u0022",
-            "designed to provide more detailed and",
-            "nuanced responses from the AI chatbot.",
-            "The emphasis on \u0022turbocharging\u0022 the AI",
-            "chatbot with Deep Search highlights a",
-            "commitment to improving the depth and",
-            "accuracy of the information traders can",
-            "access.",
-            "This upgrade aims to empower traders",
-            "with more sophisticated information",
-            "retrieval capabilities, allowing them to",
-            "ask more complex queries and receive",
-            "more in-depth answers."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T13:00:00.000Z",
-      "ranking": 4.020819449840183,
-      "articleUrl": "https://www.theverge.com/news/815300/google-finance-gets-ai-deep-search"
     },
     {
       "id": "200",
@@ -520,8 +488,76 @@
         }
       ],
       "publishedAt": "2025-11-06T17:17:59.000Z",
-      "ranking": 3.9944260364869915,
+      "ranking": 3.3734554767365035,
       "articleUrl": "https://www.theverge.com/news/815987/amazon-kindle-translate-ai-ebook-translation"
+    },
+    {
+      "id": "197",
+      "topic": "Education",
+      "source": "The Verge AI",
+      "shortTitle": "AI\u0027s Edu Crisis",
+      "mediumTitle": "AI Fuels Education\u0027s Existential Crisis",
+      "longTitle": "Generative AI is Causing Widespread Problems in Education",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Generative AI is fueling an existential",
+            "crisis in education, causing widespread",
+            "problems in schools.",
+            "The core issue highlighted is that",
+            "generative AI tools are causing",
+            "widespread problems in schools, a",
+            "sentiment frequently echoed by various",
+            "stakeholders.",
+            "Generative AI is described as a \u0027very",
+            "big idea that is causing quite a few",
+            "problems.\u0027",
+            "The \u0027existential crisis\u0027 framing implies",
+            "a fundamental questioning of current",
+            "educational models and practices.",
+            "This establishes the central theme: the",
+            "disruptive and problematic impact of",
+            "generative AI on educational",
+            "institutions."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T11:30:00.000Z",
+      "ranking": 3.3404949419624534,
+      "articleUrl": "https://www.theverge.com/podcast/815434/ai-education-schools-research-cheating-chatgpt-jobs-grades"
+    },
+    {
+      "id": "195",
+      "topic": "Finance",
+      "source": "The Verge AI",
+      "shortTitle": "Google Finance AI",
+      "mediumTitle": "Google Finance Integrates Gemini AI",
+      "longTitle": "Google Finance Enhances Trader Tools with Gemini AI and Deep Search",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google Finance is integrating Gemini AI",
+            "tools to enhance its offerings for stock",
+            "traders.",
+            "A key new feature is \u0022Deep Search,\u0022",
+            "designed to provide more detailed and",
+            "nuanced responses from the AI chatbot.",
+            "The emphasis on \u0022turbocharging\u0022 the AI",
+            "chatbot with Deep Search highlights a",
+            "commitment to improving the depth and",
+            "accuracy of the information traders can",
+            "access.",
+            "This upgrade aims to empower traders",
+            "with more sophisticated information",
+            "retrieval capabilities, allowing them to",
+            "ask more complex queries and receive",
+            "more in-depth answers."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T13:00:00.000Z",
+      "ranking": 3.3401504054473845,
+      "articleUrl": "https://www.theverge.com/news/815300/google-finance-gets-ai-deep-search"
     },
     {
       "id": "193",
@@ -557,7 +593,7 @@
         }
       ],
       "publishedAt": "2025-11-06T19:27:00.000Z",
-      "ranking": 3.7984277395472814,
+      "ranking": 3.2073121641052578,
       "articleUrl": "https://venturebeat.com/ai/moonshots-kimi-k2-thinking-emerges-as-leading-open-source-ai-outperforming"
     },
     {
@@ -591,7 +627,7 @@
         }
       ],
       "publishedAt": "2025-11-06T12:51:08.000Z",
-      "ranking": 3.6499854109524716,
+      "ranking": 2.9672645884007416,
       "articleUrl": "https://www.theverge.com/news/815619/microsoft-ai-humanist-superintelligence"
     },
     {
@@ -625,7 +661,7 @@
         }
       ],
       "publishedAt": "2025-11-06T14:00:00.000Z",
-      "ranking": 3.4259366283974675,
+      "ranking": 2.7591518477798997,
       "articleUrl": "https://venturebeat.com/ai/google-debuts-ai-chips-with-4x-performance-boost-secures-anthropic-megadeal"
     },
     {
@@ -660,7 +696,7 @@
         }
       ],
       "publishedAt": "2025-11-06T10:49:46.000Z",
-      "ranking": 3.327394300614727,
+      "ranking": 2.616588707985298,
       "articleUrl": "https://www.marktechpost.com/2025/11/06/cmu-researchers-introduce-ppp-and-userville-to-train-proactive-and-personalized-llm-agents/"
     },
     {
@@ -696,7 +732,7 @@
         }
       ],
       "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 2.8461100480428625,
+      "ranking": 2.068251204423631,
       "articleUrl": "https://venturebeat.com/ai/why-googles-file-search-could-displace-diy-rag-stacks-in-the-enterprise"
     },
     {
@@ -728,7 +764,7 @@
         }
       ],
       "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 2.676526706731851,
+      "ranking": 1.8986678648502684,
       "articleUrl": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise"
     },
     {
@@ -765,7 +801,7 @@
         }
       ],
       "publishedAt": "2025-11-06T06:03:50.000Z",
-      "ranking": 2.4083907290242053,
+      "ranking": 1.63141893638071,
       "articleUrl": "https://www.theverge.com/news/815286/tinder-ai-chemistry-camera-roll-feature-test"
     },
     {
@@ -799,7 +835,7 @@
         }
       ],
       "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 2.1161100230676784,
+      "ranking": 1.3382511803197792,
       "articleUrl": "https://venturebeat.com/ai/the-compute-rethink-scaling-ai-where-data-lives-at-the-edge"
     },
     {
@@ -836,7 +872,7 @@
         }
       ],
       "publishedAt": "2025-11-06T09:15:35.000Z",
-      "ranking": 1.825812104851419,
+      "ranking": 1.0932120838295933,
       "articleUrl": "https://www.theverge.com/news/815328/beebot-app-foursquare-founder-ai-audio-updates"
     },
     {
@@ -871,76 +907,8 @@
         }
       ],
       "publishedAt": "2025-11-05T18:44:00.000Z",
-      "ranking": 0.6179609513716198,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/the-agent-builder-arms-race-continues-as-google-cloud-pushes-deeper-into"
-    },
-    {
-      "id": "186",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Gemini Accesses Data",
-      "mediumTitle": "Gemini Deep Research Integrates Personal Data",
-      "longTitle": "Google Gemini\u0027s Deep Research Now Analyzes User\u0027s Personal Data",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google\u0027s Gemini, a powerful AI agent",
-            "designed for creating research reports,",
-            "has introduced a significant new",
-            "capability: the ability to access and",
-            "analyze a user\u0027s personal data,",
-            "including emails, Google Drive",
-            "documents, and chats.",
-            "However, the ability of an AI to access",
-            "and process such sensitive personal data",
-            "also raises significant privacy and",
-            "security concerns.",
-            "While Google emphasizes that this is a",
-            "user-controlled feature, the mere",
-            "existence of such a capability",
-            "necessitates careful consideration of",
-            "data handling, consent, and potential",
-            "misuse."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T18:09:51.000Z",
-      "ranking": 0.5193163742695868,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized"
-    },
-    {
-      "id": "184",
-      "topic": "Safety",
-      "source": "Marktechpost AI",
-      "shortTitle": "LLM Safety Boost",
-      "mediumTitle": "Google AI Enhances LLM Safety",
-      "longTitle": "Google AI\u0027s Consistency Training for LLM Safety",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google AI, through its DeepMind",
-            "researchers, has introduced a novel",
-            "technique called \u0022consistency training\u0022",
-            "designed to enhance the safety and",
-            "robustness of large language models",
-            "(LLMs) against specific types of",
-            "adversarial prompts.",
-            "Consistency training aims to address",
-            "this by ensuring that the model\u0027s",
-            "behavior remains consistent across",
-            "different prompt styles, particularly",
-            "when the underlying task is the same.",
-            "The goal is to train the model to",
-            "recognize that the underlying intent of",
-            "the request, regardless of the stylistic",
-            "wrapper, should lead to a consistent and",
-            "safe response."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T16:32:08.000Z",
-      "ranking": 0.22304331828996293,
-      "articleUrl": "https://www.marktechpost.com/2025/11/05/google-ai-introduces-consistency-training-for-safer-language-models-under-sycophantic-and-jailbreak-style-prompts/"
     },
     {
       "id": "183",
@@ -975,6 +943,74 @@
       "publishedAt": "2025-11-05T18:37:16.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/05/openai-introduces-indqa-a-culture-aware-benchmark-for-indian-languages/"
+    },
+    {
+      "id": "186",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini Accesses Data",
+      "mediumTitle": "Gemini Deep Research Integrates Personal Data",
+      "longTitle": "Google Gemini\u0027s Deep Research Now Analyzes User\u0027s Personal Data",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google\u0027s Gemini, a powerful AI agent",
+            "designed for creating research reports,",
+            "has introduced a significant new",
+            "capability: the ability to access and",
+            "analyze a user\u0027s personal data,",
+            "including emails, Google Drive",
+            "documents, and chats.",
+            "However, the ability of an AI to access",
+            "and process such sensitive personal data",
+            "also raises significant privacy and",
+            "security concerns.",
+            "While Google emphasizes that this is a",
+            "user-controlled feature, the mere",
+            "existence of such a capability",
+            "necessitates careful consideration of",
+            "data handling, consent, and potential",
+            "misuse."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T18:09:51.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized"
+    },
+    {
+      "id": "184",
+      "topic": "Safety",
+      "source": "Marktechpost AI",
+      "shortTitle": "LLM Safety Boost",
+      "mediumTitle": "Google AI Enhances LLM Safety",
+      "longTitle": "Google AI\u0027s Consistency Training for LLM Safety",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google AI, through its DeepMind",
+            "researchers, has introduced a novel",
+            "technique called \u0022consistency training\u0022",
+            "designed to enhance the safety and",
+            "robustness of large language models",
+            "(LLMs) against specific types of",
+            "adversarial prompts.",
+            "Consistency training aims to address",
+            "this by ensuring that the model\u0027s",
+            "behavior remains consistent across",
+            "different prompt styles, particularly",
+            "when the underlying task is the same.",
+            "The goal is to train the model to",
+            "recognize that the underlying intent of",
+            "the request, regardless of the stylistic",
+            "wrapper, should lead to a consistent and",
+            "safe response."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T16:32:08.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.marktechpost.com/2025/11/05/google-ai-introduces-consistency-training-for-safer-language-models-under-sycophantic-and-jailbreak-style-prompts/"
     },
     {
       "id": "187",
@@ -1192,6 +1228,42 @@
       "articleUrl": "https://www.theverge.com/news/814042/getty-lawsuit-stability-ai-copyright-ruling-uk"
     },
     {
+      "id": "180",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI in IT Observability",
+      "mediumTitle": "AI Revolutionizes IT Incident Diagnosis",
+      "longTitle": "AI-Driven Observability Transforms IT Incident Resolution",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A significant breakthrough in IT",
+            "observability, driven by Artificial",
+            "Intelligence (AI), aims to transform how",
+            "organizations diagnose and resolve",
+            "network incidents.",
+            "Elastic, the Search AI Company, has",
+            "introduced a new feature called Streams,",
+            "designed to make logs the primary tool",
+            "for investigations.",
+            "Streams enables logs to be used",
+            "proactively, generating information-rich",
+            "alerts that allow teams to jump directly",
+            "to problem-solving, potentially offering",
+            "automated remediation before notifying",
+            "the team.",
+            "Streams utilizes AI to automatically",
+            "partition and parse raw logs, extracting",
+            "relevant fields and reducing the effort",
+            "required to make them usable."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/from-logs-to-insights-the-ai-breakthrough-redefining-observability"
+    },
+    {
       "id": "185",
       "topic": "Business",
       "source": "VentureBeat AI",
@@ -1227,42 +1299,6 @@
       "publishedAt": "2025-11-05T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/ais-capacity-crunch-latency-risk-escalating-costs-and-the-coming-surge"
-    },
-    {
-      "id": "180",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI in IT Observability",
-      "mediumTitle": "AI Revolutionizes IT Incident Diagnosis",
-      "longTitle": "AI-Driven Observability Transforms IT Incident Resolution",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A significant breakthrough in IT",
-            "observability, driven by Artificial",
-            "Intelligence (AI), aims to transform how",
-            "organizations diagnose and resolve",
-            "network incidents.",
-            "Elastic, the Search AI Company, has",
-            "introduced a new feature called Streams,",
-            "designed to make logs the primary tool",
-            "for investigations.",
-            "Streams enables logs to be used",
-            "proactively, generating information-rich",
-            "alerts that allow teams to jump directly",
-            "to problem-solving, potentially offering",
-            "automated remediation before notifying",
-            "the team.",
-            "Streams utilizes AI to automatically",
-            "partition and parse raw logs, extracting",
-            "relevant fields and reducing the effort",
-            "required to make them usable."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/from-logs-to-insights-the-ai-breakthrough-redefining-observability"
     },
     {
       "id": "175",
@@ -1580,43 +1616,6 @@
       "publishedAt": "2025-11-04T12:57:50.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance"
-    },
-    {
-      "id": "162",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Alexa AI in Music",
-      "mediumTitle": "Alexa Plus Enhances Amazon Music",
-      "longTitle": "Amazon Integrates Generative AI Assistant Alexa Plus into Music Streaming Service",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Amazon is integrating its generative AI",
-            "assistant, Alexa Plus, into its Music",
-            "streaming service to improve user",
-            "experience.",
-            "The primary function of Alexa Plus",
-            "within the app is to offer users the",
-            "ability to request obscure information",
-            "or complex queries.",
-            "This new feature is currently available",
-            "to customers in the Alexa Plus Early",
-            "Access beta program via the Amazon Music",
-            "app on iOS and Android.",
-            "The AI is designed to go beyond simple",
-            "music playback commands and provide",
-            "detailed answers or explanations related",
-            "to music, artists, genres, or broader",
-            "topics.",
-            "The integration aims to provide advanced",
-            "AI capabilities to users across all",
-            "subscription tiers."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/813102/amazon-music-alexa-plus-ai-integration"
     }
   ]
 }
