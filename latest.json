@@ -37,40 +37,73 @@
       "articleUrl": "https://venturebeat.com/ai/terminal-bench-2-0-launches-alongside-harbor-a-new-framework-for-testing"
     },
     {
-      "id": "205",
-      "topic": "Science",
+      "id": "214",
+      "topic": "Dev Tools",
       "source": "Marktechpost AI",
-      "shortTitle": "Omics AI",
-      "mediumTitle": "Multi-Agent Omics Data Interpretation",
-      "longTitle": "Sophisticated Multi-Agent System for Integrated Omics Data Interpretation",
+      "shortTitle": "Python Web App",
+      "mediumTitle": "Reflex Python Web App Tutorial",
+      "longTitle": "Building a Multi-Page Web App with Reflex in Python",
       "paragraphs": [
         {
           "Lines": [
-            "This tutorial details the construction",
-            "of a sophisticated multi-agent system",
-            "designed for the integrated",
-            "interpretation of omics data,",
-            "specifically transcriptomics,",
-            "proteomics, and metabolomics, with the",
-            "aim of revealing significant biological",
-            "insights.",
-            "The ultimate goal of this multi-agent",
-            "pipeline is to leverage the combined",
-            "power of these different omics layers",
-            "and analytical techniques to provide a",
-            "more comprehensive understanding of",
-            "biological systems.",
-            "These agents are engineered to perform",
-            "distinct analytical tasks, including",
-            "statistical analysis, network inference,",
-            "pathway enrichment, and drug",
-            "repurposing."
+            "This article details the construction of",
+            "an advanced, multi-page web application",
+            "using the Reflex framework, entirely",
+            "within Python and designed to run",
+            "seamlessly in Google Colab.",
+            "The core premise is to showcase Reflex\u0027s",
+            "capability for full-stack development",
+            "without requiring any JavaScript,",
+            "relying solely on reactive Python code.",
+            "The tutorial aims to provide a practical",
+            "guide for developers looking to build",
+            "complex, interactive web applications",
+            "using a familiar Python environment,",
+            "eliminating the need for separate",
+            "front-end and back-end languages.",
+            "A key aspect of the application is its",
+            "real-time database interaction, allowing",
+            "for dynamic updates and data",
+            "persistence."
           ]
         }
       ],
-      "publishedAt": "2025-11-07T09:43:02.000Z",
-      "ranking": 7.999999999999999,
-      "articleUrl": "https://www.marktechpost.com/2025/11/07/build-a-multi-agent-system-for-integrated-transcriptomic-proteomic-and-metabolomic-data-interpretation-with-pathway-reasoning/"
+      "publishedAt": "2025-11-08T10:32:59.000Z",
+      "ranking": 8.061538461538461,
+      "articleUrl": "https://www.marktechpost.com/2025/11/08/how-to-build-an-advanced-multi-page-reflex-web-application-with-real-time-database-dynamic-state-management-and-reactive-ui/"
+    },
+    {
+      "id": "213",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "TabPFN-2.5",
+      "mediumTitle": "Prior Labs Updates Tabular Model",
+      "longTitle": "Prior Labs Releases TabPFN-2.5 for Larger Datasets",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Prior Labs has released TabPFN-2.5, an",
+            "updated version of their tabular",
+            "foundation model.",
+            "This new iteration significantly",
+            "enhances the model\u0027s capabilities by",
+            "enabling it to handle larger datasets",
+            "and more complex features.",
+            "Specifically, TabPFN-2.5 can now scale",
+            "its context learning to accommodate up",
+            "to 50,000 samples and 2,000 features.",
+            "The development of TabPFN-2.5 aims to",
+            "provide these industries with a more",
+            "powerful and efficient tool for",
+            "analyzing and deriving insights from",
+            "their tabular datasets, while",
+            "maintaining speed and performance."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-08T11:44:44.000Z",
+      "ranking": 7.666666666666667,
+      "articleUrl": "https://www.marktechpost.com/2025/11/08/prior-labs-releases-tabpfn-2-5-the-latest-version-of-tabpfn-that-unlocks-scale-and-speed-for-tabular-foundation-models/"
     },
     {
       "id": "210",
@@ -107,6 +140,42 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/07/google-extends-its-agent-development-kit-adk-to-go-bringing-native-agentic-workflows-to-backend-teams/"
     },
     {
+      "id": "205",
+      "topic": "Science",
+      "source": "Marktechpost AI",
+      "shortTitle": "Omics AI",
+      "mediumTitle": "Multi-Agent Omics Data Interpretation",
+      "longTitle": "Sophisticated Multi-Agent System for Integrated Omics Data Interpretation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This tutorial details the construction",
+            "of a sophisticated multi-agent system",
+            "designed for the integrated",
+            "interpretation of omics data,",
+            "specifically transcriptomics,",
+            "proteomics, and metabolomics, with the",
+            "aim of revealing significant biological",
+            "insights.",
+            "The ultimate goal of this multi-agent",
+            "pipeline is to leverage the combined",
+            "power of these different omics layers",
+            "and analytical techniques to provide a",
+            "more comprehensive understanding of",
+            "biological systems.",
+            "These agents are engineered to perform",
+            "distinct analytical tasks, including",
+            "statistical analysis, network inference,",
+            "pathway enrichment, and drug",
+            "repurposing."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-07T09:43:02.000Z",
+      "ranking": 6.798422117195749,
+      "articleUrl": "https://www.marktechpost.com/2025/11/07/build-a-multi-agent-system-for-integrated-transcriptomic-proteomic-and-metabolomic-data-interpretation-with-pathway-reasoning/"
+    },
+    {
       "id": "206",
       "topic": "Business",
       "source": "The Verge AI",
@@ -137,7 +206,7 @@
         }
       ],
       "publishedAt": "2025-11-07T10:10:27.000Z",
-      "ranking": 7.57,
+      "ranking": 6.409800155817855,
       "articleUrl": "https://www.theverge.com/podcast/816270/ibook-cheap-mac-ai-shopping-comet-vergecast"
     },
     {
@@ -173,7 +242,7 @@
         }
       ],
       "publishedAt": "2025-11-07T06:00:00.000Z",
-      "ranking": 6.748981755041301,
+      "ranking": 6.357952452466969,
       "articleUrl": "https://venturebeat.com/data-infrastructure/ship-fast-optimize-later-top-ai-engineers-dont-care-about-cost-theyre"
     },
     {
@@ -207,7 +276,7 @@
         }
       ],
       "publishedAt": "2025-11-07T01:00:00.000Z",
-      "ranking": 6.681020082457702,
+      "ranking": 6.220202181941614,
       "articleUrl": "https://venturebeat.com/ai/nyus-new-ai-architecture-makes-high-quality-image-generation-faster-and"
     },
     {
@@ -240,7 +309,7 @@
         }
       ],
       "publishedAt": "2025-11-07T03:19:24.000Z",
-      "ranking": 6.643201603683597,
+      "ranking": 6.214812135027817,
       "articleUrl": "https://www.marktechpost.com/2025/11/06/moonshot-ai-releases-kimi-k2-thinking-an-impressive-thinking-model-that-can-execute-up-to-200-300-sequential-tool-calls-without-human-interference/"
     },
     {
@@ -276,7 +345,7 @@
         }
       ],
       "publishedAt": "2025-11-06T23:03:23.000Z",
-      "ranking": 6.236645947884112,
+      "ranking": 5.748699665663521,
       "articleUrl": "https://www.marktechpost.com/2025/11/06/google-ai-introduces-ds-star-a-multi-agent-data-science-system-that-plans-codes-and-verifies-end-to-end-analytics/"
     },
     {
@@ -310,7 +379,7 @@
         }
       ],
       "publishedAt": "2025-11-06T17:55:13.000Z",
-      "ranking": 5.071290351681402,
+      "ranking": 4.511655672794058,
       "articleUrl": "https://www.theverge.com/news/815892/tesla-shareholder-vote-elon-musk-pay-trillion-robot"
     },
     {
@@ -347,7 +416,7 @@
         }
       ],
       "publishedAt": "2025-11-06T11:13:17.000Z",
-      "ranking": 4.744714924043713,
+      "ranking": 4.091579033528429,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814876/ilya-sutskever-deposition-openai-sam-altman-elon-musk-lawsuit"
     },
     {
@@ -382,7 +451,7 @@
         }
       ],
       "publishedAt": "2025-11-06T11:30:00.000Z",
-      "ranking": 4.691237487387329,
+      "ranking": 4.041990371118265,
       "articleUrl": "https://www.theverge.com/podcast/815434/ai-education-schools-research-cheating-chatgpt-jobs-grades"
     },
     {
@@ -415,7 +484,7 @@
         }
       ],
       "publishedAt": "2025-11-06T13:00:00.000Z",
-      "ranking": 4.649129989848239,
+      "ranking": 4.020819449840183,
       "articleUrl": "https://www.theverge.com/news/815300/google-finance-gets-ai-deep-search"
     },
     {
@@ -451,7 +520,7 @@
         }
       ],
       "publishedAt": "2025-11-06T17:17:59.000Z",
-      "ranking": 4.562722262771365,
+      "ranking": 3.9944260364869915,
       "articleUrl": "https://www.theverge.com/news/815987/amazon-kindle-translate-ai-ebook-translation"
     },
     {
@@ -488,7 +557,7 @@
         }
       ],
       "publishedAt": "2025-11-06T19:27:00.000Z",
-      "ranking": 4.336710994426445,
+      "ranking": 3.7984277395472814,
       "articleUrl": "https://venturebeat.com/ai/moonshots-kimi-k2-thinking-emerges-as-leading-open-source-ai-outperforming"
     },
     {
@@ -522,7 +591,7 @@
         }
       ],
       "publishedAt": "2025-11-06T12:51:08.000Z",
-      "ranking": 4.280358597419183,
+      "ranking": 3.6499854109524716,
       "articleUrl": "https://www.theverge.com/news/815619/microsoft-ai-humanist-superintelligence"
     },
     {
@@ -556,7 +625,7 @@
         }
       ],
       "publishedAt": "2025-11-06T14:00:00.000Z",
-      "ranking": 4.0402894561297416,
+      "ranking": 3.4259366283974675,
       "articleUrl": "https://venturebeat.com/ai/google-debuts-ai-chips-with-4x-performance-boost-secures-anthropic-megadeal"
     },
     {
@@ -591,7 +660,7 @@
         }
       ],
       "publishedAt": "2025-11-06T10:49:46.000Z",
-      "ranking": 3.9860008530862108,
+      "ranking": 3.327394300614727,
       "articleUrl": "https://www.marktechpost.com/2025/11/06/cmu-researchers-introduce-ppp-and-userville-to-train-proactive-and-personalized-llm-agents/"
     },
     {
@@ -627,7 +696,7 @@
         }
       ],
       "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 3.5721246303879086,
+      "ranking": 2.8461100480428625,
       "articleUrl": "https://venturebeat.com/ai/why-googles-file-search-could-displace-diy-rag-stacks-in-the-enterprise"
     },
     {
@@ -659,7 +728,7 @@
         }
       ],
       "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 3.4025412912524455,
+      "ranking": 2.676526706731851,
       "articleUrl": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise"
     },
     {
@@ -696,7 +765,7 @@
         }
       ],
       "publishedAt": "2025-11-06T06:03:50.000Z",
-      "ranking": 3.1335135716257243,
+      "ranking": 2.4083907290242053,
       "articleUrl": "https://www.theverge.com/news/815286/tinder-ai-chemistry-camera-roll-feature-test"
     },
     {
@@ -730,7 +799,7 @@
         }
       ],
       "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 2.8421246059929306,
+      "ranking": 2.1161100230676784,
       "articleUrl": "https://venturebeat.com/ai/the-compute-rethink-scaling-ai-where-data-lives-at-the-edge"
     },
     {
@@ -767,7 +836,7 @@
         }
       ],
       "publishedAt": "2025-11-06T09:15:35.000Z",
-      "ranking": 2.5063284014121683,
+      "ranking": 1.825812104851419,
       "articleUrl": "https://www.theverge.com/news/815328/beebot-app-foursquare-founder-ai-audio-updates"
     },
     {
@@ -802,7 +871,7 @@
         }
       ],
       "publishedAt": "2025-11-05T18:44:00.000Z",
-      "ranking": 1.501232507660605,
+      "ranking": 0.6179609513716198,
       "articleUrl": "https://venturebeat.com/ai/the-agent-builder-arms-race-continues-as-google-cloud-pushes-deeper-into"
     },
     {
@@ -836,7 +905,7 @@
         }
       ],
       "publishedAt": "2025-11-05T18:09:51.000Z",
-      "ranking": 1.4105322012544024,
+      "ranking": 0.5193163742695868,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized"
     },
     {
@@ -870,7 +939,7 @@
         }
       ],
       "publishedAt": "2025-11-05T16:32:08.000Z",
-      "ranking": 1.1369908502681572,
+      "ranking": 0.22304331828996293,
       "articleUrl": "https://www.marktechpost.com/2025/11/05/google-ai-introduces-consistency-training-for-safer-language-models-under-sycophantic-and-jailbreak-style-prompts/"
     },
     {
@@ -904,7 +973,7 @@
         }
       ],
       "publishedAt": "2025-11-05T18:37:16.000Z",
-      "ranking": 0.8582877117652981,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/05/openai-introduces-indqa-a-culture-aware-benchmark-for-indian-languages/"
     },
     {
@@ -940,7 +1009,7 @@
         }
       ],
       "publishedAt": "2025-11-05T16:12:33.000Z",
-      "ranking": 0.2507724389844155,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/814654/apple-intelligence-google-gemini-ai-siri"
     },
     {
@@ -1548,74 +1617,6 @@
       "publishedAt": "2025-11-04T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/813102/amazon-music-alexa-plus-ai-integration"
-    },
-    {
-      "id": "161",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "LLM C2C Comms",
-      "mediumTitle": "Cache-to-Cache LLM Collaboration",
-      "longTitle": "Cache-to-Cache: A Novel LLM Communication Paradigm",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Cache-to-Cache (C2C) is a novel",
-            "communication paradigm that enables",
-            "large language models (LLMs) to",
-            "collaborate without exchanging textual",
-            "tokens.",
-            "Developed by a research team from",
-            "Tsinghua University, Infinigence AI, The",
-            "Chinese University of Hong Kong,",
-            "Shanghai AI Laboratory, and Shanghai",
-            "Jiao Tong University, C2C facilitates",
-            "direct semantic communication by",
-            "leveraging the KV-Cache of LLMs.",
-            "C2C proposes an alternative approach",
-            "where LLMs can directly share and fuse",
-            "their internal representations stored in",
-            "the KV-Cache."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T09:32:23.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/04/cache-to-cachec2c-direct-semantic-communication-between-large-language-models-via-kv-cache-fusion/"
-    },
-    {
-      "id": "163",
-      "topic": "Education",
-      "source": "The Verge AI",
-      "shortTitle": "AI Targets Students",
-      "mediumTitle": "AI Companies Court Students for Future Growth",
-      "longTitle": "AI Companies Strategically Target Students for Future Market Dominance",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Tech companies are actively targeting",
-            "students with their AI agents,",
-            "recognizing them as crucial for future",
-            "business growth.",
-            "Companies are likely choosing not to",
-            "actively discourage AI use for cheating",
-            "because the benefits of hooking students",
-            "outweigh the perceived risks of academic",
-            "misconduct.",
-            "This proactive approach suggests that AI",
-            "companies are not only aware of but also",
-            "implicitly condone the use of their AI",
-            "tools by students, even when that use",
-            "might involve academic dishonesty.",
-            "The AI industry\u0027s business model is",
-            "intrinsically linked to the future",
-            "adoption and integration of AI by",
-            "younger generations."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T09:20:33.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students"
     }
   ]
 }
