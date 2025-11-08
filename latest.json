@@ -208,7 +208,7 @@
         }
       ],
       "publishedAt": "2025-11-07T09:43:02.000Z",
-      "ranking": 6.405396330572054,
+      "ranking": 5.958940707566765,
       "articleUrl": "https://www.marktechpost.com/2025/11/07/build-a-multi-agent-system-for-integrated-transcriptomic-proteomic-and-metabolomic-data-interpretation-with-pathway-reasoning/"
     },
     {
@@ -242,7 +242,7 @@
         }
       ],
       "publishedAt": "2025-11-07T10:10:27.000Z",
-      "ranking": 6.023118708244524,
+      "ranking": 5.582979590955726,
       "articleUrl": "https://www.theverge.com/podcast/816270/ibook-cheap-mac-ai-shopping-comet-vergecast"
     },
     {
@@ -278,7 +278,7 @@
         }
       ],
       "publishedAt": "2025-11-07T06:00:00.000Z",
-      "ranking": 5.913315803322563,
+      "ranking": 5.4154756893171445,
       "articleUrl": "https://venturebeat.com/data-infrastructure/ship-fast-optimize-later-top-ai-engineers-dont-care-about-cost-theyre"
     },
     {
@@ -311,7 +311,7 @@
         }
       ],
       "publishedAt": "2025-11-07T03:19:24.000Z",
-      "ranking": 5.733011964562103,
+      "ranking": 5.198171330630364,
       "articleUrl": "https://www.marktechpost.com/2025/11/06/moonshot-ai-releases-kimi-k2-thinking-an-impressive-thinking-model-that-can-execute-up-to-200-300-sequential-tool-calls-without-human-interference/"
     },
     {
@@ -345,7 +345,7 @@
         }
       ],
       "publishedAt": "2025-11-07T01:00:00.000Z",
-      "ranking": 5.706144241248603,
+      "ranking": 5.139187335976763,
       "articleUrl": "https://venturebeat.com/ai/nyus-new-ai-architecture-makes-high-quality-image-generation-faster-and"
     },
     {
@@ -381,7 +381,7 @@
         }
       ],
       "publishedAt": "2025-11-06T23:03:23.000Z",
-      "ranking": 5.207656134561976,
+      "ranking": 4.613831996206542,
       "articleUrl": "https://www.marktechpost.com/2025/11/06/google-ai-introduces-ds-star-a-multi-agent-data-science-system-that-plans-codes-and-verifies-end-to-end-analytics/"
     },
     {
@@ -415,8 +415,44 @@
         }
       ],
       "publishedAt": "2025-11-06T17:55:13.000Z",
-      "ranking": 3.8993010516791093,
+      "ranking": 3.2344786130375507,
       "articleUrl": "https://www.theverge.com/news/815892/tesla-shareholder-vote-elon-musk-pay-trillion-robot"
+    },
+    {
+      "id": "200",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Kindle Translate",
+      "mediumTitle": "Amazon\u0027s AI for Global Authors",
+      "longTitle": "Amazon Launches Kindle Translate to Aid Self-Published Authors",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon has launched Kindle Translate, a",
+            "new AI-powered translation tool designed",
+            "to assist self-published authors in",
+            "expanding their reach to a global",
+            "audience.",
+            "This tool, currently in beta and",
+            "available to a select group of Kindle",
+            "Direct Publishing (KDP) authors, aims to",
+            "simplify the process of making ebooks",
+            "available in multiple languages.",
+            "In its initial phase, Kindle Translate",
+            "supports translations between English",
+            "and Spanish, and from German to English.",
+            "The tool leverages artificial",
+            "intelligence to automate the translation",
+            "process, which can be a significant",
+            "hurdle for independent authors who may",
+            "not have the resources for professional",
+            "human translation services."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T17:17:59.000Z",
+      "ranking": 2.7000548851461783,
+      "articleUrl": "https://www.theverge.com/news/815987/amazon-kindle-translate-ai-ebook-translation"
     },
     {
       "id": "198",
@@ -452,44 +488,41 @@
         }
       ],
       "publishedAt": "2025-11-06T11:13:17.000Z",
-      "ranking": 3.3862153142227207,
+      "ranking": 2.628791734033242,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814876/ilya-sutskever-deposition-openai-sam-altman-elon-musk-lawsuit"
     },
     {
-      "id": "200",
-      "topic": "Generative AI",
+      "id": "195",
+      "topic": "Finance",
       "source": "The Verge AI",
-      "shortTitle": "Kindle Translate",
-      "mediumTitle": "Amazon\u0027s AI for Global Authors",
-      "longTitle": "Amazon Launches Kindle Translate to Aid Self-Published Authors",
+      "shortTitle": "Google Finance AI",
+      "mediumTitle": "Google Finance Integrates Gemini AI",
+      "longTitle": "Google Finance Enhances Trader Tools with Gemini AI and Deep Search",
       "paragraphs": [
         {
           "Lines": [
-            "Amazon has launched Kindle Translate, a",
-            "new AI-powered translation tool designed",
-            "to assist self-published authors in",
-            "expanding their reach to a global",
-            "audience.",
-            "This tool, currently in beta and",
-            "available to a select group of Kindle",
-            "Direct Publishing (KDP) authors, aims to",
-            "simplify the process of making ebooks",
-            "available in multiple languages.",
-            "In its initial phase, Kindle Translate",
-            "supports translations between English",
-            "and Spanish, and from German to English.",
-            "The tool leverages artificial",
-            "intelligence to automate the translation",
-            "process, which can be a significant",
-            "hurdle for independent authors who may",
-            "not have the resources for professional",
-            "human translation services."
+            "Google Finance is integrating Gemini AI",
+            "tools to enhance its offerings for stock",
+            "traders.",
+            "A key new feature is \u0022Deep Search,\u0022",
+            "designed to provide more detailed and",
+            "nuanced responses from the AI chatbot.",
+            "The emphasis on \u0022turbocharging\u0022 the AI",
+            "chatbot with Deep Search highlights a",
+            "commitment to improving the depth and",
+            "accuracy of the information traders can",
+            "access.",
+            "This upgrade aims to empower traders",
+            "with more sophisticated information",
+            "retrieval capabilities, allowing them to",
+            "ask more complex queries and receive",
+            "more in-depth answers."
           ]
         }
       ],
-      "publishedAt": "2025-11-06T17:17:59.000Z",
-      "ranking": 3.3734554767365035,
-      "articleUrl": "https://www.theverge.com/news/815987/amazon-kindle-translate-ai-ebook-translation"
+      "publishedAt": "2025-11-06T13:00:00.000Z",
+      "ranking": 2.607313231770263,
+      "articleUrl": "https://www.theverge.com/news/815300/google-finance-gets-ai-deep-search"
     },
     {
       "id": "197",
@@ -523,41 +556,8 @@
         }
       ],
       "publishedAt": "2025-11-06T11:30:00.000Z",
-      "ranking": 3.3404949419624534,
+      "ranking": 2.5869227144229,
       "articleUrl": "https://www.theverge.com/podcast/815434/ai-education-schools-research-cheating-chatgpt-jobs-grades"
-    },
-    {
-      "id": "195",
-      "topic": "Finance",
-      "source": "The Verge AI",
-      "shortTitle": "Google Finance AI",
-      "mediumTitle": "Google Finance Integrates Gemini AI",
-      "longTitle": "Google Finance Enhances Trader Tools with Gemini AI and Deep Search",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google Finance is integrating Gemini AI",
-            "tools to enhance its offerings for stock",
-            "traders.",
-            "A key new feature is \u0022Deep Search,\u0022",
-            "designed to provide more detailed and",
-            "nuanced responses from the AI chatbot.",
-            "The emphasis on \u0022turbocharging\u0022 the AI",
-            "chatbot with Deep Search highlights a",
-            "commitment to improving the depth and",
-            "accuracy of the information traders can",
-            "access.",
-            "This upgrade aims to empower traders",
-            "with more sophisticated information",
-            "retrieval capabilities, allowing them to",
-            "ask more complex queries and receive",
-            "more in-depth answers."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T13:00:00.000Z",
-      "ranking": 3.3401504054473845,
-      "articleUrl": "https://www.theverge.com/news/815300/google-finance-gets-ai-deep-search"
     },
     {
       "id": "193",
@@ -593,7 +593,7 @@
         }
       ],
       "publishedAt": "2025-11-06T19:27:00.000Z",
-      "ranking": 3.2073121641052578,
+      "ranking": 2.5636356355328713,
       "articleUrl": "https://venturebeat.com/ai/moonshots-kimi-k2-thinking-emerges-as-leading-open-source-ai-outperforming"
     },
     {
@@ -627,7 +627,7 @@
         }
       ],
       "publishedAt": "2025-11-06T12:51:08.000Z",
-      "ranking": 2.9672645884007416,
+      "ranking": 2.2323846211486247,
       "articleUrl": "https://www.theverge.com/news/815619/microsoft-ai-humanist-superintelligence"
     },
     {
@@ -661,7 +661,7 @@
         }
       ],
       "publishedAt": "2025-11-06T14:00:00.000Z",
-      "ranking": 2.7591518477798997,
+      "ranking": 2.040138022931105,
       "articleUrl": "https://venturebeat.com/ai/google-debuts-ai-chips-with-4x-performance-boost-secures-anthropic-megadeal"
     },
     {
@@ -696,7 +696,7 @@
         }
       ],
       "publishedAt": "2025-11-06T10:49:46.000Z",
-      "ranking": 2.616588707985298,
+      "ranking": 1.8537471628824846,
       "articleUrl": "https://www.marktechpost.com/2025/11/06/cmu-researchers-introduce-ppp-and-userville-to-train-proactive-and-personalized-llm-agents/"
     },
     {
@@ -732,7 +732,7 @@
         }
       ],
       "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 2.068251204423631,
+      "ranking": 1.2386505241023702,
       "articleUrl": "https://venturebeat.com/ai/why-googles-file-search-could-displace-diy-rag-stacks-in-the-enterprise"
     },
     {
@@ -764,7 +764,7 @@
         }
       ],
       "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 1.8986678648502684,
+      "ranking": 1.0690671834250827,
       "articleUrl": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise"
     },
     {
@@ -801,7 +801,7 @@
         }
       ],
       "publishedAt": "2025-11-06T06:03:50.000Z",
-      "ranking": 1.63141893638071,
+      "ranking": 0.8027014144731597,
       "articleUrl": "https://www.theverge.com/news/815286/tinder-ai-chemistry-camera-roll-feature-test"
     },
     {
@@ -835,7 +835,7 @@
         }
       ],
       "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 1.3382511803197792,
+      "ranking": 0.5086504997800079,
       "articleUrl": "https://venturebeat.com/ai/the-compute-rethink-scaling-ai-where-data-lives-at-the-edge"
     },
     {
@@ -872,7 +872,7 @@
         }
       ],
       "publishedAt": "2025-11-06T09:15:35.000Z",
-      "ranking": 1.0932120838295933,
+      "ranking": 0.3086717094815725,
       "articleUrl": "https://www.theverge.com/news/815328/beebot-app-foursquare-founder-ai-audio-updates"
     },
     {
@@ -1228,42 +1228,6 @@
       "articleUrl": "https://www.theverge.com/news/814042/getty-lawsuit-stability-ai-copyright-ruling-uk"
     },
     {
-      "id": "180",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI in IT Observability",
-      "mediumTitle": "AI Revolutionizes IT Incident Diagnosis",
-      "longTitle": "AI-Driven Observability Transforms IT Incident Resolution",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A significant breakthrough in IT",
-            "observability, driven by Artificial",
-            "Intelligence (AI), aims to transform how",
-            "organizations diagnose and resolve",
-            "network incidents.",
-            "Elastic, the Search AI Company, has",
-            "introduced a new feature called Streams,",
-            "designed to make logs the primary tool",
-            "for investigations.",
-            "Streams enables logs to be used",
-            "proactively, generating information-rich",
-            "alerts that allow teams to jump directly",
-            "to problem-solving, potentially offering",
-            "automated remediation before notifying",
-            "the team.",
-            "Streams utilizes AI to automatically",
-            "partition and parse raw logs, extracting",
-            "relevant fields and reducing the effort",
-            "required to make them usable."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/from-logs-to-insights-the-ai-breakthrough-redefining-observability"
-    },
-    {
       "id": "185",
       "topic": "Business",
       "source": "VentureBeat AI",
@@ -1299,6 +1263,42 @@
       "publishedAt": "2025-11-05T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/ais-capacity-crunch-latency-risk-escalating-costs-and-the-coming-surge"
+    },
+    {
+      "id": "180",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI in IT Observability",
+      "mediumTitle": "AI Revolutionizes IT Incident Diagnosis",
+      "longTitle": "AI-Driven Observability Transforms IT Incident Resolution",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A significant breakthrough in IT",
+            "observability, driven by Artificial",
+            "Intelligence (AI), aims to transform how",
+            "organizations diagnose and resolve",
+            "network incidents.",
+            "Elastic, the Search AI Company, has",
+            "introduced a new feature called Streams,",
+            "designed to make logs the primary tool",
+            "for investigations.",
+            "Streams enables logs to be used",
+            "proactively, generating information-rich",
+            "alerts that allow teams to jump directly",
+            "to problem-solving, potentially offering",
+            "automated remediation before notifying",
+            "the team.",
+            "Streams utilizes AI to automatically",
+            "partition and parse raw logs, extracting",
+            "relevant fields and reducing the effort",
+            "required to make them usable."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/from-logs-to-insights-the-ai-breakthrough-redefining-observability"
     },
     {
       "id": "175",
