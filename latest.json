@@ -1,78 +1,6 @@
 {
   "articles": [
     {
-      "id": "215",
-      "topic": "Energy",
-      "source": "The Verge AI",
-      "shortTitle": "Energy Costs Sway Votes",
-      "mediumTitle": "Rising Electricity Rates Impact Elections",
-      "longTitle": "Voter Concerns Over Soaring Electricity Rates Influence Recent Election Outcomes",
-      "paragraphs": [
-        {
-          "Lines": [
-            "However, the true test of their",
-            "leadership and policy effectiveness will",
-            "be their ability to implement solutions",
-            "that address the root causes of soaring",
-            "electricity rates and ensure a stable",
-            "and affordable energy future.",
-            "Soaring electricity rates have emerged",
-            "as a significant concern for voters,",
-            "influencing recent Democratic victories",
-            "in New Jersey, Virginia, and Georgia.",
-            "The \u0027hard part\u0027 is the transition from",
-            "electoral victory to effective",
-            "governance and problem-solving in the",
-            "energy sector.",
-            "This suggests that the \u0027hard part\u0027",
-            "refers to the policy implementation and",
-            "infrastructure improvements required to",
-            "stabilize and potentially lower energy",
-            "costs for consumers."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-08T09:00:00.000Z",
-      "ranking": 8.215384615384615,
-      "articleUrl": "https://www.theverge.com/report/816946/electricity-rates-election-democrats"
-    },
-    {
-      "id": "214",
-      "topic": "Dev Tools",
-      "source": "Marktechpost AI",
-      "shortTitle": "Python Web App",
-      "mediumTitle": "Reflex Python Web App Tutorial",
-      "longTitle": "Building a Multi-Page Web App with Reflex in Python",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This article details the construction of",
-            "an advanced, multi-page web application",
-            "using the Reflex framework, entirely",
-            "within Python and designed to run",
-            "seamlessly in Google Colab.",
-            "The core premise is to showcase Reflex\u0027s",
-            "capability for full-stack development",
-            "without requiring any JavaScript,",
-            "relying solely on reactive Python code.",
-            "The tutorial aims to provide a practical",
-            "guide for developers looking to build",
-            "complex, interactive web applications",
-            "using a familiar Python environment,",
-            "eliminating the need for separate",
-            "front-end and back-end languages.",
-            "A key aspect of the application is its",
-            "real-time database interaction, allowing",
-            "for dynamic updates and data",
-            "persistence."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-08T10:32:59.000Z",
-      "ranking": 8.061538461538461,
-      "articleUrl": "https://www.marktechpost.com/2025/11/08/how-to-build-an-advanced-multi-page-reflex-web-application-with-real-time-database-dynamic-state-management-and-reactive-ui/"
-    },
-    {
       "id": "218",
       "topic": "Speech",
       "source": "Marktechpost AI",
@@ -110,37 +38,76 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/08/how-to-build-an-agentic-voice-ai-assistant-that-understands-reasons-plans-and-responds-through-autonomous-multi-step-intelligence/"
     },
     {
-      "id": "213",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "TabPFN-2.5",
-      "mediumTitle": "Prior Labs Updates Tabular Model",
-      "longTitle": "Prior Labs Releases TabPFN-2.5 for Larger Datasets",
+      "id": "215",
+      "topic": "Energy",
+      "source": "The Verge AI",
+      "shortTitle": "Energy Costs Sway Votes",
+      "mediumTitle": "Rising Electricity Rates Impact Elections",
+      "longTitle": "Voter Concerns Over Soaring Electricity Rates Influence Recent Election Outcomes",
       "paragraphs": [
         {
           "Lines": [
-            "Prior Labs has released TabPFN-2.5, an",
-            "updated version of their tabular",
-            "foundation model.",
-            "This new iteration significantly",
-            "enhances the model\u0027s capabilities by",
-            "enabling it to handle larger datasets",
-            "and more complex features.",
-            "Specifically, TabPFN-2.5 can now scale",
-            "its context learning to accommodate up",
-            "to 50,000 samples and 2,000 features.",
-            "The development of TabPFN-2.5 aims to",
-            "provide these industries with a more",
-            "powerful and efficient tool for",
-            "analyzing and deriving insights from",
-            "their tabular datasets, while",
-            "maintaining speed and performance."
+            "However, the true test of their",
+            "leadership and policy effectiveness will",
+            "be their ability to implement solutions",
+            "that address the root causes of soaring",
+            "electricity rates and ensure a stable",
+            "and affordable energy future.",
+            "Soaring electricity rates have emerged",
+            "as a significant concern for voters,",
+            "influencing recent Democratic victories",
+            "in New Jersey, Virginia, and Georgia.",
+            "The \u0027hard part\u0027 is the transition from",
+            "electoral victory to effective",
+            "governance and problem-solving in the",
+            "energy sector.",
+            "This suggests that the \u0027hard part\u0027",
+            "refers to the policy implementation and",
+            "infrastructure improvements required to",
+            "stabilize and potentially lower energy",
+            "costs for consumers."
           ]
         }
       ],
-      "publishedAt": "2025-11-08T11:44:44.000Z",
-      "ranking": 7.666666666666667,
-      "articleUrl": "https://www.marktechpost.com/2025/11/08/prior-labs-releases-tabpfn-2-5-the-latest-version-of-tabpfn-that-unlocks-scale-and-speed-for-tabular-foundation-models/"
+      "publishedAt": "2025-11-08T09:00:00.000Z",
+      "ranking": 6.949211741485641,
+      "articleUrl": "https://www.theverge.com/report/816946/electricity-rates-election-democrats"
+    },
+    {
+      "id": "214",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "Python Web App",
+      "mediumTitle": "Reflex Python Web App Tutorial",
+      "longTitle": "Building a Multi-Page Web App with Reflex in Python",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This article details the construction of",
+            "an advanced, multi-page web application",
+            "using the Reflex framework, entirely",
+            "within Python and designed to run",
+            "seamlessly in Google Colab.",
+            "The core premise is to showcase Reflex\u0027s",
+            "capability for full-stack development",
+            "without requiring any JavaScript,",
+            "relying solely on reactive Python code.",
+            "The tutorial aims to provide a practical",
+            "guide for developers looking to build",
+            "complex, interactive web applications",
+            "using a familiar Python environment,",
+            "eliminating the need for separate",
+            "front-end and back-end languages.",
+            "A key aspect of the application is its",
+            "real-time database interaction, allowing",
+            "for dynamic updates and data",
+            "persistence."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-08T10:32:59.000Z",
+      "ranking": 6.936513968369811,
+      "articleUrl": "https://www.marktechpost.com/2025/11/08/how-to-build-an-advanced-multi-page-reflex-web-application-with-real-time-database-dynamic-state-management-and-reactive-ui/"
     },
     {
       "id": "216",
@@ -175,8 +142,41 @@
         }
       ],
       "publishedAt": "2025-11-08T06:00:00.000Z",
-      "ranking": 7.145708345488601,
+      "ranking": 6.7583198139346035,
       "articleUrl": "https://venturebeat.com/ai/what-could-possibly-go-wrong-if-an-enterprise-replaces-all-its-engineers"
+    },
+    {
+      "id": "213",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "TabPFN-2.5",
+      "mediumTitle": "Prior Labs Updates Tabular Model",
+      "longTitle": "Prior Labs Releases TabPFN-2.5 for Larger Datasets",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Prior Labs has released TabPFN-2.5, an",
+            "updated version of their tabular",
+            "foundation model.",
+            "This new iteration significantly",
+            "enhances the model\u0027s capabilities by",
+            "enabling it to handle larger datasets",
+            "and more complex features.",
+            "Specifically, TabPFN-2.5 can now scale",
+            "its context learning to accommodate up",
+            "to 50,000 samples and 2,000 features.",
+            "The development of TabPFN-2.5 aims to",
+            "provide these industries with a more",
+            "powerful and efficient tool for",
+            "analyzing and deriving insights from",
+            "their tabular datasets, while",
+            "maintaining speed and performance."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-08T11:44:44.000Z",
+      "ranking": 6.644858380174581,
+      "articleUrl": "https://www.marktechpost.com/2025/11/08/prior-labs-releases-tabpfn-2-5-the-latest-version-of-tabpfn-that-unlocks-scale-and-speed-for-tabular-foundation-models/"
     },
     {
       "id": "211",
@@ -211,7 +211,7 @@
         }
       ],
       "publishedAt": "2025-11-08T00:25:00.000Z",
-      "ranking": 6.7323219407450505,
+      "ranking": 6.267726539246109,
       "articleUrl": "https://venturebeat.com/ai/terminal-bench-2-0-launches-alongside-harbor-a-new-framework-for-testing"
     },
     {
@@ -245,7 +245,7 @@
         }
       ],
       "publishedAt": "2025-11-07T23:08:43.000Z",
-      "ranking": 5.714228932411432,
+      "ranking": 5.232052643426297,
       "articleUrl": "https://www.marktechpost.com/2025/11/07/google-extends-its-agent-development-kit-adk-to-go-bringing-native-agentic-workflows-to-backend-teams/"
     },
     {
@@ -281,7 +281,7 @@
         }
       ],
       "publishedAt": "2025-11-07T09:43:02.000Z",
-      "ranking": 4.277330436243762,
+      "ranking": 3.609469714128238,
       "articleUrl": "https://www.marktechpost.com/2025/11/07/build-a-multi-agent-system-for-integrated-transcriptomic-proteomic-and-metabolomic-data-interpretation-with-pathway-reasoning/"
     },
     {
@@ -315,7 +315,7 @@
         }
       ],
       "publishedAt": "2025-11-07T10:10:27.000Z",
-      "ranking": 3.9204378235203374,
+      "ranking": 3.2588957719217513,
       "articleUrl": "https://www.theverge.com/podcast/816270/ibook-cheap-mac-ai-shopping-comet-vergecast"
     },
     {
@@ -351,7 +351,7 @@
         }
       ],
       "publishedAt": "2025-11-07T06:00:00.000Z",
-      "ranking": 3.5787439901787534,
+      "ranking": 2.859481164696432,
       "articleUrl": "https://venturebeat.com/data-infrastructure/ship-fast-optimize-later-top-ai-engineers-dont-care-about-cost-theyre"
     },
     {
@@ -384,7 +384,7 @@
         }
       ],
       "publishedAt": "2025-11-07T03:19:24.000Z",
-      "ranking": 3.249741077694991,
+      "ranking": 2.4934650496030812,
       "articleUrl": "https://www.marktechpost.com/2025/11/06/moonshot-ai-releases-kimi-k2-thinking-an-impressive-thinking-model-that-can-execute-up-to-200-300-sequential-tool-calls-without-human-interference/"
     },
     {
@@ -418,7 +418,7 @@
         }
       ],
       "publishedAt": "2025-11-07T01:00:00.000Z",
-      "ranking": 3.0938032968350626,
+      "ranking": 2.305399994235498,
       "articleUrl": "https://venturebeat.com/ai/nyus-new-ai-architecture-makes-high-quality-image-generation-faster-and"
     },
     {
@@ -454,7 +454,7 @@
         }
       ],
       "publishedAt": "2025-11-06T23:03:23.000Z",
-      "ranking": 2.4873401561926762,
+      "ranking": 1.6720604128486256,
       "articleUrl": "https://www.marktechpost.com/2025/11/06/google-ai-introduces-ds-star-a-multi-agent-data-science-system-that-plans-codes-and-verifies-end-to-end-analytics/"
     },
     {
@@ -488,44 +488,8 @@
         }
       ],
       "publishedAt": "2025-11-06T17:55:13.000Z",
-      "ranking": 0.8936544528790353,
+      "ranking": 0.007352074376973938,
       "articleUrl": "https://www.theverge.com/news/815892/tesla-shareholder-vote-elon-musk-pay-trillion-robot"
-    },
-    {
-      "id": "200",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Kindle Translate",
-      "mediumTitle": "Amazon\u0027s AI for Global Authors",
-      "longTitle": "Amazon Launches Kindle Translate to Aid Self-Published Authors",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Amazon has launched Kindle Translate, a",
-            "new AI-powered translation tool designed",
-            "to assist self-published authors in",
-            "expanding their reach to a global",
-            "audience.",
-            "This tool, currently in beta and",
-            "available to a select group of Kindle",
-            "Direct Publishing (KDP) authors, aims to",
-            "simplify the process of making ebooks",
-            "available in multiple languages.",
-            "In its initial phase, Kindle Translate",
-            "supports translations between English",
-            "and Spanish, and from German to English.",
-            "The tool leverages artificial",
-            "intelligence to automate the translation",
-            "process, which can be a significant",
-            "hurdle for independent authors who may",
-            "not have the resources for professional",
-            "human translation services."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T17:17:59.000Z",
-      "ranking": 0.3333346478085977,
-      "articleUrl": "https://www.theverge.com/news/815987/amazon-kindle-translate-ai-ebook-translation"
     },
     {
       "id": "193",
@@ -561,78 +525,44 @@
         }
       ],
       "publishedAt": "2025-11-06T19:27:00.000Z",
-      "ranking": 0.28664751352267004,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/moonshots-kimi-k2-thinking-emerges-as-leading-open-source-ai-outperforming"
     },
     {
-      "id": "195",
-      "topic": "Finance",
+      "id": "200",
+      "topic": "Generative AI",
       "source": "The Verge AI",
-      "shortTitle": "Google Finance AI",
-      "mediumTitle": "Google Finance Integrates Gemini AI",
-      "longTitle": "Google Finance Enhances Trader Tools with Gemini AI and Deep Search",
+      "shortTitle": "Kindle Translate",
+      "mediumTitle": "Amazon\u0027s AI for Global Authors",
+      "longTitle": "Amazon Launches Kindle Translate to Aid Self-Published Authors",
       "paragraphs": [
         {
           "Lines": [
-            "Google Finance is integrating Gemini AI",
-            "tools to enhance its offerings for stock",
-            "traders.",
-            "A key new feature is \u0022Deep Search,\u0022",
-            "designed to provide more detailed and",
-            "nuanced responses from the AI chatbot.",
-            "The emphasis on \u0022turbocharging\u0022 the AI",
-            "chatbot with Deep Search highlights a",
-            "commitment to improving the depth and",
-            "accuracy of the information traders can",
-            "access.",
-            "This upgrade aims to empower traders",
-            "with more sophisticated information",
-            "retrieval capabilities, allowing them to",
-            "ask more complex queries and receive",
-            "more in-depth answers."
+            "Amazon has launched Kindle Translate, a",
+            "new AI-powered translation tool designed",
+            "to assist self-published authors in",
+            "expanding their reach to a global",
+            "audience.",
+            "This tool, currently in beta and",
+            "available to a select group of Kindle",
+            "Direct Publishing (KDP) authors, aims to",
+            "simplify the process of making ebooks",
+            "available in multiple languages.",
+            "In its initial phase, Kindle Translate",
+            "supports translations between English",
+            "and Spanish, and from German to English.",
+            "The tool leverages artificial",
+            "intelligence to automate the translation",
+            "process, which can be a significant",
+            "hurdle for independent authors who may",
+            "not have the resources for professional",
+            "human translation services."
           ]
         }
       ],
-      "publishedAt": "2025-11-06T13:00:00.000Z",
-      "ranking": 0.06116356810074919,
-      "articleUrl": "https://www.theverge.com/news/815300/google-finance-gets-ai-deep-search"
-    },
-    {
-      "id": "198",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "Altman Ouster",
-      "mediumTitle": "Altman\u0027s OpenAI Ouster: Safety Fears",
-      "longTitle": "Altman Ousted from OpenAI Amidst Safety Concerns and Lies",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Sam Altman was ousted from OpenAI in",
-            "November 2023 due to a disagreement over",
-            "AI development pace and safety, with new",
-            "testimony suggesting fears of",
-            "existential threats and alleged",
-            "deception.",
-            "He allegedly believed that OpenAI was",
-            "moving too quickly, potentially creating",
-            "an AI that could pose an existential",
-            "threat to humanity.",
-            "The testimony reportedly reveals that",
-            "Sutskever\u0027s decision to support Altman\u0027s",
-            "removal stemmed from a profound fear",
-            "regarding the safety implications of the",
-            "AI models being developed.",
-            "This alleged deception would have",
-            "further eroded trust and justified the",
-            "board\u0027s drastic action to remove Altman,",
-            "aiming to regain control and prioritize",
-            "safety over rapid expansion."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T11:13:17.000Z",
-      "ranking": 0.008419779447578435,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814876/ilya-sutskever-deposition-openai-sam-altman-elon-musk-lawsuit"
+      "publishedAt": "2025-11-06T17:17:59.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/815987/amazon-kindle-translate-ai-ebook-translation"
     },
     {
       "id": "190",
@@ -667,6 +597,39 @@
       "publishedAt": "2025-11-06T14:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/google-debuts-ai-chips-with-4x-performance-boost-secures-anthropic-megadeal"
+    },
+    {
+      "id": "195",
+      "topic": "Finance",
+      "source": "The Verge AI",
+      "shortTitle": "Google Finance AI",
+      "mediumTitle": "Google Finance Integrates Gemini AI",
+      "longTitle": "Google Finance Enhances Trader Tools with Gemini AI and Deep Search",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google Finance is integrating Gemini AI",
+            "tools to enhance its offerings for stock",
+            "traders.",
+            "A key new feature is \u0022Deep Search,\u0022",
+            "designed to provide more detailed and",
+            "nuanced responses from the AI chatbot.",
+            "The emphasis on \u0022turbocharging\u0022 the AI",
+            "chatbot with Deep Search highlights a",
+            "commitment to improving the depth and",
+            "accuracy of the information traders can",
+            "access.",
+            "This upgrade aims to empower traders",
+            "with more sophisticated information",
+            "retrieval capabilities, allowing them to",
+            "ask more complex queries and receive",
+            "more in-depth answers."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T13:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/815300/google-finance-gets-ai-deep-search"
     },
     {
       "id": "196",
@@ -736,6 +699,43 @@
       "publishedAt": "2025-11-06T11:30:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/podcast/815434/ai-education-schools-research-cheating-chatgpt-jobs-grades"
+    },
+    {
+      "id": "198",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "Altman Ouster",
+      "mediumTitle": "Altman\u0027s OpenAI Ouster: Safety Fears",
+      "longTitle": "Altman Ousted from OpenAI Amidst Safety Concerns and Lies",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Sam Altman was ousted from OpenAI in",
+            "November 2023 due to a disagreement over",
+            "AI development pace and safety, with new",
+            "testimony suggesting fears of",
+            "existential threats and alleged",
+            "deception.",
+            "He allegedly believed that OpenAI was",
+            "moving too quickly, potentially creating",
+            "an AI that could pose an existential",
+            "threat to humanity.",
+            "The testimony reportedly reveals that",
+            "Sutskever\u0027s decision to support Altman\u0027s",
+            "removal stemmed from a profound fear",
+            "regarding the safety implications of the",
+            "AI models being developed.",
+            "This alleged deception would have",
+            "further eroded trust and justified the",
+            "board\u0027s drastic action to remove Altman,",
+            "aiming to regain control and prioritize",
+            "safety over rapid expansion."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T11:13:17.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814876/ilya-sutskever-deposition-openai-sam-altman-elon-musk-lawsuit"
     },
     {
       "id": "189",
@@ -879,6 +879,40 @@
       "articleUrl": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise"
     },
     {
+      "id": "191",
+      "topic": "Hardware",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Moves to Edge",
+      "mediumTitle": "AI Processing Shifts to the Edge",
+      "longTitle": "The Compute Rethink: Scaling AI at the Edge",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article \u0027The compute rethink:",
+            "Scaling AI where data lives, at the",
+            "edge\u0027 discusses the significant shift of",
+            "Artificial Intelligence (AI) processing",
+            "from centralized cloud data centers to",
+            "the \u0027edge,\u0027 meaning directly on devices,",
+            "sensors, and networks where data is",
+            "generated.",
+            "This transition is driven by several key",
+            "factors: the need for reduced latency,",
+            "enhanced data privacy, and cost",
+            "optimization as companies increasingly",
+            "invest in AI.",
+            "By processing data locally, dependency",
+            "on the cloud is reduced, leading to",
+            "faster and safer real-time",
+            "decision-making."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/the-compute-rethink-scaling-ai-where-data-lives-at-the-edge"
+    },
+    {
       "id": "201",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -913,40 +947,6 @@
       "publishedAt": "2025-11-06T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/why-googles-file-search-could-displace-diy-rag-stacks-in-the-enterprise"
-    },
-    {
-      "id": "191",
-      "topic": "Hardware",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Moves to Edge",
-      "mediumTitle": "AI Processing Shifts to the Edge",
-      "longTitle": "The Compute Rethink: Scaling AI at the Edge",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article \u0027The compute rethink:",
-            "Scaling AI where data lives, at the",
-            "edge\u0027 discusses the significant shift of",
-            "Artificial Intelligence (AI) processing",
-            "from centralized cloud data centers to",
-            "the \u0027edge,\u0027 meaning directly on devices,",
-            "sensors, and networks where data is",
-            "generated.",
-            "This transition is driven by several key",
-            "factors: the need for reduced latency,",
-            "enhanced data privacy, and cost",
-            "optimization as companies increasingly",
-            "invest in AI.",
-            "By processing data locally, dependency",
-            "on the cloud is reduced, leading to",
-            "faster and safer real-time",
-            "decision-making."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/the-compute-rethink-scaling-ai-where-data-lives-at-the-edge"
     },
     {
       "id": "179",
@@ -1301,6 +1301,42 @@
       "articleUrl": "https://www.theverge.com/news/814042/getty-lawsuit-stability-ai-copyright-ruling-uk"
     },
     {
+      "id": "180",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI in IT Observability",
+      "mediumTitle": "AI Revolutionizes IT Incident Diagnosis",
+      "longTitle": "AI-Driven Observability Transforms IT Incident Resolution",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A significant breakthrough in IT",
+            "observability, driven by Artificial",
+            "Intelligence (AI), aims to transform how",
+            "organizations diagnose and resolve",
+            "network incidents.",
+            "Elastic, the Search AI Company, has",
+            "introduced a new feature called Streams,",
+            "designed to make logs the primary tool",
+            "for investigations.",
+            "Streams enables logs to be used",
+            "proactively, generating information-rich",
+            "alerts that allow teams to jump directly",
+            "to problem-solving, potentially offering",
+            "automated remediation before notifying",
+            "the team.",
+            "Streams utilizes AI to automatically",
+            "partition and parse raw logs, extracting",
+            "relevant fields and reducing the effort",
+            "required to make them usable."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/from-logs-to-insights-the-ai-breakthrough-redefining-observability"
+    },
+    {
       "id": "185",
       "topic": "Business",
       "source": "VentureBeat AI",
@@ -1336,42 +1372,6 @@
       "publishedAt": "2025-11-05T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/ais-capacity-crunch-latency-risk-escalating-costs-and-the-coming-surge"
-    },
-    {
-      "id": "180",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI in IT Observability",
-      "mediumTitle": "AI Revolutionizes IT Incident Diagnosis",
-      "longTitle": "AI-Driven Observability Transforms IT Incident Resolution",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A significant breakthrough in IT",
-            "observability, driven by Artificial",
-            "Intelligence (AI), aims to transform how",
-            "organizations diagnose and resolve",
-            "network incidents.",
-            "Elastic, the Search AI Company, has",
-            "introduced a new feature called Streams,",
-            "designed to make logs the primary tool",
-            "for investigations.",
-            "Streams enables logs to be used",
-            "proactively, generating information-rich",
-            "alerts that allow teams to jump directly",
-            "to problem-solving, potentially offering",
-            "automated remediation before notifying",
-            "the team.",
-            "Streams utilizes AI to automatically",
-            "partition and parse raw logs, extracting",
-            "relevant fields and reducing the effort",
-            "required to make them usable."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/from-logs-to-insights-the-ai-breakthrough-redefining-observability"
     },
     {
       "id": "175",
