@@ -1,6 +1,43 @@
 {
   "articles": [
     {
+      "id": "219",
+      "topic": "Speech",
+      "source": "Marktechpost AI",
+      "shortTitle": "StepFun AI Audio",
+      "mediumTitle": "StepFun AI\u0027s Audio Editing LLM",
+      "longTitle": "StepFun AI launches Step-Audio-EditX, an open-source LLM for audio editing",
+      "paragraphs": [
+        {
+          "Lines": [
+            "StepFun AI has introduced",
+            "Step-Audio-EditX, a novel open-source 3",
+            "billion parameter Large Language Model",
+            "(LLM) specifically designed for audio",
+            "editing.",
+            "This model aims to revolutionize the way",
+            "speech is edited by treating it as a",
+            "token-level text operation rather than a",
+            "complex waveform-level signal processing",
+            "task.",
+            "The core innovation lies in enabling",
+            "expressive and iterative audio editing,",
+            "making the process as direct and",
+            "controllable as rewriting a line of",
+            "text.",
+            "The model\u0027s LLM-grade architecture",
+            "implies a sophisticated understanding of",
+            "language and its sonic representation,",
+            "allowing for nuanced and accurate",
+            "editing."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-09T17:51:36.000Z",
+      "ranking": 8.18,
+      "articleUrl": "https://www.marktechpost.com/2025/11/09/stepfun-ai-releases-step-audio-editx-a-new-open-source-3b-llm-grade-audio-editing-model-excelling-at-expressive-and-iterative-audio-editing/"
+    },
+    {
       "id": "218",
       "topic": "Speech",
       "source": "Marktechpost AI",
@@ -70,7 +107,7 @@
         }
       ],
       "publishedAt": "2025-11-08T10:32:59.000Z",
-      "ranking": 6.555242865581896,
+      "ranking": 6.116253314865903,
       "articleUrl": "https://www.marktechpost.com/2025/11/08/how-to-build-an-advanced-multi-page-reflex-web-application-with-real-time-database-dynamic-state-management-and-reactive-ui/"
     },
     {
@@ -106,8 +143,41 @@
         }
       ],
       "publishedAt": "2025-11-08T09:00:00.000Z",
-      "ranking": 6.546420057168604,
+      "ranking": 6.085808990243356,
       "articleUrl": "https://www.theverge.com/report/816946/electricity-rates-election-democrats"
+    },
+    {
+      "id": "213",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "TabPFN-2.5",
+      "mediumTitle": "Prior Labs Updates Tabular Model",
+      "longTitle": "Prior Labs Releases TabPFN-2.5 for Larger Datasets",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Prior Labs has released TabPFN-2.5, an",
+            "updated version of their tabular",
+            "foundation model.",
+            "This new iteration significantly",
+            "enhances the model\u0027s capabilities by",
+            "enabling it to handle larger datasets",
+            "and more complex features.",
+            "Specifically, TabPFN-2.5 can now scale",
+            "its context learning to accommodate up",
+            "to 50,000 samples and 2,000 features.",
+            "The development of TabPFN-2.5 aims to",
+            "provide these industries with a more",
+            "powerful and efficient tool for",
+            "analyzing and deriving insights from",
+            "their tabular datasets, while",
+            "maintaining speed and performance."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-08T11:44:44.000Z",
+      "ranking": 5.857888036093978,
+      "articleUrl": "https://www.marktechpost.com/2025/11/08/prior-labs-releases-tabpfn-2-5-the-latest-version-of-tabpfn-that-unlocks-scale-and-speed-for-tabular-foundation-models/"
     },
     {
       "id": "216",
@@ -142,41 +212,8 @@
         }
       ],
       "publishedAt": "2025-11-08T06:00:00.000Z",
-      "ranking": 6.3138679769059145,
+      "ranking": 5.811401296337725,
       "articleUrl": "https://venturebeat.com/ai/what-could-possibly-go-wrong-if-an-enterprise-replaces-all-its-engineers"
-    },
-    {
-      "id": "213",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "TabPFN-2.5",
-      "mediumTitle": "Prior Labs Updates Tabular Model",
-      "longTitle": "Prior Labs Releases TabPFN-2.5 for Larger Datasets",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Prior Labs has released TabPFN-2.5, an",
-            "updated version of their tabular",
-            "foundation model.",
-            "This new iteration significantly",
-            "enhances the model\u0027s capabilities by",
-            "enabling it to handle larger datasets",
-            "and more complex features.",
-            "Specifically, TabPFN-2.5 can now scale",
-            "its context learning to accommodate up",
-            "to 50,000 samples and 2,000 features.",
-            "The development of TabPFN-2.5 aims to",
-            "provide these industries with a more",
-            "powerful and efficient tool for",
-            "analyzing and deriving insights from",
-            "their tabular datasets, while",
-            "maintaining speed and performance."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-08T11:44:44.000Z",
-      "ranking": 6.280193460821275,
-      "articleUrl": "https://www.marktechpost.com/2025/11/08/prior-labs-releases-tabpfn-2-5-the-latest-version-of-tabpfn-that-unlocks-scale-and-speed-for-tabular-foundation-models/"
     },
     {
       "id": "211",
@@ -211,7 +248,7 @@
         }
       ],
       "publishedAt": "2025-11-08T00:25:00.000Z",
-      "ranking": 5.745740515024848,
+      "ranking": 5.165375898353111,
       "articleUrl": "https://venturebeat.com/ai/terminal-bench-2-0-launches-alongside-harbor-a-new-framework-for-testing"
     },
     {
@@ -245,7 +282,7 @@
         }
       ],
       "publishedAt": "2025-11-07T23:08:43.000Z",
-      "ranking": 4.692411197431213,
+      "ranking": 4.094308316908053,
       "articleUrl": "https://www.marktechpost.com/2025/11/07/google-extends-its-agent-development-kit-adk-to-go-bringing-native-agentic-workflows-to-backend-teams/"
     },
     {
@@ -281,7 +318,7 @@
         }
       ],
       "publishedAt": "2025-11-07T09:43:02.000Z",
-      "ranking": 2.883356624421939,
+      "ranking": 2.097907244493741,
       "articleUrl": "https://www.marktechpost.com/2025/11/07/build-a-multi-agent-system-for-integrated-transcriptomic-proteomic-and-metabolomic-data-interpretation-with-pathway-reasoning/"
     },
     {
@@ -315,7 +352,7 @@
         }
       ],
       "publishedAt": "2025-11-07T10:10:27.000Z",
-      "ranking": 2.5391281406585557,
+      "ranking": 1.7600539875979129,
       "articleUrl": "https://www.theverge.com/podcast/816270/ibook-cheap-mac-ai-shopping-comet-vergecast"
     },
     {
@@ -351,7 +388,7 @@
         }
       ],
       "publishedAt": "2025-11-07T06:00:00.000Z",
-      "ranking": 2.0817480503342125,
+      "ranking": 1.2444364618359351,
       "articleUrl": "https://venturebeat.com/data-infrastructure/ship-fast-optimize-later-top-ai-engineers-dont-care-about-cost-theyre"
     },
     {
@@ -384,7 +421,7 @@
         }
       ],
       "publishedAt": "2025-11-07T03:19:24.000Z",
-      "ranking": 1.678561814911406,
+      "ranking": 0.8039057174873596,
       "articleUrl": "https://www.marktechpost.com/2025/11/06/moonshot-ai-releases-kimi-k2-thinking-an-impressive-thinking-model-that-can-execute-up-to-200-300-sequential-tool-calls-without-human-interference/"
     },
     {
@@ -418,7 +455,7 @@
         }
       ],
       "publishedAt": "2025-11-07T01:00:00.000Z",
-      "ranking": 1.4582332802730296,
+      "ranking": 0.55116233612641,
       "articleUrl": "https://venturebeat.com/ai/nyus-new-ai-architecture-makes-high-quality-image-generation-faster-and"
     },
     {
@@ -454,7 +491,7 @@
         }
       ],
       "publishedAt": "2025-11-06T23:03:23.000Z",
-      "ranking": 0.7979033151230901,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/06/google-ai-introduces-ds-star-a-multi-agent-data-science-system-that-plans-codes-and-verifies-end-to-end-analytics/"
     },
     {
@@ -1301,6 +1338,42 @@
       "articleUrl": "https://www.theverge.com/news/814042/getty-lawsuit-stability-ai-copyright-ruling-uk"
     },
     {
+      "id": "180",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI in IT Observability",
+      "mediumTitle": "AI Revolutionizes IT Incident Diagnosis",
+      "longTitle": "AI-Driven Observability Transforms IT Incident Resolution",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A significant breakthrough in IT",
+            "observability, driven by Artificial",
+            "Intelligence (AI), aims to transform how",
+            "organizations diagnose and resolve",
+            "network incidents.",
+            "Elastic, the Search AI Company, has",
+            "introduced a new feature called Streams,",
+            "designed to make logs the primary tool",
+            "for investigations.",
+            "Streams enables logs to be used",
+            "proactively, generating information-rich",
+            "alerts that allow teams to jump directly",
+            "to problem-solving, potentially offering",
+            "automated remediation before notifying",
+            "the team.",
+            "Streams utilizes AI to automatically",
+            "partition and parse raw logs, extracting",
+            "relevant fields and reducing the effort",
+            "required to make them usable."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/from-logs-to-insights-the-ai-breakthrough-redefining-observability"
+    },
+    {
       "id": "185",
       "topic": "Business",
       "source": "VentureBeat AI",
@@ -1336,42 +1409,6 @@
       "publishedAt": "2025-11-05T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/ais-capacity-crunch-latency-risk-escalating-costs-and-the-coming-surge"
-    },
-    {
-      "id": "180",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI in IT Observability",
-      "mediumTitle": "AI Revolutionizes IT Incident Diagnosis",
-      "longTitle": "AI-Driven Observability Transforms IT Incident Resolution",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A significant breakthrough in IT",
-            "observability, driven by Artificial",
-            "Intelligence (AI), aims to transform how",
-            "organizations diagnose and resolve",
-            "network incidents.",
-            "Elastic, the Search AI Company, has",
-            "introduced a new feature called Streams,",
-            "designed to make logs the primary tool",
-            "for investigations.",
-            "Streams enables logs to be used",
-            "proactively, generating information-rich",
-            "alerts that allow teams to jump directly",
-            "to problem-solving, potentially offering",
-            "automated remediation before notifying",
-            "the team.",
-            "Streams utilizes AI to automatically",
-            "partition and parse raw logs, extracting",
-            "relevant fields and reducing the effort",
-            "required to make them usable."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/from-logs-to-insights-the-ai-breakthrough-redefining-observability"
     },
     {
       "id": "175",
@@ -1584,42 +1621,6 @@
       "publishedAt": "2025-11-04T17:36:41.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/813755/amazon-perplexity-ai-shopping-agent-block"
-    },
-    {
-      "id": "173",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Home Test",
-      "mediumTitle": "Gemini for Home AI Weekend Test",
-      "longTitle": "Author tests Google\u0027s Gemini for Home AI by observing family for a weekend.",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The author tested Google\u0027s Gemini for",
-            "Home AI by letting it observe their",
-            "family for a weekend to see if constant",
-            "surveillance would be helpful or",
-            "unsettling.",
-            "The author\u0027s intention was to determine",
-            "if the AI\u0027s constant surveillance",
-            "capabilities would be helpful or",
-            "unsettling.",
-            "The author\u0027s goal was to gather data on",
-            "whether this level of AI oversight",
-            "offers practical benefits or becomes",
-            "intrusive.",
-            "The core of the article appears to be",
-            "the author\u0027s personal reaction and",
-            "assessment of the AI\u0027s performance.",
-            "The Gemini for Home system was",
-            "configured to watch, interpret, and",
-            "narrate the family\u0027s activities."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T17:01:37.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/813523/gemini-for-home-google-nest-camera-hands-on"
     }
   ]
 }
