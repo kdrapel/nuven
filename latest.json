@@ -142,6 +142,41 @@
       "articleUrl": "https://venturebeat.com/ai/celosphere-2025-where-enterprise-ai-moved-from-experiment-to-execution"
     },
     {
+      "id": "229",
+      "topic": "AI Ops",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini Voice Rollout",
+      "mediumTitle": "Google\u0027s Gemini Voice Assistant Rollout",
+      "longTitle": "Google Reports Successful Gemini Voice Assistant Rollout for Smart Speakers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has announced that its rollout of",
+            "the Gemini voice assistant for its smart",
+            "speakers, which began two weeks ago, is",
+            "progressing successfully.",
+            "Google highlighted positive user",
+            "feedback, including a quote from a user",
+            "who stated that their Google Home has",
+            "been upgraded with Gemini and is now",
+            "\u0022actually useful now beyond asking",
+            "for...\u0022",
+            "In a blog post commemorating the",
+            "two-week mark, the company expressed",
+            "satisfaction with the deployment.",
+            "Google\u0027s official statement aims to",
+            "counter this perception by emphasizing",
+            "the perceived usefulness and successful",
+            "integration of Gemini into their smart",
+            "home devices."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-10T16:02:57.000Z",
+      "ranking": 7.764285714285714,
+      "articleUrl": "https://www.theverge.com/news/817668/google-gemini-home-rollout-is-going-great"
+    },
+    {
       "id": "225",
       "topic": "Dev Tools",
       "source": "VentureBeat AI",
@@ -174,6 +209,77 @@
       "publishedAt": "2025-11-10T16:00:00.000Z",
       "ranking": 7.606249999999999,
       "articleUrl": "https://venturebeat.com/ai/how-context-engineering-can-save-your-company-from-ai-vibe-code-overload"
+    },
+    {
+      "id": "228",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Chronosphere AI",
+      "mediumTitle": "Chronosphere Launches AI Troubleshooting",
+      "longTitle": "Chronosphere Introduces AI-Guided Troubleshooting for Software Failures",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Chronosphere, a New York-based",
+            "observability startup valued at $1.6",
+            "billion, has launched AI-Guided",
+            "Troubleshooting capabilities aimed at",
+            "helping engineers diagnose and resolve",
+            "production software failures.",
+            "The new features integrate AI-driven",
+            "analysis with Chronosphere\u0027s Temporal",
+            "Knowledge Graph, a dynamic map of an",
+            "organization\u0027s services, infrastructure",
+            "dependencies, and system changes over",
+            "time.",
+            "Unlike competitors like Datadog,",
+            "Dynatrace, and Splunk, Chronosphere\u0027s",
+            "graph incorporates time, tracking how",
+            "services and dependencies change and",
+            "linking these changes to incidents."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-10T20:00:00.000Z",
+      "ranking": 7.460000000000001,
+      "articleUrl": "https://venturebeat.com/ai/chronosphere-takes-on-datadog-with-ai-that-explains-itself-not-just-outages"
+    },
+    {
+      "id": "227",
+      "topic": "Speech",
+      "source": "VentureBeat AI",
+      "shortTitle": "Meta\u0027s Omnilingual ASR",
+      "mediumTitle": "Meta\u0027s Omnilingual ASR: 1600\u002B Languages",
+      "longTitle": "Meta\u0027s Omnilingual ASR: Open-Source, 1600\u002B Languages, Extensible",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta has released Omnilingual ASR, a new",
+            "open-source automatic speech recognition",
+            "system that supports over 1,600",
+            "languages natively, significantly",
+            "surpassing OpenAI\u0027s Whisper model, which",
+            "supports 99.",
+            "Crucially, Omnilingual ASR is",
+            "open-sourced under a permissive Apache",
+            "2.0 license, unlike Meta\u0027s previous",
+            "Llama releases which had restrictive",
+            "terms for larger enterprises.",
+            "While models like Whisper support 99",
+            "languages, Meta\u0027s system directly",
+            "supports over 1,600 and can generalize",
+            "to over 5,400 using in-context learning.",
+            "This new system is designed to be highly",
+            "extensible, allowing developers to add",
+            "support for thousands more languages",
+            "through a feature called zero-shot",
+            "in-context learning."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-10T21:27:00.000Z",
+      "ranking": 7.170833333333334,
+      "articleUrl": "https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can"
     },
     {
       "id": "219",
@@ -209,7 +315,7 @@
         }
       ],
       "publishedAt": "2025-11-09T17:51:36.000Z",
-      "ranking": 6.991282374442953,
+      "ranking": 6.599717615822682,
       "articleUrl": "https://www.marktechpost.com/2025/11/09/stepfun-ai-releases-step-audio-editx-a-new-open-source-3b-llm-grade-audio-editing-model-excelling-at-expressive-and-iterative-audio-editing/"
     },
     {
@@ -246,7 +352,7 @@
         }
       ],
       "publishedAt": "2025-11-09T06:00:00.000Z",
-      "ranking": 5.6002326487086185,
+      "ranking": 5.043804454733214,
       "articleUrl": "https://venturebeat.com/ai/6-proven-lessons-from-the-ai-projects-that-broke-before-they-scaled"
     },
     {
@@ -283,7 +389,7 @@
         }
       ],
       "publishedAt": "2025-11-09T05:22:23.000Z",
-      "ranking": 5.36514669626756,
+      "ranking": 4.800003477946967,
       "articleUrl": "https://www.marktechpost.com/2025/11/08/how-to-build-an-agentic-voice-ai-assistant-that-understands-reasons-plans-and-responds-through-autonomous-multi-step-intelligence/"
     },
     {
@@ -319,7 +425,7 @@
         }
       ],
       "publishedAt": "2025-11-08T10:32:59.000Z",
-      "ranking": 2.3260969060344943,
+      "ranking": 1.499294375395194,
       "articleUrl": "https://www.marktechpost.com/2025/11/08/how-to-build-an-advanced-multi-page-reflex-web-application-with-real-time-database-dynamic-state-management-and-reactive-ui/"
     },
     {
@@ -352,7 +458,7 @@
         }
       ],
       "publishedAt": "2025-11-08T11:44:44.000Z",
-      "ranking": 2.1673987000474213,
+      "ranking": 1.3572192056805807,
       "articleUrl": "https://www.marktechpost.com/2025/11/08/prior-labs-releases-tabpfn-2-5-the-latest-version-of-tabpfn-that-unlocks-scale-and-speed-for-tabular-foundation-models/"
     },
     {
@@ -388,7 +494,7 @@
         }
       ],
       "publishedAt": "2025-11-08T09:00:00.000Z",
-      "ranking": 2.166490537058925,
+      "ranking": 1.3181456362076869,
       "articleUrl": "https://www.theverge.com/report/816946/electricity-rates-election-democrats"
     },
     {
@@ -424,7 +530,7 @@
         }
       ],
       "publishedAt": "2025-11-08T06:00:00.000Z",
-      "ranking": 1.6420469963182915,
+      "ranking": 0.7519997095117965,
       "articleUrl": "https://venturebeat.com/ai/what-could-possibly-go-wrong-if-an-enterprise-replaces-all-its-engineers"
     },
     {
@@ -460,7 +566,7 @@
         }
       ],
       "publishedAt": "2025-11-08T00:25:00.000Z",
-      "ranking": 0.5306770959030169,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/terminal-bench-2-0-launches-alongside-harbor-a-new-framework-for-testing"
     },
     {
@@ -1128,6 +1234,40 @@
       "articleUrl": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise"
     },
     {
+      "id": "191",
+      "topic": "Hardware",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Moves to Edge",
+      "mediumTitle": "AI Processing Shifts to the Edge",
+      "longTitle": "The Compute Rethink: Scaling AI at the Edge",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article \u0027The compute rethink:",
+            "Scaling AI where data lives, at the",
+            "edge\u0027 discusses the significant shift of",
+            "Artificial Intelligence (AI) processing",
+            "from centralized cloud data centers to",
+            "the \u0027edge,\u0027 meaning directly on devices,",
+            "sensors, and networks where data is",
+            "generated.",
+            "This transition is driven by several key",
+            "factors: the need for reduced latency,",
+            "enhanced data privacy, and cost",
+            "optimization as companies increasingly",
+            "invest in AI.",
+            "By processing data locally, dependency",
+            "on the cloud is reduced, leading to",
+            "faster and safer real-time",
+            "decision-making."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/the-compute-rethink-scaling-ai-where-data-lives-at-the-edge"
+    },
+    {
       "id": "201",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -1162,40 +1302,6 @@
       "publishedAt": "2025-11-06T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/why-googles-file-search-could-displace-diy-rag-stacks-in-the-enterprise"
-    },
-    {
-      "id": "191",
-      "topic": "Hardware",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Moves to Edge",
-      "mediumTitle": "AI Processing Shifts to the Edge",
-      "longTitle": "The Compute Rethink: Scaling AI at the Edge",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article \u0027The compute rethink:",
-            "Scaling AI where data lives, at the",
-            "edge\u0027 discusses the significant shift of",
-            "Artificial Intelligence (AI) processing",
-            "from centralized cloud data centers to",
-            "the \u0027edge,\u0027 meaning directly on devices,",
-            "sensors, and networks where data is",
-            "generated.",
-            "This transition is driven by several key",
-            "factors: the need for reduced latency,",
-            "enhanced data privacy, and cost",
-            "optimization as companies increasingly",
-            "invest in AI.",
-            "By processing data locally, dependency",
-            "on the cloud is reduced, leading to",
-            "faster and safer real-time",
-            "decision-making."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/the-compute-rethink-scaling-ai-where-data-lives-at-the-edge"
     },
     {
       "id": "179",
@@ -1439,152 +1545,6 @@
       "publishedAt": "2025-11-05T12:10:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/813944/browser-wars-chatgpt-gemini-chrome"
-    },
-    {
-      "id": "176",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "xAI Biometric Data",
-      "mediumTitle": "xAI Collects Employee Biometrics for Chatbot",
-      "longTitle": "xAI Reportedly Used Employee Biometric Data for NSFW Chatbot Training",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The Wall Street Journal reported that",
-            "Elon Musk\u0027s artificial intelligence",
-            "company, xAI, required employees to",
-            "submit their biometric data.",
-            "This data was reportedly used for the",
-            "purpose of training its \u0027Ani\u0027 female",
-            "chatbot.",
-            "The core of the report centers on the",
-            "alleged use of personal employee data,",
-            "specifically biometric information, to",
-            "develop and refine a commercial AI",
-            "product.",
-            "\u0027Ani\u0027 is described as an anime avatar",
-            "with blond pigtails and an NSFW (Not",
-            "Safe For Work) setting.",
-            "The article implies that this practice",
-            "of using employee biometric data for AI",
-            "training has raised concerns."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T10:43:02.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/814168/xai-grok-ani-employee-biometric-data"
-    },
-    {
-      "id": "177",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Gemini in Maps",
-      "mediumTitle": "Google Maps gets Gemini AI",
-      "longTitle": "Google Maps integrates Gemini AI to become an \u0027all-knowing copilot\u0027",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google Maps is integrating Gemini AI to",
-            "become an \u0027all-knowing copilot\u0027,",
-            "enhancing navigation and planning",
-            "through conversational interactions.",
-            "The \u0027all-knowing copilot\u0027 concept",
-            "signifies a future where Google Maps",
-            "provides comprehensive information and",
-            "support for journeys.",
-            "This integration allows users to",
-            "interact with the AI using natural",
-            "language for more personalized route",
-            "planning and suggestions.",
-            "The ultimate goal is to move beyond",
-            "simple turn-by-turn directions and",
-            "provide a richer, more intelligent",
-            "navigation assistant.",
-            "By understanding user intent through",
-            "conversational queries and incorporating",
-            "contextual data, Google Maps aims to",
-            "anticipate needs."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/813588/google-maps-gemini-ai-chatbot-navigation-directions"
-    },
-    {
-      "id": "178",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Art Law Win",
-      "mediumTitle": "Stability AI Wins UK Copyright Case",
-      "longTitle": "Stability AI Secures UK Court Victory Against Getty Images in AI Training Case",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The British court largely ruled in favor",
-            "of Stability AI, finding that the act of",
-            "using copyrighted material to train an",
-            "AI may not be considered copyright",
-            "infringement under current UK law.",
-            "Stability AI, developer of the AI art",
-            "generator Stable Diffusion, has achieved",
-            "a significant legal victory in a British",
-            "court against Getty Images, a case",
-            "anticipated to set a precedent for AI",
-            "and copyright law in the UK.",
-            "Getty Images had accused Stability AI of",
-            "copyright infringement, alleging that",
-            "millions of its images were used to",
-            "train Stable Diffusion without proper",
-            "authorization.",
-            "Furthermore, the court did not find",
-            "Stability AI liable for infringing",
-            "Getty\u0027s database rights, which was",
-            "another key argument from Getty Images."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T08:22:25.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/814042/getty-lawsuit-stability-ai-copyright-ruling-uk"
-    },
-    {
-      "id": "185",
-      "topic": "Business",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Cost Crunch",
-      "mediumTitle": "AI\u0027s Emerging Capacity Crunch",
-      "longTitle": "AI Faces Capacity Crunch Driven by Costs and Efficiency Needs",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AI is facing an emerging \u0022capacity",
-            "crunch\u0022 due to rising costs, latency",
-            "issues, and an impending shift towards",
-            "real market pricing, akin to surge",
-            "pricing in ride-sharing services.",
-            "Val Bercovici, chief AI officer at WEKA,",
-            "argues that current AI rates are",
-            "subsidized, enabling innovation, but",
-            "this will change as significant capital",
-            "expenditures and finite energy resources",
-            "necessitate realistic market pricing,",
-            "likely by 2027.",
-            "Accuracy, particularly in output tokens,",
-            "is non-negotiable for both",
-            "consumer-facing AI agents like ChatGPT",
-            "and high-stakes applications in fields",
-            "like drug discovery and regulated",
-            "industries.",
-            "Bercovici emphasizes that \u0022unit",
-            "economics\u0022 are paramount."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/ais-capacity-crunch-latency-risk-escalating-costs-and-the-coming-surge"
     }
   ]
 }
