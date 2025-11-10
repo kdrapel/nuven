@@ -75,6 +75,39 @@
       "articleUrl": "https://venturebeat.com/ai/6-proven-lessons-from-the-ai-projects-that-broke-before-they-scaled"
     },
     {
+      "id": "221",
+      "topic": "Neural Nets",
+      "source": "Marktechpost AI",
+      "shortTitle": "Neural Memory Agents",
+      "mediumTitle": "Continual Adaptation with Neural Memory",
+      "longTitle": "Building Neural Memory Agents for Continual Adaptation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This article presents a coding",
+            "implementation for building neural",
+            "memory agents capable of continual",
+            "adaptation in dynamic environments",
+            "without forgetting past experiences.",
+            "In essence, the tutorial demonstrates a",
+            "method for building intelligent agents",
+            "that can learn and evolve over time in",
+            "changing environments, a critical",
+            "capability for many real-world AI",
+            "applications.",
+            "The core of the approach is a",
+            "memory-augmented neural network that",
+            "combines three key components: a",
+            "Differentiable Neural Computer (DNC),",
+            "experience replay, and meta-learning."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-10T03:14:23.000Z",
+      "ranking": 8.104166666666666,
+      "articleUrl": "https://www.marktechpost.com/2025/11/09/a-coding-implementation-to-build-neural-memory-agents-with-differentiable-memory-meta-learning-and-experience-replay-for-continual-adaptation-in-dynamic-environments/"
+    },
+    {
       "id": "218",
       "topic": "Speech",
       "source": "Marktechpost AI",
@@ -144,7 +177,7 @@
         }
       ],
       "publishedAt": "2025-11-08T10:32:59.000Z",
-      "ranking": 5.62345987440275,
+      "ranking": 5.07519116930907,
       "articleUrl": "https://www.marktechpost.com/2025/11/08/how-to-build-an-advanced-multi-page-reflex-web-application-with-real-time-database-dynamic-state-management-and-reactive-ui/"
     },
     {
@@ -180,7 +213,7 @@
         }
       ],
       "publishedAt": "2025-11-08T09:00:00.000Z",
-      "ranking": 5.571487327772348,
+      "ranking": 5.001694229377739,
       "articleUrl": "https://www.theverge.com/report/816946/electricity-rates-election-democrats"
     },
     {
@@ -213,7 +246,7 @@
         }
       ],
       "publishedAt": "2025-11-08T11:44:44.000Z",
-      "ranking": 5.381706712832318,
+      "ranking": 4.850047169678263,
       "articleUrl": "https://www.marktechpost.com/2025/11/08/prior-labs-releases-tabpfn-2-5-the-latest-version-of-tabpfn-that-unlocks-scale-and-speed-for-tabular-foundation-models/"
     },
     {
@@ -249,7 +282,7 @@
         }
       ],
       "publishedAt": "2025-11-08T06:00:00.000Z",
-      "ranking": 5.255404634866439,
+      "ranking": 4.643943952976015,
       "articleUrl": "https://venturebeat.com/ai/what-could-possibly-go-wrong-if-an-enterprise-replaces-all-its-engineers"
     },
     {
@@ -285,7 +318,7 @@
         }
       ],
       "publishedAt": "2025-11-08T00:25:00.000Z",
-      "ranking": 4.5318174332844094,
+      "ranking": 3.8428087518892884,
       "articleUrl": "https://venturebeat.com/ai/terminal-bench-2-0-launches-alongside-harbor-a-new-framework-for-testing"
     },
     {
@@ -319,7 +352,7 @@
         }
       ],
       "publishedAt": "2025-11-07T23:08:43.000Z",
-      "ranking": 3.4430881521178485,
+      "ranking": 2.7364209035182085,
       "articleUrl": "https://www.marktechpost.com/2025/11/07/google-extends-its-agent-development-kit-adk-to-go-bringing-native-agentic-workflows-to-backend-teams/"
     },
     {
@@ -355,7 +388,7 @@
         }
       ],
       "publishedAt": "2025-11-07T09:43:02.000Z",
-      "ranking": 1.2601490274027558,
+      "ranking": 0.3669769086746779,
       "articleUrl": "https://www.marktechpost.com/2025/11/07/build-a-multi-agent-system-for-integrated-transcriptomic-proteomic-and-metabolomic-data-interpretation-with-pathway-reasoning/"
     },
     {
@@ -389,7 +422,7 @@
         }
       ],
       "publishedAt": "2025-11-07T10:10:27.000Z",
-      "ranking": 0.9286434911540171,
+      "ranking": 0.04181795232868435,
       "articleUrl": "https://www.theverge.com/podcast/816270/ibook-cheap-mac-ai-shopping-comet-vergecast"
     },
     {
@@ -425,7 +458,7 @@
         }
       ],
       "publishedAt": "2025-11-07T06:00:00.000Z",
-      "ranking": 0.3550398374345791,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/data-infrastructure/ship-fast-optimize-later-top-ai-engineers-dont-care-about-cost-theyre"
     },
     {
@@ -1375,6 +1408,42 @@
       "articleUrl": "https://www.theverge.com/news/814042/getty-lawsuit-stability-ai-copyright-ruling-uk"
     },
     {
+      "id": "180",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI in IT Observability",
+      "mediumTitle": "AI Revolutionizes IT Incident Diagnosis",
+      "longTitle": "AI-Driven Observability Transforms IT Incident Resolution",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A significant breakthrough in IT",
+            "observability, driven by Artificial",
+            "Intelligence (AI), aims to transform how",
+            "organizations diagnose and resolve",
+            "network incidents.",
+            "Elastic, the Search AI Company, has",
+            "introduced a new feature called Streams,",
+            "designed to make logs the primary tool",
+            "for investigations.",
+            "Streams enables logs to be used",
+            "proactively, generating information-rich",
+            "alerts that allow teams to jump directly",
+            "to problem-solving, potentially offering",
+            "automated remediation before notifying",
+            "the team.",
+            "Streams utilizes AI to automatically",
+            "partition and parse raw logs, extracting",
+            "relevant fields and reducing the effort",
+            "required to make them usable."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-05T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/from-logs-to-insights-the-ai-breakthrough-redefining-observability"
+    },
+    {
       "id": "185",
       "topic": "Business",
       "source": "VentureBeat AI",
@@ -1410,42 +1479,6 @@
       "publishedAt": "2025-11-05T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/ais-capacity-crunch-latency-risk-escalating-costs-and-the-coming-surge"
-    },
-    {
-      "id": "180",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI in IT Observability",
-      "mediumTitle": "AI Revolutionizes IT Incident Diagnosis",
-      "longTitle": "AI-Driven Observability Transforms IT Incident Resolution",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A significant breakthrough in IT",
-            "observability, driven by Artificial",
-            "Intelligence (AI), aims to transform how",
-            "organizations diagnose and resolve",
-            "network incidents.",
-            "Elastic, the Search AI Company, has",
-            "introduced a new feature called Streams,",
-            "designed to make logs the primary tool",
-            "for investigations.",
-            "Streams enables logs to be used",
-            "proactively, generating information-rich",
-            "alerts that allow teams to jump directly",
-            "to problem-solving, potentially offering",
-            "automated remediation before notifying",
-            "the team.",
-            "Streams utilizes AI to automatically",
-            "partition and parse raw logs, extracting",
-            "relevant fields and reducing the effort",
-            "required to make them usable."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/from-logs-to-insights-the-ai-breakthrough-redefining-observability"
     },
     {
       "id": "175",
@@ -1589,40 +1622,6 @@
       "publishedAt": "2025-11-04T19:51:44.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites"
-    },
-    {
-      "id": "171",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "MS AI Image Tool",
-      "mediumTitle": "Microsoft Releases MAI-Image-1",
-      "longTitle": "Microsoft Launches MAI-Image-1 AI Image Generator",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft has released its first",
-            "internally developed AI image generator,",
-            "MAI-Image-1, which is now accessible",
-            "through two of their products: Bing",
-            "Image Creator and Copilot Audio",
-            "Expressions.",
-            "The core functionality of MAI-Image-1 is",
-            "its ability to generate images based on",
-            "textual descriptions.",
-            "The announcement of MAI-Image-1",
-            "signifies Microsoft\u0027s commitment to",
-            "developing its own proprietary AI",
-            "models.",
-            "Mustafa Suleyman, the head of Microsoft",
-            "AI, stated that MAI-Image-1 would soon",
-            "be rolled out to users in the European",
-            "Union."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-04T17:48:09.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/813789/microsoft-in-house-ai-image-generator-mai-image-1"
     }
   ]
 }
