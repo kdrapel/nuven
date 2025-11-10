@@ -38,6 +38,39 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/09/stepfun-ai-releases-step-audio-editx-a-new-open-source-3b-llm-grade-audio-editing-model-excelling-at-expressive-and-iterative-audio-editing/"
     },
     {
+      "id": "221",
+      "topic": "Neural Nets",
+      "source": "Marktechpost AI",
+      "shortTitle": "Neural Memory Agents",
+      "mediumTitle": "Continual Adaptation with Neural Memory",
+      "longTitle": "Building Neural Memory Agents for Continual Adaptation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This article presents a coding",
+            "implementation for building neural",
+            "memory agents capable of continual",
+            "adaptation in dynamic environments",
+            "without forgetting past experiences.",
+            "In essence, the tutorial demonstrates a",
+            "method for building intelligent agents",
+            "that can learn and evolve over time in",
+            "changing environments, a critical",
+            "capability for many real-world AI",
+            "applications.",
+            "The core of the approach is a",
+            "memory-augmented neural network that",
+            "combines three key components: a",
+            "Differentiable Neural Computer (DNC),",
+            "experience replay, and meta-learning."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-10T03:14:23.000Z",
+      "ranking": 8.104166666666666,
+      "articleUrl": "https://www.marktechpost.com/2025/11/09/a-coding-implementation-to-build-neural-memory-agents-with-differentiable-memory-meta-learning-and-experience-replay-for-continual-adaptation-in-dynamic-environments/"
+    },
+    {
       "id": "220",
       "topic": "Model Eval",
       "source": "VentureBeat AI",
@@ -71,41 +104,8 @@
         }
       ],
       "publishedAt": "2025-11-09T06:00:00.000Z",
-      "ranking": 8.110714285714286,
+      "ranking": 6.9366076845848585,
       "articleUrl": "https://venturebeat.com/ai/6-proven-lessons-from-the-ai-projects-that-broke-before-they-scaled"
-    },
-    {
-      "id": "221",
-      "topic": "Neural Nets",
-      "source": "Marktechpost AI",
-      "shortTitle": "Neural Memory Agents",
-      "mediumTitle": "Continual Adaptation with Neural Memory",
-      "longTitle": "Building Neural Memory Agents for Continual Adaptation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This article presents a coding",
-            "implementation for building neural",
-            "memory agents capable of continual",
-            "adaptation in dynamic environments",
-            "without forgetting past experiences.",
-            "In essence, the tutorial demonstrates a",
-            "method for building intelligent agents",
-            "that can learn and evolve over time in",
-            "changing environments, a critical",
-            "capability for many real-world AI",
-            "applications.",
-            "The core of the approach is a",
-            "memory-augmented neural network that",
-            "combines three key components: a",
-            "Differentiable Neural Computer (DNC),",
-            "experience replay, and meta-learning."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-10T03:14:23.000Z",
-      "ranking": 8.104166666666666,
-      "articleUrl": "https://www.marktechpost.com/2025/11/09/a-coding-implementation-to-build-neural-memory-agents-with-differentiable-memory-meta-learning-and-experience-replay-for-continual-adaptation-in-dynamic-environments/"
     },
     {
       "id": "218",
@@ -141,7 +141,7 @@
         }
       ],
       "publishedAt": "2025-11-09T05:22:23.000Z",
-      "ranking": 7.95909090909091,
+      "ranking": 6.727690811209849,
       "articleUrl": "https://www.marktechpost.com/2025/11/08/how-to-build-an-agentic-voice-ai-assistant-that-understands-reasons-plans-and-responds-through-autonomous-multi-step-intelligence/"
     },
     {
@@ -177,7 +177,7 @@
         }
       ],
       "publishedAt": "2025-11-08T10:32:59.000Z",
-      "ranking": 5.07519116930907,
+      "ranking": 4.474339427965273,
       "articleUrl": "https://www.marktechpost.com/2025/11/08/how-to-build-an-advanced-multi-page-reflex-web-application-with-real-time-database-dynamic-state-management-and-reactive-ui/"
     },
     {
@@ -213,7 +213,7 @@
         }
       ],
       "publishedAt": "2025-11-08T09:00:00.000Z",
-      "ranking": 5.001694229377739,
+      "ranking": 4.379419499012709,
       "articleUrl": "https://www.theverge.com/report/816946/electricity-rates-election-democrats"
     },
     {
@@ -246,7 +246,7 @@
         }
       ],
       "publishedAt": "2025-11-08T11:44:44.000Z",
-      "ranking": 4.850047169678263,
+      "ranking": 4.265726340260194,
       "articleUrl": "https://www.marktechpost.com/2025/11/08/prior-labs-releases-tabpfn-2-5-the-latest-version-of-tabpfn-that-unlocks-scale-and-speed-for-tabular-foundation-models/"
     },
     {
@@ -282,7 +282,7 @@
         }
       ],
       "publishedAt": "2025-11-08T06:00:00.000Z",
-      "ranking": 4.643943952976015,
+      "ranking": 3.980197941330972,
       "articleUrl": "https://venturebeat.com/ai/what-could-possibly-go-wrong-if-an-enterprise-replaces-all-its-engineers"
     },
     {
@@ -318,7 +318,7 @@
         }
       ],
       "publishedAt": "2025-11-08T00:25:00.000Z",
-      "ranking": 3.8428087518892884,
+      "ranking": 3.101880076185589,
       "articleUrl": "https://venturebeat.com/ai/terminal-bench-2-0-launches-alongside-harbor-a-new-framework-for-testing"
     },
     {
@@ -352,8 +352,42 @@
         }
       ],
       "publishedAt": "2025-11-07T23:08:43.000Z",
-      "ranking": 2.7364209035182085,
+      "ranking": 1.9779168522934594,
       "articleUrl": "https://www.marktechpost.com/2025/11/07/google-extends-its-agent-development-kit-adk-to-go-bringing-native-agentic-workflows-to-backend-teams/"
+    },
+    {
+      "id": "206",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Apple\u0027s iBook Return?",
+      "mediumTitle": "Apple\u0027s Potential iBook Revival",
+      "longTitle": "Speculation on Apple\u0027s Return to Low-Cost Laptops with an iBook-like Device",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article \u0022Bring back the iBook, you",
+            "cowards\u0022 speculates on Apple\u0027s potential",
+            "re-entry into the low-cost laptop",
+            "market, fueled by rumors of a new device",
+            "powered by an iPhone chip.",
+            "This move could be either a minor",
+            "adjustment driven by supply chain",
+            "economics and the continued success of",
+            "the M1 MacBook Air at retailers like",
+            "Walmart, or a significant strategic",
+            "shift, harkening back to Apple\u0027s earlier",
+            "days with the iBook.",
+            "The author argues that Apple has",
+            "historically excelled at creating",
+            "accessible and innovative products,",
+            "citing the original iMac and the iBook",
+            "as prime examples."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-07T10:10:27.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/podcast/816270/ibook-cheap-mac-ai-shopping-comet-vergecast"
     },
     {
       "id": "205",
@@ -388,42 +422,8 @@
         }
       ],
       "publishedAt": "2025-11-07T09:43:02.000Z",
-      "ranking": 0.3669769086746779,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/07/build-a-multi-agent-system-for-integrated-transcriptomic-proteomic-and-metabolomic-data-interpretation-with-pathway-reasoning/"
-    },
-    {
-      "id": "206",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Apple\u0027s iBook Return?",
-      "mediumTitle": "Apple\u0027s Potential iBook Revival",
-      "longTitle": "Speculation on Apple\u0027s Return to Low-Cost Laptops with an iBook-like Device",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article \u0022Bring back the iBook, you",
-            "cowards\u0022 speculates on Apple\u0027s potential",
-            "re-entry into the low-cost laptop",
-            "market, fueled by rumors of a new device",
-            "powered by an iPhone chip.",
-            "This move could be either a minor",
-            "adjustment driven by supply chain",
-            "economics and the continued success of",
-            "the M1 MacBook Air at retailers like",
-            "Walmart, or a significant strategic",
-            "shift, harkening back to Apple\u0027s earlier",
-            "days with the iBook.",
-            "The author argues that Apple has",
-            "historically excelled at creating",
-            "accessible and innovative products,",
-            "citing the original iMac and the iBook",
-            "as prime examples."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-07T10:10:27.000Z",
-      "ranking": 0.04181795232868435,
-      "articleUrl": "https://www.theverge.com/podcast/816270/ibook-cheap-mac-ai-shopping-comet-vergecast"
     },
     {
       "id": "209",
@@ -954,6 +954,38 @@
       "articleUrl": "https://www.theverge.com/news/815286/tinder-ai-chemistry-camera-roll-feature-test"
     },
     {
+      "id": "194",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Code Gen",
+      "mediumTitle": "AI Code Generation for Enterprise",
+      "longTitle": "Enterprise Adoption of AI-Powered Code Generation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "However, its application in enterprise",
+            "production environments faces skepticism",
+            "due to potential risks like security",
+            "vulnerabilities, the introduction of",
+            "technical debt through poorly structured",
+            "code, and the illusion of progress where",
+            "the final 20% of complex tasks becomes",
+            "exponentially harder.",
+            "The article emphasizes that core",
+            "infrastructure should never be managed",
+            "solely by AI without human oversight.",
+            "Vibe coding, the use of generative AI to",
+            "create code from plain-language prompts,",
+            "offers significant speed advantages for",
+            "rapid prototyping and experimentation."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise"
+    },
+    {
       "id": "191",
       "topic": "Hardware",
       "source": "VentureBeat AI",
@@ -986,38 +1018,6 @@
       "publishedAt": "2025-11-06T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/the-compute-rethink-scaling-ai-where-data-lives-at-the-edge"
-    },
-    {
-      "id": "194",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Code Gen",
-      "mediumTitle": "AI Code Generation for Enterprise",
-      "longTitle": "Enterprise Adoption of AI-Powered Code Generation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "However, its application in enterprise",
-            "production environments faces skepticism",
-            "due to potential risks like security",
-            "vulnerabilities, the introduction of",
-            "technical debt through poorly structured",
-            "code, and the illusion of progress where",
-            "the final 20% of complex tasks becomes",
-            "exponentially harder.",
-            "The article emphasizes that core",
-            "infrastructure should never be managed",
-            "solely by AI without human oversight.",
-            "Vibe coding, the use of generative AI to",
-            "create code from plain-language prompts,",
-            "offers significant speed advantages for",
-            "rapid prototyping and experimentation."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise"
     },
     {
       "id": "201",
