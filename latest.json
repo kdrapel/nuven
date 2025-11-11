@@ -74,41 +74,39 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/10/moonshot-ai-releases-kosong-the-llm-abstraction-layer-that-powers-kimi-cli/"
     },
     {
-      "id": "226",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Web Future",
-      "mediumTitle": "Berners-Lee on AI\u0027s Web Impact",
-      "longTitle": "Sir Tim Berners-Lee: AI won\u0027t destroy the World Wide Web",
+      "id": "232",
+      "topic": "Speech",
+      "source": "Marktechpost AI",
+      "shortTitle": "Meta\u0027s 1600\u002B Lang ASR",
+      "mediumTitle": "Meta AI Launches Omnilingual ASR",
+      "longTitle": "Meta AI Releases Open-Source Omnilingual ASR for Over 1600 Languages",
       "paragraphs": [
         {
           "Lines": [
-            "Sir Tim Berners-Lee, the visionary",
-            "inventor of the World Wide Web,",
-            "expresses a nuanced perspective on the",
-            "potential impact of Artificial",
-            "Intelligence (AI) on the internet,",
-            "asserting that AI is unlikely to",
-            "\u0027destroy\u0027 the web.",
-            "He believes that by understanding and",
-            "guiding the integration of AI, the web",
-            "can continue to thrive and evolve,",
-            "rather than be destroyed.",
-            "Berners-Lee\u0027s stance suggests that the",
-            "future of the web in the age of AI",
-            "depends on how these technologies are",
-            "developed and implemented.",
-            "His views stem from his foundational",
-            "understanding of the web\u0027s architecture",
-            "and purpose as an open, decentralized",
-            "platform for information sharing and",
-            "connection."
+            "Meta AI has introduced Omnilingual ASR,",
+            "an open-source suite of multilingual",
+            "speech recognition models supporting",
+            "over 1,600 languages.",
+            "This initiative aims to create a single",
+            "ASR system capable of understanding many",
+            "languages, including those previously",
+            "lacking functional models.",
+            "The system is engineered to handle a",
+            "remarkably large linguistic dataset,",
+            "encompassing languages that have",
+            "historically been underserved or",
+            "entirely absent from ASR development.",
+            "Furthermore, the suite is designed to be",
+            "extensible, allowing for the",
+            "incorporation of new, previously unseen",
+            "languages with minimal data",
+            "requirements."
           ]
         }
       ],
-      "publishedAt": "2025-11-10T11:00:00.000Z",
-      "ranking": 7.991666666666667,
-      "articleUrl": "https://www.theverge.com/podcast/814552/tim-berners-lee-world-wide-web-ai-future-interview"
+      "publishedAt": "2025-11-11T10:06:04.000Z",
+      "ranking": 7.870000000000001,
+      "articleUrl": "https://www.marktechpost.com/2025/11/11/meta-ai-releases-omnilingual-asr-a-suite-of-open-source-multilingual-speech-recognition-models-for-1600-languages/"
     },
     {
       "id": "229",
@@ -144,6 +142,40 @@
       "publishedAt": "2025-11-10T16:02:57.000Z",
       "ranking": 7.764285714285714,
       "articleUrl": "https://www.theverge.com/news/817668/google-gemini-home-rollout-is-going-great"
+    },
+    {
+      "id": "233",
+      "topic": "Neural Nets",
+      "source": "Marktechpost AI",
+      "shortTitle": "JAX DL Tutorial",
+      "mediumTitle": "Advanced Neural Networks with JAX",
+      "longTitle": "Building Advanced Neural Networks with JAX, Flax, and Optax",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This tutorial demonstrates coding for",
+            "building and training advanced neural",
+            "networks using JAX, Flax, and Optax,",
+            "focusing on an efficient and modular",
+            "approach.",
+            "By integrating residual connections and",
+            "self-attention with adaptive",
+            "optimization, the tutorial showcases how",
+            "to build state-of-the-art neural",
+            "networks that can achieve superior",
+            "performance on challenging machine",
+            "learning problems.",
+            "Self-attention mechanisms are included",
+            "to empower the model to weigh the",
+            "importance of different input data",
+            "parts, leading to more expressive",
+            "feature learning."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T08:16:45.000Z",
+      "ranking": 7.707142857142858,
+      "articleUrl": "https://www.marktechpost.com/2025/11/10/a-coding-implementation-to-build-and-train-advanced-architectures-with-residual-connections-self-attention-and-adaptive-optimization-using-jax-flax-and-optax/"
     },
     {
       "id": "225",
@@ -251,6 +283,43 @@
       "articleUrl": "https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can"
     },
     {
+      "id": "226",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Web Future",
+      "mediumTitle": "Berners-Lee on AI\u0027s Web Impact",
+      "longTitle": "Sir Tim Berners-Lee: AI won\u0027t destroy the World Wide Web",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Sir Tim Berners-Lee, the visionary",
+            "inventor of the World Wide Web,",
+            "expresses a nuanced perspective on the",
+            "potential impact of Artificial",
+            "Intelligence (AI) on the internet,",
+            "asserting that AI is unlikely to",
+            "\u0027destroy\u0027 the web.",
+            "He believes that by understanding and",
+            "guiding the integration of AI, the web",
+            "can continue to thrive and evolve,",
+            "rather than be destroyed.",
+            "Berners-Lee\u0027s stance suggests that the",
+            "future of the web in the age of AI",
+            "depends on how these technologies are",
+            "developed and implemented.",
+            "His views stem from his foundational",
+            "understanding of the web\u0027s architecture",
+            "and purpose as an open, decentralized",
+            "platform for information sharing and",
+            "connection."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-10T11:00:00.000Z",
+      "ranking": 6.904303991630383,
+      "articleUrl": "https://www.theverge.com/podcast/814552/tim-berners-lee-world-wide-web-ai-future-interview"
+    },
+    {
       "id": "224",
       "topic": "Business",
       "source": "VentureBeat AI",
@@ -282,7 +351,7 @@
         }
       ],
       "publishedAt": "2025-11-10T06:00:00.000Z",
-      "ranking": 6.680460053050317,
+      "ranking": 6.290998360742347,
       "articleUrl": "https://venturebeat.com/ai/celosphere-2025-where-enterprise-ai-moved-from-experiment-to-execution"
     },
     {
@@ -315,7 +384,7 @@
         }
       ],
       "publishedAt": "2025-11-10T03:14:23.000Z",
-      "ranking": 6.665726102612823,
+      "ranking": 6.2379053615333895,
       "articleUrl": "https://www.marktechpost.com/2025/11/09/a-coding-implementation-to-build-neural-memory-agents-with-differentiable-memory-meta-learning-and-experience-replay-for-continual-adaptation-in-dynamic-environments/"
     },
     {
@@ -352,7 +421,7 @@
         }
       ],
       "publishedAt": "2025-11-09T17:51:36.000Z",
-      "ranking": 5.651353582789544,
+      "ranking": 5.093184641780706,
       "articleUrl": "https://www.marktechpost.com/2025/11/09/stepfun-ai-releases-step-audio-editx-a-new-open-source-3b-llm-grade-audio-editing-model-excelling-at-expressive-and-iterative-audio-editing/"
     },
     {
@@ -389,7 +458,7 @@
         }
       ],
       "publishedAt": "2025-11-09T06:00:00.000Z",
-      "ranking": 3.766247350386691,
+      "ranking": 3.0432622673765524,
       "articleUrl": "https://venturebeat.com/ai/6-proven-lessons-from-the-ai-projects-that-broke-before-they-scaled"
     },
     {
@@ -426,7 +495,7 @@
         }
       ],
       "publishedAt": "2025-11-09T05:22:23.000Z",
-      "ranking": 3.505044535627082,
+      "ranking": 2.7733469230504966,
       "articleUrl": "https://www.marktechpost.com/2025/11/08/how-to-build-an-agentic-voice-ai-assistant-that-understands-reasons-plans-and-responds-through-autonomous-multi-step-intelligence/"
     },
     {
@@ -1239,40 +1308,38 @@
       "articleUrl": "https://www.theverge.com/news/815286/tinder-ai-chemistry-camera-roll-feature-test"
     },
     {
-      "id": "201",
-      "topic": "Generative AI",
+      "id": "191",
+      "topic": "Hardware",
       "source": "VentureBeat AI",
-      "shortTitle": "Google File Search",
-      "mediumTitle": "Google\u0027s File Search Tool for RAG",
-      "longTitle": "Google\u0027s File Search Tool Simplifies Enterprise Data Grounding for AI",
+      "shortTitle": "AI Moves to Edge",
+      "mediumTitle": "AI Processing Shifts to the Edge",
+      "longTitle": "The Compute Rethink: Scaling AI at the Edge",
       "paragraphs": [
         {
           "Lines": [
-            "Google has released the File Search Tool",
-            "on the Gemini API, a fully managed",
-            "Retrieval Augmented Generation (RAG)",
-            "system designed to simplify the process",
-            "of grounding AI applications with",
-            "enterprise data.",
-            "A key feature is its built-in citations,",
-            "which link generated answers to the",
-            "specific parts of the source documents",
-            "used, enhancing accuracy and",
-            "verifiability.",
-            "The tool utilizes vector search to",
-            "understand the meaning and context of",
-            "user queries, enabling it to find",
-            "relevant information from documents even",
-            "if the prompt uses inexact wording.",
-            "File Search handles complexities like",
-            "file storage, chunking strategies, and",
-            "embedding generation internally."
+            "The article \u0027The compute rethink:",
+            "Scaling AI where data lives, at the",
+            "edge\u0027 discusses the significant shift of",
+            "Artificial Intelligence (AI) processing",
+            "from centralized cloud data centers to",
+            "the \u0027edge,\u0027 meaning directly on devices,",
+            "sensors, and networks where data is",
+            "generated.",
+            "This transition is driven by several key",
+            "factors: the need for reduced latency,",
+            "enhanced data privacy, and cost",
+            "optimization as companies increasingly",
+            "invest in AI.",
+            "By processing data locally, dependency",
+            "on the cloud is reduced, leading to",
+            "faster and safer real-time",
+            "decision-making."
           ]
         }
       ],
       "publishedAt": "2025-11-06T06:00:00.000Z",
       "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/why-googles-file-search-could-displace-diy-rag-stacks-in-the-enterprise"
+      "articleUrl": "https://venturebeat.com/ai/the-compute-rethink-scaling-ai-where-data-lives-at-the-edge"
     },
     {
       "id": "194",
@@ -1307,38 +1374,40 @@
       "articleUrl": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise"
     },
     {
-      "id": "191",
-      "topic": "Hardware",
+      "id": "201",
+      "topic": "Generative AI",
       "source": "VentureBeat AI",
-      "shortTitle": "AI Moves to Edge",
-      "mediumTitle": "AI Processing Shifts to the Edge",
-      "longTitle": "The Compute Rethink: Scaling AI at the Edge",
+      "shortTitle": "Google File Search",
+      "mediumTitle": "Google\u0027s File Search Tool for RAG",
+      "longTitle": "Google\u0027s File Search Tool Simplifies Enterprise Data Grounding for AI",
       "paragraphs": [
         {
           "Lines": [
-            "The article \u0027The compute rethink:",
-            "Scaling AI where data lives, at the",
-            "edge\u0027 discusses the significant shift of",
-            "Artificial Intelligence (AI) processing",
-            "from centralized cloud data centers to",
-            "the \u0027edge,\u0027 meaning directly on devices,",
-            "sensors, and networks where data is",
-            "generated.",
-            "This transition is driven by several key",
-            "factors: the need for reduced latency,",
-            "enhanced data privacy, and cost",
-            "optimization as companies increasingly",
-            "invest in AI.",
-            "By processing data locally, dependency",
-            "on the cloud is reduced, leading to",
-            "faster and safer real-time",
-            "decision-making."
+            "Google has released the File Search Tool",
+            "on the Gemini API, a fully managed",
+            "Retrieval Augmented Generation (RAG)",
+            "system designed to simplify the process",
+            "of grounding AI applications with",
+            "enterprise data.",
+            "A key feature is its built-in citations,",
+            "which link generated answers to the",
+            "specific parts of the source documents",
+            "used, enhancing accuracy and",
+            "verifiability.",
+            "The tool utilizes vector search to",
+            "understand the meaning and context of",
+            "user queries, enabling it to find",
+            "relevant information from documents even",
+            "if the prompt uses inexact wording.",
+            "File Search handles complexities like",
+            "file storage, chunking strategies, and",
+            "embedding generation internally."
           ]
         }
       ],
       "publishedAt": "2025-11-06T06:00:00.000Z",
       "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/the-compute-rethink-scaling-ai-where-data-lives-at-the-edge"
+      "articleUrl": "https://venturebeat.com/ai/why-googles-file-search-could-displace-diy-rag-stacks-in-the-enterprise"
     },
     {
       "id": "179",
@@ -1476,77 +1545,6 @@
       "publishedAt": "2025-11-05T16:32:08.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/05/google-ai-introduces-consistency-training-for-safer-language-models-under-sycophantic-and-jailbreak-style-prompts/"
-    },
-    {
-      "id": "187",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Apple \u0026 Google AI",
-      "mediumTitle": "Apple to Integrate Google Gemini AI",
-      "longTitle": "Apple Reportedly Planning to Integrate Google\u0027s Gemini AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Apple is reportedly planning to",
-            "integrate a custom version of Google\u0027s",
-            "Gemini AI model into its upcoming",
-            "AI-powered features, codenamed \u0022Apple",
-            "Intelligence.\u0022",
-            "Specifically, Gemini will be utilized to",
-            "generate summaries of text and perform",
-            "planning-related tasks.",
-            "This significant move, detailed in a",
-            "Bloomberg report by Mark Gurman,",
-            "suggests a strategic partnership where",
-            "Apple would pay Google approximately $1",
-            "billion annually for access to Gemini\u0027s",
-            "capabilities.",
-            "The integration of Gemini is expected to",
-            "be a key component of Apple",
-            "Intelligence, which aims to bring more",
-            "sophisticated AI capabilities across",
-            "Apple devices."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T16:12:33.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/814654/apple-intelligence-google-gemini-ai-siri"
-    },
-    {
-      "id": "181",
-      "topic": "Speech",
-      "source": "The Verge AI",
-      "shortTitle": "Stream Ring",
-      "mediumTitle": "Sandbar\u0027s AI Stream Ring",
-      "longTitle": "Sandbar launches AI-powered Stream Ring for discreet voice notes",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Sandbar, a company established by former",
-            "employees of Meta-acquired neural",
-            "interface startup CTRL-Labs, is",
-            "introducing the Stream Ring, a new",
-            "AI-powered wearable.",
-            "The primary function of the Stream Ring",
-            "is its ability to record voice notes",
-            "discreetly.",
-            "The Stream Ring is an AI wearable with a",
-            "unique form factor and a specific use",
-            "case centered on voice recording.",
-            "It is highlighted for its capacity to",
-            "capture audio even when spoken in a",
-            "whisper.",
-            "This feature suggests a focus on privacy",
-            "and convenience for users needing to",
-            "record thoughts or messages without",
-            "drawing attention."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T12:55:55.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814329/sandbar-stream-ring-ai-wearable"
     }
   ]
 }
