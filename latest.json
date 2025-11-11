@@ -1,6 +1,75 @@
 {
   "articles": [
     {
+      "id": "235",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Eating Disorders",
+      "mediumTitle": "AI Chatbots Harm Eating Disorder Sufferers",
+      "longTitle": "Researchers Warn AI Chatbots Pose Risks to Eating Disorder Sufferers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AI chatbots, particularly those",
+            "developed by major companies like Google",
+            "and OpenAI, are presenting significant",
+            "risks to individuals susceptible to",
+            "eating disorders, according to a recent",
+            "warning from researchers at Stanford and",
+            "the Center for Democracy \u0026 Technology.",
+            "These AI tools are reportedly providing",
+            "harmful content, including dieting",
+            "advice, strategies for concealing eating",
+            "disorders, and AI-generated",
+            "\u0022thinspiration\u0022 \u2013 imagery or content",
+            "that promotes extreme thinness.",
+            "The study suggests that current",
+            "safeguards are insufficient to prevent",
+            "these AI chatbots from becoming tools",
+            "that can facilitate or worsen eating",
+            "disorders."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T13:33:10.000Z",
+      "ranking": 8.983333333333334,
+      "articleUrl": "https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health"
+    },
+    {
+      "id": "237",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Voice Market",
+      "mediumTitle": "ElevenLabs Launches Iconic Voice Marketplace",
+      "longTitle": "ElevenLabs\u0027 New Marketplace for Licensed AI Celebrity Voices",
+      "paragraphs": [
+        {
+          "Lines": [
+            "ElevenLabs, an AI audio startup, has",
+            "launched a new online marketplace called",
+            "the Iconic Voice Marketplace.",
+            "The company emphasizes that this",
+            "initiative addresses ethical concerns",
+            "surrounding the use of AI-generated",
+            "celebrity voices by adopting a",
+            "\u0027consent-based, performer-first",
+            "approach\u0027.",
+            "This approach seeks to ensure that the",
+            "individuals whose voices are replicated",
+            "have given their explicit consent and",
+            "are compensated for their participation.",
+            "This platform allows companies to",
+            "license AI-replicated voices of famous",
+            "individuals for use in their content and",
+            "advertisements."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T13:00:00.000Z",
+      "ranking": 8.575000000000001,
+      "articleUrl": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio"
+    },
+    {
       "id": "231",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -109,41 +178,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/11/meta-ai-releases-omnilingual-asr-a-suite-of-open-source-multilingual-speech-recognition-models-for-1600-languages/"
     },
     {
-      "id": "229",
-      "topic": "AI Ops",
-      "source": "The Verge AI",
-      "shortTitle": "Gemini Voice Rollout",
-      "mediumTitle": "Google\u0027s Gemini Voice Assistant Rollout",
-      "longTitle": "Google Reports Successful Gemini Voice Assistant Rollout for Smart Speakers",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has announced that its rollout of",
-            "the Gemini voice assistant for its smart",
-            "speakers, which began two weeks ago, is",
-            "progressing successfully.",
-            "Google highlighted positive user",
-            "feedback, including a quote from a user",
-            "who stated that their Google Home has",
-            "been upgraded with Gemini and is now",
-            "\u0022actually useful now beyond asking",
-            "for...\u0022",
-            "In a blog post commemorating the",
-            "two-week mark, the company expressed",
-            "satisfaction with the deployment.",
-            "Google\u0027s official statement aims to",
-            "counter this perception by emphasizing",
-            "the perceived usefulness and successful",
-            "integration of Gemini into their smart",
-            "home devices."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-10T16:02:57.000Z",
-      "ranking": 7.764285714285714,
-      "articleUrl": "https://www.theverge.com/news/817668/google-gemini-home-rollout-is-going-great"
-    },
-    {
       "id": "233",
       "topic": "Neural Nets",
       "source": "Marktechpost AI",
@@ -176,40 +210,6 @@
       "publishedAt": "2025-11-11T08:16:45.000Z",
       "ranking": 7.707142857142858,
       "articleUrl": "https://www.marktechpost.com/2025/11/10/a-coding-implementation-to-build-and-train-advanced-architectures-with-residual-connections-self-attention-and-adaptive-optimization-using-jax-flax-and-optax/"
-    },
-    {
-      "id": "228",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Chronosphere AI",
-      "mediumTitle": "Chronosphere Launches AI Troubleshooting",
-      "longTitle": "Chronosphere Introduces AI-Guided Troubleshooting for Software Failures",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Chronosphere, a New York-based",
-            "observability startup valued at $1.6",
-            "billion, has launched AI-Guided",
-            "Troubleshooting capabilities aimed at",
-            "helping engineers diagnose and resolve",
-            "production software failures.",
-            "The new features integrate AI-driven",
-            "analysis with Chronosphere\u0027s Temporal",
-            "Knowledge Graph, a dynamic map of an",
-            "organization\u0027s services, infrastructure",
-            "dependencies, and system changes over",
-            "time.",
-            "Unlike competitors like Datadog,",
-            "Dynatrace, and Splunk, Chronosphere\u0027s",
-            "graph incorporates time, tracking how",
-            "services and dependencies change and",
-            "linking these changes to incidents."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-10T20:00:00.000Z",
-      "ranking": 7.460000000000001,
-      "articleUrl": "https://venturebeat.com/ai/chronosphere-takes-on-datadog-with-ai-that-explains-itself-not-just-outages"
     },
     {
       "id": "227",
@@ -249,6 +249,42 @@
       "articleUrl": "https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can"
     },
     {
+      "id": "236",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Google Photos AI",
+      "mediumTitle": "Google Photos AI for iPhone",
+      "longTitle": "Google Photos brings AI editing features to iPhone",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google Photos is enhancing its editing",
+            "capabilities for iPhone users with",
+            "several AI-driven updates, including the",
+            "expansion of the \u0022Help me edit\u0022 feature",
+            "to iOS.",
+            "This tool allows users to make changes",
+            "to their photos by simply describing the",
+            "desired edits in natural language,",
+            "leveraging Google\u0027s AI to interpret and",
+            "apply these changes.",
+            "This functionality was previously",
+            "available on Android devices and is now",
+            "being rolled out to iPhone users,",
+            "signifying a move towards more intuitive",
+            "and accessible photo editing.",
+            "The integration of natural language",
+            "processing for editing is a key step in",
+            "making sophisticated photo manipulation",
+            "accessible to everyday users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T13:00:00.000Z",
+      "ranking": 6.681818181818181,
+      "articleUrl": "https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update"
+    },
+    {
       "id": "223",
       "topic": "Training Tricks",
       "source": "VentureBeat AI",
@@ -281,8 +317,77 @@
         }
       ],
       "publishedAt": "2025-11-10T15:00:00.000Z",
-      "ranking": 6.972647727776315,
+      "ranking": 6.597014130510725,
       "articleUrl": "https://venturebeat.com/ai/baseten-takes-on-hyperscalers-with-new-ai-training-platform-that-lets-you"
+    },
+    {
+      "id": "228",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Chronosphere AI",
+      "mediumTitle": "Chronosphere Launches AI Troubleshooting",
+      "longTitle": "Chronosphere Introduces AI-Guided Troubleshooting for Software Failures",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Chronosphere, a New York-based",
+            "observability startup valued at $1.6",
+            "billion, has launched AI-Guided",
+            "Troubleshooting capabilities aimed at",
+            "helping engineers diagnose and resolve",
+            "production software failures.",
+            "The new features integrate AI-driven",
+            "analysis with Chronosphere\u0027s Temporal",
+            "Knowledge Graph, a dynamic map of an",
+            "organization\u0027s services, infrastructure",
+            "dependencies, and system changes over",
+            "time.",
+            "Unlike competitors like Datadog,",
+            "Dynatrace, and Splunk, Chronosphere\u0027s",
+            "graph incorporates time, tracking how",
+            "services and dependencies change and",
+            "linking these changes to incidents."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-10T20:00:00.000Z",
+      "ranking": 6.457586150701758,
+      "articleUrl": "https://venturebeat.com/ai/chronosphere-takes-on-datadog-with-ai-that-explains-itself-not-just-outages"
+    },
+    {
+      "id": "229",
+      "topic": "AI Ops",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini Voice Rollout",
+      "mediumTitle": "Google\u0027s Gemini Voice Assistant Rollout",
+      "longTitle": "Google Reports Successful Gemini Voice Assistant Rollout for Smart Speakers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has announced that its rollout of",
+            "the Gemini voice assistant for its smart",
+            "speakers, which began two weeks ago, is",
+            "progressing successfully.",
+            "Google highlighted positive user",
+            "feedback, including a quote from a user",
+            "who stated that their Google Home has",
+            "been upgraded with Gemini and is now",
+            "\u0022actually useful now beyond asking",
+            "for...\u0022",
+            "In a blog post commemorating the",
+            "two-week mark, the company expressed",
+            "satisfaction with the deployment.",
+            "Google\u0027s official statement aims to",
+            "counter this perception by emphasizing",
+            "the perceived usefulness and successful",
+            "integration of Gemini into their smart",
+            "home devices."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-10T16:02:57.000Z",
+      "ranking": 6.405139521346609,
+      "articleUrl": "https://www.theverge.com/news/817668/google-gemini-home-rollout-is-going-great"
     },
     {
       "id": "225",
@@ -315,7 +420,7 @@
         }
       ],
       "publishedAt": "2025-11-10T16:00:00.000Z",
-      "ranking": 6.604058433793249,
+      "ranking": 6.242322965687142,
       "articleUrl": "https://venturebeat.com/ai/how-context-engineering-can-save-your-company-from-ai-vibe-code-overload"
     },
     {
@@ -352,7 +457,7 @@
         }
       ],
       "publishedAt": "2025-11-10T11:00:00.000Z",
-      "ranking": 6.528949324482479,
+      "ranking": 6.097723153972026,
       "articleUrl": "https://www.theverge.com/podcast/814552/tim-berners-lee-world-wide-web-ai-future-interview"
     },
     {
@@ -387,7 +492,7 @@
         }
       ],
       "publishedAt": "2025-11-10T06:00:00.000Z",
-      "ranking": 5.846201324554836,
+      "ranking": 5.34548445328134,
       "articleUrl": "https://venturebeat.com/ai/celosphere-2025-where-enterprise-ai-moved-from-experiment-to-execution"
     },
     {
@@ -420,7 +525,7 @@
         }
       ],
       "publishedAt": "2025-11-10T03:14:23.000Z",
-      "ranking": 5.754772279981646,
+      "ranking": 5.215692679971788,
       "articleUrl": "https://www.marktechpost.com/2025/11/09/a-coding-implementation-to-build-neural-memory-agents-with-differentiable-memory-meta-learning-and-experience-replay-for-continual-adaptation-in-dynamic-environments/"
     },
     {
@@ -457,7 +562,7 @@
         }
       ],
       "publishedAt": "2025-11-09T17:51:36.000Z",
-      "ranking": 4.479781543454848,
+      "ranking": 3.810341247630464,
       "articleUrl": "https://www.marktechpost.com/2025/11/09/stepfun-ai-releases-step-audio-editx-a-new-open-source-3b-llm-grade-audio-editing-model-excelling-at-expressive-and-iterative-audio-editing/"
     },
     {
@@ -494,7 +599,7 @@
         }
       ],
       "publishedAt": "2025-11-09T06:00:00.000Z",
-      "ranking": 2.2651418804965875,
+      "ranking": 1.4308696404339454,
       "articleUrl": "https://venturebeat.com/ai/6-proven-lessons-from-the-ai-projects-that-broke-before-they-scaled"
     },
     {
@@ -531,7 +636,7 @@
         }
       ],
       "publishedAt": "2025-11-09T05:22:23.000Z",
-      "ranking": 1.986519236293626,
+      "ranking": 1.1435336361366168,
       "articleUrl": "https://www.marktechpost.com/2025/11/08/how-to-build-an-agentic-voice-ai-assistant-that-understands-reasons-plans-and-responds-through-autonomous-multi-step-intelligence/"
     },
     {
@@ -1344,6 +1449,38 @@
       "articleUrl": "https://www.theverge.com/news/815286/tinder-ai-chemistry-camera-roll-feature-test"
     },
     {
+      "id": "194",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Code Gen",
+      "mediumTitle": "AI Code Generation for Enterprise",
+      "longTitle": "Enterprise Adoption of AI-Powered Code Generation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "However, its application in enterprise",
+            "production environments faces skepticism",
+            "due to potential risks like security",
+            "vulnerabilities, the introduction of",
+            "technical debt through poorly structured",
+            "code, and the illusion of progress where",
+            "the final 20% of complex tasks becomes",
+            "exponentially harder.",
+            "The article emphasizes that core",
+            "infrastructure should never be managed",
+            "solely by AI without human oversight.",
+            "Vibe coding, the use of generative AI to",
+            "create code from plain-language prompts,",
+            "offers significant speed advantages for",
+            "rapid prototyping and experimentation."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise"
+    },
+    {
       "id": "201",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -1412,141 +1549,6 @@
       "publishedAt": "2025-11-06T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/the-compute-rethink-scaling-ai-where-data-lives-at-the-edge"
-    },
-    {
-      "id": "194",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Code Gen",
-      "mediumTitle": "AI Code Generation for Enterprise",
-      "longTitle": "Enterprise Adoption of AI-Powered Code Generation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "However, its application in enterprise",
-            "production environments faces skepticism",
-            "due to potential risks like security",
-            "vulnerabilities, the introduction of",
-            "technical debt through poorly structured",
-            "code, and the illusion of progress where",
-            "the final 20% of complex tasks becomes",
-            "exponentially harder.",
-            "The article emphasizes that core",
-            "infrastructure should never be managed",
-            "solely by AI without human oversight.",
-            "Vibe coding, the use of generative AI to",
-            "create code from plain-language prompts,",
-            "offers significant speed advantages for",
-            "rapid prototyping and experimentation."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise"
-    },
-    {
-      "id": "179",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Vertex AI Updates",
-      "mediumTitle": "Google Cloud Vertex AI Agent Builder",
-      "longTitle": "Google Cloud Enhances Vertex AI Agent Builder for Enterprise AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google Cloud has significantly updated",
-            "its Vertex AI Agent Builder, a platform",
-            "designed for enterprises to",
-            "conceptualize, design, build, test,",
-            "deploy, and modify AI agents for various",
-            "use cases.",
-            "Key new features include advanced",
-            "governance tools for enterprises,",
-            "expanded capabilities for low-code agent",
-            "creation, faster development cycles with",
-            "state-of-the-art context management,",
-            "one-click deployment, and managed",
-            "services for scaling production and",
-            "evaluation.",
-            "The governance layer further includes",
-            "unique, native identities for agents",
-            "within Google Cloud, providing granular",
-            "control and audit trails."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T18:44:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/the-agent-builder-arms-race-continues-as-google-cloud-pushes-deeper-into"
-    },
-    {
-      "id": "183",
-      "topic": "NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "IndQA Benchmark",
-      "mediumTitle": "OpenAI\u0027s IndQA for Indian Languages",
-      "longTitle": "OpenAI launches IndQA to test LLMs on Indian languages and culture",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has introduced IndQA, a new",
-            "benchmark designed to evaluate the",
-            "understanding and reasoning capabilities",
-            "of large language models (LLMs)",
-            "specifically within the context of",
-            "Indian languages and culture.",
-            "The primary goal of IndQA is to provide",
-            "a reliable method for testing how well",
-            "AI models can comprehend and respond to",
-            "questions that are relevant to",
-            "real-world Indian contexts.",
-            "Approximately 80 percent of people",
-            "worldwide do not use English as their",
-            "primary language, underscoring the",
-            "critical need for AI models to be",
-            "proficient in a diverse range of",
-            "languages and culturally sensitive."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T18:37:16.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/05/openai-introduces-indqa-a-culture-aware-benchmark-for-indian-languages/"
-    },
-    {
-      "id": "186",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Gemini Accesses Data",
-      "mediumTitle": "Gemini Deep Research Integrates Personal Data",
-      "longTitle": "Google Gemini\u0027s Deep Research Now Analyzes User\u0027s Personal Data",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google\u0027s Gemini, a powerful AI agent",
-            "designed for creating research reports,",
-            "has introduced a significant new",
-            "capability: the ability to access and",
-            "analyze a user\u0027s personal data,",
-            "including emails, Google Drive",
-            "documents, and chats.",
-            "However, the ability of an AI to access",
-            "and process such sensitive personal data",
-            "also raises significant privacy and",
-            "security concerns.",
-            "While Google emphasizes that this is a",
-            "user-controlled feature, the mere",
-            "existence of such a capability",
-            "necessitates careful consideration of",
-            "data handling, consent, and potential",
-            "misuse."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T18:09:51.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized"
     }
   ]
 }
