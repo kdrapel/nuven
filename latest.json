@@ -70,6 +70,42 @@
       "articleUrl": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio"
     },
     {
+      "id": "239",
+      "topic": "Learning",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Learns Itself",
+      "mediumTitle": "SPICE: AI Self-Improvement Framework",
+      "longTitle": "SPICE: Novel AI Framework for Self-Taught Reasoning Skills",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta FAIR and the National University of",
+            "Singapore have introduced SPICE, a novel",
+            "reinforcement learning framework",
+            "enabling AI systems to teach themselves",
+            "reasoning skills through self-play.",
+            "SPICE employs a single model acting as",
+            "both a \u0027Challenger\u0027 that generates",
+            "problems from a large corpus and a",
+            "\u0027Reasoner\u0027 that solves them without",
+            "direct source access.",
+            "SPICE represents a paradigm shift from",
+            "closed-loop self-play to open-ended",
+            "improvement through interaction with",
+            "verifiable knowledge in document",
+            "corpora.",
+            "By grounding tasks in a vast corpus,",
+            "SPICE prevents hallucinations and",
+            "ensures answers are based on real-world",
+            "content."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T18:21:00.000Z",
+      "ranking": 8.226923076923077,
+      "articleUrl": "https://venturebeat.com/ai/metas-spice-framework-lets-ai-systems-teach-themselves-to-reason"
+    },
+    {
       "id": "231",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -212,41 +248,107 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/10/a-coding-implementation-to-build-and-train-advanced-architectures-with-residual-connections-self-attention-and-adaptive-optimization-using-jax-flax-and-optax/"
     },
     {
-      "id": "227",
+      "id": "241",
       "topic": "Speech",
-      "source": "VentureBeat AI",
-      "shortTitle": "Meta\u0027s Omnilingual ASR",
-      "mediumTitle": "Meta\u0027s Omnilingual ASR: 1600\u002B Languages",
-      "longTitle": "Meta\u0027s Omnilingual ASR: Open-Source, 1600\u002B Languages, Extensible",
+      "source": "Marktechpost AI",
+      "shortTitle": "Maya1 TTS",
+      "mediumTitle": "Maya1: Open-Source Expressive TTS",
+      "longTitle": "Maya1: New Open-Source Controllable Text-to-Speech Model",
       "paragraphs": [
         {
           "Lines": [
-            "Meta has released Omnilingual ASR, a new",
-            "open-source automatic speech recognition",
-            "system that supports over 1,600",
-            "languages natively, significantly",
-            "surpassing OpenAI\u0027s Whisper model, which",
-            "supports 99.",
-            "Crucially, Omnilingual ASR is",
-            "open-sourced under a permissive Apache",
-            "2.0 license, unlike Meta\u0027s previous",
-            "Llama releases which had restrictive",
-            "terms for larger enterprises.",
-            "While models like Whisper support 99",
-            "languages, Meta\u0027s system directly",
-            "supports over 1,600 and can generalize",
-            "to over 5,400 using in-context learning.",
-            "This new system is designed to be highly",
-            "extensible, allowing developers to add",
-            "support for thousands more languages",
-            "through a feature called zero-shot",
-            "in-context learning."
+            "Maya1, a new open-source 3 billion",
+            "parameter text-to-speech (TTS) model,",
+            "has been released by Maya Research.",
+            "This model is designed to generate",
+            "controllable and expressive speech from",
+            "text input, augmented by a short",
+            "descriptive prompt.",
+            "A key feature of Maya1 is its ability to",
+            "operate in real-time on a single GPU,",
+            "making advanced TTS capabilities more",
+            "accessible.",
+            "The mention of \u0027controllable\u0027 speech",
+            "implies that users might have the",
+            "ability to influence aspects like tone,",
+            "emotion, or speaking style, which is a",
+            "crucial element for truly expressive",
+            "TTS."
           ]
         }
       ],
-      "publishedAt": "2025-11-10T21:27:00.000Z",
-      "ranking": 7.170833333333334,
-      "articleUrl": "https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can"
+      "publishedAt": "2025-11-11T22:50:30.000Z",
+      "ranking": 7.625,
+      "articleUrl": "https://www.marktechpost.com/2025/11/11/maya1-a-new-open-source-3b-voice-model-for-expressive-text-to-speech-on-a-single-gpu/"
+    },
+    {
+      "id": "238",
+      "topic": "Dev Tools",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI in Dev",
+      "mediumTitle": "AI Reshaping Software Development",
+      "longTitle": "AI is transforming software development roles and workflows by 2026",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The report, which polled 501 developers",
+            "and 19 project managers, found that",
+            "nearly two-thirds (65%) of senior",
+            "developers anticipate their roles will",
+            "be redefined by AI by 2026.",
+            "Crucially, only 9% trust AI code enough",
+            "to use it without human oversight.",
+            "This transformation involves a move away",
+            "from routine coding tasks towards more",
+            "emphasis on design, strategy, and AI",
+            "fluency.",
+            "A survey by BairesDev, the \u0022Dev",
+            "Barometer\u0022 report, indicates a",
+            "significant shift in software",
+            "development driven by artificial",
+            "intelligence."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T20:43:00.000Z",
+      "ranking": 7.3769230769230765,
+      "articleUrl": "https://venturebeat.com/ai/only-9-of-developers-think-ai-code-can-be-used-without-human-oversight"
+    },
+    {
+      "id": "240",
+      "topic": "Dev Tools",
+      "source": "The Verge AI",
+      "shortTitle": "Google AI Privacy",
+      "mediumTitle": "Google\u0027s Private AI Cloud Compute",
+      "longTitle": "Google Launches Privacy-Focused AI Cloud Compute Platform",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google is launching a new cloud-based",
+            "platform designed to enable advanced AI",
+            "features on user devices while",
+            "prioritizing data privacy.",
+            "The core of Google\u0027s new offering is to",
+            "allow AI processing to occur in a",
+            "secure, remote cloud environment,",
+            "thereby protecting sensitive user data.",
+            "By offloading this processing to the",
+            "cloud, Google can offer powerful AI",
+            "capabilities without compromising the",
+            "privacy of its users\u0027 information.",
+            "This initiative mirrors Apple\u0027s existing",
+            "Private Cloud Compute (PCC) technology,",
+            "highlighting a trend among major tech",
+            "companies to balance user privacy",
+            "concerns with the increasing",
+            "computational demands of modern AI",
+            "applications."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T15:00:00.000Z",
+      "ranking": 7.305000000000001,
+      "articleUrl": "https://www.theverge.com/news/818364/google-private-ai-compute"
     },
     {
       "id": "236",
@@ -317,7 +419,7 @@
         }
       ],
       "publishedAt": "2025-11-10T15:00:00.000Z",
-      "ranking": 6.597014130510725,
+      "ranking": 6.1656407451914745,
       "articleUrl": "https://venturebeat.com/ai/baseten-takes-on-hyperscalers-with-new-ai-training-platform-that-lets-you"
     },
     {
@@ -351,7 +453,7 @@
         }
       ],
       "publishedAt": "2025-11-10T20:00:00.000Z",
-      "ranking": 6.457586150701758,
+      "ranking": 6.0957201473689775,
       "articleUrl": "https://venturebeat.com/ai/chronosphere-takes-on-datadog-with-ai-that-explains-itself-not-just-outages"
     },
     {
@@ -386,8 +488,45 @@
         }
       ],
       "publishedAt": "2025-11-10T16:02:57.000Z",
-      "ranking": 6.405139521346609,
+      "ranking": 5.98835110370487,
       "articleUrl": "https://www.theverge.com/news/817668/google-gemini-home-rollout-is-going-great"
+    },
+    {
+      "id": "227",
+      "topic": "Speech",
+      "source": "VentureBeat AI",
+      "shortTitle": "Meta\u0027s Omnilingual ASR",
+      "mediumTitle": "Meta\u0027s Omnilingual ASR: 1600\u002B Languages",
+      "longTitle": "Meta\u0027s Omnilingual ASR: Open-Source, 1600\u002B Languages, Extensible",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta has released Omnilingual ASR, a new",
+            "open-source automatic speech recognition",
+            "system that supports over 1,600",
+            "languages natively, significantly",
+            "surpassing OpenAI\u0027s Whisper model, which",
+            "supports 99.",
+            "Crucially, Omnilingual ASR is",
+            "open-sourced under a permissive Apache",
+            "2.0 license, unlike Meta\u0027s previous",
+            "Llama releases which had restrictive",
+            "terms for larger enterprises.",
+            "While models like Whisper support 99",
+            "languages, Meta\u0027s system directly",
+            "supports over 1,600 and can generalize",
+            "to over 5,400 using in-context learning.",
+            "This new system is designed to be highly",
+            "extensible, allowing developers to add",
+            "support for thousands more languages",
+            "through a feature called zero-shot",
+            "in-context learning."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-10T21:27:00.000Z",
+      "ranking": 5.944039521944194,
+      "articleUrl": "https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can"
     },
     {
       "id": "225",
@@ -420,7 +559,7 @@
         }
       ],
       "publishedAt": "2025-11-10T16:00:00.000Z",
-      "ranking": 6.242322965687142,
+      "ranking": 5.824851053657227,
       "articleUrl": "https://venturebeat.com/ai/how-context-engineering-can-save-your-company-from-ai-vibe-code-overload"
     },
     {
@@ -457,7 +596,7 @@
         }
       ],
       "publishedAt": "2025-11-10T11:00:00.000Z",
-      "ranking": 6.097723153972026,
+      "ranking": 5.610743861486567,
       "articleUrl": "https://www.theverge.com/podcast/814552/tim-berners-lee-world-wide-web-ai-future-interview"
     },
     {
@@ -492,7 +631,7 @@
         }
       ],
       "publishedAt": "2025-11-10T06:00:00.000Z",
-      "ranking": 5.34548445328134,
+      "ranking": 4.788997779373776,
       "articleUrl": "https://venturebeat.com/ai/celosphere-2025-where-enterprise-ai-moved-from-experiment-to-execution"
     },
     {
@@ -525,7 +664,7 @@
         }
       ],
       "publishedAt": "2025-11-10T03:14:23.000Z",
-      "ranking": 5.215692679971788,
+      "ranking": 4.620834071064543,
       "articleUrl": "https://www.marktechpost.com/2025/11/09/a-coding-implementation-to-build-neural-memory-agents-with-differentiable-memory-meta-learning-and-experience-replay-for-continual-adaptation-in-dynamic-environments/"
     },
     {
@@ -562,7 +701,7 @@
         }
       ],
       "publishedAt": "2025-11-09T17:51:36.000Z",
-      "ranking": 3.810341247630464,
+      "ranking": 3.08509065402652,
       "articleUrl": "https://www.marktechpost.com/2025/11/09/stepfun-ai-releases-step-audio-editx-a-new-open-source-3b-llm-grade-audio-editing-model-excelling-at-expressive-and-iterative-audio-editing/"
     },
     {
@@ -599,7 +738,7 @@
         }
       ],
       "publishedAt": "2025-11-09T06:00:00.000Z",
-      "ranking": 1.4308696404339454,
+      "ranking": 0.5407475407547064,
       "articleUrl": "https://venturebeat.com/ai/6-proven-lessons-from-the-ai-projects-that-broke-before-they-scaled"
     },
     {
@@ -636,7 +775,7 @@
         }
       ],
       "publishedAt": "2025-11-09T05:22:23.000Z",
-      "ranking": 1.1435336361366168,
+      "ranking": 0.24469608298741274,
       "articleUrl": "https://www.marktechpost.com/2025/11/08/how-to-build-an-agentic-voice-ai-assistant-that-understands-reasons-plans-and-responds-through-autonomous-multi-step-intelligence/"
     },
     {
@@ -1410,145 +1549,6 @@
       "publishedAt": "2025-11-06T09:15:35.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/815328/beebot-app-foursquare-founder-ai-audio-updates"
-    },
-    {
-      "id": "188",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Tinder AI",
-      "mediumTitle": "Tinder\u0027s New AI Feature: Chemistry",
-      "longTitle": "Tinder Pilots AI Feature \u0027Chemistry\u0027 to Enhance Match Quality",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Tinder is piloting a new AI-driven",
-            "feature called \u0022Chemistry\u0022 aimed at",
-            "improving match quality and reducing",
-            "user fatigue.",
-            "This innovative tool analyzes a user\u0027s",
-            "camera roll, with their explicit",
-            "permission, to glean insights into their",
-            "interests and personality.",
-            "This data is then used to refine the",
-            "matching algorithm, prioritizing",
-            "individuals who are more likely to share",
-            "common ground and have a genuine",
-            "connection.",
-            "The objective is to move beyond",
-            "superficial swiping and present users",
-            "with fewer, but significantly more",
-            "compatible, potential matches.",
-            "The feature is designed to be opt-in,",
-            "ensuring user privacy and control over",
-            "their data."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T06:03:50.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/815286/tinder-ai-chemistry-camera-roll-feature-test"
-    },
-    {
-      "id": "194",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Code Gen",
-      "mediumTitle": "AI Code Generation for Enterprise",
-      "longTitle": "Enterprise Adoption of AI-Powered Code Generation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "However, its application in enterprise",
-            "production environments faces skepticism",
-            "due to potential risks like security",
-            "vulnerabilities, the introduction of",
-            "technical debt through poorly structured",
-            "code, and the illusion of progress where",
-            "the final 20% of complex tasks becomes",
-            "exponentially harder.",
-            "The article emphasizes that core",
-            "infrastructure should never be managed",
-            "solely by AI without human oversight.",
-            "Vibe coding, the use of generative AI to",
-            "create code from plain-language prompts,",
-            "offers significant speed advantages for",
-            "rapid prototyping and experimentation."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise"
-    },
-    {
-      "id": "201",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Google File Search",
-      "mediumTitle": "Google\u0027s File Search Tool for RAG",
-      "longTitle": "Google\u0027s File Search Tool Simplifies Enterprise Data Grounding for AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has released the File Search Tool",
-            "on the Gemini API, a fully managed",
-            "Retrieval Augmented Generation (RAG)",
-            "system designed to simplify the process",
-            "of grounding AI applications with",
-            "enterprise data.",
-            "A key feature is its built-in citations,",
-            "which link generated answers to the",
-            "specific parts of the source documents",
-            "used, enhancing accuracy and",
-            "verifiability.",
-            "The tool utilizes vector search to",
-            "understand the meaning and context of",
-            "user queries, enabling it to find",
-            "relevant information from documents even",
-            "if the prompt uses inexact wording.",
-            "File Search handles complexities like",
-            "file storage, chunking strategies, and",
-            "embedding generation internally."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/why-googles-file-search-could-displace-diy-rag-stacks-in-the-enterprise"
-    },
-    {
-      "id": "191",
-      "topic": "Hardware",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Moves to Edge",
-      "mediumTitle": "AI Processing Shifts to the Edge",
-      "longTitle": "The Compute Rethink: Scaling AI at the Edge",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article \u0027The compute rethink:",
-            "Scaling AI where data lives, at the",
-            "edge\u0027 discusses the significant shift of",
-            "Artificial Intelligence (AI) processing",
-            "from centralized cloud data centers to",
-            "the \u0027edge,\u0027 meaning directly on devices,",
-            "sensors, and networks where data is",
-            "generated.",
-            "This transition is driven by several key",
-            "factors: the need for reduced latency,",
-            "enhanced data privacy, and cost",
-            "optimization as companies increasingly",
-            "invest in AI.",
-            "By processing data locally, dependency",
-            "on the cloud is reduced, leading to",
-            "faster and safer real-time",
-            "decision-making."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/the-compute-rethink-scaling-ai-where-data-lives-at-the-edge"
     }
   ]
 }
