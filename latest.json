@@ -37,6 +37,43 @@
       "articleUrl": "https://venturebeat.com/ai/baseten-takes-on-hyperscalers-with-new-ai-training-platform-that-lets-you"
     },
     {
+      "id": "231",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Kosong AI Layer",
+      "mediumTitle": "Moonshot AI\u0027s Kosong LLM Abstraction",
+      "longTitle": "Moonshot AI introduces Kosong to simplify agentic AI applications",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Moonshot AI has launched Kosong, an LLM",
+            "abstraction layer designed to simplify",
+            "complex agentic AI applications that",
+            "interact with multiple models and tools.",
+            "By abstracting LLM and tool interaction",
+            "complexities, Kosong empowers developers",
+            "to build more robust and maintainable",
+            "agentic applications.",
+            "A core feature of Kosong is its ability",
+            "to unify message structures, ensuring",
+            "consistent communication across various",
+            "LLMs.",
+            "Kosong also facilitates asynchronous",
+            "tool orchestration, allowing agent",
+            "applications to efficiently manage and",
+            "execute multiple tool calls",
+            "concurrently.",
+            "This abstraction simplifies integrating",
+            "and switching between different language",
+            "models without extensive code changes."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T00:47:22.000Z",
+      "ranking": 8.007692307692308,
+      "articleUrl": "https://www.marktechpost.com/2025/11/10/moonshot-ai-releases-kosong-the-llm-abstraction-layer-that-powers-kimi-cli/"
+    },
+    {
       "id": "226",
       "topic": "Policy",
       "source": "The Verge AI",
@@ -72,41 +109,6 @@
       "publishedAt": "2025-11-10T11:00:00.000Z",
       "ranking": 7.991666666666667,
       "articleUrl": "https://www.theverge.com/podcast/814552/tim-berners-lee-world-wide-web-ai-future-interview"
-    },
-    {
-      "id": "224",
-      "topic": "Business",
-      "source": "VentureBeat AI",
-      "shortTitle": "Celosphere AI Shift",
-      "mediumTitle": "Celosphere 2025: AI Execution",
-      "longTitle": "Celosphere 2025: Enterprise AI Moves to Execution",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Celosphere 2025, presented by Celonis,",
-            "marked a significant shift in enterprise",
-            "AI, moving from experimental phases to",
-            "tangible execution and measurable",
-            "benefits.",
-            "The central theme was the critical need",
-            "for \u0027process context\u0027 to unlock AI\u0027s",
-            "true potential, as highlighted by",
-            "Celonis co-founder and co-CEO Alexander",
-            "Rinke, who stated that only 11% of",
-            "companies are currently seeing",
-            "measurable benefits from AI projects due",
-            "to a \u0027context problem\u0027 rather than an",
-            "adoption issue.",
-            "Ultimately, Celosphere 2025 underscored",
-            "that enterprise AI scales effectively",
-            "when grounded in how people and systems",
-            "actually work together."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-10T06:00:00.000Z",
-      "ranking": 7.856249999999999,
-      "articleUrl": "https://venturebeat.com/ai/celosphere-2025-where-enterprise-ai-moved-from-experiment-to-execution"
     },
     {
       "id": "229",
@@ -249,6 +251,41 @@
       "articleUrl": "https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can"
     },
     {
+      "id": "224",
+      "topic": "Business",
+      "source": "VentureBeat AI",
+      "shortTitle": "Celosphere AI Shift",
+      "mediumTitle": "Celosphere 2025: AI Execution",
+      "longTitle": "Celosphere 2025: Enterprise AI Moves to Execution",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Celosphere 2025, presented by Celonis,",
+            "marked a significant shift in enterprise",
+            "AI, moving from experimental phases to",
+            "tangible execution and measurable",
+            "benefits.",
+            "The central theme was the critical need",
+            "for \u0027process context\u0027 to unlock AI\u0027s",
+            "true potential, as highlighted by",
+            "Celonis co-founder and co-CEO Alexander",
+            "Rinke, who stated that only 11% of",
+            "companies are currently seeing",
+            "measurable benefits from AI projects due",
+            "to a \u0027context problem\u0027 rather than an",
+            "adoption issue.",
+            "Ultimately, Celosphere 2025 underscored",
+            "that enterprise AI scales effectively",
+            "when grounded in how people and systems",
+            "actually work together."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-10T06:00:00.000Z",
+      "ranking": 6.680460053050317,
+      "articleUrl": "https://venturebeat.com/ai/celosphere-2025-where-enterprise-ai-moved-from-experiment-to-execution"
+    },
+    {
       "id": "221",
       "topic": "Neural Nets",
       "source": "Marktechpost AI",
@@ -278,7 +315,7 @@
         }
       ],
       "publishedAt": "2025-11-10T03:14:23.000Z",
-      "ranking": 7.037849829168396,
+      "ranking": 6.665726102612823,
       "articleUrl": "https://www.marktechpost.com/2025/11/09/a-coding-implementation-to-build-neural-memory-agents-with-differentiable-memory-meta-learning-and-experience-replay-for-continual-adaptation-in-dynamic-environments/"
     },
     {
@@ -315,7 +352,7 @@
         }
       ],
       "publishedAt": "2025-11-09T17:51:36.000Z",
-      "ranking": 6.153795946142097,
+      "ranking": 5.651353582789544,
       "articleUrl": "https://www.marktechpost.com/2025/11/09/stepfun-ai-releases-step-audio-editx-a-new-open-source-3b-llm-grade-audio-editing-model-excelling-at-expressive-and-iterative-audio-editing/"
     },
     {
@@ -352,7 +389,7 @@
         }
       ],
       "publishedAt": "2025-11-09T06:00:00.000Z",
-      "ranking": 4.433468478629216,
+      "ranking": 3.766247350386691,
       "articleUrl": "https://venturebeat.com/ai/6-proven-lessons-from-the-ai-projects-that-broke-before-they-scaled"
     },
     {
@@ -389,8 +426,41 @@
         }
       ],
       "publishedAt": "2025-11-09T05:22:23.000Z",
-      "ranking": 4.180976216077836,
+      "ranking": 3.505044535627082,
       "articleUrl": "https://www.marktechpost.com/2025/11/08/how-to-build-an-agentic-voice-ai-assistant-that-understands-reasons-plans-and-responds-through-autonomous-multi-step-intelligence/"
+    },
+    {
+      "id": "213",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "TabPFN-2.5",
+      "mediumTitle": "Prior Labs Updates Tabular Model",
+      "longTitle": "Prior Labs Releases TabPFN-2.5 for Larger Datasets",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Prior Labs has released TabPFN-2.5, an",
+            "updated version of their tabular",
+            "foundation model.",
+            "This new iteration significantly",
+            "enhances the model\u0027s capabilities by",
+            "enabling it to handle larger datasets",
+            "and more complex features.",
+            "Specifically, TabPFN-2.5 can now scale",
+            "its context learning to accommodate up",
+            "to 50,000 samples and 2,000 features.",
+            "The development of TabPFN-2.5 aims to",
+            "provide these industries with a more",
+            "powerful and efficient tool for",
+            "analyzing and deriving insights from",
+            "their tabular datasets, while",
+            "maintaining speed and performance."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-08T11:44:44.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.marktechpost.com/2025/11/08/prior-labs-releases-tabpfn-2-5-the-latest-version-of-tabpfn-that-unlocks-scale-and-speed-for-tabular-foundation-models/"
     },
     {
       "id": "214",
@@ -425,41 +495,8 @@
         }
       ],
       "publishedAt": "2025-11-08T10:32:59.000Z",
-      "ranking": 0.619320629983692,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/08/how-to-build-an-advanced-multi-page-reflex-web-application-with-real-time-database-dynamic-state-management-and-reactive-ui/"
-    },
-    {
-      "id": "213",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "TabPFN-2.5",
-      "mediumTitle": "Prior Labs Updates Tabular Model",
-      "longTitle": "Prior Labs Releases TabPFN-2.5 for Larger Datasets",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Prior Labs has released TabPFN-2.5, an",
-            "updated version of their tabular",
-            "foundation model.",
-            "This new iteration significantly",
-            "enhances the model\u0027s capabilities by",
-            "enabling it to handle larger datasets",
-            "and more complex features.",
-            "Specifically, TabPFN-2.5 can now scale",
-            "its context learning to accommodate up",
-            "to 50,000 samples and 2,000 features.",
-            "The development of TabPFN-2.5 aims to",
-            "provide these industries with a more",
-            "powerful and efficient tool for",
-            "analyzing and deriving insights from",
-            "their tabular datasets, while",
-            "maintaining speed and performance."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-08T11:44:44.000Z",
-      "ranking": 0.49382320746693953,
-      "articleUrl": "https://www.marktechpost.com/2025/11/08/prior-labs-releases-tabpfn-2-5-the-latest-version-of-tabpfn-that-unlocks-scale-and-speed-for-tabular-foundation-models/"
     },
     {
       "id": "215",
@@ -494,7 +531,7 @@
         }
       ],
       "publishedAt": "2025-11-08T09:00:00.000Z",
-      "ranking": 0.41668819066480367,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/report/816946/electricity-rates-election-democrats"
     },
     {
@@ -1238,6 +1275,38 @@
       "articleUrl": "https://venturebeat.com/ai/why-googles-file-search-could-displace-diy-rag-stacks-in-the-enterprise"
     },
     {
+      "id": "194",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Code Gen",
+      "mediumTitle": "AI Code Generation for Enterprise",
+      "longTitle": "Enterprise Adoption of AI-Powered Code Generation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "However, its application in enterprise",
+            "production environments faces skepticism",
+            "due to potential risks like security",
+            "vulnerabilities, the introduction of",
+            "technical debt through poorly structured",
+            "code, and the illusion of progress where",
+            "the final 20% of complex tasks becomes",
+            "exponentially harder.",
+            "The article emphasizes that core",
+            "infrastructure should never be managed",
+            "solely by AI without human oversight.",
+            "Vibe coding, the use of generative AI to",
+            "create code from plain-language prompts,",
+            "offers significant speed advantages for",
+            "rapid prototyping and experimentation."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise"
+    },
+    {
       "id": "191",
       "topic": "Hardware",
       "source": "VentureBeat AI",
@@ -1270,38 +1339,6 @@
       "publishedAt": "2025-11-06T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/the-compute-rethink-scaling-ai-where-data-lives-at-the-edge"
-    },
-    {
-      "id": "194",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Code Gen",
-      "mediumTitle": "AI Code Generation for Enterprise",
-      "longTitle": "Enterprise Adoption of AI-Powered Code Generation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "However, its application in enterprise",
-            "production environments faces skepticism",
-            "due to potential risks like security",
-            "vulnerabilities, the introduction of",
-            "technical debt through poorly structured",
-            "code, and the illusion of progress where",
-            "the final 20% of complex tasks becomes",
-            "exponentially harder.",
-            "The article emphasizes that core",
-            "infrastructure should never be managed",
-            "solely by AI without human oversight.",
-            "Vibe coding, the use of generative AI to",
-            "create code from plain-language prompts,",
-            "offers significant speed advantages for",
-            "rapid prototyping and experimentation."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise"
     },
     {
       "id": "179",
