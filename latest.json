@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "id": "223",
-      "topic": "Training Tricks",
-      "source": "VentureBeat AI",
-      "shortTitle": "Baseten Training",
-      "mediumTitle": "Baseten Launches AI Training Platform",
-      "longTitle": "Baseten Training Platform Aims to Reduce Enterprise Reliance on Proprietary AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Baseten, an AI infrastructure company",
-            "valued at $2.15 billion, has launched",
-            "Baseten Training, a comprehensive",
-            "platform for fine-tuning open-source AI",
-            "models.",
-            "This strategic move aims to reduce",
-            "enterprise reliance on proprietary AI",
-            "providers like OpenAI by offering a",
-            "solution that simplifies the",
-            "complexities of GPU cluster management,",
-            "orchestration, and cloud capacity",
-            "planning.",
-            "Baseten\u0027s core philosophy is that",
-            "training is a means to enhance",
-            "inference, aiming to provide",
-            "infrastructure that simplifies the",
-            "fine-tuning process and optimizes for",
-            "performant, reliable, and cost-effective",
-            "inference at scale."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-10T15:00:00.000Z",
-      "ranking": 8.060000000000002,
-      "articleUrl": "https://venturebeat.com/ai/baseten-takes-on-hyperscalers-with-new-ai-training-platform-that-lets-you"
-    },
-    {
       "id": "231",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -72,6 +36,42 @@
       "publishedAt": "2025-11-11T00:47:22.000Z",
       "ranking": 8.007692307692308,
       "articleUrl": "https://www.marktechpost.com/2025/11/10/moonshot-ai-releases-kosong-the-llm-abstraction-layer-that-powers-kimi-cli/"
+    },
+    {
+      "id": "234",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Bixby AI TV",
+      "mediumTitle": "Samsung Bixby Gets Generative AI",
+      "longTitle": "Samsung\u0027s 2025 TVs Feature Vision AI Companion with Generative AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Samsung is introducing a significant",
+            "upgrade to its Bixby virtual assistant,",
+            "integrating generative AI capabilities",
+            "into its 2025 television lineup.",
+            "The core functionality revolves around",
+            "the ability to ask questions not only",
+            "about the content currently being",
+            "displayed on the screen but also about",
+            "broader topics beyond the immediate",
+            "visual context.",
+            "This new feature, dubbed \u0027Vision AI",
+            "Companion,\u0027 allows users to engage in",
+            "more natural, conversational",
+            "interactions with their TVs.",
+            "This generative AI-powered Bixby",
+            "represents a substantial evolution from",
+            "previous iterations, with the key",
+            "differentiator being the incorporation",
+            "of generative AI."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T08:37:26.000Z",
+      "ranking": 7.880000000000001,
+      "articleUrl": "https://www.theverge.com/news/818355/samsung-tvs-bixby-generative-ai-conversational"
     },
     {
       "id": "232",
@@ -178,40 +178,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/10/a-coding-implementation-to-build-and-train-advanced-architectures-with-residual-connections-self-attention-and-adaptive-optimization-using-jax-flax-and-optax/"
     },
     {
-      "id": "225",
-      "topic": "Dev Tools",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI for Code Reviews",
-      "mediumTitle": "monday.com Uses AI for Code Reviews",
-      "longTitle": "monday.com Leverages AI Tool Qodo for Efficient Code Reviews",
-      "paragraphs": [
-        {
-          "Lines": [
-            "monday.com, a cloud project tracking",
-            "software company, adopted Qodo, an AI",
-            "tool specializing in \u0027context",
-            "engineering,\u0027 to manage a growing volume",
-            "of code reviews as its engineering team",
-            "expanded beyond 500 developers.",
-            "Guy Regev, VP of R\u0026D at monday.com,",
-            "stated that Qodo feels like an",
-            "integrated team member that prevents",
-            "over 800 issues per month from reaching",
-            "production, some posing significant",
-            "security risks.",
-            "Qodo differentiates itself from code",
-            "generation tools by focusing on code",
-            "review and providing AI models with a",
-            "comprehensive understanding of a pull",
-            "request\u0027s context."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-10T16:00:00.000Z",
-      "ranking": 7.606249999999999,
-      "articleUrl": "https://venturebeat.com/ai/how-context-engineering-can-save-your-company-from-ai-vibe-code-overload"
-    },
-    {
       "id": "228",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -283,6 +249,76 @@
       "articleUrl": "https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can"
     },
     {
+      "id": "223",
+      "topic": "Training Tricks",
+      "source": "VentureBeat AI",
+      "shortTitle": "Baseten Training",
+      "mediumTitle": "Baseten Launches AI Training Platform",
+      "longTitle": "Baseten Training Platform Aims to Reduce Enterprise Reliance on Proprietary AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Baseten, an AI infrastructure company",
+            "valued at $2.15 billion, has launched",
+            "Baseten Training, a comprehensive",
+            "platform for fine-tuning open-source AI",
+            "models.",
+            "This strategic move aims to reduce",
+            "enterprise reliance on proprietary AI",
+            "providers like OpenAI by offering a",
+            "solution that simplifies the",
+            "complexities of GPU cluster management,",
+            "orchestration, and cloud capacity",
+            "planning.",
+            "Baseten\u0027s core philosophy is that",
+            "training is a means to enhance",
+            "inference, aiming to provide",
+            "infrastructure that simplifies the",
+            "fine-tuning process and optimizes for",
+            "performant, reliable, and cost-effective",
+            "inference at scale."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-10T15:00:00.000Z",
+      "ranking": 6.972647727776315,
+      "articleUrl": "https://venturebeat.com/ai/baseten-takes-on-hyperscalers-with-new-ai-training-platform-that-lets-you"
+    },
+    {
+      "id": "225",
+      "topic": "Dev Tools",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI for Code Reviews",
+      "mediumTitle": "monday.com Uses AI for Code Reviews",
+      "longTitle": "monday.com Leverages AI Tool Qodo for Efficient Code Reviews",
+      "paragraphs": [
+        {
+          "Lines": [
+            "monday.com, a cloud project tracking",
+            "software company, adopted Qodo, an AI",
+            "tool specializing in \u0027context",
+            "engineering,\u0027 to manage a growing volume",
+            "of code reviews as its engineering team",
+            "expanded beyond 500 developers.",
+            "Guy Regev, VP of R\u0026D at monday.com,",
+            "stated that Qodo feels like an",
+            "integrated team member that prevents",
+            "over 800 issues per month from reaching",
+            "production, some posing significant",
+            "security risks.",
+            "Qodo differentiates itself from code",
+            "generation tools by focusing on code",
+            "review and providing AI models with a",
+            "comprehensive understanding of a pull",
+            "request\u0027s context."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-10T16:00:00.000Z",
+      "ranking": 6.604058433793249,
+      "articleUrl": "https://venturebeat.com/ai/how-context-engineering-can-save-your-company-from-ai-vibe-code-overload"
+    },
+    {
       "id": "226",
       "topic": "Policy",
       "source": "The Verge AI",
@@ -316,7 +352,7 @@
         }
       ],
       "publishedAt": "2025-11-10T11:00:00.000Z",
-      "ranking": 6.904303991630383,
+      "ranking": 6.528949324482479,
       "articleUrl": "https://www.theverge.com/podcast/814552/tim-berners-lee-world-wide-web-ai-future-interview"
     },
     {
@@ -351,7 +387,7 @@
         }
       ],
       "publishedAt": "2025-11-10T06:00:00.000Z",
-      "ranking": 6.290998360742347,
+      "ranking": 5.846201324554836,
       "articleUrl": "https://venturebeat.com/ai/celosphere-2025-where-enterprise-ai-moved-from-experiment-to-execution"
     },
     {
@@ -384,7 +420,7 @@
         }
       ],
       "publishedAt": "2025-11-10T03:14:23.000Z",
-      "ranking": 6.2379053615333895,
+      "ranking": 5.754772279981646,
       "articleUrl": "https://www.marktechpost.com/2025/11/09/a-coding-implementation-to-build-neural-memory-agents-with-differentiable-memory-meta-learning-and-experience-replay-for-continual-adaptation-in-dynamic-environments/"
     },
     {
@@ -421,7 +457,7 @@
         }
       ],
       "publishedAt": "2025-11-09T17:51:36.000Z",
-      "ranking": 5.093184641780706,
+      "ranking": 4.479781543454848,
       "articleUrl": "https://www.marktechpost.com/2025/11/09/stepfun-ai-releases-step-audio-editx-a-new-open-source-3b-llm-grade-audio-editing-model-excelling-at-expressive-and-iterative-audio-editing/"
     },
     {
@@ -458,7 +494,7 @@
         }
       ],
       "publishedAt": "2025-11-09T06:00:00.000Z",
-      "ranking": 3.0432622673765524,
+      "ranking": 2.2651418804965875,
       "articleUrl": "https://venturebeat.com/ai/6-proven-lessons-from-the-ai-projects-that-broke-before-they-scaled"
     },
     {
@@ -495,7 +531,7 @@
         }
       ],
       "publishedAt": "2025-11-09T05:22:23.000Z",
-      "ranking": 2.7733469230504966,
+      "ranking": 1.986519236293626,
       "articleUrl": "https://www.marktechpost.com/2025/11/08/how-to-build-an-agentic-voice-ai-assistant-that-understands-reasons-plans-and-responds-through-autonomous-multi-step-intelligence/"
     },
     {
@@ -1308,6 +1344,42 @@
       "articleUrl": "https://www.theverge.com/news/815286/tinder-ai-chemistry-camera-roll-feature-test"
     },
     {
+      "id": "201",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Google File Search",
+      "mediumTitle": "Google\u0027s File Search Tool for RAG",
+      "longTitle": "Google\u0027s File Search Tool Simplifies Enterprise Data Grounding for AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has released the File Search Tool",
+            "on the Gemini API, a fully managed",
+            "Retrieval Augmented Generation (RAG)",
+            "system designed to simplify the process",
+            "of grounding AI applications with",
+            "enterprise data.",
+            "A key feature is its built-in citations,",
+            "which link generated answers to the",
+            "specific parts of the source documents",
+            "used, enhancing accuracy and",
+            "verifiability.",
+            "The tool utilizes vector search to",
+            "understand the meaning and context of",
+            "user queries, enabling it to find",
+            "relevant information from documents even",
+            "if the prompt uses inexact wording.",
+            "File Search handles complexities like",
+            "file storage, chunking strategies, and",
+            "embedding generation internally."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-06T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/why-googles-file-search-could-displace-diy-rag-stacks-in-the-enterprise"
+    },
+    {
       "id": "191",
       "topic": "Hardware",
       "source": "VentureBeat AI",
@@ -1372,42 +1444,6 @@
       "publishedAt": "2025-11-06T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise"
-    },
-    {
-      "id": "201",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Google File Search",
-      "mediumTitle": "Google\u0027s File Search Tool for RAG",
-      "longTitle": "Google\u0027s File Search Tool Simplifies Enterprise Data Grounding for AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has released the File Search Tool",
-            "on the Gemini API, a fully managed",
-            "Retrieval Augmented Generation (RAG)",
-            "system designed to simplify the process",
-            "of grounding AI applications with",
-            "enterprise data.",
-            "A key feature is its built-in citations,",
-            "which link generated answers to the",
-            "specific parts of the source documents",
-            "used, enhancing accuracy and",
-            "verifiability.",
-            "The tool utilizes vector search to",
-            "understand the meaning and context of",
-            "user queries, enabling it to find",
-            "relevant information from documents even",
-            "if the prompt uses inexact wording.",
-            "File Search handles complexities like",
-            "file storage, chunking strategies, and",
-            "embedding generation internally."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/why-googles-file-search-could-displace-diy-rag-stacks-in-the-enterprise"
     },
     {
       "id": "179",
@@ -1511,40 +1547,6 @@
       "publishedAt": "2025-11-05T18:09:51.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized"
-    },
-    {
-      "id": "184",
-      "topic": "Safety",
-      "source": "Marktechpost AI",
-      "shortTitle": "LLM Safety Boost",
-      "mediumTitle": "Google AI Enhances LLM Safety",
-      "longTitle": "Google AI\u0027s Consistency Training for LLM Safety",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google AI, through its DeepMind",
-            "researchers, has introduced a novel",
-            "technique called \u0022consistency training\u0022",
-            "designed to enhance the safety and",
-            "robustness of large language models",
-            "(LLMs) against specific types of",
-            "adversarial prompts.",
-            "Consistency training aims to address",
-            "this by ensuring that the model\u0027s",
-            "behavior remains consistent across",
-            "different prompt styles, particularly",
-            "when the underlying task is the same.",
-            "The goal is to train the model to",
-            "recognize that the underlying intent of",
-            "the request, regardless of the stylistic",
-            "wrapper, should lead to a consistent and",
-            "safe response."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-05T16:32:08.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/05/google-ai-introduces-consistency-training-for-safer-language-models-under-sycophantic-and-jailbreak-style-prompts/"
     }
   ]
 }
