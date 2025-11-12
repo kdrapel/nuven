@@ -33,6 +33,39 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/11/baidu-releases-ernie-4-5-vl-28b-a3b-thinking-an-open-source-and-compact-multimodal-reasoning-model-under-the-ernie-4-5-family/"
     },
     {
+      "id": "248",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "VibeThinker LLM",
+      "mediumTitle": "WeiboAI\u0027s VibeThinker-1.5B LLM",
+      "longTitle": "WeiboAI Releases VibeThinker-1.5B: A Cost-Effective Reasoning LLM",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Crucially, VibeThinker-1.5B achieved",
+            "this performance with a post-training",
+            "budget of only $7,800 USD, a fraction of",
+            "the cost typically associated with",
+            "fine-tuning models of similar or larger",
+            "scale.",
+            "Despite its relatively small size,",
+            "VibeThinker-1.5B demonstrates impressive",
+            "reasoning performance on math and code",
+            "tasks, rivaling or surpassing models",
+            "significantly larger than itself.",
+            "WeiboAI, the AI division of Chinese",
+            "social networking company Weibo, has",
+            "released VibeThinker-1.5B, an",
+            "open-source 1.5 billion parameter large",
+            "language model (LLM)."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-12T20:31:00.000Z",
+      "ranking": 8.173333333333334,
+      "articleUrl": "https://venturebeat.com/ai/weibos-new-open-source-ai-model-vibethinker-1-5b-outperforms-deepseek-r1-on"
+    },
+    {
       "id": "247",
       "topic": "Hardware",
       "source": "The Verge AI",
@@ -104,108 +137,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/11/how-to-build-an-end-to-end-interactive-analytics-dashboard-using-pygwalker-features-for-insightful-data-exploration/"
     },
     {
-      "id": "241",
-      "topic": "Speech",
-      "source": "Marktechpost AI",
-      "shortTitle": "Maya1 TTS",
-      "mediumTitle": "Maya1: Open-Source Expressive TTS",
-      "longTitle": "Maya1: New Open-Source Controllable Text-to-Speech Model",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Maya1, a new open-source 3 billion",
-            "parameter text-to-speech (TTS) model,",
-            "has been released by Maya Research.",
-            "This model is designed to generate",
-            "controllable and expressive speech from",
-            "text input, augmented by a short",
-            "descriptive prompt.",
-            "A key feature of Maya1 is its ability to",
-            "operate in real-time on a single GPU,",
-            "making advanced TTS capabilities more",
-            "accessible.",
-            "The mention of \u0027controllable\u0027 speech",
-            "implies that users might have the",
-            "ability to influence aspects like tone,",
-            "emotion, or speaking style, which is a",
-            "crucial element for truly expressive",
-            "TTS."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T22:50:30.000Z",
-      "ranking": 7.625,
-      "articleUrl": "https://www.marktechpost.com/2025/11/11/maya1-a-new-open-source-3b-voice-model-for-expressive-text-to-speech-on-a-single-gpu/"
-    },
-    {
-      "id": "238",
-      "topic": "Dev Tools",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI in Dev",
-      "mediumTitle": "AI Reshaping Software Development",
-      "longTitle": "AI is transforming software development roles and workflows by 2026",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The report, which polled 501 developers",
-            "and 19 project managers, found that",
-            "nearly two-thirds (65%) of senior",
-            "developers anticipate their roles will",
-            "be redefined by AI by 2026.",
-            "Crucially, only 9% trust AI code enough",
-            "to use it without human oversight.",
-            "This transformation involves a move away",
-            "from routine coding tasks towards more",
-            "emphasis on design, strategy, and AI",
-            "fluency.",
-            "A survey by BairesDev, the \u0022Dev",
-            "Barometer\u0022 report, indicates a",
-            "significant shift in software",
-            "development driven by artificial",
-            "intelligence."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T20:43:00.000Z",
-      "ranking": 7.3769230769230765,
-      "articleUrl": "https://venturebeat.com/ai/only-9-of-developers-think-ai-code-can-be-used-without-human-oversight"
-    },
-    {
-      "id": "235",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Eating Disorders",
-      "mediumTitle": "AI Chatbots Harm Eating Disorder Sufferers",
-      "longTitle": "Researchers Warn AI Chatbots Pose Risks to Eating Disorder Sufferers",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AI chatbots, particularly those",
-            "developed by major companies like Google",
-            "and OpenAI, are presenting significant",
-            "risks to individuals susceptible to",
-            "eating disorders, according to a recent",
-            "warning from researchers at Stanford and",
-            "the Center for Democracy \u0026 Technology.",
-            "These AI tools are reportedly providing",
-            "harmful content, including dieting",
-            "advice, strategies for concealing eating",
-            "disorders, and AI-generated",
-            "\u0022thinspiration\u0022 \u2013 imagery or content",
-            "that promotes extreme thinness.",
-            "The study suggests that current",
-            "safeguards are insufficient to prevent",
-            "these AI chatbots from becoming tools",
-            "that can facilitate or worsen eating",
-            "disorders."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T13:33:10.000Z",
-      "ranking": 7.371214553743087,
-      "articleUrl": "https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health"
-    },
-    {
       "id": "246",
       "topic": "Dev Tools",
       "source": "VentureBeat AI",
@@ -243,6 +174,114 @@
       "articleUrl": "https://venturebeat.com/ai/how-deductive-ai-saved-doordash-1-000-engineering-hours-by-automating"
     },
     {
+      "id": "249",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "GPT-5.1 Update",
+      "mediumTitle": "OpenAI Releases GPT-5.1 with New Variants",
+      "longTitle": "OpenAI Enhances ChatGPT with GPT-5.1 Update and New Personalization Features",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has announced GPT-5.1, an upgrade",
+            "to GPT-5, introducing two new variants:",
+            "GPT-5.1 Instant and GPT-5.1 Thinking, to",
+            "improve intelligence and conversational",
+            "style.",
+            "GPT-5.1 Instant is the default model,",
+            "designed to be warmer, more intelligent,",
+            "and better at following instructions,",
+            "with adaptive reasoning for complex",
+            "queries.",
+            "GPT-5.1 Thinking is an advanced",
+            "reasoning model that dynamically",
+            "allocates power based on prompt",
+            "complexity, offering faster responses",
+            "for simple tasks and less jargon.",
+            "The release of GPT-5.1 follows criticism",
+            "of GPT-5\u0027s performance issues in math,",
+            "science, and writing, and",
+            "dissatisfaction with plans to sunset",
+            "older models."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-12T06:00:00.000Z",
+      "ranking": 7.153333333333332,
+      "articleUrl": "https://venturebeat.com/ai/openai-reboots-chatgpt-experience-with-gpt-5-1-after-mixed-reviews-of-gpt-5"
+    },
+    {
+      "id": "235",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Eating Disorders",
+      "mediumTitle": "AI Chatbots Harm Eating Disorder Sufferers",
+      "longTitle": "Researchers Warn AI Chatbots Pose Risks to Eating Disorder Sufferers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AI chatbots, particularly those",
+            "developed by major companies like Google",
+            "and OpenAI, are presenting significant",
+            "risks to individuals susceptible to",
+            "eating disorders, according to a recent",
+            "warning from researchers at Stanford and",
+            "the Center for Democracy \u0026 Technology.",
+            "These AI tools are reportedly providing",
+            "harmful content, including dieting",
+            "advice, strategies for concealing eating",
+            "disorders, and AI-generated",
+            "\u0022thinspiration\u0022 \u2013 imagery or content",
+            "that promotes extreme thinness.",
+            "The study suggests that current",
+            "safeguards are insufficient to prevent",
+            "these AI chatbots from becoming tools",
+            "that can facilitate or worsen eating",
+            "disorders."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T13:33:10.000Z",
+      "ranking": 6.919747301516912,
+      "articleUrl": "https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health"
+    },
+    {
+      "id": "250",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "GPT-5.1 Released",
+      "mediumTitle": "OpenAI Launches GPT-5.1 Upgrade",
+      "longTitle": "OpenAI Enhances ChatGPT with GPT-5.1 Release",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has announced the release of",
+            "GPT-5.1, an upgrade to its flagship",
+            "model that was initially launched in",
+            "August.",
+            "The company describes GPT-5.1 as an",
+            "enhancement that aims to make ChatGPT",
+            "\u0022smarter and more enjoyable to talk to.\u0022",
+            "This new iteration introduces two",
+            "distinct models: GPT-5.1 Instant and",
+            "GPT-5.1 Thinking.",
+            "GPT-5.1 Instant is characterized by its",
+            "\u0022warmer\u0022 demeanor, increased",
+            "intelligence, and improved ability to",
+            "follow user instructions compared to its",
+            "predecessor.",
+            "The core of the update appears to be a",
+            "refinement of the model\u0027s conversational",
+            "abilities and its capacity to understand",
+            "and execute user prompts."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-12T15:00:00.000Z",
+      "ranking": 6.909090909090909,
+      "articleUrl": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets"
+    },
+    {
       "id": "239",
       "topic": "Learning",
       "source": "VentureBeat AI",
@@ -275,42 +314,8 @@
         }
       ],
       "publishedAt": "2025-11-11T18:21:00.000Z",
-      "ranking": 7.08243360808868,
+      "ranking": 6.6976582794707005,
       "articleUrl": "https://venturebeat.com/ai/metas-spice-framework-lets-ai-systems-teach-themselves-to-reason"
-    },
-    {
-      "id": "237",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Voice Market",
-      "mediumTitle": "ElevenLabs Launches Iconic Voice Marketplace",
-      "longTitle": "ElevenLabs\u0027 New Marketplace for Licensed AI Celebrity Voices",
-      "paragraphs": [
-        {
-          "Lines": [
-            "ElevenLabs, an AI audio startup, has",
-            "launched a new online marketplace called",
-            "the Iconic Voice Marketplace.",
-            "The company emphasizes that this",
-            "initiative addresses ethical concerns",
-            "surrounding the use of AI-generated",
-            "celebrity voices by adopting a",
-            "\u0027consent-based, performer-first",
-            "approach\u0027.",
-            "This approach seeks to ensure that the",
-            "individuals whose voices are replicated",
-            "have given their explicit consent and",
-            "are compensated for their participation.",
-            "This platform allows companies to",
-            "license AI-replicated voices of famous",
-            "individuals for use in their content and",
-            "advertisements."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T13:00:00.000Z",
-      "ranking": 6.903862553488177,
-      "articleUrl": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio"
     },
     {
       "id": "242",
@@ -347,39 +352,105 @@
       "articleUrl": "https://venturebeat.com/ai/baidu-just-dropped-an-open-source-multimodal-ai-that-it-claims-beats-gpt-5"
     },
     {
-      "id": "232",
+      "id": "241",
       "topic": "Speech",
       "source": "Marktechpost AI",
-      "shortTitle": "Meta\u0027s 1600\u002B Lang ASR",
-      "mediumTitle": "Meta AI Launches Omnilingual ASR",
-      "longTitle": "Meta AI Releases Open-Source Omnilingual ASR for Over 1600 Languages",
+      "shortTitle": "Maya1 TTS",
+      "mediumTitle": "Maya1: Open-Source Expressive TTS",
+      "longTitle": "Maya1: New Open-Source Controllable Text-to-Speech Model",
       "paragraphs": [
         {
           "Lines": [
-            "Meta AI has introduced Omnilingual ASR,",
-            "an open-source suite of multilingual",
-            "speech recognition models supporting",
-            "over 1,600 languages.",
-            "This initiative aims to create a single",
-            "ASR system capable of understanding many",
-            "languages, including those previously",
-            "lacking functional models.",
-            "The system is engineered to handle a",
-            "remarkably large linguistic dataset,",
-            "encompassing languages that have",
-            "historically been underserved or",
-            "entirely absent from ASR development.",
-            "Furthermore, the suite is designed to be",
-            "extensible, allowing for the",
-            "incorporation of new, previously unseen",
-            "languages with minimal data",
-            "requirements."
+            "Maya1, a new open-source 3 billion",
+            "parameter text-to-speech (TTS) model,",
+            "has been released by Maya Research.",
+            "This model is designed to generate",
+            "controllable and expressive speech from",
+            "text input, augmented by a short",
+            "descriptive prompt.",
+            "A key feature of Maya1 is its ability to",
+            "operate in real-time on a single GPU,",
+            "making advanced TTS capabilities more",
+            "accessible.",
+            "The mention of \u0027controllable\u0027 speech",
+            "implies that users might have the",
+            "ability to influence aspects like tone,",
+            "emotion, or speaking style, which is a",
+            "crucial element for truly expressive",
+            "TTS."
           ]
         }
       ],
-      "publishedAt": "2025-11-11T10:06:04.000Z",
-      "ranking": 5.8719842337229045,
-      "articleUrl": "https://www.marktechpost.com/2025/11/11/meta-ai-releases-omnilingual-asr-a-suite-of-open-source-multilingual-speech-recognition-models-for-1600-languages/"
+      "publishedAt": "2025-11-11T22:50:30.000Z",
+      "ranking": 6.523588183836651,
+      "articleUrl": "https://www.marktechpost.com/2025/11/11/maya1-a-new-open-source-3b-voice-model-for-expressive-text-to-speech-on-a-single-gpu/"
+    },
+    {
+      "id": "237",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Voice Market",
+      "mediumTitle": "ElevenLabs Launches Iconic Voice Marketplace",
+      "longTitle": "ElevenLabs\u0027 New Marketplace for Licensed AI Celebrity Voices",
+      "paragraphs": [
+        {
+          "Lines": [
+            "ElevenLabs, an AI audio startup, has",
+            "launched a new online marketplace called",
+            "the Iconic Voice Marketplace.",
+            "The company emphasizes that this",
+            "initiative addresses ethical concerns",
+            "surrounding the use of AI-generated",
+            "celebrity voices by adopting a",
+            "\u0027consent-based, performer-first",
+            "approach\u0027.",
+            "This approach seeks to ensure that the",
+            "individuals whose voices are replicated",
+            "have given their explicit consent and",
+            "are compensated for their participation.",
+            "This platform allows companies to",
+            "license AI-replicated voices of famous",
+            "individuals for use in their content and",
+            "advertisements."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T13:00:00.000Z",
+      "ranking": 6.4447104817828915,
+      "articleUrl": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio"
+    },
+    {
+      "id": "238",
+      "topic": "Dev Tools",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI in Dev",
+      "mediumTitle": "AI Reshaping Software Development",
+      "longTitle": "AI is transforming software development roles and workflows by 2026",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The report, which polled 501 developers",
+            "and 19 project managers, found that",
+            "nearly two-thirds (65%) of senior",
+            "developers anticipate their roles will",
+            "be redefined by AI by 2026.",
+            "Crucially, only 9% trust AI code enough",
+            "to use it without human oversight.",
+            "This transformation involves a move away",
+            "from routine coding tasks towards more",
+            "emphasis on design, strategy, and AI",
+            "fluency.",
+            "A survey by BairesDev, the \u0022Dev",
+            "Barometer\u0022 report, indicates a",
+            "significant shift in software",
+            "development driven by artificial",
+            "intelligence."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T20:43:00.000Z",
+      "ranking": 6.081825906804564,
+      "articleUrl": "https://venturebeat.com/ai/only-9-of-developers-think-ai-code-can-be-used-without-human-oversight"
     },
     {
       "id": "240",
@@ -414,8 +485,43 @@
         }
       ],
       "publishedAt": "2025-11-11T15:00:00.000Z",
-      "ranking": 5.842372231160732,
+      "ranking": 5.411024543991154,
       "articleUrl": "https://www.theverge.com/news/818364/google-private-ai-compute"
+    },
+    {
+      "id": "232",
+      "topic": "Speech",
+      "source": "Marktechpost AI",
+      "shortTitle": "Meta\u0027s 1600\u002B Lang ASR",
+      "mediumTitle": "Meta AI Launches Omnilingual ASR",
+      "longTitle": "Meta AI Releases Open-Source Omnilingual ASR for Over 1600 Languages",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta AI has introduced Omnilingual ASR,",
+            "an open-source suite of multilingual",
+            "speech recognition models supporting",
+            "over 1,600 languages.",
+            "This initiative aims to create a single",
+            "ASR system capable of understanding many",
+            "languages, including those previously",
+            "lacking functional models.",
+            "The system is engineered to handle a",
+            "remarkably large linguistic dataset,",
+            "encompassing languages that have",
+            "historically been underserved or",
+            "entirely absent from ASR development.",
+            "Furthermore, the suite is designed to be",
+            "extensible, allowing for the",
+            "incorporation of new, previously unseen",
+            "languages with minimal data",
+            "requirements."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T10:06:04.000Z",
+      "ranking": 5.37253123557587,
+      "articleUrl": "https://www.marktechpost.com/2025/11/11/meta-ai-releases-omnilingual-asr-a-suite-of-open-source-multilingual-speech-recognition-models-for-1600-languages/"
     },
     {
       "id": "234",
@@ -450,7 +556,7 @@
         }
       ],
       "publishedAt": "2025-11-11T08:37:26.000Z",
-      "ranking": 5.7041897800143975,
+      "ranking": 5.184200156419058,
       "articleUrl": "https://www.theverge.com/news/818355/samsung-tvs-bixby-generative-ai-conversational"
     },
     {
@@ -484,7 +590,7 @@
         }
       ],
       "publishedAt": "2025-11-11T08:16:45.000Z",
-      "ranking": 5.488752414653867,
+      "ranking": 4.9639703922233025,
       "articleUrl": "https://www.marktechpost.com/2025/11/10/a-coding-implementation-to-build-and-train-advanced-architectures-with-residual-connections-self-attention-and-adaptive-optimization-using-jax-flax-and-optax/"
     },
     {
@@ -520,7 +626,7 @@
         }
       ],
       "publishedAt": "2025-11-11T13:00:00.000Z",
-      "ranking": 5.010680706435503,
+      "ranking": 4.551528622578225,
       "articleUrl": "https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update"
     },
     {
@@ -557,8 +663,45 @@
         }
       ],
       "publishedAt": "2025-11-11T00:47:22.000Z",
-      "ranking": 4.762297351590567,
+      "ranking": 4.133391758810775,
       "articleUrl": "https://www.marktechpost.com/2025/11/10/moonshot-ai-releases-kosong-the-llm-abstraction-layer-that-powers-kimi-cli/"
+    },
+    {
+      "id": "230",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "Gelato-30B-A3B",
+      "mediumTitle": "New AI Model for GUI Interaction",
+      "longTitle": "Gelato-30B-A3B: State-of-the-art AI model for GUI grounding",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Gelato-30B-A3B is a new state-of-the-art",
+            "grounding model developed by researchers",
+            "at ML Foundations, specifically designed",
+            "to enhance the capabilities of AI agents",
+            "that interact with graphical user",
+            "interfaces (GUIs).",
+            "The primary challenge addressed by this",
+            "model is enabling AI agents to",
+            "accurately identify and select specific",
+            "on-screen elements based on simple,",
+            "natural language instructions.",
+            "The description highlights the model\u0027s",
+            "ability to \u0027reliably find and click the",
+            "exact on screen element we mean,\u0027",
+            "indicating a focus on fine-grained",
+            "control and accuracy in GUI",
+            "interactions.",
+            "The model is presented as a significant",
+            "advancement over existing computer",
+            "grounding models, including GTA1-32B."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-10T22:30:20.000Z",
+      "ranking": 3.4329332206009022,
+      "articleUrl": "https://www.marktechpost.com/2025/11/10/gelato-30b-a3b-a-state-of-the-art-grounding-model-for-gui-computer-use-tasks-surpassing-computer-grounding-models-like-gta1-32b/"
     },
     {
       "id": "228",
@@ -591,7 +734,7 @@
         }
       ],
       "publishedAt": "2025-11-10T20:00:00.000Z",
-      "ranking": 3.4557662303477086,
+      "ranking": 2.760276843457225,
       "articleUrl": "https://venturebeat.com/ai/chronosphere-takes-on-datadog-with-ai-that-explains-itself-not-just-outages"
     },
     {
@@ -628,7 +771,7 @@
         }
       ],
       "publishedAt": "2025-11-10T21:27:00.000Z",
-      "ranking": 3.40474391040022,
+      "ranking": 2.7294127041819447,
       "articleUrl": "https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can"
     },
     {
@@ -664,7 +807,7 @@
         }
       ],
       "publishedAt": "2025-11-10T15:00:00.000Z",
-      "ranking": 3.17858920227469,
+      "ranking": 2.413588845215002,
       "articleUrl": "https://venturebeat.com/ai/baseten-takes-on-hyperscalers-with-new-ai-training-platform-that-lets-you"
     },
     {
@@ -699,7 +842,7 @@
         }
       ],
       "publishedAt": "2025-11-10T16:02:57.000Z",
-      "ranking": 3.0741322100696333,
+      "ranking": 2.323717571147877,
       "articleUrl": "https://www.theverge.com/news/817668/google-gemini-home-rollout-is-going-great"
     },
     {
@@ -733,7 +876,7 @@
         }
       ],
       "publishedAt": "2025-11-10T16:00:00.000Z",
-      "ranking": 2.9072190345859106,
+      "ranking": 2.156120870031968,
       "articleUrl": "https://venturebeat.com/ai/how-context-engineering-can-save-your-company-from-ai-vibe-code-overload"
     },
     {
@@ -770,7 +913,7 @@
         }
       ],
       "publishedAt": "2025-11-10T11:00:00.000Z",
-      "ranking": 2.346014232809755,
+      "ranking": 1.5254050981108032,
       "articleUrl": "https://www.theverge.com/podcast/814552/tim-berners-lee-world-wide-web-ai-future-interview"
     },
     {
@@ -805,7 +948,7 @@
         }
       ],
       "publishedAt": "2025-11-10T06:00:00.000Z",
-      "ranking": 1.1771705419263174,
+      "ranking": 0.28705043165080557,
       "articleUrl": "https://venturebeat.com/ai/celosphere-2025-where-enterprise-ai-moved-from-experiment-to-execution"
     },
     {
@@ -838,7 +981,7 @@
         }
       ],
       "publishedAt": "2025-11-10T03:14:23.000Z",
-      "ranking": 0.8173896678555019,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/09/a-coding-implementation-to-build-neural-memory-agents-with-differentiable-memory-meta-learning-and-experience-replay-for-continual-adaptation-in-dynamic-environments/"
     },
     {
@@ -1408,110 +1551,6 @@
       "publishedAt": "2025-11-06T19:27:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/moonshots-kimi-k2-thinking-emerges-as-leading-open-source-ai-outperforming"
-    },
-    {
-      "id": "199",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Musk Pay OK\u0027d",
-      "mediumTitle": "Tesla Shareholders Approve Musk\u0027s Pay",
-      "longTitle": "Tesla Shareholders Vote to Approve Elon Musk\u0027s $56 Billion Pay Package",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Tesla shareholders have voted to approve",
-            "Elon Musk\u0027s substantial pay package, a",
-            "decision aimed at securing his continued",
-            "leadership amidst significant challenges",
-            "facing the electric vehicle",
-            "manufacturer.",
-            "However, a Delaware judge later voided",
-            "this decision in January, ruling it was",
-            "excessive and improperly approved.",
-            "The pay package, previously valued at",
-            "approximately $56 billion, was initially",
-            "approved by shareholders in 2018.",
-            "The recent vote, held on Thursday,",
-            "represents a renewed effort by Tesla to",
-            "reinstate this compensation plan.",
-            "The proposal garnered support from over",
-            "75 percent of the shares voted."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T17:55:13.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/815892/tesla-shareholder-vote-elon-musk-pay-trillion-robot"
-    },
-    {
-      "id": "200",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Kindle Translate",
-      "mediumTitle": "Amazon\u0027s AI for Global Authors",
-      "longTitle": "Amazon Launches Kindle Translate to Aid Self-Published Authors",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Amazon has launched Kindle Translate, a",
-            "new AI-powered translation tool designed",
-            "to assist self-published authors in",
-            "expanding their reach to a global",
-            "audience.",
-            "This tool, currently in beta and",
-            "available to a select group of Kindle",
-            "Direct Publishing (KDP) authors, aims to",
-            "simplify the process of making ebooks",
-            "available in multiple languages.",
-            "In its initial phase, Kindle Translate",
-            "supports translations between English",
-            "and Spanish, and from German to English.",
-            "The tool leverages artificial",
-            "intelligence to automate the translation",
-            "process, which can be a significant",
-            "hurdle for independent authors who may",
-            "not have the resources for professional",
-            "human translation services."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T17:17:59.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/815987/amazon-kindle-translate-ai-ebook-translation"
-    },
-    {
-      "id": "190",
-      "topic": "Hardware",
-      "source": "VentureBeat AI",
-      "shortTitle": "Google AI Infra",
-      "mediumTitle": "Google Cloud\u0027s New AI Infrastructure",
-      "longTitle": "Google Cloud Unveils Ironwood TPUs and Arm Processors for AI Inference",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google Cloud has launched its most",
-            "powerful AI infrastructure to date,",
-            "introducing the seventh-generation",
-            "Tensor Processing Unit (TPU), codenamed",
-            "\u0022Ironwood,\u0022 and expanded Arm-based",
-            "computing options.",
-            "This partnership validates Google\u0027s",
-            "strategy of vertical integration, from",
-            "chip design to software, as a means to",
-            "achieve superior economics and",
-            "performance, challenging Nvidia\u0027s",
-            "dominance in the AI accelerator market.",
-            "Ironwood TPUs offer a significant",
-            "performance boost, delivering over four",
-            "times the performance for both training",
-            "and inference workloads compared to",
-            "their predecessors."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T14:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/google-debuts-ai-chips-with-4x-performance-boost-secures-anthropic-megadeal"
     }
   ]
 }
