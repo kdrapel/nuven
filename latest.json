@@ -314,43 +314,6 @@
       "articleUrl": "https://www.theverge.com/news/818364/google-private-ai-compute"
     },
     {
-      "id": "231",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Kosong AI Layer",
-      "mediumTitle": "Moonshot AI\u0027s Kosong LLM Abstraction",
-      "longTitle": "Moonshot AI introduces Kosong to simplify agentic AI applications",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Moonshot AI has launched Kosong, an LLM",
-            "abstraction layer designed to simplify",
-            "complex agentic AI applications that",
-            "interact with multiple models and tools.",
-            "By abstracting LLM and tool interaction",
-            "complexities, Kosong empowers developers",
-            "to build more robust and maintainable",
-            "agentic applications.",
-            "A core feature of Kosong is its ability",
-            "to unify message structures, ensuring",
-            "consistent communication across various",
-            "LLMs.",
-            "Kosong also facilitates asynchronous",
-            "tool orchestration, allowing agent",
-            "applications to efficiently manage and",
-            "execute multiple tool calls",
-            "concurrently.",
-            "This abstraction simplifies integrating",
-            "and switching between different language",
-            "models without extensive code changes."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T00:47:22.000Z",
-      "ranking": 6.719916939937112,
-      "articleUrl": "https://www.marktechpost.com/2025/11/10/moonshot-ai-releases-kosong-the-llm-abstraction-layer-that-powers-kimi-cli/"
-    },
-    {
       "id": "236",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -421,40 +384,41 @@
       "articleUrl": "https://venturebeat.com/ai/baidu-just-dropped-an-open-source-multimodal-ai-that-it-claims-beats-gpt-5"
     },
     {
-      "id": "223",
-      "topic": "Training Tricks",
-      "source": "VentureBeat AI",
-      "shortTitle": "Baseten Training",
-      "mediumTitle": "Baseten Launches AI Training Platform",
-      "longTitle": "Baseten Training Platform Aims to Reduce Enterprise Reliance on Proprietary AI",
+      "id": "231",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Kosong AI Layer",
+      "mediumTitle": "Moonshot AI\u0027s Kosong LLM Abstraction",
+      "longTitle": "Moonshot AI introduces Kosong to simplify agentic AI applications",
       "paragraphs": [
         {
           "Lines": [
-            "Baseten, an AI infrastructure company",
-            "valued at $2.15 billion, has launched",
-            "Baseten Training, a comprehensive",
-            "platform for fine-tuning open-source AI",
-            "models.",
-            "This strategic move aims to reduce",
-            "enterprise reliance on proprietary AI",
-            "providers like OpenAI by offering a",
-            "solution that simplifies the",
-            "complexities of GPU cluster management,",
-            "orchestration, and cloud capacity",
-            "planning.",
-            "Baseten\u0027s core philosophy is that",
-            "training is a means to enhance",
-            "inference, aiming to provide",
-            "infrastructure that simplifies the",
-            "fine-tuning process and optimizes for",
-            "performant, reliable, and cost-effective",
-            "inference at scale."
+            "Moonshot AI has launched Kosong, an LLM",
+            "abstraction layer designed to simplify",
+            "complex agentic AI applications that",
+            "interact with multiple models and tools.",
+            "By abstracting LLM and tool interaction",
+            "complexities, Kosong empowers developers",
+            "to build more robust and maintainable",
+            "agentic applications.",
+            "A core feature of Kosong is its ability",
+            "to unify message structures, ensuring",
+            "consistent communication across various",
+            "LLMs.",
+            "Kosong also facilitates asynchronous",
+            "tool orchestration, allowing agent",
+            "applications to efficiently manage and",
+            "execute multiple tool calls",
+            "concurrently.",
+            "This abstraction simplifies integrating",
+            "and switching between different language",
+            "models without extensive code changes."
           ]
         }
       ],
-      "publishedAt": "2025-11-10T15:00:00.000Z",
-      "ranking": 5.680090807393132,
-      "articleUrl": "https://venturebeat.com/ai/baseten-takes-on-hyperscalers-with-new-ai-training-platform-that-lets-you"
+      "publishedAt": "2025-11-11T00:47:22.000Z",
+      "ranking": 6.315908396604968,
+      "articleUrl": "https://www.marktechpost.com/2025/11/10/moonshot-ai-releases-kosong-the-llm-abstraction-layer-that-powers-kimi-cli/"
     },
     {
       "id": "228",
@@ -487,8 +451,44 @@
         }
       ],
       "publishedAt": "2025-11-10T20:00:00.000Z",
-      "ranking": 5.6794777884496135,
+      "ranking": 5.209261562963913,
       "articleUrl": "https://venturebeat.com/ai/chronosphere-takes-on-datadog-with-ai-that-explains-itself-not-just-outages"
+    },
+    {
+      "id": "223",
+      "topic": "Training Tricks",
+      "source": "VentureBeat AI",
+      "shortTitle": "Baseten Training",
+      "mediumTitle": "Baseten Launches AI Training Platform",
+      "longTitle": "Baseten Training Platform Aims to Reduce Enterprise Reliance on Proprietary AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Baseten, an AI infrastructure company",
+            "valued at $2.15 billion, has launched",
+            "Baseten Training, a comprehensive",
+            "platform for fine-tuning open-source AI",
+            "models.",
+            "This strategic move aims to reduce",
+            "enterprise reliance on proprietary AI",
+            "providers like OpenAI by offering a",
+            "solution that simplifies the",
+            "complexities of GPU cluster management,",
+            "orchestration, and cloud capacity",
+            "planning.",
+            "Baseten\u0027s core philosophy is that",
+            "training is a means to enhance",
+            "inference, aiming to provide",
+            "infrastructure that simplifies the",
+            "fine-tuning process and optimizes for",
+            "performant, reliable, and cost-effective",
+            "inference at scale."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-10T15:00:00.000Z",
+      "ranking": 5.140756228094877,
+      "articleUrl": "https://venturebeat.com/ai/baseten-takes-on-hyperscalers-with-new-ai-training-platform-that-lets-you"
     },
     {
       "id": "227",
@@ -524,7 +524,7 @@
         }
       ],
       "publishedAt": "2025-11-10T21:27:00.000Z",
-      "ranking": 5.547896361949455,
+      "ranking": 5.097724452636916,
       "articleUrl": "https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can"
     },
     {
@@ -559,7 +559,7 @@
         }
       ],
       "publishedAt": "2025-11-10T16:02:57.000Z",
-      "ranking": 5.517344197366192,
+      "ranking": 4.9925129555893015,
       "articleUrl": "https://www.theverge.com/news/817668/google-gemini-home-rollout-is-going-great"
     },
     {
@@ -593,7 +593,7 @@
         }
       ],
       "publishedAt": "2025-11-10T16:00:00.000Z",
-      "ranking": 5.353162626392584,
+      "ranking": 4.827651720715197,
       "articleUrl": "https://venturebeat.com/ai/how-context-engineering-can-save-your-company-from-ai-vibe-code-overload"
     },
     {
@@ -630,7 +630,7 @@
         }
       ],
       "publishedAt": "2025-11-10T11:00:00.000Z",
-      "ranking": 5.069747854139694,
+      "ranking": 4.475118603385042,
       "articleUrl": "https://www.theverge.com/podcast/814552/tim-berners-lee-world-wide-web-ai-future-interview"
     },
     {
@@ -665,7 +665,7 @@
         }
       ],
       "publishedAt": "2025-11-10T06:00:00.000Z",
-      "ranking": 4.178694191994332,
+      "ranking": 3.514946597114081,
       "articleUrl": "https://venturebeat.com/ai/celosphere-2025-where-enterprise-ai-moved-from-experiment-to-execution"
     },
     {
@@ -698,7 +698,7 @@
         }
       ],
       "publishedAt": "2025-11-10T03:14:23.000Z",
-      "ranking": 3.9722688485716393,
+      "ranking": 3.270364087085185,
       "articleUrl": "https://www.marktechpost.com/2025/11/09/a-coding-implementation-to-build-neural-memory-agents-with-differentiable-memory-meta-learning-and-experience-replay-for-continual-adaptation-in-dynamic-environments/"
     },
     {
@@ -735,7 +735,7 @@
         }
       ],
       "publishedAt": "2025-11-09T17:51:36.000Z",
-      "ranking": 2.3065082612016337,
+      "ranking": 1.474941326081253,
       "articleUrl": "https://www.marktechpost.com/2025/11/09/stepfun-ai-releases-step-audio-editx-a-new-open-source-3b-llm-grade-audio-editing-model-excelling-at-expressive-and-iterative-audio-editing/"
     },
     {
