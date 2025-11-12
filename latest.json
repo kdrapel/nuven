@@ -70,6 +70,38 @@
       "articleUrl": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio"
     },
     {
+      "id": "244",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Baidu\u0027s ERNIE-4.5",
+      "mediumTitle": "Baidu ERNIE-4.5-VL-28B-A3B-Thinking",
+      "longTitle": "Baidu Releases ERNIE-4.5-VL-28B-A3B-Thinking for Multimodal Reasoning",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Baidu has introduced",
+            "ERNIE-4.5-VL-28B-A3B-Thinking, a new",
+            "addition to its ERNIE-4.5 family of",
+            "open-source models.",
+            "A key feature of",
+            "ERNIE-4.5-VL-28B-A3B-Thinking is its",
+            "ability to achieve large model-level",
+            "reasoning capabilities while operating",
+            "with a significantly smaller active",
+            "parameter budget, comparable to a 3B",
+            "class model.",
+            "This vision-language model is",
+            "specifically designed for multimodal",
+            "reasoning tasks involving documents,",
+            "charts, and videos."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-12T08:02:22.000Z",
+      "ranking": 8.283333333333333,
+      "articleUrl": "https://www.marktechpost.com/2025/11/11/baidu-releases-ernie-4-5-vl-28b-a3b-thinking-an-open-source-and-compact-multimodal-reasoning-model-under-the-ernie-4-5-family/"
+    },
+    {
       "id": "239",
       "topic": "Learning",
       "source": "VentureBeat AI",
@@ -106,109 +138,39 @@
       "articleUrl": "https://venturebeat.com/ai/metas-spice-framework-lets-ai-systems-teach-themselves-to-reason"
     },
     {
-      "id": "234",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Bixby AI TV",
-      "mediumTitle": "Samsung Bixby Gets Generative AI",
-      "longTitle": "Samsung\u0027s 2025 TVs Feature Vision AI Companion with Generative AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Samsung is introducing a significant",
-            "upgrade to its Bixby virtual assistant,",
-            "integrating generative AI capabilities",
-            "into its 2025 television lineup.",
-            "The core functionality revolves around",
-            "the ability to ask questions not only",
-            "about the content currently being",
-            "displayed on the screen but also about",
-            "broader topics beyond the immediate",
-            "visual context.",
-            "This new feature, dubbed \u0027Vision AI",
-            "Companion,\u0027 allows users to engage in",
-            "more natural, conversational",
-            "interactions with their TVs.",
-            "This generative AI-powered Bixby",
-            "represents a substantial evolution from",
-            "previous iterations, with the key",
-            "differentiator being the incorporation",
-            "of generative AI."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T08:37:26.000Z",
-      "ranking": 7.880000000000001,
-      "articleUrl": "https://www.theverge.com/news/818355/samsung-tvs-bixby-generative-ai-conversational"
-    },
-    {
-      "id": "232",
-      "topic": "Speech",
+      "id": "243",
+      "topic": "Dev Tools",
       "source": "Marktechpost AI",
-      "shortTitle": "Meta\u0027s 1600\u002B Lang ASR",
-      "mediumTitle": "Meta AI Launches Omnilingual ASR",
-      "longTitle": "Meta AI Releases Open-Source Omnilingual ASR for Over 1600 Languages",
+      "shortTitle": "PyGWalker Dashboards",
+      "mediumTitle": "Build Interactive Dashboards with PyGWalker",
+      "longTitle": "Tutorial: End-to-End Interactive Analytics Dashboards with PyGWalker",
       "paragraphs": [
         {
           "Lines": [
-            "Meta AI has introduced Omnilingual ASR,",
-            "an open-source suite of multilingual",
-            "speech recognition models supporting",
-            "over 1,600 languages.",
-            "This initiative aims to create a single",
-            "ASR system capable of understanding many",
-            "languages, including those previously",
-            "lacking functional models.",
-            "The system is engineered to handle a",
-            "remarkably large linguistic dataset,",
-            "encompassing languages that have",
-            "historically been underserved or",
-            "entirely absent from ASR development.",
-            "Furthermore, the suite is designed to be",
-            "extensible, allowing for the",
-            "incorporation of new, previously unseen",
-            "languages with minimal data",
-            "requirements."
+            "This article on MarkTechPost offers a",
+            "tutorial on using PyGWalker to build",
+            "interactive analytics dashboards for",
+            "data exploration.",
+            "The tutorial\u0027s objective is to guide",
+            "users through constructing an end-to-end",
+            "interactive analytics dashboard.",
+            "The emphasis is on the \u0027end-to-end\u0027",
+            "nature, implying a complete workflow",
+            "from data preparation to dashboard",
+            "deployment.",
+            "This suggests the full article will",
+            "detail how PyGWalker\u0027s functionalities",
+            "enable users to go from raw data to an",
+            "interactive visualization tool.",
+            "The tutorial focuses on demonstrating",
+            "PyGWalker\u0027s capabilities by exploring a",
+            "generated e-commerce dataset."
           ]
         }
       ],
-      "publishedAt": "2025-11-11T10:06:04.000Z",
-      "ranking": 7.870000000000001,
-      "articleUrl": "https://www.marktechpost.com/2025/11/11/meta-ai-releases-omnilingual-asr-a-suite-of-open-source-multilingual-speech-recognition-models-for-1600-languages/"
-    },
-    {
-      "id": "233",
-      "topic": "Neural Nets",
-      "source": "Marktechpost AI",
-      "shortTitle": "JAX DL Tutorial",
-      "mediumTitle": "Advanced Neural Networks with JAX",
-      "longTitle": "Building Advanced Neural Networks with JAX, Flax, and Optax",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This tutorial demonstrates coding for",
-            "building and training advanced neural",
-            "networks using JAX, Flax, and Optax,",
-            "focusing on an efficient and modular",
-            "approach.",
-            "By integrating residual connections and",
-            "self-attention with adaptive",
-            "optimization, the tutorial showcases how",
-            "to build state-of-the-art neural",
-            "networks that can achieve superior",
-            "performance on challenging machine",
-            "learning problems.",
-            "Self-attention mechanisms are included",
-            "to empower the model to weigh the",
-            "importance of different input data",
-            "parts, leading to more expressive",
-            "feature learning."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T08:16:45.000Z",
-      "ranking": 7.707142857142858,
-      "articleUrl": "https://www.marktechpost.com/2025/11/10/a-coding-implementation-to-build-and-train-advanced-architectures-with-residual-connections-self-attention-and-adaptive-optimization-using-jax-flax-and-optax/"
+      "publishedAt": "2025-11-12T08:29:21.000Z",
+      "ranking": 7.749999999999999,
+      "articleUrl": "https://www.marktechpost.com/2025/11/11/how-to-build-an-end-to-end-interactive-analytics-dashboard-using-pygwalker-features-for-insightful-data-exploration/"
     },
     {
       "id": "241",
@@ -314,6 +276,41 @@
       "articleUrl": "https://www.theverge.com/news/818364/google-private-ai-compute"
     },
     {
+      "id": "232",
+      "topic": "Speech",
+      "source": "Marktechpost AI",
+      "shortTitle": "Meta\u0027s 1600\u002B Lang ASR",
+      "mediumTitle": "Meta AI Launches Omnilingual ASR",
+      "longTitle": "Meta AI Releases Open-Source Omnilingual ASR for Over 1600 Languages",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta AI has introduced Omnilingual ASR,",
+            "an open-source suite of multilingual",
+            "speech recognition models supporting",
+            "over 1,600 languages.",
+            "This initiative aims to create a single",
+            "ASR system capable of understanding many",
+            "languages, including those previously",
+            "lacking functional models.",
+            "The system is engineered to handle a",
+            "remarkably large linguistic dataset,",
+            "encompassing languages that have",
+            "historically been underserved or",
+            "entirely absent from ASR development.",
+            "Furthermore, the suite is designed to be",
+            "extensible, allowing for the",
+            "incorporation of new, previously unseen",
+            "languages with minimal data",
+            "requirements."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T10:06:04.000Z",
+      "ranking": 6.703084169969797,
+      "articleUrl": "https://www.marktechpost.com/2025/11/11/meta-ai-releases-omnilingual-asr-a-suite-of-open-source-multilingual-speech-recognition-models-for-1600-languages/"
+    },
+    {
       "id": "236",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -384,6 +381,76 @@
       "articleUrl": "https://venturebeat.com/ai/baidu-just-dropped-an-open-source-multimodal-ai-that-it-claims-beats-gpt-5"
     },
     {
+      "id": "234",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Bixby AI TV",
+      "mediumTitle": "Samsung Bixby Gets Generative AI",
+      "longTitle": "Samsung\u0027s 2025 TVs Feature Vision AI Companion with Generative AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Samsung is introducing a significant",
+            "upgrade to its Bixby virtual assistant,",
+            "integrating generative AI capabilities",
+            "into its 2025 television lineup.",
+            "The core functionality revolves around",
+            "the ability to ask questions not only",
+            "about the content currently being",
+            "displayed on the screen but also about",
+            "broader topics beyond the immediate",
+            "visual context.",
+            "This new feature, dubbed \u0027Vision AI",
+            "Companion,\u0027 allows users to engage in",
+            "more natural, conversational",
+            "interactions with their TVs.",
+            "This generative AI-powered Bixby",
+            "represents a substantial evolution from",
+            "previous iterations, with the key",
+            "differentiator being the incorporation",
+            "of generative AI."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T08:37:26.000Z",
+      "ranking": 6.576316239605179,
+      "articleUrl": "https://www.theverge.com/news/818355/samsung-tvs-bixby-generative-ai-conversational"
+    },
+    {
+      "id": "233",
+      "topic": "Neural Nets",
+      "source": "Marktechpost AI",
+      "shortTitle": "JAX DL Tutorial",
+      "mediumTitle": "Advanced Neural Networks with JAX",
+      "longTitle": "Building Advanced Neural Networks with JAX, Flax, and Optax",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This tutorial demonstrates coding for",
+            "building and training advanced neural",
+            "networks using JAX, Flax, and Optax,",
+            "focusing on an efficient and modular",
+            "approach.",
+            "By integrating residual connections and",
+            "self-attention with adaptive",
+            "optimization, the tutorial showcases how",
+            "to build state-of-the-art neural",
+            "networks that can achieve superior",
+            "performance on challenging machine",
+            "learning problems.",
+            "Self-attention mechanisms are included",
+            "to empower the model to weigh the",
+            "importance of different input data",
+            "parts, leading to more expressive",
+            "feature learning."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T08:16:45.000Z",
+      "ranking": 6.370452761370926,
+      "articleUrl": "https://www.marktechpost.com/2025/11/10/a-coding-implementation-to-build-and-train-advanced-architectures-with-residual-connections-self-attention-and-adaptive-optimization-using-jax-flax-and-optax/"
+    },
+    {
       "id": "231",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -417,7 +484,7 @@
         }
       ],
       "publishedAt": "2025-11-11T00:47:22.000Z",
-      "ranking": 6.315908396604968,
+      "ranking": 5.852007931326291,
       "articleUrl": "https://www.marktechpost.com/2025/11/10/moonshot-ai-releases-kosong-the-llm-abstraction-layer-that-powers-kimi-cli/"
     },
     {
@@ -451,44 +518,8 @@
         }
       ],
       "publishedAt": "2025-11-10T20:00:00.000Z",
-      "ranking": 5.209261562963913,
+      "ranking": 4.678492881744773,
       "articleUrl": "https://venturebeat.com/ai/chronosphere-takes-on-datadog-with-ai-that-explains-itself-not-just-outages"
-    },
-    {
-      "id": "223",
-      "topic": "Training Tricks",
-      "source": "VentureBeat AI",
-      "shortTitle": "Baseten Training",
-      "mediumTitle": "Baseten Launches AI Training Platform",
-      "longTitle": "Baseten Training Platform Aims to Reduce Enterprise Reliance on Proprietary AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Baseten, an AI infrastructure company",
-            "valued at $2.15 billion, has launched",
-            "Baseten Training, a comprehensive",
-            "platform for fine-tuning open-source AI",
-            "models.",
-            "This strategic move aims to reduce",
-            "enterprise reliance on proprietary AI",
-            "providers like OpenAI by offering a",
-            "solution that simplifies the",
-            "complexities of GPU cluster management,",
-            "orchestration, and cloud capacity",
-            "planning.",
-            "Baseten\u0027s core philosophy is that",
-            "training is a means to enhance",
-            "inference, aiming to provide",
-            "infrastructure that simplifies the",
-            "fine-tuning process and optimizes for",
-            "performant, reliable, and cost-effective",
-            "inference at scale."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-10T15:00:00.000Z",
-      "ranking": 5.140756228094877,
-      "articleUrl": "https://venturebeat.com/ai/baseten-takes-on-hyperscalers-with-new-ai-training-platform-that-lets-you"
     },
     {
       "id": "227",
@@ -524,8 +555,44 @@
         }
       ],
       "publishedAt": "2025-11-10T21:27:00.000Z",
-      "ranking": 5.097724452636916,
+      "ranking": 4.587200067259943,
       "articleUrl": "https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can"
+    },
+    {
+      "id": "223",
+      "topic": "Training Tricks",
+      "source": "VentureBeat AI",
+      "shortTitle": "Baseten Training",
+      "mediumTitle": "Baseten Launches AI Training Platform",
+      "longTitle": "Baseten Training Platform Aims to Reduce Enterprise Reliance on Proprietary AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Baseten, an AI infrastructure company",
+            "valued at $2.15 billion, has launched",
+            "Baseten Training, a comprehensive",
+            "platform for fine-tuning open-source AI",
+            "models.",
+            "This strategic move aims to reduce",
+            "enterprise reliance on proprietary AI",
+            "providers like OpenAI by offering a",
+            "solution that simplifies the",
+            "complexities of GPU cluster management,",
+            "orchestration, and cloud capacity",
+            "planning.",
+            "Baseten\u0027s core philosophy is that",
+            "training is a means to enhance",
+            "inference, aiming to provide",
+            "infrastructure that simplifies the",
+            "fine-tuning process and optimizes for",
+            "performant, reliable, and cost-effective",
+            "inference at scale."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-10T15:00:00.000Z",
+      "ranking": 4.540179635033534,
+      "articleUrl": "https://venturebeat.com/ai/baseten-takes-on-hyperscalers-with-new-ai-training-platform-that-lets-you"
     },
     {
       "id": "229",
@@ -559,7 +626,7 @@
         }
       ],
       "publishedAt": "2025-11-10T16:02:57.000Z",
-      "ranking": 4.9925129555893015,
+      "ranking": 4.406584394321623,
       "articleUrl": "https://www.theverge.com/news/817668/google-gemini-home-rollout-is-going-great"
     },
     {
@@ -593,7 +660,7 @@
         }
       ],
       "publishedAt": "2025-11-10T16:00:00.000Z",
-      "ranking": 4.827651720715197,
+      "ranking": 4.241036713722526,
       "articleUrl": "https://venturebeat.com/ai/how-context-engineering-can-save-your-company-from-ai-vibe-code-overload"
     },
     {
@@ -630,7 +697,7 @@
         }
       ],
       "publishedAt": "2025-11-10T11:00:00.000Z",
-      "ranking": 4.475118603385042,
+      "ranking": 3.818695690989804,
       "articleUrl": "https://www.theverge.com/podcast/814552/tim-berners-lee-world-wide-web-ai-future-interview"
     },
     {
@@ -665,7 +732,7 @@
         }
       ],
       "publishedAt": "2025-11-10T06:00:00.000Z",
-      "ranking": 3.514946597114081,
+      "ranking": 2.7887157792376307,
       "articleUrl": "https://venturebeat.com/ai/celosphere-2025-where-enterprise-ai-moved-from-experiment-to-execution"
     },
     {
@@ -698,7 +765,7 @@
         }
       ],
       "publishedAt": "2025-11-10T03:14:23.000Z",
-      "ranking": 3.270364087085185,
+      "ranking": 2.505595427244967,
       "articleUrl": "https://www.marktechpost.com/2025/11/09/a-coding-implementation-to-build-neural-memory-agents-with-differentiable-memory-meta-learning-and-experience-replay-for-continual-adaptation-in-dynamic-environments/"
     },
     {
@@ -735,7 +802,7 @@
         }
       ],
       "publishedAt": "2025-11-09T17:51:36.000Z",
-      "ranking": 1.474941326081253,
+      "ranking": 0.5792169159020695,
       "articleUrl": "https://www.marktechpost.com/2025/11/09/stepfun-ai-releases-step-audio-editx-a-new-open-source-3b-llm-grade-audio-editing-model-excelling-at-expressive-and-iterative-audio-editing/"
     },
     {
@@ -1439,113 +1506,6 @@
       "publishedAt": "2025-11-06T12:51:08.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/815619/microsoft-ai-humanist-superintelligence"
-    },
-    {
-      "id": "197",
-      "topic": "Education",
-      "source": "The Verge AI",
-      "shortTitle": "AI\u0027s Edu Crisis",
-      "mediumTitle": "AI Fuels Education\u0027s Existential Crisis",
-      "longTitle": "Generative AI is Causing Widespread Problems in Education",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Generative AI is fueling an existential",
-            "crisis in education, causing widespread",
-            "problems in schools.",
-            "The core issue highlighted is that",
-            "generative AI tools are causing",
-            "widespread problems in schools, a",
-            "sentiment frequently echoed by various",
-            "stakeholders.",
-            "Generative AI is described as a \u0027very",
-            "big idea that is causing quite a few",
-            "problems.\u0027",
-            "The \u0027existential crisis\u0027 framing implies",
-            "a fundamental questioning of current",
-            "educational models and practices.",
-            "This establishes the central theme: the",
-            "disruptive and problematic impact of",
-            "generative AI on educational",
-            "institutions."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T11:30:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/podcast/815434/ai-education-schools-research-cheating-chatgpt-jobs-grades"
-    },
-    {
-      "id": "198",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "Altman Ouster",
-      "mediumTitle": "Altman\u0027s OpenAI Ouster: Safety Fears",
-      "longTitle": "Altman Ousted from OpenAI Amidst Safety Concerns and Lies",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Sam Altman was ousted from OpenAI in",
-            "November 2023 due to a disagreement over",
-            "AI development pace and safety, with new",
-            "testimony suggesting fears of",
-            "existential threats and alleged",
-            "deception.",
-            "He allegedly believed that OpenAI was",
-            "moving too quickly, potentially creating",
-            "an AI that could pose an existential",
-            "threat to humanity.",
-            "The testimony reportedly reveals that",
-            "Sutskever\u0027s decision to support Altman\u0027s",
-            "removal stemmed from a profound fear",
-            "regarding the safety implications of the",
-            "AI models being developed.",
-            "This alleged deception would have",
-            "further eroded trust and justified the",
-            "board\u0027s drastic action to remove Altman,",
-            "aiming to regain control and prioritize",
-            "safety over rapid expansion."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T11:13:17.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/814876/ilya-sutskever-deposition-openai-sam-altman-elon-musk-lawsuit"
-    },
-    {
-      "id": "189",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Smarter LLM Agents",
-      "mediumTitle": "CMU\u0027s New LLM Training Systems",
-      "longTitle": "CMU Researchers Develop PPP and UserVille for Enhanced LLM Agent Interaction",
-      "paragraphs": [
-        {
-          "Lines": [
-            "CMU researchers have developed two novel",
-            "systems, PPP (Proactive, Personalized,",
-            "and Polite) and UserVille, aimed at",
-            "training Large Language Model (LLM)",
-            "agents to be more proactive,",
-            "personalized, and considerate in their",
-            "interactions with users.",
-            "Unlike current LLM agents that are",
-            "primarily optimized for task completion,",
-            "these new systems focus on enhancing the",
-            "agent\u0027s ability to reason about when to",
-            "ask clarifying questions and how to",
-            "adapt to individual user preferences.",
-            "The core problem addressed is that",
-            "existing LLM agents often lack the",
-            "nuanced understanding required for",
-            "effective human-computer interaction,",
-            "leading to frustrating user experiences."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T10:49:46.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/06/cmu-researchers-introduce-ppp-and-userville-to-train-proactive-and-personalized-llm-agents/"
     }
   ]
 }
