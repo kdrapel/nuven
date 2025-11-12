@@ -106,43 +106,6 @@
       "articleUrl": "https://venturebeat.com/ai/metas-spice-framework-lets-ai-systems-teach-themselves-to-reason"
     },
     {
-      "id": "231",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Kosong AI Layer",
-      "mediumTitle": "Moonshot AI\u0027s Kosong LLM Abstraction",
-      "longTitle": "Moonshot AI introduces Kosong to simplify agentic AI applications",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Moonshot AI has launched Kosong, an LLM",
-            "abstraction layer designed to simplify",
-            "complex agentic AI applications that",
-            "interact with multiple models and tools.",
-            "By abstracting LLM and tool interaction",
-            "complexities, Kosong empowers developers",
-            "to build more robust and maintainable",
-            "agentic applications.",
-            "A core feature of Kosong is its ability",
-            "to unify message structures, ensuring",
-            "consistent communication across various",
-            "LLMs.",
-            "Kosong also facilitates asynchronous",
-            "tool orchestration, allowing agent",
-            "applications to efficiently manage and",
-            "execute multiple tool calls",
-            "concurrently.",
-            "This abstraction simplifies integrating",
-            "and switching between different language",
-            "models without extensive code changes."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T00:47:22.000Z",
-      "ranking": 8.007692307692308,
-      "articleUrl": "https://www.marktechpost.com/2025/11/10/moonshot-ai-releases-kosong-the-llm-abstraction-layer-that-powers-kimi-cli/"
-    },
-    {
       "id": "234",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -351,6 +314,43 @@
       "articleUrl": "https://www.theverge.com/news/818364/google-private-ai-compute"
     },
     {
+      "id": "231",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Kosong AI Layer",
+      "mediumTitle": "Moonshot AI\u0027s Kosong LLM Abstraction",
+      "longTitle": "Moonshot AI introduces Kosong to simplify agentic AI applications",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Moonshot AI has launched Kosong, an LLM",
+            "abstraction layer designed to simplify",
+            "complex agentic AI applications that",
+            "interact with multiple models and tools.",
+            "By abstracting LLM and tool interaction",
+            "complexities, Kosong empowers developers",
+            "to build more robust and maintainable",
+            "agentic applications.",
+            "A core feature of Kosong is its ability",
+            "to unify message structures, ensuring",
+            "consistent communication across various",
+            "LLMs.",
+            "Kosong also facilitates asynchronous",
+            "tool orchestration, allowing agent",
+            "applications to efficiently manage and",
+            "execute multiple tool calls",
+            "concurrently.",
+            "This abstraction simplifies integrating",
+            "and switching between different language",
+            "models without extensive code changes."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T00:47:22.000Z",
+      "ranking": 6.719916939937112,
+      "articleUrl": "https://www.marktechpost.com/2025/11/10/moonshot-ai-releases-kosong-the-llm-abstraction-layer-that-powers-kimi-cli/"
+    },
+    {
       "id": "236",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -387,6 +387,40 @@
       "articleUrl": "https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update"
     },
     {
+      "id": "242",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Baidu ERNIE AI",
+      "mediumTitle": "Baidu ERNIE-4.5-VL-28B-A3B-Thinking",
+      "longTitle": "Baidu Launches ERNIE-4.5-VL-28B-A3B-Thinking AI Model",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Baidu has launched",
+            "ERNIE-4.5-VL-28B-A3B-Thinking, an",
+            "open-source multimodal AI model that the",
+            "company claims surpasses Google\u0027s Gemini",
+            "2.5 Pro and OpenAI\u0027s GPT-5-High on",
+            "several vision-related benchmarks.",
+            "This new model is notable for its",
+            "efficiency, utilizing a",
+            "Mixture-of-Experts (MoE) architecture",
+            "that activates only 3 billion parameters",
+            "during operation while having a total of",
+            "28 billion parameters.",
+            "A key innovation is the \u0027Thinking with",
+            "Images\u0027 capability, which enables the AI",
+            "to dynamically zoom in and out of",
+            "images, mimicking human visual",
+            "problem-solving."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-12T01:00:00.000Z",
+      "ranking": 6.627272727272729,
+      "articleUrl": "https://venturebeat.com/ai/baidu-just-dropped-an-open-source-multimodal-ai-that-it-claims-beats-gpt-5"
+    },
+    {
       "id": "223",
       "topic": "Training Tricks",
       "source": "VentureBeat AI",
@@ -419,7 +453,7 @@
         }
       ],
       "publishedAt": "2025-11-10T15:00:00.000Z",
-      "ranking": 6.1656407451914745,
+      "ranking": 5.680090807393132,
       "articleUrl": "https://venturebeat.com/ai/baseten-takes-on-hyperscalers-with-new-ai-training-platform-that-lets-you"
     },
     {
@@ -453,43 +487,8 @@
         }
       ],
       "publishedAt": "2025-11-10T20:00:00.000Z",
-      "ranking": 6.0957201473689775,
+      "ranking": 5.6794777884496135,
       "articleUrl": "https://venturebeat.com/ai/chronosphere-takes-on-datadog-with-ai-that-explains-itself-not-just-outages"
-    },
-    {
-      "id": "229",
-      "topic": "AI Ops",
-      "source": "The Verge AI",
-      "shortTitle": "Gemini Voice Rollout",
-      "mediumTitle": "Google\u0027s Gemini Voice Assistant Rollout",
-      "longTitle": "Google Reports Successful Gemini Voice Assistant Rollout for Smart Speakers",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has announced that its rollout of",
-            "the Gemini voice assistant for its smart",
-            "speakers, which began two weeks ago, is",
-            "progressing successfully.",
-            "Google highlighted positive user",
-            "feedback, including a quote from a user",
-            "who stated that their Google Home has",
-            "been upgraded with Gemini and is now",
-            "\u0022actually useful now beyond asking",
-            "for...\u0022",
-            "In a blog post commemorating the",
-            "two-week mark, the company expressed",
-            "satisfaction with the deployment.",
-            "Google\u0027s official statement aims to",
-            "counter this perception by emphasizing",
-            "the perceived usefulness and successful",
-            "integration of Gemini into their smart",
-            "home devices."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-10T16:02:57.000Z",
-      "ranking": 5.98835110370487,
-      "articleUrl": "https://www.theverge.com/news/817668/google-gemini-home-rollout-is-going-great"
     },
     {
       "id": "227",
@@ -525,8 +524,43 @@
         }
       ],
       "publishedAt": "2025-11-10T21:27:00.000Z",
-      "ranking": 5.944039521944194,
+      "ranking": 5.547896361949455,
       "articleUrl": "https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can"
+    },
+    {
+      "id": "229",
+      "topic": "AI Ops",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini Voice Rollout",
+      "mediumTitle": "Google\u0027s Gemini Voice Assistant Rollout",
+      "longTitle": "Google Reports Successful Gemini Voice Assistant Rollout for Smart Speakers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has announced that its rollout of",
+            "the Gemini voice assistant for its smart",
+            "speakers, which began two weeks ago, is",
+            "progressing successfully.",
+            "Google highlighted positive user",
+            "feedback, including a quote from a user",
+            "who stated that their Google Home has",
+            "been upgraded with Gemini and is now",
+            "\u0022actually useful now beyond asking",
+            "for...\u0022",
+            "In a blog post commemorating the",
+            "two-week mark, the company expressed",
+            "satisfaction with the deployment.",
+            "Google\u0027s official statement aims to",
+            "counter this perception by emphasizing",
+            "the perceived usefulness and successful",
+            "integration of Gemini into their smart",
+            "home devices."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-10T16:02:57.000Z",
+      "ranking": 5.517344197366192,
+      "articleUrl": "https://www.theverge.com/news/817668/google-gemini-home-rollout-is-going-great"
     },
     {
       "id": "225",
@@ -559,7 +593,7 @@
         }
       ],
       "publishedAt": "2025-11-10T16:00:00.000Z",
-      "ranking": 5.824851053657227,
+      "ranking": 5.353162626392584,
       "articleUrl": "https://venturebeat.com/ai/how-context-engineering-can-save-your-company-from-ai-vibe-code-overload"
     },
     {
@@ -596,7 +630,7 @@
         }
       ],
       "publishedAt": "2025-11-10T11:00:00.000Z",
-      "ranking": 5.610743861486567,
+      "ranking": 5.069747854139694,
       "articleUrl": "https://www.theverge.com/podcast/814552/tim-berners-lee-world-wide-web-ai-future-interview"
     },
     {
@@ -631,7 +665,7 @@
         }
       ],
       "publishedAt": "2025-11-10T06:00:00.000Z",
-      "ranking": 4.788997779373776,
+      "ranking": 4.178694191994332,
       "articleUrl": "https://venturebeat.com/ai/celosphere-2025-where-enterprise-ai-moved-from-experiment-to-execution"
     },
     {
@@ -664,7 +698,7 @@
         }
       ],
       "publishedAt": "2025-11-10T03:14:23.000Z",
-      "ranking": 4.620834071064543,
+      "ranking": 3.9722688485716393,
       "articleUrl": "https://www.marktechpost.com/2025/11/09/a-coding-implementation-to-build-neural-memory-agents-with-differentiable-memory-meta-learning-and-experience-replay-for-continual-adaptation-in-dynamic-environments/"
     },
     {
@@ -701,7 +735,7 @@
         }
       ],
       "publishedAt": "2025-11-09T17:51:36.000Z",
-      "ranking": 3.08509065402652,
+      "ranking": 2.3065082612016337,
       "articleUrl": "https://www.marktechpost.com/2025/11/09/stepfun-ai-releases-step-audio-editx-a-new-open-source-3b-llm-grade-audio-editing-model-excelling-at-expressive-and-iterative-audio-editing/"
     },
     {
@@ -738,7 +772,7 @@
         }
       ],
       "publishedAt": "2025-11-09T06:00:00.000Z",
-      "ranking": 0.5407475407547064,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/6-proven-lessons-from-the-ai-projects-that-broke-before-they-scaled"
     },
     {
@@ -775,7 +809,7 @@
         }
       ],
       "publishedAt": "2025-11-09T05:22:23.000Z",
-      "ranking": 0.24469608298741274,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/08/how-to-build-an-agentic-voice-ai-assistant-that-understands-reasons-plans-and-responds-through-autonomous-multi-step-intelligence/"
     },
     {
@@ -1512,43 +1546,6 @@
       "publishedAt": "2025-11-06T10:49:46.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/06/cmu-researchers-introduce-ppp-and-userville-to-train-proactive-and-personalized-llm-agents/"
-    },
-    {
-      "id": "192",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "BeeBot AI App",
-      "mediumTitle": "Foursquare Co-founder\u0027s New AI App",
-      "longTitle": "Foursquare Co-founder Launches AI-Powered Location Audio App BeeBot",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Foursquare co-founder Dennis Crowley has",
-            "launched BeeBot, a new AI-powered social",
-            "app for iPhones.",
-            "BeeBot provides users with",
-            "location-based audio updates about their",
-            "neighborhood, acting like a personalized",
-            "radio DJ.",
-            "The app delivers audio updates through",
-            "headphones about local activities,",
-            "happenings, and what friends are doing.",
-            "It aims to offer a more engaging and",
-            "informative way to experience",
-            "surroundings using AI to curate relevant",
-            "content.",
-            "BeeBot focuses on local discovery and",
-            "social connection through a",
-            "conversational, audio-first platform.",
-            "The app\u0027s emphasis on \u0027talking to you",
-            "about your neighborhood\u0027 suggests a",
-            "personalized and dynamic experience."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T09:15:35.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/815328/beebot-app-foursquare-founder-ai-audio-updates"
     }
   ]
 }
