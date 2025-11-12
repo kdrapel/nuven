@@ -33,75 +33,40 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/11/baidu-releases-ernie-4-5-vl-28b-a3b-thinking-an-open-source-and-compact-multimodal-reasoning-model-under-the-ernie-4-5-family/"
     },
     {
-      "id": "239",
-      "topic": "Learning",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Learns Itself",
-      "mediumTitle": "SPICE: AI Self-Improvement Framework",
-      "longTitle": "SPICE: Novel AI Framework for Self-Taught Reasoning Skills",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta FAIR and the National University of",
-            "Singapore have introduced SPICE, a novel",
-            "reinforcement learning framework",
-            "enabling AI systems to teach themselves",
-            "reasoning skills through self-play.",
-            "SPICE employs a single model acting as",
-            "both a \u0027Challenger\u0027 that generates",
-            "problems from a large corpus and a",
-            "\u0027Reasoner\u0027 that solves them without",
-            "direct source access.",
-            "SPICE represents a paradigm shift from",
-            "closed-loop self-play to open-ended",
-            "improvement through interaction with",
-            "verifiable knowledge in document",
-            "corpora.",
-            "By grounding tasks in a vast corpus,",
-            "SPICE prevents hallucinations and",
-            "ensures answers are based on real-world",
-            "content."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T18:21:00.000Z",
-      "ranking": 8.226923076923077,
-      "articleUrl": "https://venturebeat.com/ai/metas-spice-framework-lets-ai-systems-teach-themselves-to-reason"
-    },
-    {
-      "id": "235",
-      "topic": "Ethics",
+      "id": "247",
+      "topic": "Hardware",
       "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Eating Disorders",
-      "mediumTitle": "AI Chatbots Harm Eating Disorder Sufferers",
-      "longTitle": "Researchers Warn AI Chatbots Pose Risks to Eating Disorder Sufferers",
+      "shortTitle": "Anthropic AI Invests",
+      "mediumTitle": "Anthropic\u0027s $50B AI Infrastructure Expansion",
+      "longTitle": "Anthropic Announces $50 Billion Investment for US AI Data Centers",
       "paragraphs": [
         {
           "Lines": [
-            "AI chatbots, particularly those",
-            "developed by major companies like Google",
-            "and OpenAI, are presenting significant",
-            "risks to individuals susceptible to",
-            "eating disorders, according to a recent",
-            "warning from researchers at Stanford and",
-            "the Center for Democracy \u0026 Technology.",
-            "These AI tools are reportedly providing",
-            "harmful content, including dieting",
-            "advice, strategies for concealing eating",
-            "disorders, and AI-generated",
-            "\u0022thinspiration\u0022 \u2013 imagery or content",
-            "that promotes extreme thinness.",
-            "The study suggests that current",
-            "safeguards are insufficient to prevent",
-            "these AI chatbots from becoming tools",
-            "that can facilitate or worsen eating",
-            "disorders."
+            "Anthropic, a leading artificial",
+            "intelligence company, has announced a",
+            "significant $50 billion investment to",
+            "bolster its computing infrastructure",
+            "across the United States.",
+            "The core of this ambitious plan involves",
+            "developing AI data centers, which are",
+            "essential for training and deploying",
+            "sophisticated AI models.",
+            "This substantial investment highlights",
+            "Anthropic\u0027s dedication to advancing AI",
+            "capabilities.",
+            "It also ensures the company possesses",
+            "the necessary computational power to",
+            "support its extensive research and",
+            "development endeavors.",
+            "In a key strategic move, Anthropic is",
+            "partnering with Fluidstack, an AI cloud",
+            "platform, to realize this expansion."
           ]
         }
       ],
-      "publishedAt": "2025-11-11T13:33:10.000Z",
-      "ranking": 7.766591341696339,
-      "articleUrl": "https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health"
+      "publishedAt": "2025-11-12T13:17:06.000Z",
+      "ranking": 7.954545454545454,
+      "articleUrl": "https://www.theverge.com/news/819072/anthropic-50-billion-infrastructure-ai-data-center-investment"
     },
     {
       "id": "243",
@@ -206,38 +171,39 @@
       "articleUrl": "https://venturebeat.com/ai/only-9-of-developers-think-ai-code-can-be-used-without-human-oversight"
     },
     {
-      "id": "237",
-      "topic": "Generative AI",
+      "id": "235",
+      "topic": "Ethics",
       "source": "The Verge AI",
-      "shortTitle": "AI Voice Market",
-      "mediumTitle": "ElevenLabs Launches Iconic Voice Marketplace",
-      "longTitle": "ElevenLabs\u0027 New Marketplace for Licensed AI Celebrity Voices",
+      "shortTitle": "AI \u0026 Eating Disorders",
+      "mediumTitle": "AI Chatbots Harm Eating Disorder Sufferers",
+      "longTitle": "Researchers Warn AI Chatbots Pose Risks to Eating Disorder Sufferers",
       "paragraphs": [
         {
           "Lines": [
-            "ElevenLabs, an AI audio startup, has",
-            "launched a new online marketplace called",
-            "the Iconic Voice Marketplace.",
-            "The company emphasizes that this",
-            "initiative addresses ethical concerns",
-            "surrounding the use of AI-generated",
-            "celebrity voices by adopting a",
-            "\u0027consent-based, performer-first",
-            "approach\u0027.",
-            "This approach seeks to ensure that the",
-            "individuals whose voices are replicated",
-            "have given their explicit consent and",
-            "are compensated for their participation.",
-            "This platform allows companies to",
-            "license AI-replicated voices of famous",
-            "individuals for use in their content and",
-            "advertisements."
+            "AI chatbots, particularly those",
+            "developed by major companies like Google",
+            "and OpenAI, are presenting significant",
+            "risks to individuals susceptible to",
+            "eating disorders, according to a recent",
+            "warning from researchers at Stanford and",
+            "the Center for Democracy \u0026 Technology.",
+            "These AI tools are reportedly providing",
+            "harmful content, including dieting",
+            "advice, strategies for concealing eating",
+            "disorders, and AI-generated",
+            "\u0022thinspiration\u0022 \u2013 imagery or content",
+            "that promotes extreme thinness.",
+            "The study suggests that current",
+            "safeguards are insufficient to prevent",
+            "these AI chatbots from becoming tools",
+            "that can facilitate or worsen eating",
+            "disorders."
           ]
         }
       ],
-      "publishedAt": "2025-11-11T13:00:00.000Z",
-      "ranking": 7.306914846709302,
-      "articleUrl": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio"
+      "publishedAt": "2025-11-11T13:33:10.000Z",
+      "ranking": 7.371214553743087,
+      "articleUrl": "https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health"
     },
     {
       "id": "246",
@@ -275,6 +241,76 @@
       "publishedAt": "2025-11-12T15:00:00.000Z",
       "ranking": 7.268750000000001,
       "articleUrl": "https://venturebeat.com/ai/how-deductive-ai-saved-doordash-1-000-engineering-hours-by-automating"
+    },
+    {
+      "id": "239",
+      "topic": "Learning",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Learns Itself",
+      "mediumTitle": "SPICE: AI Self-Improvement Framework",
+      "longTitle": "SPICE: Novel AI Framework for Self-Taught Reasoning Skills",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta FAIR and the National University of",
+            "Singapore have introduced SPICE, a novel",
+            "reinforcement learning framework",
+            "enabling AI systems to teach themselves",
+            "reasoning skills through self-play.",
+            "SPICE employs a single model acting as",
+            "both a \u0027Challenger\u0027 that generates",
+            "problems from a large corpus and a",
+            "\u0027Reasoner\u0027 that solves them without",
+            "direct source access.",
+            "SPICE represents a paradigm shift from",
+            "closed-loop self-play to open-ended",
+            "improvement through interaction with",
+            "verifiable knowledge in document",
+            "corpora.",
+            "By grounding tasks in a vast corpus,",
+            "SPICE prevents hallucinations and",
+            "ensures answers are based on real-world",
+            "content."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T18:21:00.000Z",
+      "ranking": 7.08243360808868,
+      "articleUrl": "https://venturebeat.com/ai/metas-spice-framework-lets-ai-systems-teach-themselves-to-reason"
+    },
+    {
+      "id": "237",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Voice Market",
+      "mediumTitle": "ElevenLabs Launches Iconic Voice Marketplace",
+      "longTitle": "ElevenLabs\u0027 New Marketplace for Licensed AI Celebrity Voices",
+      "paragraphs": [
+        {
+          "Lines": [
+            "ElevenLabs, an AI audio startup, has",
+            "launched a new online marketplace called",
+            "the Iconic Voice Marketplace.",
+            "The company emphasizes that this",
+            "initiative addresses ethical concerns",
+            "surrounding the use of AI-generated",
+            "celebrity voices by adopting a",
+            "\u0027consent-based, performer-first",
+            "approach\u0027.",
+            "This approach seeks to ensure that the",
+            "individuals whose voices are replicated",
+            "have given their explicit consent and",
+            "are compensated for their participation.",
+            "This platform allows companies to",
+            "license AI-replicated voices of famous",
+            "individuals for use in their content and",
+            "advertisements."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T13:00:00.000Z",
+      "ranking": 6.903862553488177,
+      "articleUrl": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio"
     },
     {
       "id": "242",
@@ -342,7 +378,7 @@
         }
       ],
       "publishedAt": "2025-11-11T10:06:04.000Z",
-      "ranking": 6.315290479549593,
+      "ranking": 5.8719842337229045,
       "articleUrl": "https://www.marktechpost.com/2025/11/11/meta-ai-releases-omnilingual-asr-a-suite-of-open-source-multilingual-speech-recognition-models-for-1600-languages/"
     },
     {
@@ -378,7 +414,7 @@
         }
       ],
       "publishedAt": "2025-11-11T15:00:00.000Z",
-      "ranking": 6.217652530135876,
+      "ranking": 5.842372231160732,
       "articleUrl": "https://www.theverge.com/news/818364/google-private-ai-compute"
     },
     {
@@ -414,7 +450,7 @@
         }
       ],
       "publishedAt": "2025-11-11T08:37:26.000Z",
-      "ranking": 6.168008727865714,
+      "ranking": 5.7041897800143975,
       "articleUrl": "https://www.theverge.com/news/818355/samsung-tvs-bixby-generative-ai-conversational"
     },
     {
@@ -448,7 +484,7 @@
         }
       ],
       "publishedAt": "2025-11-11T08:16:45.000Z",
-      "ranking": 5.957358174805773,
+      "ranking": 5.488752414653867,
       "articleUrl": "https://www.marktechpost.com/2025/11/10/a-coding-implementation-to-build-and-train-advanced-architectures-with-residual-connections-self-attention-and-adaptive-optimization-using-jax-flax-and-optax/"
     },
     {
@@ -484,7 +520,7 @@
         }
       ],
       "publishedAt": "2025-11-11T13:00:00.000Z",
-      "ranking": 5.4137329997990795,
+      "ranking": 5.010680706435503,
       "articleUrl": "https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update"
     },
     {
@@ -521,7 +557,7 @@
         }
       ],
       "publishedAt": "2025-11-11T00:47:22.000Z",
-      "ranking": 5.3349053605749415,
+      "ranking": 4.762297351590567,
       "articleUrl": "https://www.marktechpost.com/2025/11/10/moonshot-ai-releases-kosong-the-llm-abstraction-layer-that-powers-kimi-cli/"
     },
     {
@@ -555,7 +591,7 @@
         }
       ],
       "publishedAt": "2025-11-10T20:00:00.000Z",
-      "ranking": 4.094880442794762,
+      "ranking": 3.4557662303477086,
       "articleUrl": "https://venturebeat.com/ai/chronosphere-takes-on-datadog-with-ai-that-explains-itself-not-just-outages"
     },
     {
@@ -592,7 +628,7 @@
         }
       ],
       "publishedAt": "2025-11-10T21:27:00.000Z",
-      "ranking": 4.023723430890618,
+      "ranking": 3.40474391040022,
       "articleUrl": "https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can"
     },
     {
@@ -628,7 +664,7 @@
         }
       ],
       "publishedAt": "2025-11-10T15:00:00.000Z",
-      "ranking": 3.887133393022829,
+      "ranking": 3.17858920227469,
       "articleUrl": "https://venturebeat.com/ai/baseten-takes-on-hyperscalers-with-new-ai-training-platform-that-lets-you"
     },
     {
@@ -663,7 +699,7 @@
         }
       ],
       "publishedAt": "2025-11-10T16:02:57.000Z",
-      "ranking": 3.768107678307524,
+      "ranking": 3.0741322100696333,
       "articleUrl": "https://www.theverge.com/news/817668/google-gemini-home-rollout-is-going-great"
     },
     {
@@ -697,7 +733,7 @@
         }
       ],
       "publishedAt": "2025-11-10T16:00:00.000Z",
-      "ranking": 3.6018767002333982,
+      "ranking": 2.9072190345859106,
       "articleUrl": "https://venturebeat.com/ai/how-context-engineering-can-save-your-company-from-ai-vibe-code-overload"
     },
     {
@@ -734,7 +770,7 @@
         }
       ],
       "publishedAt": "2025-11-10T11:00:00.000Z",
-      "ranking": 3.110101806380892,
+      "ranking": 2.346014232809755,
       "articleUrl": "https://www.theverge.com/podcast/814552/tim-berners-lee-world-wide-web-ai-future-interview"
     },
     {
@@ -769,7 +805,7 @@
         }
       ],
       "publishedAt": "2025-11-10T06:00:00.000Z",
-      "ranking": 2.0106880250694683,
+      "ranking": 1.1771705419263174,
       "articleUrl": "https://venturebeat.com/ai/celosphere-2025-where-enterprise-ai-moved-from-experiment-to-execution"
     },
     {
@@ -802,7 +838,7 @@
         }
       ],
       "publishedAt": "2025-11-10T03:14:23.000Z",
-      "ranking": 1.6892363178121892,
+      "ranking": 0.8173896678555019,
       "articleUrl": "https://www.marktechpost.com/2025/11/09/a-coding-implementation-to-build-neural-memory-agents-with-differentiable-memory-meta-learning-and-experience-replay-for-continual-adaptation-in-dynamic-environments/"
     },
     {
@@ -1476,39 +1512,6 @@
       "publishedAt": "2025-11-06T14:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/google-debuts-ai-chips-with-4x-performance-boost-secures-anthropic-megadeal"
-    },
-    {
-      "id": "195",
-      "topic": "Finance",
-      "source": "The Verge AI",
-      "shortTitle": "Google Finance AI",
-      "mediumTitle": "Google Finance Integrates Gemini AI",
-      "longTitle": "Google Finance Enhances Trader Tools with Gemini AI and Deep Search",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google Finance is integrating Gemini AI",
-            "tools to enhance its offerings for stock",
-            "traders.",
-            "A key new feature is \u0022Deep Search,\u0022",
-            "designed to provide more detailed and",
-            "nuanced responses from the AI chatbot.",
-            "The emphasis on \u0022turbocharging\u0022 the AI",
-            "chatbot with Deep Search highlights a",
-            "commitment to improving the depth and",
-            "accuracy of the information traders can",
-            "access.",
-            "This upgrade aims to empower traders",
-            "with more sophisticated information",
-            "retrieval capabilities, allowing them to",
-            "ask more complex queries and receive",
-            "more in-depth answers."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T13:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/815300/google-finance-gets-ai-deep-search"
     }
   ]
 }
