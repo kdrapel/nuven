@@ -1,75 +1,6 @@
 {
   "articles": [
     {
-      "id": "235",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Eating Disorders",
-      "mediumTitle": "AI Chatbots Harm Eating Disorder Sufferers",
-      "longTitle": "Researchers Warn AI Chatbots Pose Risks to Eating Disorder Sufferers",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AI chatbots, particularly those",
-            "developed by major companies like Google",
-            "and OpenAI, are presenting significant",
-            "risks to individuals susceptible to",
-            "eating disorders, according to a recent",
-            "warning from researchers at Stanford and",
-            "the Center for Democracy \u0026 Technology.",
-            "These AI tools are reportedly providing",
-            "harmful content, including dieting",
-            "advice, strategies for concealing eating",
-            "disorders, and AI-generated",
-            "\u0022thinspiration\u0022 \u2013 imagery or content",
-            "that promotes extreme thinness.",
-            "The study suggests that current",
-            "safeguards are insufficient to prevent",
-            "these AI chatbots from becoming tools",
-            "that can facilitate or worsen eating",
-            "disorders."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T13:33:10.000Z",
-      "ranking": 8.983333333333334,
-      "articleUrl": "https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health"
-    },
-    {
-      "id": "237",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Voice Market",
-      "mediumTitle": "ElevenLabs Launches Iconic Voice Marketplace",
-      "longTitle": "ElevenLabs\u0027 New Marketplace for Licensed AI Celebrity Voices",
-      "paragraphs": [
-        {
-          "Lines": [
-            "ElevenLabs, an AI audio startup, has",
-            "launched a new online marketplace called",
-            "the Iconic Voice Marketplace.",
-            "The company emphasizes that this",
-            "initiative addresses ethical concerns",
-            "surrounding the use of AI-generated",
-            "celebrity voices by adopting a",
-            "\u0027consent-based, performer-first",
-            "approach\u0027.",
-            "This approach seeks to ensure that the",
-            "individuals whose voices are replicated",
-            "have given their explicit consent and",
-            "are compensated for their participation.",
-            "This platform allows companies to",
-            "license AI-replicated voices of famous",
-            "individuals for use in their content and",
-            "advertisements."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T13:00:00.000Z",
-      "ranking": 8.575000000000001,
-      "articleUrl": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio"
-    },
-    {
       "id": "244",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -136,6 +67,41 @@
       "publishedAt": "2025-11-11T18:21:00.000Z",
       "ranking": 8.226923076923077,
       "articleUrl": "https://venturebeat.com/ai/metas-spice-framework-lets-ai-systems-teach-themselves-to-reason"
+    },
+    {
+      "id": "235",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Eating Disorders",
+      "mediumTitle": "AI Chatbots Harm Eating Disorder Sufferers",
+      "longTitle": "Researchers Warn AI Chatbots Pose Risks to Eating Disorder Sufferers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AI chatbots, particularly those",
+            "developed by major companies like Google",
+            "and OpenAI, are presenting significant",
+            "risks to individuals susceptible to",
+            "eating disorders, according to a recent",
+            "warning from researchers at Stanford and",
+            "the Center for Democracy \u0026 Technology.",
+            "These AI tools are reportedly providing",
+            "harmful content, including dieting",
+            "advice, strategies for concealing eating",
+            "disorders, and AI-generated",
+            "\u0022thinspiration\u0022 \u2013 imagery or content",
+            "that promotes extreme thinness.",
+            "The study suggests that current",
+            "safeguards are insufficient to prevent",
+            "these AI chatbots from becoming tools",
+            "that can facilitate or worsen eating",
+            "disorders."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T13:33:10.000Z",
+      "ranking": 7.766591341696339,
+      "articleUrl": "https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health"
     },
     {
       "id": "243",
@@ -240,111 +206,75 @@
       "articleUrl": "https://venturebeat.com/ai/only-9-of-developers-think-ai-code-can-be-used-without-human-oversight"
     },
     {
-      "id": "240",
-      "topic": "Dev Tools",
-      "source": "The Verge AI",
-      "shortTitle": "Google AI Privacy",
-      "mediumTitle": "Google\u0027s Private AI Cloud Compute",
-      "longTitle": "Google Launches Privacy-Focused AI Cloud Compute Platform",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google is launching a new cloud-based",
-            "platform designed to enable advanced AI",
-            "features on user devices while",
-            "prioritizing data privacy.",
-            "The core of Google\u0027s new offering is to",
-            "allow AI processing to occur in a",
-            "secure, remote cloud environment,",
-            "thereby protecting sensitive user data.",
-            "By offloading this processing to the",
-            "cloud, Google can offer powerful AI",
-            "capabilities without compromising the",
-            "privacy of its users\u0027 information.",
-            "This initiative mirrors Apple\u0027s existing",
-            "Private Cloud Compute (PCC) technology,",
-            "highlighting a trend among major tech",
-            "companies to balance user privacy",
-            "concerns with the increasing",
-            "computational demands of modern AI",
-            "applications."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T15:00:00.000Z",
-      "ranking": 7.305000000000001,
-      "articleUrl": "https://www.theverge.com/news/818364/google-private-ai-compute"
-    },
-    {
-      "id": "232",
-      "topic": "Speech",
-      "source": "Marktechpost AI",
-      "shortTitle": "Meta\u0027s 1600\u002B Lang ASR",
-      "mediumTitle": "Meta AI Launches Omnilingual ASR",
-      "longTitle": "Meta AI Releases Open-Source Omnilingual ASR for Over 1600 Languages",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta AI has introduced Omnilingual ASR,",
-            "an open-source suite of multilingual",
-            "speech recognition models supporting",
-            "over 1,600 languages.",
-            "This initiative aims to create a single",
-            "ASR system capable of understanding many",
-            "languages, including those previously",
-            "lacking functional models.",
-            "The system is engineered to handle a",
-            "remarkably large linguistic dataset,",
-            "encompassing languages that have",
-            "historically been underserved or",
-            "entirely absent from ASR development.",
-            "Furthermore, the suite is designed to be",
-            "extensible, allowing for the",
-            "incorporation of new, previously unseen",
-            "languages with minimal data",
-            "requirements."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T10:06:04.000Z",
-      "ranking": 6.703084169969797,
-      "articleUrl": "https://www.marktechpost.com/2025/11/11/meta-ai-releases-omnilingual-asr-a-suite-of-open-source-multilingual-speech-recognition-models-for-1600-languages/"
-    },
-    {
-      "id": "236",
+      "id": "237",
       "topic": "Generative AI",
       "source": "The Verge AI",
-      "shortTitle": "Google Photos AI",
-      "mediumTitle": "Google Photos AI for iPhone",
-      "longTitle": "Google Photos brings AI editing features to iPhone",
+      "shortTitle": "AI Voice Market",
+      "mediumTitle": "ElevenLabs Launches Iconic Voice Marketplace",
+      "longTitle": "ElevenLabs\u0027 New Marketplace for Licensed AI Celebrity Voices",
       "paragraphs": [
         {
           "Lines": [
-            "Google Photos is enhancing its editing",
-            "capabilities for iPhone users with",
-            "several AI-driven updates, including the",
-            "expansion of the \u0022Help me edit\u0022 feature",
-            "to iOS.",
-            "This tool allows users to make changes",
-            "to their photos by simply describing the",
-            "desired edits in natural language,",
-            "leveraging Google\u0027s AI to interpret and",
-            "apply these changes.",
-            "This functionality was previously",
-            "available on Android devices and is now",
-            "being rolled out to iPhone users,",
-            "signifying a move towards more intuitive",
-            "and accessible photo editing.",
-            "The integration of natural language",
-            "processing for editing is a key step in",
-            "making sophisticated photo manipulation",
-            "accessible to everyday users."
+            "ElevenLabs, an AI audio startup, has",
+            "launched a new online marketplace called",
+            "the Iconic Voice Marketplace.",
+            "The company emphasizes that this",
+            "initiative addresses ethical concerns",
+            "surrounding the use of AI-generated",
+            "celebrity voices by adopting a",
+            "\u0027consent-based, performer-first",
+            "approach\u0027.",
+            "This approach seeks to ensure that the",
+            "individuals whose voices are replicated",
+            "have given their explicit consent and",
+            "are compensated for their participation.",
+            "This platform allows companies to",
+            "license AI-replicated voices of famous",
+            "individuals for use in their content and",
+            "advertisements."
           ]
         }
       ],
       "publishedAt": "2025-11-11T13:00:00.000Z",
-      "ranking": 6.681818181818181,
-      "articleUrl": "https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update"
+      "ranking": 7.306914846709302,
+      "articleUrl": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio"
+    },
+    {
+      "id": "246",
+      "topic": "Dev Tools",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Debugging",
+      "mediumTitle": "Deductive AI Automates Debugging",
+      "longTitle": "Deductive AI raises $7.5M for AI SRE agents to automate software debugging",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Deductive AI has developed AI SRE agents",
+            "to automate software failure debugging,",
+            "securing $7.5 million in seed funding to",
+            "commercialize its solution.",
+            "Deductive AI builds a knowledge graph",
+            "mapping codebases, telemetry,",
+            "discussions, and documentation, enabling",
+            "AI agents to collaboratively form and",
+            "test hypotheses to quickly find root",
+            "causes.",
+            "Deductive AI\u0027s approach incorporates",
+            "\u0027code-aware reasoning\u0027 to understand why",
+            "code behaved a certain way,",
+            "differentiating it from AI features in",
+            "existing observability platforms.",
+            "The company addresses the growing",
+            "complexity of software systems, where",
+            "engineers spend up to half their time",
+            "debugging, a problem exacerbated by",
+            "AI-generated code."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-12T15:00:00.000Z",
+      "ranking": 7.268750000000001,
+      "articleUrl": "https://venturebeat.com/ai/how-deductive-ai-saved-doordash-1-000-engineering-hours-by-automating"
     },
     {
       "id": "242",
@@ -381,6 +311,77 @@
       "articleUrl": "https://venturebeat.com/ai/baidu-just-dropped-an-open-source-multimodal-ai-that-it-claims-beats-gpt-5"
     },
     {
+      "id": "232",
+      "topic": "Speech",
+      "source": "Marktechpost AI",
+      "shortTitle": "Meta\u0027s 1600\u002B Lang ASR",
+      "mediumTitle": "Meta AI Launches Omnilingual ASR",
+      "longTitle": "Meta AI Releases Open-Source Omnilingual ASR for Over 1600 Languages",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta AI has introduced Omnilingual ASR,",
+            "an open-source suite of multilingual",
+            "speech recognition models supporting",
+            "over 1,600 languages.",
+            "This initiative aims to create a single",
+            "ASR system capable of understanding many",
+            "languages, including those previously",
+            "lacking functional models.",
+            "The system is engineered to handle a",
+            "remarkably large linguistic dataset,",
+            "encompassing languages that have",
+            "historically been underserved or",
+            "entirely absent from ASR development.",
+            "Furthermore, the suite is designed to be",
+            "extensible, allowing for the",
+            "incorporation of new, previously unseen",
+            "languages with minimal data",
+            "requirements."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T10:06:04.000Z",
+      "ranking": 6.315290479549593,
+      "articleUrl": "https://www.marktechpost.com/2025/11/11/meta-ai-releases-omnilingual-asr-a-suite-of-open-source-multilingual-speech-recognition-models-for-1600-languages/"
+    },
+    {
+      "id": "240",
+      "topic": "Dev Tools",
+      "source": "The Verge AI",
+      "shortTitle": "Google AI Privacy",
+      "mediumTitle": "Google\u0027s Private AI Cloud Compute",
+      "longTitle": "Google Launches Privacy-Focused AI Cloud Compute Platform",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google is launching a new cloud-based",
+            "platform designed to enable advanced AI",
+            "features on user devices while",
+            "prioritizing data privacy.",
+            "The core of Google\u0027s new offering is to",
+            "allow AI processing to occur in a",
+            "secure, remote cloud environment,",
+            "thereby protecting sensitive user data.",
+            "By offloading this processing to the",
+            "cloud, Google can offer powerful AI",
+            "capabilities without compromising the",
+            "privacy of its users\u0027 information.",
+            "This initiative mirrors Apple\u0027s existing",
+            "Private Cloud Compute (PCC) technology,",
+            "highlighting a trend among major tech",
+            "companies to balance user privacy",
+            "concerns with the increasing",
+            "computational demands of modern AI",
+            "applications."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T15:00:00.000Z",
+      "ranking": 6.217652530135876,
+      "articleUrl": "https://www.theverge.com/news/818364/google-private-ai-compute"
+    },
+    {
       "id": "234",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -413,7 +414,7 @@
         }
       ],
       "publishedAt": "2025-11-11T08:37:26.000Z",
-      "ranking": 6.576316239605179,
+      "ranking": 6.168008727865714,
       "articleUrl": "https://www.theverge.com/news/818355/samsung-tvs-bixby-generative-ai-conversational"
     },
     {
@@ -447,8 +448,44 @@
         }
       ],
       "publishedAt": "2025-11-11T08:16:45.000Z",
-      "ranking": 6.370452761370926,
+      "ranking": 5.957358174805773,
       "articleUrl": "https://www.marktechpost.com/2025/11/10/a-coding-implementation-to-build-and-train-advanced-architectures-with-residual-connections-self-attention-and-adaptive-optimization-using-jax-flax-and-optax/"
+    },
+    {
+      "id": "236",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Google Photos AI",
+      "mediumTitle": "Google Photos AI for iPhone",
+      "longTitle": "Google Photos brings AI editing features to iPhone",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google Photos is enhancing its editing",
+            "capabilities for iPhone users with",
+            "several AI-driven updates, including the",
+            "expansion of the \u0022Help me edit\u0022 feature",
+            "to iOS.",
+            "This tool allows users to make changes",
+            "to their photos by simply describing the",
+            "desired edits in natural language,",
+            "leveraging Google\u0027s AI to interpret and",
+            "apply these changes.",
+            "This functionality was previously",
+            "available on Android devices and is now",
+            "being rolled out to iPhone users,",
+            "signifying a move towards more intuitive",
+            "and accessible photo editing.",
+            "The integration of natural language",
+            "processing for editing is a key step in",
+            "making sophisticated photo manipulation",
+            "accessible to everyday users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T13:00:00.000Z",
+      "ranking": 5.4137329997990795,
+      "articleUrl": "https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update"
     },
     {
       "id": "231",
@@ -484,7 +521,7 @@
         }
       ],
       "publishedAt": "2025-11-11T00:47:22.000Z",
-      "ranking": 5.852007931326291,
+      "ranking": 5.3349053605749415,
       "articleUrl": "https://www.marktechpost.com/2025/11/10/moonshot-ai-releases-kosong-the-llm-abstraction-layer-that-powers-kimi-cli/"
     },
     {
@@ -518,7 +555,7 @@
         }
       ],
       "publishedAt": "2025-11-10T20:00:00.000Z",
-      "ranking": 4.678492881744773,
+      "ranking": 4.094880442794762,
       "articleUrl": "https://venturebeat.com/ai/chronosphere-takes-on-datadog-with-ai-that-explains-itself-not-just-outages"
     },
     {
@@ -555,7 +592,7 @@
         }
       ],
       "publishedAt": "2025-11-10T21:27:00.000Z",
-      "ranking": 4.587200067259943,
+      "ranking": 4.023723430890618,
       "articleUrl": "https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can"
     },
     {
@@ -591,7 +628,7 @@
         }
       ],
       "publishedAt": "2025-11-10T15:00:00.000Z",
-      "ranking": 4.540179635033534,
+      "ranking": 3.887133393022829,
       "articleUrl": "https://venturebeat.com/ai/baseten-takes-on-hyperscalers-with-new-ai-training-platform-that-lets-you"
     },
     {
@@ -626,7 +663,7 @@
         }
       ],
       "publishedAt": "2025-11-10T16:02:57.000Z",
-      "ranking": 4.406584394321623,
+      "ranking": 3.768107678307524,
       "articleUrl": "https://www.theverge.com/news/817668/google-gemini-home-rollout-is-going-great"
     },
     {
@@ -660,7 +697,7 @@
         }
       ],
       "publishedAt": "2025-11-10T16:00:00.000Z",
-      "ranking": 4.241036713722526,
+      "ranking": 3.6018767002333982,
       "articleUrl": "https://venturebeat.com/ai/how-context-engineering-can-save-your-company-from-ai-vibe-code-overload"
     },
     {
@@ -697,7 +734,7 @@
         }
       ],
       "publishedAt": "2025-11-10T11:00:00.000Z",
-      "ranking": 3.818695690989804,
+      "ranking": 3.110101806380892,
       "articleUrl": "https://www.theverge.com/podcast/814552/tim-berners-lee-world-wide-web-ai-future-interview"
     },
     {
@@ -732,7 +769,7 @@
         }
       ],
       "publishedAt": "2025-11-10T06:00:00.000Z",
-      "ranking": 2.7887157792376307,
+      "ranking": 2.0106880250694683,
       "articleUrl": "https://venturebeat.com/ai/celosphere-2025-where-enterprise-ai-moved-from-experiment-to-execution"
     },
     {
@@ -765,7 +802,7 @@
         }
       ],
       "publishedAt": "2025-11-10T03:14:23.000Z",
-      "ranking": 2.505595427244967,
+      "ranking": 1.6892363178121892,
       "articleUrl": "https://www.marktechpost.com/2025/11/09/a-coding-implementation-to-build-neural-memory-agents-with-differentiable-memory-meta-learning-and-experience-replay-for-continual-adaptation-in-dynamic-environments/"
     },
     {
@@ -802,7 +839,7 @@
         }
       ],
       "publishedAt": "2025-11-09T17:51:36.000Z",
-      "ranking": 0.5792169159020695,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/09/stepfun-ai-releases-step-audio-editx-a-new-open-source-3b-llm-grade-audio-editing-model-excelling-at-expressive-and-iterative-audio-editing/"
     },
     {
@@ -1472,40 +1509,6 @@
       "publishedAt": "2025-11-06T13:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/815300/google-finance-gets-ai-deep-search"
-    },
-    {
-      "id": "196",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "MS AI: Superintelligence",
-      "mediumTitle": "Microsoft AI Pursues Superintelligence",
-      "longTitle": "Microsoft AI Aims for Human-Centric Superintelligence",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft AI, under the leadership of",
-            "Mustafa Suleyman, has announced its",
-            "commitment to developing",
-            "\u0027superintelligent AI\u0027 with a primary",
-            "focus on ensuring it serves humanity and",
-            "maintains human primacy.",
-            "The company is forming a dedicated team",
-            "to pursue this goal, emphasizing a",
-            "\u0027humanist superintelligence\u0027 designed",
-            "explicitly for human benefit.",
-            "The core of Microsoft AI\u0027s strategy",
-            "revolves around addressing the potential",
-            "dangers associated with advanced AI,",
-            "such as misalignment with human values,",
-            "unintended consequences, and the",
-            "possibility of AI surpassing human",
-            "control."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-06T12:51:08.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/815619/microsoft-ai-humanist-superintelligence"
     }
   ]
 }
