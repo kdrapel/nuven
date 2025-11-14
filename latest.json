@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "273",
+      "topic": "Neural Nets",
+      "source": "VentureBeat AI",
+      "shortTitle": "Sparse AI Models",
+      "mediumTitle": "OpenAI Explores Sparse Models for AI",
+      "longTitle": "OpenAI\u0027s Sparse Models: Towards More Understandable AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI researchers are exploring a new",
+            "approach to designing neural networks by",
+            "focusing on \u0027sparse models\u0027 with the",
+            "goal of making AI models more",
+            "understandable, debuggable, and",
+            "governable.",
+            "While chain-of-thought interpretability",
+            "is often used, OpenAI is focusing on",
+            "\u0027mechanistic interpretability\u0027 for",
+            "granular explanations.",
+            "This method aims to provide enterprises",
+            "with a clearer insight into how AI",
+            "models arrive at their decisions,",
+            "fostering greater trust.",
+            "Mechanistic interpretability promises",
+            "more complete and confident explanations",
+            "of model behavior, which is crucial for",
+            "oversight and detecting deviations."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-14T06:00:00.000Z",
+      "ranking": 7.6,
+      "articleUrl": "https://venturebeat.com/ai/openai-experiment-finds-that-sparse-models-could-give-ai-builders-the-tools"
+    },
+    {
       "id": "272",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -38,39 +73,6 @@
       "articleUrl": "https://venturebeat.com/ai/chatgpt-group-chats-are-here-but-not-for-everyone-yet"
     },
     {
-      "id": "265",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Baidu ERNIE 5.0",
-      "mediumTitle": "Baidu Launches ERNIE 5.0 AI Model",
-      "longTitle": "Baidu Unveils ERNIE 5.0, a Proprietary Omni-Modal AI System",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Baidu has launched its next-generation",
-            "foundation model, ERNIE 5.0, a",
-            "proprietary, omni-modal system capable",
-            "of processing and generating text,",
-            "images, audio, and video.",
-            "Baidu\u0027s ERNIE 5.0 represents a strategic",
-            "move to establish itself as a global AI",
-            "infrastructure provider, offering both",
-            "premium proprietary models and",
-            "open-source alternatives.",
-            "Benchmark results shared by Baidu",
-            "indicate that ERNIE 5.0 matches or",
-            "surpasses GPT-5 and Gemini 2.5 Pro in",
-            "multimodal reasoning, document",
-            "understanding, and image-based question",
-            "answering."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T21:23:00.000Z",
-      "ranking": 7.15625,
-      "articleUrl": "https://venturebeat.com/ai/baidu-unveils-proprietary-ernie-5-beating-gpt-5-performance-on-charts"
-    },
-    {
       "id": "270",
       "topic": "Robotics",
       "source": "The Verge AI",
@@ -106,6 +108,39 @@
       "articleUrl": "https://www.theverge.com/report/820324/wayve-driverless-robotaxi-london"
     },
     {
+      "id": "256",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "LinkedIn AI Search",
+      "mediumTitle": "LinkedIn\u0027s AI-Powered People Search",
+      "longTitle": "LinkedIn Launches AI People Search, Sharing Enterprise AI Development Playbook",
+      "paragraphs": [
+        {
+          "Lines": [
+            "LinkedIn has launched its new AI-powered",
+            "people search, a significant undertaking",
+            "that highlights the challenges of",
+            "deploying generative AI at enterprise",
+            "scale for its 1.3 billion users.",
+            "A key takeaway for enterprises is",
+            "LinkedIn\u0027s development of a \u0022cookbook\u0022\u2014a",
+            "replicable, multi-stage process",
+            "involving distillation, co-design, and",
+            "continuous optimization.",
+            "The company\u0027s experience demonstrates",
+            "that strategic advantage in enterprise",
+            "AI comes from mastering the development",
+            "pipeline\u2014the \u0022AI-native\u0022 cookbook of",
+            "co-design, distillation, and",
+            "optimization."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-13T17:00:00.000Z",
+      "ranking": 6.398981960055999,
+      "articleUrl": "https://venturebeat.com/ai/inside-linkedins-generative-ai-cookbook-how-it-scaled-people-search-to-1-3"
+    },
+    {
       "id": "259",
       "topic": "Robotics",
       "source": "The Verge AI",
@@ -139,41 +174,8 @@
         }
       ],
       "publishedAt": "2025-11-13T13:13:03.000Z",
-      "ranking": 6.852139801375321,
+      "ranking": 6.396679803693509,
       "articleUrl": "https://www.theverge.com/news/820120/even-realities-g2-smart-glasses-r1-ring-launch-ai"
-    },
-    {
-      "id": "256",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "LinkedIn AI Search",
-      "mediumTitle": "LinkedIn\u0027s AI-Powered People Search",
-      "longTitle": "LinkedIn Launches AI People Search, Sharing Enterprise AI Development Playbook",
-      "paragraphs": [
-        {
-          "Lines": [
-            "LinkedIn has launched its new AI-powered",
-            "people search, a significant undertaking",
-            "that highlights the challenges of",
-            "deploying generative AI at enterprise",
-            "scale for its 1.3 billion users.",
-            "A key takeaway for enterprises is",
-            "LinkedIn\u0027s development of a \u0022cookbook\u0022\u2014a",
-            "replicable, multi-stage process",
-            "involving distillation, co-design, and",
-            "continuous optimization.",
-            "The company\u0027s experience demonstrates",
-            "that strategic advantage in enterprise",
-            "AI comes from mastering the development",
-            "pipeline\u2014the \u0022AI-native\u0022 cookbook of",
-            "co-design, distillation, and",
-            "optimization."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T17:00:00.000Z",
-      "ranking": 6.801930530663342,
-      "articleUrl": "https://venturebeat.com/ai/inside-linkedins-generative-ai-cookbook-how-it-scaled-people-search-to-1-3"
     },
     {
       "id": "268",
@@ -204,7 +206,7 @@
         }
       ],
       "publishedAt": "2025-11-13T15:47:39.000Z",
-      "ranking": 6.653750168991114,
+      "ranking": 6.234061336852788,
       "articleUrl": "https://www.theverge.com/news/820458/hackers-china-ai-anthropic-claude"
     },
     {
@@ -240,42 +242,41 @@
         }
       ],
       "publishedAt": "2025-11-13T13:16:25.000Z",
-      "ranking": 6.410768339078999,
+      "ranking": 5.956087321426606,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/820016/world-labs-is-betting-on-world-generation-as-the-next-ai-frontier"
     },
     {
-      "id": "252",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Build Local AI Chat",
-      "mediumTitle": "Create Your Own Local AI Chatbot",
-      "longTitle": "Step-by-step guide to building a custom local AI chatbot",
+      "id": "265",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Baidu ERNIE 5.0",
+      "mediumTitle": "Baidu Launches ERNIE 5.0 AI Model",
+      "longTitle": "Baidu Unveils ERNIE 5.0, a Proprietary Omni-Modal AI System",
       "paragraphs": [
         {
           "Lines": [
-            "This article provides a step-by-step",
-            "guide on how to construct a custom",
-            "conversational AI, similar to GPT, that",
-            "operates entirely locally using the",
-            "Hugging Face Transformers library.",
-            "The ultimate goal is to enable users to",
-            "build their own private, customizable AI",
-            "chatbots without relying on external",
-            "cloud services.",
-            "The core of the tutorial involves",
-            "leveraging a lightweight,",
-            "instruction-tuned model capable of",
-            "processing conversational inputs.",
-            "Once loaded, the model is integrated",
-            "into a structured chat framework",
-            "designed to manage conversation flow and",
-            "maintain context."
+            "Baidu has launched its next-generation",
+            "foundation model, ERNIE 5.0, a",
+            "proprietary, omni-modal system capable",
+            "of processing and generating text,",
+            "images, audio, and video.",
+            "Baidu\u0027s ERNIE 5.0 represents a strategic",
+            "move to establish itself as a global AI",
+            "infrastructure provider, offering both",
+            "premium proprietary models and",
+            "open-source alternatives.",
+            "Benchmark results shared by Baidu",
+            "indicate that ERNIE 5.0 matches or",
+            "surpasses GPT-5 and Gemini 2.5 Pro in",
+            "multimodal reasoning, document",
+            "understanding, and image-based question",
+            "answering."
           ]
         }
       ],
-      "publishedAt": "2025-11-13T08:41:34.000Z",
-      "ranking": 6.409490844717094,
-      "articleUrl": "https://www.marktechpost.com/2025/11/12/how-to-build-a-fully-functional-custom-gpt-style-conversational-ai-locally-using-hugging-face-transformers/"
+      "publishedAt": "2025-11-13T21:23:00.000Z",
+      "ranking": 5.924061756557341,
+      "articleUrl": "https://venturebeat.com/ai/baidu-unveils-proprietary-ernie-5-beating-gpt-5-performance-on-charts"
     },
     {
       "id": "261",
@@ -310,8 +311,42 @@
         }
       ],
       "publishedAt": "2025-11-13T12:00:00.000Z",
-      "ranking": 6.364779818570032,
+      "ranking": 5.892417602921125,
       "articleUrl": "https://www.theverge.com/news/819908/linkedin-ai-people-search-launch"
+    },
+    {
+      "id": "252",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "Build Local AI Chat",
+      "mediumTitle": "Create Your Own Local AI Chatbot",
+      "longTitle": "Step-by-step guide to building a custom local AI chatbot",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This article provides a step-by-step",
+            "guide on how to construct a custom",
+            "conversational AI, similar to GPT, that",
+            "operates entirely locally using the",
+            "Hugging Face Transformers library.",
+            "The ultimate goal is to enable users to",
+            "build their own private, customizable AI",
+            "chatbots without relying on external",
+            "cloud services.",
+            "The core of the tutorial involves",
+            "leveraging a lightweight,",
+            "instruction-tuned model capable of",
+            "processing conversational inputs.",
+            "Once loaded, the model is integrated",
+            "into a structured chat framework",
+            "designed to manage conversation flow and",
+            "maintain context."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-13T08:41:34.000Z",
+      "ranking": 5.891215354692409,
+      "articleUrl": "https://www.marktechpost.com/2025/11/12/how-to-build-a-fully-functional-custom-gpt-style-conversational-ai-locally-using-hugging-face-transformers/"
     },
     {
       "id": "255",
@@ -347,7 +382,7 @@
         }
       ],
       "publishedAt": "2025-11-13T19:30:00.000Z",
-      "ranking": 6.151977340062444,
+      "ranking": 5.783735578672644,
       "articleUrl": "https://venturebeat.com/ai/upwork-study-shows-ai-agents-excel-with-human-partners-but-fail"
     },
     {
@@ -380,7 +415,7 @@
         }
       ],
       "publishedAt": "2025-11-13T11:00:00.000Z",
-      "ranking": 6.11888753968198,
+      "ranking": 5.632642600039329,
       "articleUrl": "https://venturebeat.com/ai/alembic-melted-gpus-chasing-causal-a-i-now-its-running-one-of-the-fastest"
     },
     {
@@ -415,44 +450,8 @@
         }
       ],
       "publishedAt": "2025-11-13T13:00:00.000Z",
-      "ranking": 5.805713819566362,
+      "ranking": 5.347234322392863,
       "articleUrl": "https://www.theverge.com/news/820022/google-notebooklm-gemini-deep-research"
-    },
-    {
-      "id": "253",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Google AI Shopping",
-      "mediumTitle": "Google\u0027s New AI Shopping Features",
-      "longTitle": "Google Enhances AI for Online Shopping with New Features",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google is significantly enhancing its AI",
-            "capabilities for online shopping,",
-            "introducing features that allow users to",
-            "interact with local businesses and make",
-            "purchases through AI.",
-            "Starting Thursday in the US, ahead of",
-            "the holiday shopping season, Google",
-            "users will benefit from a range of new",
-            "AI-powered shopping tools.",
-            "One of the most notable new features is",
-            "the ability for an AI tool to make phone",
-            "calls to local stores on behalf of",
-            "users.",
-            "This AI can handle tasks such as",
-            "inquiring about product availability or",
-            "making reservations.",
-            "Furthermore, Google is integrating AI",
-            "into the product browsing and checkout",
-            "processes."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T10:00:00.000Z",
-      "ranking": 5.76497712316946,
-      "articleUrl": "https://www.theverge.com/news/819431/google-shopping-ai-gemini-agentic-checkout-calling"
     },
     {
       "id": "267",
@@ -488,8 +487,79 @@
         }
       ],
       "publishedAt": "2025-11-13T16:00:00.000Z",
-      "ranking": 5.706353489201205,
+      "ranking": 5.289522561925438,
       "articleUrl": "https://www.theverge.com/news/819216/anthropic-claude-political-even-handedness-woke-ai"
+    },
+    {
+      "id": "253",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Google AI Shopping",
+      "mediumTitle": "Google\u0027s New AI Shopping Features",
+      "longTitle": "Google Enhances AI for Online Shopping with New Features",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google is significantly enhancing its AI",
+            "capabilities for online shopping,",
+            "introducing features that allow users to",
+            "interact with local businesses and make",
+            "purchases through AI.",
+            "Starting Thursday in the US, ahead of",
+            "the holiday shopping season, Google",
+            "users will benefit from a range of new",
+            "AI-powered shopping tools.",
+            "One of the most notable new features is",
+            "the ability for an AI tool to make phone",
+            "calls to local stores on behalf of",
+            "users.",
+            "This AI can handle tasks such as",
+            "inquiring about product availability or",
+            "making reservations.",
+            "Furthermore, Google is integrating AI",
+            "into the product browsing and checkout",
+            "processes."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-13T10:00:00.000Z",
+      "ranking": 5.264849347709165,
+      "articleUrl": "https://www.theverge.com/news/819431/google-shopping-ai-gemini-agentic-checkout-calling"
+    },
+    {
+      "id": "262",
+      "topic": "Gaming",
+      "source": "The Verge AI",
+      "shortTitle": "SIMA 2 Gaming AI",
+      "mediumTitle": "Google DeepMind\u0027s SIMA 2 Gaming Companion",
+      "longTitle": "Google DeepMind Unveils SIMA 2, an Advanced Interactive Gaming Companion",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google DeepMind has unveiled SIMA 2, an",
+            "advanced AI agent designed to function",
+            "as an \u0022interactive gaming companion.\u0022",
+            "The core innovation of SIMA 2 lies in",
+            "its capacity to understand and execute",
+            "complex in-game instructions given in",
+            "natural language.",
+            "SIMA 2 demonstrates a remarkable ability",
+            "to learn and play a diverse range of",
+            "video games, including titles such as No",
+            "Man\u0027s Sky, Valheim, and Goat Simulator",
+            "3.",
+            "Unlike previous AI agents that were",
+            "often trained for specific games, SIMA 2",
+            "is designed for broader applicability,",
+            "capable of generalizing its learned",
+            "skills across different gaming platforms",
+            "and genres."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-13T11:39:24.000Z",
+      "ranking": 5.2038121891193585,
+      "articleUrl": "https://www.theverge.com/tech/819937/google-deepmind-ai-agent-sima-2-agi-video-games"
     },
     {
       "id": "254",
@@ -525,43 +595,8 @@
         }
       ],
       "publishedAt": "2025-11-13T09:30:00.000Z",
-      "ranking": 5.699700810915579,
+      "ranking": 5.192631659305012,
       "articleUrl": "https://www.theverge.com/news/819476/spotify-audiobook-ai-recaps-short-summary"
-    },
-    {
-      "id": "262",
-      "topic": "Gaming",
-      "source": "The Verge AI",
-      "shortTitle": "SIMA 2 Gaming AI",
-      "mediumTitle": "Google DeepMind\u0027s SIMA 2 Gaming Companion",
-      "longTitle": "Google DeepMind Unveils SIMA 2, an Advanced Interactive Gaming Companion",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google DeepMind has unveiled SIMA 2, an",
-            "advanced AI agent designed to function",
-            "as an \u0022interactive gaming companion.\u0022",
-            "The core innovation of SIMA 2 lies in",
-            "its capacity to understand and execute",
-            "complex in-game instructions given in",
-            "natural language.",
-            "SIMA 2 demonstrates a remarkable ability",
-            "to learn and play a diverse range of",
-            "video games, including titles such as No",
-            "Man\u0027s Sky, Valheim, and Goat Simulator",
-            "3.",
-            "Unlike previous AI agents that were",
-            "often trained for specific games, SIMA 2",
-            "is designed for broader applicability,",
-            "capable of generalizing its learned",
-            "skills across different gaming platforms",
-            "and genres."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T11:39:24.000Z",
-      "ranking": 5.680940907559254,
-      "articleUrl": "https://www.theverge.com/tech/819937/google-deepmind-ai-agent-sima-2-agi-video-games"
     },
     {
       "id": "263",
@@ -596,7 +631,7 @@
         }
       ],
       "publishedAt": "2025-11-13T11:36:10.000Z",
-      "ranking": 5.616545749324824,
+      "ranking": 5.138668898799816,
       "articleUrl": "https://www.theverge.com/news/819980/disney-plus-ai-videos-bob-iger-q4-2025-earnings"
     },
     {
@@ -629,7 +664,7 @@
         }
       ],
       "publishedAt": "2025-11-13T11:00:00.000Z",
-      "ranking": 5.377220366733521,
+      "ranking": 4.8909753153119935,
       "articleUrl": "https://www.theverge.com/podcast/819612/coreweave-ai-bubble-nvidia-openai-data-centers"
     },
     {
@@ -665,7 +700,7 @@
         }
       ],
       "publishedAt": "2025-11-13T13:26:41.000Z",
-      "ranking": 5.146356560307671,
+      "ranking": 4.694050923782591,
       "articleUrl": "https://www.theverge.com/news/820196/mozilla-firefox-ai-window-browser"
     },
     {
@@ -700,7 +735,7 @@
         }
       ],
       "publishedAt": "2025-11-13T05:17:24.000Z",
-      "ranking": 4.940449588987238,
+      "ranking": 4.37493415807179,
       "articleUrl": "https://www.marktechpost.com/2025/11/12/openai-introduces-gpt-5-1-combining-adaptive-reasoning-account-level-personalization-and-updated-safety-metrics-in-the-gpt-5-stack/"
     },
     {
@@ -733,7 +768,7 @@
         }
       ],
       "publishedAt": "2025-11-12T20:31:00.000Z",
-      "ranking": 4.2546821449907215,
+      "ranking": 3.5673689104155892,
       "articleUrl": "https://venturebeat.com/ai/weibos-new-open-source-ai-model-vibethinker-1-5b-outperforms-deepseek-r1-on"
     },
     {
@@ -769,7 +804,7 @@
         }
       ],
       "publishedAt": "2025-11-12T13:17:06.000Z",
-      "ranking": 2.7521420182614085,
+      "ranking": 1.9644335185648254,
       "articleUrl": "https://www.theverge.com/news/819072/anthropic-50-billion-infrastructure-ai-data-center-investment"
     },
     {
@@ -806,40 +841,8 @@
         }
       ],
       "publishedAt": "2025-11-12T15:00:00.000Z",
-      "ranking": 2.3872157120001765,
+      "ranking": 1.6233160904064947,
       "articleUrl": "https://venturebeat.com/ai/how-deductive-ai-saved-doordash-1-000-engineering-hours-by-automating"
-    },
-    {
-      "id": "244",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Baidu\u0027s ERNIE-4.5",
-      "mediumTitle": "Baidu ERNIE-4.5-VL-28B-A3B-Thinking",
-      "longTitle": "Baidu Releases ERNIE-4.5-VL-28B-A3B-Thinking for Multimodal Reasoning",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Baidu has introduced",
-            "ERNIE-4.5-VL-28B-A3B-Thinking, a new",
-            "addition to its ERNIE-4.5 family of",
-            "open-source models.",
-            "A key feature of",
-            "ERNIE-4.5-VL-28B-A3B-Thinking is its",
-            "ability to achieve large model-level",
-            "reasoning capabilities while operating",
-            "with a significantly smaller active",
-            "parameter budget, comparable to a 3B",
-            "class model.",
-            "This vision-language model is",
-            "specifically designed for multimodal",
-            "reasoning tasks involving documents,",
-            "charts, and videos."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-12T08:02:22.000Z",
-      "ranking": 2.0361200452434858,
-      "articleUrl": "https://www.marktechpost.com/2025/11/11/baidu-releases-ernie-4-5-vl-28b-a3b-thinking-an-open-source-and-compact-multimodal-reasoning-model-under-the-ernie-4-5-family/"
     },
     {
       "id": "250",
@@ -874,8 +877,40 @@
         }
       ],
       "publishedAt": "2025-11-12T15:00:00.000Z",
-      "ranking": 2.027556607348701,
+      "ranking": 1.2636569909338586,
       "articleUrl": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets"
+    },
+    {
+      "id": "244",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Baidu\u0027s ERNIE-4.5",
+      "mediumTitle": "Baidu ERNIE-4.5-VL-28B-A3B-Thinking",
+      "longTitle": "Baidu Releases ERNIE-4.5-VL-28B-A3B-Thinking for Multimodal Reasoning",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Baidu has introduced",
+            "ERNIE-4.5-VL-28B-A3B-Thinking, a new",
+            "addition to its ERNIE-4.5 family of",
+            "open-source models.",
+            "A key feature of",
+            "ERNIE-4.5-VL-28B-A3B-Thinking is its",
+            "ability to achieve large model-level",
+            "reasoning capabilities while operating",
+            "with a significantly smaller active",
+            "parameter budget, comparable to a 3B",
+            "class model.",
+            "This vision-language model is",
+            "specifically designed for multimodal",
+            "reasoning tasks involving documents,",
+            "charts, and videos."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-12T08:02:22.000Z",
+      "ranking": 1.1755889118557423,
+      "articleUrl": "https://www.marktechpost.com/2025/11/11/baidu-releases-ernie-4-5-vl-28b-a3b-thinking-an-open-source-and-compact-multimodal-reasoning-model-under-the-ernie-4-5-family/"
     },
     {
       "id": "243",
@@ -909,7 +944,7 @@
         }
       ],
       "publishedAt": "2025-11-12T08:29:21.000Z",
-      "ranking": 1.5961068068930286,
+      "ranking": 0.7418190517733727,
       "articleUrl": "https://www.marktechpost.com/2025/11/11/how-to-build-an-end-to-end-interactive-analytics-dashboard-using-pygwalker-features-for-insightful-data-exploration/"
     },
     {
@@ -946,7 +981,7 @@
         }
       ],
       "publishedAt": "2025-11-12T06:00:00.000Z",
-      "ranking": 0.4741094287813352,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/openai-reboots-chatgpt-experience-with-gpt-5-1-after-mixed-reviews-of-gpt-5"
     },
     {
