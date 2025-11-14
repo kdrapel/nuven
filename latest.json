@@ -1,40 +1,6 @@
 {
   "articles": [
     {
-      "id": "252",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Build Local AI Chat",
-      "mediumTitle": "Create Your Own Local AI Chatbot",
-      "longTitle": "Step-by-step guide to building a custom local AI chatbot",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This article provides a step-by-step",
-            "guide on how to construct a custom",
-            "conversational AI, similar to GPT, that",
-            "operates entirely locally using the",
-            "Hugging Face Transformers library.",
-            "The ultimate goal is to enable users to",
-            "build their own private, customizable AI",
-            "chatbots without relying on external",
-            "cloud services.",
-            "The core of the tutorial involves",
-            "leveraging a lightweight,",
-            "instruction-tuned model capable of",
-            "processing conversational inputs.",
-            "Once loaded, the model is integrated",
-            "into a structured chat framework",
-            "designed to manage conversation flow and",
-            "maintain context."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T08:41:34.000Z",
-      "ranking": 8.576923076923077,
-      "articleUrl": "https://www.marktechpost.com/2025/11/12/how-to-build-a-fully-functional-custom-gpt-style-conversational-ai-locally-using-hugging-face-transformers/"
-    },
-    {
       "id": "259",
       "topic": "Robotics",
       "source": "The Verge AI",
@@ -70,42 +36,6 @@
       "publishedAt": "2025-11-13T13:13:03.000Z",
       "ranking": 8.499999999999998,
       "articleUrl": "https://www.theverge.com/news/820120/even-realities-g2-smart-glasses-r1-ring-launch-ai"
-    },
-    {
-      "id": "261",
-      "topic": "NLP",
-      "source": "The Verge AI",
-      "shortTitle": "AI Search",
-      "mediumTitle": "LinkedIn AI Search Launched",
-      "longTitle": "LinkedIn Introduces AI-Powered Search for Easier People Discovery",
-      "paragraphs": [
-        {
-          "Lines": [
-            "LinkedIn is introducing an AI-powered",
-            "search functionality designed to",
-            "simplify the process of finding",
-            "individuals on the platform.",
-            "This shift aims to make LinkedIn\u0027s vast",
-            "network more accessible and discoverable",
-            "by leveraging artificial intelligence to",
-            "understand user intent and match it with",
-            "relevant profiles.",
-            "This makes it easier for users to",
-            "discover relevant connections without",
-            "needing to know precise terminology or",
-            "exact profile details.",
-            "The core benefit of this AI integration",
-            "is its ability to interpret more nuanced",
-            "and complex search requests.",
-            "For example, a user could search for",
-            "\u0027Northwestern alumni who work in",
-            "entertainment marketing.\u0027"
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T12:00:00.000Z",
-      "ranking": 8.145454545454546,
-      "articleUrl": "https://www.theverge.com/news/819908/linkedin-ai-people-search-launch"
     },
     {
       "id": "256",
@@ -209,147 +139,6 @@
       "articleUrl": "https://www.theverge.com/news/820458/hackers-china-ai-anthropic-claude"
     },
     {
-      "id": "266",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Alembic AI Funding",
-      "mediumTitle": "Alembic Secures $145M for Causal AI",
-      "longTitle": "Alembic Technologies Raises $145M, Focuses on Causal AI and Private Infrastructure",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Alembic Technologies has secured $145",
-            "million in Series B and growth funding,",
-            "valuing the company at approximately",
-            "$645 million.",
-            "Alembic\u0027s core innovation lies in its AI",
-            "systems that identify cause-and-effect",
-            "relationships, rather than just",
-            "correlations, enabling businesses to",
-            "make more informed, multi-million dollar",
-            "decisions.",
-            "This significant investment underscores",
-            "a strategic shift in enterprise AI,",
-            "moving away from the pursuit of",
-            "ever-larger language models towards",
-            "leveraging proprietary data and causal",
-            "reasoning."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T11:00:00.000Z",
-      "ranking": 8.0125,
-      "articleUrl": "https://venturebeat.com/ai/alembic-melted-gpus-chasing-causal-a-i-now-its-running-one-of-the-fastest"
-    },
-    {
-      "id": "253",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Google AI Shopping",
-      "mediumTitle": "Google\u0027s New AI Shopping Features",
-      "longTitle": "Google Enhances AI for Online Shopping with New Features",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google is significantly enhancing its AI",
-            "capabilities for online shopping,",
-            "introducing features that allow users to",
-            "interact with local businesses and make",
-            "purchases through AI.",
-            "Starting Thursday in the US, ahead of",
-            "the holiday shopping season, Google",
-            "users will benefit from a range of new",
-            "AI-powered shopping tools.",
-            "One of the most notable new features is",
-            "the ability for an AI tool to make phone",
-            "calls to local stores on behalf of",
-            "users.",
-            "This AI can handle tasks such as",
-            "inquiring about product availability or",
-            "making reservations.",
-            "Furthermore, Google is integrating AI",
-            "into the product browsing and checkout",
-            "processes."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T10:00:00.000Z",
-      "ranking": 7.7749999999999995,
-      "articleUrl": "https://www.theverge.com/news/819431/google-shopping-ai-gemini-agentic-checkout-calling"
-    },
-    {
-      "id": "254",
-      "topic": "NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Spotify AI Recaps",
-      "mediumTitle": "Spotify\u0027s New AI Audiobook Recaps",
-      "longTitle": "Spotify Introduces AI-Powered Recaps for Audiobook Listeners",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Spotify has introduced a new artificial",
-            "intelligence (AI) powered feature called",
-            "\u0022Recaps\u0022 for its audiobook service.",
-            "This feature aims to enhance the",
-            "listening experience by providing users",
-            "with a summary of the story they have",
-            "already heard, eliminating the need to",
-            "manually rewind.",
-            "By automating the summarization process,",
-            "Spotify is addressing a common pain",
-            "point for audiobook listeners who may",
-            "struggle to recall intricate details of",
-            "a story over extended listening periods.",
-            "The core functionality of Recaps is to",
-            "leverage AI to process the audiobook",
-            "content and generate concise summaries.",
-            "The goal is to make it easier for users",
-            "to pick up where they left off without",
-            "losing track of plot points, character",
-            "developments, or key events."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T09:30:00.000Z",
-      "ranking": 7.769230769230769,
-      "articleUrl": "https://www.theverge.com/news/819476/spotify-audiobook-ai-recaps-short-summary"
-    },
-    {
-      "id": "262",
-      "topic": "Gaming",
-      "source": "The Verge AI",
-      "shortTitle": "SIMA 2 Gaming AI",
-      "mediumTitle": "Google DeepMind\u0027s SIMA 2 Gaming Companion",
-      "longTitle": "Google DeepMind Unveils SIMA 2, an Advanced Interactive Gaming Companion",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google DeepMind has unveiled SIMA 2, an",
-            "advanced AI agent designed to function",
-            "as an \u0022interactive gaming companion.\u0022",
-            "The core innovation of SIMA 2 lies in",
-            "its capacity to understand and execute",
-            "complex in-game instructions given in",
-            "natural language.",
-            "SIMA 2 demonstrates a remarkable ability",
-            "to learn and play a diverse range of",
-            "video games, including titles such as No",
-            "Man\u0027s Sky, Valheim, and Goat Simulator",
-            "3.",
-            "Unlike previous AI agents that were",
-            "often trained for specific games, SIMA 2",
-            "is designed for broader applicability,",
-            "capable of generalizing its learned",
-            "skills across different gaming platforms",
-            "and genres."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T11:39:24.000Z",
-      "ranking": 7.5,
-      "articleUrl": "https://www.theverge.com/tech/819937/google-deepmind-ai-agent-sima-2-agi-video-games"
-    },
-    {
       "id": "260",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -385,73 +174,38 @@
       "articleUrl": "https://www.theverge.com/news/820022/google-notebooklm-gemini-deep-research"
     },
     {
-      "id": "263",
+      "id": "252",
       "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Disney\u002B AI Future",
-      "mediumTitle": "Disney\u002B Explores AI for Content Creation",
-      "longTitle": "Disney CEO Bob Iger hints at AI-generated video on Disney\u002B",
+      "source": "Marktechpost AI",
+      "shortTitle": "Build Local AI Chat",
+      "mediumTitle": "Create Your Own Local AI Chatbot",
+      "longTitle": "Step-by-step guide to building a custom local AI chatbot",
       "paragraphs": [
         {
           "Lines": [
-            "Disney CEO Bob Iger has indicated that",
-            "Disney Plus may incorporate AI-generated",
-            "videos, allowing users to create and",
-            "consume short-form content.",
-            "During a recent earnings call, Iger",
-            "expressed significant enthusiasm for",
-            "artificial intelligence, suggesting it",
-            "could enable Disney Plus to offer",
-            "viewers the capability to both \u0022create\u0022",
-            "and \u0022consume\u0022 short-form AI-generated",
-            "video content.",
-            "This development points to a potential",
-            "shift in how users interact with the",
-            "streaming platform, moving beyond",
-            "passive consumption to active",
-            "participation in content generation.",
-            "Iger highlighted the \u0022phenomenal",
-            "opportunities\u0022 that AI presents for the",
-            "company."
+            "This article provides a step-by-step",
+            "guide on how to construct a custom",
+            "conversational AI, similar to GPT, that",
+            "operates entirely locally using the",
+            "Hugging Face Transformers library.",
+            "The ultimate goal is to enable users to",
+            "build their own private, customizable AI",
+            "chatbots without relying on external",
+            "cloud services.",
+            "The core of the tutorial involves",
+            "leveraging a lightweight,",
+            "instruction-tuned model capable of",
+            "processing conversational inputs.",
+            "Once loaded, the model is integrated",
+            "into a structured chat framework",
+            "designed to manage conversation flow and",
+            "maintain context."
           ]
         }
       ],
-      "publishedAt": "2025-11-13T11:36:10.000Z",
-      "ranking": 7.441666666666667,
-      "articleUrl": "https://www.theverge.com/news/819980/disney-plus-ai-videos-bob-iger-q4-2025-earnings"
-    },
-    {
-      "id": "264",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI\u0027s AI Bubble",
-      "mediumTitle": "OpenAI CEO\u0027s AI Bubble Paradox",
-      "longTitle": "OpenAI CEO Sam Altman\u0027s contradictory stance on the AI bubble",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI CEO Sam Altman paradoxically",
-            "declares AI a bubble while aggressively",
-            "raising and spending vast sums of money,",
-            "actions that appear to contradict his",
-            "own pronouncements.",
-            "Despite \u0027bubble\u0027 rhetoric, OpenAI is",
-            "actively pursuing ambitious goals",
-            "requiring significant financial",
-            "investment in developing powerful AI",
-            "models and supporting infrastructure.",
-            "The tension between Altman\u0027s \u0027bubble\u0027",
-            "pronouncements and OpenAI\u0027s aggressive",
-            "expansion creates a compelling narrative",
-            "about the uncertainty and immense",
-            "potential that define the current AI",
-            "era."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T11:00:00.000Z",
-      "ranking": 7.270833333333333,
-      "articleUrl": "https://www.theverge.com/podcast/819612/coreweave-ai-bubble-nvidia-openai-data-centers"
+      "publishedAt": "2025-11-13T08:41:34.000Z",
+      "ranking": 7.279942878823906,
+      "articleUrl": "https://www.marktechpost.com/2025/11/12/how-to-build-a-fully-functional-custom-gpt-style-conversational-ai-locally-using-hugging-face-transformers/"
     },
     {
       "id": "255",
@@ -524,6 +278,42 @@
       "articleUrl": "https://venturebeat.com/ai/baidu-unveils-proprietary-ernie-5-beating-gpt-5-performance-on-charts"
     },
     {
+      "id": "261",
+      "topic": "NLP",
+      "source": "The Verge AI",
+      "shortTitle": "AI Search",
+      "mediumTitle": "LinkedIn AI Search Launched",
+      "longTitle": "LinkedIn Introduces AI-Powered Search for Easier People Discovery",
+      "paragraphs": [
+        {
+          "Lines": [
+            "LinkedIn is introducing an AI-powered",
+            "search functionality designed to",
+            "simplify the process of finding",
+            "individuals on the platform.",
+            "This shift aims to make LinkedIn\u0027s vast",
+            "network more accessible and discoverable",
+            "by leveraging artificial intelligence to",
+            "understand user intent and match it with",
+            "relevant profiles.",
+            "This makes it easier for users to",
+            "discover relevant connections without",
+            "needing to know precise terminology or",
+            "exact profile details.",
+            "The core benefit of this AI integration",
+            "is its ability to interpret more nuanced",
+            "and complex search requests.",
+            "For example, a user could search for",
+            "\u0027Northwestern alumni who work in",
+            "entertainment marketing.\u0027"
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-13T12:00:00.000Z",
+      "ranking": 7.1433545153476095,
+      "articleUrl": "https://www.theverge.com/news/819908/linkedin-ai-people-search-launch"
+    },
+    {
       "id": "267",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -559,6 +349,74 @@
       "publishedAt": "2025-11-13T16:00:00.000Z",
       "ranking": 7.069999999999999,
       "articleUrl": "https://www.theverge.com/news/819216/anthropic-claude-political-even-handedness-woke-ai"
+    },
+    {
+      "id": "270",
+      "topic": "Robotics",
+      "source": "The Verge AI",
+      "shortTitle": "Self-Drive Trial",
+      "mediumTitle": "Author Experiences UK\u0027s First Self-Driving Car",
+      "longTitle": "Author\u0027s First Ride in Wayve\u0027s Self-Driving Car in London",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The author, initially skeptical about",
+            "self-driving cars in the UK, found",
+            "themselves a passenger in Wayve\u0027s",
+            "autonomous vehicle during a trip through",
+            "north London.",
+            "This firsthand experience comes after",
+            "Wayve\u0027s June announcement detailing",
+            "their plans to trial Level 4 fully",
+            "autonomous robotaxis in partnership with",
+            "Uber.",
+            "The core of the article focuses on the",
+            "author\u0027s personal encounter with this",
+            "cutting-edge self-driving technology.",
+            "The mention of \u0027Level 4 fully",
+            "autonomous\u0027 signifies a high degree of",
+            "automation where the car handles all",
+            "driving duties under defined",
+            "circumstances."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-14T03:00:00.000Z",
+      "ranking": 7.035,
+      "articleUrl": "https://www.theverge.com/report/820324/wayve-driverless-robotaxi-london"
+    },
+    {
+      "id": "266",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Alembic AI Funding",
+      "mediumTitle": "Alembic Secures $145M for Causal AI",
+      "longTitle": "Alembic Technologies Raises $145M, Focuses on Causal AI and Private Infrastructure",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Alembic Technologies has secured $145",
+            "million in Series B and growth funding,",
+            "valuing the company at approximately",
+            "$645 million.",
+            "Alembic\u0027s core innovation lies in its AI",
+            "systems that identify cause-and-effect",
+            "relationships, rather than just",
+            "correlations, enabling businesses to",
+            "make more informed, multi-million dollar",
+            "decisions.",
+            "This significant investment underscores",
+            "a strategic shift in enterprise AI,",
+            "moving away from the pursuit of",
+            "ever-larger language models towards",
+            "leveraging proprietary data and causal",
+            "reasoning."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-13T11:00:00.000Z",
+      "ranking": 6.9252430582118425,
+      "articleUrl": "https://venturebeat.com/ai/alembic-melted-gpus-chasing-causal-a-i-now-its-running-one-of-the-fastest"
     },
     {
       "id": "257",
@@ -597,6 +455,183 @@
       "articleUrl": "https://www.theverge.com/news/820196/mozilla-firefox-ai-window-browser"
     },
     {
+      "id": "253",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Google AI Shopping",
+      "mediumTitle": "Google\u0027s New AI Shopping Features",
+      "longTitle": "Google Enhances AI for Online Shopping with New Features",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google is significantly enhancing its AI",
+            "capabilities for online shopping,",
+            "introducing features that allow users to",
+            "interact with local businesses and make",
+            "purchases through AI.",
+            "Starting Thursday in the US, ahead of",
+            "the holiday shopping season, Google",
+            "users will benefit from a range of new",
+            "AI-powered shopping tools.",
+            "One of the most notable new features is",
+            "the ability for an AI tool to make phone",
+            "calls to local stores on behalf of",
+            "users.",
+            "This AI can handle tasks such as",
+            "inquiring about product availability or",
+            "making reservations.",
+            "Furthermore, Google is integrating AI",
+            "into the product browsing and checkout",
+            "processes."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-13T10:00:00.000Z",
+      "ranking": 6.599113560861864,
+      "articleUrl": "https://www.theverge.com/news/819431/google-shopping-ai-gemini-agentic-checkout-calling"
+    },
+    {
+      "id": "254",
+      "topic": "NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Spotify AI Recaps",
+      "mediumTitle": "Spotify\u0027s New AI Audiobook Recaps",
+      "longTitle": "Spotify Introduces AI-Powered Recaps for Audiobook Listeners",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Spotify has introduced a new artificial",
+            "intelligence (AI) powered feature called",
+            "\u0022Recaps\u0022 for its audiobook service.",
+            "This feature aims to enhance the",
+            "listening experience by providing users",
+            "with a summary of the story they have",
+            "already heard, eliminating the need to",
+            "manually rewind.",
+            "By automating the summarization process,",
+            "Spotify is addressing a common pain",
+            "point for audiobook listeners who may",
+            "struggle to recall intricate details of",
+            "a story over extended listening periods.",
+            "The core functionality of Recaps is to",
+            "leverage AI to process the audiobook",
+            "content and generate concise summaries.",
+            "The goal is to make it easier for users",
+            "to pick up where they left off without",
+            "losing track of plot points, character",
+            "developments, or key events."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-13T09:30:00.000Z",
+      "ranking": 6.547727666091595,
+      "articleUrl": "https://www.theverge.com/news/819476/spotify-audiobook-ai-recaps-short-summary"
+    },
+    {
+      "id": "262",
+      "topic": "Gaming",
+      "source": "The Verge AI",
+      "shortTitle": "SIMA 2 Gaming AI",
+      "mediumTitle": "Google DeepMind\u0027s SIMA 2 Gaming Companion",
+      "longTitle": "Google DeepMind Unveils SIMA 2, an Advanced Interactive Gaming Companion",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google DeepMind has unveiled SIMA 2, an",
+            "advanced AI agent designed to function",
+            "as an \u0022interactive gaming companion.\u0022",
+            "The core innovation of SIMA 2 lies in",
+            "its capacity to understand and execute",
+            "complex in-game instructions given in",
+            "natural language.",
+            "SIMA 2 demonstrates a remarkable ability",
+            "to learn and play a diverse range of",
+            "video games, including titles such as No",
+            "Man\u0027s Sky, Valheim, and Goat Simulator",
+            "3.",
+            "Unlike previous AI agents that were",
+            "often trained for specific games, SIMA 2",
+            "is designed for broader applicability,",
+            "capable of generalizing its learned",
+            "skills across different gaming platforms",
+            "and genres."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-13T11:39:24.000Z",
+      "ranking": 6.469053804861327,
+      "articleUrl": "https://www.theverge.com/tech/819937/google-deepmind-ai-agent-sima-2-agi-video-games"
+    },
+    {
+      "id": "263",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Disney\u002B AI Future",
+      "mediumTitle": "Disney\u002B Explores AI for Content Creation",
+      "longTitle": "Disney CEO Bob Iger hints at AI-generated video on Disney\u002B",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Disney CEO Bob Iger has indicated that",
+            "Disney Plus may incorporate AI-generated",
+            "videos, allowing users to create and",
+            "consume short-form content.",
+            "During a recent earnings call, Iger",
+            "expressed significant enthusiasm for",
+            "artificial intelligence, suggesting it",
+            "could enable Disney Plus to offer",
+            "viewers the capability to both \u0022create\u0022",
+            "and \u0022consume\u0022 short-form AI-generated",
+            "video content.",
+            "This development points to a potential",
+            "shift in how users interact with the",
+            "streaming platform, moving beyond",
+            "passive consumption to active",
+            "participation in content generation.",
+            "Iger highlighted the \u0022phenomenal",
+            "opportunities\u0022 that AI presents for the",
+            "company."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-13T11:36:10.000Z",
+      "ranking": 6.406155728422155,
+      "articleUrl": "https://www.theverge.com/news/819980/disney-plus-ai-videos-bob-iger-q4-2025-earnings"
+    },
+    {
+      "id": "264",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI\u0027s AI Bubble",
+      "mediumTitle": "OpenAI CEO\u0027s AI Bubble Paradox",
+      "longTitle": "OpenAI CEO Sam Altman\u0027s contradictory stance on the AI bubble",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI CEO Sam Altman paradoxically",
+            "declares AI a bubble while aggressively",
+            "raising and spending vast sums of money,",
+            "actions that appear to contradict his",
+            "own pronouncements.",
+            "Despite \u0027bubble\u0027 rhetoric, OpenAI is",
+            "actively pursuing ambitious goals",
+            "requiring significant financial",
+            "investment in developing powerful AI",
+            "models and supporting infrastructure.",
+            "The tension between Altman\u0027s \u0027bubble\u0027",
+            "pronouncements and OpenAI\u0027s aggressive",
+            "expansion creates a compelling narrative",
+            "about the uncertainty and immense",
+            "potential that define the current AI",
+            "era."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-13T11:00:00.000Z",
+      "ranking": 6.183576006087743,
+      "articleUrl": "https://www.theverge.com/podcast/819612/coreweave-ai-bubble-nvidia-openai-data-centers"
+    },
+    {
       "id": "251",
       "topic": "Generative AI",
       "source": "Marktechpost AI",
@@ -628,7 +663,7 @@
         }
       ],
       "publishedAt": "2025-11-13T05:17:24.000Z",
-      "ranking": 6.304697522735789,
+      "ranking": 5.905433690576823,
       "articleUrl": "https://www.marktechpost.com/2025/11/12/openai-introduces-gpt-5-1-combining-adaptive-reasoning-account-level-personalization-and-updated-safety-metrics-in-the-gpt-5-stack/"
     },
     {
@@ -661,7 +696,7 @@
         }
       ],
       "publishedAt": "2025-11-12T20:31:00.000Z",
-      "ranking": 5.984566088210374,
+      "ranking": 5.463396601329917,
       "articleUrl": "https://venturebeat.com/ai/weibos-new-open-source-ai-model-vibethinker-1-5b-outperforms-deepseek-r1-on"
     },
     {
@@ -697,7 +732,7 @@
         }
       ],
       "publishedAt": "2025-11-12T13:17:06.000Z",
-      "ranking": 4.7834117227203174,
+      "ranking": 4.161758071196575,
       "articleUrl": "https://www.theverge.com/news/819072/anthropic-50-billion-infrastructure-ai-data-center-investment"
     },
     {
@@ -734,7 +769,7 @@
         }
       ],
       "publishedAt": "2025-11-12T15:00:00.000Z",
-      "ranking": 4.347011358449398,
+      "ranking": 3.749187667299117,
       "articleUrl": "https://venturebeat.com/ai/how-deductive-ai-saved-doordash-1-000-engineering-hours-by-automating"
     },
     {
@@ -766,7 +801,7 @@
         }
       ],
       "publishedAt": "2025-11-12T08:02:22.000Z",
-      "ranking": 4.286002670909669,
+      "ranking": 3.5914619102534164,
       "articleUrl": "https://www.marktechpost.com/2025/11/11/baidu-releases-ernie-4-5-vl-28b-a3b-thinking-an-open-source-and-compact-multimodal-reasoning-model-under-the-ernie-4-5-family/"
     },
     {
@@ -802,7 +837,7 @@
         }
       ],
       "publishedAt": "2025-11-12T15:00:00.000Z",
-      "ranking": 3.9873522580164464,
+      "ranking": 3.389528559305814,
       "articleUrl": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets"
     },
     {
@@ -837,7 +872,7 @@
         }
       ],
       "publishedAt": "2025-11-12T08:29:21.000Z",
-      "ranking": 3.827246886868357,
+      "ranking": 3.1389550152268724,
       "articleUrl": "https://www.marktechpost.com/2025/11/11/how-to-build-an-end-to-end-interactive-analytics-dashboard-using-pygwalker-features-for-insightful-data-exploration/"
     },
     {
@@ -874,7 +909,7 @@
         }
       ],
       "publishedAt": "2025-11-12T06:00:00.000Z",
-      "ranking": 2.808987614436659,
+      "ranking": 2.0861087164115855,
       "articleUrl": "https://venturebeat.com/ai/openai-reboots-chatgpt-experience-with-gpt-5-1-after-mixed-reviews-of-gpt-5"
     },
     {
@@ -908,7 +943,7 @@
         }
       ],
       "publishedAt": "2025-11-11T22:50:30.000Z",
-      "ranking": 1.948344466762828,
+      "ranking": 1.126000370894042,
       "articleUrl": "https://www.marktechpost.com/2025/11/11/maya1-a-new-open-source-3b-voice-model-for-expressive-text-to-speech-on-a-single-gpu/"
     },
     {
@@ -944,7 +979,7 @@
         }
       ],
       "publishedAt": "2025-11-11T18:21:00.000Z",
-      "ranking": 1.6234309500901176,
+      "ranking": 0.7386750477492132,
       "articleUrl": "https://venturebeat.com/ai/metas-spice-framework-lets-ai-systems-teach-themselves-to-reason"
     },
     {
@@ -978,8 +1013,41 @@
         }
       ],
       "publishedAt": "2025-11-12T01:00:00.000Z",
-      "ranking": 1.3710619560048967,
+      "ranking": 0.578707946356877,
       "articleUrl": "https://venturebeat.com/ai/baidu-just-dropped-an-open-source-multimodal-ai-that-it-claims-beats-gpt-5"
+    },
+    {
+      "id": "238",
+      "topic": "Dev Tools",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI in Dev",
+      "mediumTitle": "AI Reshaping Software Development",
+      "longTitle": "AI is transforming software development roles and workflows by 2026",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The report, which polled 501 developers",
+            "and 19 project managers, found that",
+            "nearly two-thirds (65%) of senior",
+            "developers anticipate their roles will",
+            "be redefined by AI by 2026.",
+            "Crucially, only 9% trust AI code enough",
+            "to use it without human oversight.",
+            "This transformation involves a move away",
+            "from routine coding tasks towards more",
+            "emphasis on design, strategy, and AI",
+            "fluency.",
+            "A survey by BairesDev, the \u0022Dev",
+            "Barometer\u0022 report, indicates a",
+            "significant shift in software",
+            "development driven by artificial",
+            "intelligence."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T20:43:00.000Z",
+      "ranking": 0.4186428412170162,
+      "articleUrl": "https://venturebeat.com/ai/only-9-of-developers-think-ai-code-can-be-used-without-human-oversight"
     },
     {
       "id": "235",
@@ -1013,75 +1081,8 @@
         }
       ],
       "publishedAt": "2025-11-11T13:33:10.000Z",
-      "ranking": 1.3125918849030471,
+      "ranking": 0.36117844721879067,
       "articleUrl": "https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health"
-    },
-    {
-      "id": "238",
-      "topic": "Dev Tools",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI in Dev",
-      "mediumTitle": "AI Reshaping Software Development",
-      "longTitle": "AI is transforming software development roles and workflows by 2026",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The report, which polled 501 developers",
-            "and 19 project managers, found that",
-            "nearly two-thirds (65%) of senior",
-            "developers anticipate their roles will",
-            "be redefined by AI by 2026.",
-            "Crucially, only 9% trust AI code enough",
-            "to use it without human oversight.",
-            "This transformation involves a move away",
-            "from routine coding tasks towards more",
-            "emphasis on design, strategy, and AI",
-            "fluency.",
-            "A survey by BairesDev, the \u0022Dev",
-            "Barometer\u0022 report, indicates a",
-            "significant shift in software",
-            "development driven by artificial",
-            "intelligence."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T20:43:00.000Z",
-      "ranking": 1.270513861967248,
-      "articleUrl": "https://venturebeat.com/ai/only-9-of-developers-think-ai-code-can-be-used-without-human-oversight"
-    },
-    {
-      "id": "237",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Voice Market",
-      "mediumTitle": "ElevenLabs Launches Iconic Voice Marketplace",
-      "longTitle": "ElevenLabs\u0027 New Marketplace for Licensed AI Celebrity Voices",
-      "paragraphs": [
-        {
-          "Lines": [
-            "ElevenLabs, an AI audio startup, has",
-            "launched a new online marketplace called",
-            "the Iconic Voice Marketplace.",
-            "The company emphasizes that this",
-            "initiative addresses ethical concerns",
-            "surrounding the use of AI-generated",
-            "celebrity voices by adopting a",
-            "\u0027consent-based, performer-first",
-            "approach\u0027.",
-            "This approach seeks to ensure that the",
-            "individuals whose voices are replicated",
-            "have given their explicit consent and",
-            "are compensated for their participation.",
-            "This platform allows companies to",
-            "license AI-replicated voices of famous",
-            "individuals for use in their content and",
-            "advertisements."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T13:00:00.000Z",
-      "ranking": 0.7761464502766966,
-      "articleUrl": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio"
     },
     {
       "id": "240",
@@ -1118,6 +1119,40 @@
       "publishedAt": "2025-11-11T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/818364/google-private-ai-compute"
+    },
+    {
+      "id": "237",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Voice Market",
+      "mediumTitle": "ElevenLabs Launches Iconic Voice Marketplace",
+      "longTitle": "ElevenLabs\u0027 New Marketplace for Licensed AI Celebrity Voices",
+      "paragraphs": [
+        {
+          "Lines": [
+            "ElevenLabs, an AI audio startup, has",
+            "launched a new online marketplace called",
+            "the Iconic Voice Marketplace.",
+            "The company emphasizes that this",
+            "initiative addresses ethical concerns",
+            "surrounding the use of AI-generated",
+            "celebrity voices by adopting a",
+            "\u0027consent-based, performer-first",
+            "approach\u0027.",
+            "This approach seeks to ensure that the",
+            "individuals whose voices are replicated",
+            "have given their explicit consent and",
+            "are compensated for their participation.",
+            "This platform allows companies to",
+            "license AI-replicated voices of famous",
+            "individuals for use in their content and",
+            "advertisements."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T13:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio"
     },
     {
       "id": "236",
@@ -1581,76 +1616,6 @@
       "publishedAt": "2025-11-10T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/celosphere-2025-where-enterprise-ai-moved-from-experiment-to-execution"
-    },
-    {
-      "id": "221",
-      "topic": "Neural Nets",
-      "source": "Marktechpost AI",
-      "shortTitle": "Neural Memory Agents",
-      "mediumTitle": "Continual Adaptation with Neural Memory",
-      "longTitle": "Building Neural Memory Agents for Continual Adaptation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This article presents a coding",
-            "implementation for building neural",
-            "memory agents capable of continual",
-            "adaptation in dynamic environments",
-            "without forgetting past experiences.",
-            "In essence, the tutorial demonstrates a",
-            "method for building intelligent agents",
-            "that can learn and evolve over time in",
-            "changing environments, a critical",
-            "capability for many real-world AI",
-            "applications.",
-            "The core of the approach is a",
-            "memory-augmented neural network that",
-            "combines three key components: a",
-            "Differentiable Neural Computer (DNC),",
-            "experience replay, and meta-learning."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-10T03:14:23.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/09/a-coding-implementation-to-build-neural-memory-agents-with-differentiable-memory-meta-learning-and-experience-replay-for-continual-adaptation-in-dynamic-environments/"
-    },
-    {
-      "id": "219",
-      "topic": "Speech",
-      "source": "Marktechpost AI",
-      "shortTitle": "StepFun AI Audio",
-      "mediumTitle": "StepFun AI\u0027s Audio Editing LLM",
-      "longTitle": "StepFun AI launches Step-Audio-EditX, an open-source LLM for audio editing",
-      "paragraphs": [
-        {
-          "Lines": [
-            "StepFun AI has introduced",
-            "Step-Audio-EditX, a novel open-source 3",
-            "billion parameter Large Language Model",
-            "(LLM) specifically designed for audio",
-            "editing.",
-            "This model aims to revolutionize the way",
-            "speech is edited by treating it as a",
-            "token-level text operation rather than a",
-            "complex waveform-level signal processing",
-            "task.",
-            "The core innovation lies in enabling",
-            "expressive and iterative audio editing,",
-            "making the process as direct and",
-            "controllable as rewriting a line of",
-            "text.",
-            "The model\u0027s LLM-grade architecture",
-            "implies a sophisticated understanding of",
-            "language and its sonic representation,",
-            "allowing for nuanced and accurate",
-            "editing."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-09T17:51:36.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/09/stepfun-ai-releases-step-audio-editx-a-new-open-source-3b-llm-grade-audio-editing-model-excelling-at-expressive-and-iterative-audio-editing/"
     }
   ]
 }
