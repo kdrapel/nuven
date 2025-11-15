@@ -1,6 +1,43 @@
 {
   "articles": [
     {
+      "id": "274",
+      "topic": "Learning",
+      "source": "VentureBeat AI",
+      "shortTitle": "SRL for LLMs",
+      "mediumTitle": "SRL Enhances LLM Reasoning",
+      "longTitle": "Google Cloud \u0026 UCLA Develop SRL to Boost LLM Reasoning",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google Cloud and UCLA researchers have",
+            "developed Supervised Reinforcement",
+            "Learning (SRL), a new framework that",
+            "significantly enhances the reasoning",
+            "capabilities of smaller language models,",
+            "enabling them to tackle complex,",
+            "multi-step tasks previously beyond their",
+            "reach.",
+            "For agentic software engineering, a",
+            "Qwen2.5-Coder-7B-Instruct model trained",
+            "with SRL achieved a 14.8% task resolve",
+            "rate, a 74% relative improvement over an",
+            "SFT-based baseline.",
+            "SRL reformulates problem-solving as a",
+            "sequence of logical \u0027actions,\u0027 providing",
+            "rich, step-by-step learning signals",
+            "during training, a departure from",
+            "existing methods that often rely on",
+            "sparse rewards based solely on the final",
+            "outcome."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-15T00:00:00.000Z",
+      "ranking": 8.282142857142857,
+      "articleUrl": "https://venturebeat.com/ai/googles-new-ai-training-method-helps-small-models-tackle-complex-reasoning"
+    },
+    {
       "id": "273",
       "topic": "Neural Nets",
       "source": "VentureBeat AI",
@@ -104,7 +141,7 @@
         }
       ],
       "publishedAt": "2025-11-14T03:00:00.000Z",
-      "ranking": 7.035,
+      "ranking": 5.947787598295079,
       "articleUrl": "https://www.theverge.com/report/820324/wayve-driverless-robotaxi-london"
     },
     {
@@ -137,7 +174,7 @@
         }
       ],
       "publishedAt": "2025-11-13T17:00:00.000Z",
-      "ranking": 6.398981960055999,
+      "ranking": 5.940264164783863,
       "articleUrl": "https://venturebeat.com/ai/inside-linkedins-generative-ai-cookbook-how-it-scaled-people-search-to-1-3"
     },
     {
@@ -174,7 +211,7 @@
         }
       ],
       "publishedAt": "2025-11-13T13:13:03.000Z",
-      "ranking": 6.396679803693509,
+      "ranking": 5.8854221951990064,
       "articleUrl": "https://www.theverge.com/news/820120/even-realities-g2-smart-glasses-r1-ring-launch-ai"
     },
     {
@@ -206,8 +243,41 @@
         }
       ],
       "publishedAt": "2025-11-13T15:47:39.000Z",
-      "ranking": 6.234061336852788,
+      "ranking": 5.758594233175628,
       "articleUrl": "https://www.theverge.com/news/820458/hackers-china-ai-anthropic-claude"
+    },
+    {
+      "id": "265",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Baidu ERNIE 5.0",
+      "mediumTitle": "Baidu Launches ERNIE 5.0 AI Model",
+      "longTitle": "Baidu Unveils ERNIE 5.0, a Proprietary Omni-Modal AI System",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Baidu has launched its next-generation",
+            "foundation model, ERNIE 5.0, a",
+            "proprietary, omni-modal system capable",
+            "of processing and generating text,",
+            "images, audio, and video.",
+            "Baidu\u0027s ERNIE 5.0 represents a strategic",
+            "move to establish itself as a global AI",
+            "infrastructure provider, offering both",
+            "premium proprietary models and",
+            "open-source alternatives.",
+            "Benchmark results shared by Baidu",
+            "indicate that ERNIE 5.0 matches or",
+            "surpasses GPT-5 and Gemini 2.5 Pro in",
+            "multimodal reasoning, document",
+            "understanding, and image-based question",
+            "answering."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-13T21:23:00.000Z",
+      "ranking": 5.526229493671876,
+      "articleUrl": "https://venturebeat.com/ai/baidu-unveils-proprietary-ernie-5-beating-gpt-5-performance-on-charts"
     },
     {
       "id": "258",
@@ -242,41 +312,8 @@
         }
       ],
       "publishedAt": "2025-11-13T13:16:25.000Z",
-      "ranking": 5.956087321426606,
+      "ranking": 5.4456091009696115,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/820016/world-labs-is-betting-on-world-generation-as-the-next-ai-frontier"
-    },
-    {
-      "id": "265",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Baidu ERNIE 5.0",
-      "mediumTitle": "Baidu Launches ERNIE 5.0 AI Model",
-      "longTitle": "Baidu Unveils ERNIE 5.0, a Proprietary Omni-Modal AI System",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Baidu has launched its next-generation",
-            "foundation model, ERNIE 5.0, a",
-            "proprietary, omni-modal system capable",
-            "of processing and generating text,",
-            "images, audio, and video.",
-            "Baidu\u0027s ERNIE 5.0 represents a strategic",
-            "move to establish itself as a global AI",
-            "infrastructure provider, offering both",
-            "premium proprietary models and",
-            "open-source alternatives.",
-            "Benchmark results shared by Baidu",
-            "indicate that ERNIE 5.0 matches or",
-            "surpasses GPT-5 and Gemini 2.5 Pro in",
-            "multimodal reasoning, document",
-            "understanding, and image-based question",
-            "answering."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T21:23:00.000Z",
-      "ranking": 5.924061756557341,
-      "articleUrl": "https://venturebeat.com/ai/baidu-unveils-proprietary-ernie-5-beating-gpt-5-performance-on-charts"
     },
     {
       "id": "261",
@@ -311,42 +348,8 @@
         }
       ],
       "publishedAt": "2025-11-13T12:00:00.000Z",
-      "ranking": 5.892417602921125,
+      "ranking": 5.364248630680274,
       "articleUrl": "https://www.theverge.com/news/819908/linkedin-ai-people-search-launch"
-    },
-    {
-      "id": "252",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Build Local AI Chat",
-      "mediumTitle": "Create Your Own Local AI Chatbot",
-      "longTitle": "Step-by-step guide to building a custom local AI chatbot",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This article provides a step-by-step",
-            "guide on how to construct a custom",
-            "conversational AI, similar to GPT, that",
-            "operates entirely locally using the",
-            "Hugging Face Transformers library.",
-            "The ultimate goal is to enable users to",
-            "build their own private, customizable AI",
-            "chatbots without relying on external",
-            "cloud services.",
-            "The core of the tutorial involves",
-            "leveraging a lightweight,",
-            "instruction-tuned model capable of",
-            "processing conversational inputs.",
-            "Once loaded, the model is integrated",
-            "into a structured chat framework",
-            "designed to manage conversation flow and",
-            "maintain context."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T08:41:34.000Z",
-      "ranking": 5.891215354692409,
-      "articleUrl": "https://www.marktechpost.com/2025/11/12/how-to-build-a-fully-functional-custom-gpt-style-conversational-ai-locally-using-hugging-face-transformers/"
     },
     {
       "id": "255",
@@ -382,8 +385,42 @@
         }
       ],
       "publishedAt": "2025-11-13T19:30:00.000Z",
-      "ranking": 5.783735578672644,
+      "ranking": 5.3597433707242335,
       "articleUrl": "https://venturebeat.com/ai/upwork-study-shows-ai-agents-excel-with-human-partners-but-fail"
+    },
+    {
+      "id": "252",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "Build Local AI Chat",
+      "mediumTitle": "Create Your Own Local AI Chatbot",
+      "longTitle": "Step-by-step guide to building a custom local AI chatbot",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This article provides a step-by-step",
+            "guide on how to construct a custom",
+            "conversational AI, similar to GPT, that",
+            "operates entirely locally using the",
+            "Hugging Face Transformers library.",
+            "The ultimate goal is to enable users to",
+            "build their own private, customizable AI",
+            "chatbots without relying on external",
+            "cloud services.",
+            "The core of the tutorial involves",
+            "leveraging a lightweight,",
+            "instruction-tuned model capable of",
+            "processing conversational inputs.",
+            "Once loaded, the model is integrated",
+            "into a structured chat framework",
+            "designed to manage conversation flow and",
+            "maintain context."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-13T08:41:34.000Z",
+      "ranking": 5.31710828244449,
+      "articleUrl": "https://www.marktechpost.com/2025/11/12/how-to-build-a-fully-functional-custom-gpt-style-conversational-ai-locally-using-hugging-face-transformers/"
     },
     {
       "id": "266",
@@ -415,7 +452,7 @@
         }
       ],
       "publishedAt": "2025-11-13T11:00:00.000Z",
-      "ranking": 5.632642600039329,
+      "ranking": 5.090583391786053,
       "articleUrl": "https://venturebeat.com/ai/alembic-melted-gpus-chasing-causal-a-i-now-its-running-one-of-the-fastest"
     },
     {
@@ -450,7 +487,7 @@
         }
       ],
       "publishedAt": "2025-11-13T13:00:00.000Z",
-      "ranking": 5.347234322392863,
+      "ranking": 4.832955593995514,
       "articleUrl": "https://www.theverge.com/news/820022/google-notebooklm-gemini-deep-research"
     },
     {
@@ -487,7 +524,7 @@
         }
       ],
       "publishedAt": "2025-11-13T16:00:00.000Z",
-      "ranking": 5.289522561925438,
+      "ranking": 4.816914543327529,
       "articleUrl": "https://www.theverge.com/news/819216/anthropic-claude-political-even-handedness-woke-ai"
     },
     {
@@ -523,7 +560,7 @@
         }
       ],
       "publishedAt": "2025-11-13T10:00:00.000Z",
-      "ranking": 5.264849347709165,
+      "ranking": 4.7088998727216955,
       "articleUrl": "https://www.theverge.com/news/819431/google-shopping-ai-gemini-agentic-checkout-calling"
     },
     {
@@ -558,7 +595,7 @@
         }
       ],
       "publishedAt": "2025-11-13T11:39:24.000Z",
-      "ranking": 5.2038121891193585,
+      "ranking": 4.670874207855971,
       "articleUrl": "https://www.theverge.com/tech/819937/google-deepmind-ai-agent-sima-2-agi-video-games"
     },
     {
@@ -595,7 +632,7 @@
         }
       ],
       "publishedAt": "2025-11-13T09:30:00.000Z",
-      "ranking": 5.192631659305012,
+      "ranking": 4.629737076812595,
       "articleUrl": "https://www.theverge.com/news/819476/spotify-audiobook-ai-recaps-short-summary"
     },
     {
@@ -631,7 +668,7 @@
         }
       ],
       "publishedAt": "2025-11-13T11:36:10.000Z",
-      "ranking": 5.138668898799816,
+      "ranking": 4.604982389623107,
       "articleUrl": "https://www.theverge.com/news/819980/disney-plus-ai-videos-bob-iger-q4-2025-earnings"
     },
     {
@@ -664,7 +701,7 @@
         }
       ],
       "publishedAt": "2025-11-13T11:00:00.000Z",
-      "ranking": 4.8909753153119935,
+      "ranking": 4.348916082442968,
       "articleUrl": "https://www.theverge.com/podcast/819612/coreweave-ai-bubble-nvidia-openai-data-centers"
     },
     {
@@ -700,7 +737,7 @@
         }
       ],
       "publishedAt": "2025-11-13T13:26:41.000Z",
-      "ranking": 4.694050923782591,
+      "ranking": 4.1859494531501,
       "articleUrl": "https://www.theverge.com/news/820196/mozilla-firefox-ai-window-browser"
     },
     {
@@ -735,7 +772,7 @@
         }
       ],
       "publishedAt": "2025-11-13T05:17:24.000Z",
-      "ranking": 4.37493415807179,
+      "ranking": 3.7535616892949855,
       "articleUrl": "https://www.marktechpost.com/2025/11/12/openai-introduces-gpt-5-1-combining-adaptive-reasoning-account-level-personalization-and-updated-safety-metrics-in-the-gpt-5-stack/"
     },
     {
@@ -768,7 +805,7 @@
         }
       ],
       "publishedAt": "2025-11-12T20:31:00.000Z",
-      "ranking": 3.5673689104155892,
+      "ranking": 2.8241327897761543,
       "articleUrl": "https://venturebeat.com/ai/weibos-new-open-source-ai-model-vibethinker-1-5b-outperforms-deepseek-r1-on"
     },
     {
@@ -804,7 +841,7 @@
         }
       ],
       "publishedAt": "2025-11-12T13:17:06.000Z",
-      "ranking": 1.9644335185648254,
+      "ranking": 1.1207478189694173,
       "articleUrl": "https://www.theverge.com/news/819072/anthropic-50-billion-infrastructure-ai-data-center-investment"
     },
     {
@@ -841,7 +878,7 @@
         }
       ],
       "publishedAt": "2025-11-12T15:00:00.000Z",
-      "ranking": 1.6233160904064947,
+      "ranking": 0.8034521345382517,
       "articleUrl": "https://venturebeat.com/ai/how-deductive-ai-saved-doordash-1-000-engineering-hours-by-automating"
     },
     {
@@ -877,7 +914,7 @@
         }
       ],
       "publishedAt": "2025-11-12T15:00:00.000Z",
-      "ranking": 1.2636569909338586,
+      "ranking": 0.4437930342058847,
       "articleUrl": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets"
     },
     {
@@ -909,7 +946,7 @@
         }
       ],
       "publishedAt": "2025-11-12T08:02:22.000Z",
-      "ranking": 1.1755889118557423,
+      "ranking": 0.25904120387617446,
       "articleUrl": "https://www.marktechpost.com/2025/11/11/baidu-releases-ernie-4-5-vl-28b-a3b-thinking-an-open-source-and-compact-multimodal-reasoning-model-under-the-ernie-4-5-family/"
     },
     {
@@ -944,7 +981,7 @@
         }
       ],
       "publishedAt": "2025-11-12T08:29:21.000Z",
-      "ranking": 0.7418190517733727,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/11/how-to-build-an-end-to-end-interactive-analytics-dashboard-using-pygwalker-features-for-insightful-data-exploration/"
     },
     {
@@ -1616,43 +1653,6 @@
       "publishedAt": "2025-11-10T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/baseten-takes-on-hyperscalers-with-new-ai-training-platform-that-lets-you"
-    },
-    {
-      "id": "226",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Web Future",
-      "mediumTitle": "Berners-Lee on AI\u0027s Web Impact",
-      "longTitle": "Sir Tim Berners-Lee: AI won\u0027t destroy the World Wide Web",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Sir Tim Berners-Lee, the visionary",
-            "inventor of the World Wide Web,",
-            "expresses a nuanced perspective on the",
-            "potential impact of Artificial",
-            "Intelligence (AI) on the internet,",
-            "asserting that AI is unlikely to",
-            "\u0027destroy\u0027 the web.",
-            "He believes that by understanding and",
-            "guiding the integration of AI, the web",
-            "can continue to thrive and evolve,",
-            "rather than be destroyed.",
-            "Berners-Lee\u0027s stance suggests that the",
-            "future of the web in the age of AI",
-            "depends on how these technologies are",
-            "developed and implemented.",
-            "His views stem from his foundational",
-            "understanding of the web\u0027s architecture",
-            "and purpose as an open, decentralized",
-            "platform for information sharing and",
-            "connection."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-10T11:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/podcast/814552/tim-berners-lee-world-wide-web-ai-future-interview"
     }
   ]
 }
