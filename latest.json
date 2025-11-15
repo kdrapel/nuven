@@ -71,7 +71,7 @@
         }
       ],
       "publishedAt": "2025-11-14T16:54:00.000Z",
-      "ranking": 7.551851851851853,
+      "ranking": 6.274617090298953,
       "articleUrl": "https://venturebeat.com/ai/chatgpt-group-chats-are-here-but-not-for-everyone-yet"
     },
     {
@@ -106,7 +106,7 @@
         }
       ],
       "publishedAt": "2025-11-14T06:00:00.000Z",
-      "ranking": 5.590224745355341,
+      "ranking": 5.08994666127492,
       "articleUrl": "https://venturebeat.com/ai/openai-experiment-finds-that-sparse-models-could-give-ai-builders-the-tools"
     },
     {
@@ -141,7 +141,7 @@
         }
       ],
       "publishedAt": "2025-11-14T03:00:00.000Z",
-      "ranking": 4.65518338161375,
+      "ranking": 4.113242956371259,
       "articleUrl": "https://www.theverge.com/report/820324/wayve-driverless-robotaxi-london"
     },
     {
@@ -174,8 +174,73 @@
         }
       ],
       "publishedAt": "2025-11-13T17:00:00.000Z",
-      "ranking": 4.231017740595812,
+      "ranking": 3.550202847828765,
       "articleUrl": "https://venturebeat.com/ai/inside-linkedins-generative-ai-cookbook-how-it-scaled-people-search-to-1-3"
+    },
+    {
+      "id": "265",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Baidu ERNIE 5.0",
+      "mediumTitle": "Baidu Launches ERNIE 5.0 AI Model",
+      "longTitle": "Baidu Unveils ERNIE 5.0, a Proprietary Omni-Modal AI System",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Baidu has launched its next-generation",
+            "foundation model, ERNIE 5.0, a",
+            "proprietary, omni-modal system capable",
+            "of processing and generating text,",
+            "images, audio, and video.",
+            "Baidu\u0027s ERNIE 5.0 represents a strategic",
+            "move to establish itself as a global AI",
+            "infrastructure provider, offering both",
+            "premium proprietary models and",
+            "open-source alternatives.",
+            "Benchmark results shared by Baidu",
+            "indicate that ERNIE 5.0 matches or",
+            "surpasses GPT-5 and Gemini 2.5 Pro in",
+            "multimodal reasoning, document",
+            "understanding, and image-based question",
+            "answering."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-13T21:23:00.000Z",
+      "ranking": 3.3796696602322363,
+      "articleUrl": "https://venturebeat.com/ai/baidu-unveils-proprietary-ernie-5-beating-gpt-5-performance-on-charts"
+    },
+    {
+      "id": "268",
+      "topic": "Security",
+      "source": "The Verge AI",
+      "shortTitle": "AI in Hacking",
+      "mediumTitle": "Chinese Hackers Use AI for Attacks",
+      "longTitle": "Chinese State-Backed Hackers Automate Attacks with AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Chinese state-backed hackers have once",
+            "again utilized Anthropic\u0027s AI model,",
+            "Claude, to automate a significant",
+            "portion of their cyberattacks.",
+            "According to Anthropic, the hackers were",
+            "able to automate between 80% and 90% of",
+            "their attacks using Claude.",
+            "The use of AI by state-sponsored groups",
+            "raises particular concerns due to the",
+            "potential for widespread disruption and",
+            "espionage.",
+            "This marks a substantial increase in the",
+            "level of AI automation employed in such",
+            "malicious activities compared to",
+            "previous instances."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-13T15:47:39.000Z",
+      "ranking": 3.3015468608016576,
+      "articleUrl": "https://www.theverge.com/news/820458/hackers-china-ai-anthropic-claude"
     },
     {
       "id": "259",
@@ -211,73 +276,8 @@
         }
       ],
       "publishedAt": "2025-11-13T13:13:03.000Z",
-      "ranking": 4.018580855264291,
+      "ranking": 3.285236681019084,
       "articleUrl": "https://www.theverge.com/news/820120/even-realities-g2-smart-glasses-r1-ring-launch-ai"
-    },
-    {
-      "id": "265",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Baidu ERNIE 5.0",
-      "mediumTitle": "Baidu Launches ERNIE 5.0 AI Model",
-      "longTitle": "Baidu Unveils ERNIE 5.0, a Proprietary Omni-Modal AI System",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Baidu has launched its next-generation",
-            "foundation model, ERNIE 5.0, a",
-            "proprietary, omni-modal system capable",
-            "of processing and generating text,",
-            "images, audio, and video.",
-            "Baidu\u0027s ERNIE 5.0 represents a strategic",
-            "move to establish itself as a global AI",
-            "infrastructure provider, offering both",
-            "premium proprietary models and",
-            "open-source alternatives.",
-            "Benchmark results shared by Baidu",
-            "indicate that ERNIE 5.0 matches or",
-            "surpasses GPT-5 and Gemini 2.5 Pro in",
-            "multimodal reasoning, document",
-            "understanding, and image-based question",
-            "answering."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T21:23:00.000Z",
-      "ranking": 3.9996112388559646,
-      "articleUrl": "https://venturebeat.com/ai/baidu-unveils-proprietary-ernie-5-beating-gpt-5-performance-on-charts"
-    },
-    {
-      "id": "268",
-      "topic": "Security",
-      "source": "The Verge AI",
-      "shortTitle": "AI in Hacking",
-      "mediumTitle": "Chinese Hackers Use AI for Attacks",
-      "longTitle": "Chinese State-Backed Hackers Automate Attacks with AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Chinese state-backed hackers have once",
-            "again utilized Anthropic\u0027s AI model,",
-            "Claude, to automate a significant",
-            "portion of their cyberattacks.",
-            "According to Anthropic, the hackers were",
-            "able to automate between 80% and 90% of",
-            "their attacks using Claude.",
-            "The use of AI by state-sponsored groups",
-            "raises particular concerns due to the",
-            "potential for widespread disruption and",
-            "espionage.",
-            "This marks a substantial increase in the",
-            "level of AI automation employed in such",
-            "malicious activities compared to",
-            "previous instances."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T15:47:39.000Z",
-      "ranking": 3.999107694950715,
-      "articleUrl": "https://www.theverge.com/news/820458/hackers-china-ai-anthropic-claude"
     },
     {
       "id": "255",
@@ -313,7 +313,7 @@
         }
       ],
       "publishedAt": "2025-11-13T19:30:00.000Z",
-      "ranking": 3.7546575058934866,
+      "ranking": 3.108561226382079,
       "articleUrl": "https://venturebeat.com/ai/upwork-study-shows-ai-agents-excel-with-human-partners-but-fail"
     },
     {
@@ -349,7 +349,7 @@
         }
       ],
       "publishedAt": "2025-11-13T13:16:25.000Z",
-      "ranking": 3.5811055797926583,
+      "ranking": 2.8485406538789997,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/820016/world-labs-is-betting-on-world-generation-as-the-next-ai-frontier"
     },
     {
@@ -385,7 +385,7 @@
         }
       ],
       "publishedAt": "2025-11-13T12:00:00.000Z",
-      "ranking": 3.4466810942444246,
+      "ranking": 2.6964289600365596,
       "articleUrl": "https://www.theverge.com/news/819908/linkedin-ai-people-search-launch"
     },
     {
@@ -419,41 +419,8 @@
         }
       ],
       "publishedAt": "2025-11-13T08:41:34.000Z",
-      "ranking": 3.2617479145086543,
+      "ranking": 2.465566907456922,
       "articleUrl": "https://www.marktechpost.com/2025/11/12/how-to-build-a-fully-functional-custom-gpt-style-conversational-ai-locally-using-hugging-face-transformers/"
-    },
-    {
-      "id": "266",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Alembic AI Funding",
-      "mediumTitle": "Alembic Secures $145M for Causal AI",
-      "longTitle": "Alembic Technologies Raises $145M, Focuses on Causal AI and Private Infrastructure",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Alembic Technologies has secured $145",
-            "million in Series B and growth funding,",
-            "valuing the company at approximately",
-            "$645 million.",
-            "Alembic\u0027s core innovation lies in its AI",
-            "systems that identify cause-and-effect",
-            "relationships, rather than just",
-            "correlations, enabling businesses to",
-            "make more informed, multi-million dollar",
-            "decisions.",
-            "This significant investment underscores",
-            "a strategic shift in enterprise AI,",
-            "moving away from the pursuit of",
-            "ever-larger language models towards",
-            "leveraging proprietary data and causal",
-            "reasoning."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T11:00:00.000Z",
-      "ranking": 3.131351638002478,
-      "articleUrl": "https://venturebeat.com/ai/alembic-melted-gpus-chasing-causal-a-i-now-its-running-one-of-the-fastest"
     },
     {
       "id": "267",
@@ -489,8 +456,41 @@
         }
       ],
       "publishedAt": "2025-11-13T16:00:00.000Z",
-      "ranking": 3.0660038981639524,
+      "ranking": 2.371301556092244,
       "articleUrl": "https://www.theverge.com/news/819216/anthropic-claude-political-even-handedness-woke-ai"
+    },
+    {
+      "id": "266",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Alembic AI Funding",
+      "mediumTitle": "Alembic Secures $145M for Causal AI",
+      "longTitle": "Alembic Technologies Raises $145M, Focuses on Causal AI and Private Infrastructure",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Alembic Technologies has secured $145",
+            "million in Series B and growth funding,",
+            "valuing the company at approximately",
+            "$645 million.",
+            "Alembic\u0027s core innovation lies in its AI",
+            "systems that identify cause-and-effect",
+            "relationships, rather than just",
+            "correlations, enabling businesses to",
+            "make more informed, multi-million dollar",
+            "decisions.",
+            "This significant investment underscores",
+            "a strategic shift in enterprise AI,",
+            "moving away from the pursuit of",
+            "ever-larger language models towards",
+            "leveraging proprietary data and causal",
+            "reasoning."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-13T11:00:00.000Z",
+      "ranking": 2.367212039014757,
+      "articleUrl": "https://venturebeat.com/ai/alembic-melted-gpus-chasing-causal-a-i-now-its-running-one-of-the-fastest"
     },
     {
       "id": "260",
@@ -524,7 +524,7 @@
         }
       ],
       "publishedAt": "2025-11-13T13:00:00.000Z",
-      "ranking": 2.9570522734266103,
+      "ranking": 2.220687572654559,
       "articleUrl": "https://www.theverge.com/news/820022/google-notebooklm-gemini-deep-research"
     },
     {
@@ -559,7 +559,7 @@
         }
       ],
       "publishedAt": "2025-11-13T11:39:24.000Z",
-      "ranking": 2.7390025479463738,
+      "ranking": 1.9839823747572929,
       "articleUrl": "https://www.theverge.com/tech/819937/google-deepmind-ai-agent-sima-2-agi-video-games"
     },
     {
@@ -595,7 +595,7 @@
         }
       ],
       "publishedAt": "2025-11-13T10:00:00.000Z",
-      "ranking": 2.7080037327785,
+      "ranking": 1.929976622185051,
       "articleUrl": "https://www.theverge.com/news/819431/google-shopping-ai-gemini-agentic-checkout-calling"
     },
     {
@@ -631,7 +631,7 @@
         }
       ],
       "publishedAt": "2025-11-13T11:36:10.000Z",
-      "ranking": 2.670864745997079,
+      "ranking": 1.9150961249886054,
       "articleUrl": "https://www.theverge.com/news/819980/disney-plus-ai-videos-bob-iger-q4-2025-earnings"
     },
     {
@@ -668,7 +668,7 @@
         }
       ],
       "publishedAt": "2025-11-13T09:30:00.000Z",
-      "ranking": 2.6080088206345495,
+      "ranking": 1.823037977513387,
       "articleUrl": "https://www.theverge.com/news/819476/spotify-audiobook-ai-recaps-short-summary"
     },
     {
@@ -701,7 +701,7 @@
         }
       ],
       "publishedAt": "2025-11-13T11:00:00.000Z",
-      "ranking": 2.389684163620325,
+      "ranking": 1.6255444842149815,
       "articleUrl": "https://www.theverge.com/podcast/819612/coreweave-ai-bubble-nvidia-openai-data-centers"
     },
     {
@@ -737,7 +737,7 @@
         }
       ],
       "publishedAt": "2025-11-13T13:26:41.000Z",
-      "ranking": 2.328574977582047,
+      "ranking": 1.5983862484132478,
       "articleUrl": "https://www.theverge.com/news/820196/mozilla-firefox-ai-window-browser"
     },
     {
@@ -772,7 +772,7 @@
         }
       ],
       "publishedAt": "2025-11-13T05:17:24.000Z",
-      "ranking": 1.556427071432017,
+      "ranking": 0.7129900649156973,
       "articleUrl": "https://www.marktechpost.com/2025/11/12/openai-introduces-gpt-5-1-combining-adaptive-reasoning-account-level-personalization-and-updated-safety-metrics-in-the-gpt-5-stack/"
     },
     {
@@ -805,44 +805,8 @@
         }
       ],
       "publishedAt": "2025-11-12T20:31:00.000Z",
-      "ranking": 0.26146408088250617,
-      "articleUrl": "https://venturebeat.com/ai/weibos-new-open-source-ai-model-vibethinker-1-5b-outperforms-deepseek-r1-on"
-    },
-    {
-      "id": "250",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "GPT-5.1 Released",
-      "mediumTitle": "OpenAI Launches GPT-5.1 Upgrade",
-      "longTitle": "OpenAI Enhances ChatGPT with GPT-5.1 Release",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has announced the release of",
-            "GPT-5.1, an upgrade to its flagship",
-            "model that was initially launched in",
-            "August.",
-            "The company describes GPT-5.1 as an",
-            "enhancement that aims to make ChatGPT",
-            "\u0022smarter and more enjoyable to talk to.\u0022",
-            "This new iteration introduces two",
-            "distinct models: GPT-5.1 Instant and",
-            "GPT-5.1 Thinking.",
-            "GPT-5.1 Instant is characterized by its",
-            "\u0022warmer\u0022 demeanor, increased",
-            "intelligence, and improved ability to",
-            "follow user instructions compared to its",
-            "predecessor.",
-            "The core of the update appears to be a",
-            "refinement of the model\u0027s conversational",
-            "abilities and its capacity to understand",
-            "and execute user prompts."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-12T15:00:00.000Z",
       "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets"
+      "articleUrl": "https://venturebeat.com/ai/weibos-new-open-source-ai-model-vibethinker-1-5b-outperforms-deepseek-r1-on"
     },
     {
       "id": "246",
@@ -880,6 +844,42 @@
       "publishedAt": "2025-11-12T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/how-deductive-ai-saved-doordash-1-000-engineering-hours-by-automating"
+    },
+    {
+      "id": "250",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "GPT-5.1 Released",
+      "mediumTitle": "OpenAI Launches GPT-5.1 Upgrade",
+      "longTitle": "OpenAI Enhances ChatGPT with GPT-5.1 Release",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has announced the release of",
+            "GPT-5.1, an upgrade to its flagship",
+            "model that was initially launched in",
+            "August.",
+            "The company describes GPT-5.1 as an",
+            "enhancement that aims to make ChatGPT",
+            "\u0022smarter and more enjoyable to talk to.\u0022",
+            "This new iteration introduces two",
+            "distinct models: GPT-5.1 Instant and",
+            "GPT-5.1 Thinking.",
+            "GPT-5.1 Instant is characterized by its",
+            "\u0022warmer\u0022 demeanor, increased",
+            "intelligence, and improved ability to",
+            "follow user instructions compared to its",
+            "predecessor.",
+            "The core of the update appears to be a",
+            "refinement of the model\u0027s conversational",
+            "abilities and its capacity to understand",
+            "and execute user prompts."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-12T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets"
     },
     {
       "id": "247",
@@ -1548,41 +1548,6 @@
       "publishedAt": "2025-11-10T20:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/chronosphere-takes-on-datadog-with-ai-that-explains-itself-not-just-outages"
-    },
-    {
-      "id": "229",
-      "topic": "AI Ops",
-      "source": "The Verge AI",
-      "shortTitle": "Gemini Voice Rollout",
-      "mediumTitle": "Google\u0027s Gemini Voice Assistant Rollout",
-      "longTitle": "Google Reports Successful Gemini Voice Assistant Rollout for Smart Speakers",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has announced that its rollout of",
-            "the Gemini voice assistant for its smart",
-            "speakers, which began two weeks ago, is",
-            "progressing successfully.",
-            "Google highlighted positive user",
-            "feedback, including a quote from a user",
-            "who stated that their Google Home has",
-            "been upgraded with Gemini and is now",
-            "\u0022actually useful now beyond asking",
-            "for...\u0022",
-            "In a blog post commemorating the",
-            "two-week mark, the company expressed",
-            "satisfaction with the deployment.",
-            "Google\u0027s official statement aims to",
-            "counter this perception by emphasizing",
-            "the perceived usefulness and successful",
-            "integration of Gemini into their smart",
-            "home devices."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-10T16:02:57.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/817668/google-gemini-home-rollout-is-going-great"
     }
   ]
 }
