@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "278",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Cerebras MiniMax",
+      "mediumTitle": "Cerebras MiniMax-M2-REAP-162B",
+      "longTitle": "Cerebras Introduces Memory-Efficient MiniMax-M2-REAP-162B",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Cerebras has introduced",
+            "MiniMax-M2-REAP-162B-A10B, a novel,",
+            "memory-efficient version of their",
+            "MiniMax-M2 causal language model,",
+            "specifically designed for",
+            "deployment-focused workloads,",
+            "particularly for coding agents and tools",
+            "that require handling long contexts.",
+            "Despite the reduction in size and the",
+            "pruning of experts, Cerebras states that",
+            "MiniMax-M2-REAP-162B-A10B retains the",
+            "behavioral characteristics of the",
+            "original MiniMax-M2.",
+            "The primary goal of this pruning is to",
+            "significantly reduce the memory",
+            "footprint of the model."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-16T03:53:25.000Z",
+      "ranking": 8.35,
+      "articleUrl": "https://www.marktechpost.com/2025/11/15/cerebras-releases-minimax-m2-reap-162b-a10b-a-memory-efficient-version-of-minimax-m2-for-long-context-coding-agents/"
+    },
+    {
       "id": "274",
       "topic": "Learning",
       "source": "VentureBeat AI",
@@ -34,7 +67,7 @@
         }
       ],
       "publishedAt": "2025-11-15T00:00:00.000Z",
-      "ranking": 7.280243529310364,
+      "ranking": 6.9186486143014205,
       "articleUrl": "https://venturebeat.com/ai/googles-new-ai-training-method-helps-small-models-tackle-complex-reasoning"
     },
     {
@@ -71,7 +104,7 @@
         }
       ],
       "publishedAt": "2025-11-14T16:54:00.000Z",
-      "ranking": 5.870206397036986,
+      "ranking": 5.409958430912744,
       "articleUrl": "https://venturebeat.com/ai/chatgpt-group-chats-are-here-but-not-for-everyone-yet"
     },
     {
@@ -106,7 +139,7 @@
         }
       ],
       "publishedAt": "2025-11-14T06:00:00.000Z",
-      "ranking": 4.53417618646811,
+      "ranking": 3.9224743911831172,
       "articleUrl": "https://venturebeat.com/ai/openai-experiment-finds-that-sparse-models-could-give-ai-builders-the-tools"
     },
     {
@@ -141,7 +174,7 @@
         }
       ],
       "publishedAt": "2025-11-14T03:00:00.000Z",
-      "ranking": 3.5158138263019465,
+      "ranking": 2.862427489504487,
       "articleUrl": "https://www.theverge.com/report/820324/wayve-driverless-robotaxi-london"
     },
     {
@@ -174,7 +207,7 @@
         }
       ],
       "publishedAt": "2025-11-13T17:00:00.000Z",
-      "ranking": 2.813911534700088,
+      "ranking": 2.021576725552862,
       "articleUrl": "https://venturebeat.com/ai/inside-linkedins-generative-ai-cookbook-how-it-scaled-people-search-to-1-3"
     },
     {
@@ -207,7 +240,7 @@
         }
       ],
       "publishedAt": "2025-11-13T21:23:00.000Z",
-      "ranking": 2.704246269777882,
+      "ranking": 1.9728172061203502,
       "articleUrl": "https://venturebeat.com/ai/baidu-unveils-proprietary-ernie-5-beating-gpt-5-performance-on-charts"
     },
     {
@@ -239,7 +272,7 @@
         }
       ],
       "publishedAt": "2025-11-13T15:47:39.000Z",
-      "ranking": 2.548511083287271,
+      "ranking": 1.739421401510926,
       "articleUrl": "https://www.theverge.com/news/820458/hackers-china-ai-anthropic-claude"
     },
     {
@@ -276,7 +309,7 @@
         }
       ],
       "publishedAt": "2025-11-13T13:13:03.000Z",
-      "ranking": 2.4964207469311264,
+      "ranking": 1.6515286748237532,
       "articleUrl": "https://www.theverge.com/news/820120/even-realities-g2-smart-glasses-r1-ring-launch-ai"
     },
     {
@@ -313,7 +346,7 @@
         }
       ],
       "publishedAt": "2025-11-13T19:30:00.000Z",
-      "ranking": 2.4069854582388865,
+      "ranking": 1.6493877616706794,
       "articleUrl": "https://venturebeat.com/ai/upwork-study-shows-ai-agents-excel-with-human-partners-but-fail"
     },
     {
@@ -349,7 +382,7 @@
         }
       ],
       "publishedAt": "2025-11-13T13:16:25.000Z",
-      "ranking": 2.0605038904605664,
+      "ranking": 1.2163914663793083,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/820016/world-labs-is-betting-on-world-generation-as-the-next-ai-frontier"
     },
     {
@@ -385,7 +418,7 @@
         }
       ],
       "publishedAt": "2025-11-13T12:00:00.000Z",
-      "ranking": 1.8907065553510067,
+      "ranking": 1.0288974983670487,
       "articleUrl": "https://www.theverge.com/news/819908/linkedin-ai-people-search-launch"
     },
     {
@@ -422,7 +455,7 @@
         }
       ],
       "publishedAt": "2025-11-13T16:00:00.000Z",
-      "ranking": 1.621124029549259,
+      "ranking": 0.8148943601075853,
       "articleUrl": "https://www.theverge.com/news/819216/anthropic-claude-political-even-handedness-woke-ai"
     },
     {
@@ -456,7 +489,7 @@
         }
       ],
       "publishedAt": "2025-11-13T08:41:34.000Z",
-      "ranking": 1.6139196845475645,
+      "ranking": 0.7061572784063639,
       "articleUrl": "https://www.marktechpost.com/2025/11/12/how-to-build-a-fully-functional-custom-gpt-style-conversational-ai-locally-using-hugging-face-transformers/"
     },
     {
@@ -489,7 +522,7 @@
         }
       ],
       "publishedAt": "2025-11-13T11:00:00.000Z",
-      "ranking": 1.5476034246705108,
+      "ranking": 0.6718995167803756,
       "articleUrl": "https://venturebeat.com/ai/alembic-melted-gpus-chasing-causal-a-i-now-its-running-one-of-the-fastest"
     },
     {
@@ -524,7 +557,7 @@
         }
       ],
       "publishedAt": "2025-11-13T13:00:00.000Z",
-      "ranking": 1.4288513963775706,
+      "ranking": 0.5809371809018256,
       "articleUrl": "https://www.theverge.com/news/820022/google-notebooklm-gemini-deep-research"
     },
     {
@@ -559,7 +592,7 @@
         }
       ],
       "publishedAt": "2025-11-13T11:39:24.000Z",
-      "ranking": 1.1734923803974855,
+      "ranking": 0.3069127526407218,
       "articleUrl": "https://www.theverge.com/tech/819937/google-deepmind-ai-agent-sima-2-agi-video-games"
     },
     {
@@ -595,7 +628,7 @@
         }
       ],
       "publishedAt": "2025-11-13T11:36:10.000Z",
-      "ranking": 1.1038586385597897,
+      "ranking": 0.23653023125219796,
       "articleUrl": "https://www.theverge.com/news/819980/disney-plus-ai-videos-bob-iger-q4-2025-earnings"
     },
     {
@@ -631,7 +664,7 @@
         }
       ],
       "publishedAt": "2025-11-13T10:00:00.000Z",
-      "ranking": 1.0964817240533975,
+      "ranking": 0.20688292431942124,
       "articleUrl": "https://www.theverge.com/news/819431/google-shopping-ai-gemini-agentic-checkout-calling"
     },
     {
@@ -668,7 +701,7 @@
         }
       ],
       "publishedAt": "2025-11-13T09:30:00.000Z",
-      "ranking": 0.982599986039089,
+      "ranking": 0.08605374651024622,
       "articleUrl": "https://www.theverge.com/news/819476/spotify-audiobook-ai-recaps-short-summary"
     },
     {
@@ -704,7 +737,7 @@
         }
       ],
       "publishedAt": "2025-11-13T13:26:41.000Z",
-      "ranking": 0.8127255407314777,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/820196/mozilla-firefox-ai-window-browser"
     },
     {
@@ -737,7 +770,7 @@
         }
       ],
       "publishedAt": "2025-11-13T11:00:00.000Z",
-      "ranking": 0.805935813675017,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/podcast/819612/coreweave-ai-bubble-nvidia-openai-data-centers"
     },
     {
@@ -809,42 +842,6 @@
       "articleUrl": "https://venturebeat.com/ai/weibos-new-open-source-ai-model-vibethinker-1-5b-outperforms-deepseek-r1-on"
     },
     {
-      "id": "250",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "GPT-5.1 Released",
-      "mediumTitle": "OpenAI Launches GPT-5.1 Upgrade",
-      "longTitle": "OpenAI Enhances ChatGPT with GPT-5.1 Release",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has announced the release of",
-            "GPT-5.1, an upgrade to its flagship",
-            "model that was initially launched in",
-            "August.",
-            "The company describes GPT-5.1 as an",
-            "enhancement that aims to make ChatGPT",
-            "\u0022smarter and more enjoyable to talk to.\u0022",
-            "This new iteration introduces two",
-            "distinct models: GPT-5.1 Instant and",
-            "GPT-5.1 Thinking.",
-            "GPT-5.1 Instant is characterized by its",
-            "\u0022warmer\u0022 demeanor, increased",
-            "intelligence, and improved ability to",
-            "follow user instructions compared to its",
-            "predecessor.",
-            "The core of the update appears to be a",
-            "refinement of the model\u0027s conversational",
-            "abilities and its capacity to understand",
-            "and execute user prompts."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-12T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets"
-    },
-    {
       "id": "246",
       "topic": "Dev Tools",
       "source": "VentureBeat AI",
@@ -880,6 +877,42 @@
       "publishedAt": "2025-11-12T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/how-deductive-ai-saved-doordash-1-000-engineering-hours-by-automating"
+    },
+    {
+      "id": "250",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "GPT-5.1 Released",
+      "mediumTitle": "OpenAI Launches GPT-5.1 Upgrade",
+      "longTitle": "OpenAI Enhances ChatGPT with GPT-5.1 Release",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has announced the release of",
+            "GPT-5.1, an upgrade to its flagship",
+            "model that was initially launched in",
+            "August.",
+            "The company describes GPT-5.1 as an",
+            "enhancement that aims to make ChatGPT",
+            "\u0022smarter and more enjoyable to talk to.\u0022",
+            "This new iteration introduces two",
+            "distinct models: GPT-5.1 Instant and",
+            "GPT-5.1 Thinking.",
+            "GPT-5.1 Instant is characterized by its",
+            "\u0022warmer\u0022 demeanor, increased",
+            "intelligence, and improved ability to",
+            "follow user instructions compared to its",
+            "predecessor.",
+            "The core of the update appears to be a",
+            "refinement of the model\u0027s conversational",
+            "abilities and its capacity to understand",
+            "and execute user prompts."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-12T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets"
     },
     {
       "id": "247",
@@ -1230,6 +1263,40 @@
       "articleUrl": "https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health"
     },
     {
+      "id": "237",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Voice Market",
+      "mediumTitle": "ElevenLabs Launches Iconic Voice Marketplace",
+      "longTitle": "ElevenLabs\u0027 New Marketplace for Licensed AI Celebrity Voices",
+      "paragraphs": [
+        {
+          "Lines": [
+            "ElevenLabs, an AI audio startup, has",
+            "launched a new online marketplace called",
+            "the Iconic Voice Marketplace.",
+            "The company emphasizes that this",
+            "initiative addresses ethical concerns",
+            "surrounding the use of AI-generated",
+            "celebrity voices by adopting a",
+            "\u0027consent-based, performer-first",
+            "approach\u0027.",
+            "This approach seeks to ensure that the",
+            "individuals whose voices are replicated",
+            "have given their explicit consent and",
+            "are compensated for their participation.",
+            "This platform allows companies to",
+            "license AI-replicated voices of famous",
+            "individuals for use in their content and",
+            "advertisements."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T13:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio"
+    },
+    {
       "id": "236",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -1264,40 +1331,6 @@
       "publishedAt": "2025-11-11T13:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update"
-    },
-    {
-      "id": "237",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Voice Market",
-      "mediumTitle": "ElevenLabs Launches Iconic Voice Marketplace",
-      "longTitle": "ElevenLabs\u0027 New Marketplace for Licensed AI Celebrity Voices",
-      "paragraphs": [
-        {
-          "Lines": [
-            "ElevenLabs, an AI audio startup, has",
-            "launched a new online marketplace called",
-            "the Iconic Voice Marketplace.",
-            "The company emphasizes that this",
-            "initiative addresses ethical concerns",
-            "surrounding the use of AI-generated",
-            "celebrity voices by adopting a",
-            "\u0027consent-based, performer-first",
-            "approach\u0027.",
-            "This approach seeks to ensure that the",
-            "individuals whose voices are replicated",
-            "have given their explicit consent and",
-            "are compensated for their participation.",
-            "This platform allows companies to",
-            "license AI-replicated voices of famous",
-            "individuals for use in their content and",
-            "advertisements."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T13:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio"
     },
     {
       "id": "232",
@@ -1514,40 +1547,6 @@
       "publishedAt": "2025-11-10T21:27:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can"
-    },
-    {
-      "id": "228",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Chronosphere AI",
-      "mediumTitle": "Chronosphere Launches AI Troubleshooting",
-      "longTitle": "Chronosphere Introduces AI-Guided Troubleshooting for Software Failures",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Chronosphere, a New York-based",
-            "observability startup valued at $1.6",
-            "billion, has launched AI-Guided",
-            "Troubleshooting capabilities aimed at",
-            "helping engineers diagnose and resolve",
-            "production software failures.",
-            "The new features integrate AI-driven",
-            "analysis with Chronosphere\u0027s Temporal",
-            "Knowledge Graph, a dynamic map of an",
-            "organization\u0027s services, infrastructure",
-            "dependencies, and system changes over",
-            "time.",
-            "Unlike competitors like Datadog,",
-            "Dynatrace, and Splunk, Chronosphere\u0027s",
-            "graph incorporates time, tracking how",
-            "services and dependencies change and",
-            "linking these changes to incidents."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-10T20:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/chronosphere-takes-on-datadog-with-ai-that-explains-itself-not-just-outages"
     }
   ]
 }
