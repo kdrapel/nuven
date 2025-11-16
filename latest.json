@@ -34,6 +34,40 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/15/cerebras-releases-minimax-m2-reap-162b-a10b-a-memory-efficient-version-of-minimax-m2-for-long-context-coding-agents/"
     },
     {
+      "id": "279",
+      "topic": "Security",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Identity Crisis",
+      "mediumTitle": "AI Agents Need New Identity Management",
+      "longTitle": "Failing IAM Systems Require New Control Plane for Agentic AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article argues that traditional",
+            "Identity and Access Management (IAM)",
+            "systems, designed for human users, are",
+            "inadequate for the burgeoning world of",
+            "agentic AI.",
+            "The article asserts that managing an",
+            "agentic AI future requires a fundamental",
+            "shift from human-era identity tools to",
+            "an identity-centric control plane for AI",
+            "operations.",
+            "By making identity the central nervous",
+            "system, moving authorization to runtime,",
+            "binding data access to purpose, and",
+            "validating on synthetic data,",
+            "organizations can scale their AI",
+            "deployments without proportionally",
+            "increasing breach risk."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-16T06:00:00.000Z",
+      "ranking": 8.209999999999999,
+      "articleUrl": "https://venturebeat.com/security/human-centric-iam-is-failing-agentic-ai-requires-a-new-identity-control"
+    },
+    {
       "id": "274",
       "topic": "Learning",
       "source": "VentureBeat AI",
@@ -67,7 +101,7 @@
         }
       ],
       "publishedAt": "2025-11-15T00:00:00.000Z",
-      "ranking": 5.50101690892096,
+      "ranking": 4.917057302776138,
       "articleUrl": "https://venturebeat.com/ai/googles-new-ai-training-method-helps-small-models-tackle-complex-reasoning"
     },
     {
@@ -104,7 +138,7 @@
         }
       ],
       "publishedAt": "2025-11-14T16:54:00.000Z",
-      "ranking": 3.696503295244364,
+      "ranking": 3.013885555123382,
       "articleUrl": "https://venturebeat.com/ai/chatgpt-group-chats-are-here-but-not-for-everyone-yet"
     },
     {
@@ -139,7 +173,7 @@
         }
       ],
       "publishedAt": "2025-11-14T06:00:00.000Z",
-      "ranking": 1.7548677998524909,
+      "ranking": 0.9207889823741917,
       "articleUrl": "https://venturebeat.com/ai/openai-experiment-finds-that-sparse-models-could-give-ai-builders-the-tools"
     },
     {
@@ -174,7 +208,7 @@
         }
       ],
       "publishedAt": "2025-11-14T03:00:00.000Z",
-      "ranking": 0.5698250697373766,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/report/820324/wayve-driverless-robotaxi-london"
     },
     {
@@ -842,42 +876,6 @@
       "articleUrl": "https://venturebeat.com/ai/weibos-new-open-source-ai-model-vibethinker-1-5b-outperforms-deepseek-r1-on"
     },
     {
-      "id": "250",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "GPT-5.1 Released",
-      "mediumTitle": "OpenAI Launches GPT-5.1 Upgrade",
-      "longTitle": "OpenAI Enhances ChatGPT with GPT-5.1 Release",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has announced the release of",
-            "GPT-5.1, an upgrade to its flagship",
-            "model that was initially launched in",
-            "August.",
-            "The company describes GPT-5.1 as an",
-            "enhancement that aims to make ChatGPT",
-            "\u0022smarter and more enjoyable to talk to.\u0022",
-            "This new iteration introduces two",
-            "distinct models: GPT-5.1 Instant and",
-            "GPT-5.1 Thinking.",
-            "GPT-5.1 Instant is characterized by its",
-            "\u0022warmer\u0022 demeanor, increased",
-            "intelligence, and improved ability to",
-            "follow user instructions compared to its",
-            "predecessor.",
-            "The core of the update appears to be a",
-            "refinement of the model\u0027s conversational",
-            "abilities and its capacity to understand",
-            "and execute user prompts."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-12T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets"
-    },
-    {
       "id": "246",
       "topic": "Dev Tools",
       "source": "VentureBeat AI",
@@ -913,6 +911,42 @@
       "publishedAt": "2025-11-12T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/how-deductive-ai-saved-doordash-1-000-engineering-hours-by-automating"
+    },
+    {
+      "id": "250",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "GPT-5.1 Released",
+      "mediumTitle": "OpenAI Launches GPT-5.1 Upgrade",
+      "longTitle": "OpenAI Enhances ChatGPT with GPT-5.1 Release",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has announced the release of",
+            "GPT-5.1, an upgrade to its flagship",
+            "model that was initially launched in",
+            "August.",
+            "The company describes GPT-5.1 as an",
+            "enhancement that aims to make ChatGPT",
+            "\u0022smarter and more enjoyable to talk to.\u0022",
+            "This new iteration introduces two",
+            "distinct models: GPT-5.1 Instant and",
+            "GPT-5.1 Thinking.",
+            "GPT-5.1 Instant is characterized by its",
+            "\u0022warmer\u0022 demeanor, increased",
+            "intelligence, and improved ability to",
+            "follow user instructions compared to its",
+            "predecessor.",
+            "The core of the update appears to be a",
+            "refinement of the model\u0027s conversational",
+            "abilities and its capacity to understand",
+            "and execute user prompts."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-12T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets"
     },
     {
       "id": "247",
@@ -1263,40 +1297,6 @@
       "articleUrl": "https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health"
     },
     {
-      "id": "237",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Voice Market",
-      "mediumTitle": "ElevenLabs Launches Iconic Voice Marketplace",
-      "longTitle": "ElevenLabs\u0027 New Marketplace for Licensed AI Celebrity Voices",
-      "paragraphs": [
-        {
-          "Lines": [
-            "ElevenLabs, an AI audio startup, has",
-            "launched a new online marketplace called",
-            "the Iconic Voice Marketplace.",
-            "The company emphasizes that this",
-            "initiative addresses ethical concerns",
-            "surrounding the use of AI-generated",
-            "celebrity voices by adopting a",
-            "\u0027consent-based, performer-first",
-            "approach\u0027.",
-            "This approach seeks to ensure that the",
-            "individuals whose voices are replicated",
-            "have given their explicit consent and",
-            "are compensated for their participation.",
-            "This platform allows companies to",
-            "license AI-replicated voices of famous",
-            "individuals for use in their content and",
-            "advertisements."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T13:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio"
-    },
-    {
       "id": "236",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -1331,6 +1331,40 @@
       "publishedAt": "2025-11-11T13:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update"
+    },
+    {
+      "id": "237",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Voice Market",
+      "mediumTitle": "ElevenLabs Launches Iconic Voice Marketplace",
+      "longTitle": "ElevenLabs\u0027 New Marketplace for Licensed AI Celebrity Voices",
+      "paragraphs": [
+        {
+          "Lines": [
+            "ElevenLabs, an AI audio startup, has",
+            "launched a new online marketplace called",
+            "the Iconic Voice Marketplace.",
+            "The company emphasizes that this",
+            "initiative addresses ethical concerns",
+            "surrounding the use of AI-generated",
+            "celebrity voices by adopting a",
+            "\u0027consent-based, performer-first",
+            "approach\u0027.",
+            "This approach seeks to ensure that the",
+            "individuals whose voices are replicated",
+            "have given their explicit consent and",
+            "are compensated for their participation.",
+            "This platform allows companies to",
+            "license AI-replicated voices of famous",
+            "individuals for use in their content and",
+            "advertisements."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T13:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio"
     },
     {
       "id": "232",
@@ -1510,43 +1544,6 @@
       "publishedAt": "2025-11-10T22:30:20.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/10/gelato-30b-a3b-a-state-of-the-art-grounding-model-for-gui-computer-use-tasks-surpassing-computer-grounding-models-like-gta1-32b/"
-    },
-    {
-      "id": "227",
-      "topic": "Speech",
-      "source": "VentureBeat AI",
-      "shortTitle": "Meta\u0027s Omnilingual ASR",
-      "mediumTitle": "Meta\u0027s Omnilingual ASR: 1600\u002B Languages",
-      "longTitle": "Meta\u0027s Omnilingual ASR: Open-Source, 1600\u002B Languages, Extensible",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta has released Omnilingual ASR, a new",
-            "open-source automatic speech recognition",
-            "system that supports over 1,600",
-            "languages natively, significantly",
-            "surpassing OpenAI\u0027s Whisper model, which",
-            "supports 99.",
-            "Crucially, Omnilingual ASR is",
-            "open-sourced under a permissive Apache",
-            "2.0 license, unlike Meta\u0027s previous",
-            "Llama releases which had restrictive",
-            "terms for larger enterprises.",
-            "While models like Whisper support 99",
-            "languages, Meta\u0027s system directly",
-            "supports over 1,600 and can generalize",
-            "to over 5,400 using in-context learning.",
-            "This new system is designed to be highly",
-            "extensible, allowing developers to add",
-            "support for thousands more languages",
-            "through a feature called zero-shot",
-            "in-context learning."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-10T21:27:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can"
     }
   ]
 }
