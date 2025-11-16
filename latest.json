@@ -34,6 +34,39 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/15/cerebras-releases-minimax-m2-reap-162b-a10b-a-memory-efficient-version-of-minimax-m2-for-long-context-coding-agents/"
     },
     {
+      "id": "280",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Vector DBs: Reality Check",
+      "mediumTitle": "Vector Databases: Two Years Later",
+      "longTitle": "Vector Databases: From Hype to Pragmatic Reality, Two Years On",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Benchmarks indicate that GraphRAG,",
+            "especially in hybrid combinations,",
+            "significantly boosts answer correctness",
+            "and performance in complex reasoning and",
+            "domain-specific tasks.",
+            "GraphRAG (Graph-enhanced Retrieval",
+            "Augmented Generation) is a significant",
+            "development that marries vectors with",
+            "knowledge graphs, encoding relationships",
+            "that embeddings alone flatten.",
+            "Two years ago, vector databases were",
+            "hailed as a revolutionary infrastructure",
+            "layer for semantic search, attracting",
+            "significant venture capital and",
+            "companies like Pinecone, Weaviate,",
+            "Chroma, and Milvus."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-16T19:00:00.000Z",
+      "ranking": 8.339285714285715,
+      "articleUrl": "https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later"
+    },
+    {
       "id": "279",
       "topic": "Security",
       "source": "VentureBeat AI",
@@ -101,7 +134,7 @@
         }
       ],
       "publishedAt": "2025-11-15T00:00:00.000Z",
-      "ranking": 4.917057302776138,
+      "ranking": 4.277925190480409,
       "articleUrl": "https://venturebeat.com/ai/googles-new-ai-training-method-helps-small-models-tackle-complex-reasoning"
     },
     {
@@ -138,7 +171,7 @@
         }
       ],
       "publishedAt": "2025-11-14T16:54:00.000Z",
-      "ranking": 3.013885555123382,
+      "ranking": 2.276159774430252,
       "articleUrl": "https://venturebeat.com/ai/chatgpt-group-chats-are-here-but-not-for-everyone-yet"
     },
     {
@@ -173,7 +206,7 @@
         }
       ],
       "publishedAt": "2025-11-14T06:00:00.000Z",
-      "ranking": 0.9207889823741917,
+      "ranking": 0.031701090374036234,
       "articleUrl": "https://venturebeat.com/ai/openai-experiment-finds-that-sparse-models-could-give-ai-builders-the-tools"
     },
     {
@@ -876,6 +909,42 @@
       "articleUrl": "https://venturebeat.com/ai/weibos-new-open-source-ai-model-vibethinker-1-5b-outperforms-deepseek-r1-on"
     },
     {
+      "id": "250",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "GPT-5.1 Released",
+      "mediumTitle": "OpenAI Launches GPT-5.1 Upgrade",
+      "longTitle": "OpenAI Enhances ChatGPT with GPT-5.1 Release",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has announced the release of",
+            "GPT-5.1, an upgrade to its flagship",
+            "model that was initially launched in",
+            "August.",
+            "The company describes GPT-5.1 as an",
+            "enhancement that aims to make ChatGPT",
+            "\u0022smarter and more enjoyable to talk to.\u0022",
+            "This new iteration introduces two",
+            "distinct models: GPT-5.1 Instant and",
+            "GPT-5.1 Thinking.",
+            "GPT-5.1 Instant is characterized by its",
+            "\u0022warmer\u0022 demeanor, increased",
+            "intelligence, and improved ability to",
+            "follow user instructions compared to its",
+            "predecessor.",
+            "The core of the update appears to be a",
+            "refinement of the model\u0027s conversational",
+            "abilities and its capacity to understand",
+            "and execute user prompts."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-12T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets"
+    },
+    {
       "id": "246",
       "topic": "Dev Tools",
       "source": "VentureBeat AI",
@@ -911,42 +980,6 @@
       "publishedAt": "2025-11-12T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/how-deductive-ai-saved-doordash-1-000-engineering-hours-by-automating"
-    },
-    {
-      "id": "250",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "GPT-5.1 Released",
-      "mediumTitle": "OpenAI Launches GPT-5.1 Upgrade",
-      "longTitle": "OpenAI Enhances ChatGPT with GPT-5.1 Release",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has announced the release of",
-            "GPT-5.1, an upgrade to its flagship",
-            "model that was initially launched in",
-            "August.",
-            "The company describes GPT-5.1 as an",
-            "enhancement that aims to make ChatGPT",
-            "\u0022smarter and more enjoyable to talk to.\u0022",
-            "This new iteration introduces two",
-            "distinct models: GPT-5.1 Instant and",
-            "GPT-5.1 Thinking.",
-            "GPT-5.1 Instant is characterized by its",
-            "\u0022warmer\u0022 demeanor, increased",
-            "intelligence, and improved ability to",
-            "follow user instructions compared to its",
-            "predecessor.",
-            "The core of the update appears to be a",
-            "refinement of the model\u0027s conversational",
-            "abilities and its capacity to understand",
-            "and execute user prompts."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-12T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets"
     },
     {
       "id": "247",
@@ -1507,43 +1540,6 @@
       "publishedAt": "2025-11-11T00:47:22.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/10/moonshot-ai-releases-kosong-the-llm-abstraction-layer-that-powers-kimi-cli/"
-    },
-    {
-      "id": "230",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Gelato-30B-A3B",
-      "mediumTitle": "New AI Model for GUI Interaction",
-      "longTitle": "Gelato-30B-A3B: State-of-the-art AI model for GUI grounding",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Gelato-30B-A3B is a new state-of-the-art",
-            "grounding model developed by researchers",
-            "at ML Foundations, specifically designed",
-            "to enhance the capabilities of AI agents",
-            "that interact with graphical user",
-            "interfaces (GUIs).",
-            "The primary challenge addressed by this",
-            "model is enabling AI agents to",
-            "accurately identify and select specific",
-            "on-screen elements based on simple,",
-            "natural language instructions.",
-            "The description highlights the model\u0027s",
-            "ability to \u0027reliably find and click the",
-            "exact on screen element we mean,\u0027",
-            "indicating a focus on fine-grained",
-            "control and accuracy in GUI",
-            "interactions.",
-            "The model is presented as a significant",
-            "advancement over existing computer",
-            "grounding models, including GTA1-32B."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-10T22:30:20.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/10/gelato-30b-a3b-a-state-of-the-art-grounding-model-for-gui-computer-use-tasks-surpassing-computer-grounding-models-like-gta1-32b/"
     }
   ]
 }
