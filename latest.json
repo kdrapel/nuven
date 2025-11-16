@@ -67,7 +67,7 @@
         }
       ],
       "publishedAt": "2025-11-15T00:00:00.000Z",
-      "ranking": 6.029081873455006,
+      "ranking": 5.50101690892096,
       "articleUrl": "https://venturebeat.com/ai/googles-new-ai-training-method-helps-small-models-tackle-complex-reasoning"
     },
     {
@@ -104,7 +104,7 @@
         }
       ],
       "publishedAt": "2025-11-14T16:54:00.000Z",
-      "ranking": 4.323170003585,
+      "ranking": 3.696503295244364,
       "articleUrl": "https://venturebeat.com/ai/chatgpt-group-chats-are-here-but-not-for-everyone-yet"
     },
     {
@@ -139,7 +139,7 @@
         }
       ],
       "publishedAt": "2025-11-14T06:00:00.000Z",
-      "ranking": 2.532909016505994,
+      "ranking": 1.7548677998524909,
       "articleUrl": "https://venturebeat.com/ai/openai-experiment-finds-that-sparse-models-could-give-ai-builders-the-tools"
     },
     {
@@ -174,7 +174,7 @@
         }
       ],
       "publishedAt": "2025-11-14T03:00:00.000Z",
-      "ranking": 1.3895289986173287,
+      "ranking": 0.5698250697373766,
       "articleUrl": "https://www.theverge.com/report/820324/wayve-driverless-robotaxi-london"
     },
     {
@@ -207,41 +207,8 @@
         }
       ],
       "publishedAt": "2025-11-13T21:23:00.000Z",
-      "ranking": 0.34390062699573676,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/baidu-unveils-proprietary-ernie-5-beating-gpt-5-performance-on-charts"
-    },
-    {
-      "id": "256",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "LinkedIn AI Search",
-      "mediumTitle": "LinkedIn\u0027s AI-Powered People Search",
-      "longTitle": "LinkedIn Launches AI People Search, Sharing Enterprise AI Development Playbook",
-      "paragraphs": [
-        {
-          "Lines": [
-            "LinkedIn has launched its new AI-powered",
-            "people search, a significant undertaking",
-            "that highlights the challenges of",
-            "deploying generative AI at enterprise",
-            "scale for its 1.3 billion users.",
-            "A key takeaway for enterprises is",
-            "LinkedIn\u0027s development of a \u0022cookbook\u0022\u2014a",
-            "replicable, multi-stage process",
-            "involving distillation, co-design, and",
-            "continuous optimization.",
-            "The company\u0027s experience demonstrates",
-            "that strategic advantage in enterprise",
-            "AI comes from mastering the development",
-            "pipeline\u2014the \u0022AI-native\u0022 cookbook of",
-            "co-design, distillation, and",
-            "optimization."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T17:00:00.000Z",
-      "ranking": 0.27090120184940325,
-      "articleUrl": "https://venturebeat.com/ai/inside-linkedins-generative-ai-cookbook-how-it-scaled-people-search-to-1-3"
     },
     {
       "id": "255",
@@ -279,6 +246,39 @@
       "publishedAt": "2025-11-13T19:30:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/upwork-study-shows-ai-agents-excel-with-human-partners-but-fail"
+    },
+    {
+      "id": "256",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "LinkedIn AI Search",
+      "mediumTitle": "LinkedIn\u0027s AI-Powered People Search",
+      "longTitle": "LinkedIn Launches AI People Search, Sharing Enterprise AI Development Playbook",
+      "paragraphs": [
+        {
+          "Lines": [
+            "LinkedIn has launched its new AI-powered",
+            "people search, a significant undertaking",
+            "that highlights the challenges of",
+            "deploying generative AI at enterprise",
+            "scale for its 1.3 billion users.",
+            "A key takeaway for enterprises is",
+            "LinkedIn\u0027s development of a \u0022cookbook\u0022\u2014a",
+            "replicable, multi-stage process",
+            "involving distillation, co-design, and",
+            "continuous optimization.",
+            "The company\u0027s experience demonstrates",
+            "that strategic advantage in enterprise",
+            "AI comes from mastering the development",
+            "pipeline\u2014the \u0022AI-native\u0022 cookbook of",
+            "co-design, distillation, and",
+            "optimization."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-13T17:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/inside-linkedins-generative-ai-cookbook-how-it-scaled-people-search-to-1-3"
     },
     {
       "id": "267",
@@ -1263,6 +1263,40 @@
       "articleUrl": "https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health"
     },
     {
+      "id": "237",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Voice Market",
+      "mediumTitle": "ElevenLabs Launches Iconic Voice Marketplace",
+      "longTitle": "ElevenLabs\u0027 New Marketplace for Licensed AI Celebrity Voices",
+      "paragraphs": [
+        {
+          "Lines": [
+            "ElevenLabs, an AI audio startup, has",
+            "launched a new online marketplace called",
+            "the Iconic Voice Marketplace.",
+            "The company emphasizes that this",
+            "initiative addresses ethical concerns",
+            "surrounding the use of AI-generated",
+            "celebrity voices by adopting a",
+            "\u0027consent-based, performer-first",
+            "approach\u0027.",
+            "This approach seeks to ensure that the",
+            "individuals whose voices are replicated",
+            "have given their explicit consent and",
+            "are compensated for their participation.",
+            "This platform allows companies to",
+            "license AI-replicated voices of famous",
+            "individuals for use in their content and",
+            "advertisements."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T13:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio"
+    },
+    {
       "id": "236",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -1297,40 +1331,6 @@
       "publishedAt": "2025-11-11T13:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update"
-    },
-    {
-      "id": "237",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Voice Market",
-      "mediumTitle": "ElevenLabs Launches Iconic Voice Marketplace",
-      "longTitle": "ElevenLabs\u0027 New Marketplace for Licensed AI Celebrity Voices",
-      "paragraphs": [
-        {
-          "Lines": [
-            "ElevenLabs, an AI audio startup, has",
-            "launched a new online marketplace called",
-            "the Iconic Voice Marketplace.",
-            "The company emphasizes that this",
-            "initiative addresses ethical concerns",
-            "surrounding the use of AI-generated",
-            "celebrity voices by adopting a",
-            "\u0027consent-based, performer-first",
-            "approach\u0027.",
-            "This approach seeks to ensure that the",
-            "individuals whose voices are replicated",
-            "have given their explicit consent and",
-            "are compensated for their participation.",
-            "This platform allows companies to",
-            "license AI-replicated voices of famous",
-            "individuals for use in their content and",
-            "advertisements."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T13:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio"
     },
     {
       "id": "232",
