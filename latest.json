@@ -1,39 +1,6 @@
 {
   "articles": [
     {
-      "id": "278",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Cerebras MiniMax",
-      "mediumTitle": "Cerebras MiniMax-M2-REAP-162B",
-      "longTitle": "Cerebras Introduces Memory-Efficient MiniMax-M2-REAP-162B",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Cerebras has introduced",
-            "MiniMax-M2-REAP-162B-A10B, a novel,",
-            "memory-efficient version of their",
-            "MiniMax-M2 causal language model,",
-            "specifically designed for",
-            "deployment-focused workloads,",
-            "particularly for coding agents and tools",
-            "that require handling long contexts.",
-            "Despite the reduction in size and the",
-            "pruning of experts, Cerebras states that",
-            "MiniMax-M2-REAP-162B-A10B retains the",
-            "behavioral characteristics of the",
-            "original MiniMax-M2.",
-            "The primary goal of this pruning is to",
-            "significantly reduce the memory",
-            "footprint of the model."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-16T03:53:25.000Z",
-      "ranking": 8.35,
-      "articleUrl": "https://www.marktechpost.com/2025/11/15/cerebras-releases-minimax-m2-reap-162b-a10b-a-memory-efficient-version-of-minimax-m2-for-long-context-coding-agents/"
-    },
-    {
       "id": "280",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -101,6 +68,39 @@
       "articleUrl": "https://venturebeat.com/security/human-centric-iam-is-failing-agentic-ai-requires-a-new-identity-control"
     },
     {
+      "id": "278",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Cerebras MiniMax",
+      "mediumTitle": "Cerebras MiniMax-M2-REAP-162B",
+      "longTitle": "Cerebras Introduces Memory-Efficient MiniMax-M2-REAP-162B",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Cerebras has introduced",
+            "MiniMax-M2-REAP-162B-A10B, a novel,",
+            "memory-efficient version of their",
+            "MiniMax-M2 causal language model,",
+            "specifically designed for",
+            "deployment-focused workloads,",
+            "particularly for coding agents and tools",
+            "that require handling long contexts.",
+            "Despite the reduction in size and the",
+            "pruning of experts, Cerebras states that",
+            "MiniMax-M2-REAP-162B-A10B retains the",
+            "behavioral characteristics of the",
+            "original MiniMax-M2.",
+            "The primary goal of this pruning is to",
+            "significantly reduce the memory",
+            "footprint of the model."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-16T03:53:25.000Z",
+      "ranking": 7.338907947443464,
+      "articleUrl": "https://www.marktechpost.com/2025/11/15/cerebras-releases-minimax-m2-reap-162b-a10b-a-memory-efficient-version-of-minimax-m2-for-long-context-coding-agents/"
+    },
+    {
       "id": "274",
       "topic": "Learning",
       "source": "VentureBeat AI",
@@ -134,7 +134,7 @@
         }
       ],
       "publishedAt": "2025-11-15T00:00:00.000Z",
-      "ranking": 4.277925190480409,
+      "ranking": 3.5835417386572406,
       "articleUrl": "https://venturebeat.com/ai/googles-new-ai-training-method-helps-small-models-tackle-complex-reasoning"
     },
     {
@@ -171,7 +171,7 @@
         }
       ],
       "publishedAt": "2025-11-14T16:54:00.000Z",
-      "ranking": 2.276159774430252,
+      "ranking": 1.4832214903618386,
       "articleUrl": "https://venturebeat.com/ai/chatgpt-group-chats-are-here-but-not-for-everyone-yet"
     },
     {
@@ -206,7 +206,7 @@
         }
       ],
       "publishedAt": "2025-11-14T06:00:00.000Z",
-      "ranking": 0.031701090374036234,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/openai-experiment-finds-that-sparse-models-could-give-ai-builders-the-tools"
     },
     {
