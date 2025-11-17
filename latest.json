@@ -1,37 +1,41 @@
 {
   "articles": [
     {
-      "id": "280",
+      "id": "284",
       "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Vector DBs: Reality Check",
-      "mediumTitle": "Vector Databases: Two Years Later",
-      "longTitle": "Vector Databases: From Hype to Pragmatic Reality, Two Years On",
+      "source": "The Verge AI",
+      "shortTitle": "AI Travel Planner",
+      "mediumTitle": "Google AI Creates Travel Itineraries",
+      "longTitle": "Google\u0027s AI Mode Introduces \u0027Create with Canvas\u0027 for Travel Planning",
       "paragraphs": [
         {
           "Lines": [
-            "Benchmarks indicate that GraphRAG,",
-            "especially in hybrid combinations,",
-            "significantly boosts answer correctness",
-            "and performance in complex reasoning and",
-            "domain-specific tasks.",
-            "GraphRAG (Graph-enhanced Retrieval",
-            "Augmented Generation) is a significant",
-            "development that marries vectors with",
-            "knowledge graphs, encoding relationships",
-            "that embeddings alone flatten.",
-            "Two years ago, vector databases were",
-            "hailed as a revolutionary infrastructure",
-            "layer for semantic search, attracting",
-            "significant venture capital and",
-            "companies like Pinecone, Weaviate,",
-            "Chroma, and Milvus."
+            "Google\u0027s AI Mode has introduced a new",
+            "feature called \u0027Create with Canvas\u0027 that",
+            "allows users to visualize their travel",
+            "plans.",
+            "This itinerary will include essential",
+            "travel data such as flight and hotel",
+            "information.",
+            "Once selected, the AI will generate an",
+            "itinerary in a side panel.",
+            "By describing their desired trip within",
+            "Google Search, users can activate this",
+            "option.",
+            "The generated document will present",
+            "potential travel plans, offering",
+            "suggestions that are tailored to the",
+            "user\u0027s input and preferences.",
+            "This new functionality aims to simplify",
+            "the travel planning process by providing",
+            "a visual and data-rich overview of",
+            "potential trips."
           ]
         }
       ],
-      "publishedAt": "2025-11-16T19:00:00.000Z",
-      "ranking": 8.339285714285715,
-      "articleUrl": "https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later"
+      "publishedAt": "2025-11-17T13:07:57.000Z",
+      "ranking": 8.357142857142856,
+      "articleUrl": "https://www.theverge.com/news/822240/google-ai-mode-travel-plans-canvas"
     },
     {
       "id": "281",
@@ -67,6 +71,76 @@
       "articleUrl": "https://www.theverge.com/news/821943/jeff-bezos-project-prometheus-co-ceo-funding-ai-startup"
     },
     {
+      "id": "280",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Vector DBs: Reality Check",
+      "mediumTitle": "Vector Databases: Two Years Later",
+      "longTitle": "Vector Databases: From Hype to Pragmatic Reality, Two Years On",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Benchmarks indicate that GraphRAG,",
+            "especially in hybrid combinations,",
+            "significantly boosts answer correctness",
+            "and performance in complex reasoning and",
+            "domain-specific tasks.",
+            "GraphRAG (Graph-enhanced Retrieval",
+            "Augmented Generation) is a significant",
+            "development that marries vectors with",
+            "knowledge graphs, encoding relationships",
+            "that embeddings alone flatten.",
+            "Two years ago, vector databases were",
+            "hailed as a revolutionary infrastructure",
+            "layer for semantic search, attracting",
+            "significant venture capital and",
+            "companies like Pinecone, Weaviate,",
+            "Chroma, and Milvus."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-16T19:00:00.000Z",
+      "ranking": 7.251878724917427,
+      "articleUrl": "https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later"
+    },
+    {
+      "id": "283",
+      "topic": "Dev Tools",
+      "source": "VentureBeat AI",
+      "shortTitle": "AWS Kiro Enhancements",
+      "mediumTitle": "AWS Kiro: AI Coding Agent Upgrades",
+      "longTitle": "AWS Kiro Autonomous Coding Agent Now Generally Available with New Features",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AWS has made its autonomous coding",
+            "agent, Kiro, generally available,",
+            "enhancing it to meet enterprise demands",
+            "for structured adherence and spec",
+            "fidelity in AI-generated code.",
+            "Kiro introduces property-based testing",
+            "to ensure AI-generated code\u0027s accuracy",
+            "and adherence to purpose by",
+            "automatically generating hundreds of",
+            "test scenarios from a specification.",
+            "Kiro distinguishes itself in a crowded",
+            "market by not relying on a single large",
+            "language model (LLM), instead routing",
+            "tasks to the most suitable model,",
+            "including AWS\u0027s own.",
+            "The new Kiro CLI integrates the coding",
+            "agent directly into a developer\u0027s",
+            "command-line environment, leveraging",
+            "functionalities from AWS\u0027s Q Developer",
+            "CLI."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-17T06:00:00.000Z",
+      "ranking": 7.2153846153846155,
+      "articleUrl": "https://venturebeat.com/ai/in-a-sea-of-agents-aws-bets-on-structured-adherence-and-spec-fidelity"
+    },
+    {
       "id": "279",
       "topic": "Security",
       "source": "VentureBeat AI",
@@ -97,7 +171,7 @@
         }
       ],
       "publishedAt": "2025-11-16T06:00:00.000Z",
-      "ranking": 6.200283912485869,
+      "ranking": 5.699502585757841,
       "articleUrl": "https://venturebeat.com/security/human-centric-iam-is-failing-agentic-ai-requires-a-new-identity-control"
     },
     {
@@ -130,7 +204,7 @@
         }
       ],
       "publishedAt": "2025-11-16T03:53:25.000Z",
-      "ranking": 6.083320250395117,
+      "ranking": 5.553211959998288,
       "articleUrl": "https://www.marktechpost.com/2025/11/15/cerebras-releases-minimax-m2-reap-162b-a10b-a-memory-efficient-version-of-minimax-m2-for-long-context-coding-agents/"
     },
     {
@@ -167,7 +241,7 @@
         }
       ],
       "publishedAt": "2025-11-15T18:13:00.000Z",
-      "ranking": 3.3571819792072968,
+      "ranking": 2.6926021329698484,
       "articleUrl": "https://www.marktechpost.com/2025/11/15/mbzuai-researchers-introduce-pan-a-general-world-model-for-interactable-long-horizon-simulation/"
     },
     {
@@ -204,7 +278,7 @@
         }
       ],
       "publishedAt": "2025-11-15T00:00:00.000Z",
-      "ranking": 1.1658153498210417,
+      "ranking": 0.2480080922968657,
       "articleUrl": "https://venturebeat.com/ai/googles-new-ai-training-method-helps-small-models-tackle-complex-reasoning"
     },
     {
@@ -738,39 +812,6 @@
       "articleUrl": "https://www.theverge.com/news/819980/disney-plus-ai-videos-bob-iger-q4-2025-earnings"
     },
     {
-      "id": "266",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Alembic AI Funding",
-      "mediumTitle": "Alembic Secures $145M for Causal AI",
-      "longTitle": "Alembic Technologies Raises $145M, Focuses on Causal AI and Private Infrastructure",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Alembic Technologies has secured $145",
-            "million in Series B and growth funding,",
-            "valuing the company at approximately",
-            "$645 million.",
-            "Alembic\u0027s core innovation lies in its AI",
-            "systems that identify cause-and-effect",
-            "relationships, rather than just",
-            "correlations, enabling businesses to",
-            "make more informed, multi-million dollar",
-            "decisions.",
-            "This significant investment underscores",
-            "a strategic shift in enterprise AI,",
-            "moving away from the pursuit of",
-            "ever-larger language models towards",
-            "leveraging proprietary data and causal",
-            "reasoning."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T11:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/alembic-melted-gpus-chasing-causal-a-i-now-its-running-one-of-the-fastest"
-    },
-    {
       "id": "264",
       "topic": "Business",
       "source": "The Verge AI",
@@ -802,6 +843,39 @@
       "publishedAt": "2025-11-13T11:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/podcast/819612/coreweave-ai-bubble-nvidia-openai-data-centers"
+    },
+    {
+      "id": "266",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Alembic AI Funding",
+      "mediumTitle": "Alembic Secures $145M for Causal AI",
+      "longTitle": "Alembic Technologies Raises $145M, Focuses on Causal AI and Private Infrastructure",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Alembic Technologies has secured $145",
+            "million in Series B and growth funding,",
+            "valuing the company at approximately",
+            "$645 million.",
+            "Alembic\u0027s core innovation lies in its AI",
+            "systems that identify cause-and-effect",
+            "relationships, rather than just",
+            "correlations, enabling businesses to",
+            "make more informed, multi-million dollar",
+            "decisions.",
+            "This significant investment underscores",
+            "a strategic shift in enterprise AI,",
+            "moving away from the pursuit of",
+            "ever-larger language models towards",
+            "leveraging proprietary data and causal",
+            "reasoning."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-13T11:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/alembic-melted-gpus-chasing-causal-a-i-now-its-running-one-of-the-fastest"
     },
     {
       "id": "253",
@@ -1432,113 +1506,6 @@
       "publishedAt": "2025-11-11T13:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio"
-    },
-    {
-      "id": "236",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Google Photos AI",
-      "mediumTitle": "Google Photos AI for iPhone",
-      "longTitle": "Google Photos brings AI editing features to iPhone",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google Photos is enhancing its editing",
-            "capabilities for iPhone users with",
-            "several AI-driven updates, including the",
-            "expansion of the \u0022Help me edit\u0022 feature",
-            "to iOS.",
-            "This tool allows users to make changes",
-            "to their photos by simply describing the",
-            "desired edits in natural language,",
-            "leveraging Google\u0027s AI to interpret and",
-            "apply these changes.",
-            "This functionality was previously",
-            "available on Android devices and is now",
-            "being rolled out to iPhone users,",
-            "signifying a move towards more intuitive",
-            "and accessible photo editing.",
-            "The integration of natural language",
-            "processing for editing is a key step in",
-            "making sophisticated photo manipulation",
-            "accessible to everyday users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T13:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update"
-    },
-    {
-      "id": "232",
-      "topic": "Speech",
-      "source": "Marktechpost AI",
-      "shortTitle": "Meta\u0027s 1600\u002B Lang ASR",
-      "mediumTitle": "Meta AI Launches Omnilingual ASR",
-      "longTitle": "Meta AI Releases Open-Source Omnilingual ASR for Over 1600 Languages",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta AI has introduced Omnilingual ASR,",
-            "an open-source suite of multilingual",
-            "speech recognition models supporting",
-            "over 1,600 languages.",
-            "This initiative aims to create a single",
-            "ASR system capable of understanding many",
-            "languages, including those previously",
-            "lacking functional models.",
-            "The system is engineered to handle a",
-            "remarkably large linguistic dataset,",
-            "encompassing languages that have",
-            "historically been underserved or",
-            "entirely absent from ASR development.",
-            "Furthermore, the suite is designed to be",
-            "extensible, allowing for the",
-            "incorporation of new, previously unseen",
-            "languages with minimal data",
-            "requirements."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T10:06:04.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/11/meta-ai-releases-omnilingual-asr-a-suite-of-open-source-multilingual-speech-recognition-models-for-1600-languages/"
-    },
-    {
-      "id": "234",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Bixby AI TV",
-      "mediumTitle": "Samsung Bixby Gets Generative AI",
-      "longTitle": "Samsung\u0027s 2025 TVs Feature Vision AI Companion with Generative AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Samsung is introducing a significant",
-            "upgrade to its Bixby virtual assistant,",
-            "integrating generative AI capabilities",
-            "into its 2025 television lineup.",
-            "The core functionality revolves around",
-            "the ability to ask questions not only",
-            "about the content currently being",
-            "displayed on the screen but also about",
-            "broader topics beyond the immediate",
-            "visual context.",
-            "This new feature, dubbed \u0027Vision AI",
-            "Companion,\u0027 allows users to engage in",
-            "more natural, conversational",
-            "interactions with their TVs.",
-            "This generative AI-powered Bixby",
-            "represents a substantial evolution from",
-            "previous iterations, with the key",
-            "differentiator being the incorporation",
-            "of generative AI."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T08:37:26.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/818355/samsung-tvs-bixby-generative-ai-conversational"
     }
   ]
 }
