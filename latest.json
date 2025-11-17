@@ -97,7 +97,7 @@
         }
       ],
       "publishedAt": "2025-11-16T06:00:00.000Z",
-      "ranking": 6.6446597103025855,
+      "ranking": 6.200283912485869,
       "articleUrl": "https://venturebeat.com/security/human-centric-iam-is-failing-agentic-ai-requires-a-new-identity-control"
     },
     {
@@ -130,7 +130,7 @@
         }
       ],
       "publishedAt": "2025-11-16T03:53:25.000Z",
-      "ranking": 6.556970016665873,
+      "ranking": 6.083320250395117,
       "articleUrl": "https://www.marktechpost.com/2025/11/15/cerebras-releases-minimax-m2-reap-162b-a10b-a-memory-efficient-version-of-minimax-m2-for-long-context-coding-agents/"
     },
     {
@@ -167,7 +167,7 @@
         }
       ],
       "publishedAt": "2025-11-15T18:13:00.000Z",
-      "ranking": 3.9650603193069704,
+      "ranking": 3.3571819792072968,
       "articleUrl": "https://www.marktechpost.com/2025/11/15/mbzuai-researchers-introduce-pan-a-general-world-model-for-interactable-long-horizon-simulation/"
     },
     {
@@ -204,7 +204,7 @@
         }
       ],
       "publishedAt": "2025-11-15T00:00:00.000Z",
-      "ranking": 2.0264635340738604,
+      "ranking": 1.1658153498210417,
       "articleUrl": "https://venturebeat.com/ai/googles-new-ai-training-method-helps-small-models-tackle-complex-reasoning"
     },
     {
@@ -979,42 +979,6 @@
       "articleUrl": "https://venturebeat.com/ai/weibos-new-open-source-ai-model-vibethinker-1-5b-outperforms-deepseek-r1-on"
     },
     {
-      "id": "250",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "GPT-5.1 Released",
-      "mediumTitle": "OpenAI Launches GPT-5.1 Upgrade",
-      "longTitle": "OpenAI Enhances ChatGPT with GPT-5.1 Release",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has announced the release of",
-            "GPT-5.1, an upgrade to its flagship",
-            "model that was initially launched in",
-            "August.",
-            "The company describes GPT-5.1 as an",
-            "enhancement that aims to make ChatGPT",
-            "\u0022smarter and more enjoyable to talk to.\u0022",
-            "This new iteration introduces two",
-            "distinct models: GPT-5.1 Instant and",
-            "GPT-5.1 Thinking.",
-            "GPT-5.1 Instant is characterized by its",
-            "\u0022warmer\u0022 demeanor, increased",
-            "intelligence, and improved ability to",
-            "follow user instructions compared to its",
-            "predecessor.",
-            "The core of the update appears to be a",
-            "refinement of the model\u0027s conversational",
-            "abilities and its capacity to understand",
-            "and execute user prompts."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-12T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets"
-    },
-    {
       "id": "246",
       "topic": "Dev Tools",
       "source": "VentureBeat AI",
@@ -1050,6 +1014,42 @@
       "publishedAt": "2025-11-12T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/how-deductive-ai-saved-doordash-1-000-engineering-hours-by-automating"
+    },
+    {
+      "id": "250",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "GPT-5.1 Released",
+      "mediumTitle": "OpenAI Launches GPT-5.1 Upgrade",
+      "longTitle": "OpenAI Enhances ChatGPT with GPT-5.1 Release",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has announced the release of",
+            "GPT-5.1, an upgrade to its flagship",
+            "model that was initially launched in",
+            "August.",
+            "The company describes GPT-5.1 as an",
+            "enhancement that aims to make ChatGPT",
+            "\u0022smarter and more enjoyable to talk to.\u0022",
+            "This new iteration introduces two",
+            "distinct models: GPT-5.1 Instant and",
+            "GPT-5.1 Thinking.",
+            "GPT-5.1 Instant is characterized by its",
+            "\u0022warmer\u0022 demeanor, increased",
+            "intelligence, and improved ability to",
+            "follow user instructions compared to its",
+            "predecessor.",
+            "The core of the update appears to be a",
+            "refinement of the model\u0027s conversational",
+            "abilities and its capacity to understand",
+            "and execute user prompts."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-12T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets"
     },
     {
       "id": "247",
@@ -1400,6 +1400,40 @@
       "articleUrl": "https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health"
     },
     {
+      "id": "237",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Voice Market",
+      "mediumTitle": "ElevenLabs Launches Iconic Voice Marketplace",
+      "longTitle": "ElevenLabs\u0027 New Marketplace for Licensed AI Celebrity Voices",
+      "paragraphs": [
+        {
+          "Lines": [
+            "ElevenLabs, an AI audio startup, has",
+            "launched a new online marketplace called",
+            "the Iconic Voice Marketplace.",
+            "The company emphasizes that this",
+            "initiative addresses ethical concerns",
+            "surrounding the use of AI-generated",
+            "celebrity voices by adopting a",
+            "\u0027consent-based, performer-first",
+            "approach\u0027.",
+            "This approach seeks to ensure that the",
+            "individuals whose voices are replicated",
+            "have given their explicit consent and",
+            "are compensated for their participation.",
+            "This platform allows companies to",
+            "license AI-replicated voices of famous",
+            "individuals for use in their content and",
+            "advertisements."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-11T13:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio"
+    },
+    {
       "id": "236",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -1434,40 +1468,6 @@
       "publishedAt": "2025-11-11T13:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update"
-    },
-    {
-      "id": "237",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Voice Market",
-      "mediumTitle": "ElevenLabs Launches Iconic Voice Marketplace",
-      "longTitle": "ElevenLabs\u0027 New Marketplace for Licensed AI Celebrity Voices",
-      "paragraphs": [
-        {
-          "Lines": [
-            "ElevenLabs, an AI audio startup, has",
-            "launched a new online marketplace called",
-            "the Iconic Voice Marketplace.",
-            "The company emphasizes that this",
-            "initiative addresses ethical concerns",
-            "surrounding the use of AI-generated",
-            "celebrity voices by adopting a",
-            "\u0027consent-based, performer-first",
-            "approach\u0027.",
-            "This approach seeks to ensure that the",
-            "individuals whose voices are replicated",
-            "have given their explicit consent and",
-            "are compensated for their participation.",
-            "This platform allows companies to",
-            "license AI-replicated voices of famous",
-            "individuals for use in their content and",
-            "advertisements."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T13:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio"
     },
     {
       "id": "232",
@@ -1539,40 +1539,6 @@
       "publishedAt": "2025-11-11T08:37:26.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/818355/samsung-tvs-bixby-generative-ai-conversational"
-    },
-    {
-      "id": "233",
-      "topic": "Neural Nets",
-      "source": "Marktechpost AI",
-      "shortTitle": "JAX DL Tutorial",
-      "mediumTitle": "Advanced Neural Networks with JAX",
-      "longTitle": "Building Advanced Neural Networks with JAX, Flax, and Optax",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This tutorial demonstrates coding for",
-            "building and training advanced neural",
-            "networks using JAX, Flax, and Optax,",
-            "focusing on an efficient and modular",
-            "approach.",
-            "By integrating residual connections and",
-            "self-attention with adaptive",
-            "optimization, the tutorial showcases how",
-            "to build state-of-the-art neural",
-            "networks that can achieve superior",
-            "performance on challenging machine",
-            "learning problems.",
-            "Self-attention mechanisms are included",
-            "to empower the model to weigh the",
-            "importance of different input data",
-            "parts, leading to more expressive",
-            "feature learning."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T08:16:45.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/10/a-coding-implementation-to-build-and-train-advanced-architectures-with-residual-connections-self-attention-and-adaptive-optimization-using-jax-flax-and-optax/"
     }
   ]
 }
