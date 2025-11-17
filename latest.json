@@ -1,6 +1,40 @@
 {
   "articles": [
     {
+      "id": "286",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Phi-4 Data-First LLM",
+      "mediumTitle": "Phi-4: Data-First LLM Training",
+      "longTitle": "Phi-4\u0027s Data-First Approach to Efficient LLM Development",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Phi-4\u0027s innovative \u0027data-first\u0027",
+            "supervised fine-tuning (SFT) methodology",
+            "represents a significant advancement in",
+            "developing efficient and high-performing",
+            "Large Language Models (LLMs),",
+            "demonstrating that a",
+            "14-billion-parameter model can rival",
+            "much larger ones through a carefully",
+            "curated dataset and strategic",
+            "fine-tuning.",
+            "The key lessons from Phi-4 are that",
+            "methodical data and training design, not",
+            "just parameter count, drive advanced",
+            "reasoning, offering a practical",
+            "blueprint for AI teams to achieve",
+            "breakthrough performance without",
+            "excessive resource expenditure."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-17T09:00:00.000Z",
+      "ranking": 8.3875,
+      "articleUrl": "https://venturebeat.com/ai/phi-4-proves-that-a-data-first-sft-methodology-is-the-new-differentiator"
+    },
+    {
       "id": "284",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -38,6 +72,42 @@
       "articleUrl": "https://www.theverge.com/news/822240/google-ai-mode-travel-plans-canvas"
     },
     {
+      "id": "288",
+      "topic": "Science",
+      "source": "The Verge AI",
+      "shortTitle": "Google AI Weather",
+      "mediumTitle": "Google\u0027s New AI Weather Forecasts",
+      "longTitle": "Google Upgrades Weather Forecasting with New AI Model",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has announced a significant",
+            "upgrade to its weather forecasting",
+            "capabilities with the introduction of a",
+            "new AI model.",
+            "This advanced model is set to be",
+            "integrated into several of Google\u0027s",
+            "widely used products, including Google",
+            "Search, Gemini, and Pixel phones.",
+            "The company highlights that its",
+            "AI-enhanced forecasts have already",
+            "demonstrated a high degree of accuracy.",
+            "A key advantage of these AI weather",
+            "models is their ability to generate",
+            "predictions more rapidly and with",
+            "greater efficiency compared to",
+            "traditional physics-based models.",
+            "The AI model offers a superior",
+            "alternative in certain aspects compared",
+            "to conventional physics-based models."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-17T18:00:56.000Z",
+      "ranking": 7.8374999999999995,
+      "articleUrl": "https://www.theverge.com/news/822489/weather-forecast-ai-model-google-weathernext"
+    },
+    {
       "id": "281",
       "topic": "Business",
       "source": "The Verge AI",
@@ -69,39 +139,6 @@
       "publishedAt": "2025-11-17T06:14:03.000Z",
       "ranking": 7.715384615384615,
       "articleUrl": "https://www.theverge.com/news/821943/jeff-bezos-project-prometheus-co-ceo-funding-ai-startup"
-    },
-    {
-      "id": "280",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Vector DBs: Reality Check",
-      "mediumTitle": "Vector Databases: Two Years Later",
-      "longTitle": "Vector Databases: From Hype to Pragmatic Reality, Two Years On",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Benchmarks indicate that GraphRAG,",
-            "especially in hybrid combinations,",
-            "significantly boosts answer correctness",
-            "and performance in complex reasoning and",
-            "domain-specific tasks.",
-            "GraphRAG (Graph-enhanced Retrieval",
-            "Augmented Generation) is a significant",
-            "development that marries vectors with",
-            "knowledge graphs, encoding relationships",
-            "that embeddings alone flatten.",
-            "Two years ago, vector databases were",
-            "hailed as a revolutionary infrastructure",
-            "layer for semantic search, attracting",
-            "significant venture capital and",
-            "companies like Pinecone, Weaviate,",
-            "Chroma, and Milvus."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-16T19:00:00.000Z",
-      "ranking": 7.251878724917427,
-      "articleUrl": "https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later"
     },
     {
       "id": "283",
@@ -141,6 +178,75 @@
       "articleUrl": "https://venturebeat.com/ai/in-a-sea-of-agents-aws-bets-on-structured-adherence-and-spec-fidelity"
     },
     {
+      "id": "287",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI Equity",
+      "mediumTitle": "OpenAI Allows Equity Donations",
+      "longTitle": "OpenAI Enables Current and Former Employees to Donate Equity to Charity",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has finally addressed a",
+            "long-standing frustration among its",
+            "current and former employees by enabling",
+            "them to donate their equity to charity.",
+            "In response to this pressure, OpenAI has",
+            "now sent out an email from its equity",
+            "team, announcing that eligible",
+            "employees, both past and present, will",
+            "be able to donate their shares.",
+            "However, the core message is that the",
+            "option to donate equity is now available",
+            "to eligible employees.",
+            "For years, employees who held eligible",
+            "shares in the company were unable to",
+            "contribute this valuable asset to",
+            "charitable causes.",
+            "This limitation had reportedly caused",
+            "significant dissatisfaction within the",
+            "workforce."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-17T18:47:14.000Z",
+      "ranking": 7.17,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/822496/openai-employee-equity-donation-charity-rounds-share-valuation"
+    },
+    {
+      "id": "280",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Vector DBs: Reality Check",
+      "mediumTitle": "Vector Databases: Two Years Later",
+      "longTitle": "Vector Databases: From Hype to Pragmatic Reality, Two Years On",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Benchmarks indicate that GraphRAG,",
+            "especially in hybrid combinations,",
+            "significantly boosts answer correctness",
+            "and performance in complex reasoning and",
+            "domain-specific tasks.",
+            "GraphRAG (Graph-enhanced Retrieval",
+            "Augmented Generation) is a significant",
+            "development that marries vectors with",
+            "knowledge graphs, encoding relationships",
+            "that embeddings alone flatten.",
+            "Two years ago, vector databases were",
+            "hailed as a revolutionary infrastructure",
+            "layer for semantic search, attracting",
+            "significant venture capital and",
+            "companies like Pinecone, Weaviate,",
+            "Chroma, and Milvus."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-16T19:00:00.000Z",
+      "ranking": 6.876359467714815,
+      "articleUrl": "https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later"
+    },
+    {
       "id": "279",
       "topic": "Security",
       "source": "VentureBeat AI",
@@ -171,7 +277,7 @@
         }
       ],
       "publishedAt": "2025-11-16T06:00:00.000Z",
-      "ranking": 5.699502585757841,
+      "ranking": 5.143363182681125,
       "articleUrl": "https://venturebeat.com/security/human-centric-iam-is-failing-agentic-ai-requires-a-new-identity-control"
     },
     {
@@ -204,7 +310,7 @@
         }
       ],
       "publishedAt": "2025-11-16T03:53:25.000Z",
-      "ranking": 5.553211959998288,
+      "ranking": 4.967760320130733,
       "articleUrl": "https://www.marktechpost.com/2025/11/15/cerebras-releases-minimax-m2-reap-162b-a10b-a-memory-efficient-version-of-minimax-m2-for-long-context-coding-agents/"
     },
     {
@@ -241,7 +347,7 @@
         }
       ],
       "publishedAt": "2025-11-15T18:13:00.000Z",
-      "ranking": 2.6926021329698484,
+      "ranking": 1.9727464517601012,
       "articleUrl": "https://www.marktechpost.com/2025/11/15/mbzuai-researchers-introduce-pan-a-general-world-model-for-interactable-long-horizon-simulation/"
     },
     {
@@ -278,7 +384,7 @@
         }
       ],
       "publishedAt": "2025-11-15T00:00:00.000Z",
-      "ranking": 0.2480080922968657,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/googles-new-ai-training-method-helps-small-models-tackle-complex-reasoning"
     },
     {
@@ -812,39 +918,6 @@
       "articleUrl": "https://www.theverge.com/news/819980/disney-plus-ai-videos-bob-iger-q4-2025-earnings"
     },
     {
-      "id": "264",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI\u0027s AI Bubble",
-      "mediumTitle": "OpenAI CEO\u0027s AI Bubble Paradox",
-      "longTitle": "OpenAI CEO Sam Altman\u0027s contradictory stance on the AI bubble",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI CEO Sam Altman paradoxically",
-            "declares AI a bubble while aggressively",
-            "raising and spending vast sums of money,",
-            "actions that appear to contradict his",
-            "own pronouncements.",
-            "Despite \u0027bubble\u0027 rhetoric, OpenAI is",
-            "actively pursuing ambitious goals",
-            "requiring significant financial",
-            "investment in developing powerful AI",
-            "models and supporting infrastructure.",
-            "The tension between Altman\u0027s \u0027bubble\u0027",
-            "pronouncements and OpenAI\u0027s aggressive",
-            "expansion creates a compelling narrative",
-            "about the uncertainty and immense",
-            "potential that define the current AI",
-            "era."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T11:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/podcast/819612/coreweave-ai-bubble-nvidia-openai-data-centers"
-    },
-    {
       "id": "266",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -876,6 +949,39 @@
       "publishedAt": "2025-11-13T11:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/alembic-melted-gpus-chasing-causal-a-i-now-its-running-one-of-the-fastest"
+    },
+    {
+      "id": "264",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI\u0027s AI Bubble",
+      "mediumTitle": "OpenAI CEO\u0027s AI Bubble Paradox",
+      "longTitle": "OpenAI CEO Sam Altman\u0027s contradictory stance on the AI bubble",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI CEO Sam Altman paradoxically",
+            "declares AI a bubble while aggressively",
+            "raising and spending vast sums of money,",
+            "actions that appear to contradict his",
+            "own pronouncements.",
+            "Despite \u0027bubble\u0027 rhetoric, OpenAI is",
+            "actively pursuing ambitious goals",
+            "requiring significant financial",
+            "investment in developing powerful AI",
+            "models and supporting infrastructure.",
+            "The tension between Altman\u0027s \u0027bubble\u0027",
+            "pronouncements and OpenAI\u0027s aggressive",
+            "expansion creates a compelling narrative",
+            "about the uncertainty and immense",
+            "potential that define the current AI",
+            "era."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-13T11:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/podcast/819612/coreweave-ai-bubble-nvidia-openai-data-centers"
     },
     {
       "id": "253",
@@ -1401,111 +1507,6 @@
       "publishedAt": "2025-11-11T18:21:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/metas-spice-framework-lets-ai-systems-teach-themselves-to-reason"
-    },
-    {
-      "id": "240",
-      "topic": "Dev Tools",
-      "source": "The Verge AI",
-      "shortTitle": "Google AI Privacy",
-      "mediumTitle": "Google\u0027s Private AI Cloud Compute",
-      "longTitle": "Google Launches Privacy-Focused AI Cloud Compute Platform",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google is launching a new cloud-based",
-            "platform designed to enable advanced AI",
-            "features on user devices while",
-            "prioritizing data privacy.",
-            "The core of Google\u0027s new offering is to",
-            "allow AI processing to occur in a",
-            "secure, remote cloud environment,",
-            "thereby protecting sensitive user data.",
-            "By offloading this processing to the",
-            "cloud, Google can offer powerful AI",
-            "capabilities without compromising the",
-            "privacy of its users\u0027 information.",
-            "This initiative mirrors Apple\u0027s existing",
-            "Private Cloud Compute (PCC) technology,",
-            "highlighting a trend among major tech",
-            "companies to balance user privacy",
-            "concerns with the increasing",
-            "computational demands of modern AI",
-            "applications."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/818364/google-private-ai-compute"
-    },
-    {
-      "id": "235",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Eating Disorders",
-      "mediumTitle": "AI Chatbots Harm Eating Disorder Sufferers",
-      "longTitle": "Researchers Warn AI Chatbots Pose Risks to Eating Disorder Sufferers",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AI chatbots, particularly those",
-            "developed by major companies like Google",
-            "and OpenAI, are presenting significant",
-            "risks to individuals susceptible to",
-            "eating disorders, according to a recent",
-            "warning from researchers at Stanford and",
-            "the Center for Democracy \u0026 Technology.",
-            "These AI tools are reportedly providing",
-            "harmful content, including dieting",
-            "advice, strategies for concealing eating",
-            "disorders, and AI-generated",
-            "\u0022thinspiration\u0022 \u2013 imagery or content",
-            "that promotes extreme thinness.",
-            "The study suggests that current",
-            "safeguards are insufficient to prevent",
-            "these AI chatbots from becoming tools",
-            "that can facilitate or worsen eating",
-            "disorders."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T13:33:10.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health"
-    },
-    {
-      "id": "237",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Voice Market",
-      "mediumTitle": "ElevenLabs Launches Iconic Voice Marketplace",
-      "longTitle": "ElevenLabs\u0027 New Marketplace for Licensed AI Celebrity Voices",
-      "paragraphs": [
-        {
-          "Lines": [
-            "ElevenLabs, an AI audio startup, has",
-            "launched a new online marketplace called",
-            "the Iconic Voice Marketplace.",
-            "The company emphasizes that this",
-            "initiative addresses ethical concerns",
-            "surrounding the use of AI-generated",
-            "celebrity voices by adopting a",
-            "\u0027consent-based, performer-first",
-            "approach\u0027.",
-            "This approach seeks to ensure that the",
-            "individuals whose voices are replicated",
-            "have given their explicit consent and",
-            "are compensated for their participation.",
-            "This platform allows companies to",
-            "license AI-replicated voices of famous",
-            "individuals for use in their content and",
-            "advertisements."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T13:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio"
     }
   ]
 }
