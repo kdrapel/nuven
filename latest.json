@@ -178,6 +178,41 @@
       "articleUrl": "https://venturebeat.com/ai/in-a-sea-of-agents-aws-bets-on-structured-adherence-and-spec-fidelity"
     },
     {
+      "id": "291",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "AI Weather Forecast",
+      "mediumTitle": "Google DeepMind\u0027s WeatherNext 2",
+      "longTitle": "Google DeepMind Launches Advanced AI Weather Forecasting System",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google DeepMind has unveiled WeatherNext",
+            "2, an advanced AI-powered system for",
+            "medium-range global weather forecasting.",
+            "The core innovation behind WeatherNext 2",
+            "is its new Functional Generative Network",
+            "(FGN) architecture.",
+            "Specifically, the system achieves an 8x",
+            "speed improvement in generating these",
+            "forecasts.",
+            "This architecture, combined with a large",
+            "ensemble of forecasts, enables",
+            "WeatherNext 2 to produce probabilistic",
+            "weather forecasts significantly faster",
+            "than previous methods.",
+            "The key advancements include the",
+            "development of the FGN architecture and",
+            "the substantial speed enhancement for",
+            "probabilistic forecasting."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-17T21:16:46.000Z",
+      "ranking": 7.199999999999999,
+      "articleUrl": "https://www.marktechpost.com/2025/11/17/google-deepminds-weathernext-2-uses-functional-generative-networks-for-8x-faster-probabilistic-weather-forecasts/"
+    },
+    {
       "id": "287",
       "topic": "Business",
       "source": "The Verge AI",
@@ -243,7 +278,7 @@
         }
       ],
       "publishedAt": "2025-11-16T19:00:00.000Z",
-      "ranking": 6.876359467714815,
+      "ranking": 6.445701196786356,
       "articleUrl": "https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later"
     },
     {
@@ -277,7 +312,7 @@
         }
       ],
       "publishedAt": "2025-11-16T06:00:00.000Z",
-      "ranking": 5.143363182681125,
+      "ranking": 4.532263951197947,
       "articleUrl": "https://venturebeat.com/security/human-centric-iam-is-failing-agentic-ai-requires-a-new-identity-control"
     },
     {
@@ -310,7 +345,7 @@
         }
       ],
       "publishedAt": "2025-11-16T03:53:25.000Z",
-      "ranking": 4.967760320130733,
+      "ranking": 4.327377987656609,
       "articleUrl": "https://www.marktechpost.com/2025/11/15/cerebras-releases-minimax-m2-reap-162b-a10b-a-memory-efficient-version-of-minimax-m2-for-long-context-coding-agents/"
     },
     {
@@ -347,7 +382,7 @@
         }
       ],
       "publishedAt": "2025-11-15T18:13:00.000Z",
-      "ranking": 1.9727464517601012,
+      "ranking": 1.198093682391045,
       "articleUrl": "https://www.marktechpost.com/2025/11/15/mbzuai-researchers-introduce-pan-a-general-world-model-for-interactable-long-horizon-simulation/"
     },
     {
@@ -918,39 +953,6 @@
       "articleUrl": "https://www.theverge.com/news/819980/disney-plus-ai-videos-bob-iger-q4-2025-earnings"
     },
     {
-      "id": "266",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Alembic AI Funding",
-      "mediumTitle": "Alembic Secures $145M for Causal AI",
-      "longTitle": "Alembic Technologies Raises $145M, Focuses on Causal AI and Private Infrastructure",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Alembic Technologies has secured $145",
-            "million in Series B and growth funding,",
-            "valuing the company at approximately",
-            "$645 million.",
-            "Alembic\u0027s core innovation lies in its AI",
-            "systems that identify cause-and-effect",
-            "relationships, rather than just",
-            "correlations, enabling businesses to",
-            "make more informed, multi-million dollar",
-            "decisions.",
-            "This significant investment underscores",
-            "a strategic shift in enterprise AI,",
-            "moving away from the pursuit of",
-            "ever-larger language models towards",
-            "leveraging proprietary data and causal",
-            "reasoning."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T11:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/alembic-melted-gpus-chasing-causal-a-i-now-its-running-one-of-the-fastest"
-    },
-    {
       "id": "264",
       "topic": "Business",
       "source": "The Verge AI",
@@ -982,6 +984,39 @@
       "publishedAt": "2025-11-13T11:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/podcast/819612/coreweave-ai-bubble-nvidia-openai-data-centers"
+    },
+    {
+      "id": "266",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Alembic AI Funding",
+      "mediumTitle": "Alembic Secures $145M for Causal AI",
+      "longTitle": "Alembic Technologies Raises $145M, Focuses on Causal AI and Private Infrastructure",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Alembic Technologies has secured $145",
+            "million in Series B and growth funding,",
+            "valuing the company at approximately",
+            "$645 million.",
+            "Alembic\u0027s core innovation lies in its AI",
+            "systems that identify cause-and-effect",
+            "relationships, rather than just",
+            "correlations, enabling businesses to",
+            "make more informed, multi-million dollar",
+            "decisions.",
+            "This significant investment underscores",
+            "a strategic shift in enterprise AI,",
+            "moving away from the pursuit of",
+            "ever-larger language models towards",
+            "leveraging proprietary data and causal",
+            "reasoning."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-13T11:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/alembic-melted-gpus-chasing-causal-a-i-now-its-running-one-of-the-fastest"
     },
     {
       "id": "253",
@@ -1370,143 +1405,6 @@
       "publishedAt": "2025-11-12T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/openai-reboots-chatgpt-experience-with-gpt-5-1-after-mixed-reviews-of-gpt-5"
-    },
-    {
-      "id": "242",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Baidu ERNIE AI",
-      "mediumTitle": "Baidu ERNIE-4.5-VL-28B-A3B-Thinking",
-      "longTitle": "Baidu Launches ERNIE-4.5-VL-28B-A3B-Thinking AI Model",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Baidu has launched",
-            "ERNIE-4.5-VL-28B-A3B-Thinking, an",
-            "open-source multimodal AI model that the",
-            "company claims surpasses Google\u0027s Gemini",
-            "2.5 Pro and OpenAI\u0027s GPT-5-High on",
-            "several vision-related benchmarks.",
-            "This new model is notable for its",
-            "efficiency, utilizing a",
-            "Mixture-of-Experts (MoE) architecture",
-            "that activates only 3 billion parameters",
-            "during operation while having a total of",
-            "28 billion parameters.",
-            "A key innovation is the \u0027Thinking with",
-            "Images\u0027 capability, which enables the AI",
-            "to dynamically zoom in and out of",
-            "images, mimicking human visual",
-            "problem-solving."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-12T01:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/baidu-just-dropped-an-open-source-multimodal-ai-that-it-claims-beats-gpt-5"
-    },
-    {
-      "id": "241",
-      "topic": "Speech",
-      "source": "Marktechpost AI",
-      "shortTitle": "Maya1 TTS",
-      "mediumTitle": "Maya1: Open-Source Expressive TTS",
-      "longTitle": "Maya1: New Open-Source Controllable Text-to-Speech Model",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Maya1, a new open-source 3 billion",
-            "parameter text-to-speech (TTS) model,",
-            "has been released by Maya Research.",
-            "This model is designed to generate",
-            "controllable and expressive speech from",
-            "text input, augmented by a short",
-            "descriptive prompt.",
-            "A key feature of Maya1 is its ability to",
-            "operate in real-time on a single GPU,",
-            "making advanced TTS capabilities more",
-            "accessible.",
-            "The mention of \u0027controllable\u0027 speech",
-            "implies that users might have the",
-            "ability to influence aspects like tone,",
-            "emotion, or speaking style, which is a",
-            "crucial element for truly expressive",
-            "TTS."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T22:50:30.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/11/maya1-a-new-open-source-3b-voice-model-for-expressive-text-to-speech-on-a-single-gpu/"
-    },
-    {
-      "id": "238",
-      "topic": "Dev Tools",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI in Dev",
-      "mediumTitle": "AI Reshaping Software Development",
-      "longTitle": "AI is transforming software development roles and workflows by 2026",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The report, which polled 501 developers",
-            "and 19 project managers, found that",
-            "nearly two-thirds (65%) of senior",
-            "developers anticipate their roles will",
-            "be redefined by AI by 2026.",
-            "Crucially, only 9% trust AI code enough",
-            "to use it without human oversight.",
-            "This transformation involves a move away",
-            "from routine coding tasks towards more",
-            "emphasis on design, strategy, and AI",
-            "fluency.",
-            "A survey by BairesDev, the \u0022Dev",
-            "Barometer\u0022 report, indicates a",
-            "significant shift in software",
-            "development driven by artificial",
-            "intelligence."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T20:43:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/only-9-of-developers-think-ai-code-can-be-used-without-human-oversight"
-    },
-    {
-      "id": "239",
-      "topic": "Learning",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Learns Itself",
-      "mediumTitle": "SPICE: AI Self-Improvement Framework",
-      "longTitle": "SPICE: Novel AI Framework for Self-Taught Reasoning Skills",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta FAIR and the National University of",
-            "Singapore have introduced SPICE, a novel",
-            "reinforcement learning framework",
-            "enabling AI systems to teach themselves",
-            "reasoning skills through self-play.",
-            "SPICE employs a single model acting as",
-            "both a \u0027Challenger\u0027 that generates",
-            "problems from a large corpus and a",
-            "\u0027Reasoner\u0027 that solves them without",
-            "direct source access.",
-            "SPICE represents a paradigm shift from",
-            "closed-loop self-play to open-ended",
-            "improvement through interaction with",
-            "verifiable knowledge in document",
-            "corpora.",
-            "By grounding tasks in a vast corpus,",
-            "SPICE prevents hallucinations and",
-            "ensures answers are based on real-world",
-            "content."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-11T18:21:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/metas-spice-framework-lets-ai-systems-teach-themselves-to-reason"
     }
   ]
 }
