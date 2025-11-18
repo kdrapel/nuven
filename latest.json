@@ -1,41 +1,39 @@
 {
   "articles": [
     {
-      "id": "284",
+      "id": "294",
       "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Travel Planner",
-      "mediumTitle": "Google AI Creates Travel Itineraries",
-      "longTitle": "Google\u0027s AI Mode Introduces \u0027Create with Canvas\u0027 for Travel Planning",
+      "source": "VentureBeat AI",
+      "shortTitle": "Blue J\u0027s LLM Pivot",
+      "mediumTitle": "Blue J\u0027s AI Pivot to LLMs",
+      "longTitle": "Blue J\u0027s Successful Pivot from AI to LLMs for Tax Law",
       "paragraphs": [
         {
           "Lines": [
-            "Google\u0027s AI Mode has introduced a new",
-            "feature called \u0027Create with Canvas\u0027 that",
-            "allows users to visualize their travel",
-            "plans.",
-            "This itinerary will include essential",
-            "travel data such as flight and hotel",
-            "information.",
-            "Once selected, the AI will generate an",
-            "itinerary in a side panel.",
-            "By describing their desired trip within",
-            "Google Search, users can activate this",
-            "option.",
-            "The generated document will present",
-            "potential travel plans, offering",
-            "suggestions that are tailored to the",
-            "user\u0027s input and preferences.",
-            "This new functionality aims to simplify",
-            "the travel planning process by providing",
-            "a visual and data-rich overview of",
-            "potential trips."
+            "The legal tech startup Blue J, founded",
+            "by tax law professor Benjamin Alarie,",
+            "successfully pivoted its entire business",
+            "model from a decade-old AI approach to",
+            "one based on large language models",
+            "(LLMs) like ChatGPT.",
+            "This strategic shift, made in late 2022,",
+            "has led to a dramatic increase in the",
+            "company\u0027s valuation to over $300 million",
+            "and a significant surge in revenue,",
+            "serving over 3,500 organizations.",
+            "The company\u0027s willingness to abandon",
+            "years of proprietary technology for an",
+            "unproven foundation, and its success in",
+            "minimizing AI hallucinations through",
+            "careful engineering and human oversight,",
+            "offers valuable lessons for other",
+            "industries."
           ]
         }
       ],
-      "publishedAt": "2025-11-17T13:07:57.000Z",
-      "ranking": 8.357142857142856,
-      "articleUrl": "https://www.theverge.com/news/822240/google-ai-mode-travel-plans-canvas"
+      "publishedAt": "2025-11-18T15:00:00.000Z",
+      "ranking": 8.313157894736843,
+      "articleUrl": "https://venturebeat.com/ai/how-ai-tax-startup-blue-j-torched-its-entire-business-model-for-chatgpt-and"
     },
     {
       "id": "288",
@@ -72,6 +70,75 @@
       "publishedAt": "2025-11-17T18:00:56.000Z",
       "ranking": 7.8374999999999995,
       "articleUrl": "https://www.theverge.com/news/822489/weather-forecast-ai-model-google-weathernext"
+    },
+    {
+      "id": "295",
+      "topic": "AI Ops",
+      "source": "The Verge AI",
+      "shortTitle": "Cloudflare Outage",
+      "mediumTitle": "Cloudflare Outage Disrupts Websites",
+      "longTitle": "Widespread Internet Disruptions Caused by Cloudflare Outage",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A significant outage impacting",
+            "Cloudflare, a major provider of internet",
+            "infrastructure services, has led to",
+            "widespread disruptions across numerous",
+            "websites and online services.",
+            "Cloudflare, known for its role in DDoS",
+            "protection and content delivery networks",
+            "(CDNs), is actively working to resolve",
+            "the issue that has rendered many sites",
+            "inaccessible.",
+            "Users attempting to access popular",
+            "platforms such as X (formerly Twitter)",
+            "and ChatGPT have reported encountering",
+            "error messages.",
+            "As Cloudflare works to restore services,",
+            "users and businesses are experiencing",
+            "significant downtime, underscoring the",
+            "importance of robust and resilient",
+            "internet infrastructure."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T09:29:21.000Z",
+      "ranking": 7.65,
+      "articleUrl": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector"
+    },
+    {
+      "id": "296",
+      "topic": "NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Copilot Frustrations",
+      "mediumTitle": "Windows Copilot: AI\u0027s Incompetent Feel",
+      "longTitle": "Windows Copilot: User Experience Reveals AI Incompetence",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Joanna Stern\u0027s article in The Wall",
+            "Street Journal explores how interacting",
+            "with Microsoft\u0027s Copilot AI on new",
+            "Copilot\u002B PCs can make a computer feel",
+            "incompetent, despite Microsoft\u0027s vision",
+            "of seamless AI integration.",
+            "The author concludes that while an AI",
+            "future is coming, the current iteration",
+            "of Copilot has a long way to go before",
+            "truly making computers feel intelligent",
+            "and helpful.",
+            "The feeling of the computer being",
+            "\u0022incompetent\u0022 stems from its inability",
+            "to consistently and reliably perform",
+            "tasks as expected, forcing users to",
+            "compensate for its shortcomings."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T09:00:00.000Z",
+      "ranking": 7.589473684210525,
+      "articleUrl": "https://www.theverge.com/report/822443/microsoft-windows-copilot-vision-ai-assistant-pc-voice-controls-impressions"
     },
     {
       "id": "291",
@@ -145,6 +212,43 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/822496/openai-employee-equity-donation-charity-rounds-share-valuation"
     },
     {
+      "id": "284",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Travel Planner",
+      "mediumTitle": "Google AI Creates Travel Itineraries",
+      "longTitle": "Google\u0027s AI Mode Introduces \u0027Create with Canvas\u0027 for Travel Planning",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google\u0027s AI Mode has introduced a new",
+            "feature called \u0027Create with Canvas\u0027 that",
+            "allows users to visualize their travel",
+            "plans.",
+            "This itinerary will include essential",
+            "travel data such as flight and hotel",
+            "information.",
+            "Once selected, the AI will generate an",
+            "itinerary in a side panel.",
+            "By describing their desired trip within",
+            "Google Search, users can activate this",
+            "option.",
+            "The generated document will present",
+            "potential travel plans, offering",
+            "suggestions that are tailored to the",
+            "user\u0027s input and preferences.",
+            "This new functionality aims to simplify",
+            "the travel planning process by providing",
+            "a visual and data-rich overview of",
+            "potential trips."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-17T13:07:57.000Z",
+      "ranking": 7.099060585897131,
+      "articleUrl": "https://www.theverge.com/news/822240/google-ai-mode-travel-plans-canvas"
+    },
+    {
       "id": "286",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -175,7 +279,7 @@
         }
       ],
       "publishedAt": "2025-11-17T09:00:00.000Z",
-      "ranking": 7.119556851127896,
+      "ranking": 6.713503495324849,
       "articleUrl": "https://venturebeat.com/ai/phi-4-proves-that-a-data-first-sft-methodology-is-the-new-differentiator"
     },
     {
@@ -208,7 +312,7 @@
         }
       ],
       "publishedAt": "2025-11-17T06:14:03.000Z",
-      "ranking": 6.174626266923699,
+      "ranking": 5.729897261039856,
       "articleUrl": "https://www.theverge.com/news/821943/jeff-bezos-project-prometheus-co-ceo-funding-ai-startup"
     },
     {
@@ -245,7 +349,7 @@
         }
       ],
       "publishedAt": "2025-11-17T06:00:00.000Z",
-      "ranking": 5.650309002802189,
+      "ranking": 5.202305558758489,
       "articleUrl": "https://venturebeat.com/ai/in-a-sea-of-agents-aws-bets-on-structured-adherence-and-spec-fidelity"
     },
     {
@@ -278,7 +382,7 @@
         }
       ],
       "publishedAt": "2025-11-16T19:00:00.000Z",
-      "ranking": 5.417363317110555,
+      "ranking": 4.815542884215518,
       "articleUrl": "https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later"
     },
     {
@@ -312,7 +416,7 @@
         }
       ],
       "publishedAt": "2025-11-16T06:00:00.000Z",
-      "ranking": 3.1428647341512574,
+      "ranking": 2.3592605795150314,
       "articleUrl": "https://venturebeat.com/security/human-centric-iam-is-failing-agentic-ai-requires-a-new-identity-control"
     },
     {
@@ -345,7 +449,7 @@
         }
       ],
       "publishedAt": "2025-11-16T03:53:25.000Z",
-      "ranking": 2.879383453356012,
+      "ranking": 2.066278282256069,
       "articleUrl": "https://www.marktechpost.com/2025/11/15/cerebras-releases-minimax-m2-reap-162b-a10b-a-memory-efficient-version-of-minimax-m2-for-long-context-coding-agents/"
     },
     {
@@ -1194,42 +1298,6 @@
       "articleUrl": "https://venturebeat.com/ai/weibos-new-open-source-ai-model-vibethinker-1-5b-outperforms-deepseek-r1-on"
     },
     {
-      "id": "250",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "GPT-5.1 Released",
-      "mediumTitle": "OpenAI Launches GPT-5.1 Upgrade",
-      "longTitle": "OpenAI Enhances ChatGPT with GPT-5.1 Release",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has announced the release of",
-            "GPT-5.1, an upgrade to its flagship",
-            "model that was initially launched in",
-            "August.",
-            "The company describes GPT-5.1 as an",
-            "enhancement that aims to make ChatGPT",
-            "\u0022smarter and more enjoyable to talk to.\u0022",
-            "This new iteration introduces two",
-            "distinct models: GPT-5.1 Instant and",
-            "GPT-5.1 Thinking.",
-            "GPT-5.1 Instant is characterized by its",
-            "\u0022warmer\u0022 demeanor, increased",
-            "intelligence, and improved ability to",
-            "follow user instructions compared to its",
-            "predecessor.",
-            "The core of the update appears to be a",
-            "refinement of the model\u0027s conversational",
-            "abilities and its capacity to understand",
-            "and execute user prompts."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-12T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets"
-    },
-    {
       "id": "246",
       "topic": "Dev Tools",
       "source": "VentureBeat AI",
@@ -1267,6 +1335,42 @@
       "articleUrl": "https://venturebeat.com/ai/how-deductive-ai-saved-doordash-1-000-engineering-hours-by-automating"
     },
     {
+      "id": "250",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "GPT-5.1 Released",
+      "mediumTitle": "OpenAI Launches GPT-5.1 Upgrade",
+      "longTitle": "OpenAI Enhances ChatGPT with GPT-5.1 Release",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has announced the release of",
+            "GPT-5.1, an upgrade to its flagship",
+            "model that was initially launched in",
+            "August.",
+            "The company describes GPT-5.1 as an",
+            "enhancement that aims to make ChatGPT",
+            "\u0022smarter and more enjoyable to talk to.\u0022",
+            "This new iteration introduces two",
+            "distinct models: GPT-5.1 Instant and",
+            "GPT-5.1 Thinking.",
+            "GPT-5.1 Instant is characterized by its",
+            "\u0022warmer\u0022 demeanor, increased",
+            "intelligence, and improved ability to",
+            "follow user instructions compared to its",
+            "predecessor.",
+            "The core of the update appears to be a",
+            "refinement of the model\u0027s conversational",
+            "abilities and its capacity to understand",
+            "and execute user prompts."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-12T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets"
+    },
+    {
       "id": "247",
       "topic": "Hardware",
       "source": "The Verge AI",
@@ -1301,110 +1405,6 @@
       "publishedAt": "2025-11-12T13:17:06.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/819072/anthropic-50-billion-infrastructure-ai-data-center-investment"
-    },
-    {
-      "id": "243",
-      "topic": "Dev Tools",
-      "source": "Marktechpost AI",
-      "shortTitle": "PyGWalker Dashboards",
-      "mediumTitle": "Build Interactive Dashboards with PyGWalker",
-      "longTitle": "Tutorial: End-to-End Interactive Analytics Dashboards with PyGWalker",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This article on MarkTechPost offers a",
-            "tutorial on using PyGWalker to build",
-            "interactive analytics dashboards for",
-            "data exploration.",
-            "The tutorial\u0027s objective is to guide",
-            "users through constructing an end-to-end",
-            "interactive analytics dashboard.",
-            "The emphasis is on the \u0027end-to-end\u0027",
-            "nature, implying a complete workflow",
-            "from data preparation to dashboard",
-            "deployment.",
-            "This suggests the full article will",
-            "detail how PyGWalker\u0027s functionalities",
-            "enable users to go from raw data to an",
-            "interactive visualization tool.",
-            "The tutorial focuses on demonstrating",
-            "PyGWalker\u0027s capabilities by exploring a",
-            "generated e-commerce dataset."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-12T08:29:21.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/11/how-to-build-an-end-to-end-interactive-analytics-dashboard-using-pygwalker-features-for-insightful-data-exploration/"
-    },
-    {
-      "id": "244",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Baidu\u0027s ERNIE-4.5",
-      "mediumTitle": "Baidu ERNIE-4.5-VL-28B-A3B-Thinking",
-      "longTitle": "Baidu Releases ERNIE-4.5-VL-28B-A3B-Thinking for Multimodal Reasoning",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Baidu has introduced",
-            "ERNIE-4.5-VL-28B-A3B-Thinking, a new",
-            "addition to its ERNIE-4.5 family of",
-            "open-source models.",
-            "A key feature of",
-            "ERNIE-4.5-VL-28B-A3B-Thinking is its",
-            "ability to achieve large model-level",
-            "reasoning capabilities while operating",
-            "with a significantly smaller active",
-            "parameter budget, comparable to a 3B",
-            "class model.",
-            "This vision-language model is",
-            "specifically designed for multimodal",
-            "reasoning tasks involving documents,",
-            "charts, and videos."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-12T08:02:22.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/11/baidu-releases-ernie-4-5-vl-28b-a3b-thinking-an-open-source-and-compact-multimodal-reasoning-model-under-the-ernie-4-5-family/"
-    },
-    {
-      "id": "249",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "GPT-5.1 Update",
-      "mediumTitle": "OpenAI Releases GPT-5.1 with New Variants",
-      "longTitle": "OpenAI Enhances ChatGPT with GPT-5.1 Update and New Personalization Features",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has announced GPT-5.1, an upgrade",
-            "to GPT-5, introducing two new variants:",
-            "GPT-5.1 Instant and GPT-5.1 Thinking, to",
-            "improve intelligence and conversational",
-            "style.",
-            "GPT-5.1 Instant is the default model,",
-            "designed to be warmer, more intelligent,",
-            "and better at following instructions,",
-            "with adaptive reasoning for complex",
-            "queries.",
-            "GPT-5.1 Thinking is an advanced",
-            "reasoning model that dynamically",
-            "allocates power based on prompt",
-            "complexity, offering faster responses",
-            "for simple tasks and less jargon.",
-            "The release of GPT-5.1 follows criticism",
-            "of GPT-5\u0027s performance issues in math,",
-            "science, and writing, and",
-            "dissatisfaction with plans to sunset",
-            "older models."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-12T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/openai-reboots-chatgpt-experience-with-gpt-5-1-after-mixed-reviews-of-gpt-5"
     }
   ]
 }
