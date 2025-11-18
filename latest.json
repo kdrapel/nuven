@@ -108,76 +108,6 @@
       "articleUrl": "https://www.theverge.com/news/822489/weather-forecast-ai-model-google-weathernext"
     },
     {
-      "id": "281",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Bezos AI Startup",
-      "mediumTitle": "Bezos Leads AI Manufacturing Startup",
-      "longTitle": "Jeff Bezos to Co-CEO Project Prometheus AI Manufacturing Startup",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Jeff Bezos, Amazon\u0027s founder, is",
-            "reportedly stepping into a co-CEO role",
-            "at Project Prometheus, a new AI startup",
-            "he is partially funding.",
-            "Advancements in AI for manufacturing",
-            "have the potential to revolutionize",
-            "production efficiency and reduce costs.",
-            "Project Prometheus aims to develop AI",
-            "technologies specifically for enhancing",
-            "manufacturing processes across",
-            "industries like computing, automotive,",
-            "and aerospace.",
-            "Bezos\u0027s active leadership, beyond just",
-            "funding, signals a deep commitment and",
-            "could attract top talent and secure",
-            "further investment."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-17T06:14:03.000Z",
-      "ranking": 7.715384615384615,
-      "articleUrl": "https://www.theverge.com/news/821943/jeff-bezos-project-prometheus-co-ceo-funding-ai-startup"
-    },
-    {
-      "id": "283",
-      "topic": "Dev Tools",
-      "source": "VentureBeat AI",
-      "shortTitle": "AWS Kiro Enhancements",
-      "mediumTitle": "AWS Kiro: AI Coding Agent Upgrades",
-      "longTitle": "AWS Kiro Autonomous Coding Agent Now Generally Available with New Features",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AWS has made its autonomous coding",
-            "agent, Kiro, generally available,",
-            "enhancing it to meet enterprise demands",
-            "for structured adherence and spec",
-            "fidelity in AI-generated code.",
-            "Kiro introduces property-based testing",
-            "to ensure AI-generated code\u0027s accuracy",
-            "and adherence to purpose by",
-            "automatically generating hundreds of",
-            "test scenarios from a specification.",
-            "Kiro distinguishes itself in a crowded",
-            "market by not relying on a single large",
-            "language model (LLM), instead routing",
-            "tasks to the most suitable model,",
-            "including AWS\u0027s own.",
-            "The new Kiro CLI integrates the coding",
-            "agent directly into a developer\u0027s",
-            "command-line environment, leveraging",
-            "functionalities from AWS\u0027s Q Developer",
-            "CLI."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-17T06:00:00.000Z",
-      "ranking": 7.2153846153846155,
-      "articleUrl": "https://venturebeat.com/ai/in-a-sea-of-agents-aws-bets-on-structured-adherence-and-spec-fidelity"
-    },
-    {
       "id": "291",
       "topic": "Generative AI",
       "source": "Marktechpost AI",
@@ -249,6 +179,76 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/822496/openai-employee-equity-donation-charity-rounds-share-valuation"
     },
     {
+      "id": "281",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Bezos AI Startup",
+      "mediumTitle": "Bezos Leads AI Manufacturing Startup",
+      "longTitle": "Jeff Bezos to Co-CEO Project Prometheus AI Manufacturing Startup",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Jeff Bezos, Amazon\u0027s founder, is",
+            "reportedly stepping into a co-CEO role",
+            "at Project Prometheus, a new AI startup",
+            "he is partially funding.",
+            "Advancements in AI for manufacturing",
+            "have the potential to revolutionize",
+            "production efficiency and reduce costs.",
+            "Project Prometheus aims to develop AI",
+            "technologies specifically for enhancing",
+            "manufacturing processes across",
+            "industries like computing, automotive,",
+            "and aerospace.",
+            "Bezos\u0027s active leadership, beyond just",
+            "funding, signals a deep commitment and",
+            "could attract top talent and secure",
+            "further investment."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-17T06:14:03.000Z",
+      "ranking": 6.560662605158953,
+      "articleUrl": "https://www.theverge.com/news/821943/jeff-bezos-project-prometheus-co-ceo-funding-ai-startup"
+    },
+    {
+      "id": "283",
+      "topic": "Dev Tools",
+      "source": "VentureBeat AI",
+      "shortTitle": "AWS Kiro Enhancements",
+      "mediumTitle": "AWS Kiro: AI Coding Agent Upgrades",
+      "longTitle": "AWS Kiro Autonomous Coding Agent Now Generally Available with New Features",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AWS has made its autonomous coding",
+            "agent, Kiro, generally available,",
+            "enhancing it to meet enterprise demands",
+            "for structured adherence and spec",
+            "fidelity in AI-generated code.",
+            "Kiro introduces property-based testing",
+            "to ensure AI-generated code\u0027s accuracy",
+            "and adherence to purpose by",
+            "automatically generating hundreds of",
+            "test scenarios from a specification.",
+            "Kiro distinguishes itself in a crowded",
+            "market by not relying on a single large",
+            "language model (LLM), instead routing",
+            "tasks to the most suitable model,",
+            "including AWS\u0027s own.",
+            "The new Kiro CLI integrates the coding",
+            "agent directly into a developer\u0027s",
+            "command-line environment, leveraging",
+            "functionalities from AWS\u0027s Q Developer",
+            "CLI."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-17T06:00:00.000Z",
+      "ranking": 6.039598169086089,
+      "articleUrl": "https://venturebeat.com/ai/in-a-sea-of-agents-aws-bets-on-structured-adherence-and-spec-fidelity"
+    },
+    {
       "id": "280",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -278,7 +278,7 @@
         }
       ],
       "publishedAt": "2025-11-16T19:00:00.000Z",
-      "ranking": 6.445701196786356,
+      "ranking": 5.959454355887038,
       "articleUrl": "https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later"
     },
     {
@@ -312,7 +312,7 @@
         }
       ],
       "publishedAt": "2025-11-16T06:00:00.000Z",
-      "ranking": 4.532263951197947,
+      "ranking": 3.8655398045568132,
       "articleUrl": "https://venturebeat.com/security/human-centric-iam-is-failing-agentic-ai-requires-a-new-identity-control"
     },
     {
@@ -345,7 +345,7 @@
         }
       ],
       "publishedAt": "2025-11-16T03:53:25.000Z",
-      "ranking": 4.327377987656609,
+      "ranking": 3.631364841998243,
       "articleUrl": "https://www.marktechpost.com/2025/11/15/cerebras-releases-minimax-m2-reap-162b-a10b-a-memory-efficient-version-of-minimax-m2-for-long-context-coding-agents/"
     },
     {
@@ -382,7 +382,7 @@
         }
       ],
       "publishedAt": "2025-11-15T18:13:00.000Z",
-      "ranking": 1.198093682391045,
+      "ranking": 0.36778305481366314,
       "articleUrl": "https://www.marktechpost.com/2025/11/15/mbzuai-researchers-introduce-pan-a-general-world-model-for-interactable-long-horizon-simulation/"
     },
     {
