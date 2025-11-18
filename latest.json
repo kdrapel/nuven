@@ -1,40 +1,6 @@
 {
   "articles": [
     {
-      "id": "286",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Phi-4 Data-First LLM",
-      "mediumTitle": "Phi-4: Data-First LLM Training",
-      "longTitle": "Phi-4\u0027s Data-First Approach to Efficient LLM Development",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Phi-4\u0027s innovative \u0027data-first\u0027",
-            "supervised fine-tuning (SFT) methodology",
-            "represents a significant advancement in",
-            "developing efficient and high-performing",
-            "Large Language Models (LLMs),",
-            "demonstrating that a",
-            "14-billion-parameter model can rival",
-            "much larger ones through a carefully",
-            "curated dataset and strategic",
-            "fine-tuning.",
-            "The key lessons from Phi-4 are that",
-            "methodical data and training design, not",
-            "just parameter count, drive advanced",
-            "reasoning, offering a practical",
-            "blueprint for AI teams to achieve",
-            "breakthrough performance without",
-            "excessive resource expenditure."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-17T09:00:00.000Z",
-      "ranking": 8.3875,
-      "articleUrl": "https://venturebeat.com/ai/phi-4-proves-that-a-data-first-sft-methodology-is-the-new-differentiator"
-    },
-    {
       "id": "284",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -179,6 +145,40 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/822496/openai-employee-equity-donation-charity-rounds-share-valuation"
     },
     {
+      "id": "286",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Phi-4 Data-First LLM",
+      "mediumTitle": "Phi-4: Data-First LLM Training",
+      "longTitle": "Phi-4\u0027s Data-First Approach to Efficient LLM Development",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Phi-4\u0027s innovative \u0027data-first\u0027",
+            "supervised fine-tuning (SFT) methodology",
+            "represents a significant advancement in",
+            "developing efficient and high-performing",
+            "Large Language Models (LLMs),",
+            "demonstrating that a",
+            "14-billion-parameter model can rival",
+            "much larger ones through a carefully",
+            "curated dataset and strategic",
+            "fine-tuning.",
+            "The key lessons from Phi-4 are that",
+            "methodical data and training design, not",
+            "just parameter count, drive advanced",
+            "reasoning, offering a practical",
+            "blueprint for AI teams to achieve",
+            "breakthrough performance without",
+            "excessive resource expenditure."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-17T09:00:00.000Z",
+      "ranking": 7.119556851127896,
+      "articleUrl": "https://venturebeat.com/ai/phi-4-proves-that-a-data-first-sft-methodology-is-the-new-differentiator"
+    },
+    {
       "id": "281",
       "topic": "Business",
       "source": "The Verge AI",
@@ -208,7 +208,7 @@
         }
       ],
       "publishedAt": "2025-11-17T06:14:03.000Z",
-      "ranking": 6.560662605158953,
+      "ranking": 6.174626266923699,
       "articleUrl": "https://www.theverge.com/news/821943/jeff-bezos-project-prometheus-co-ceo-funding-ai-startup"
     },
     {
@@ -245,7 +245,7 @@
         }
       ],
       "publishedAt": "2025-11-17T06:00:00.000Z",
-      "ranking": 6.039598169086089,
+      "ranking": 5.650309002802189,
       "articleUrl": "https://venturebeat.com/ai/in-a-sea-of-agents-aws-bets-on-structured-adherence-and-spec-fidelity"
     },
     {
@@ -278,7 +278,7 @@
         }
       ],
       "publishedAt": "2025-11-16T19:00:00.000Z",
-      "ranking": 5.959454355887038,
+      "ranking": 5.417363317110555,
       "articleUrl": "https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later"
     },
     {
@@ -312,7 +312,7 @@
         }
       ],
       "publishedAt": "2025-11-16T06:00:00.000Z",
-      "ranking": 3.8655398045568132,
+      "ranking": 3.1428647341512574,
       "articleUrl": "https://venturebeat.com/security/human-centric-iam-is-failing-agentic-ai-requires-a-new-identity-control"
     },
     {
@@ -345,7 +345,7 @@
         }
       ],
       "publishedAt": "2025-11-16T03:53:25.000Z",
-      "ranking": 3.631364841998243,
+      "ranking": 2.879383453356012,
       "articleUrl": "https://www.marktechpost.com/2025/11/15/cerebras-releases-minimax-m2-reap-162b-a10b-a-memory-efficient-version-of-minimax-m2-for-long-context-coding-agents/"
     },
     {
@@ -382,7 +382,7 @@
         }
       ],
       "publishedAt": "2025-11-15T18:13:00.000Z",
-      "ranking": 0.36778305481366314,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/15/mbzuai-researchers-introduce-pan-a-general-world-model-for-interactable-long-horizon-simulation/"
     },
     {
@@ -1194,6 +1194,42 @@
       "articleUrl": "https://venturebeat.com/ai/weibos-new-open-source-ai-model-vibethinker-1-5b-outperforms-deepseek-r1-on"
     },
     {
+      "id": "250",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "GPT-5.1 Released",
+      "mediumTitle": "OpenAI Launches GPT-5.1 Upgrade",
+      "longTitle": "OpenAI Enhances ChatGPT with GPT-5.1 Release",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has announced the release of",
+            "GPT-5.1, an upgrade to its flagship",
+            "model that was initially launched in",
+            "August.",
+            "The company describes GPT-5.1 as an",
+            "enhancement that aims to make ChatGPT",
+            "\u0022smarter and more enjoyable to talk to.\u0022",
+            "This new iteration introduces two",
+            "distinct models: GPT-5.1 Instant and",
+            "GPT-5.1 Thinking.",
+            "GPT-5.1 Instant is characterized by its",
+            "\u0022warmer\u0022 demeanor, increased",
+            "intelligence, and improved ability to",
+            "follow user instructions compared to its",
+            "predecessor.",
+            "The core of the update appears to be a",
+            "refinement of the model\u0027s conversational",
+            "abilities and its capacity to understand",
+            "and execute user prompts."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-12T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets"
+    },
+    {
       "id": "246",
       "topic": "Dev Tools",
       "source": "VentureBeat AI",
@@ -1229,42 +1265,6 @@
       "publishedAt": "2025-11-12T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/how-deductive-ai-saved-doordash-1-000-engineering-hours-by-automating"
-    },
-    {
-      "id": "250",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "GPT-5.1 Released",
-      "mediumTitle": "OpenAI Launches GPT-5.1 Upgrade",
-      "longTitle": "OpenAI Enhances ChatGPT with GPT-5.1 Release",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has announced the release of",
-            "GPT-5.1, an upgrade to its flagship",
-            "model that was initially launched in",
-            "August.",
-            "The company describes GPT-5.1 as an",
-            "enhancement that aims to make ChatGPT",
-            "\u0022smarter and more enjoyable to talk to.\u0022",
-            "This new iteration introduces two",
-            "distinct models: GPT-5.1 Instant and",
-            "GPT-5.1 Thinking.",
-            "GPT-5.1 Instant is characterized by its",
-            "\u0022warmer\u0022 demeanor, increased",
-            "intelligence, and improved ability to",
-            "follow user instructions compared to its",
-            "predecessor.",
-            "The core of the update appears to be a",
-            "refinement of the model\u0027s conversational",
-            "abilities and its capacity to understand",
-            "and execute user prompts."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-12T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets"
     },
     {
       "id": "247",
