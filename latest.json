@@ -1,6 +1,43 @@
 {
   "articles": [
     {
+      "id": "307",
+      "topic": "Dev Tools",
+      "source": "The Verge AI",
+      "shortTitle": "Google\u0027s Antigravity",
+      "mediumTitle": "Google Antigravity: Agent-First Coding",
+      "longTitle": "Google Unveils Antigravity for Agent-First Software Development",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has introduced Antigravity, a new",
+            "development tool designed to foster an",
+            "\u0022agent-first future\u0022 in coding,",
+            "leveraging its latest AI model, Gemini 3",
+            "Pro, and other third-party AI models.",
+            "Antigravity is engineered to support",
+            "multiple autonomous agents, granting",
+            "them direct access to essential",
+            "development environments such as the",
+            "code editor, terminal, and web browser.",
+            "The announcement of Antigravity",
+            "coincides with the reveal of Gemini 3",
+            "Pro, indicating that the capabilities of",
+            "this new AI model are a foundational",
+            "element of the tool.",
+            "The core philosophy behind Antigravity",
+            "is its \u0022agent-first\u0022 approach,",
+            "suggesting a shift towards AI agents",
+            "playing a more central and active role",
+            "in software development."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T12:00:00.000Z",
+      "ranking": 8.5125,
+      "articleUrl": "https://www.theverge.com/news/822833/google-antigravity-ide-coding-agent-gemini-3-pro"
+    },
+    {
       "id": "294",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -36,40 +73,244 @@
       "articleUrl": "https://venturebeat.com/ai/how-ai-tax-startup-blue-j-torched-its-entire-business-model-for-chatgpt-and"
     },
     {
-      "id": "288",
-      "topic": "Science",
+      "id": "302",
+      "topic": "AI Ops",
       "source": "The Verge AI",
-      "shortTitle": "Google AI Weather",
-      "mediumTitle": "Google\u0027s New AI Weather Forecasts",
-      "longTitle": "Google Upgrades Weather Forecasting with New AI Model",
+      "shortTitle": "Cloudflare Outage",
+      "mediumTitle": "Cloudflare Outage Disrupts Web Services",
+      "longTitle": "Massive Cloudflare Outage Causes Widespread Internet Disruptions",
       "paragraphs": [
         {
           "Lines": [
-            "Google has announced a significant",
-            "upgrade to its weather forecasting",
-            "capabilities with the introduction of a",
-            "new AI model.",
-            "This advanced model is set to be",
-            "integrated into several of Google\u0027s",
-            "widely used products, including Google",
-            "Search, Gemini, and Pixel phones.",
-            "The company highlights that its",
-            "AI-enhanced forecasts have already",
-            "demonstrated a high degree of accuracy.",
-            "A key advantage of these AI weather",
-            "models is their ability to generate",
-            "predictions more rapidly and with",
-            "greater efficiency compared to",
-            "traditional physics-based models.",
-            "The AI model offers a superior",
-            "alternative in certain aspects compared",
-            "to conventional physics-based models."
+            "A massive outage at Cloudflare, a",
+            "prominent networking company responsible",
+            "for DDoS protection and content delivery",
+            "for numerous global businesses,",
+            "significantly disrupted internet",
+            "services on Tuesday morning.",
+            "The incident rendered many websites",
+            "inaccessible, including prominent",
+            "platforms like X (formerly Twitter) and",
+            "ChatGPT, as well as the outage-tracking",
+            "website DownDetector itself.",
+            "The article highlights the critical role",
+            "Cloudflare plays in the internet\u0027s",
+            "backbone, underscoring how a single",
+            "point of failure within their system can",
+            "have cascading effects across a vast",
+            "number of online services."
           ]
         }
       ],
-      "publishedAt": "2025-11-17T18:00:56.000Z",
-      "ranking": 7.8374999999999995,
-      "articleUrl": "https://www.theverge.com/news/822489/weather-forecast-ai-model-google-weathernext"
+      "publishedAt": "2025-11-18T14:30:54.000Z",
+      "ranking": 8.225,
+      "articleUrl": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector"
+    },
+    {
+      "id": "306",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Free AI in Office",
+      "mediumTitle": "Microsoft Adds Free AI to Office Apps",
+      "longTitle": "Microsoft to Offer Free AI Features in Core Office Applications in 2026",
+      "paragraphs": [
+        {
+          "Lines": [
+            "While the company has been actively",
+            "developing and integrating advanced AI",
+            "capabilities through its paid Microsoft",
+            "365 Copilot subscription, a substantial",
+            "wave of new, free AI functionalities is",
+            "slated for release in early 2026.",
+            "Microsoft is significantly expanding the",
+            "availability of AI features within its",
+            "core Office applications, including",
+            "Outlook, Word, Excel, and PowerPoint.",
+            "These forthcoming features will be",
+            "accessible to users without the need for",
+            "the premium Microsoft 365 Copilot",
+            "subscription, which currently costs $30",
+            "per month per user."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T12:00:00.000Z",
+      "ranking": 8.136363636363637,
+      "articleUrl": "https://www.theverge.com/news/822789/microsoft-copilot-chat-outlook-word-excel-powerpoint"
+    },
+    {
+      "id": "300",
+      "topic": "AI Ops",
+      "source": "VentureBeat AI",
+      "shortTitle": "Agent 365 Launch",
+      "mediumTitle": "Microsoft Agent 365 for AI Management",
+      "longTitle": "Microsoft Agent 365: Enterprise-Grade AI Agent Infrastructure",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft has introduced Agent 365, a",
+            "new platform designed to transition AI",
+            "agents from experimental tools to",
+            "enterprise-grade infrastructure.",
+            "Agent 365 functions as a control plane",
+            "and observability layer for any AI",
+            "agent, regardless of whether it\u0027s built",
+            "on Microsoft\u0027s platforms or by",
+            "third-party vendors like Adobe,",
+            "Databricks, Cognition, and ServiceNow.",
+            "Agent 365 treats agents as integral",
+            "parts of the IT stack, offering unified",
+            "oversight for IT and security teams at a",
+            "critical time when such management is",
+            "becoming essential.",
+            "The platform aims to provide unified",
+            "observability through telemetry,",
+            "dashboards, and alerts, enabling",
+            "businesses to track all agents in use."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T06:00:00.000Z",
+      "ranking": 8.123529411764705,
+      "articleUrl": "https://venturebeat.com/ai/microsofts-agent-365-shifts-ai-agents-from-sandbox-tools-to-enterprise-grade"
+    },
+    {
+      "id": "297",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Gemini 3 Launched",
+      "mediumTitle": "Google Unveils Gemini 3 AI Model",
+      "longTitle": "Google Launches Gemini 3: New Frontier AI Model Family with Enhanced Capabilities",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has launched Gemini 3, its latest",
+            "proprietary frontier model family,",
+            "marking a significant advancement in AI",
+            "capabilities.",
+            "Early independent benchmarks suggest",
+            "Gemini 3 Pro has achieved a leading",
+            "position in the AI landscape.",
+            "Artificial Analysis has crowned it the",
+            "\u0022new leader in AI\u0022 with a top score of",
+            "73 on their index, a substantial leap",
+            "from Gemini 2.5 Pro\u0027s score of 60.",
+            "Gemini 3 Pro achieved a preliminary Elo",
+            "score of 1501 on LMArena\u0027s",
+            "text-reasoning leaderboard, surpassing",
+            "models like xAI\u0027s Grok-4.1 and",
+            "Anthropic\u0027s Claude 4.5.",
+            "LMArena also reported Gemini 3 Pro",
+            "ranking first globally across text",
+            "reasoning, vision, coding, and web",
+            "development."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T17:00:00.000Z",
+      "ranking": 8.096296296296297,
+      "articleUrl": "https://venturebeat.com/ai/google-unveils-gemini-3-claiming-the-lead-in-math-science-multimodal-and"
+    },
+    {
+      "id": "304",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Windows",
+      "mediumTitle": "Windows Evolves into Agentic OS",
+      "longTitle": "Microsoft\u0027s Vision: Windows as an Agentic OS with AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft is embarking on a significant",
+            "transformation of Windows, aiming to",
+            "evolve it into an \u0027agentic OS\u0027 with AI",
+            "agents deeply integrated into the user",
+            "experience.",
+            "By transforming Windows into an \u0027agentic",
+            "OS,\u0027 Microsoft is positioning itself to",
+            "offer a more intelligent, proactive, and",
+            "efficient computing experience, where AI",
+            "agents act as extensions of the user\u0027s",
+            "will, directly influencing and managing",
+            "the digital environment.",
+            "The core idea is to imbue these AI",
+            "agents with the ability to act as",
+            "personal assistants within the operating",
+            "system, capable of independently",
+            "controlling the PC and executing tasks",
+            "at the user\u0027s command."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T12:00:34.000Z",
+      "ranking": 8.088235294117649,
+      "articleUrl": "https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration"
+    },
+    {
+      "id": "299",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Writer Agent Launch",
+      "mediumTitle": "Writer Agent: AI for Enterprise Workflows",
+      "longTitle": "Writer Launches AI Platform for Enterprise Workflow Automation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Unlike consumer-focused tools like",
+            "ChatGPT and Microsoft Copilot, Writer",
+            "Agent enables employees to automate",
+            "complex business workflows without",
+            "coding.",
+            "Writer, an AI startup, has launched",
+            "Writer Agent, a unified AI platform",
+            "designed for enterprise use.",
+            "While other AI tools are primarily",
+            "geared towards personal productivity,",
+            "Writer Agent is built from the ground up",
+            "for the security, compliance, and",
+            "governance needs of large, regulated",
+            "organizations."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T17:00:00.000Z",
+      "ranking": 7.817857142857142,
+      "articleUrl": "https://venturebeat.com/ai/writers-ai-agents-can-actually-do-your-work-not-just-chat-about-it"
+    },
+    {
+      "id": "305",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "MS Agent 365",
+      "mediumTitle": "Microsoft\u0027s Agent 365 AI Platform",
+      "longTitle": "Microsoft\u0027s Agent 365: An AI Agent Factory for Businesses",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft is developing \u0022Agent 365,\u0022 a",
+            "platform designed to enable businesses",
+            "to create and manage AI agents in a",
+            "manner analogous to how they manage",
+            "human employees.",
+            "Agent 365 represents a significant step",
+            "in democratizing AI agent creation and",
+            "management, aiming to equip businesses",
+            "to build and control their own AI",
+            "workforce.",
+            "Agent 365 aims to provide businesses",
+            "with the tools and infrastructure to",
+            "build, deploy, and oversee their own",
+            "custom AI agents.",
+            "The platform is envisioned as an \u0022AI",
+            "agent factory,\u0022 streamlining the process",
+            "of agent creation and integration into",
+            "existing business workflows."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T12:00:00.000Z",
+      "ranking": 7.764285714285714,
+      "articleUrl": "https://www.theverge.com/news/822035/microsoft-agent-365-businesses-control-security"
     },
     {
       "id": "295",
@@ -141,6 +382,79 @@
       "articleUrl": "https://www.theverge.com/report/822443/microsoft-windows-copilot-vision-ai-assistant-pc-voice-controls-impressions"
     },
     {
+      "id": "308",
+      "topic": "Large Models",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini 3 Launch",
+      "mediumTitle": "Google Launches Gemini 3 AI",
+      "longTitle": "Google Unveils Gemini 3 AI Series, Aiming for Market Leadership",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has launched Gemini 3, a new",
+            "series of AI models that the company",
+            "states are its most intelligent and",
+            "factually accurate to date.",
+            "This launch is a strategic move by",
+            "Google to potentially outpace OpenAI,",
+            "especially following recent challenges",
+            "with GPT-5\u0027s launch.",
+            "The emphasis is on advancements in",
+            "intelligence and factual accuracy,",
+            "suggesting improved reasoning and",
+            "generation of truthful information.",
+            "The AI models are designed to be more",
+            "capable and reliable than their",
+            "predecessors.",
+            "In essence, Google\u0027s Gemini 3 launch is",
+            "positioned as a significant step forward",
+            "in AI development, aiming for enhanced",
+            "intelligence and accuracy."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T12:00:00.000Z",
+      "ranking": 7.538461538461537,
+      "articleUrl": "https://www.theverge.com/news/822977/gemini-3-google-ai-model-launch"
+    },
+    {
+      "id": "309",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "MSFT \u0026 Anthropic AI",
+      "mediumTitle": "Microsoft Partners with Anthropic for AI",
+      "longTitle": "Microsoft and Anthropic Forge Strategic AI Partnership",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft has announced a significant",
+            "strategic partnership with AI startup",
+            "Anthropic, which will integrate",
+            "Anthropic\u0027s Claude AI models into",
+            "Microsoft Azure.",
+            "The AI company will purchase $30 billion",
+            "worth of Azure compute capacity.",
+            "Furthermore, Anthropic has pledged to",
+            "contract for \u0022additional compute",
+            "capacity up to one gigawatt.\u0022",
+            "This collaboration marks the first time",
+            "Claude models will be available on",
+            "Microsoft Foundry.",
+            "This substantial investment underscores",
+            "Anthropic\u0027s reliance on Microsoft\u0027s",
+            "cloud infrastructure for its AI",
+            "development and deployment.",
+            "The partnership will grant Microsoft",
+            "Foundry customers access to Anthropic\u0027s",
+            "advanced AI models."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T11:20:17.000Z",
+      "ranking": 7.536363636363638,
+      "articleUrl": "https://www.theverge.com/news/822988/microsoft-anthropic-partnership-claude-models-azure-investment-nvidia"
+    },
+    {
       "id": "291",
       "topic": "Generative AI",
       "source": "Marktechpost AI",
@@ -176,40 +490,112 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/17/google-deepminds-weathernext-2-uses-functional-generative-networks-for-8x-faster-probabilistic-weather-forecasts/"
     },
     {
-      "id": "287",
-      "topic": "Business",
+      "id": "303",
+      "topic": "Policy",
       "source": "The Verge AI",
-      "shortTitle": "OpenAI Equity",
-      "mediumTitle": "OpenAI Allows Equity Donations",
-      "longTitle": "OpenAI Enables Current and Former Employees to Donate Equity to Charity",
+      "shortTitle": "Warren Probes AI Bailout",
+      "mediumTitle": "Warren Questions Potential AI Company Bailouts",
+      "longTitle": "Senator Warren Seeks Details on Potential AI Company Bailouts",
       "paragraphs": [
         {
           "Lines": [
-            "OpenAI has finally addressed a",
-            "long-standing frustration among its",
-            "current and former employees by enabling",
-            "them to donate their equity to charity.",
-            "In response to this pressure, OpenAI has",
-            "now sent out an email from its equity",
-            "team, announcing that eligible",
-            "employees, both past and present, will",
-            "be able to donate their shares.",
-            "However, the core message is that the",
-            "option to donate equity is now available",
-            "to eligible employees.",
-            "For years, employees who held eligible",
-            "shares in the company were unable to",
-            "contribute this valuable asset to",
-            "charitable causes.",
-            "This limitation had reportedly caused",
-            "significant dissatisfaction within the",
-            "workforce."
+            "Senator Elizabeth Warren (D-MA) has",
+            "formally requested detailed information",
+            "from the Trump administration regarding",
+            "any potential plans to provide financial",
+            "assistance, or a \u0022bailout,\u0022 to major",
+            "Artificial Intelligence (AI) companies",
+            "using taxpayer funds.",
+            "Her inquiry aims to ascertain the extent",
+            "of these potential plans, the specific",
+            "companies that might be considered for",
+            "such support, and the rationale behind",
+            "any proposed financial interventions.",
+            "The core of Senator Warren\u0027s concern",
+            "stems from the possibility that the",
+            "administration might be considering",
+            "measures to support large AI firms,",
+            "which she views as potentially",
+            "benefiting from public money without",
+            "sufficient justification or oversight."
           ]
         }
       ],
-      "publishedAt": "2025-11-17T18:47:14.000Z",
-      "ranking": 7.17,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/822496/openai-employee-equity-donation-charity-rounds-share-valuation"
+      "publishedAt": "2025-11-18T14:00:00.000Z",
+      "ranking": 7.041666666666666,
+      "articleUrl": "https://www.theverge.com/news/823136/senator-elizabeth-warren-openai-trump-bailout"
+    },
+    {
+      "id": "298",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Windows AI Agents",
+      "mediumTitle": "Windows 11 Becomes Agentic OS",
+      "longTitle": "Microsoft Transforms Windows 11 into an Agentic OS with Native AI Agent Infrastructure",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft is fundamentally transforming",
+            "Windows 11 into an \u0022agentic OS,\u0022",
+            "integrating native infrastructure for",
+            "autonomous AI agents to operate securely",
+            "at an enterprise scale.",
+            "This marks a significant architectural",
+            "evolution, shifting Windows from a",
+            "manual application orchestrator to a",
+            "platform where users can express desired",
+            "outcomes, and AI agents handle the",
+            "complexity.",
+            "Security is a paramount concern, with",
+            "agents adhering to \u0022secure by default\u0022",
+            "policies.",
+            "All agent connectors must meet strict",
+            "requirements, and agents operate in",
+            "isolated environments with dedicated",
+            "user accounts."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T17:00:00.000Z",
+      "ranking": 6.970833333333334,
+      "articleUrl": "https://venturebeat.com/ai/microsoft-remakes-windows-for-an-era-of-autonomous-ai-agents"
+    },
+    {
+      "id": "301",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Google\u0027s Antigravity",
+      "mediumTitle": "Google Antigravity: Agent Collaboration",
+      "longTitle": "Google Antigravity: New Platform for Agent Development",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has launched Antigravity, a new",
+            "coding agent platform designed to",
+            "facilitate collaboration among developer",
+            "teams in creating agents capable of",
+            "automating complex tasks.",
+            "This platform is powered by Google\u0027s",
+            "Gemini 3 model and is currently",
+            "available in a public preview with",
+            "substantial rate limits for Gemini 3 Pro",
+            "usage.",
+            "Antigravity positions itself as an",
+            "evolution of the Integrated Development",
+            "Environment (IDE), moving towards an",
+            "\u0027agent-first\u0027 future.",
+            "Key features include browser control",
+            "capabilities, support for asynchronous",
+            "interaction patterns, and an",
+            "agent-centric product design.",
+            "During the public preview phase, users",
+            "can develop agents using Gemini 3."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T06:00:00.000Z",
+      "ranking": 6.777777777777779,
+      "articleUrl": "https://venturebeat.com/ai/google-antigravity-introduces-agent-first-architecture-for-asynchronous"
     },
     {
       "id": "284",
@@ -245,8 +631,44 @@
         }
       ],
       "publishedAt": "2025-11-17T13:07:57.000Z",
-      "ranking": 7.099060585897131,
+      "ranking": 6.691790741569973,
       "articleUrl": "https://www.theverge.com/news/822240/google-ai-mode-travel-plans-canvas"
+    },
+    {
+      "id": "288",
+      "topic": "Science",
+      "source": "The Verge AI",
+      "shortTitle": "Google AI Weather",
+      "mediumTitle": "Google\u0027s New AI Weather Forecasts",
+      "longTitle": "Google Upgrades Weather Forecasting with New AI Model",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has announced a significant",
+            "upgrade to its weather forecasting",
+            "capabilities with the introduction of a",
+            "new AI model.",
+            "This advanced model is set to be",
+            "integrated into several of Google\u0027s",
+            "widely used products, including Google",
+            "Search, Gemini, and Pixel phones.",
+            "The company highlights that its",
+            "AI-enhanced forecasts have already",
+            "demonstrated a high degree of accuracy.",
+            "A key advantage of these AI weather",
+            "models is their ability to generate",
+            "predictions more rapidly and with",
+            "greater efficiency compared to",
+            "traditional physics-based models.",
+            "The AI model offers a superior",
+            "alternative in certain aspects compared",
+            "to conventional physics-based models."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-17T18:00:56.000Z",
+      "ranking": 6.65587756431521,
+      "articleUrl": "https://www.theverge.com/news/822489/weather-forecast-ai-model-google-weathernext"
     },
     {
       "id": "286",
@@ -279,8 +701,44 @@
         }
       ],
       "publishedAt": "2025-11-17T09:00:00.000Z",
-      "ranking": 6.713503495324849,
+      "ranking": 6.248088489739134,
       "articleUrl": "https://venturebeat.com/ai/phi-4-proves-that-a-data-first-sft-methodology-is-the-new-differentiator"
+    },
+    {
+      "id": "287",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI Equity",
+      "mediumTitle": "OpenAI Allows Equity Donations",
+      "longTitle": "OpenAI Enables Current and Former Employees to Donate Equity to Charity",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has finally addressed a",
+            "long-standing frustration among its",
+            "current and former employees by enabling",
+            "them to donate their equity to charity.",
+            "In response to this pressure, OpenAI has",
+            "now sent out an email from its equity",
+            "team, announcing that eligible",
+            "employees, both past and present, will",
+            "be able to donate their shares.",
+            "However, the core message is that the",
+            "option to donate equity is now available",
+            "to eligible employees.",
+            "For years, employees who held eligible",
+            "shares in the company were unable to",
+            "contribute this valuable asset to",
+            "charitable causes.",
+            "This limitation had reportedly caused",
+            "significant dissatisfaction within the",
+            "workforce."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-17T18:47:14.000Z",
+      "ranking": 6.057245478334493,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/822496/openai-employee-equity-donation-charity-rounds-share-valuation"
     },
     {
       "id": "281",
@@ -312,7 +770,7 @@
         }
       ],
       "publishedAt": "2025-11-17T06:14:03.000Z",
-      "ranking": 5.729897261039856,
+      "ranking": 5.225566388392523,
       "articleUrl": "https://www.theverge.com/news/821943/jeff-bezos-project-prometheus-co-ceo-funding-ai-startup"
     },
     {
@@ -349,7 +807,7 @@
         }
       ],
       "publishedAt": "2025-11-17T06:00:00.000Z",
-      "ranking": 5.202305558758489,
+      "ranking": 4.694679913818755,
       "articleUrl": "https://venturebeat.com/ai/in-a-sea-of-agents-aws-bets-on-structured-adherence-and-spec-fidelity"
     },
     {
@@ -382,7 +840,7 @@
         }
       ],
       "publishedAt": "2025-11-16T19:00:00.000Z",
-      "ranking": 4.815542884215518,
+      "ranking": 4.153144894331857,
       "articleUrl": "https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later"
     },
     {
@@ -416,7 +874,7 @@
         }
       ],
       "publishedAt": "2025-11-16T06:00:00.000Z",
-      "ranking": 2.3592605795150314,
+      "ranking": 1.5139498271997898,
       "articleUrl": "https://venturebeat.com/security/human-centric-iam-is-failing-agentic-ai-requires-a-new-identity-control"
     },
     {
@@ -449,7 +907,7 @@
         }
       ],
       "publishedAt": "2025-11-16T03:53:25.000Z",
-      "ranking": 2.066278282256069,
+      "ranking": 1.1912832950599777,
       "articleUrl": "https://www.marktechpost.com/2025/11/15/cerebras-releases-minimax-m2-reap-162b-a10b-a-memory-efficient-version-of-minimax-m2-for-long-context-coding-agents/"
     },
     {
@@ -913,498 +1371,6 @@
       "publishedAt": "2025-11-13T13:13:03.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/820120/even-realities-g2-smart-glasses-r1-ring-launch-ai"
-    },
-    {
-      "id": "260",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "NotebookLM \u002B Gemini",
-      "mediumTitle": "NotebookLM Integrates Gemini\u0027s Deep Research",
-      "longTitle": "NotebookLM Gains Gemini\u0027s Deep Research for Enhanced AI-powered Analysis",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google\u0027s NotebookLM is integrating with",
-            "Gemini\u0027s \u0027Deep Research\u0027 agentic AI",
-            "tool, granting all users access to",
-            "enhanced research capabilities within a",
-            "week.",
-            "This integration aims to empower users",
-            "to conduct more in-depth analysis by",
-            "leveraging Gemini\u0027s contextual",
-            "understanding.",
-            "The combination of NotebookLM\u0027s features",
-            "with Deep Research\u0027s analytical power is",
-            "poised to transform how users interact",
-            "with and derive knowledge from their",
-            "materials.",
-            "NotebookLM, designed for understanding",
-            "and synthesizing information, will now",
-            "benefit from Deep Research\u0027s",
-            "sophisticated analysis abilities."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T13:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/820022/google-notebooklm-gemini-deep-research"
-    },
-    {
-      "id": "261",
-      "topic": "NLP",
-      "source": "The Verge AI",
-      "shortTitle": "AI Search",
-      "mediumTitle": "LinkedIn AI Search Launched",
-      "longTitle": "LinkedIn Introduces AI-Powered Search for Easier People Discovery",
-      "paragraphs": [
-        {
-          "Lines": [
-            "LinkedIn is introducing an AI-powered",
-            "search functionality designed to",
-            "simplify the process of finding",
-            "individuals on the platform.",
-            "This shift aims to make LinkedIn\u0027s vast",
-            "network more accessible and discoverable",
-            "by leveraging artificial intelligence to",
-            "understand user intent and match it with",
-            "relevant profiles.",
-            "This makes it easier for users to",
-            "discover relevant connections without",
-            "needing to know precise terminology or",
-            "exact profile details.",
-            "The core benefit of this AI integration",
-            "is its ability to interpret more nuanced",
-            "and complex search requests.",
-            "For example, a user could search for",
-            "\u0027Northwestern alumni who work in",
-            "entertainment marketing.\u0027"
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T12:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/819908/linkedin-ai-people-search-launch"
-    },
-    {
-      "id": "262",
-      "topic": "Gaming",
-      "source": "The Verge AI",
-      "shortTitle": "SIMA 2 Gaming AI",
-      "mediumTitle": "Google DeepMind\u0027s SIMA 2 Gaming Companion",
-      "longTitle": "Google DeepMind Unveils SIMA 2, an Advanced Interactive Gaming Companion",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google DeepMind has unveiled SIMA 2, an",
-            "advanced AI agent designed to function",
-            "as an \u0022interactive gaming companion.\u0022",
-            "The core innovation of SIMA 2 lies in",
-            "its capacity to understand and execute",
-            "complex in-game instructions given in",
-            "natural language.",
-            "SIMA 2 demonstrates a remarkable ability",
-            "to learn and play a diverse range of",
-            "video games, including titles such as No",
-            "Man\u0027s Sky, Valheim, and Goat Simulator",
-            "3.",
-            "Unlike previous AI agents that were",
-            "often trained for specific games, SIMA 2",
-            "is designed for broader applicability,",
-            "capable of generalizing its learned",
-            "skills across different gaming platforms",
-            "and genres."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T11:39:24.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/819937/google-deepmind-ai-agent-sima-2-agi-video-games"
-    },
-    {
-      "id": "263",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Disney\u002B AI Future",
-      "mediumTitle": "Disney\u002B Explores AI for Content Creation",
-      "longTitle": "Disney CEO Bob Iger hints at AI-generated video on Disney\u002B",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Disney CEO Bob Iger has indicated that",
-            "Disney Plus may incorporate AI-generated",
-            "videos, allowing users to create and",
-            "consume short-form content.",
-            "During a recent earnings call, Iger",
-            "expressed significant enthusiasm for",
-            "artificial intelligence, suggesting it",
-            "could enable Disney Plus to offer",
-            "viewers the capability to both \u0022create\u0022",
-            "and \u0022consume\u0022 short-form AI-generated",
-            "video content.",
-            "This development points to a potential",
-            "shift in how users interact with the",
-            "streaming platform, moving beyond",
-            "passive consumption to active",
-            "participation in content generation.",
-            "Iger highlighted the \u0022phenomenal",
-            "opportunities\u0022 that AI presents for the",
-            "company."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T11:36:10.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/819980/disney-plus-ai-videos-bob-iger-q4-2025-earnings"
-    },
-    {
-      "id": "264",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI\u0027s AI Bubble",
-      "mediumTitle": "OpenAI CEO\u0027s AI Bubble Paradox",
-      "longTitle": "OpenAI CEO Sam Altman\u0027s contradictory stance on the AI bubble",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI CEO Sam Altman paradoxically",
-            "declares AI a bubble while aggressively",
-            "raising and spending vast sums of money,",
-            "actions that appear to contradict his",
-            "own pronouncements.",
-            "Despite \u0027bubble\u0027 rhetoric, OpenAI is",
-            "actively pursuing ambitious goals",
-            "requiring significant financial",
-            "investment in developing powerful AI",
-            "models and supporting infrastructure.",
-            "The tension between Altman\u0027s \u0027bubble\u0027",
-            "pronouncements and OpenAI\u0027s aggressive",
-            "expansion creates a compelling narrative",
-            "about the uncertainty and immense",
-            "potential that define the current AI",
-            "era."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T11:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/podcast/819612/coreweave-ai-bubble-nvidia-openai-data-centers"
-    },
-    {
-      "id": "266",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Alembic AI Funding",
-      "mediumTitle": "Alembic Secures $145M for Causal AI",
-      "longTitle": "Alembic Technologies Raises $145M, Focuses on Causal AI and Private Infrastructure",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Alembic Technologies has secured $145",
-            "million in Series B and growth funding,",
-            "valuing the company at approximately",
-            "$645 million.",
-            "Alembic\u0027s core innovation lies in its AI",
-            "systems that identify cause-and-effect",
-            "relationships, rather than just",
-            "correlations, enabling businesses to",
-            "make more informed, multi-million dollar",
-            "decisions.",
-            "This significant investment underscores",
-            "a strategic shift in enterprise AI,",
-            "moving away from the pursuit of",
-            "ever-larger language models towards",
-            "leveraging proprietary data and causal",
-            "reasoning."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T11:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/alembic-melted-gpus-chasing-causal-a-i-now-its-running-one-of-the-fastest"
-    },
-    {
-      "id": "253",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Google AI Shopping",
-      "mediumTitle": "Google\u0027s New AI Shopping Features",
-      "longTitle": "Google Enhances AI for Online Shopping with New Features",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google is significantly enhancing its AI",
-            "capabilities for online shopping,",
-            "introducing features that allow users to",
-            "interact with local businesses and make",
-            "purchases through AI.",
-            "Starting Thursday in the US, ahead of",
-            "the holiday shopping season, Google",
-            "users will benefit from a range of new",
-            "AI-powered shopping tools.",
-            "One of the most notable new features is",
-            "the ability for an AI tool to make phone",
-            "calls to local stores on behalf of",
-            "users.",
-            "This AI can handle tasks such as",
-            "inquiring about product availability or",
-            "making reservations.",
-            "Furthermore, Google is integrating AI",
-            "into the product browsing and checkout",
-            "processes."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/819431/google-shopping-ai-gemini-agentic-checkout-calling"
-    },
-    {
-      "id": "254",
-      "topic": "NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Spotify AI Recaps",
-      "mediumTitle": "Spotify\u0027s New AI Audiobook Recaps",
-      "longTitle": "Spotify Introduces AI-Powered Recaps for Audiobook Listeners",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Spotify has introduced a new artificial",
-            "intelligence (AI) powered feature called",
-            "\u0022Recaps\u0022 for its audiobook service.",
-            "This feature aims to enhance the",
-            "listening experience by providing users",
-            "with a summary of the story they have",
-            "already heard, eliminating the need to",
-            "manually rewind.",
-            "By automating the summarization process,",
-            "Spotify is addressing a common pain",
-            "point for audiobook listeners who may",
-            "struggle to recall intricate details of",
-            "a story over extended listening periods.",
-            "The core functionality of Recaps is to",
-            "leverage AI to process the audiobook",
-            "content and generate concise summaries.",
-            "The goal is to make it easier for users",
-            "to pick up where they left off without",
-            "losing track of plot points, character",
-            "developments, or key events."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T09:30:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/819476/spotify-audiobook-ai-recaps-short-summary"
-    },
-    {
-      "id": "252",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Build Local AI Chat",
-      "mediumTitle": "Create Your Own Local AI Chatbot",
-      "longTitle": "Step-by-step guide to building a custom local AI chatbot",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This article provides a step-by-step",
-            "guide on how to construct a custom",
-            "conversational AI, similar to GPT, that",
-            "operates entirely locally using the",
-            "Hugging Face Transformers library.",
-            "The ultimate goal is to enable users to",
-            "build their own private, customizable AI",
-            "chatbots without relying on external",
-            "cloud services.",
-            "The core of the tutorial involves",
-            "leveraging a lightweight,",
-            "instruction-tuned model capable of",
-            "processing conversational inputs.",
-            "Once loaded, the model is integrated",
-            "into a structured chat framework",
-            "designed to manage conversation flow and",
-            "maintain context."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T08:41:34.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/12/how-to-build-a-fully-functional-custom-gpt-style-conversational-ai-locally-using-hugging-face-transformers/"
-    },
-    {
-      "id": "251",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "GPT-5.1 Released",
-      "mediumTitle": "OpenAI Launches GPT-5.1 with New Features",
-      "longTitle": "OpenAI announces GPT-5.1, featuring Instant and Thinking variants",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has announced the release of",
-            "GPT-5.1, the latest iteration within the",
-            "GPT-5 family.",
-            "GPT-5.1 represents a step forward in the",
-            "evolution of OpenAI\u0027s large language",
-            "models, emphasizing a more intelligent,",
-            "understandable, and safer AI experience.",
-            "This update introduces two primary",
-            "variants: GPT-5.1 Instant and GPT-5.1",
-            "Thinking.",
-            "The development of GPT-5.1 centers on",
-            "three key areas: adaptive reasoning,",
-            "enhanced clarity in explanations, and",
-            "improved control over tone and safety.",
-            "Adaptive Reasoning Behavior suggests",
-            "that the model can adjust its reasoning",
-            "processes based on the context of the",
-            "interaction or the user\u0027s input."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T05:17:24.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/12/openai-introduces-gpt-5-1-combining-adaptive-reasoning-account-level-personalization-and-updated-safety-metrics-in-the-gpt-5-stack/"
-    },
-    {
-      "id": "248",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "VibeThinker LLM",
-      "mediumTitle": "WeiboAI\u0027s VibeThinker-1.5B LLM",
-      "longTitle": "WeiboAI Releases VibeThinker-1.5B: A Cost-Effective Reasoning LLM",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Crucially, VibeThinker-1.5B achieved",
-            "this performance with a post-training",
-            "budget of only $7,800 USD, a fraction of",
-            "the cost typically associated with",
-            "fine-tuning models of similar or larger",
-            "scale.",
-            "Despite its relatively small size,",
-            "VibeThinker-1.5B demonstrates impressive",
-            "reasoning performance on math and code",
-            "tasks, rivaling or surpassing models",
-            "significantly larger than itself.",
-            "WeiboAI, the AI division of Chinese",
-            "social networking company Weibo, has",
-            "released VibeThinker-1.5B, an",
-            "open-source 1.5 billion parameter large",
-            "language model (LLM)."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-12T20:31:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/weibos-new-open-source-ai-model-vibethinker-1-5b-outperforms-deepseek-r1-on"
-    },
-    {
-      "id": "246",
-      "topic": "Dev Tools",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Debugging",
-      "mediumTitle": "Deductive AI Automates Debugging",
-      "longTitle": "Deductive AI raises $7.5M for AI SRE agents to automate software debugging",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Deductive AI has developed AI SRE agents",
-            "to automate software failure debugging,",
-            "securing $7.5 million in seed funding to",
-            "commercialize its solution.",
-            "Deductive AI builds a knowledge graph",
-            "mapping codebases, telemetry,",
-            "discussions, and documentation, enabling",
-            "AI agents to collaboratively form and",
-            "test hypotheses to quickly find root",
-            "causes.",
-            "Deductive AI\u0027s approach incorporates",
-            "\u0027code-aware reasoning\u0027 to understand why",
-            "code behaved a certain way,",
-            "differentiating it from AI features in",
-            "existing observability platforms.",
-            "The company addresses the growing",
-            "complexity of software systems, where",
-            "engineers spend up to half their time",
-            "debugging, a problem exacerbated by",
-            "AI-generated code."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-12T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/how-deductive-ai-saved-doordash-1-000-engineering-hours-by-automating"
-    },
-    {
-      "id": "250",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "GPT-5.1 Released",
-      "mediumTitle": "OpenAI Launches GPT-5.1 Upgrade",
-      "longTitle": "OpenAI Enhances ChatGPT with GPT-5.1 Release",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has announced the release of",
-            "GPT-5.1, an upgrade to its flagship",
-            "model that was initially launched in",
-            "August.",
-            "The company describes GPT-5.1 as an",
-            "enhancement that aims to make ChatGPT",
-            "\u0022smarter and more enjoyable to talk to.\u0022",
-            "This new iteration introduces two",
-            "distinct models: GPT-5.1 Instant and",
-            "GPT-5.1 Thinking.",
-            "GPT-5.1 Instant is characterized by its",
-            "\u0022warmer\u0022 demeanor, increased",
-            "intelligence, and improved ability to",
-            "follow user instructions compared to its",
-            "predecessor.",
-            "The core of the update appears to be a",
-            "refinement of the model\u0027s conversational",
-            "abilities and its capacity to understand",
-            "and execute user prompts."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-12T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets"
-    },
-    {
-      "id": "247",
-      "topic": "Hardware",
-      "source": "The Verge AI",
-      "shortTitle": "Anthropic AI Invests",
-      "mediumTitle": "Anthropic\u0027s $50B AI Infrastructure Expansion",
-      "longTitle": "Anthropic Announces $50 Billion Investment for US AI Data Centers",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Anthropic, a leading artificial",
-            "intelligence company, has announced a",
-            "significant $50 billion investment to",
-            "bolster its computing infrastructure",
-            "across the United States.",
-            "The core of this ambitious plan involves",
-            "developing AI data centers, which are",
-            "essential for training and deploying",
-            "sophisticated AI models.",
-            "This substantial investment highlights",
-            "Anthropic\u0027s dedication to advancing AI",
-            "capabilities.",
-            "It also ensures the company possesses",
-            "the necessary computational power to",
-            "support its extensive research and",
-            "development endeavors.",
-            "In a key strategic move, Anthropic is",
-            "partnering with Fluidstack, an AI cloud",
-            "platform, to realize this expansion."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-12T13:17:06.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/819072/anthropic-50-billion-infrastructure-ai-data-center-investment"
     }
   ]
 }
