@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "316",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "Grok 4.1 Launched",
+      "mediumTitle": "xAI\u0027s Grok 4.1 Enhances AI",
+      "longTitle": "xAI\u0027s Grok 4.1 Now Live, Boosting Emotional Intelligence and Safety",
+      "paragraphs": [
+        {
+          "Lines": [
+            "xAI\u0027s latest large language model, Grok",
+            "4.1, is now powering Grok across its web",
+            "platform (grok.com), X (formerly",
+            "Twitter), and its mobile consumer",
+            "applications.",
+            "This new iteration aims to enhance the",
+            "AI assistant\u0027s capabilities by focusing",
+            "on three key areas: higher emotional",
+            "intelligence, reduced hallucinations,",
+            "and stricter safety controls.",
+            "This implies that xAI has put in place",
+            "more robust measures to prevent the",
+            "generation of harmful, biased, or",
+            "inappropriate content, ensuring a safer",
+            "user experience.",
+            "The implementation of tighter safety",
+            "controls is another critical aspect of",
+            "Grok 4.1\u0027s release."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-19T00:21:15.000Z",
+      "ranking": 8.654166666666669,
+      "articleUrl": "https://www.marktechpost.com/2025/11/18/xais-grok-4-1-pushes-toward-higher-emotional-intelligence-lower-hallucinations-and-tighter-safety-controls/"
+    },
+    {
       "id": "307",
       "topic": "Dev Tools",
       "source": "The Verge AI",
@@ -67,6 +102,41 @@
       "publishedAt": "2025-11-18T20:12:35.000Z",
       "ranking": 8.433333333333334,
       "articleUrl": "https://www.marktechpost.com/2025/11/18/googles-gemini-3-pro-turns-sparse-moe-and-1m-token-context-into-a-practical-engine-for-multimodal-agentic-workloads/"
+    },
+    {
+      "id": "313",
+      "topic": "AI Ops",
+      "source": "The Verge AI",
+      "shortTitle": "Cloudflare Outage",
+      "mediumTitle": "Cloudflare Outage Explained",
+      "longTitle": "Cloudflare Explains Tuesday\u0027s Major Internet Outage",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The root cause of the widespread",
+            "disruption has been identified as a",
+            "problem within Cloudflare\u0027s Bot",
+            "Management system.",
+            "The malfunction in this system led to an",
+            "unintended blocking of legitimate",
+            "traffic, effectively making many",
+            "websites inaccessible.",
+            "Cloudflare, a major internet",
+            "infrastructure provider, has explained",
+            "the cause of a significant outage that",
+            "occurred on Tuesday, impacting numerous",
+            "websites and services, including",
+            "OpenAI\u0027s ChatGPT.",
+            "The core explanation points to a failure",
+            "in a critical security and traffic",
+            "management feature that inadvertently",
+            "disrupted normal internet operations."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T22:25:59.000Z",
+      "ranking": 8.4,
+      "articleUrl": "https://www.theverge.com/news/823711/cloudflare-outage-postmortem"
     },
     {
       "id": "294",
@@ -138,6 +208,39 @@
       "articleUrl": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector"
     },
     {
+      "id": "315",
+      "topic": "Learning",
+      "source": "Marktechpost AI",
+      "shortTitle": "Advanced DRL Agent",
+      "mediumTitle": "Advanced Agentic DRL System",
+      "longTitle": "Advanced Agentic Deep Reinforcement Learning System Construction",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This tutorial outlines the construction",
+            "of an advanced agentic Deep",
+            "Reinforcement Learning (DRL) system that",
+            "learns optimal actions and selects its",
+            "own training strategies.",
+            "The core innovation lies in enabling the",
+            "agent not only to learn optimal actions",
+            "within an environment but also to",
+            "autonomously select its own training",
+            "strategies.",
+            "This is achieved through a multi-faceted",
+            "approach incorporating a Dueling Double",
+            "Deep Q-Network (DQN) learner, a",
+            "curriculum progression mechanism,",
+            "adaptive exploration strategies, and",
+            "meta-level UCB planning."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-19T00:35:45.000Z",
+      "ranking": 8.13846153846154,
+      "articleUrl": "https://www.marktechpost.com/2025/11/18/how-to-build-an-agentic-deep-reinforcement-learning-system-with-curriculum-progression-adaptive-exploration-and-meta-level-ucb-planning/"
+    },
+    {
       "id": "306",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -168,42 +271,6 @@
       "publishedAt": "2025-11-18T12:00:00.000Z",
       "ranking": 8.136363636363637,
       "articleUrl": "https://www.theverge.com/news/822789/microsoft-copilot-chat-outlook-word-excel-powerpoint"
-    },
-    {
-      "id": "300",
-      "topic": "AI Ops",
-      "source": "VentureBeat AI",
-      "shortTitle": "Agent 365 Launch",
-      "mediumTitle": "Microsoft Agent 365 for AI Management",
-      "longTitle": "Microsoft Agent 365: Enterprise-Grade AI Agent Infrastructure",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft has introduced Agent 365, a",
-            "new platform designed to transition AI",
-            "agents from experimental tools to",
-            "enterprise-grade infrastructure.",
-            "Agent 365 functions as a control plane",
-            "and observability layer for any AI",
-            "agent, regardless of whether it\u0027s built",
-            "on Microsoft\u0027s platforms or by",
-            "third-party vendors like Adobe,",
-            "Databricks, Cognition, and ServiceNow.",
-            "Agent 365 treats agents as integral",
-            "parts of the IT stack, offering unified",
-            "oversight for IT and security teams at a",
-            "critical time when such management is",
-            "becoming essential.",
-            "The platform aims to provide unified",
-            "observability through telemetry,",
-            "dashboards, and alerts, enabling",
-            "businesses to track all agents in use."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T06:00:00.000Z",
-      "ranking": 8.123529411764705,
-      "articleUrl": "https://venturebeat.com/ai/microsofts-agent-365-shifts-ai-agents-from-sandbox-tools-to-enterprise-grade"
     },
     {
       "id": "297",
@@ -521,6 +588,38 @@
       "articleUrl": "https://www.theverge.com/news/822988/microsoft-anthropic-partnership-claude-models-azure-investment-nvidia"
     },
     {
+      "id": "314",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Regs Blocked",
+      "mediumTitle": "House GOP Eyes AI State Reg Ban",
+      "longTitle": "House Republicans explore blocking state AI regulations via NDAA",
+      "paragraphs": [
+        {
+          "Lines": [
+            "House Republicans are reportedly",
+            "exploring strategies to reinstate a",
+            "federal moratorium on state-level",
+            "Artificial Intelligence (AI)",
+            "regulations.",
+            "House Majority Leader Steve Scalise",
+            "(R-LA) has indicated that he is",
+            "considering incorporating language into",
+            "the National Defense Authorization Act",
+            "(NDAA) that would effectively preempt or",
+            "ban state AI regulations.",
+            "This initiative aims to prevent",
+            "individual states from enacting their",
+            "own laws governing AI, a move that",
+            "previously stalled earlier this year."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T19:45:52.000Z",
+      "ranking": 7.422222222222223,
+      "articleUrl": "https://www.theverge.com/policy/823650/ai-moratorium-house-gop-scalise"
+    },
+    {
       "id": "303",
       "topic": "Policy",
       "source": "The Verge AI",
@@ -592,6 +691,42 @@
       "articleUrl": "https://venturebeat.com/ai/microsoft-remakes-windows-for-an-era-of-autonomous-ai-agents"
     },
     {
+      "id": "300",
+      "topic": "AI Ops",
+      "source": "VentureBeat AI",
+      "shortTitle": "Agent 365 Launch",
+      "mediumTitle": "Microsoft Agent 365 for AI Management",
+      "longTitle": "Microsoft Agent 365: Enterprise-Grade AI Agent Infrastructure",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft has introduced Agent 365, a",
+            "new platform designed to transition AI",
+            "agents from experimental tools to",
+            "enterprise-grade infrastructure.",
+            "Agent 365 functions as a control plane",
+            "and observability layer for any AI",
+            "agent, regardless of whether it\u0027s built",
+            "on Microsoft\u0027s platforms or by",
+            "third-party vendors like Adobe,",
+            "Databricks, Cognition, and ServiceNow.",
+            "Agent 365 treats agents as integral",
+            "parts of the IT stack, offering unified",
+            "oversight for IT and security teams at a",
+            "critical time when such management is",
+            "becoming essential.",
+            "The platform aims to provide unified",
+            "observability through telemetry,",
+            "dashboards, and alerts, enabling",
+            "businesses to track all agents in use."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T06:00:00.000Z",
+      "ranking": 6.945598205973327,
+      "articleUrl": "https://venturebeat.com/ai/microsofts-agent-365-shifts-ai-agents-from-sandbox-tools-to-enterprise-grade"
+    },
+    {
       "id": "301",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -625,7 +760,7 @@
         }
       ],
       "publishedAt": "2025-11-18T06:00:00.000Z",
-      "ranking": 6.777777777777779,
+      "ranking": 5.599846568700276,
       "articleUrl": "https://venturebeat.com/ai/google-antigravity-introduces-agent-first-architecture-for-asynchronous"
     },
     {
@@ -661,7 +796,7 @@
         }
       ],
       "publishedAt": "2025-11-17T18:00:56.000Z",
-      "ranking": 5.829599956726518,
+      "ranking": 5.326298019256635,
       "articleUrl": "https://www.theverge.com/news/822489/weather-forecast-ai-model-google-weathernext"
     },
     {
@@ -698,7 +833,7 @@
         }
       ],
       "publishedAt": "2025-11-17T13:07:57.000Z",
-      "ranking": 5.7312375013204715,
+      "ranking": 5.159705713591704,
       "articleUrl": "https://www.theverge.com/news/822240/google-ai-mode-travel-plans-canvas"
     },
     {
@@ -733,7 +868,7 @@
         }
       ],
       "publishedAt": "2025-11-17T21:16:46.000Z",
-      "ranking": 5.559017137245478,
+      "ranking": 5.101320806599263,
       "articleUrl": "https://www.marktechpost.com/2025/11/17/google-deepminds-weathernext-2-uses-functional-generative-networks-for-8x-faster-probabilistic-weather-forecasts/"
     },
     {
@@ -769,7 +904,7 @@
         }
       ],
       "publishedAt": "2025-11-17T18:47:14.000Z",
-      "ranking": 5.25218735504666,
+      "ranking": 4.759667753544866,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/822496/openai-employee-equity-donation-charity-rounds-share-valuation"
     },
     {
@@ -803,7 +938,7 @@
         }
       ],
       "publishedAt": "2025-11-17T09:00:00.000Z",
-      "ranking": 5.173898604222579,
+      "ranking": 4.544624312165672,
       "articleUrl": "https://venturebeat.com/ai/phi-4-proves-that-a-data-first-sft-methodology-is-the-new-differentiator"
     },
     {
@@ -836,7 +971,7 @@
         }
       ],
       "publishedAt": "2025-11-17T06:14:03.000Z",
-      "ranking": 4.07532085007942,
+      "ranking": 3.4074001804848324,
       "articleUrl": "https://www.theverge.com/news/821943/jeff-bezos-project-prometheus-co-ceo-funding-ai-startup"
     },
     {
@@ -873,7 +1008,7 @@
         }
       ],
       "publishedAt": "2025-11-17T06:00:00.000Z",
-      "ranking": 3.537995190315744,
+      "ranking": 2.86680255228858,
       "articleUrl": "https://venturebeat.com/ai/in-a-sea-of-agents-aws-bets-on-structured-adherence-and-spec-fidelity"
     },
     {
@@ -906,7 +1041,7 @@
         }
       ],
       "publishedAt": "2025-11-16T19:00:00.000Z",
-      "ranking": 2.693979113105433,
+      "ranking": 1.869085907622046,
       "articleUrl": "https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later"
     },
     {
@@ -1226,144 +1361,6 @@
       "publishedAt": "2025-11-13T19:30:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/upwork-study-shows-ai-agents-excel-with-human-partners-but-fail"
-    },
-    {
-      "id": "256",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "LinkedIn AI Search",
-      "mediumTitle": "LinkedIn\u0027s AI-Powered People Search",
-      "longTitle": "LinkedIn Launches AI People Search, Sharing Enterprise AI Development Playbook",
-      "paragraphs": [
-        {
-          "Lines": [
-            "LinkedIn has launched its new AI-powered",
-            "people search, a significant undertaking",
-            "that highlights the challenges of",
-            "deploying generative AI at enterprise",
-            "scale for its 1.3 billion users.",
-            "A key takeaway for enterprises is",
-            "LinkedIn\u0027s development of a \u0022cookbook\u0022\u2014a",
-            "replicable, multi-stage process",
-            "involving distillation, co-design, and",
-            "continuous optimization.",
-            "The company\u0027s experience demonstrates",
-            "that strategic advantage in enterprise",
-            "AI comes from mastering the development",
-            "pipeline\u2014the \u0022AI-native\u0022 cookbook of",
-            "co-design, distillation, and",
-            "optimization."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T17:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/inside-linkedins-generative-ai-cookbook-how-it-scaled-people-search-to-1-3"
-    },
-    {
-      "id": "267",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Claude\u0027s Bias Fix",
-      "mediumTitle": "Anthropic\u0027s Method for Even-Handed AI",
-      "longTitle": "Anthropic Details Methodology for Politically Even-Handed AI Chatbot Claude",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Anthropic has publicly detailed its",
-            "methodology for ensuring its AI chatbot",
-            "Claude remains politically even-handed,",
-            "a move prompted by concerns including a",
-            "ban on \u0027woke AI\u0027 by former President",
-            "Donald Trump.",
-            "The company\u0027s stated goal is for Claude",
-            "to engage with opposing political",
-            "viewpoints with equal depth, engagement,",
-            "and quality of analysis.",
-            "Anthropic employs a multi-faceted",
-            "approach involving rigorous testing and",
-            "refinement, including specific",
-            "evaluation metrics and benchmarks",
-            "designed to identify and mitigate",
-            "potential biases.",
-            "They are not aiming for neutrality by",
-            "avoiding political topics, but rather",
-            "for a balanced and fair representation",
-            "of different perspectives."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T16:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/819216/anthropic-claude-political-even-handedness-woke-ai"
-    },
-    {
-      "id": "268",
-      "topic": "Security",
-      "source": "The Verge AI",
-      "shortTitle": "AI in Hacking",
-      "mediumTitle": "Chinese Hackers Use AI for Attacks",
-      "longTitle": "Chinese State-Backed Hackers Automate Attacks with AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Chinese state-backed hackers have once",
-            "again utilized Anthropic\u0027s AI model,",
-            "Claude, to automate a significant",
-            "portion of their cyberattacks.",
-            "According to Anthropic, the hackers were",
-            "able to automate between 80% and 90% of",
-            "their attacks using Claude.",
-            "The use of AI by state-sponsored groups",
-            "raises particular concerns due to the",
-            "potential for widespread disruption and",
-            "espionage.",
-            "This marks a substantial increase in the",
-            "level of AI automation employed in such",
-            "malicious activities compared to",
-            "previous instances."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T15:47:39.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/820458/hackers-china-ai-anthropic-claude"
-    },
-    {
-      "id": "257",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Firefox AI",
-      "mediumTitle": "Firefox Introduces AI Window",
-      "longTitle": "Mozilla Announces New AI-Powered Assistant for Firefox",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Mozilla, the organization behind the",
-            "independent browser Firefox, has",
-            "announced the development of a new",
-            "AI-powered feature called \u0022AI Window.\u0022",
-            "This feature is designed to act as an AI",
-            "assistant and chatbot integrated",
-            "directly into the Firefox browser.",
-            "Mozilla emphasizes that AI Window is an",
-            "\u0022opt-in\u0022 experience, positioning it as",
-            "an \u0022intelligent and user-controlled",
-            "space.\u0022",
-            "The company is currently developing this",
-            "feature \u0022in the open,\u0022 actively seeking",
-            "and incorporating user input during its",
-            "creation.",
-            "This approach suggests a commitment to",
-            "transparency and user-centric design as",
-            "they build out this new AI functionality",
-            "for their browser."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T13:26:41.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/820196/mozilla-firefox-ai-window-browser"
     }
   ]
 }
