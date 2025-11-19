@@ -102,75 +102,6 @@
       "articleUrl": "https://www.theverge.com/news/823711/cloudflare-outage-postmortem"
     },
     {
-      "id": "294",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Blue J\u0027s LLM Pivot",
-      "mediumTitle": "Blue J\u0027s AI Pivot to LLMs",
-      "longTitle": "Blue J\u0027s Successful Pivot from AI to LLMs for Tax Law",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The legal tech startup Blue J, founded",
-            "by tax law professor Benjamin Alarie,",
-            "successfully pivoted its entire business",
-            "model from a decade-old AI approach to",
-            "one based on large language models",
-            "(LLMs) like ChatGPT.",
-            "This strategic shift, made in late 2022,",
-            "has led to a dramatic increase in the",
-            "company\u0027s valuation to over $300 million",
-            "and a significant surge in revenue,",
-            "serving over 3,500 organizations.",
-            "The company\u0027s willingness to abandon",
-            "years of proprietary technology for an",
-            "unproven foundation, and its success in",
-            "minimizing AI hallucinations through",
-            "careful engineering and human oversight,",
-            "offers valuable lessons for other",
-            "industries."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T15:00:00.000Z",
-      "ranking": 8.313157894736843,
-      "articleUrl": "https://venturebeat.com/ai/how-ai-tax-startup-blue-j-torched-its-entire-business-model-for-chatgpt-and"
-    },
-    {
-      "id": "302",
-      "topic": "AI Ops",
-      "source": "The Verge AI",
-      "shortTitle": "Cloudflare Outage",
-      "mediumTitle": "Cloudflare Outage Disrupts Web Services",
-      "longTitle": "Massive Cloudflare Outage Causes Widespread Internet Disruptions",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A massive outage at Cloudflare, a",
-            "prominent networking company responsible",
-            "for DDoS protection and content delivery",
-            "for numerous global businesses,",
-            "significantly disrupted internet",
-            "services on Tuesday morning.",
-            "The incident rendered many websites",
-            "inaccessible, including prominent",
-            "platforms like X (formerly Twitter) and",
-            "ChatGPT, as well as the outage-tracking",
-            "website DownDetector itself.",
-            "The article highlights the critical role",
-            "Cloudflare plays in the internet\u0027s",
-            "backbone, underscoring how a single",
-            "point of failure within their system can",
-            "have cascading effects across a vast",
-            "number of online services."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T14:30:54.000Z",
-      "ranking": 8.225,
-      "articleUrl": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector"
-    },
-    {
       "id": "315",
       "topic": "Learning",
       "source": "Marktechpost AI",
@@ -307,43 +238,6 @@
       "articleUrl": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and"
     },
     {
-      "id": "307",
-      "topic": "Dev Tools",
-      "source": "The Verge AI",
-      "shortTitle": "Google\u0027s Antigravity",
-      "mediumTitle": "Google Antigravity: Agent-First Coding",
-      "longTitle": "Google Unveils Antigravity for Agent-First Software Development",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has introduced Antigravity, a new",
-            "development tool designed to foster an",
-            "\u0022agent-first future\u0022 in coding,",
-            "leveraging its latest AI model, Gemini 3",
-            "Pro, and other third-party AI models.",
-            "Antigravity is engineered to support",
-            "multiple autonomous agents, granting",
-            "them direct access to essential",
-            "development environments such as the",
-            "code editor, terminal, and web browser.",
-            "The announcement of Antigravity",
-            "coincides with the reveal of Gemini 3",
-            "Pro, indicating that the capabilities of",
-            "this new AI model are a foundational",
-            "element of the tool.",
-            "The core philosophy behind Antigravity",
-            "is its \u0022agent-first\u0022 approach,",
-            "suggesting a shift towards AI agents",
-            "playing a more central and active role",
-            "in software development."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 7.5102395103310045,
-      "articleUrl": "https://www.theverge.com/news/822833/google-antigravity-ide-coding-agent-gemini-3-pro"
-    },
-    {
       "id": "314",
       "topic": "Policy",
       "source": "The Verge AI",
@@ -413,107 +307,145 @@
       "articleUrl": "https://www.theverge.com/report/823725/vanlife-ai-travel-planner-google-zero"
     },
     {
-      "id": "306",
-      "topic": "Generative AI",
+      "id": "320",
+      "topic": "Policy",
       "source": "The Verge AI",
-      "shortTitle": "Free AI in Office",
-      "mediumTitle": "Microsoft Adds Free AI to Office Apps",
-      "longTitle": "Microsoft to Offer Free AI Features in Core Office Applications in 2026",
+      "shortTitle": "EU Relaxes Tech Rules",
+      "mediumTitle": "Europe Scales Back GDPR \u0026 AI Act",
+      "longTitle": "Europe Significantly Relaxes GDPR and AI Act Under Pressure",
       "paragraphs": [
         {
           "Lines": [
-            "While the company has been actively",
-            "developing and integrating advanced AI",
-            "capabilities through its paid Microsoft",
-            "365 Copilot subscription, a substantial",
-            "wave of new, free AI functionalities is",
-            "slated for release in early 2026.",
-            "Microsoft is significantly expanding the",
-            "availability of AI features within its",
-            "core Office applications, including",
-            "Outlook, Word, Excel, and PowerPoint.",
-            "These forthcoming features will be",
-            "accessible to users without the need for",
-            "the premium Microsoft 365 Copilot",
-            "subscription, which currently costs $30",
-            "per month per user."
+            "Europe is significantly scaling back its",
+            "ambitious privacy and AI regulations,",
+            "including the General Data Protection",
+            "Regulation (GDPR) and upcoming AI Act,",
+            "due to intense pressure from industry",
+            "and the US government.",
+            "The pressure from major tech companies",
+            "and the US government appears to have",
+            "been a significant factor in Brussels\u0027",
+            "decision to revise these flagship laws.",
+            "Furthermore, Europe is relaxing or",
+            "delaying aspects of its landmark AI Act.",
+            "This legislation, intended to be a",
+            "comprehensive framework for regulating",
+            "artificial intelligence, is facing",
+            "adjustments that suggest a more lenient",
+            "approach to AI development and",
+            "deployment."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-19T08:47:09.000Z",
+      "ranking": 7.381818181818183,
+      "articleUrl": "https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes"
+    },
+    {
+      "id": "294",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Blue J\u0027s LLM Pivot",
+      "mediumTitle": "Blue J\u0027s AI Pivot to LLMs",
+      "longTitle": "Blue J\u0027s Successful Pivot from AI to LLMs for Tax Law",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The legal tech startup Blue J, founded",
+            "by tax law professor Benjamin Alarie,",
+            "successfully pivoted its entire business",
+            "model from a decade-old AI approach to",
+            "one based on large language models",
+            "(LLMs) like ChatGPT.",
+            "This strategic shift, made in late 2022,",
+            "has led to a dramatic increase in the",
+            "company\u0027s valuation to over $300 million",
+            "and a significant surge in revenue,",
+            "serving over 3,500 organizations.",
+            "The company\u0027s willingness to abandon",
+            "years of proprietary technology for an",
+            "unproven foundation, and its success in",
+            "minimizing AI hallucinations through",
+            "careful engineering and human oversight,",
+            "offers valuable lessons for other",
+            "industries."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T15:00:00.000Z",
+      "ranking": 7.224042338369291,
+      "articleUrl": "https://venturebeat.com/ai/how-ai-tax-startup-blue-j-torched-its-entire-business-model-for-chatgpt-and"
+    },
+    {
+      "id": "307",
+      "topic": "Dev Tools",
+      "source": "The Verge AI",
+      "shortTitle": "Google\u0027s Antigravity",
+      "mediumTitle": "Google Antigravity: Agent-First Coding",
+      "longTitle": "Google Unveils Antigravity for Agent-First Software Development",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has introduced Antigravity, a new",
+            "development tool designed to foster an",
+            "\u0022agent-first future\u0022 in coding,",
+            "leveraging its latest AI model, Gemini 3",
+            "Pro, and other third-party AI models.",
+            "Antigravity is engineered to support",
+            "multiple autonomous agents, granting",
+            "them direct access to essential",
+            "development environments such as the",
+            "code editor, terminal, and web browser.",
+            "The announcement of Antigravity",
+            "coincides with the reveal of Gemini 3",
+            "Pro, indicating that the capabilities of",
+            "this new AI model are a foundational",
+            "element of the tool.",
+            "The core philosophy behind Antigravity",
+            "is its \u0022agent-first\u0022 approach,",
+            "suggesting a shift towards AI agents",
+            "playing a more central and active role",
+            "in software development."
           ]
         }
       ],
       "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 7.134103137397114,
-      "articleUrl": "https://www.theverge.com/news/822789/microsoft-copilot-chat-outlook-word-excel-powerpoint"
+      "ranking": 7.146857691077468,
+      "articleUrl": "https://www.theverge.com/news/822833/google-antigravity-ide-coding-agent-gemini-3-pro"
     },
     {
-      "id": "304",
-      "topic": "Generative AI",
+      "id": "302",
+      "topic": "AI Ops",
       "source": "The Verge AI",
-      "shortTitle": "AI Windows",
-      "mediumTitle": "Windows Evolves into Agentic OS",
-      "longTitle": "Microsoft\u0027s Vision: Windows as an Agentic OS with AI",
+      "shortTitle": "Cloudflare Outage",
+      "mediumTitle": "Cloudflare Outage Disrupts Web Services",
+      "longTitle": "Massive Cloudflare Outage Causes Widespread Internet Disruptions",
       "paragraphs": [
         {
           "Lines": [
-            "Microsoft is embarking on a significant",
-            "transformation of Windows, aiming to",
-            "evolve it into an \u0027agentic OS\u0027 with AI",
-            "agents deeply integrated into the user",
-            "experience.",
-            "By transforming Windows into an \u0027agentic",
-            "OS,\u0027 Microsoft is positioning itself to",
-            "offer a more intelligent, proactive, and",
-            "efficient computing experience, where AI",
-            "agents act as extensions of the user\u0027s",
-            "will, directly influencing and managing",
-            "the digital environment.",
-            "The core idea is to imbue these AI",
-            "agents with the ability to act as",
-            "personal assistants within the operating",
-            "system, capable of independently",
-            "controlling the PC and executing tasks",
-            "at the user\u0027s command."
+            "A massive outage at Cloudflare, a",
+            "prominent networking company responsible",
+            "for DDoS protection and content delivery",
+            "for numerous global businesses,",
+            "significantly disrupted internet",
+            "services on Tuesday morning.",
+            "The incident rendered many websites",
+            "inaccessible, including prominent",
+            "platforms like X (formerly Twitter) and",
+            "ChatGPT, as well as the outage-tracking",
+            "website DownDetector itself.",
+            "The article highlights the critical role",
+            "Cloudflare plays in the internet\u0027s",
+            "backbone, underscoring how a single",
+            "point of failure within their system can",
+            "have cascading effects across a vast",
+            "number of online services."
           ]
         }
       ],
-      "publishedAt": "2025-11-18T12:00:34.000Z",
-      "ranking": 7.086762562689507,
-      "articleUrl": "https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration"
-    },
-    {
-      "id": "303",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "Warren Probes AI Bailout",
-      "mediumTitle": "Warren Questions Potential AI Company Bailouts",
-      "longTitle": "Senator Warren Seeks Details on Potential AI Company Bailouts",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Senator Elizabeth Warren (D-MA) has",
-            "formally requested detailed information",
-            "from the Trump administration regarding",
-            "any potential plans to provide financial",
-            "assistance, or a \u0022bailout,\u0022 to major",
-            "Artificial Intelligence (AI) companies",
-            "using taxpayer funds.",
-            "Her inquiry aims to ascertain the extent",
-            "of these potential plans, the specific",
-            "companies that might be considered for",
-            "such support, and the rationale behind",
-            "any proposed financial interventions.",
-            "The core of Senator Warren\u0027s concern",
-            "stems from the possibility that the",
-            "administration might be considering",
-            "measures to support large AI firms,",
-            "which she views as potentially",
-            "benefiting from public money without",
-            "sufficient justification or oversight."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T14:00:00.000Z",
-      "ranking": 7.041666666666666,
-      "articleUrl": "https://www.theverge.com/news/823136/senator-elizabeth-warren-openai-trump-bailout"
+      "publishedAt": "2025-11-18T14:30:54.000Z",
+      "ranking": 7.0932969442430736,
+      "articleUrl": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector"
     },
     {
       "id": "298",
@@ -551,6 +483,73 @@
       "articleUrl": "https://venturebeat.com/ai/microsoft-remakes-windows-for-an-era-of-autonomous-ai-agents"
     },
     {
+      "id": "306",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Free AI in Office",
+      "mediumTitle": "Microsoft Adds Free AI to Office Apps",
+      "longTitle": "Microsoft to Offer Free AI Features in Core Office Applications in 2026",
+      "paragraphs": [
+        {
+          "Lines": [
+            "While the company has been actively",
+            "developing and integrating advanced AI",
+            "capabilities through its paid Microsoft",
+            "365 Copilot subscription, a substantial",
+            "wave of new, free AI functionalities is",
+            "slated for release in early 2026.",
+            "Microsoft is significantly expanding the",
+            "availability of AI features within its",
+            "core Office applications, including",
+            "Outlook, Word, Excel, and PowerPoint.",
+            "These forthcoming features will be",
+            "accessible to users without the need for",
+            "the premium Microsoft 365 Copilot",
+            "subscription, which currently costs $30",
+            "per month per user."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T12:00:00.000Z",
+      "ranking": 6.770721316701823,
+      "articleUrl": "https://www.theverge.com/news/822789/microsoft-copilot-chat-outlook-word-excel-powerpoint"
+    },
+    {
+      "id": "304",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Windows",
+      "mediumTitle": "Windows Evolves into Agentic OS",
+      "longTitle": "Microsoft\u0027s Vision: Windows as an Agentic OS with AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft is embarking on a significant",
+            "transformation of Windows, aiming to",
+            "evolve it into an \u0027agentic OS\u0027 with AI",
+            "agents deeply integrated into the user",
+            "experience.",
+            "By transforming Windows into an \u0027agentic",
+            "OS,\u0027 Microsoft is positioning itself to",
+            "offer a more intelligent, proactive, and",
+            "efficient computing experience, where AI",
+            "agents act as extensions of the user\u0027s",
+            "will, directly influencing and managing",
+            "the digital environment.",
+            "The core idea is to imbue these AI",
+            "agents with the ability to act as",
+            "personal assistants within the operating",
+            "system, capable of independently",
+            "controlling the PC and executing tasks",
+            "at the user\u0027s command."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T12:00:34.000Z",
+      "ranking": 6.723512551924745,
+      "articleUrl": "https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration"
+    },
+    {
       "id": "305",
       "topic": "Business",
       "source": "The Verge AI",
@@ -582,44 +581,8 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 6.762025194269977,
+      "ranking": 6.398643386051411,
       "articleUrl": "https://www.theverge.com/news/822035/microsoft-agent-365-businesses-control-security"
-    },
-    {
-      "id": "300",
-      "topic": "AI Ops",
-      "source": "VentureBeat AI",
-      "shortTitle": "Agent 365 Launch",
-      "mediumTitle": "Microsoft Agent 365 for AI Management",
-      "longTitle": "Microsoft Agent 365: Enterprise-Grade AI Agent Infrastructure",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft has introduced Agent 365, a",
-            "new platform designed to transition AI",
-            "agents from experimental tools to",
-            "enterprise-grade infrastructure.",
-            "Agent 365 functions as a control plane",
-            "and observability layer for any AI",
-            "agent, regardless of whether it\u0027s built",
-            "on Microsoft\u0027s platforms or by",
-            "third-party vendors like Adobe,",
-            "Databricks, Cognition, and ServiceNow.",
-            "Agent 365 treats agents as integral",
-            "parts of the IT stack, offering unified",
-            "oversight for IT and security teams at a",
-            "critical time when such management is",
-            "becoming essential.",
-            "The platform aims to provide unified",
-            "observability through telemetry,",
-            "dashboards, and alerts, enabling",
-            "businesses to track all agents in use."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T06:00:00.000Z",
-      "ranking": 6.5582040739940215,
-      "articleUrl": "https://venturebeat.com/ai/microsofts-agent-365-shifts-ai-agents-from-sandbox-tools-to-enterprise-grade"
     },
     {
       "id": "308",
@@ -654,8 +617,44 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 6.536201009092655,
+      "ranking": 6.172819206656491,
       "articleUrl": "https://www.theverge.com/news/822977/gemini-3-google-ai-model-launch"
+    },
+    {
+      "id": "300",
+      "topic": "AI Ops",
+      "source": "VentureBeat AI",
+      "shortTitle": "Agent 365 Launch",
+      "mediumTitle": "Microsoft Agent 365 for AI Management",
+      "longTitle": "Microsoft Agent 365: Enterprise-Grade AI Agent Infrastructure",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft has introduced Agent 365, a",
+            "new platform designed to transition AI",
+            "agents from experimental tools to",
+            "enterprise-grade infrastructure.",
+            "Agent 365 functions as a control plane",
+            "and observability layer for any AI",
+            "agent, regardless of whether it\u0027s built",
+            "on Microsoft\u0027s platforms or by",
+            "third-party vendors like Adobe,",
+            "Databricks, Cognition, and ServiceNow.",
+            "Agent 365 treats agents as integral",
+            "parts of the IT stack, offering unified",
+            "oversight for IT and security teams at a",
+            "critical time when such management is",
+            "becoming essential.",
+            "The platform aims to provide unified",
+            "observability through telemetry,",
+            "dashboards, and alerts, enabling",
+            "businesses to track all agents in use."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T06:00:00.000Z",
+      "ranking": 6.111083573218615,
+      "articleUrl": "https://venturebeat.com/ai/microsofts-agent-365-shifts-ai-agents-from-sandbox-tools-to-enterprise-grade"
     },
     {
       "id": "309",
@@ -691,8 +690,44 @@
         }
       ],
       "publishedAt": "2025-11-18T11:20:17.000Z",
-      "ranking": 6.478118040900546,
+      "ranking": 6.105497841209099,
       "articleUrl": "https://www.theverge.com/news/822988/microsoft-anthropic-partnership-claude-models-azure-investment-nvidia"
+    },
+    {
+      "id": "318",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "CraftStory AI Video",
+      "mediumTitle": "CraftStory: Long-Form AI Video Generation",
+      "longTitle": "CraftStory Launches with Long-Form Human-Centric AI Video",
+      "paragraphs": [
+        {
+          "Lines": [
+            "CraftStory, founded by the creators of",
+            "the widely-used OpenCV library, has",
+            "launched with technology capable of",
+            "generating realistic, human-centric",
+            "videos up to five minutes long.",
+            "This significantly surpasses the",
+            "duration limitations of competitors like",
+            "OpenAI\u0027s Sora and Google\u0027s Veo, which",
+            "typically produce clips of 25 seconds or",
+            "less.",
+            "This breakthrough addresses a major",
+            "hurdle in the nascent AI video industry,",
+            "potentially unlocking substantial",
+            "commercial value for enterprises needing",
+            "to scale video production for training,",
+            "marketing, and customer education.",
+            "The ability to produce consistent,",
+            "longer-form videos addresses a critical",
+            "gap where short AI clips are inadequate."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-19T15:00:00.000Z",
+      "ranking": 6.0649999999999995,
+      "articleUrl": "https://venturebeat.com/ai/opencv-founders-launch-ai-video-startup-to-take-on-openai-and-google"
     },
     {
       "id": "295",
@@ -727,7 +762,7 @@
         }
       ],
       "publishedAt": "2025-11-18T09:29:21.000Z",
-      "ranking": 6.427322055847579,
+      "ranking": 6.028897495609881,
       "articleUrl": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector"
     },
     {
@@ -760,8 +795,44 @@
         }
       ],
       "publishedAt": "2025-11-18T09:00:00.000Z",
-      "ranking": 6.32130573616553,
+      "ranking": 5.916054137423652,
       "articleUrl": "https://www.theverge.com/report/822443/microsoft-windows-copilot-vision-ai-assistant-pc-voice-controls-impressions"
+    },
+    {
+      "id": "303",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "Warren Probes AI Bailout",
+      "mediumTitle": "Warren Questions Potential AI Company Bailouts",
+      "longTitle": "Senator Warren Seeks Details on Potential AI Company Bailouts",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Senator Elizabeth Warren (D-MA) has",
+            "formally requested detailed information",
+            "from the Trump administration regarding",
+            "any potential plans to provide financial",
+            "assistance, or a \u0022bailout,\u0022 to major",
+            "Artificial Intelligence (AI) companies",
+            "using taxpayer funds.",
+            "Her inquiry aims to ascertain the extent",
+            "of these potential plans, the specific",
+            "companies that might be considered for",
+            "such support, and the rationale behind",
+            "any proposed financial interventions.",
+            "The core of Senator Warren\u0027s concern",
+            "stems from the possibility that the",
+            "administration might be considering",
+            "measures to support large AI firms,",
+            "which she views as potentially",
+            "benefiting from public money without",
+            "sufficient justification or oversight."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T14:00:00.000Z",
+      "ranking": 5.863847332090647,
+      "articleUrl": "https://www.theverge.com/news/823136/senator-elizabeth-warren-openai-trump-bailout"
     },
     {
       "id": "301",
@@ -797,7 +868,7 @@
         }
       ],
       "publishedAt": "2025-11-18T06:00:00.000Z",
-      "ranking": 5.212452417538891,
+      "ranking": 4.7653314243922456,
       "articleUrl": "https://venturebeat.com/ai/google-antigravity-introduces-agent-first-architecture-for-asynchronous"
     },
     {
@@ -833,7 +904,7 @@
         }
       ],
       "publishedAt": "2025-11-17T18:00:56.000Z",
-      "ranking": 4.773313965791667,
+      "ranking": 4.158933114568997,
       "articleUrl": "https://www.theverge.com/news/822489/weather-forecast-ai-model-google-weathernext"
     },
     {
@@ -868,7 +939,7 @@
         }
       ],
       "publishedAt": "2025-11-17T21:16:46.000Z",
-      "ranking": 4.59343401372891,
+      "ranking": 4.024605468368218,
       "articleUrl": "https://www.marktechpost.com/2025/11/17/google-deepminds-weathernext-2-uses-functional-generative-networks-for-8x-faster-probabilistic-weather-forecasts/"
     },
     {
@@ -905,7 +976,7 @@
         }
       ],
       "publishedAt": "2025-11-17T13:07:57.000Z",
-      "ranking": 4.539252294941246,
+      "ranking": 3.856721341698666,
       "articleUrl": "https://www.theverge.com/news/822240/google-ai-mode-travel-plans-canvas"
     },
     {
@@ -941,7 +1012,7 @@
         }
       ],
       "publishedAt": "2025-11-17T18:47:14.000Z",
-      "ranking": 4.217345830349712,
+      "ranking": 3.6137347140803735,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/822496/openai-employee-equity-donation-charity-rounds-share-valuation"
     },
     {
@@ -975,7 +1046,7 @@
         }
       ],
       "publishedAt": "2025-11-17T09:00:00.000Z",
-      "ranking": 3.867072003862148,
+      "ranking": 3.126866025312329,
       "articleUrl": "https://venturebeat.com/ai/phi-4-proves-that-a-data-first-sft-methodology-is-the-new-differentiator"
     },
     {
@@ -1008,7 +1079,7 @@
         }
       ],
       "publishedAt": "2025-11-17T06:14:03.000Z",
-      "ranking": 2.6916322572555194,
+      "ranking": 1.9128250685028974,
       "articleUrl": "https://www.theverge.com/news/821943/jeff-bezos-project-prometheus-co-ceo-funding-ai-startup"
     },
     {
@@ -1045,7 +1116,7 @@
         }
       ],
       "publishedAt": "2025-11-17T06:00:00.000Z",
-      "ranking": 2.147799142117149,
+      "ranking": 1.365723825953153,
       "articleUrl": "https://venturebeat.com/ai/in-a-sea-of-agents-aws-bets-on-structured-adherence-and-spec-fidelity"
     },
     {
@@ -1078,7 +1149,7 @@
         }
       ],
       "publishedAt": "2025-11-16T19:00:00.000Z",
-      "ranking": 0.9980951124107573,
+      "ranking": 0.062498871580457305,
       "articleUrl": "https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later"
     },
     {
@@ -1293,74 +1364,6 @@
       "publishedAt": "2025-11-14T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/openai-experiment-finds-that-sparse-models-could-give-ai-builders-the-tools"
-    },
-    {
-      "id": "270",
-      "topic": "Robotics",
-      "source": "The Verge AI",
-      "shortTitle": "Self-Drive Trial",
-      "mediumTitle": "Author Experiences UK\u0027s First Self-Driving Car",
-      "longTitle": "Author\u0027s First Ride in Wayve\u0027s Self-Driving Car in London",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The author, initially skeptical about",
-            "self-driving cars in the UK, found",
-            "themselves a passenger in Wayve\u0027s",
-            "autonomous vehicle during a trip through",
-            "north London.",
-            "This firsthand experience comes after",
-            "Wayve\u0027s June announcement detailing",
-            "their plans to trial Level 4 fully",
-            "autonomous robotaxis in partnership with",
-            "Uber.",
-            "The core of the article focuses on the",
-            "author\u0027s personal encounter with this",
-            "cutting-edge self-driving technology.",
-            "The mention of \u0027Level 4 fully",
-            "autonomous\u0027 signifies a high degree of",
-            "automation where the car handles all",
-            "driving duties under defined",
-            "circumstances."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-14T03:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/report/820324/wayve-driverless-robotaxi-london"
-    },
-    {
-      "id": "265",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Baidu ERNIE 5.0",
-      "mediumTitle": "Baidu Launches ERNIE 5.0 AI Model",
-      "longTitle": "Baidu Unveils ERNIE 5.0, a Proprietary Omni-Modal AI System",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Baidu has launched its next-generation",
-            "foundation model, ERNIE 5.0, a",
-            "proprietary, omni-modal system capable",
-            "of processing and generating text,",
-            "images, audio, and video.",
-            "Baidu\u0027s ERNIE 5.0 represents a strategic",
-            "move to establish itself as a global AI",
-            "infrastructure provider, offering both",
-            "premium proprietary models and",
-            "open-source alternatives.",
-            "Benchmark results shared by Baidu",
-            "indicate that ERNIE 5.0 matches or",
-            "surpasses GPT-5 and Gemini 2.5 Pro in",
-            "multimodal reasoning, document",
-            "understanding, and image-based question",
-            "answering."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-13T21:23:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/baidu-unveils-proprietary-ernie-5-beating-gpt-5-performance-on-charts"
     }
   ]
 }
