@@ -35,6 +35,42 @@
       "articleUrl": "https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue"
     },
     {
+      "id": "330",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Lightfield CRM",
+      "mediumTitle": "Lightfield: AI CRM Pivot",
+      "longTitle": "Tome Founders Launch Lightfield, an AI-Native CRM",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The founders of Tome, an AI-powered",
+            "presentation app that previously",
+            "attracted 20 million users and $43",
+            "million in funding, have launched",
+            "Lightfield, an AI-native Customer",
+            "Relationship Management (CRM) platform,",
+            "representing a fundamental reimagining",
+            "of CRM by moving away from manual data",
+            "entry towards a system that",
+            "automatically captures, organizes, and",
+            "acts on customer interactions using",
+            "artificial intelligence.",
+            "Lightfield\u0027s core innovation is its",
+            "architectural departure from traditional",
+            "CRMs like Salesforce and HubSpot,",
+            "storing complete, unstructured",
+            "conversation records instead of forcing",
+            "interactions into rigid, predefined data",
+            "fields."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-20T15:00:00.000Z",
+      "ranking": 7.684375000000001,
+      "articleUrl": "https://venturebeat.com/ai/tomes-founders-ditch-viral-presentation-app-with-20m-users-to-build-ai"
+    },
+    {
       "id": "321",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -141,6 +177,39 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws"
     },
     {
+      "id": "331",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Ai2\u0027s Olmo 3 LLMs",
+      "mediumTitle": "Allen Institute releases Olmo 3 LLMs",
+      "longTitle": "Allen Institute for AI launches Olmo 3 LLMs with transparency and customization",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The Allen Institute for AI (Ai2) has",
+            "released its Olmo 3 family of large",
+            "language models, aiming to meet the",
+            "growing demand for customized and",
+            "transparent AI solutions.",
+            "All Olmo 3 models are open-sourced under",
+            "the Apache 2.0 license, providing",
+            "enterprises with full transparency and",
+            "control over their training data and",
+            "model checkpoints.",
+            "Notably, Olmo 3-Think (32B) is reported",
+            "to be the strongest fully open reasoning",
+            "model, significantly narrowing the gap",
+            "with comparable open-weight models like",
+            "Qwen 3-32B-Thinking, despite being",
+            "trained on six times fewer tokens."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-20T06:00:00.000Z",
+      "ranking": 7.519047619047619,
+      "articleUrl": "https://venturebeat.com/ai/ai2s-olmo-3-family-challenges-qwen-and-llama-with-efficient-open-reasoning"
+    },
+    {
       "id": "319",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -173,7 +242,7 @@
         }
       ],
       "publishedAt": "2025-11-19T09:06:49.000Z",
-      "ranking": 7.1315151318565695,
+      "ranking": 6.727285163625653,
       "articleUrl": "https://www.theverge.com/news/823775/tiktok-ai-generated-content-controls-manage-topics"
     },
     {
@@ -209,7 +278,7 @@
         }
       ],
       "publishedAt": "2025-11-19T11:12:20.000Z",
-      "ranking": 6.888841393417378,
+      "ranking": 6.513847272475101,
       "articleUrl": "https://www.theverge.com/report/822151/ai-smart-pen-for-cheating-tests"
     },
     {
@@ -280,7 +349,7 @@
         }
       ],
       "publishedAt": "2025-11-19T00:21:15.000Z",
-      "ranking": 6.44506815227456,
+      "ranking": 5.91842107363214,
       "articleUrl": "https://www.marktechpost.com/2025/11/18/xais-grok-4-1-pushes-toward-higher-emotional-intelligence-lower-hallucinations-and-tighter-safety-controls/"
     },
     {
@@ -315,7 +384,7 @@
         }
       ],
       "publishedAt": "2025-11-19T01:00:00.000Z",
-      "ranking": 6.246639971955146,
+      "ranking": 5.729018698040097,
       "articleUrl": "https://venturebeat.com/ai/metas-dreamgym-framework-trains-ai-agents-in-a-simulated-world-to-cut"
     },
     {
@@ -350,44 +419,8 @@
         }
       ],
       "publishedAt": "2025-11-19T08:47:09.000Z",
-      "ranking": 6.0936290470982595,
+      "ranking": 5.684818235513719,
       "articleUrl": "https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes"
-    },
-    {
-      "id": "318",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "CraftStory AI Video",
-      "mediumTitle": "CraftStory: Long-Form AI Video Generation",
-      "longTitle": "CraftStory Launches with Long-Form Human-Centric AI Video",
-      "paragraphs": [
-        {
-          "Lines": [
-            "CraftStory, founded by the creators of",
-            "the widely-used OpenCV library, has",
-            "launched with technology capable of",
-            "generating realistic, human-centric",
-            "videos up to five minutes long.",
-            "This significantly surpasses the",
-            "duration limitations of competitors like",
-            "OpenAI\u0027s Sora and Google\u0027s Veo, which",
-            "typically produce clips of 25 seconds or",
-            "less.",
-            "This breakthrough addresses a major",
-            "hurdle in the nascent AI video industry,",
-            "potentially unlocking substantial",
-            "commercial value for enterprises needing",
-            "to scale video production for training,",
-            "marketing, and customer education.",
-            "The ability to produce consistent,",
-            "longer-form videos addresses a critical",
-            "gap where short AI clips are inadequate."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-19T15:00:00.000Z",
-      "ranking": 6.0649999999999995,
-      "articleUrl": "https://venturebeat.com/ai/opencv-founders-launch-ai-video-startup-to-take-on-openai-and-google"
     },
     {
       "id": "315",
@@ -419,7 +452,7 @@
         }
       ],
       "publishedAt": "2025-11-19T00:35:45.000Z",
-      "ranking": 5.9591936049486645,
+      "ranking": 5.435924438225408,
       "articleUrl": "https://www.marktechpost.com/2025/11/18/how-to-build-an-agentic-deep-reinforcement-learning-system-with-curriculum-progression-adaptive-exploration-and-meta-level-ucb-planning/"
     },
     {
@@ -454,7 +487,7 @@
         }
       ],
       "publishedAt": "2025-11-18T22:25:59.000Z",
-      "ranking": 5.94654730448026,
+      "ranking": 5.393052393788851,
       "articleUrl": "https://www.theverge.com/news/823711/cloudflare-outage-postmortem"
     },
     {
@@ -491,7 +524,7 @@
         }
       ],
       "publishedAt": "2025-11-19T05:48:59.000Z",
-      "ranking": 5.8378682569273215,
+      "ranking": 5.387558584985717,
       "articleUrl": "https://www.theverge.com/report/823725/vanlife-ai-travel-planner-google-zero"
     },
     {
@@ -522,8 +555,44 @@
         }
       ],
       "publishedAt": "2025-11-18T20:12:35.000Z",
-      "ranking": 5.681088794991073,
+      "ranking": 5.096521848100247,
       "articleUrl": "https://www.marktechpost.com/2025/11/18/googles-gemini-3-pro-turns-sparse-moe-and-1m-token-context-into-a-practical-engine-for-multimodal-agentic-workloads/"
+    },
+    {
+      "id": "318",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "CraftStory AI Video",
+      "mediumTitle": "CraftStory: Long-Form AI Video Generation",
+      "longTitle": "CraftStory Launches with Long-Form Human-Centric AI Video",
+      "paragraphs": [
+        {
+          "Lines": [
+            "CraftStory, founded by the creators of",
+            "the widely-used OpenCV library, has",
+            "launched with technology capable of",
+            "generating realistic, human-centric",
+            "videos up to five minutes long.",
+            "This significantly surpasses the",
+            "duration limitations of competitors like",
+            "OpenAI\u0027s Sora and Google\u0027s Veo, which",
+            "typically produce clips of 25 seconds or",
+            "less.",
+            "This breakthrough addresses a major",
+            "hurdle in the nascent AI video industry,",
+            "potentially unlocking substantial",
+            "commercial value for enterprises needing",
+            "to scale video production for training,",
+            "marketing, and customer education.",
+            "The ability to produce consistent,",
+            "longer-form videos addresses a critical",
+            "gap where short AI clips are inadequate."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-19T15:00:00.000Z",
+      "ranking": 4.97555238485899,
+      "articleUrl": "https://venturebeat.com/ai/opencv-founders-launch-ai-video-startup-to-take-on-openai-and-google"
     },
     {
       "id": "322",
@@ -559,7 +628,7 @@
         }
       ],
       "publishedAt": "2025-11-19T06:00:00.000Z",
-      "ranking": 5.276023415655076,
+      "ranking": 4.828279286199304,
       "articleUrl": "https://venturebeat.com/ai/venturebeat-launches-beyond-the-pilot-a-new-podcast-series-exploring-how"
     },
     {
@@ -594,7 +663,7 @@
         }
       ],
       "publishedAt": "2025-11-18T21:03:00.000Z",
-      "ranking": 5.149060910636942,
+      "ranking": 4.576236570997038,
       "articleUrl": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and"
     },
     {
@@ -631,7 +700,7 @@
         }
       ],
       "publishedAt": "2025-11-18T17:00:00.000Z",
-      "ranking": 4.882424615867898,
+      "ranking": 4.2529997337569085,
       "articleUrl": "https://venturebeat.com/ai/google-unveils-gemini-3-claiming-the-lead-in-math-science-multimodal-and"
     },
     {
@@ -666,105 +735,8 @@
         }
       ],
       "publishedAt": "2025-11-18T15:00:00.000Z",
-      "ranking": 4.793553846297898,
+      "ranking": 4.136178088164517,
       "articleUrl": "https://venturebeat.com/ai/how-ai-tax-startup-blue-j-torched-its-entire-business-model-for-chatgpt-and"
-    },
-    {
-      "id": "302",
-      "topic": "AI Ops",
-      "source": "The Verge AI",
-      "shortTitle": "Cloudflare Outage",
-      "mediumTitle": "Cloudflare Outage Disrupts Web Services",
-      "longTitle": "Massive Cloudflare Outage Causes Widespread Internet Disruptions",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A massive outage at Cloudflare, a",
-            "prominent networking company responsible",
-            "for DDoS protection and content delivery",
-            "for numerous global businesses,",
-            "significantly disrupted internet",
-            "services on Tuesday morning.",
-            "The incident rendered many websites",
-            "inaccessible, including prominent",
-            "platforms like X (formerly Twitter) and",
-            "ChatGPT, as well as the outage-tracking",
-            "website DownDetector itself.",
-            "The article highlights the critical role",
-            "Cloudflare plays in the internet\u0027s",
-            "backbone, underscoring how a single",
-            "point of failure within their system can",
-            "have cascading effects across a vast",
-            "number of online services."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T14:30:54.000Z",
-      "ranking": 4.629163442707004,
-      "articleUrl": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector"
-    },
-    {
-      "id": "314",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI Regs Blocked",
-      "mediumTitle": "House GOP Eyes AI State Reg Ban",
-      "longTitle": "House Republicans explore blocking state AI regulations via NDAA",
-      "paragraphs": [
-        {
-          "Lines": [
-            "House Republicans are reportedly",
-            "exploring strategies to reinstate a",
-            "federal moratorium on state-level",
-            "Artificial Intelligence (AI)",
-            "regulations.",
-            "House Majority Leader Steve Scalise",
-            "(R-LA) has indicated that he is",
-            "considering incorporating language into",
-            "the National Defense Authorization Act",
-            "(NDAA) that would effectively preempt or",
-            "ban state AI regulations.",
-            "This initiative aims to prevent",
-            "individual states from enacting their",
-            "own laws governing AI, a move that",
-            "previously stalled earlier this year."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T19:45:52.000Z",
-      "ranking": 4.608074171741446,
-      "articleUrl": "https://www.theverge.com/policy/823650/ai-moratorium-house-gop-scalise"
-    },
-    {
-      "id": "299",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Writer Agent Launch",
-      "mediumTitle": "Writer Agent: AI for Enterprise Workflows",
-      "longTitle": "Writer Launches AI Platform for Enterprise Workflow Automation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Unlike consumer-focused tools like",
-            "ChatGPT and Microsoft Copilot, Writer",
-            "Agent enables employees to automate",
-            "complex business workflows without",
-            "coding.",
-            "Writer, an AI startup, has launched",
-            "Writer Agent, a unified AI platform",
-            "designed for enterprise use.",
-            "While other AI tools are primarily",
-            "geared towards personal productivity,",
-            "Writer Agent is built from the ground up",
-            "for the security, compliance, and",
-            "governance needs of large, regulated",
-            "organizations."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T17:00:00.000Z",
-      "ranking": 4.603985428615912,
-      "articleUrl": "https://venturebeat.com/ai/writers-ai-agents-can-actually-do-your-work-not-just-chat-about-it"
     },
     {
       "id": "326",
@@ -799,8 +771,105 @@
         }
       ],
       "publishedAt": "2025-11-18T21:03:00.000Z",
-      "ranking": 4.5904750105719945,
+      "ranking": 4.017650691972726,
       "articleUrl": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and"
+    },
+    {
+      "id": "314",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Regs Blocked",
+      "mediumTitle": "House GOP Eyes AI State Reg Ban",
+      "longTitle": "House Republicans explore blocking state AI regulations via NDAA",
+      "paragraphs": [
+        {
+          "Lines": [
+            "House Republicans are reportedly",
+            "exploring strategies to reinstate a",
+            "federal moratorium on state-level",
+            "Artificial Intelligence (AI)",
+            "regulations.",
+            "House Majority Leader Steve Scalise",
+            "(R-LA) has indicated that he is",
+            "considering incorporating language into",
+            "the National Defense Authorization Act",
+            "(NDAA) that would effectively preempt or",
+            "ban state AI regulations.",
+            "This initiative aims to prevent",
+            "individual states from enacting their",
+            "own laws governing AI, a move that",
+            "previously stalled earlier this year."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T19:45:52.000Z",
+      "ranking": 4.0172836319924246,
+      "articleUrl": "https://www.theverge.com/policy/823650/ai-moratorium-house-gop-scalise"
+    },
+    {
+      "id": "299",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Writer Agent Launch",
+      "mediumTitle": "Writer Agent: AI for Enterprise Workflows",
+      "longTitle": "Writer Launches AI Platform for Enterprise Workflow Automation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Unlike consumer-focused tools like",
+            "ChatGPT and Microsoft Copilot, Writer",
+            "Agent enables employees to automate",
+            "complex business workflows without",
+            "coding.",
+            "Writer, an AI startup, has launched",
+            "Writer Agent, a unified AI platform",
+            "designed for enterprise use.",
+            "While other AI tools are primarily",
+            "geared towards personal productivity,",
+            "Writer Agent is built from the ground up",
+            "for the security, compliance, and",
+            "governance needs of large, regulated",
+            "organizations."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T17:00:00.000Z",
+      "ranking": 3.9745605546959872,
+      "articleUrl": "https://venturebeat.com/ai/writers-ai-agents-can-actually-do-your-work-not-just-chat-about-it"
+    },
+    {
+      "id": "302",
+      "topic": "AI Ops",
+      "source": "The Verge AI",
+      "shortTitle": "Cloudflare Outage",
+      "mediumTitle": "Cloudflare Outage Disrupts Web Services",
+      "longTitle": "Massive Cloudflare Outage Causes Widespread Internet Disruptions",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A massive outage at Cloudflare, a",
+            "prominent networking company responsible",
+            "for DDoS protection and content delivery",
+            "for numerous global businesses,",
+            "significantly disrupted internet",
+            "services on Tuesday morning.",
+            "The incident rendered many websites",
+            "inaccessible, including prominent",
+            "platforms like X (formerly Twitter) and",
+            "ChatGPT, as well as the outage-tracking",
+            "website DownDetector itself.",
+            "The article highlights the critical role",
+            "Cloudflare plays in the internet\u0027s",
+            "backbone, underscoring how a single",
+            "point of failure within their system can",
+            "have cascading effects across a vast",
+            "number of online services."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T14:30:54.000Z",
+      "ranking": 3.965009578989733,
+      "articleUrl": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector"
     },
     {
       "id": "307",
@@ -836,7 +905,7 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 4.508255723970216,
+      "ranking": 3.8089536386579343,
       "articleUrl": "https://www.theverge.com/news/822833/google-antigravity-ide-coding-agent-gemini-3-pro"
     },
     {
@@ -868,7 +937,7 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 4.132119355887052,
+      "ranking": 3.4328172671748547,
       "articleUrl": "https://www.theverge.com/news/822789/microsoft-copilot-chat-outlook-word-excel-powerpoint"
     },
     {
@@ -903,43 +972,8 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:34.000Z",
-      "ranking": 4.085565759318914,
+      "ranking": 3.386395661040515,
       "articleUrl": "https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration"
-    },
-    {
-      "id": "305",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "MS Agent 365",
-      "mediumTitle": "Microsoft\u0027s Agent 365 AI Platform",
-      "longTitle": "Microsoft\u0027s Agent 365: An AI Agent Factory for Businesses",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft is developing \u0022Agent 365,\u0022 a",
-            "platform designed to enable businesses",
-            "to create and manage AI agents in a",
-            "manner analogous to how they manage",
-            "human employees.",
-            "Agent 365 represents a significant step",
-            "in democratizing AI agent creation and",
-            "management, aiming to equip businesses",
-            "to build and control their own AI",
-            "workforce.",
-            "Agent 365 aims to provide businesses",
-            "with the tools and infrastructure to",
-            "build, deploy, and oversee their own",
-            "custom AI agents.",
-            "The platform is envisioned as an \u0022AI",
-            "agent factory,\u0022 streamlining the process",
-            "of agent creation and integration into",
-            "existing business workflows."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 3.7600414185603057,
-      "articleUrl": "https://www.theverge.com/news/822035/microsoft-agent-365-businesses-control-security"
     },
     {
       "id": "298",
@@ -973,8 +1007,43 @@
         }
       ],
       "publishedAt": "2025-11-18T17:00:00.000Z",
-      "ranking": 3.756961584860139,
+      "ranking": 3.1275367081917014,
       "articleUrl": "https://venturebeat.com/ai/microsoft-remakes-windows-for-an-era-of-autonomous-ai-agents"
+    },
+    {
+      "id": "305",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "MS Agent 365",
+      "mediumTitle": "Microsoft\u0027s Agent 365 AI Platform",
+      "longTitle": "Microsoft\u0027s Agent 365: An AI Agent Factory for Businesses",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft is developing \u0022Agent 365,\u0022 a",
+            "platform designed to enable businesses",
+            "to create and manage AI agents in a",
+            "manner analogous to how they manage",
+            "human employees.",
+            "Agent 365 represents a significant step",
+            "in democratizing AI agent creation and",
+            "management, aiming to equip businesses",
+            "to build and control their own AI",
+            "workforce.",
+            "Agent 365 aims to provide businesses",
+            "with the tools and infrastructure to",
+            "build, deploy, and oversee their own",
+            "custom AI agents.",
+            "The platform is envisioned as an \u0022AI",
+            "agent factory,\u0022 streamlining the process",
+            "of agent creation and integration into",
+            "existing business workflows."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T12:00:00.000Z",
+      "ranking": 3.060739309894646,
+      "articleUrl": "https://www.theverge.com/news/822035/microsoft-agent-365-businesses-control-security"
     },
     {
       "id": "308",
@@ -1009,7 +1078,7 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 3.5342172311095963,
+      "ranking": 2.834915121494638,
       "articleUrl": "https://www.theverge.com/news/822977/gemini-3-google-ai-model-launch"
     },
     {
@@ -1046,7 +1115,7 @@
         }
       ],
       "publishedAt": "2025-11-18T11:20:17.000Z",
-      "ranking": 3.4209760189417837,
+      "ranking": 2.712422940549506,
       "articleUrl": "https://www.theverge.com/news/822988/microsoft-anthropic-partnership-claude-models-azure-investment-nvidia"
     },
     {
@@ -1082,7 +1151,7 @@
         }
       ],
       "publishedAt": "2025-11-18T14:00:00.000Z",
-      "ranking": 3.3639880342763764,
+      "ranking": 2.6926368064687196,
       "articleUrl": "https://www.theverge.com/news/823136/senator-elizabeth-warren-openai-trump-bailout"
     },
     {
@@ -1118,7 +1187,7 @@
         }
       ],
       "publishedAt": "2025-11-18T09:29:21.000Z",
-      "ranking": 3.2161165561159217,
+      "ranking": 2.481724435311862,
       "articleUrl": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector"
     },
     {
@@ -1151,7 +1220,7 @@
         }
       ],
       "publishedAt": "2025-11-18T09:00:00.000Z",
-      "ranking": 3.069339150768906,
+      "ranking": 2.328110708043842,
       "articleUrl": "https://www.theverge.com/report/822443/microsoft-windows-copilot-vision-ai-assistant-pc-voice-controls-impressions"
     },
     {
@@ -1187,7 +1256,7 @@
         }
       ],
       "publishedAt": "2025-11-18T06:00:00.000Z",
-      "ranking": 3.056254671273404,
+      "ranking": 2.273099899904019,
       "articleUrl": "https://venturebeat.com/ai/microsofts-agent-365-shifts-ai-agents-from-sandbox-tools-to-enterprise-grade"
     },
     {
@@ -1224,7 +1293,7 @@
         }
       ],
       "publishedAt": "2025-11-18T06:00:00.000Z",
-      "ranking": 1.7105030308042553,
+      "ranking": 0.9273482579721168,
       "articleUrl": "https://venturebeat.com/ai/google-antigravity-introduces-agent-first-architecture-for-asynchronous"
     },
     {
@@ -1259,44 +1328,8 @@
         }
       ],
       "publishedAt": "2025-11-17T21:16:46.000Z",
-      "ranking": 0.36482224607070535,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/17/google-deepminds-weathernext-2-uses-functional-generative-networks-for-8x-faster-probabilistic-weather-forecasts/"
-    },
-    {
-      "id": "288",
-      "topic": "Science",
-      "source": "The Verge AI",
-      "shortTitle": "Google AI Weather",
-      "mediumTitle": "Google\u0027s New AI Weather Forecasts",
-      "longTitle": "Google Upgrades Weather Forecasting with New AI Model",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has announced a significant",
-            "upgrade to its weather forecasting",
-            "capabilities with the introduction of a",
-            "new AI model.",
-            "This advanced model is set to be",
-            "integrated into several of Google\u0027s",
-            "widely used products, including Google",
-            "Search, Gemini, and Pixel phones.",
-            "The company highlights that its",
-            "AI-enhanced forecasts have already",
-            "demonstrated a high degree of accuracy.",
-            "A key advantage of these AI weather",
-            "models is their ability to generate",
-            "predictions more rapidly and with",
-            "greater efficiency compared to",
-            "traditional physics-based models.",
-            "The AI model offers a superior",
-            "alternative in certain aspects compared",
-            "to conventional physics-based models."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-17T18:00:56.000Z",
-      "ranking": 0.2727301998899918,
-      "articleUrl": "https://www.theverge.com/news/822489/weather-forecast-ai-model-google-weathernext"
     },
     {
       "id": "287",
@@ -1333,6 +1366,42 @@
       "publishedAt": "2025-11-17T18:47:14.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/822496/openai-employee-equity-donation-charity-rounds-share-valuation"
+    },
+    {
+      "id": "288",
+      "topic": "Science",
+      "source": "The Verge AI",
+      "shortTitle": "Google AI Weather",
+      "mediumTitle": "Google\u0027s New AI Weather Forecasts",
+      "longTitle": "Google Upgrades Weather Forecasting with New AI Model",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has announced a significant",
+            "upgrade to its weather forecasting",
+            "capabilities with the introduction of a",
+            "new AI model.",
+            "This advanced model is set to be",
+            "integrated into several of Google\u0027s",
+            "widely used products, including Google",
+            "Search, Gemini, and Pixel phones.",
+            "The company highlights that its",
+            "AI-enhanced forecasts have already",
+            "demonstrated a high degree of accuracy.",
+            "A key advantage of these AI weather",
+            "models is their ability to generate",
+            "predictions more rapidly and with",
+            "greater efficiency compared to",
+            "traditional physics-based models.",
+            "The AI model offers a superior",
+            "alternative in certain aspects compared",
+            "to conventional physics-based models."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-17T18:00:56.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/822489/weather-forecast-ai-model-google-weathernext"
     },
     {
       "id": "284",
@@ -1437,76 +1506,6 @@
       "publishedAt": "2025-11-17T06:14:03.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/821943/jeff-bezos-project-prometheus-co-ceo-funding-ai-startup"
-    },
-    {
-      "id": "283",
-      "topic": "Dev Tools",
-      "source": "VentureBeat AI",
-      "shortTitle": "AWS Kiro Enhancements",
-      "mediumTitle": "AWS Kiro: AI Coding Agent Upgrades",
-      "longTitle": "AWS Kiro Autonomous Coding Agent Now Generally Available with New Features",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AWS has made its autonomous coding",
-            "agent, Kiro, generally available,",
-            "enhancing it to meet enterprise demands",
-            "for structured adherence and spec",
-            "fidelity in AI-generated code.",
-            "Kiro introduces property-based testing",
-            "to ensure AI-generated code\u0027s accuracy",
-            "and adherence to purpose by",
-            "automatically generating hundreds of",
-            "test scenarios from a specification.",
-            "Kiro distinguishes itself in a crowded",
-            "market by not relying on a single large",
-            "language model (LLM), instead routing",
-            "tasks to the most suitable model,",
-            "including AWS\u0027s own.",
-            "The new Kiro CLI integrates the coding",
-            "agent directly into a developer\u0027s",
-            "command-line environment, leveraging",
-            "functionalities from AWS\u0027s Q Developer",
-            "CLI."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-17T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/in-a-sea-of-agents-aws-bets-on-structured-adherence-and-spec-fidelity"
-    },
-    {
-      "id": "280",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Vector DBs: Reality Check",
-      "mediumTitle": "Vector Databases: Two Years Later",
-      "longTitle": "Vector Databases: From Hype to Pragmatic Reality, Two Years On",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Benchmarks indicate that GraphRAG,",
-            "especially in hybrid combinations,",
-            "significantly boosts answer correctness",
-            "and performance in complex reasoning and",
-            "domain-specific tasks.",
-            "GraphRAG (Graph-enhanced Retrieval",
-            "Augmented Generation) is a significant",
-            "development that marries vectors with",
-            "knowledge graphs, encoding relationships",
-            "that embeddings alone flatten.",
-            "Two years ago, vector databases were",
-            "hailed as a revolutionary infrastructure",
-            "layer for semantic search, attracting",
-            "significant venture capital and",
-            "companies like Pinecone, Weaviate,",
-            "Chroma, and Milvus."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-16T19:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later"
     }
   ]
 }
