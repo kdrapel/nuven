@@ -1,38 +1,40 @@
 {
   "articles": [
     {
-      "id": "328",
-      "topic": "Hardware",
-      "source": "The Verge AI",
-      "shortTitle": "Nvidia Q3 Record",
-      "mediumTitle": "Nvidia\u0027s Record Q3 Revenue Driven by AI",
-      "longTitle": "Nvidia Reports Record-Breaking Q3 Revenue Fueled by AI GPU Demand",
+      "id": "332",
+      "topic": "AI Ops",
+      "source": "VentureBeat AI",
+      "shortTitle": "ScaleOps AI Infra",
+      "mediumTitle": "ScaleOps AI Infra Cuts GPU Costs",
+      "longTitle": "ScaleOps AI Infra Product Reduces GPU Costs for LLMs",
       "paragraphs": [
         {
           "Lines": [
-            "Nvidia has reported a record-breaking",
-            "third quarter for fiscal year 2026,",
-            "exceeding its own revenue projections",
-            "with a total of $57 billion.",
-            "This surge is largely attributed to",
-            "exceptionally high demand for its",
-            "Artificial Intelligence (AI) Graphics",
-            "Processing Units (GPUs), with some",
-            "models being completely sold out.",
-            "The demand for their specialized GPUs,",
-            "crucial for training and deploying AI",
-            "models, has outpaced supply, leading to",
-            "the sold-out status of certain products.",
-            "The company experienced significant",
-            "growth in its data center business,",
-            "which saw an increase of $10 billion in",
-            "just three months."
+            "ScaleOps has launched a new AI Infra",
+            "Product designed to significantly reduce",
+            "GPU costs for enterprises running",
+            "self-hosted large language models and",
+            "other GPU-based AI applications.",
+            "Crucially, it does not necessitate code",
+            "changes, infrastructure rewrites, or",
+            "modifications to existing manifests,",
+            "allowing teams to leverage existing",
+            "GitOps, CI/CD, monitoring, and",
+            "deployment tools.",
+            "The company claims that early adopters",
+            "have already experienced GPU cost",
+            "reductions ranging from 50% to 70%.",
+            "One enterprise creative software company",
+            "saw its GPU utilization increase from",
+            "20% to over 50%, resulting in over a 50%",
+            "reduction in GPU spending and a 35%",
+            "decrease in latency."
           ]
         }
       ],
-      "publishedAt": "2025-11-19T18:15:16.000Z",
-      "ranking": 8.37142857142857,
-      "articleUrl": "https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue"
+      "publishedAt": "2025-11-20T18:35:00.000Z",
+      "ranking": 8.083333333333334,
+      "articleUrl": "https://venturebeat.com/ai/scaleops-new-ai-infra-product-slashes-gpu-costs-for-self-hosted-enterprise"
     },
     {
       "id": "330",
@@ -71,112 +73,6 @@
       "articleUrl": "https://venturebeat.com/ai/tomes-founders-ditch-viral-presentation-app-with-20m-users-to-build-ai"
     },
     {
-      "id": "321",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Fetch AI\u0027s Agentic Web",
-      "mediumTitle": "Fetch AI Launches Agentic Web Infrastructure",
-      "longTitle": "Fetch AI Introduces Agentic Web with ASI:One, Fetch Business, and Agentverse",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Fetch AI, founded by early DeepMind",
-            "investor Humayun Sheikh, has launched a",
-            "suite of interconnected products aimed",
-            "at building the \u0022Agentic Web,\u0022 a new",
-            "layer of the internet where AI agents",
-            "collaborate to complete tasks.",
-            "The core offerings are ASI:One, a",
-            "personal AI orchestration platform;",
-            "Fetch Business, a verification portal",
-            "for brand agents; and Agentverse, an",
-            "open directory for over two million",
-            "agents.",
-            "The company\u0027s vision is to move beyond",
-            "AI\u0027s current recommendation-based",
-            "capabilities to enable reliable,",
-            "multi-step action execution through",
-            "secure interoperation of agents from",
-            "different organizations."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-19T18:57:00.000Z",
-      "ranking": 7.65,
-      "articleUrl": "https://venturebeat.com/ai/the-google-search-of-ai-agents-fetch-launches-asi-one-and-business-tier-for"
-    },
-    {
-      "id": "329",
-      "topic": "NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Scholar Labs",
-      "mediumTitle": "Google\u0027s AI Scholar Labs",
-      "longTitle": "Google\u0027s AI Scholar Labs: A New Era for Research?",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has introduced Scholar Labs, a",
-            "new AI-powered search tool currently in",
-            "testing, aimed at answering complex",
-            "research questions.",
-            "The challenge for Google is to develop a",
-            "tool that is not only efficient but also",
-            "a responsible curator of scientific",
-            "knowledge, one that empowers researchers",
-            "without undermining the rigorous",
-            "standards that underpin scientific",
-            "progress.",
-            "This innovation raises a significant",
-            "question within the scientific",
-            "community: how will researchers evaluate",
-            "the trustworthiness of studies found",
-            "through a tool that deviates from",
-            "traditional metrics of scientific",
-            "acclaim, such as citation counts and",
-            "peer recognition?"
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-19T17:50:54.000Z",
-      "ranking": 7.628571428571428,
-      "articleUrl": "https://www.theverge.com/news/823213/google-scholar-labs-ai-search"
-    },
-    {
-      "id": "327",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI Reg Order",
-      "mediumTitle": "Trump Admin AI Regulation Plan",
-      "longTitle": "Trump Administration Proposes Federal AI Regulation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "President Donald Trump is considering an",
-            "executive order to centralize AI",
-            "regulation under federal authority,",
-            "aiming to preempt state laws.",
-            "A draft of this executive order, as",
-            "reported, indicates the creation of an",
-            "\u0027AI Litigation Task Force\u0027 within the",
-            "Department of Justice.",
-            "This task force would be specifically",
-            "tasked with challenging any state laws",
-            "pertaining to AI.",
-            "The core objective of this proposed",
-            "executive order is to establish a",
-            "unified federal approach to AI",
-            "regulation, preventing a patchwork of",
-            "differing state regulations that could",
-            "complicate development and deployment of",
-            "AI technologies."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-19T19:03:28.000Z",
-      "ranking": 7.53125,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws"
-    },
-    {
       "id": "331",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -210,76 +106,73 @@
       "articleUrl": "https://venturebeat.com/ai/ai2s-olmo-3-family-challenges-qwen-and-llama-with-efficient-open-reasoning"
     },
     {
-      "id": "319",
-      "topic": "Generative AI",
+      "id": "328",
+      "topic": "Hardware",
       "source": "The Verge AI",
-      "shortTitle": "TikTok AI Control",
-      "mediumTitle": "TikTok Lets Users Control AI Content",
-      "longTitle": "TikTok Introduces AI Content Control Slider and Watermarks",
+      "shortTitle": "Nvidia Q3 Record",
+      "mediumTitle": "Nvidia\u0027s Record Q3 Revenue Driven by AI",
+      "longTitle": "Nvidia Reports Record-Breaking Q3 Revenue Fueled by AI GPU Demand",
       "paragraphs": [
         {
           "Lines": [
-            "TikTok is introducing a new feature that",
-            "empowers users to control the amount of",
-            "AI-generated content they encounter on",
-            "the platform.",
-            "To enhance the accuracy and",
-            "effectiveness of this new filter, TikTok",
-            "will also begin implementing invisible",
-            "watermarks on AI-generated content.",
-            "This innovative control, currently in",
-            "testing, will allow individuals to",
-            "adjust a slider to determine their",
-            "preferred level of AI-driven videos in",
-            "their personalized feed.",
-            "The introduction of invisible watermarks",
-            "is a crucial step in this process,",
-            "ensuring that the AI content filter can",
-            "operate with greater precision and that",
-            "users can make informed decisions about",
-            "the content they consume."
+            "Nvidia has reported a record-breaking",
+            "third quarter for fiscal year 2026,",
+            "exceeding its own revenue projections",
+            "with a total of $57 billion.",
+            "This surge is largely attributed to",
+            "exceptionally high demand for its",
+            "Artificial Intelligence (AI) Graphics",
+            "Processing Units (GPUs), with some",
+            "models being completely sold out.",
+            "The demand for their specialized GPUs,",
+            "crucial for training and deploying AI",
+            "models, has outpaced supply, leading to",
+            "the sold-out status of certain products.",
+            "The company experienced significant",
+            "growth in its data center business,",
+            "which saw an increase of $10 billion in",
+            "just three months."
           ]
         }
       ],
-      "publishedAt": "2025-11-19T09:06:49.000Z",
-      "ranking": 6.727285163625653,
-      "articleUrl": "https://www.theverge.com/news/823775/tiktok-ai-generated-content-controls-manage-topics"
+      "publishedAt": "2025-11-19T18:15:16.000Z",
+      "ranking": 7.2181272509446455,
+      "articleUrl": "https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue"
     },
     {
-      "id": "323",
-      "topic": "Education",
-      "source": "The Verge AI",
-      "shortTitle": "AI Pen Cheating",
-      "mediumTitle": "AI Pen Aids Cheating on Physical Tests",
-      "longTitle": "New AI Pen Emerges to Facilitate Cheating on Physical Exams",
+      "id": "321",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Fetch AI\u0027s Agentic Web",
+      "mediumTitle": "Fetch AI Launches Agentic Web Infrastructure",
+      "longTitle": "Fetch AI Introduces Agentic Web with ASI:One, Fetch Business, and Agentverse",
       "paragraphs": [
         {
           "Lines": [
-            "A new physical gadget, an \u0027AI pen,\u0027 has",
-            "gone viral and is being marketed as a",
-            "tool to help students cheat on physical,",
-            "hardcopy tests.",
-            "This new technology represents a",
-            "significant and concerning development",
-            "in the ongoing arms race between",
-            "academic institutions and students",
-            "seeking to gain an unfair advantage.",
-            "While AI like ChatGPT can be used to",
-            "generate answers for digital",
-            "assignments, this physical pen aims to",
-            "tackle the problem of cheating in a more",
-            "tangible, in-person testing environment.",
-            "This comes at a time when physical tests",
-            "are making a comeback in higher",
-            "education as institutions grapple with",
-            "the widespread use of AI tools like",
-            "ChatGPT."
+            "Fetch AI, founded by early DeepMind",
+            "investor Humayun Sheikh, has launched a",
+            "suite of interconnected products aimed",
+            "at building the \u0022Agentic Web,\u0022 a new",
+            "layer of the internet where AI agents",
+            "collaborate to complete tasks.",
+            "The core offerings are ASI:One, a",
+            "personal AI orchestration platform;",
+            "Fetch Business, a verification portal",
+            "for brand agents; and Agentverse, an",
+            "open directory for over two million",
+            "agents.",
+            "The company\u0027s vision is to move beyond",
+            "AI\u0027s current recommendation-based",
+            "capabilities to enable reliable,",
+            "multi-step action execution through",
+            "secure interoperation of agents from",
+            "different organizations."
           ]
         }
       ],
-      "publishedAt": "2025-11-19T11:12:20.000Z",
-      "ranking": 6.513847272475101,
-      "articleUrl": "https://www.theverge.com/report/822151/ai-smart-pen-for-cheating-tests"
+      "publishedAt": "2025-11-19T18:57:00.000Z",
+      "ranking": 6.558106257777462,
+      "articleUrl": "https://venturebeat.com/ai/the-google-search-of-ai-agents-fetch-launches-asi-one-and-business-tier-for"
     },
     {
       "id": "324",
@@ -318,6 +211,149 @@
       "articleUrl": "https://venturebeat.com/ai/openai-debuts-gpt-5-1-codex-max-coding-model-and-it-already-completed-a-24"
     },
     {
+      "id": "327",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Reg Order",
+      "mediumTitle": "Trump Admin AI Regulation Plan",
+      "longTitle": "Trump Administration Proposes Federal AI Regulation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "President Donald Trump is considering an",
+            "executive order to centralize AI",
+            "regulation under federal authority,",
+            "aiming to preempt state laws.",
+            "A draft of this executive order, as",
+            "reported, indicates the creation of an",
+            "\u0027AI Litigation Task Force\u0027 within the",
+            "Department of Justice.",
+            "This task force would be specifically",
+            "tasked with challenging any state laws",
+            "pertaining to AI.",
+            "The core objective of this proposed",
+            "executive order is to establish a",
+            "unified federal approach to AI",
+            "regulation, preventing a patchwork of",
+            "differing state regulations that could",
+            "complicate development and deployment of",
+            "AI technologies."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-19T19:03:28.000Z",
+      "ranking": 6.448721168215887,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws"
+    },
+    {
+      "id": "329",
+      "topic": "NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Scholar Labs",
+      "mediumTitle": "Google\u0027s AI Scholar Labs",
+      "longTitle": "Google\u0027s AI Scholar Labs: A New Era for Research?",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has introduced Scholar Labs, a",
+            "new AI-powered search tool currently in",
+            "testing, aimed at answering complex",
+            "research questions.",
+            "The challenge for Google is to develop a",
+            "tool that is not only efficient but also",
+            "a responsible curator of scientific",
+            "knowledge, one that empowers researchers",
+            "without undermining the rigorous",
+            "standards that underpin scientific",
+            "progress.",
+            "This innovation raises a significant",
+            "question within the scientific",
+            "community: how will researchers evaluate",
+            "the trustworthiness of studies found",
+            "through a tool that deviates from",
+            "traditional metrics of scientific",
+            "acclaim, such as citation counts and",
+            "peer recognition?"
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-19T17:50:54.000Z",
+      "ranking": 6.438639570372466,
+      "articleUrl": "https://www.theverge.com/news/823213/google-scholar-labs-ai-search"
+    },
+    {
+      "id": "319",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "TikTok AI Control",
+      "mediumTitle": "TikTok Lets Users Control AI Content",
+      "longTitle": "TikTok Introduces AI Content Control Slider and Watermarks",
+      "paragraphs": [
+        {
+          "Lines": [
+            "TikTok is introducing a new feature that",
+            "empowers users to control the amount of",
+            "AI-generated content they encounter on",
+            "the platform.",
+            "To enhance the accuracy and",
+            "effectiveness of this new filter, TikTok",
+            "will also begin implementing invisible",
+            "watermarks on AI-generated content.",
+            "This innovative control, currently in",
+            "testing, will allow individuals to",
+            "adjust a slider to determine their",
+            "preferred level of AI-driven videos in",
+            "their personalized feed.",
+            "The introduction of invisible watermarks",
+            "is a crucial step in this process,",
+            "ensuring that the AI content filter can",
+            "operate with greater precision and that",
+            "users can make informed decisions about",
+            "the content they consume."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-19T09:06:49.000Z",
+      "ranking": 6.272484433393462,
+      "articleUrl": "https://www.theverge.com/news/823775/tiktok-ai-generated-content-controls-manage-topics"
+    },
+    {
+      "id": "323",
+      "topic": "Education",
+      "source": "The Verge AI",
+      "shortTitle": "AI Pen Cheating",
+      "mediumTitle": "AI Pen Aids Cheating on Physical Tests",
+      "longTitle": "New AI Pen Emerges to Facilitate Cheating on Physical Exams",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A new physical gadget, an \u0027AI pen,\u0027 has",
+            "gone viral and is being marketed as a",
+            "tool to help students cheat on physical,",
+            "hardcopy tests.",
+            "This new technology represents a",
+            "significant and concerning development",
+            "in the ongoing arms race between",
+            "academic institutions and students",
+            "seeking to gain an unfair advantage.",
+            "While AI like ChatGPT can be used to",
+            "generate answers for digital",
+            "assignments, this physical pen aims to",
+            "tackle the problem of cheating in a more",
+            "tangible, in-person testing environment.",
+            "This comes at a time when physical tests",
+            "are making a comeback in higher",
+            "education as institutions grapple with",
+            "the widespread use of AI tools like",
+            "ChatGPT."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-19T11:12:20.000Z",
+      "ranking": 6.087942335639101,
+      "articleUrl": "https://www.theverge.com/report/822151/ai-smart-pen-for-cheating-tests"
+    },
+    {
       "id": "316",
       "topic": "Generative AI",
       "source": "Marktechpost AI",
@@ -349,43 +385,8 @@
         }
       ],
       "publishedAt": "2025-11-19T00:21:15.000Z",
-      "ranking": 5.91842107363214,
+      "ranking": 5.342627128757881,
       "articleUrl": "https://www.marktechpost.com/2025/11/18/xais-grok-4-1-pushes-toward-higher-emotional-intelligence-lower-hallucinations-and-tighter-safety-controls/"
-    },
-    {
-      "id": "325",
-      "topic": "Learning",
-      "source": "VentureBeat AI",
-      "shortTitle": "Meta\u0027s DreamGym",
-      "mediumTitle": "Meta\u0027s DreamGym: RL for LLM Agents",
-      "longTitle": "Meta\u0027s DreamGym: Revolutionizing LLM Agent Training with Simulation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta\u0027s DreamGym framework offers a novel",
-            "solution to the significant challenges",
-            "associated with training large language",
-            "model (LLM) agents using reinforcement",
-            "learning (RL).",
-            "Furthermore, a \u0027sim-to-real\u0027 approach,",
-            "DreamGym-S2R, where agents are first",
-            "trained in simulation and then",
-            "fine-tuned on a small amount of",
-            "real-world data, yielded over 40%",
-            "performance improvement compared to",
-            "training from scratch in the real",
-            "environment.",
-            "The core innovation of DreamGym lies in",
-            "its three interconnected components: a",
-            "reasoning-based experience model, an",
-            "experience replay buffer, and a",
-            "curriculum task generator."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-19T01:00:00.000Z",
-      "ranking": 5.729018698040097,
-      "articleUrl": "https://venturebeat.com/ai/metas-dreamgym-framework-trains-ai-agents-in-a-simulated-world-to-cut"
     },
     {
       "id": "320",
@@ -419,76 +420,43 @@
         }
       ],
       "publishedAt": "2025-11-19T08:47:09.000Z",
-      "ranking": 5.684818235513719,
+      "ranking": 5.225489957388829,
       "articleUrl": "https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes"
     },
     {
-      "id": "315",
+      "id": "325",
       "topic": "Learning",
-      "source": "Marktechpost AI",
-      "shortTitle": "Advanced DRL Agent",
-      "mediumTitle": "Advanced Agentic DRL System",
-      "longTitle": "Advanced Agentic Deep Reinforcement Learning System Construction",
+      "source": "VentureBeat AI",
+      "shortTitle": "Meta\u0027s DreamGym",
+      "mediumTitle": "Meta\u0027s DreamGym: RL for LLM Agents",
+      "longTitle": "Meta\u0027s DreamGym: Revolutionizing LLM Agent Training with Simulation",
       "paragraphs": [
         {
           "Lines": [
-            "This tutorial outlines the construction",
-            "of an advanced agentic Deep",
-            "Reinforcement Learning (DRL) system that",
-            "learns optimal actions and selects its",
-            "own training strategies.",
-            "The core innovation lies in enabling the",
-            "agent not only to learn optimal actions",
-            "within an environment but also to",
-            "autonomously select its own training",
-            "strategies.",
-            "This is achieved through a multi-faceted",
-            "approach incorporating a Dueling Double",
-            "Deep Q-Network (DQN) learner, a",
-            "curriculum progression mechanism,",
-            "adaptive exploration strategies, and",
-            "meta-level UCB planning."
+            "Meta\u0027s DreamGym framework offers a novel",
+            "solution to the significant challenges",
+            "associated with training large language",
+            "model (LLM) agents using reinforcement",
+            "learning (RL).",
+            "Furthermore, a \u0027sim-to-real\u0027 approach,",
+            "DreamGym-S2R, where agents are first",
+            "trained in simulation and then",
+            "fine-tuned on a small amount of",
+            "real-world data, yielded over 40%",
+            "performance improvement compared to",
+            "training from scratch in the real",
+            "environment.",
+            "The core innovation of DreamGym lies in",
+            "its three interconnected components: a",
+            "reasoning-based experience model, an",
+            "experience replay buffer, and a",
+            "curriculum task generator."
           ]
         }
       ],
-      "publishedAt": "2025-11-19T00:35:45.000Z",
-      "ranking": 5.435924438225408,
-      "articleUrl": "https://www.marktechpost.com/2025/11/18/how-to-build-an-agentic-deep-reinforcement-learning-system-with-curriculum-progression-adaptive-exploration-and-meta-level-ucb-planning/"
-    },
-    {
-      "id": "313",
-      "topic": "AI Ops",
-      "source": "The Verge AI",
-      "shortTitle": "Cloudflare Outage",
-      "mediumTitle": "Cloudflare Outage Explained",
-      "longTitle": "Cloudflare Explains Tuesday\u0027s Major Internet Outage",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The root cause of the widespread",
-            "disruption has been identified as a",
-            "problem within Cloudflare\u0027s Bot",
-            "Management system.",
-            "The malfunction in this system led to an",
-            "unintended blocking of legitimate",
-            "traffic, effectively making many",
-            "websites inaccessible.",
-            "Cloudflare, a major internet",
-            "infrastructure provider, has explained",
-            "the cause of a significant outage that",
-            "occurred on Tuesday, impacting numerous",
-            "websites and services, including",
-            "OpenAI\u0027s ChatGPT.",
-            "The core explanation points to a failure",
-            "in a critical security and traffic",
-            "management feature that inadvertently",
-            "disrupted normal internet operations."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T22:25:59.000Z",
-      "ranking": 5.393052393788851,
-      "articleUrl": "https://www.theverge.com/news/823711/cloudflare-outage-postmortem"
+      "publishedAt": "2025-11-19T01:00:00.000Z",
+      "ranking": 5.162145571427438,
+      "articleUrl": "https://venturebeat.com/ai/metas-dreamgym-framework-trains-ai-agents-in-a-simulated-world-to-cut"
     },
     {
       "id": "317",
@@ -524,39 +492,76 @@
         }
       ],
       "publishedAt": "2025-11-19T05:48:59.000Z",
-      "ranking": 5.387558584985717,
+      "ranking": 4.887213709635606,
       "articleUrl": "https://www.theverge.com/report/823725/vanlife-ai-travel-planner-google-zero"
     },
     {
-      "id": "312",
-      "topic": "Large Models",
+      "id": "315",
+      "topic": "Learning",
       "source": "Marktechpost AI",
-      "shortTitle": "Gemini 3 Pro",
-      "mediumTitle": "Google\u0027s Gemini 3 Pro AI",
-      "longTitle": "Google Unveils Gemini 3 Pro with 1 Million Token Context",
+      "shortTitle": "Advanced DRL Agent",
+      "mediumTitle": "Advanced Agentic DRL System",
+      "longTitle": "Advanced Agentic Deep Reinforcement Learning System Construction",
       "paragraphs": [
         {
           "Lines": [
-            "The ability to process a 1 million token",
-            "context window is a substantial leap,",
-            "enabling the model to ingest and analyze",
-            "significantly more information than",
-            "previous generations.",
-            "This approach allows Gemini 3 Pro to",
-            "efficiently process and reason over an",
-            "exceptionally large context window of up",
-            "to 1 million tokens.",
-            "Google has introduced its Gemini 3",
-            "family of models, with Gemini 3 Pro at",
-            "its core, representing a significant",
-            "advancement towards more generalized",
-            "artificial intelligence."
+            "This tutorial outlines the construction",
+            "of an advanced agentic Deep",
+            "Reinforcement Learning (DRL) system that",
+            "learns optimal actions and selects its",
+            "own training strategies.",
+            "The core innovation lies in enabling the",
+            "agent not only to learn optimal actions",
+            "within an environment but also to",
+            "autonomously select its own training",
+            "strategies.",
+            "This is achieved through a multi-faceted",
+            "approach incorporating a Dueling Double",
+            "Deep Q-Network (DQN) learner, a",
+            "curriculum progression mechanism,",
+            "adaptive exploration strategies, and",
+            "meta-level UCB planning."
           ]
         }
       ],
-      "publishedAt": "2025-11-18T20:12:35.000Z",
-      "ranking": 5.096521848100247,
-      "articleUrl": "https://www.marktechpost.com/2025/11/18/googles-gemini-3-pro-turns-sparse-moe-and-1m-token-context-into-a-practical-engine-for-multimodal-agentic-workloads/"
+      "publishedAt": "2025-11-19T00:35:45.000Z",
+      "ranking": 4.863468595877829,
+      "articleUrl": "https://www.marktechpost.com/2025/11/18/how-to-build-an-agentic-deep-reinforcement-learning-system-with-curriculum-progression-adaptive-exploration-and-meta-level-ucb-planning/"
+    },
+    {
+      "id": "313",
+      "topic": "AI Ops",
+      "source": "The Verge AI",
+      "shortTitle": "Cloudflare Outage",
+      "mediumTitle": "Cloudflare Outage Explained",
+      "longTitle": "Cloudflare Explains Tuesday\u0027s Major Internet Outage",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The root cause of the widespread",
+            "disruption has been identified as a",
+            "problem within Cloudflare\u0027s Bot",
+            "Management system.",
+            "The malfunction in this system led to an",
+            "unintended blocking of legitimate",
+            "traffic, effectively making many",
+            "websites inaccessible.",
+            "Cloudflare, a major internet",
+            "infrastructure provider, has explained",
+            "the cause of a significant outage that",
+            "occurred on Tuesday, impacting numerous",
+            "websites and services, including",
+            "OpenAI\u0027s ChatGPT.",
+            "The core explanation points to a failure",
+            "in a critical security and traffic",
+            "management feature that inadvertently",
+            "disrupted normal internet operations."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T22:25:59.000Z",
+      "ranking": 4.790722343501379,
+      "articleUrl": "https://www.theverge.com/news/823711/cloudflare-outage-postmortem"
     },
     {
       "id": "318",
@@ -591,8 +596,39 @@
         }
       ],
       "publishedAt": "2025-11-19T15:00:00.000Z",
-      "ranking": 4.97555238485899,
+      "ranking": 4.6020596408454315,
       "articleUrl": "https://venturebeat.com/ai/opencv-founders-launch-ai-video-startup-to-take-on-openai-and-google"
+    },
+    {
+      "id": "312",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Gemini 3 Pro",
+      "mediumTitle": "Google\u0027s Gemini 3 Pro AI",
+      "longTitle": "Google Unveils Gemini 3 Pro with 1 Million Token Context",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The ability to process a 1 million token",
+            "context window is a substantial leap,",
+            "enabling the model to ingest and analyze",
+            "significantly more information than",
+            "previous generations.",
+            "This approach allows Gemini 3 Pro to",
+            "efficiently process and reason over an",
+            "exceptionally large context window of up",
+            "to 1 million tokens.",
+            "Google has introduced its Gemini 3",
+            "family of models, with Gemini 3 Pro at",
+            "its core, representing a significant",
+            "advancement towards more generalized",
+            "artificial intelligence."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T20:12:35.000Z",
+      "ranking": 4.463480477374369,
+      "articleUrl": "https://www.marktechpost.com/2025/11/18/googles-gemini-3-pro-turns-sparse-moe-and-1m-token-context-into-a-practical-engine-for-multimodal-agentic-workloads/"
     },
     {
       "id": "322",
@@ -628,7 +664,7 @@
         }
       ],
       "publishedAt": "2025-11-19T06:00:00.000Z",
-      "ranking": 4.828279286199304,
+      "ranking": 4.330470555555623,
       "articleUrl": "https://venturebeat.com/ai/venturebeat-launches-beyond-the-pilot-a-new-podcast-series-exploring-how"
     },
     {
@@ -663,7 +699,7 @@
         }
       ],
       "publishedAt": "2025-11-18T21:03:00.000Z",
-      "ranking": 4.576236570997038,
+      "ranking": 3.954802504041794,
       "articleUrl": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and"
     },
     {
@@ -700,7 +736,7 @@
         }
       ],
       "publishedAt": "2025-11-18T17:00:00.000Z",
-      "ranking": 4.2529997337569085,
+      "ranking": 3.5756234755052905,
       "articleUrl": "https://venturebeat.com/ai/google-unveils-gemini-3-claiming-the-lead-in-math-science-multimodal-and"
     },
     {
@@ -735,7 +771,7 @@
         }
       ],
       "publishedAt": "2025-11-18T15:00:00.000Z",
-      "ranking": 4.136178088164517,
+      "ranking": 3.4311760563178613,
       "articleUrl": "https://venturebeat.com/ai/how-ai-tax-startup-blue-j-torched-its-entire-business-model-for-chatgpt-and"
     },
     {
@@ -771,7 +807,7 @@
         }
       ],
       "publishedAt": "2025-11-18T21:03:00.000Z",
-      "ranking": 4.017650691972726,
+      "ranking": 3.396216625922343,
       "articleUrl": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and"
     },
     {
@@ -803,7 +839,7 @@
         }
       ],
       "publishedAt": "2025-11-18T19:45:52.000Z",
-      "ranking": 4.0172836319924246,
+      "ranking": 3.378092332968901,
       "articleUrl": "https://www.theverge.com/policy/823650/ai-moratorium-house-gop-scalise"
     },
     {
@@ -834,7 +870,7 @@
         }
       ],
       "publishedAt": "2025-11-18T17:00:00.000Z",
-      "ranking": 3.9745605546959872,
+      "ranking": 3.2971842929245723,
       "articleUrl": "https://venturebeat.com/ai/writers-ai-agents-can-actually-do-your-work-not-just-chat-about-it"
     },
     {
@@ -868,7 +904,7 @@
         }
       ],
       "publishedAt": "2025-11-18T14:30:54.000Z",
-      "ranking": 3.965009578989733,
+      "ranking": 3.2533082906811837,
       "articleUrl": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector"
     },
     {
@@ -905,7 +941,7 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 3.8089536386579343,
+      "ranking": 3.0625129395465063,
       "articleUrl": "https://www.theverge.com/news/822833/google-antigravity-ide-coding-agent-gemini-3-pro"
     },
     {
@@ -937,7 +973,7 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 3.4328172671748547,
+      "ranking": 2.686376570008993,
       "articleUrl": "https://www.theverge.com/news/822789/microsoft-copilot-chat-outlook-word-excel-powerpoint"
     },
     {
@@ -972,7 +1008,7 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:34.000Z",
-      "ranking": 3.386395661040515,
+      "ranking": 2.6400854195113013,
       "articleUrl": "https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration"
     },
     {
@@ -1007,7 +1043,7 @@
         }
       ],
       "publishedAt": "2025-11-18T17:00:00.000Z",
-      "ranking": 3.1275367081917014,
+      "ranking": 2.450160442766961,
       "articleUrl": "https://venturebeat.com/ai/microsoft-remakes-windows-for-an-era-of-autonomous-ai-agents"
     },
     {
@@ -1042,7 +1078,7 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 3.060739309894646,
+      "ranking": 2.3142986170635202,
       "articleUrl": "https://www.theverge.com/news/822035/microsoft-agent-365-businesses-control-security"
     },
     {
@@ -1078,8 +1114,44 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 2.834915121494638,
+      "ranking": 2.08847443474916,
       "articleUrl": "https://www.theverge.com/news/822977/gemini-3-google-ai-model-launch"
+    },
+    {
+      "id": "303",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "Warren Probes AI Bailout",
+      "mediumTitle": "Warren Questions Potential AI Company Bailouts",
+      "longTitle": "Senator Warren Seeks Details on Potential AI Company Bailouts",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Senator Elizabeth Warren (D-MA) has",
+            "formally requested detailed information",
+            "from the Trump administration regarding",
+            "any potential plans to provide financial",
+            "assistance, or a \u0022bailout,\u0022 to major",
+            "Artificial Intelligence (AI) companies",
+            "using taxpayer funds.",
+            "Her inquiry aims to ascertain the extent",
+            "of these potential plans, the specific",
+            "companies that might be considered for",
+            "such support, and the rationale behind",
+            "any proposed financial interventions.",
+            "The core of Senator Warren\u0027s concern",
+            "stems from the possibility that the",
+            "administration might be considering",
+            "measures to support large AI firms,",
+            "which she views as potentially",
+            "benefiting from public money without",
+            "sufficient justification or oversight."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T14:00:00.000Z",
+      "ranking": 1.9738219023077335,
+      "articleUrl": "https://www.theverge.com/news/823136/senator-elizabeth-warren-openai-trump-bailout"
     },
     {
       "id": "309",
@@ -1115,44 +1187,8 @@
         }
       ],
       "publishedAt": "2025-11-18T11:20:17.000Z",
-      "ranking": 2.712422940549506,
+      "ranking": 1.9568388852441059,
       "articleUrl": "https://www.theverge.com/news/822988/microsoft-anthropic-partnership-claude-models-azure-investment-nvidia"
-    },
-    {
-      "id": "303",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "Warren Probes AI Bailout",
-      "mediumTitle": "Warren Questions Potential AI Company Bailouts",
-      "longTitle": "Senator Warren Seeks Details on Potential AI Company Bailouts",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Senator Elizabeth Warren (D-MA) has",
-            "formally requested detailed information",
-            "from the Trump administration regarding",
-            "any potential plans to provide financial",
-            "assistance, or a \u0022bailout,\u0022 to major",
-            "Artificial Intelligence (AI) companies",
-            "using taxpayer funds.",
-            "Her inquiry aims to ascertain the extent",
-            "of these potential plans, the specific",
-            "companies that might be considered for",
-            "such support, and the rationale behind",
-            "any proposed financial interventions.",
-            "The core of Senator Warren\u0027s concern",
-            "stems from the possibility that the",
-            "administration might be considering",
-            "measures to support large AI firms,",
-            "which she views as potentially",
-            "benefiting from public money without",
-            "sufficient justification or oversight."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T14:00:00.000Z",
-      "ranking": 2.6926368064687196,
-      "articleUrl": "https://www.theverge.com/news/823136/senator-elizabeth-warren-openai-trump-bailout"
     },
     {
       "id": "295",
@@ -1187,7 +1223,7 @@
         }
       ],
       "publishedAt": "2025-11-18T09:29:21.000Z",
-      "ranking": 2.481724435311862,
+      "ranking": 1.7006018950924648,
       "articleUrl": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector"
     },
     {
@@ -1220,7 +1256,7 @@
         }
       ],
       "publishedAt": "2025-11-18T09:00:00.000Z",
-      "ranking": 2.328110708043842,
+      "ranking": 1.5402313644388697,
       "articleUrl": "https://www.theverge.com/report/822443/microsoft-windows-copilot-vision-ai-assistant-pc-voice-controls-impressions"
     },
     {
@@ -1256,7 +1292,7 @@
         }
       ],
       "publishedAt": "2025-11-18T06:00:00.000Z",
-      "ranking": 2.273099899904019,
+      "ranking": 1.443781896854512,
       "articleUrl": "https://venturebeat.com/ai/microsofts-agent-365-shifts-ai-agents-from-sandbox-tools-to-enterprise-grade"
     },
     {
@@ -1293,7 +1329,7 @@
         }
       ],
       "publishedAt": "2025-11-18T06:00:00.000Z",
-      "ranking": 0.9273482579721168,
+      "ranking": 0.09803025537127841,
       "articleUrl": "https://venturebeat.com/ai/google-antigravity-introduces-agent-first-architecture-for-asynchronous"
     },
     {
@@ -1439,73 +1475,6 @@
       "publishedAt": "2025-11-17T13:07:57.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/822240/google-ai-mode-travel-plans-canvas"
-    },
-    {
-      "id": "286",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Phi-4 Data-First LLM",
-      "mediumTitle": "Phi-4: Data-First LLM Training",
-      "longTitle": "Phi-4\u0027s Data-First Approach to Efficient LLM Development",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Phi-4\u0027s innovative \u0027data-first\u0027",
-            "supervised fine-tuning (SFT) methodology",
-            "represents a significant advancement in",
-            "developing efficient and high-performing",
-            "Large Language Models (LLMs),",
-            "demonstrating that a",
-            "14-billion-parameter model can rival",
-            "much larger ones through a carefully",
-            "curated dataset and strategic",
-            "fine-tuning.",
-            "The key lessons from Phi-4 are that",
-            "methodical data and training design, not",
-            "just parameter count, drive advanced",
-            "reasoning, offering a practical",
-            "blueprint for AI teams to achieve",
-            "breakthrough performance without",
-            "excessive resource expenditure."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-17T09:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/phi-4-proves-that-a-data-first-sft-methodology-is-the-new-differentiator"
-    },
-    {
-      "id": "281",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Bezos AI Startup",
-      "mediumTitle": "Bezos Leads AI Manufacturing Startup",
-      "longTitle": "Jeff Bezos to Co-CEO Project Prometheus AI Manufacturing Startup",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Jeff Bezos, Amazon\u0027s founder, is",
-            "reportedly stepping into a co-CEO role",
-            "at Project Prometheus, a new AI startup",
-            "he is partially funding.",
-            "Advancements in AI for manufacturing",
-            "have the potential to revolutionize",
-            "production efficiency and reduce costs.",
-            "Project Prometheus aims to develop AI",
-            "technologies specifically for enhancing",
-            "manufacturing processes across",
-            "industries like computing, automotive,",
-            "and aerospace.",
-            "Bezos\u0027s active leadership, beyond just",
-            "funding, signals a deep commitment and",
-            "could attract top talent and secure",
-            "further investment."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-17T06:14:03.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/821943/jeff-bezos-project-prometheus-co-ceo-funding-ai-startup"
     }
   ]
 }
