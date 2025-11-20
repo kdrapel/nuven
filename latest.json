@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "id": "316",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Grok 4.1 Launched",
-      "mediumTitle": "xAI\u0027s Grok 4.1 Enhances AI",
-      "longTitle": "xAI\u0027s Grok 4.1 Now Live, Boosting Emotional Intelligence and Safety",
-      "paragraphs": [
-        {
-          "Lines": [
-            "xAI\u0027s latest large language model, Grok",
-            "4.1, is now powering Grok across its web",
-            "platform (grok.com), X (formerly",
-            "Twitter), and its mobile consumer",
-            "applications.",
-            "This new iteration aims to enhance the",
-            "AI assistant\u0027s capabilities by focusing",
-            "on three key areas: higher emotional",
-            "intelligence, reduced hallucinations,",
-            "and stricter safety controls.",
-            "This implies that xAI has put in place",
-            "more robust measures to prevent the",
-            "generation of harmful, biased, or",
-            "inappropriate content, ensuring a safer",
-            "user experience.",
-            "The implementation of tighter safety",
-            "controls is another critical aspect of",
-            "Grok 4.1\u0027s release."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-19T00:21:15.000Z",
-      "ranking": 8.654166666666669,
-      "articleUrl": "https://www.marktechpost.com/2025/11/18/xais-grok-4-1-pushes-toward-higher-emotional-intelligence-lower-hallucinations-and-tighter-safety-controls/"
-    },
-    {
       "id": "319",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -72,72 +37,38 @@
       "articleUrl": "https://www.theverge.com/news/823775/tiktok-ai-generated-content-controls-manage-topics"
     },
     {
-      "id": "325",
-      "topic": "Learning",
-      "source": "VentureBeat AI",
-      "shortTitle": "Meta\u0027s DreamGym",
-      "mediumTitle": "Meta\u0027s DreamGym: RL for LLM Agents",
-      "longTitle": "Meta\u0027s DreamGym: Revolutionizing LLM Agent Training with Simulation",
+      "id": "328",
+      "topic": "Hardware",
+      "source": "The Verge AI",
+      "shortTitle": "Nvidia Q3 Record",
+      "mediumTitle": "Nvidia\u0027s Record Q3 Revenue Driven by AI",
+      "longTitle": "Nvidia Reports Record-Breaking Q3 Revenue Fueled by AI GPU Demand",
       "paragraphs": [
         {
           "Lines": [
-            "Meta\u0027s DreamGym framework offers a novel",
-            "solution to the significant challenges",
-            "associated with training large language",
-            "model (LLM) agents using reinforcement",
-            "learning (RL).",
-            "Furthermore, a \u0027sim-to-real\u0027 approach,",
-            "DreamGym-S2R, where agents are first",
-            "trained in simulation and then",
-            "fine-tuned on a small amount of",
-            "real-world data, yielded over 40%",
-            "performance improvement compared to",
-            "training from scratch in the real",
-            "environment.",
-            "The core innovation of DreamGym lies in",
-            "its three interconnected components: a",
-            "reasoning-based experience model, an",
-            "experience replay buffer, and a",
-            "curriculum task generator."
+            "Nvidia has reported a record-breaking",
+            "third quarter for fiscal year 2026,",
+            "exceeding its own revenue projections",
+            "with a total of $57 billion.",
+            "This surge is largely attributed to",
+            "exceptionally high demand for its",
+            "Artificial Intelligence (AI) Graphics",
+            "Processing Units (GPUs), with some",
+            "models being completely sold out.",
+            "The demand for their specialized GPUs,",
+            "crucial for training and deploying AI",
+            "models, has outpaced supply, leading to",
+            "the sold-out status of certain products.",
+            "The company experienced significant",
+            "growth in its data center business,",
+            "which saw an increase of $10 billion in",
+            "just three months."
           ]
         }
       ],
-      "publishedAt": "2025-11-19T01:00:00.000Z",
-      "ranking": 8.376470588235295,
-      "articleUrl": "https://venturebeat.com/ai/metas-dreamgym-framework-trains-ai-agents-in-a-simulated-world-to-cut"
-    },
-    {
-      "id": "315",
-      "topic": "Learning",
-      "source": "Marktechpost AI",
-      "shortTitle": "Advanced DRL Agent",
-      "mediumTitle": "Advanced Agentic DRL System",
-      "longTitle": "Advanced Agentic Deep Reinforcement Learning System Construction",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This tutorial outlines the construction",
-            "of an advanced agentic Deep",
-            "Reinforcement Learning (DRL) system that",
-            "learns optimal actions and selects its",
-            "own training strategies.",
-            "The core innovation lies in enabling the",
-            "agent not only to learn optimal actions",
-            "within an environment but also to",
-            "autonomously select its own training",
-            "strategies.",
-            "This is achieved through a multi-faceted",
-            "approach incorporating a Dueling Double",
-            "Deep Q-Network (DQN) learner, a",
-            "curriculum progression mechanism,",
-            "adaptive exploration strategies, and",
-            "meta-level UCB planning."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-19T00:35:45.000Z",
-      "ranking": 8.13846153846154,
-      "articleUrl": "https://www.marktechpost.com/2025/11/18/how-to-build-an-agentic-deep-reinforcement-learning-system-with-curriculum-progression-adaptive-exploration-and-meta-level-ucb-planning/"
+      "publishedAt": "2025-11-19T18:15:16.000Z",
+      "ranking": 8.37142857142857,
+      "articleUrl": "https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue"
     },
     {
       "id": "323",
@@ -209,6 +140,77 @@
       "publishedAt": "2025-11-19T18:57:00.000Z",
       "ranking": 7.65,
       "articleUrl": "https://venturebeat.com/ai/the-google-search-of-ai-agents-fetch-launches-asi-one-and-business-tier-for"
+    },
+    {
+      "id": "329",
+      "topic": "NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Scholar Labs",
+      "mediumTitle": "Google\u0027s AI Scholar Labs",
+      "longTitle": "Google\u0027s AI Scholar Labs: A New Era for Research?",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has introduced Scholar Labs, a",
+            "new AI-powered search tool currently in",
+            "testing, aimed at answering complex",
+            "research questions.",
+            "The challenge for Google is to develop a",
+            "tool that is not only efficient but also",
+            "a responsible curator of scientific",
+            "knowledge, one that empowers researchers",
+            "without undermining the rigorous",
+            "standards that underpin scientific",
+            "progress.",
+            "This innovation raises a significant",
+            "question within the scientific",
+            "community: how will researchers evaluate",
+            "the trustworthiness of studies found",
+            "through a tool that deviates from",
+            "traditional metrics of scientific",
+            "acclaim, such as citation counts and",
+            "peer recognition?"
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-19T17:50:54.000Z",
+      "ranking": 7.628571428571428,
+      "articleUrl": "https://www.theverge.com/news/823213/google-scholar-labs-ai-search"
+    },
+    {
+      "id": "327",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Reg Order",
+      "mediumTitle": "Trump Admin AI Regulation Plan",
+      "longTitle": "Trump Administration Proposes Federal AI Regulation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "President Donald Trump is considering an",
+            "executive order to centralize AI",
+            "regulation under federal authority,",
+            "aiming to preempt state laws.",
+            "A draft of this executive order, as",
+            "reported, indicates the creation of an",
+            "\u0027AI Litigation Task Force\u0027 within the",
+            "Department of Justice.",
+            "This task force would be specifically",
+            "tasked with challenging any state laws",
+            "pertaining to AI.",
+            "The core objective of this proposed",
+            "executive order is to establish a",
+            "unified federal approach to AI",
+            "regulation, preventing a patchwork of",
+            "differing state regulations that could",
+            "complicate development and deployment of",
+            "AI technologies."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-19T19:03:28.000Z",
+      "ranking": 7.53125,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws"
     },
     {
       "id": "317",
@@ -283,6 +285,76 @@
       "articleUrl": "https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes"
     },
     {
+      "id": "316",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "Grok 4.1 Launched",
+      "mediumTitle": "xAI\u0027s Grok 4.1 Enhances AI",
+      "longTitle": "xAI\u0027s Grok 4.1 Now Live, Boosting Emotional Intelligence and Safety",
+      "paragraphs": [
+        {
+          "Lines": [
+            "xAI\u0027s latest large language model, Grok",
+            "4.1, is now powering Grok across its web",
+            "platform (grok.com), X (formerly",
+            "Twitter), and its mobile consumer",
+            "applications.",
+            "This new iteration aims to enhance the",
+            "AI assistant\u0027s capabilities by focusing",
+            "on three key areas: higher emotional",
+            "intelligence, reduced hallucinations,",
+            "and stricter safety controls.",
+            "This implies that xAI has put in place",
+            "more robust measures to prevent the",
+            "generation of harmful, biased, or",
+            "inappropriate content, ensuring a safer",
+            "user experience.",
+            "The implementation of tighter safety",
+            "controls is another critical aspect of",
+            "Grok 4.1\u0027s release."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-19T00:21:15.000Z",
+      "ranking": 7.3226853935728995,
+      "articleUrl": "https://www.marktechpost.com/2025/11/18/xais-grok-4-1-pushes-toward-higher-emotional-intelligence-lower-hallucinations-and-tighter-safety-controls/"
+    },
+    {
+      "id": "325",
+      "topic": "Learning",
+      "source": "VentureBeat AI",
+      "shortTitle": "Meta\u0027s DreamGym",
+      "mediumTitle": "Meta\u0027s DreamGym: RL for LLM Agents",
+      "longTitle": "Meta\u0027s DreamGym: Revolutionizing LLM Agent Training with Simulation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta\u0027s DreamGym framework offers a novel",
+            "solution to the significant challenges",
+            "associated with training large language",
+            "model (LLM) agents using reinforcement",
+            "learning (RL).",
+            "Furthermore, a \u0027sim-to-real\u0027 approach,",
+            "DreamGym-S2R, where agents are first",
+            "trained in simulation and then",
+            "fine-tuned on a small amount of",
+            "real-world data, yielded over 40%",
+            "performance improvement compared to",
+            "training from scratch in the real",
+            "environment.",
+            "The core innovation of DreamGym lies in",
+            "its three interconnected components: a",
+            "reasoning-based experience model, an",
+            "experience replay buffer, and a",
+            "curriculum task generator."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-19T01:00:00.000Z",
+      "ranking": 7.10636734313833,
+      "articleUrl": "https://venturebeat.com/ai/metas-dreamgym-framework-trains-ai-agents-in-a-simulated-world-to-cut"
+    },
+    {
       "id": "313",
       "topic": "AI Ops",
       "source": "The Verge AI",
@@ -314,39 +386,8 @@
         }
       ],
       "publishedAt": "2025-11-18T22:25:59.000Z",
-      "ranking": 7.261086100203359,
+      "ranking": 6.8773807392638,
       "articleUrl": "https://www.theverge.com/news/823711/cloudflare-outage-postmortem"
-    },
-    {
-      "id": "312",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Gemini 3 Pro",
-      "mediumTitle": "Google\u0027s Gemini 3 Pro AI",
-      "longTitle": "Google Unveils Gemini 3 Pro with 1 Million Token Context",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The ability to process a 1 million token",
-            "context window is a substantial leap,",
-            "enabling the model to ingest and analyze",
-            "significantly more information than",
-            "previous generations.",
-            "This approach allows Gemini 3 Pro to",
-            "efficiently process and reason over an",
-            "exceptionally large context window of up",
-            "to 1 million tokens.",
-            "Google has introduced its Gemini 3",
-            "family of models, with Gemini 3 Pro at",
-            "its core, representing a significant",
-            "advancement towards more generalized",
-            "artificial intelligence."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T20:12:35.000Z",
-      "ranking": 7.088109190704074,
-      "articleUrl": "https://www.marktechpost.com/2025/11/18/googles-gemini-3-pro-turns-sparse-moe-and-1m-token-context-into-a-practical-engine-for-multimodal-agentic-workloads/"
     },
     {
       "id": "322",
@@ -386,39 +427,68 @@
       "articleUrl": "https://venturebeat.com/ai/venturebeat-launches-beyond-the-pilot-a-new-podcast-series-exploring-how"
     },
     {
-      "id": "311",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Grok 4.1 Launched",
-      "mediumTitle": "xAI Releases Grok 4.1 LLM",
-      "longTitle": "xAI\u0027s Grok 4.1 LLM Launched with Enhanced Capabilities",
+      "id": "315",
+      "topic": "Learning",
+      "source": "Marktechpost AI",
+      "shortTitle": "Advanced DRL Agent",
+      "mediumTitle": "Advanced Agentic DRL System",
+      "longTitle": "Advanced Agentic Deep Reinforcement Learning System Construction",
       "paragraphs": [
         {
           "Lines": [
-            "Elon Musk\u0027s AI startup, xAI, has",
-            "launched its latest large language",
-            "model, Grok 4.1, aiming to compete with",
-            "major players like Google and OpenAI.",
-            "A major constraint for enterprise",
-            "adoption is that Grok 4.1 is not yet",
-            "available through xAI\u0027s public API.",
-            "Grok 4.1 boasts significant",
-            "architectural and usability",
-            "enhancements, including faster",
-            "reasoning, improved emotional",
-            "intelligence, and a substantially",
-            "reduced hallucination rate.",
-            "However, the lack of API access means it",
-            "remains primarily a consumer-focused",
-            "product for now, with its future",
-            "enterprise applicability contingent on",
-            "future API availability."
+            "This tutorial outlines the construction",
+            "of an advanced agentic Deep",
+            "Reinforcement Learning (DRL) system that",
+            "learns optimal actions and selects its",
+            "own training strategies.",
+            "The core innovation lies in enabling the",
+            "agent not only to learn optimal actions",
+            "within an environment but also to",
+            "autonomously select its own training",
+            "strategies.",
+            "This is achieved through a multi-faceted",
+            "approach incorporating a Dueling Double",
+            "Deep Q-Network (DQN) learner, a",
+            "curriculum progression mechanism,",
+            "adaptive exploration strategies, and",
+            "meta-level UCB planning."
           ]
         }
       ],
-      "publishedAt": "2025-11-18T21:03:00.000Z",
-      "ranking": 6.52112918256366,
-      "articleUrl": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and"
+      "publishedAt": "2025-11-19T00:35:45.000Z",
+      "ranking": 6.830117086026345,
+      "articleUrl": "https://www.marktechpost.com/2025/11/18/how-to-build-an-agentic-deep-reinforcement-learning-system-with-curriculum-progression-adaptive-exploration-and-meta-level-ucb-planning/"
+    },
+    {
+      "id": "312",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Gemini 3 Pro",
+      "mediumTitle": "Google\u0027s Gemini 3 Pro AI",
+      "longTitle": "Google Unveils Gemini 3 Pro with 1 Million Token Context",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The ability to process a 1 million token",
+            "context window is a substantial leap,",
+            "enabling the model to ingest and analyze",
+            "significantly more information than",
+            "previous generations.",
+            "This approach allows Gemini 3 Pro to",
+            "efficiently process and reason over an",
+            "exceptionally large context window of up",
+            "to 1 million tokens.",
+            "Google has introduced its Gemini 3",
+            "family of models, with Gemini 3 Pro at",
+            "its core, representing a significant",
+            "advancement towards more generalized",
+            "artificial intelligence."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T20:12:35.000Z",
+      "ranking": 6.673509584891635,
+      "articleUrl": "https://www.marktechpost.com/2025/11/18/googles-gemini-3-pro-turns-sparse-moe-and-1m-token-context-into-a-practical-engine-for-multimodal-agentic-workloads/"
     },
     {
       "id": "324",
@@ -457,178 +527,39 @@
       "articleUrl": "https://venturebeat.com/ai/openai-debuts-gpt-5-1-codex-max-coding-model-and-it-already-completed-a-24"
     },
     {
-      "id": "297",
-      "topic": "Generative AI",
+      "id": "311",
+      "topic": "Large Models",
       "source": "VentureBeat AI",
-      "shortTitle": "Gemini 3 Launched",
-      "mediumTitle": "Google Unveils Gemini 3 AI Model",
-      "longTitle": "Google Launches Gemini 3: New Frontier AI Model Family with Enhanced Capabilities",
+      "shortTitle": "Grok 4.1 Launched",
+      "mediumTitle": "xAI Releases Grok 4.1 LLM",
+      "longTitle": "xAI\u0027s Grok 4.1 LLM Launched with Enhanced Capabilities",
       "paragraphs": [
         {
           "Lines": [
-            "Google has launched Gemini 3, its latest",
-            "proprietary frontier model family,",
-            "marking a significant advancement in AI",
-            "capabilities.",
-            "Early independent benchmarks suggest",
-            "Gemini 3 Pro has achieved a leading",
-            "position in the AI landscape.",
-            "Artificial Analysis has crowned it the",
-            "\u0022new leader in AI\u0022 with a top score of",
-            "73 on their index, a substantial leap",
-            "from Gemini 2.5 Pro\u0027s score of 60.",
-            "Gemini 3 Pro achieved a preliminary Elo",
-            "score of 1501 on LMArena\u0027s",
-            "text-reasoning leaderboard, surpassing",
-            "models like xAI\u0027s Grok-4.1 and",
-            "Anthropic\u0027s Claude 4.5.",
-            "LMArena also reported Gemini 3 Pro",
-            "ranking first globally across text",
-            "reasoning, vision, coding, and web",
-            "development."
+            "Elon Musk\u0027s AI startup, xAI, has",
+            "launched its latest large language",
+            "model, Grok 4.1, aiming to compete with",
+            "major players like Google and OpenAI.",
+            "A major constraint for enterprise",
+            "adoption is that Grok 4.1 is not yet",
+            "available through xAI\u0027s public API.",
+            "Grok 4.1 boasts significant",
+            "architectural and usability",
+            "enhancements, including faster",
+            "reasoning, improved emotional",
+            "intelligence, and a substantially",
+            "reduced hallucination rate.",
+            "However, the lack of API access means it",
+            "remains primarily a consumer-focused",
+            "product for now, with its future",
+            "enterprise applicability contingent on",
+            "future API availability."
           ]
         }
       ],
-      "publishedAt": "2025-11-18T17:00:00.000Z",
-      "ranking": 6.42295635678642,
-      "articleUrl": "https://venturebeat.com/ai/google-unveils-gemini-3-claiming-the-lead-in-math-science-multimodal-and"
-    },
-    {
-      "id": "294",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Blue J\u0027s LLM Pivot",
-      "mediumTitle": "Blue J\u0027s AI Pivot to LLMs",
-      "longTitle": "Blue J\u0027s Successful Pivot from AI to LLMs for Tax Law",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The legal tech startup Blue J, founded",
-            "by tax law professor Benjamin Alarie,",
-            "successfully pivoted its entire business",
-            "model from a decade-old AI approach to",
-            "one based on large language models",
-            "(LLMs) like ChatGPT.",
-            "This strategic shift, made in late 2022,",
-            "has led to a dramatic increase in the",
-            "company\u0027s valuation to over $300 million",
-            "and a significant surge in revenue,",
-            "serving over 3,500 organizations.",
-            "The company\u0027s willingness to abandon",
-            "years of proprietary technology for an",
-            "unproven foundation, and its success in",
-            "minimizing AI hallucinations through",
-            "careful engineering and human oversight,",
-            "offers valuable lessons for other",
-            "industries."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T15:00:00.000Z",
-      "ranking": 6.417277436682239,
-      "articleUrl": "https://venturebeat.com/ai/how-ai-tax-startup-blue-j-torched-its-entire-business-model-for-chatgpt-and"
-    },
-    {
-      "id": "302",
-      "topic": "AI Ops",
-      "source": "The Verge AI",
-      "shortTitle": "Cloudflare Outage",
-      "mediumTitle": "Cloudflare Outage Disrupts Web Services",
-      "longTitle": "Massive Cloudflare Outage Causes Widespread Internet Disruptions",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A massive outage at Cloudflare, a",
-            "prominent networking company responsible",
-            "for DDoS protection and content delivery",
-            "for numerous global businesses,",
-            "significantly disrupted internet",
-            "services on Tuesday morning.",
-            "The incident rendered many websites",
-            "inaccessible, including prominent",
-            "platforms like X (formerly Twitter) and",
-            "ChatGPT, as well as the outage-tracking",
-            "website DownDetector itself.",
-            "The article highlights the critical role",
-            "Cloudflare plays in the internet\u0027s",
-            "backbone, underscoring how a single",
-            "point of failure within their system can",
-            "have cascading effects across a vast",
-            "number of online services."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T14:30:54.000Z",
-      "ranking": 6.273061058732758,
-      "articleUrl": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector"
-    },
-    {
-      "id": "307",
-      "topic": "Dev Tools",
-      "source": "The Verge AI",
-      "shortTitle": "Google\u0027s Antigravity",
-      "mediumTitle": "Google Antigravity: Agent-First Coding",
-      "longTitle": "Google Unveils Antigravity for Agent-First Software Development",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has introduced Antigravity, a new",
-            "development tool designed to foster an",
-            "\u0022agent-first future\u0022 in coding,",
-            "leveraging its latest AI model, Gemini 3",
-            "Pro, and other third-party AI models.",
-            "Antigravity is engineered to support",
-            "multiple autonomous agents, granting",
-            "them direct access to essential",
-            "development environments such as the",
-            "code editor, terminal, and web browser.",
-            "The announcement of Antigravity",
-            "coincides with the reveal of Gemini 3",
-            "Pro, indicating that the capabilities of",
-            "this new AI model are a foundational",
-            "element of the tool.",
-            "The core philosophy behind Antigravity",
-            "is its \u0022agent-first\u0022 approach,",
-            "suggesting a shift towards AI agents",
-            "playing a more central and active role",
-            "in software development."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 6.256767095334958,
-      "articleUrl": "https://www.theverge.com/news/822833/google-antigravity-ide-coding-agent-gemini-3-pro"
-    },
-    {
-      "id": "299",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Writer Agent Launch",
-      "mediumTitle": "Writer Agent: AI for Enterprise Workflows",
-      "longTitle": "Writer Launches AI Platform for Enterprise Workflow Automation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Unlike consumer-focused tools like",
-            "ChatGPT and Microsoft Copilot, Writer",
-            "Agent enables employees to automate",
-            "complex business workflows without",
-            "coding.",
-            "Writer, an AI startup, has launched",
-            "Writer Agent, a unified AI platform",
-            "designed for enterprise use.",
-            "While other AI tools are primarily",
-            "geared towards personal productivity,",
-            "Writer Agent is built from the ground up",
-            "for the security, compliance, and",
-            "governance needs of large, regulated",
-            "organizations."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T17:00:00.000Z",
-      "ranking": 6.144517187213493,
-      "articleUrl": "https://venturebeat.com/ai/writers-ai-agents-can-actually-do-your-work-not-just-chat-about-it"
+      "publishedAt": "2025-11-18T21:03:00.000Z",
+      "ranking": 6.118205621526908,
+      "articleUrl": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and"
     },
     {
       "id": "318",
@@ -667,6 +598,180 @@
       "articleUrl": "https://venturebeat.com/ai/opencv-founders-launch-ai-video-startup-to-take-on-openai-and-google"
     },
     {
+      "id": "297",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Gemini 3 Launched",
+      "mediumTitle": "Google Unveils Gemini 3 AI Model",
+      "longTitle": "Google Launches Gemini 3: New Frontier AI Model Family with Enhanced Capabilities",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has launched Gemini 3, its latest",
+            "proprietary frontier model family,",
+            "marking a significant advancement in AI",
+            "capabilities.",
+            "Early independent benchmarks suggest",
+            "Gemini 3 Pro has achieved a leading",
+            "position in the AI landscape.",
+            "Artificial Analysis has crowned it the",
+            "\u0022new leader in AI\u0022 with a top score of",
+            "73 on their index, a substantial leap",
+            "from Gemini 2.5 Pro\u0027s score of 60.",
+            "Gemini 3 Pro achieved a preliminary Elo",
+            "score of 1501 on LMArena\u0027s",
+            "text-reasoning leaderboard, surpassing",
+            "models like xAI\u0027s Grok-4.1 and",
+            "Anthropic\u0027s Claude 4.5.",
+            "LMArena also reported Gemini 3 Pro",
+            "ranking first globally across text",
+            "reasoning, vision, coding, and web",
+            "development."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T17:00:00.000Z",
+      "ranking": 5.963756182778644,
+      "articleUrl": "https://venturebeat.com/ai/google-unveils-gemini-3-claiming-the-lead-in-math-science-multimodal-and"
+    },
+    {
+      "id": "294",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Blue J\u0027s LLM Pivot",
+      "mediumTitle": "Blue J\u0027s AI Pivot to LLMs",
+      "longTitle": "Blue J\u0027s Successful Pivot from AI to LLMs for Tax Law",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The legal tech startup Blue J, founded",
+            "by tax law professor Benjamin Alarie,",
+            "successfully pivoted its entire business",
+            "model from a decade-old AI approach to",
+            "one based on large language models",
+            "(LLMs) like ChatGPT.",
+            "This strategic shift, made in late 2022,",
+            "has led to a dramatic increase in the",
+            "company\u0027s valuation to over $300 million",
+            "and a significant surge in revenue,",
+            "serving over 3,500 organizations.",
+            "The company\u0027s willingness to abandon",
+            "years of proprietary technology for an",
+            "unproven foundation, and its success in",
+            "minimizing AI hallucinations through",
+            "careful engineering and human oversight,",
+            "offers valuable lessons for other",
+            "industries."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T15:00:00.000Z",
+      "ranking": 5.930286344438513,
+      "articleUrl": "https://venturebeat.com/ai/how-ai-tax-startup-blue-j-torched-its-entire-business-model-for-chatgpt-and"
+    },
+    {
+      "id": "302",
+      "topic": "AI Ops",
+      "source": "The Verge AI",
+      "shortTitle": "Cloudflare Outage",
+      "mediumTitle": "Cloudflare Outage Disrupts Web Services",
+      "longTitle": "Massive Cloudflare Outage Causes Widespread Internet Disruptions",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A massive outage at Cloudflare, a",
+            "prominent networking company responsible",
+            "for DDoS protection and content delivery",
+            "for numerous global businesses,",
+            "significantly disrupted internet",
+            "services on Tuesday morning.",
+            "The incident rendered many websites",
+            "inaccessible, including prominent",
+            "platforms like X (formerly Twitter) and",
+            "ChatGPT, as well as the outage-tracking",
+            "website DownDetector itself.",
+            "The article highlights the critical role",
+            "Cloudflare plays in the internet\u0027s",
+            "backbone, underscoring how a single",
+            "point of failure within their system can",
+            "have cascading effects across a vast",
+            "number of online services."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T14:30:54.000Z",
+      "ranking": 5.779330668730104,
+      "articleUrl": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector"
+    },
+    {
+      "id": "307",
+      "topic": "Dev Tools",
+      "source": "The Verge AI",
+      "shortTitle": "Google\u0027s Antigravity",
+      "mediumTitle": "Google Antigravity: Agent-First Coding",
+      "longTitle": "Google Unveils Antigravity for Agent-First Software Development",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has introduced Antigravity, a new",
+            "development tool designed to foster an",
+            "\u0022agent-first future\u0022 in coding,",
+            "leveraging its latest AI model, Gemini 3",
+            "Pro, and other third-party AI models.",
+            "Antigravity is engineered to support",
+            "multiple autonomous agents, granting",
+            "them direct access to essential",
+            "development environments such as the",
+            "code editor, terminal, and web browser.",
+            "The announcement of Antigravity",
+            "coincides with the reveal of Gemini 3",
+            "Pro, indicating that the capabilities of",
+            "this new AI model are a foundational",
+            "element of the tool.",
+            "The core philosophy behind Antigravity",
+            "is its \u0022agent-first\u0022 approach,",
+            "suggesting a shift towards AI agents",
+            "playing a more central and active role",
+            "in software development."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T12:00:00.000Z",
+      "ranking": 5.728089625545557,
+      "articleUrl": "https://www.theverge.com/news/822833/google-antigravity-ide-coding-agent-gemini-3-pro"
+    },
+    {
+      "id": "299",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Writer Agent Launch",
+      "mediumTitle": "Writer Agent: AI for Enterprise Workflows",
+      "longTitle": "Writer Launches AI Platform for Enterprise Workflow Automation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Unlike consumer-focused tools like",
+            "ChatGPT and Microsoft Copilot, Writer",
+            "Agent enables employees to automate",
+            "complex business workflows without",
+            "coding.",
+            "Writer, an AI startup, has launched",
+            "Writer Agent, a unified AI platform",
+            "designed for enterprise use.",
+            "While other AI tools are primarily",
+            "geared towards personal productivity,",
+            "Writer Agent is built from the ground up",
+            "for the security, compliance, and",
+            "governance needs of large, regulated",
+            "organizations."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T17:00:00.000Z",
+      "ranking": 5.685317011829147,
+      "articleUrl": "https://venturebeat.com/ai/writers-ai-agents-can-actually-do-your-work-not-just-chat-about-it"
+    },
+    {
       "id": "314",
       "topic": "Policy",
       "source": "The Verge AI",
@@ -695,8 +800,44 @@
         }
       ],
       "publishedAt": "2025-11-18T19:45:52.000Z",
-      "ranking": 6.033615906157547,
+      "ranking": 5.612829364205917,
       "articleUrl": "https://www.theverge.com/policy/823650/ai-moratorium-house-gop-scalise"
+    },
+    {
+      "id": "326",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Grok 4.1 Launched",
+      "mediumTitle": "xAI\u0027s Grok 4.1: New AI Model",
+      "longTitle": "xAI Releases Grok 4.1 with Enhanced Features and API Access",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Elon Musk\u0027s AI startup, xAI, has",
+            "launched its latest large language",
+            "model, Grok 4.1, aiming to compete with",
+            "major players like Google and OpenAI.",
+            "Grok 4.1 boasts significant",
+            "architectural and usability",
+            "enhancements, including faster",
+            "reasoning, improved emotional",
+            "intelligence, and a substantially",
+            "reduced hallucination rate.",
+            "However, a day after the initial",
+            "article\u0027s publication, xAI announced API",
+            "access for Grok 4.1.",
+            "However, the subsequent API release,",
+            "along with competitive pricing and the",
+            "introduction of the Agent Tools API,",
+            "positions Grok 4.1 Fast as a strong",
+            "contender for enterprise and developer",
+            "integration."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T21:03:00.000Z",
+      "ranking": 5.559619727742726,
+      "articleUrl": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and"
     },
     {
       "id": "306",
@@ -727,7 +868,7 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 5.880630196451999,
+      "ranking": 5.351953244284023,
       "articleUrl": "https://www.theverge.com/news/822789/microsoft-copilot-chat-outlook-word-excel-powerpoint"
     },
     {
@@ -762,7 +903,7 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:34.000Z",
-      "ranking": 5.833683751900655,
+      "ranking": 5.305138029612679,
       "articleUrl": "https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration"
     },
     {
@@ -797,7 +938,7 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 5.508552262216256,
+      "ranking": 4.979875301158641,
       "articleUrl": "https://www.theverge.com/news/822035/microsoft-agent-365-businesses-control-security"
     },
     {
@@ -832,7 +973,7 @@
         }
       ],
       "publishedAt": "2025-11-18T17:00:00.000Z",
-      "ranking": 5.297492905740871,
+      "ranking": 4.838293167010845,
       "articleUrl": "https://venturebeat.com/ai/microsoft-remakes-windows-for-an-era-of-autonomous-ai-agents"
     },
     {
@@ -868,7 +1009,7 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 5.282728077165067,
+      "ranking": 4.754051114275761,
       "articleUrl": "https://www.theverge.com/news/822977/gemini-3-google-ai-model-launch"
     },
     {
@@ -905,8 +1046,44 @@
         }
       ],
       "publishedAt": "2025-11-18T11:20:17.000Z",
-      "ranking": 5.1970210445384115,
+      "ranking": 4.659146069698416,
       "articleUrl": "https://www.theverge.com/news/822988/microsoft-anthropic-partnership-claude-models-azure-investment-nvidia"
+    },
+    {
+      "id": "303",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "Warren Probes AI Bailout",
+      "mediumTitle": "Warren Questions Potential AI Company Bailouts",
+      "longTitle": "Senator Warren Seeks Details on Potential AI Company Bailouts",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Senator Elizabeth Warren (D-MA) has",
+            "formally requested detailed information",
+            "from the Trump administration regarding",
+            "any potential plans to provide financial",
+            "assistance, or a \u0022bailout,\u0022 to major",
+            "Artificial Intelligence (AI) companies",
+            "using taxpayer funds.",
+            "Her inquiry aims to ascertain the extent",
+            "of these potential plans, the specific",
+            "companies that might be considered for",
+            "such support, and the rationale behind",
+            "any proposed financial interventions.",
+            "The core of Senator Warren\u0027s concern",
+            "stems from the possibility that the",
+            "administration might be considering",
+            "measures to support large AI firms,",
+            "which she views as potentially",
+            "benefiting from public money without",
+            "sufficient justification or oversight."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T14:00:00.000Z",
+      "ranking": 4.528421000186432,
+      "articleUrl": "https://www.theverge.com/news/823136/senator-elizabeth-warren-openai-trump-bailout"
     },
     {
       "id": "295",
@@ -941,7 +1118,7 @@
         }
       ],
       "publishedAt": "2025-11-18T09:29:21.000Z",
-      "ranking": 5.069067794107687,
+      "ranking": 4.505501681849067,
       "articleUrl": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector"
     },
     {
@@ -977,44 +1154,8 @@
         }
       ],
       "publishedAt": "2025-11-18T06:00:00.000Z",
-      "ranking": 5.054340958491694,
+      "ranking": 4.442291328150704,
       "articleUrl": "https://venturebeat.com/ai/microsofts-agent-365-shifts-ai-agents-from-sandbox-tools-to-enterprise-grade"
-    },
-    {
-      "id": "303",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "Warren Probes AI Bailout",
-      "mediumTitle": "Warren Questions Potential AI Company Bailouts",
-      "longTitle": "Senator Warren Seeks Details on Potential AI Company Bailouts",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Senator Elizabeth Warren (D-MA) has",
-            "formally requested detailed information",
-            "from the Trump administration regarding",
-            "any potential plans to provide financial",
-            "assistance, or a \u0022bailout,\u0022 to major",
-            "Artificial Intelligence (AI) companies",
-            "using taxpayer funds.",
-            "Her inquiry aims to ascertain the extent",
-            "of these potential plans, the specific",
-            "companies that might be considered for",
-            "such support, and the rationale behind",
-            "any proposed financial interventions.",
-            "The core of Senator Warren\u0027s concern",
-            "stems from the possibility that the",
-            "administration might be considering",
-            "measures to support large AI firms,",
-            "which she views as potentially",
-            "benefiting from public money without",
-            "sufficient justification or oversight."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T14:00:00.000Z",
-      "ranking": 5.029307055148429,
-      "articleUrl": "https://www.theverge.com/news/823136/senator-elizabeth-warren-openai-trump-bailout"
     },
     {
       "id": "296",
@@ -1046,7 +1187,7 @@
         }
       ],
       "publishedAt": "2025-11-18T09:00:00.000Z",
-      "ranking": 4.942637697404338,
+      "ranking": 4.372274414386117,
       "articleUrl": "https://www.theverge.com/report/822443/microsoft-windows-copilot-vision-ai-assistant-pc-voice-controls-impressions"
     },
     {
@@ -1083,8 +1224,43 @@
         }
       ],
       "publishedAt": "2025-11-18T06:00:00.000Z",
-      "ranking": 3.708589296981126,
+      "ranking": 3.0965396821188866,
       "articleUrl": "https://venturebeat.com/ai/google-antigravity-introduces-agent-first-architecture-for-asynchronous"
+    },
+    {
+      "id": "291",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "AI Weather Forecast",
+      "mediumTitle": "Google DeepMind\u0027s WeatherNext 2",
+      "longTitle": "Google DeepMind Launches Advanced AI Weather Forecasting System",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google DeepMind has unveiled WeatherNext",
+            "2, an advanced AI-powered system for",
+            "medium-range global weather forecasting.",
+            "The core innovation behind WeatherNext 2",
+            "is its new Functional Generative Network",
+            "(FGN) architecture.",
+            "Specifically, the system achieves an 8x",
+            "speed improvement in generating these",
+            "forecasts.",
+            "This architecture, combined with a large",
+            "ensemble of forecasts, enables",
+            "WeatherNext 2 to produce probabilistic",
+            "weather forecasts significantly faster",
+            "than previous methods.",
+            "The key advancements include the",
+            "development of the FGN architecture and",
+            "the substantial speed enhancement for",
+            "probabilistic forecasting."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-17T21:16:46.000Z",
+      "ranking": 1.9924222998269965,
+      "articleUrl": "https://www.marktechpost.com/2025/11/17/google-deepminds-weathernext-2-uses-functional-generative-networks-for-8x-faster-probabilistic-weather-forecasts/"
     },
     {
       "id": "288",
@@ -1119,43 +1295,8 @@
         }
       ],
       "publishedAt": "2025-11-17T18:00:56.000Z",
-      "ranking": 2.7693202802984365,
+      "ranking": 1.9907414811911464,
       "articleUrl": "https://www.theverge.com/news/822489/weather-forecast-ai-model-google-weathernext"
-    },
-    {
-      "id": "291",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "AI Weather Forecast",
-      "mediumTitle": "Google DeepMind\u0027s WeatherNext 2",
-      "longTitle": "Google DeepMind Launches Advanced AI Weather Forecasting System",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google DeepMind has unveiled WeatherNext",
-            "2, an advanced AI-powered system for",
-            "medium-range global weather forecasting.",
-            "The core innovation behind WeatherNext 2",
-            "is its new Functional Generative Network",
-            "(FGN) architecture.",
-            "Specifically, the system achieves an 8x",
-            "speed improvement in generating these",
-            "forecasts.",
-            "This architecture, combined with a large",
-            "ensemble of forecasts, enables",
-            "WeatherNext 2 to produce probabilistic",
-            "weather forecasts significantly faster",
-            "than previous methods.",
-            "The key advancements include the",
-            "development of the FGN architecture and",
-            "the substantial speed enhancement for",
-            "probabilistic forecasting."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-17T21:16:46.000Z",
-      "ranking": 2.725647899502449,
-      "articleUrl": "https://www.marktechpost.com/2025/11/17/google-deepminds-weathernext-2-uses-functional-generative-networks-for-8x-faster-probabilistic-weather-forecasts/"
     },
     {
       "id": "284",
@@ -1191,7 +1332,7 @@
         }
       ],
       "publishedAt": "2025-11-17T13:07:57.000Z",
-      "ranking": 2.331480512623161,
+      "ranking": 1.4850494949137723,
       "articleUrl": "https://www.theverge.com/news/822240/google-ai-mode-travel-plans-canvas"
     },
     {
@@ -1227,7 +1368,7 @@
         }
       ],
       "publishedAt": "2025-11-17T18:47:14.000Z",
-      "ranking": 2.2455550991954913,
+      "ranking": 1.4776989583937032,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/822496/openai-employee-equity-donation-charity-rounds-share-valuation"
     },
     {
@@ -1261,7 +1402,7 @@
         }
       ],
       "publishedAt": "2025-11-17T09:00:00.000Z",
-      "ranking": 1.4868440584712017,
+      "ranking": 0.5829901181782331,
       "articleUrl": "https://venturebeat.com/ai/phi-4-proves-that-a-data-first-sft-methodology-is-the-new-differentiator"
     },
     {
@@ -1294,7 +1435,7 @@
         }
       ],
       "publishedAt": "2025-11-17T06:14:03.000Z",
-      "ranking": 0.19598144309890397,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/821943/jeff-bezos-project-prometheus-co-ceo-funding-ai-startup"
     },
     {
@@ -1366,110 +1507,6 @@
       "publishedAt": "2025-11-16T19:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later"
-    },
-    {
-      "id": "279",
-      "topic": "Security",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Identity Crisis",
-      "mediumTitle": "AI Agents Need New Identity Management",
-      "longTitle": "Failing IAM Systems Require New Control Plane for Agentic AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article argues that traditional",
-            "Identity and Access Management (IAM)",
-            "systems, designed for human users, are",
-            "inadequate for the burgeoning world of",
-            "agentic AI.",
-            "The article asserts that managing an",
-            "agentic AI future requires a fundamental",
-            "shift from human-era identity tools to",
-            "an identity-centric control plane for AI",
-            "operations.",
-            "By making identity the central nervous",
-            "system, moving authorization to runtime,",
-            "binding data access to purpose, and",
-            "validating on synthetic data,",
-            "organizations can scale their AI",
-            "deployments without proportionally",
-            "increasing breach risk."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-16T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/security/human-centric-iam-is-failing-agentic-ai-requires-a-new-identity-control"
-    },
-    {
-      "id": "278",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Cerebras MiniMax",
-      "mediumTitle": "Cerebras MiniMax-M2-REAP-162B",
-      "longTitle": "Cerebras Introduces Memory-Efficient MiniMax-M2-REAP-162B",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Cerebras has introduced",
-            "MiniMax-M2-REAP-162B-A10B, a novel,",
-            "memory-efficient version of their",
-            "MiniMax-M2 causal language model,",
-            "specifically designed for",
-            "deployment-focused workloads,",
-            "particularly for coding agents and tools",
-            "that require handling long contexts.",
-            "Despite the reduction in size and the",
-            "pruning of experts, Cerebras states that",
-            "MiniMax-M2-REAP-162B-A10B retains the",
-            "behavioral characteristics of the",
-            "original MiniMax-M2.",
-            "The primary goal of this pruning is to",
-            "significantly reduce the memory",
-            "footprint of the model."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-16T03:53:25.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/15/cerebras-releases-minimax-m2-reap-162b-a10b-a-memory-efficient-version-of-minimax-m2-for-long-context-coding-agents/"
-    },
-    {
-      "id": "277",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "MBZUAI\u0027s PAN",
-      "mediumTitle": "MBZUAI Unveils PAN: A World Model",
-      "longTitle": "MBZUAI Researchers Introduce PAN: A General World Model For Interactable Long Horizon Simulation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "MBZUAI researchers have developed PAN, a",
-            "novel general world model designed for",
-            "interactable long horizon simulation.",
-            "Unlike typical text-to-video models that",
-            "generate a single clip and stop, PAN",
-            "maintains an internal world state that",
-            "persists and evolves with actions.",
-            "This persistent world state allows PAN",
-            "to function as a dynamic simulation",
-            "environment, predicting future outcomes",
-            "based on ongoing interactions.",
-            "The core innovation of PAN lies in its",
-            "ability to act as a \u0022general world",
-            "model,\u0022 capable of understanding and",
-            "simulating a wide range of scenarios",
-            "beyond specific tasks.",
-            "The \u0022interactable\u0022 aspect highlights its",
-            "capacity to respond to user inputs or",
-            "external events, making it suitable for",
-            "simulations requiring dynamic changes."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-15T18:13:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/15/mbzuai-researchers-introduce-pan-a-general-world-model-for-interactable-long-horizon-simulation/"
     }
   ]
 }
