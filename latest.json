@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "341",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini in Auto",
+      "mediumTitle": "Gemini AI Arrives in Android Auto",
+      "longTitle": "Google\u0027s Gemini AI Assistant Now Integrated into Android Auto",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google is integrating its Gemini AI",
+            "assistant into Android Auto, offering",
+            "drivers a more conversational voice",
+            "assistant experience.",
+            "The key feature highlighted is Gemini\u0027s",
+            "ability to understand natural speech,",
+            "enabling back-and-forth conversations",
+            "rather than relying on rigid command",
+            "structures.",
+            "This rollout begins today, allowing",
+            "users to interact with Gemini for tasks",
+            "such as navigation, message management,",
+            "and other errands.",
+            "This move signifies a shift from the",
+            "traditional Google Assistant, aiming to",
+            "provide a more intuitive and efficient",
+            "way for drivers to manage their in-car",
+            "digital needs."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-20T13:00:00.000Z",
+      "ranking": 8.583333333333332,
+      "articleUrl": "https://www.theverge.com/news/825008/googles-gemini-is-now-on-android-auto"
+    },
+    {
       "id": "332",
       "topic": "AI Ops",
       "source": "VentureBeat AI",
@@ -35,6 +70,111 @@
       "publishedAt": "2025-11-20T18:35:00.000Z",
       "ranking": 8.083333333333334,
       "articleUrl": "https://venturebeat.com/ai/scaleops-new-ai-infra-product-slashes-gpu-costs-for-self-hosted-enterprise"
+    },
+    {
+      "id": "339",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Perplexity Comet",
+      "mediumTitle": "Perplexity\u0027s Comet Browser on Android",
+      "longTitle": "Perplexity Launches AI-Powered Comet Browser for Android",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Perplexity, a company known for its",
+            "AI-powered search engine, has launched",
+            "its Comet browser on the Android",
+            "platform.",
+            "The Comet browser on Android allows",
+            "users to leverage Perplexity\u0027s",
+            "integrated AI assistant directly while",
+            "browsing the web.",
+            "The launch signifies Perplexity\u0027s",
+            "expansion into the mobile browser market",
+            "with an AI-centric approach.",
+            "This feature is a key differentiator,",
+            "positioning Comet as one of the early",
+            "major browsers with a strong focus on",
+            "artificial intelligence capabilities.",
+            "Users can expect features that go beyond",
+            "standard web browsing, incorporating AI",
+            "for enhanced information discovery and",
+            "interaction."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-20T14:00:00.000Z",
+      "ranking": 8.08,
+      "articleUrl": "https://www.theverge.com/news/825221/perplexity-comet-ai-browser-launch-android"
+    },
+    {
+      "id": "334",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Gemini 3 Pro Image",
+      "mediumTitle": "Google\u0027s Gemini 3 Pro Image AI",
+      "longTitle": "Google Unveils Gemini 3 Pro Image: Advanced AI for Enterprise Visuals",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has unveiled its upgraded AI",
+            "image model, Gemini 3 Pro Image,",
+            "internally codenamed \u0022Nano Banana Pro,\u0022",
+            "which is generating significant",
+            "excitement among developers and",
+            "enterprise AI engineers for its advanced",
+            "capabilities.",
+            "This new model is designed not just for",
+            "casual users or artistic endeavors but",
+            "for integration into structured",
+            "enterprise workflows, offering",
+            "studio-quality, multimodal image",
+            "generation with high resolution,",
+            "multilingual accuracy, layout",
+            "consistency, and real-time knowledge",
+            "grounding.",
+            "A significant feature for enterprise use",
+            "is the inclusion of SynthID, Google\u0027s",
+            "digital watermarking system, which is",
+            "embedded in every generated image."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-20T21:20:00.000Z",
+      "ranking": 7.947619047619048,
+      "articleUrl": "https://venturebeat.com/ai/googles-upgraded-nano-banana-pro-ai-image-model-hailed-as-absolutely-bonkers"
+    },
+    {
+      "id": "337",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini 3 Review",
+      "mediumTitle": "Gemini 3: Google\u0027s AI Meets Expectations",
+      "longTitle": "Gemini 3: Google\u0027s Latest AI Model Largely Meets Advertised Capabilities",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google\u0027s latest AI model, Gemini 3, has",
+            "been presented with ambitious promises,",
+            "including advanced features like",
+            "generating code for interactive 3D",
+            "visualizations and \u0027agentic\u0027",
+            "capabilities for task completion.",
+            "While the description doesn\u0027t detail the",
+            "specific tests or their outcomes, it",
+            "establishes the premise that Gemini 3 is",
+            "\u0027almost as good as Google says it is,\u0027",
+            "indicating that it largely meets",
+            "expectations but may not exceed them in",
+            "every aspect, or that some advertised",
+            "features might be slightly less refined",
+            "in practice."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-20T15:42:47.000Z",
+      "ranking": 7.888888888888888,
+      "articleUrl": "https://www.theverge.com/report/825332/google-gemini-3-pro-ai-hands-on-test"
     },
     {
       "id": "330",
@@ -73,6 +213,146 @@
       "articleUrl": "https://venturebeat.com/ai/tomes-founders-ditch-viral-presentation-app-with-20m-users-to-build-ai"
     },
     {
+      "id": "336",
+      "topic": "Security",
+      "source": "The Verge AI",
+      "shortTitle": "GPU Smuggling",
+      "mediumTitle": "US Charges GPU Smuggling to China",
+      "longTitle": "Federal Prosecutors Charge Four in Nvidia GPU Smuggling Scheme to China",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Federal prosecutors have charged four",
+            "individuals with illegally smuggling",
+            "advanced Nvidia GPUs and HP",
+            "supercomputers containing these GPUs",
+            "from the United States to China.",
+            "This action is in direct violation of",
+            "U.S. government restrictions that",
+            "prohibit the sale of Nvidia\u0027s most",
+            "powerful AI training chips to China.",
+            "The core of the charges revolves around",
+            "the circumvention of export controls",
+            "designed to limit China\u0027s access to",
+            "cutting-edge AI hardware.",
+            "The article suggests that the smuggling",
+            "operation aimed to bypass these",
+            "regulations, allowing Chinese entities",
+            "to obtain technology that the U.S.",
+            "government deems sensitive and has",
+            "specifically restricted for export."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-20T15:51:56.000Z",
+      "ranking": 7.614285714285715,
+      "articleUrl": "https://www.theverge.com/news/825510/nvidia-china-smuggling-ai-chips-h200"
+    },
+    {
+      "id": "338",
+      "topic": "Music",
+      "source": "The Verge AI",
+      "shortTitle": "AI in Music",
+      "mediumTitle": "Major Labels Embrace AI in Music",
+      "longTitle": "Music Industry\u0027s Rapid AI Integration and Emerging Challenges",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The music industry is rapidly embracing",
+            "Artificial Intelligence (AI), a trend",
+            "that has been gaining momentum over the",
+            "past two years.",
+            "The emergence of AI-generated music,",
+            "exemplified by the viral \u0022BBL Drizzy\u0022",
+            "track featuring vocals mimicking Drake,",
+            "brought to the forefront critical issues",
+            "concerning artistry, the use of",
+            "likeness, and copyright.",
+            "This development has prompted",
+            "significant engagement from major",
+            "players in the industry, including the",
+            "\u0022big three\u0022 labels: Universal Music",
+            "Group (UMG), Sony Music Entertainment,",
+            "and Warner Music Group.",
+            "These major labels are not merely",
+            "observing the rise of AI but are",
+            "actively investing in and exploring its",
+            "potential applications."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-20T15:16:34.000Z",
+      "ranking": 7.605555555555555,
+      "articleUrl": "https://www.theverge.com/tech/825382/ai-music-streaming-deal-klay-umg-sony-warner"
+    },
+    {
+      "id": "335",
+      "topic": "Dev Tools",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT Group Chat",
+      "mediumTitle": "ChatGPT Group Chats Now Global",
+      "longTitle": "OpenAI Rolls Out Group Chat Feature for ChatGPT Globally",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI is making group chats a widely",
+            "available feature within ChatGPT,",
+            "enabling users to invite up to 20 other",
+            "individuals to participate in",
+            "conversations with the AI chatbot.",
+            "The core benefit highlighted is the",
+            "enhanced collaboration potential,",
+            "allowing multiple users to leverage",
+            "ChatGPT\u0027s intelligence in a shared",
+            "context.",
+            "This new functionality has been rolled",
+            "out globally to all logged-in users,",
+            "following a brief pilot program",
+            "conducted earlier in the month.",
+            "OpenAI\u0027s strategic move expands",
+            "ChatGPT\u0027s functionality beyond",
+            "individual interactions."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-20T15:58:11.000Z",
+      "ranking": 7.591666666666668,
+      "articleUrl": "https://www.theverge.com/news/825544/openai-chatgpt-group-chats-launch"
+    },
+    {
+      "id": "344",
+      "topic": "Dev Tools",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT Atlas Update",
+      "mediumTitle": "ChatGPT Atlas Adds Vertical Tabs",
+      "longTitle": "ChatGPT Atlas Updates with Vertical Tabs Resembling Arc Browser",
+      "paragraphs": [
+        {
+          "Lines": [
+            "ChatGPT Atlas, a feature within the",
+            "AI-powered browser, is undergoing an",
+            "update that introduces vertical tabs,",
+            "drawing a visual resemblance to the Arc",
+            "browser.",
+            "However, with this new update, users",
+            "will have the option to switch their tab",
+            "style, allowing them to access and",
+            "manage their ChatGPT sessions within a",
+            "sidebar located on the left-hand side of",
+            "the screen.",
+            "A key feature of this new sidebar in",
+            "ChatGPT Atlas is its resizability,",
+            "mirroring a similar capability in Arc,",
+            "which allows users to adjust the width",
+            "of the sidebar to their preference."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-20T11:04:02.000Z",
+      "ranking": 7.5375000000000005,
+      "articleUrl": "https://www.theverge.com/news/825036/openai-chatgpt-atlas-arc-vertical-tabs-update"
+    },
+    {
       "id": "331",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -106,6 +386,73 @@
       "articleUrl": "https://venturebeat.com/ai/ai2s-olmo-3-family-challenges-qwen-and-llama-with-efficient-open-reasoning"
     },
     {
+      "id": "340",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Prime Video AI Recaps",
+      "mediumTitle": "Amazon Prime Video\u0027s New AI Recaps",
+      "longTitle": "Amazon Prime Video Introduces Generative AI Video Recaps",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon Prime Video is rolling out a new",
+            "generative AI-powered feature called",
+            "\u0022Video Recaps\u0022 designed to help viewers",
+            "catch up on shows before diving into a",
+            "new season.",
+            "This innovative tool utilizes artificial",
+            "intelligence to pinpoint crucial plot",
+            "developments within a series.",
+            "It then generates a concise, yet",
+            "\u0022theatrical-quality\u0022 summary video.",
+            "These recaps are constructed by",
+            "combining selected clips from the show",
+            "with appropriate music and dialogue,",
+            "aiming to provide a compelling narrative",
+            "overview."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-20T13:31:49.000Z",
+      "ranking": 7.077272727272726,
+      "articleUrl": "https://www.theverge.com/news/825052/amazon-prime-original-ai-video-recap-fallout-jack-ryan"
+    },
+    {
+      "id": "342",
+      "topic": "Music",
+      "source": "The Verge AI",
+      "shortTitle": "Suno AI Funding",
+      "mediumTitle": "Suno AI Secures Funding Amidst Lawsuits",
+      "longTitle": "Suno AI\u0027s $250M Funding Round Amidst Copyright Lawsuits",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AI music startup Suno has secured $250",
+            "million in funding despite facing",
+            "lawsuits from major record labels, the",
+            "RIAA, and independent artists over",
+            "alleged illegal training on copyrighted",
+            "material.",
+            "The lawsuits allege that Suno\u0027s AI model",
+            "was trained on copyrighted material",
+            "without proper authorization.",
+            "The article questions whether typing AI",
+            "prompts constitutes \u0022really active\u0022",
+            "music creation, suggesting a distinction",
+            "from traditional artistic processes.",
+            "The author argues that inputting text",
+            "prompts into AI music generators differs",
+            "fundamentally from the deep engagement,",
+            "skill, and artistic intent of",
+            "traditional music creation."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-20T12:40:00.000Z",
+      "ranking": 6.92,
+      "articleUrl": "https://www.theverge.com/report/825141/sunos-ceo-ai-text-prompt-really-active-music-creation"
+    },
+    {
       "id": "328",
       "topic": "Hardware",
       "source": "The Verge AI",
@@ -136,7 +483,7 @@
         }
       ],
       "publishedAt": "2025-11-19T18:15:16.000Z",
-      "ranking": 7.2181272509446455,
+      "ranking": 6.827349068819192,
       "articleUrl": "https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue"
     },
     {
@@ -171,44 +518,8 @@
         }
       ],
       "publishedAt": "2025-11-19T18:57:00.000Z",
-      "ranking": 6.558106257777462,
+      "ranking": 6.177105919764093,
       "articleUrl": "https://venturebeat.com/ai/the-google-search-of-ai-agents-fetch-launches-asi-one-and-business-tier-for"
-    },
-    {
-      "id": "324",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "GPT-5.1 Codex Max",
-      "mediumTitle": "OpenAI Launches GPT-5.1 Codex Max",
-      "longTitle": "OpenAI Unveils GPT-5.1 Codex Max for Enhanced AI Software Engineering",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has launched GPT\u20115.1-Codex-Max, a",
-            "new agentic coding model designed to",
-            "enhance AI-assisted software",
-            "engineering.",
-            "This model offers improved long-horizon",
-            "reasoning, efficiency, and real-time",
-            "interactive capabilities, and will now",
-            "serve as the default model within",
-            "OpenAI\u0027s Codex developer environment,",
-            "replacing GPT\u20115.1-Codex.",
-            "On the SWE-Bench Verified benchmark, it",
-            "achieved 77.9% accuracy, surpassing",
-            "Gemini 3 Pro\u0027s 76.2%.",
-            "GPT\u20115.1-Codex-Max is engineered as a",
-            "persistent software development agent",
-            "capable of handling complex tasks such",
-            "as large-scale refactors, debugging",
-            "workflows, and project-wide operations",
-            "across multiple context windows."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-19T20:26:00.000Z",
-      "ranking": 6.479999999999999,
-      "articleUrl": "https://venturebeat.com/ai/openai-debuts-gpt-5-1-codex-max-coding-model-and-it-already-completed-a-24"
     },
     {
       "id": "327",
@@ -242,7 +553,7 @@
         }
       ],
       "publishedAt": "2025-11-19T19:03:28.000Z",
-      "ranking": 6.448721168215887,
+      "ranking": 6.069235932041671,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws"
     },
     {
@@ -278,7 +589,7 @@
         }
       ],
       "publishedAt": "2025-11-19T17:50:54.000Z",
-      "ranking": 6.438639570372466,
+      "ranking": 6.04215244142135,
       "articleUrl": "https://www.theverge.com/news/823213/google-scholar-labs-ai-search"
     },
     {
@@ -314,7 +625,7 @@
         }
       ],
       "publishedAt": "2025-11-19T09:06:49.000Z",
-      "ranking": 6.272484433393462,
+      "ranking": 5.753208015526788,
       "articleUrl": "https://www.theverge.com/news/823775/tiktok-ai-generated-content-controls-manage-topics"
     },
     {
@@ -350,43 +661,44 @@
         }
       ],
       "publishedAt": "2025-11-19T11:12:20.000Z",
-      "ranking": 6.087942335639101,
+      "ranking": 5.598073650125055,
       "articleUrl": "https://www.theverge.com/report/822151/ai-smart-pen-for-cheating-tests"
     },
     {
-      "id": "316",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Grok 4.1 Launched",
-      "mediumTitle": "xAI\u0027s Grok 4.1 Enhances AI",
-      "longTitle": "xAI\u0027s Grok 4.1 Now Live, Boosting Emotional Intelligence and Safety",
+      "id": "324",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "GPT-5.1 Codex Max",
+      "mediumTitle": "OpenAI Launches GPT-5.1 Codex Max",
+      "longTitle": "OpenAI Unveils GPT-5.1 Codex Max for Enhanced AI Software Engineering",
       "paragraphs": [
         {
           "Lines": [
-            "xAI\u0027s latest large language model, Grok",
-            "4.1, is now powering Grok across its web",
-            "platform (grok.com), X (formerly",
-            "Twitter), and its mobile consumer",
-            "applications.",
-            "This new iteration aims to enhance the",
-            "AI assistant\u0027s capabilities by focusing",
-            "on three key areas: higher emotional",
-            "intelligence, reduced hallucinations,",
-            "and stricter safety controls.",
-            "This implies that xAI has put in place",
-            "more robust measures to prevent the",
-            "generation of harmful, biased, or",
-            "inappropriate content, ensuring a safer",
-            "user experience.",
-            "The implementation of tighter safety",
-            "controls is another critical aspect of",
-            "Grok 4.1\u0027s release."
+            "OpenAI has launched GPT\u20115.1-Codex-Max, a",
+            "new agentic coding model designed to",
+            "enhance AI-assisted software",
+            "engineering.",
+            "This model offers improved long-horizon",
+            "reasoning, efficiency, and real-time",
+            "interactive capabilities, and will now",
+            "serve as the default model within",
+            "OpenAI\u0027s Codex developer environment,",
+            "replacing GPT\u20115.1-Codex.",
+            "On the SWE-Bench Verified benchmark, it",
+            "achieved 77.9% accuracy, surpassing",
+            "Gemini 3 Pro\u0027s 76.2%.",
+            "GPT\u20115.1-Codex-Max is engineered as a",
+            "persistent software development agent",
+            "capable of handling complex tasks such",
+            "as large-scale refactors, debugging",
+            "workflows, and project-wide operations",
+            "across multiple context windows."
           ]
         }
       ],
-      "publishedAt": "2025-11-19T00:21:15.000Z",
-      "ranking": 5.342627128757881,
-      "articleUrl": "https://www.marktechpost.com/2025/11/18/xais-grok-4-1-pushes-toward-higher-emotional-intelligence-lower-hallucinations-and-tighter-safety-controls/"
+      "publishedAt": "2025-11-19T20:26:00.000Z",
+      "ranking": 5.153303942301541,
+      "articleUrl": "https://venturebeat.com/ai/openai-debuts-gpt-5-1-codex-max-coding-model-and-it-already-completed-a-24"
     },
     {
       "id": "320",
@@ -420,8 +732,43 @@
         }
       ],
       "publishedAt": "2025-11-19T08:47:09.000Z",
-      "ranking": 5.225489957388829,
+      "ranking": 4.70160576835514,
       "articleUrl": "https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes"
+    },
+    {
+      "id": "316",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "Grok 4.1 Launched",
+      "mediumTitle": "xAI\u0027s Grok 4.1 Enhances AI",
+      "longTitle": "xAI\u0027s Grok 4.1 Now Live, Boosting Emotional Intelligence and Safety",
+      "paragraphs": [
+        {
+          "Lines": [
+            "xAI\u0027s latest large language model, Grok",
+            "4.1, is now powering Grok across its web",
+            "platform (grok.com), X (formerly",
+            "Twitter), and its mobile consumer",
+            "applications.",
+            "This new iteration aims to enhance the",
+            "AI assistant\u0027s capabilities by focusing",
+            "on three key areas: higher emotional",
+            "intelligence, reduced hallucinations,",
+            "and stricter safety controls.",
+            "This implies that xAI has put in place",
+            "more robust measures to prevent the",
+            "generation of harmful, biased, or",
+            "inappropriate content, ensuring a safer",
+            "user experience.",
+            "The implementation of tighter safety",
+            "controls is another critical aspect of",
+            "Grok 4.1\u0027s release."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-19T00:21:15.000Z",
+      "ranking": 4.700213875977512,
+      "articleUrl": "https://www.marktechpost.com/2025/11/18/xais-grok-4-1-pushes-toward-higher-emotional-intelligence-lower-hallucinations-and-tighter-safety-controls/"
     },
     {
       "id": "325",
@@ -455,7 +802,7 @@
         }
       ],
       "publishedAt": "2025-11-19T01:00:00.000Z",
-      "ranking": 5.162145571427438,
+      "ranking": 4.528811197013545,
       "articleUrl": "https://venturebeat.com/ai/metas-dreamgym-framework-trains-ai-agents-in-a-simulated-world-to-cut"
     },
     {
@@ -492,7 +839,7 @@
         }
       ],
       "publishedAt": "2025-11-19T05:48:59.000Z",
-      "ranking": 4.887213709635606,
+      "ranking": 4.321586235645767,
       "articleUrl": "https://www.theverge.com/report/823725/vanlife-ai-travel-planner-google-zero"
     },
     {
@@ -525,43 +872,8 @@
         }
       ],
       "publishedAt": "2025-11-19T00:35:45.000Z",
-      "ranking": 4.863468595877829,
+      "ranking": 4.224452613043967,
       "articleUrl": "https://www.marktechpost.com/2025/11/18/how-to-build-an-agentic-deep-reinforcement-learning-system-with-curriculum-progression-adaptive-exploration-and-meta-level-ucb-planning/"
-    },
-    {
-      "id": "313",
-      "topic": "AI Ops",
-      "source": "The Verge AI",
-      "shortTitle": "Cloudflare Outage",
-      "mediumTitle": "Cloudflare Outage Explained",
-      "longTitle": "Cloudflare Explains Tuesday\u0027s Major Internet Outage",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The root cause of the widespread",
-            "disruption has been identified as a",
-            "problem within Cloudflare\u0027s Bot",
-            "Management system.",
-            "The malfunction in this system led to an",
-            "unintended blocking of legitimate",
-            "traffic, effectively making many",
-            "websites inaccessible.",
-            "Cloudflare, a major internet",
-            "infrastructure provider, has explained",
-            "the cause of a significant outage that",
-            "occurred on Tuesday, impacting numerous",
-            "websites and services, including",
-            "OpenAI\u0027s ChatGPT.",
-            "The core explanation points to a failure",
-            "in a critical security and traffic",
-            "management feature that inadvertently",
-            "disrupted normal internet operations."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T22:25:59.000Z",
-      "ranking": 4.790722343501379,
-      "articleUrl": "https://www.theverge.com/news/823711/cloudflare-outage-postmortem"
     },
     {
       "id": "318",
@@ -596,39 +908,43 @@
         }
       ],
       "publishedAt": "2025-11-19T15:00:00.000Z",
-      "ranking": 4.6020596408454315,
+      "ranking": 4.165532167497487,
       "articleUrl": "https://venturebeat.com/ai/opencv-founders-launch-ai-video-startup-to-take-on-openai-and-google"
     },
     {
-      "id": "312",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Gemini 3 Pro",
-      "mediumTitle": "Google\u0027s Gemini 3 Pro AI",
-      "longTitle": "Google Unveils Gemini 3 Pro with 1 Million Token Context",
+      "id": "313",
+      "topic": "AI Ops",
+      "source": "The Verge AI",
+      "shortTitle": "Cloudflare Outage",
+      "mediumTitle": "Cloudflare Outage Explained",
+      "longTitle": "Cloudflare Explains Tuesday\u0027s Major Internet Outage",
       "paragraphs": [
         {
           "Lines": [
-            "The ability to process a 1 million token",
-            "context window is a substantial leap,",
-            "enabling the model to ingest and analyze",
-            "significantly more information than",
-            "previous generations.",
-            "This approach allows Gemini 3 Pro to",
-            "efficiently process and reason over an",
-            "exceptionally large context window of up",
-            "to 1 million tokens.",
-            "Google has introduced its Gemini 3",
-            "family of models, with Gemini 3 Pro at",
-            "its core, representing a significant",
-            "advancement towards more generalized",
-            "artificial intelligence."
+            "The root cause of the widespread",
+            "disruption has been identified as a",
+            "problem within Cloudflare\u0027s Bot",
+            "Management system.",
+            "The malfunction in this system led to an",
+            "unintended blocking of legitimate",
+            "traffic, effectively making many",
+            "websites inaccessible.",
+            "Cloudflare, a major internet",
+            "infrastructure provider, has explained",
+            "the cause of a significant outage that",
+            "occurred on Tuesday, impacting numerous",
+            "websites and services, including",
+            "OpenAI\u0027s ChatGPT.",
+            "The core explanation points to a failure",
+            "in a critical security and traffic",
+            "management feature that inadvertently",
+            "disrupted normal internet operations."
           ]
         }
       ],
-      "publishedAt": "2025-11-18T20:12:35.000Z",
-      "ranking": 4.463480477374369,
-      "articleUrl": "https://www.marktechpost.com/2025/11/18/googles-gemini-3-pro-turns-sparse-moe-and-1m-token-context-into-a-practical-engine-for-multimodal-agentic-workloads/"
+      "publishedAt": "2025-11-18T22:25:59.000Z",
+      "ranking": 4.12130288041923,
+      "articleUrl": "https://www.theverge.com/news/823711/cloudflare-outage-postmortem"
     },
     {
       "id": "322",
@@ -664,8 +980,39 @@
         }
       ],
       "publishedAt": "2025-11-19T06:00:00.000Z",
-      "ranking": 4.330470555555623,
+      "ranking": 3.7674247629381337,
       "articleUrl": "https://venturebeat.com/ai/venturebeat-launches-beyond-the-pilot-a-new-podcast-series-exploring-how"
+    },
+    {
+      "id": "312",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Gemini 3 Pro",
+      "mediumTitle": "Google\u0027s Gemini 3 Pro AI",
+      "longTitle": "Google Unveils Gemini 3 Pro with 1 Million Token Context",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The ability to process a 1 million token",
+            "context window is a substantial leap,",
+            "enabling the model to ingest and analyze",
+            "significantly more information than",
+            "previous generations.",
+            "This approach allows Gemini 3 Pro to",
+            "efficiently process and reason over an",
+            "exceptionally large context window of up",
+            "to 1 million tokens.",
+            "Google has introduced its Gemini 3",
+            "family of models, with Gemini 3 Pro at",
+            "its core, representing a significant",
+            "advancement towards more generalized",
+            "artificial intelligence."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T20:12:35.000Z",
+      "ranking": 3.7628069387277128,
+      "articleUrl": "https://www.marktechpost.com/2025/11/18/googles-gemini-3-pro-turns-sparse-moe-and-1m-token-context-into-a-practical-engine-for-multimodal-agentic-workloads/"
     },
     {
       "id": "311",
@@ -699,7 +1046,7 @@
         }
       ],
       "publishedAt": "2025-11-18T21:03:00.000Z",
-      "ranking": 3.954802504041794,
+      "ranking": 3.265941258576216,
       "articleUrl": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and"
     },
     {
@@ -736,43 +1083,8 @@
         }
       ],
       "publishedAt": "2025-11-18T17:00:00.000Z",
-      "ranking": 3.5756234755052905,
+      "ranking": 2.8298289827894356,
       "articleUrl": "https://venturebeat.com/ai/google-unveils-gemini-3-claiming-the-lead-in-math-science-multimodal-and"
-    },
-    {
-      "id": "294",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Blue J\u0027s LLM Pivot",
-      "mediumTitle": "Blue J\u0027s AI Pivot to LLMs",
-      "longTitle": "Blue J\u0027s Successful Pivot from AI to LLMs for Tax Law",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The legal tech startup Blue J, founded",
-            "by tax law professor Benjamin Alarie,",
-            "successfully pivoted its entire business",
-            "model from a decade-old AI approach to",
-            "one based on large language models",
-            "(LLMs) like ChatGPT.",
-            "This strategic shift, made in late 2022,",
-            "has led to a dramatic increase in the",
-            "company\u0027s valuation to over $300 million",
-            "and a significant surge in revenue,",
-            "serving over 3,500 organizations.",
-            "The company\u0027s willingness to abandon",
-            "years of proprietary technology for an",
-            "unproven foundation, and its success in",
-            "minimizing AI hallucinations through",
-            "careful engineering and human oversight,",
-            "offers valuable lessons for other",
-            "industries."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T15:00:00.000Z",
-      "ranking": 3.4311760563178613,
-      "articleUrl": "https://venturebeat.com/ai/how-ai-tax-startup-blue-j-torched-its-entire-business-model-for-chatgpt-and"
     },
     {
       "id": "326",
@@ -807,7 +1119,7 @@
         }
       ],
       "publishedAt": "2025-11-18T21:03:00.000Z",
-      "ranking": 3.396216625922343,
+      "ranking": 2.70735539014225,
       "articleUrl": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and"
     },
     {
@@ -839,8 +1151,43 @@
         }
       ],
       "publishedAt": "2025-11-18T19:45:52.000Z",
-      "ranking": 3.378092332968901,
+      "ranking": 2.6711592754224602,
       "articleUrl": "https://www.theverge.com/policy/823650/ai-moratorium-house-gop-scalise"
+    },
+    {
+      "id": "294",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Blue J\u0027s LLM Pivot",
+      "mediumTitle": "Blue J\u0027s AI Pivot to LLMs",
+      "longTitle": "Blue J\u0027s Successful Pivot from AI to LLMs for Tax Law",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The legal tech startup Blue J, founded",
+            "by tax law professor Benjamin Alarie,",
+            "successfully pivoted its entire business",
+            "model from a decade-old AI approach to",
+            "one based on large language models",
+            "(LLMs) like ChatGPT.",
+            "This strategic shift, made in late 2022,",
+            "has led to a dramatic increase in the",
+            "company\u0027s valuation to over $300 million",
+            "and a significant surge in revenue,",
+            "serving over 3,500 organizations.",
+            "The company\u0027s willingness to abandon",
+            "years of proprietary technology for an",
+            "unproven foundation, and its success in",
+            "minimizing AI hallucinations through",
+            "careful engineering and human oversight,",
+            "offers valuable lessons for other",
+            "industries."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T15:00:00.000Z",
+      "ranking": 2.6572663646396713,
+      "articleUrl": "https://venturebeat.com/ai/how-ai-tax-startup-blue-j-torched-its-entire-business-model-for-chatgpt-and"
     },
     {
       "id": "299",
@@ -870,7 +1217,7 @@
         }
       ],
       "publishedAt": "2025-11-18T17:00:00.000Z",
-      "ranking": 3.2971842929245723,
+      "ranking": 2.5513898037241383,
       "articleUrl": "https://venturebeat.com/ai/writers-ai-agents-can-actually-do-your-work-not-just-chat-about-it"
     },
     {
@@ -904,7 +1251,7 @@
         }
       ],
       "publishedAt": "2025-11-18T14:30:54.000Z",
-      "ranking": 3.2533082906811837,
+      "ranking": 2.4725806879928225,
       "articleUrl": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector"
     },
     {
@@ -941,7 +1288,7 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 3.0625129395465063,
+      "ranking": 2.2464304956206087,
       "articleUrl": "https://www.theverge.com/news/822833/google-antigravity-ide-coding-agent-gemini-3-pro"
     },
     {
@@ -973,7 +1320,7 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 2.686376570008993,
+      "ranking": 1.8702941265142634,
       "articleUrl": "https://www.theverge.com/news/822789/microsoft-copilot-chat-outlook-word-excel-powerpoint"
     },
     {
@@ -1008,7 +1355,7 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:34.000Z",
-      "ranking": 2.6400854195113013,
+      "ranking": 1.8241357447186175,
       "articleUrl": "https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration"
     },
     {
@@ -1043,7 +1390,7 @@
         }
       ],
       "publishedAt": "2025-11-18T17:00:00.000Z",
-      "ranking": 2.450160442766961,
+      "ranking": 1.7043659598462124,
       "articleUrl": "https://venturebeat.com/ai/microsoft-remakes-windows-for-an-era-of-autonomous-ai-agents"
     },
     {
@@ -1078,7 +1425,7 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 2.3142986170635202,
+      "ranking": 1.498216174026953,
       "articleUrl": "https://www.theverge.com/news/822035/microsoft-agent-365-businesses-control-security"
     },
     {
@@ -1114,7 +1461,7 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 2.08847443474916,
+      "ranking": 1.2723919899978027,
       "articleUrl": "https://www.theverge.com/news/822977/gemini-3-google-ai-model-launch"
     },
     {
@@ -1150,7 +1497,7 @@
         }
       ],
       "publishedAt": "2025-11-18T14:00:00.000Z",
-      "ranking": 1.9738219023077335,
+      "ranking": 1.1858546432235588,
       "articleUrl": "https://www.theverge.com/news/823136/senator-elizabeth-warren-openai-trump-bailout"
     },
     {
@@ -1187,7 +1534,7 @@
         }
       ],
       "publishedAt": "2025-11-18T11:20:17.000Z",
-      "ranking": 1.9568388852441059,
+      "ranking": 1.1314510986551474,
       "articleUrl": "https://www.theverge.com/news/822988/microsoft-anthropic-partnership-claude-models-azure-investment-nvidia"
     },
     {
@@ -1223,7 +1570,7 @@
         }
       ],
       "publishedAt": "2025-11-18T09:29:21.000Z",
-      "ranking": 1.7006018950924648,
+      "ranking": 0.8492231848310272,
       "articleUrl": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector"
     },
     {
@@ -1256,44 +1603,8 @@
         }
       ],
       "publishedAt": "2025-11-18T09:00:00.000Z",
-      "ranking": 1.5402313644388697,
+      "ranking": 0.681976151824288,
       "articleUrl": "https://www.theverge.com/report/822443/microsoft-windows-copilot-vision-ai-assistant-pc-voice-controls-impressions"
-    },
-    {
-      "id": "300",
-      "topic": "AI Ops",
-      "source": "VentureBeat AI",
-      "shortTitle": "Agent 365 Launch",
-      "mediumTitle": "Microsoft Agent 365 for AI Management",
-      "longTitle": "Microsoft Agent 365: Enterprise-Grade AI Agent Infrastructure",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft has introduced Agent 365, a",
-            "new platform designed to transition AI",
-            "agents from experimental tools to",
-            "enterprise-grade infrastructure.",
-            "Agent 365 functions as a control plane",
-            "and observability layer for any AI",
-            "agent, regardless of whether it\u0027s built",
-            "on Microsoft\u0027s platforms or by",
-            "third-party vendors like Adobe,",
-            "Databricks, Cognition, and ServiceNow.",
-            "Agent 365 treats agents as integral",
-            "parts of the IT stack, offering unified",
-            "oversight for IT and security teams at a",
-            "critical time when such management is",
-            "becoming essential.",
-            "The platform aims to provide unified",
-            "observability through telemetry,",
-            "dashboards, and alerts, enabling",
-            "businesses to track all agents in use."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T06:00:00.000Z",
-      "ranking": 1.443781896854512,
-      "articleUrl": "https://venturebeat.com/ai/microsofts-agent-365-shifts-ai-agents-from-sandbox-tools-to-enterprise-grade"
     },
     {
       "id": "301",
@@ -1329,152 +1640,8 @@
         }
       ],
       "publishedAt": "2025-11-18T06:00:00.000Z",
-      "ranking": 0.09803025537127841,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/google-antigravity-introduces-agent-first-architecture-for-asynchronous"
-    },
-    {
-      "id": "291",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "AI Weather Forecast",
-      "mediumTitle": "Google DeepMind\u0027s WeatherNext 2",
-      "longTitle": "Google DeepMind Launches Advanced AI Weather Forecasting System",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google DeepMind has unveiled WeatherNext",
-            "2, an advanced AI-powered system for",
-            "medium-range global weather forecasting.",
-            "The core innovation behind WeatherNext 2",
-            "is its new Functional Generative Network",
-            "(FGN) architecture.",
-            "Specifically, the system achieves an 8x",
-            "speed improvement in generating these",
-            "forecasts.",
-            "This architecture, combined with a large",
-            "ensemble of forecasts, enables",
-            "WeatherNext 2 to produce probabilistic",
-            "weather forecasts significantly faster",
-            "than previous methods.",
-            "The key advancements include the",
-            "development of the FGN architecture and",
-            "the substantial speed enhancement for",
-            "probabilistic forecasting."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-17T21:16:46.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/17/google-deepminds-weathernext-2-uses-functional-generative-networks-for-8x-faster-probabilistic-weather-forecasts/"
-    },
-    {
-      "id": "287",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI Equity",
-      "mediumTitle": "OpenAI Allows Equity Donations",
-      "longTitle": "OpenAI Enables Current and Former Employees to Donate Equity to Charity",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has finally addressed a",
-            "long-standing frustration among its",
-            "current and former employees by enabling",
-            "them to donate their equity to charity.",
-            "In response to this pressure, OpenAI has",
-            "now sent out an email from its equity",
-            "team, announcing that eligible",
-            "employees, both past and present, will",
-            "be able to donate their shares.",
-            "However, the core message is that the",
-            "option to donate equity is now available",
-            "to eligible employees.",
-            "For years, employees who held eligible",
-            "shares in the company were unable to",
-            "contribute this valuable asset to",
-            "charitable causes.",
-            "This limitation had reportedly caused",
-            "significant dissatisfaction within the",
-            "workforce."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-17T18:47:14.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/822496/openai-employee-equity-donation-charity-rounds-share-valuation"
-    },
-    {
-      "id": "288",
-      "topic": "Science",
-      "source": "The Verge AI",
-      "shortTitle": "Google AI Weather",
-      "mediumTitle": "Google\u0027s New AI Weather Forecasts",
-      "longTitle": "Google Upgrades Weather Forecasting with New AI Model",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has announced a significant",
-            "upgrade to its weather forecasting",
-            "capabilities with the introduction of a",
-            "new AI model.",
-            "This advanced model is set to be",
-            "integrated into several of Google\u0027s",
-            "widely used products, including Google",
-            "Search, Gemini, and Pixel phones.",
-            "The company highlights that its",
-            "AI-enhanced forecasts have already",
-            "demonstrated a high degree of accuracy.",
-            "A key advantage of these AI weather",
-            "models is their ability to generate",
-            "predictions more rapidly and with",
-            "greater efficiency compared to",
-            "traditional physics-based models.",
-            "The AI model offers a superior",
-            "alternative in certain aspects compared",
-            "to conventional physics-based models."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-17T18:00:56.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/822489/weather-forecast-ai-model-google-weathernext"
-    },
-    {
-      "id": "284",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Travel Planner",
-      "mediumTitle": "Google AI Creates Travel Itineraries",
-      "longTitle": "Google\u0027s AI Mode Introduces \u0027Create with Canvas\u0027 for Travel Planning",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google\u0027s AI Mode has introduced a new",
-            "feature called \u0027Create with Canvas\u0027 that",
-            "allows users to visualize their travel",
-            "plans.",
-            "This itinerary will include essential",
-            "travel data such as flight and hotel",
-            "information.",
-            "Once selected, the AI will generate an",
-            "itinerary in a side panel.",
-            "By describing their desired trip within",
-            "Google Search, users can activate this",
-            "option.",
-            "The generated document will present",
-            "potential travel plans, offering",
-            "suggestions that are tailored to the",
-            "user\u0027s input and preferences.",
-            "This new functionality aims to simplify",
-            "the travel planning process by providing",
-            "a visual and data-rich overview of",
-            "potential trips."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-17T13:07:57.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/822240/google-ai-mode-travel-plans-canvas"
     }
   ]
 }
