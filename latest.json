@@ -213,43 +213,6 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws"
     },
     {
-      "id": "317",
-      "topic": "Dev Tools",
-      "source": "The Verge AI",
-      "shortTitle": "AI Travel Planner",
-      "mediumTitle": "AI Enhances European Vanlife Travel",
-      "longTitle": "AI Becomes Unexpected Daily Travel Companion for European Van Tour",
-      "paragraphs": [
-        {
-          "Lines": [
-            "An individual on a European van tour",
-            "with their family has found a practical",
-            "and consistent use for Artificial",
-            "Intelligence (AI) as a travel planner.",
-            "The AI assists in various aspects of",
-            "their travel, including suggesting",
-            "destinations, finding campsites, and",
-            "recommending activities.",
-            "The AI\u0027s ability to adapt to their",
-            "spontaneous travel style and provide",
-            "relevant suggestions has made it an",
-            "\u0027unexpected daily travel companion\u0027.",
-            "Despite initial doubts about AI\u0027s",
-            "utility in daily life, they found it to",
-            "be a valuable tool for their vanlife",
-            "journey, which lacks a fixed itinerary.",
-            "By leveraging AI, the author and their",
-            "family can continue to explore Europe",
-            "without the stress of meticulous",
-            "planning."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-19T05:48:59.000Z",
-      "ranking": 7.422222222222221,
-      "articleUrl": "https://www.theverge.com/report/823725/vanlife-ai-travel-planner-google-zero"
-    },
-    {
       "id": "320",
       "topic": "Policy",
       "source": "The Verge AI",
@@ -316,7 +279,7 @@
         }
       ],
       "publishedAt": "2025-11-19T00:21:15.000Z",
-      "ranking": 7.3226853935728995,
+      "ranking": 6.912739472061439,
       "articleUrl": "https://www.marktechpost.com/2025/11/18/xais-grok-4-1-pushes-toward-higher-emotional-intelligence-lower-hallucinations-and-tighter-safety-controls/"
     },
     {
@@ -351,144 +314,8 @@
         }
       ],
       "publishedAt": "2025-11-19T01:00:00.000Z",
-      "ranking": 7.10636734313833,
+      "ranking": 6.705341088114407,
       "articleUrl": "https://venturebeat.com/ai/metas-dreamgym-framework-trains-ai-agents-in-a-simulated-world-to-cut"
-    },
-    {
-      "id": "313",
-      "topic": "AI Ops",
-      "source": "The Verge AI",
-      "shortTitle": "Cloudflare Outage",
-      "mediumTitle": "Cloudflare Outage Explained",
-      "longTitle": "Cloudflare Explains Tuesday\u0027s Major Internet Outage",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The root cause of the widespread",
-            "disruption has been identified as a",
-            "problem within Cloudflare\u0027s Bot",
-            "Management system.",
-            "The malfunction in this system led to an",
-            "unintended blocking of legitimate",
-            "traffic, effectively making many",
-            "websites inaccessible.",
-            "Cloudflare, a major internet",
-            "infrastructure provider, has explained",
-            "the cause of a significant outage that",
-            "occurred on Tuesday, impacting numerous",
-            "websites and services, including",
-            "OpenAI\u0027s ChatGPT.",
-            "The core explanation points to a failure",
-            "in a critical security and traffic",
-            "management feature that inadvertently",
-            "disrupted normal internet operations."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T22:25:59.000Z",
-      "ranking": 6.8773807392638,
-      "articleUrl": "https://www.theverge.com/news/823711/cloudflare-outage-postmortem"
-    },
-    {
-      "id": "322",
-      "topic": "Business",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Podcast Launch",
-      "mediumTitle": "VentureBeat Launches Enterprise AI Podcast",
-      "longTitle": "VentureBeat Launches \u0027Beyond the Pilot\u0027 Enterprise AI Podcast",
-      "paragraphs": [
-        {
-          "Lines": [
-            "VentureBeat is launching a new podcast",
-            "series titled \u0027Beyond the Pilot:",
-            "Enterprise AI in Action,\u0027 premiering on",
-            "November 19.",
-            "This podcast aims to move beyond the",
-            "theoretical potential of Artificial",
-            "Intelligence in enterprise settings and",
-            "delve into the practical realities of",
-            "implementing and scaling AI solutions.",
-            "The core premise of \u0027Beyond the Pilot\u0027",
-            "is to address the challenges faced by",
-            "enterprise technical leaders in making",
-            "AI run reliably at scale, rather than",
-            "just understanding its potential.",
-            "The series is sponsored by Outshift by",
-            "Cisco and will feature candid",
-            "conversations with executives who have",
-            "successfully transitioned AI from",
-            "experimental phases to production,",
-            "delivering measurable business value."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-19T06:00:00.000Z",
-      "ranking": 6.841176470588235,
-      "articleUrl": "https://venturebeat.com/ai/venturebeat-launches-beyond-the-pilot-a-new-podcast-series-exploring-how"
-    },
-    {
-      "id": "315",
-      "topic": "Learning",
-      "source": "Marktechpost AI",
-      "shortTitle": "Advanced DRL Agent",
-      "mediumTitle": "Advanced Agentic DRL System",
-      "longTitle": "Advanced Agentic Deep Reinforcement Learning System Construction",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This tutorial outlines the construction",
-            "of an advanced agentic Deep",
-            "Reinforcement Learning (DRL) system that",
-            "learns optimal actions and selects its",
-            "own training strategies.",
-            "The core innovation lies in enabling the",
-            "agent not only to learn optimal actions",
-            "within an environment but also to",
-            "autonomously select its own training",
-            "strategies.",
-            "This is achieved through a multi-faceted",
-            "approach incorporating a Dueling Double",
-            "Deep Q-Network (DQN) learner, a",
-            "curriculum progression mechanism,",
-            "adaptive exploration strategies, and",
-            "meta-level UCB planning."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-19T00:35:45.000Z",
-      "ranking": 6.830117086026345,
-      "articleUrl": "https://www.marktechpost.com/2025/11/18/how-to-build-an-agentic-deep-reinforcement-learning-system-with-curriculum-progression-adaptive-exploration-and-meta-level-ucb-planning/"
-    },
-    {
-      "id": "312",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Gemini 3 Pro",
-      "mediumTitle": "Google\u0027s Gemini 3 Pro AI",
-      "longTitle": "Google Unveils Gemini 3 Pro with 1 Million Token Context",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The ability to process a 1 million token",
-            "context window is a substantial leap,",
-            "enabling the model to ingest and analyze",
-            "significantly more information than",
-            "previous generations.",
-            "This approach allows Gemini 3 Pro to",
-            "efficiently process and reason over an",
-            "exceptionally large context window of up",
-            "to 1 million tokens.",
-            "Google has introduced its Gemini 3",
-            "family of models, with Gemini 3 Pro at",
-            "its core, representing a significant",
-            "advancement towards more generalized",
-            "artificial intelligence."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T20:12:35.000Z",
-      "ranking": 6.673509584891635,
-      "articleUrl": "https://www.marktechpost.com/2025/11/18/googles-gemini-3-pro-turns-sparse-moe-and-1m-token-context-into-a-practical-engine-for-multimodal-agentic-workloads/"
     },
     {
       "id": "324",
@@ -527,39 +354,140 @@
       "articleUrl": "https://venturebeat.com/ai/openai-debuts-gpt-5-1-codex-max-coding-model-and-it-already-completed-a-24"
     },
     {
-      "id": "311",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Grok 4.1 Launched",
-      "mediumTitle": "xAI Releases Grok 4.1 LLM",
-      "longTitle": "xAI\u0027s Grok 4.1 LLM Launched with Enhanced Capabilities",
+      "id": "313",
+      "topic": "AI Ops",
+      "source": "The Verge AI",
+      "shortTitle": "Cloudflare Outage",
+      "mediumTitle": "Cloudflare Outage Explained",
+      "longTitle": "Cloudflare Explains Tuesday\u0027s Major Internet Outage",
       "paragraphs": [
         {
           "Lines": [
-            "Elon Musk\u0027s AI startup, xAI, has",
-            "launched its latest large language",
-            "model, Grok 4.1, aiming to compete with",
-            "major players like Google and OpenAI.",
-            "A major constraint for enterprise",
-            "adoption is that Grok 4.1 is not yet",
-            "available through xAI\u0027s public API.",
-            "Grok 4.1 boasts significant",
-            "architectural and usability",
-            "enhancements, including faster",
-            "reasoning, improved emotional",
-            "intelligence, and a substantially",
-            "reduced hallucination rate.",
-            "However, the lack of API access means it",
-            "remains primarily a consumer-focused",
-            "product for now, with its future",
-            "enterprise applicability contingent on",
-            "future API availability."
+            "The root cause of the widespread",
+            "disruption has been identified as a",
+            "problem within Cloudflare\u0027s Bot",
+            "Management system.",
+            "The malfunction in this system led to an",
+            "unintended blocking of legitimate",
+            "traffic, effectively making many",
+            "websites inaccessible.",
+            "Cloudflare, a major internet",
+            "infrastructure provider, has explained",
+            "the cause of a significant outage that",
+            "occurred on Tuesday, impacting numerous",
+            "websites and services, including",
+            "OpenAI\u0027s ChatGPT.",
+            "The core explanation points to a failure",
+            "in a critical security and traffic",
+            "management feature that inadvertently",
+            "disrupted normal internet operations."
           ]
         }
       ],
-      "publishedAt": "2025-11-18T21:03:00.000Z",
-      "ranking": 6.118205621526908,
-      "articleUrl": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and"
+      "publishedAt": "2025-11-18T22:25:59.000Z",
+      "ranking": 6.4409021601715555,
+      "articleUrl": "https://www.theverge.com/news/823711/cloudflare-outage-postmortem"
+    },
+    {
+      "id": "315",
+      "topic": "Learning",
+      "source": "Marktechpost AI",
+      "shortTitle": "Advanced DRL Agent",
+      "mediumTitle": "Advanced Agentic DRL System",
+      "longTitle": "Advanced Agentic Deep Reinforcement Learning System Construction",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This tutorial outlines the construction",
+            "of an advanced agentic Deep",
+            "Reinforcement Learning (DRL) system that",
+            "learns optimal actions and selects its",
+            "own training strategies.",
+            "The core innovation lies in enabling the",
+            "agent not only to learn optimal actions",
+            "within an environment but also to",
+            "autonomously select its own training",
+            "strategies.",
+            "This is achieved through a multi-faceted",
+            "approach incorporating a Dueling Double",
+            "Deep Q-Network (DQN) learner, a",
+            "curriculum progression mechanism,",
+            "adaptive exploration strategies, and",
+            "meta-level UCB planning."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-19T00:35:45.000Z",
+      "ranking": 6.423508845780503,
+      "articleUrl": "https://www.marktechpost.com/2025/11/18/how-to-build-an-agentic-deep-reinforcement-learning-system-with-curriculum-progression-adaptive-exploration-and-meta-level-ucb-planning/"
+    },
+    {
+      "id": "317",
+      "topic": "Dev Tools",
+      "source": "The Verge AI",
+      "shortTitle": "AI Travel Planner",
+      "mediumTitle": "AI Enhances European Vanlife Travel",
+      "longTitle": "AI Becomes Unexpected Daily Travel Companion for European Van Tour",
+      "paragraphs": [
+        {
+          "Lines": [
+            "An individual on a European van tour",
+            "with their family has found a practical",
+            "and consistent use for Artificial",
+            "Intelligence (AI) as a travel planner.",
+            "The AI assists in various aspects of",
+            "their travel, including suggesting",
+            "destinations, finding campsites, and",
+            "recommending activities.",
+            "The AI\u0027s ability to adapt to their",
+            "spontaneous travel style and provide",
+            "relevant suggestions has made it an",
+            "\u0027unexpected daily travel companion\u0027.",
+            "Despite initial doubts about AI\u0027s",
+            "utility in daily life, they found it to",
+            "be a valuable tool for their vanlife",
+            "journey, which lacks a fixed itinerary.",
+            "By leveraging AI, the author and their",
+            "family can continue to explore Europe",
+            "without the stress of meticulous",
+            "planning."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-19T05:48:59.000Z",
+      "ranking": 6.229673314202275,
+      "articleUrl": "https://www.theverge.com/report/823725/vanlife-ai-travel-planner-google-zero"
+    },
+    {
+      "id": "312",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Gemini 3 Pro",
+      "mediumTitle": "Google\u0027s Gemini 3 Pro AI",
+      "longTitle": "Google Unveils Gemini 3 Pro with 1 Million Token Context",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The ability to process a 1 million token",
+            "context window is a substantial leap,",
+            "enabling the model to ingest and analyze",
+            "significantly more information than",
+            "previous generations.",
+            "This approach allows Gemini 3 Pro to",
+            "efficiently process and reason over an",
+            "exceptionally large context window of up",
+            "to 1 million tokens.",
+            "Google has introduced its Gemini 3",
+            "family of models, with Gemini 3 Pro at",
+            "its core, representing a significant",
+            "advancement towards more generalized",
+            "artificial intelligence."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T20:12:35.000Z",
+      "ranking": 6.2063243279967875,
+      "articleUrl": "https://www.marktechpost.com/2025/11/18/googles-gemini-3-pro-turns-sparse-moe-and-1m-token-context-into-a-practical-engine-for-multimodal-agentic-workloads/"
     },
     {
       "id": "318",
@@ -598,6 +526,78 @@
       "articleUrl": "https://venturebeat.com/ai/opencv-founders-launch-ai-video-startup-to-take-on-openai-and-google"
     },
     {
+      "id": "322",
+      "topic": "Business",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Podcast Launch",
+      "mediumTitle": "VentureBeat Launches Enterprise AI Podcast",
+      "longTitle": "VentureBeat Launches \u0027Beyond the Pilot\u0027 Enterprise AI Podcast",
+      "paragraphs": [
+        {
+          "Lines": [
+            "VentureBeat is launching a new podcast",
+            "series titled \u0027Beyond the Pilot:",
+            "Enterprise AI in Action,\u0027 premiering on",
+            "November 19.",
+            "This podcast aims to move beyond the",
+            "theoretical potential of Artificial",
+            "Intelligence in enterprise settings and",
+            "delve into the practical realities of",
+            "implementing and scaling AI solutions.",
+            "The core premise of \u0027Beyond the Pilot\u0027",
+            "is to address the challenges faced by",
+            "enterprise technical leaders in making",
+            "AI run reliably at scale, rather than",
+            "just understanding its potential.",
+            "The series is sponsored by Outshift by",
+            "Cisco and will feature candid",
+            "conversations with executives who have",
+            "successfully transitioned AI from",
+            "experimental phases to production,",
+            "delivering measurable business value."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-19T06:00:00.000Z",
+      "ranking": 5.665277855374128,
+      "articleUrl": "https://venturebeat.com/ai/venturebeat-launches-beyond-the-pilot-a-new-podcast-series-exploring-how"
+    },
+    {
+      "id": "311",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Grok 4.1 Launched",
+      "mediumTitle": "xAI Releases Grok 4.1 LLM",
+      "longTitle": "xAI\u0027s Grok 4.1 LLM Launched with Enhanced Capabilities",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Elon Musk\u0027s AI startup, xAI, has",
+            "launched its latest large language",
+            "model, Grok 4.1, aiming to compete with",
+            "major players like Google and OpenAI.",
+            "A major constraint for enterprise",
+            "adoption is that Grok 4.1 is not yet",
+            "available through xAI\u0027s public API.",
+            "Grok 4.1 boasts significant",
+            "architectural and usability",
+            "enhancements, including faster",
+            "reasoning, improved emotional",
+            "intelligence, and a substantially",
+            "reduced hallucination rate.",
+            "However, the lack of API access means it",
+            "remains primarily a consumer-focused",
+            "product for now, with its future",
+            "enterprise applicability contingent on",
+            "future API availability."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T21:03:00.000Z",
+      "ranking": 5.662625018296028,
+      "articleUrl": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and"
+    },
+    {
       "id": "297",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -631,7 +631,7 @@
         }
       ],
       "publishedAt": "2025-11-18T17:00:00.000Z",
-      "ranking": 5.963756182778644,
+      "ranking": 5.452240585027592,
       "articleUrl": "https://venturebeat.com/ai/google-unveils-gemini-3-claiming-the-lead-in-math-science-multimodal-and"
     },
     {
@@ -666,7 +666,7 @@
         }
       ],
       "publishedAt": "2025-11-18T15:00:00.000Z",
-      "ranking": 5.930286344438513,
+      "ranking": 5.391148523389418,
       "articleUrl": "https://venturebeat.com/ai/how-ai-tax-startup-blue-j-torched-its-entire-business-model-for-chatgpt-and"
     },
     {
@@ -700,8 +700,39 @@
         }
       ],
       "publishedAt": "2025-11-18T14:30:54.000Z",
-      "ranking": 5.779330668730104,
+      "ranking": 5.23349445825721,
       "articleUrl": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector"
+    },
+    {
+      "id": "299",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Writer Agent Launch",
+      "mediumTitle": "Writer Agent: AI for Enterprise Workflows",
+      "longTitle": "Writer Launches AI Platform for Enterprise Workflow Automation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Unlike consumer-focused tools like",
+            "ChatGPT and Microsoft Copilot, Writer",
+            "Agent enables employees to automate",
+            "complex business workflows without",
+            "coding.",
+            "Writer, an AI startup, has launched",
+            "Writer Agent, a unified AI platform",
+            "designed for enterprise use.",
+            "While other AI tools are primarily",
+            "geared towards personal productivity,",
+            "Writer Agent is built from the ground up",
+            "for the security, compliance, and",
+            "governance needs of large, regulated",
+            "organizations."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T17:00:00.000Z",
+      "ranking": 5.173801418482132,
+      "articleUrl": "https://venturebeat.com/ai/writers-ai-agents-can-actually-do-your-work-not-just-chat-about-it"
     },
     {
       "id": "307",
@@ -737,39 +768,8 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 5.728089625545557,
+      "ranking": 5.147518462062658,
       "articleUrl": "https://www.theverge.com/news/822833/google-antigravity-ide-coding-agent-gemini-3-pro"
-    },
-    {
-      "id": "299",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Writer Agent Launch",
-      "mediumTitle": "Writer Agent: AI for Enterprise Workflows",
-      "longTitle": "Writer Launches AI Platform for Enterprise Workflow Automation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Unlike consumer-focused tools like",
-            "ChatGPT and Microsoft Copilot, Writer",
-            "Agent enables employees to automate",
-            "complex business workflows without",
-            "coding.",
-            "Writer, an AI startup, has launched",
-            "Writer Agent, a unified AI platform",
-            "designed for enterprise use.",
-            "While other AI tools are primarily",
-            "geared towards personal productivity,",
-            "Writer Agent is built from the ground up",
-            "for the security, compliance, and",
-            "governance needs of large, regulated",
-            "organizations."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T17:00:00.000Z",
-      "ranking": 5.685317011829147,
-      "articleUrl": "https://venturebeat.com/ai/writers-ai-agents-can-actually-do-your-work-not-just-chat-about-it"
     },
     {
       "id": "314",
@@ -800,7 +800,7 @@
         }
       ],
       "publishedAt": "2025-11-18T19:45:52.000Z",
-      "ranking": 5.612829364205917,
+      "ranking": 5.139493812192036,
       "articleUrl": "https://www.theverge.com/policy/823650/ai-moratorium-house-gop-scalise"
     },
     {
@@ -836,7 +836,7 @@
         }
       ],
       "publishedAt": "2025-11-18T21:03:00.000Z",
-      "ranking": 5.559619727742726,
+      "ranking": 5.10403912617191,
       "articleUrl": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and"
     },
     {
@@ -868,7 +868,7 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 5.351953244284023,
+      "ranking": 4.771382081628052,
       "articleUrl": "https://www.theverge.com/news/822789/microsoft-copilot-chat-outlook-word-excel-powerpoint"
     },
     {
@@ -903,7 +903,7 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:34.000Z",
-      "ranking": 5.305138029612679,
+      "ranking": 4.724697310299126,
       "articleUrl": "https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration"
     },
     {
@@ -938,7 +938,7 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 4.979875301158641,
+      "ranking": 4.399304147533185,
       "articleUrl": "https://www.theverge.com/news/822035/microsoft-agent-365-businesses-control-security"
     },
     {
@@ -973,7 +973,7 @@
         }
       ],
       "publishedAt": "2025-11-18T17:00:00.000Z",
-      "ranking": 4.838293167010845,
+      "ranking": 4.326777570606756,
       "articleUrl": "https://venturebeat.com/ai/microsoft-remakes-windows-for-an-era-of-autonomous-ai-agents"
     },
     {
@@ -1009,7 +1009,7 @@
         }
       ],
       "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 4.754051114275761,
+      "ranking": 4.173479960885266,
       "articleUrl": "https://www.theverge.com/news/822977/gemini-3-google-ai-model-launch"
     },
     {
@@ -1046,7 +1046,7 @@
         }
       ],
       "publishedAt": "2025-11-18T11:20:17.000Z",
-      "ranking": 4.659146069698416,
+      "ranking": 4.069432726761306,
       "articleUrl": "https://www.theverge.com/news/822988/microsoft-anthropic-partnership-claude-models-azure-investment-nvidia"
     },
     {
@@ -1082,7 +1082,7 @@
         }
       ],
       "publishedAt": "2025-11-18T14:00:00.000Z",
-      "ranking": 4.528421000186432,
+      "ranking": 3.975472067327431,
       "articleUrl": "https://www.theverge.com/news/823136/senator-elizabeth-warren-openai-trump-bailout"
     },
     {
@@ -1118,7 +1118,7 @@
         }
       ],
       "publishedAt": "2025-11-18T09:29:21.000Z",
-      "ranking": 4.505501681849067,
+      "ranking": 3.8902531266800775,
       "articleUrl": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector"
     },
     {
@@ -1154,7 +1154,7 @@
         }
       ],
       "publishedAt": "2025-11-18T06:00:00.000Z",
-      "ranking": 4.442291328150704,
+      "ranking": 3.778853502508997,
       "articleUrl": "https://venturebeat.com/ai/microsofts-agent-365-shifts-ai-agents-from-sandbox-tools-to-enterprise-grade"
     },
     {
@@ -1187,7 +1187,7 @@
         }
       ],
       "publishedAt": "2025-11-18T09:00:00.000Z",
-      "ranking": 4.372274414386117,
+      "ranking": 3.750269922710108,
       "articleUrl": "https://www.theverge.com/report/822443/microsoft-windows-copilot-vision-ai-assistant-pc-voice-controls-impressions"
     },
     {
@@ -1224,7 +1224,7 @@
         }
       ],
       "publishedAt": "2025-11-18T06:00:00.000Z",
-      "ranking": 3.0965396821188866,
+      "ranking": 2.433101855330592,
       "articleUrl": "https://venturebeat.com/ai/google-antigravity-introduces-agent-first-architecture-for-asynchronous"
     },
     {
@@ -1259,7 +1259,7 @@
         }
       ],
       "publishedAt": "2025-11-17T21:16:46.000Z",
-      "ranking": 1.9924222998269965,
+      "ranking": 1.2085439077874938,
       "articleUrl": "https://www.marktechpost.com/2025/11/17/google-deepminds-weathernext-2-uses-functional-generative-networks-for-8x-faster-probabilistic-weather-forecasts/"
     },
     {
@@ -1295,8 +1295,44 @@
         }
       ],
       "publishedAt": "2025-11-17T18:00:56.000Z",
-      "ranking": 1.9907414811911464,
+      "ranking": 1.1617851534089612,
       "articleUrl": "https://www.theverge.com/news/822489/weather-forecast-ai-model-google-weathernext"
+    },
+    {
+      "id": "287",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI Equity",
+      "mediumTitle": "OpenAI Allows Equity Donations",
+      "longTitle": "OpenAI Enables Current and Former Employees to Donate Equity to Charity",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has finally addressed a",
+            "long-standing frustration among its",
+            "current and former employees by enabling",
+            "them to donate their equity to charity.",
+            "In response to this pressure, OpenAI has",
+            "now sent out an email from its equity",
+            "team, announcing that eligible",
+            "employees, both past and present, will",
+            "be able to donate their shares.",
+            "However, the core message is that the",
+            "option to donate equity is now available",
+            "to eligible employees.",
+            "For years, employees who held eligible",
+            "shares in the company were unable to",
+            "contribute this valuable asset to",
+            "charitable causes.",
+            "This limitation had reportedly caused",
+            "significant dissatisfaction within the",
+            "workforce."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-17T18:47:14.000Z",
+      "ranking": 0.6594002121087783,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/822496/openai-employee-equity-donation-charity-rounds-share-valuation"
     },
     {
       "id": "284",
@@ -1332,44 +1368,8 @@
         }
       ],
       "publishedAt": "2025-11-17T13:07:57.000Z",
-      "ranking": 1.4850494949137723,
+      "ranking": 0.5886527344895489,
       "articleUrl": "https://www.theverge.com/news/822240/google-ai-mode-travel-plans-canvas"
-    },
-    {
-      "id": "287",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI Equity",
-      "mediumTitle": "OpenAI Allows Equity Donations",
-      "longTitle": "OpenAI Enables Current and Former Employees to Donate Equity to Charity",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has finally addressed a",
-            "long-standing frustration among its",
-            "current and former employees by enabling",
-            "them to donate their equity to charity.",
-            "In response to this pressure, OpenAI has",
-            "now sent out an email from its equity",
-            "team, announcing that eligible",
-            "employees, both past and present, will",
-            "be able to donate their shares.",
-            "However, the core message is that the",
-            "option to donate equity is now available",
-            "to eligible employees.",
-            "For years, employees who held eligible",
-            "shares in the company were unable to",
-            "contribute this valuable asset to",
-            "charitable causes.",
-            "This limitation had reportedly caused",
-            "significant dissatisfaction within the",
-            "workforce."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-17T18:47:14.000Z",
-      "ranking": 1.4776989583937032,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/822496/openai-employee-equity-donation-charity-rounds-share-valuation"
     },
     {
       "id": "286",
@@ -1402,7 +1402,7 @@
         }
       ],
       "publishedAt": "2025-11-17T09:00:00.000Z",
-      "ranking": 0.5829901181782331,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/phi-4-proves-that-a-data-first-sft-methodology-is-the-new-differentiator"
     },
     {
