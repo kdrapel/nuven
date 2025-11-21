@@ -36,6 +36,75 @@
       "articleUrl": "https://www.theverge.com/news/825008/googles-gemini-is-now-on-android-auto"
     },
     {
+      "id": "350",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "AI2 Releases Olmo 3",
+      "mediumTitle": "AI2 Unveils Transparent Olmo 3 LLMs",
+      "longTitle": "AI2 Releases Olmo 3: Open-Source LLMs with Full Model Flow Transparency",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This release is notable for its",
+            "comprehensive transparency, providing",
+            "access to the entire \u0027model flow,\u0027 which",
+            "encompasses everything from the raw data",
+            "and code used for training to",
+            "intermediate checkpoints and",
+            "ready-to-deploy versions of the models.",
+            "AI2\u0027s release of Olmo 3 positions it as",
+            "a significant contribution to the",
+            "open-source AI landscape, providing",
+            "powerful and transparent LLM tools for",
+            "the global research and development",
+            "community.",
+            "The Allen Institute for AI (AI2) has",
+            "announced the release of Olmo 3, a new",
+            "family of open-source Large Language",
+            "Models (LLMs)."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-21T04:07:15.000Z",
+      "ranking": 8.46923076923077,
+      "articleUrl": "https://www.marktechpost.com/2025/11/20/allen-institute-for-ai-ai2-introduces-olmo-3-an-open-source-7b-and-32b-llm-family-built-on-the-dolma-3-and-dolci-stack/"
+    },
+    {
+      "id": "349",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Opik LLM Tutorial",
+      "mediumTitle": "Traceable LLM Pipeline with Opik",
+      "longTitle": "Implementing a Fully Traced and Evaluated Local LLM Pipeline with Opik",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This article provides a tutorial on",
+            "building a transparent, measurable, and",
+            "reproducible local Large Language Model",
+            "(LLM) pipeline using the Opik tool.",
+            "Opik\u0027s tracing capabilities enable users",
+            "to monitor every function span,",
+            "recording not only LLM calls but also",
+            "intermediate steps, data",
+            "transformations, and planning logic.",
+            "As each functional component or \u0027span\u0027",
+            "of the workflow is developed, Opik is",
+            "used to track its execution, allowing",
+            "for a comprehensive understanding of",
+            "data flow and contributions.",
+            "The goal is to achieve transparent,",
+            "measurable, and reproducible AI",
+            "workflows by implementing a fully traced",
+            "and evaluated local LLM pipeline."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-21T09:47:10.000Z",
+      "ranking": 8.166666666666668,
+      "articleUrl": "https://www.marktechpost.com/2025/11/21/an-implementation-of-fully-traced-and-evaluated-local-llm-pipeline-using-opik-for-transparent-measurable-and-reproducible-ai-workflows/"
+    },
+    {
       "id": "332",
       "topic": "AI Ops",
       "source": "VentureBeat AI",
@@ -462,39 +531,6 @@
       "articleUrl": "https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai"
     },
     {
-      "id": "344",
-      "topic": "Dev Tools",
-      "source": "The Verge AI",
-      "shortTitle": "ChatGPT Atlas Update",
-      "mediumTitle": "ChatGPT Atlas Adds Vertical Tabs",
-      "longTitle": "ChatGPT Atlas Updates with Vertical Tabs Resembling Arc Browser",
-      "paragraphs": [
-        {
-          "Lines": [
-            "ChatGPT Atlas, a feature within the",
-            "AI-powered browser, is undergoing an",
-            "update that introduces vertical tabs,",
-            "drawing a visual resemblance to the Arc",
-            "browser.",
-            "However, with this new update, users",
-            "will have the option to switch their tab",
-            "style, allowing them to access and",
-            "manage their ChatGPT sessions within a",
-            "sidebar located on the left-hand side of",
-            "the screen.",
-            "A key feature of this new sidebar in",
-            "ChatGPT Atlas is its resizability,",
-            "mirroring a similar capability in Arc,",
-            "which allows users to adjust the width",
-            "of the sidebar to their preference."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-20T11:04:02.000Z",
-      "ranking": 7.5375000000000005,
-      "articleUrl": "https://www.theverge.com/news/825036/openai-chatgpt-atlas-arc-vertical-tabs-update"
-    },
-    {
       "id": "340",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -562,6 +598,39 @@
       "articleUrl": "https://www.theverge.com/report/825141/sunos-ceo-ai-text-prompt-really-active-music-creation"
     },
     {
+      "id": "344",
+      "topic": "Dev Tools",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT Atlas Update",
+      "mediumTitle": "ChatGPT Atlas Adds Vertical Tabs",
+      "longTitle": "ChatGPT Atlas Updates with Vertical Tabs Resembling Arc Browser",
+      "paragraphs": [
+        {
+          "Lines": [
+            "ChatGPT Atlas, a feature within the",
+            "AI-powered browser, is undergoing an",
+            "update that introduces vertical tabs,",
+            "drawing a visual resemblance to the Arc",
+            "browser.",
+            "However, with this new update, users",
+            "will have the option to switch their tab",
+            "style, allowing them to access and",
+            "manage their ChatGPT sessions within a",
+            "sidebar located on the left-hand side of",
+            "the screen.",
+            "A key feature of this new sidebar in",
+            "ChatGPT Atlas is its resizability,",
+            "mirroring a similar capability in Arc,",
+            "which allows users to adjust the width",
+            "of the sidebar to their preference."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-20T11:04:02.000Z",
+      "ranking": 6.454321880520822,
+      "articleUrl": "https://www.theverge.com/news/825036/openai-chatgpt-atlas-arc-vertical-tabs-update"
+    },
+    {
       "id": "331",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -591,7 +660,7 @@
         }
       ],
       "publishedAt": "2025-11-20T06:00:00.000Z",
-      "ranking": 6.343217567436907,
+      "ranking": 5.951812290206013,
       "articleUrl": "https://venturebeat.com/ai/ai2s-olmo-3-family-challenges-qwen-and-llama-with-efficient-open-reasoning"
     },
     {
@@ -625,7 +694,7 @@
         }
       ],
       "publishedAt": "2025-11-19T18:15:16.000Z",
-      "ranking": 5.894723375800892,
+      "ranking": 5.339334751786351,
       "articleUrl": "https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue"
     },
     {
@@ -660,7 +729,7 @@
         }
       ],
       "publishedAt": "2025-11-19T18:57:00.000Z",
-      "ranking": 5.263674383371223,
+      "ranking": 4.717996624196671,
       "articleUrl": "https://venturebeat.com/ai/the-google-search-of-ai-agents-fetch-launches-asi-one-and-business-tier-for"
     },
     {
@@ -695,7 +764,7 @@
         }
       ],
       "publishedAt": "2025-11-19T19:03:28.000Z",
-      "ranking": 5.158778563476378,
+      "ranking": 4.614605527246307,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws"
     },
     {
@@ -731,7 +800,7 @@
         }
       ],
       "publishedAt": "2025-11-19T17:50:54.000Z",
-      "ranking": 5.098319929972907,
+      "ranking": 4.53726146387077,
       "articleUrl": "https://www.theverge.com/news/823213/google-scholar-labs-ai-search"
     },
     {
@@ -767,7 +836,7 @@
         }
       ],
       "publishedAt": "2025-11-19T09:06:49.000Z",
-      "ranking": 4.568337079586459,
+      "ranking": 3.8853304466097587,
       "articleUrl": "https://www.theverge.com/news/823775/tiktok-ai-generated-content-controls-manage-topics"
     },
     {
@@ -803,7 +872,7 @@
         }
       ],
       "publishedAt": "2025-11-19T11:12:20.000Z",
-      "ranking": 4.470930821661472,
+      "ranking": 3.8171304715034697,
       "articleUrl": "https://www.theverge.com/report/822151/ai-smart-pen-for-cheating-tests"
     },
     {
@@ -839,7 +908,7 @@
         }
       ],
       "publishedAt": "2025-11-19T20:26:00.000Z",
-      "ranking": 4.280805617770558,
+      "ranking": 3.7558371341976127,
       "articleUrl": "https://venturebeat.com/ai/openai-debuts-gpt-5-1-codex-max-coding-model-and-it-already-completed-a-24"
     },
     {
@@ -874,43 +943,8 @@
         }
       ],
       "publishedAt": "2025-11-19T08:47:09.000Z",
-      "ranking": 3.507689660370108,
+      "ranking": 2.820106814479705,
       "articleUrl": "https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes"
-    },
-    {
-      "id": "316",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Grok 4.1 Launched",
-      "mediumTitle": "xAI\u0027s Grok 4.1 Enhances AI",
-      "longTitle": "xAI\u0027s Grok 4.1 Now Live, Boosting Emotional Intelligence and Safety",
-      "paragraphs": [
-        {
-          "Lines": [
-            "xAI\u0027s latest large language model, Grok",
-            "4.1, is now powering Grok across its web",
-            "platform (grok.com), X (formerly",
-            "Twitter), and its mobile consumer",
-            "applications.",
-            "This new iteration aims to enhance the",
-            "AI assistant\u0027s capabilities by focusing",
-            "on three key areas: higher emotional",
-            "intelligence, reduced hallucinations,",
-            "and stricter safety controls.",
-            "This implies that xAI has put in place",
-            "more robust measures to prevent the",
-            "generation of harmful, biased, or",
-            "inappropriate content, ensuring a safer",
-            "user experience.",
-            "The implementation of tighter safety",
-            "controls is another critical aspect of",
-            "Grok 4.1\u0027s release."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-19T00:21:15.000Z",
-      "ranking": 3.2736222916043074,
-      "articleUrl": "https://www.marktechpost.com/2025/11/18/xais-grok-4-1-pushes-toward-higher-emotional-intelligence-lower-hallucinations-and-tighter-safety-controls/"
     },
     {
       "id": "318",
@@ -945,8 +979,43 @@
         }
       ],
       "publishedAt": "2025-11-19T15:00:00.000Z",
-      "ranking": 3.143098670573005,
+      "ranking": 2.5422737381134475,
       "articleUrl": "https://venturebeat.com/ai/opencv-founders-launch-ai-video-startup-to-take-on-openai-and-google"
+    },
+    {
+      "id": "316",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "Grok 4.1 Launched",
+      "mediumTitle": "xAI\u0027s Grok 4.1 Enhances AI",
+      "longTitle": "xAI\u0027s Grok 4.1 Now Live, Boosting Emotional Intelligence and Safety",
+      "paragraphs": [
+        {
+          "Lines": [
+            "xAI\u0027s latest large language model, Grok",
+            "4.1, is now powering Grok across its web",
+            "platform (grok.com), X (formerly",
+            "Twitter), and its mobile consumer",
+            "applications.",
+            "This new iteration aims to enhance the",
+            "AI assistant\u0027s capabilities by focusing",
+            "on three key areas: higher emotional",
+            "intelligence, reduced hallucinations,",
+            "and stricter safety controls.",
+            "This implies that xAI has put in place",
+            "more robust measures to prevent the",
+            "generation of harmful, biased, or",
+            "inappropriate content, ensuring a safer",
+            "user experience.",
+            "The implementation of tighter safety",
+            "controls is another critical aspect of",
+            "Grok 4.1\u0027s release."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-19T00:21:15.000Z",
+      "ranking": 2.4683223138312433,
+      "articleUrl": "https://www.marktechpost.com/2025/11/18/xais-grok-4-1-pushes-toward-higher-emotional-intelligence-lower-hallucinations-and-tighter-safety-controls/"
     },
     {
       "id": "325",
@@ -980,7 +1049,7 @@
         }
       ],
       "publishedAt": "2025-11-19T01:00:00.000Z",
-      "ranking": 3.1200416477802744,
+      "ranking": 2.323758357212495,
       "articleUrl": "https://venturebeat.com/ai/metas-dreamgym-framework-trains-ai-agents-in-a-simulated-world-to-cut"
     },
     {
@@ -1017,7 +1086,7 @@
         }
       ],
       "publishedAt": "2025-11-19T05:48:59.000Z",
-      "ranking": 3.045727011962402,
+      "ranking": 2.31668680960125,
       "articleUrl": "https://www.theverge.com/report/823725/vanlife-ai-travel-planner-google-zero"
     },
     {
@@ -1050,7 +1119,7 @@
         }
       ],
       "publishedAt": "2025-11-19T00:35:45.000Z",
-      "ranking": 2.804529904965282,
+      "ranking": 2.0026039015377144,
       "articleUrl": "https://www.marktechpost.com/2025/11/18/how-to-build-an-agentic-deep-reinforcement-learning-system-with-curriculum-progression-adaptive-exploration-and-meta-level-ucb-planning/"
     },
     {
@@ -1085,7 +1154,7 @@
         }
       ],
       "publishedAt": "2025-11-18T22:25:59.000Z",
-      "ranking": 2.6416973879049364,
+      "ranking": 1.8095761722510044,
       "articleUrl": "https://www.theverge.com/news/823711/cloudflare-outage-postmortem"
     },
     {
@@ -1122,7 +1191,7 @@
         }
       ],
       "publishedAt": "2025-11-19T06:00:00.000Z",
-      "ranking": 2.4966323620875643,
+      "ranking": 1.7701556065913486,
       "articleUrl": "https://venturebeat.com/ai/venturebeat-launches-beyond-the-pilot-a-new-podcast-series-exploring-how"
     },
     {
@@ -1153,7 +1222,7 @@
         }
       ],
       "publishedAt": "2025-11-18T20:12:35.000Z",
-      "ranking": 2.2218476001712313,
+      "ranking": 1.3586857338749345,
       "articleUrl": "https://www.marktechpost.com/2025/11/18/googles-gemini-3-pro-turns-sparse-moe-and-1m-token-context-into-a-practical-engine-for-multimodal-agentic-workloads/"
     },
     {
@@ -1188,7 +1257,43 @@
         }
       ],
       "publishedAt": "2025-11-18T21:03:00.000Z",
-      "ranking": 1.7481697439769581,
+      "ranking": 0.8967392562935022,
+      "articleUrl": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and"
+    },
+    {
+      "id": "326",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Grok 4.1 Launched",
+      "mediumTitle": "xAI\u0027s Grok 4.1: New AI Model",
+      "longTitle": "xAI Releases Grok 4.1 with Enhanced Features and API Access",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Elon Musk\u0027s AI startup, xAI, has",
+            "launched its latest large language",
+            "model, Grok 4.1, aiming to compete with",
+            "major players like Google and OpenAI.",
+            "Grok 4.1 boasts significant",
+            "architectural and usability",
+            "enhancements, including faster",
+            "reasoning, improved emotional",
+            "intelligence, and a substantially",
+            "reduced hallucination rate.",
+            "However, a day after the initial",
+            "article\u0027s publication, xAI announced API",
+            "access for Grok 4.1.",
+            "However, the subsequent API release,",
+            "along with competitive pricing and the",
+            "introduction of the Agent Tools API,",
+            "positions Grok 4.1 Fast as a strong",
+            "contender for enterprise and developer",
+            "integration."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T21:03:00.000Z",
+      "ranking": 0.33815338878815293,
       "articleUrl": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and"
     },
     {
@@ -1225,44 +1330,8 @@
         }
       ],
       "publishedAt": "2025-11-18T17:00:00.000Z",
-      "ranking": 1.2002959689512673,
+      "ranking": 0.29232216237105213,
       "articleUrl": "https://venturebeat.com/ai/google-unveils-gemini-3-claiming-the-lead-in-math-science-multimodal-and"
-    },
-    {
-      "id": "326",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Grok 4.1 Launched",
-      "mediumTitle": "xAI\u0027s Grok 4.1: New AI Model",
-      "longTitle": "xAI Releases Grok 4.1 with Enhanced Features and API Access",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Elon Musk\u0027s AI startup, xAI, has",
-            "launched its latest large language",
-            "model, Grok 4.1, aiming to compete with",
-            "major players like Google and OpenAI.",
-            "Grok 4.1 boasts significant",
-            "architectural and usability",
-            "enhancements, including faster",
-            "reasoning, improved emotional",
-            "intelligence, and a substantially",
-            "reduced hallucination rate.",
-            "However, a day after the initial",
-            "article\u0027s publication, xAI announced API",
-            "access for Grok 4.1.",
-            "However, the subsequent API release,",
-            "along with competitive pricing and the",
-            "introduction of the Agent Tools API,",
-            "positions Grok 4.1 Fast as a strong",
-            "contender for enterprise and developer",
-            "integration."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T21:03:00.000Z",
-      "ranking": 1.189583869310745,
-      "articleUrl": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and"
     },
     {
       "id": "314",
@@ -1293,7 +1362,7 @@
         }
       ],
       "publishedAt": "2025-11-18T19:45:52.000Z",
-      "ranking": 1.1179123002285625,
+      "ranking": 0.24853376815713535,
       "articleUrl": "https://www.theverge.com/policy/823650/ai-moratorium-house-gop-scalise"
     },
     {
@@ -1328,7 +1397,7 @@
         }
       ],
       "publishedAt": "2025-11-18T15:00:00.000Z",
-      "ranking": 0.9725424869313688,
+      "ranking": 0.036646064324518335,
       "articleUrl": "https://venturebeat.com/ai/how-ai-tax-startup-blue-j-torched-its-entire-business-model-for-chatgpt-and"
     },
     {
@@ -1359,111 +1428,8 @@
         }
       ],
       "publishedAt": "2025-11-18T17:00:00.000Z",
-      "ranking": 0.9218567864860407,
+      "ranking": 0.013882984481785599,
       "articleUrl": "https://venturebeat.com/ai/writers-ai-agents-can-actually-do-your-work-not-just-chat-about-it"
-    },
-    {
-      "id": "302",
-      "topic": "AI Ops",
-      "source": "The Verge AI",
-      "shortTitle": "Cloudflare Outage",
-      "mediumTitle": "Cloudflare Outage Disrupts Web Services",
-      "longTitle": "Massive Cloudflare Outage Causes Widespread Internet Disruptions",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A massive outage at Cloudflare, a",
-            "prominent networking company responsible",
-            "for DDoS protection and content delivery",
-            "for numerous global businesses,",
-            "significantly disrupted internet",
-            "services on Tuesday morning.",
-            "The incident rendered many websites",
-            "inaccessible, including prominent",
-            "platforms like X (formerly Twitter) and",
-            "ChatGPT, as well as the outage-tracking",
-            "website DownDetector itself.",
-            "The article highlights the critical role",
-            "Cloudflare plays in the internet\u0027s",
-            "backbone, underscoring how a single",
-            "point of failure within their system can",
-            "have cascading effects across a vast",
-            "number of online services."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T14:30:54.000Z",
-      "ranking": 0.7744730232238162,
-      "articleUrl": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector"
-    },
-    {
-      "id": "307",
-      "topic": "Dev Tools",
-      "source": "The Verge AI",
-      "shortTitle": "Google\u0027s Antigravity",
-      "mediumTitle": "Google Antigravity: Agent-First Coding",
-      "longTitle": "Google Unveils Antigravity for Agent-First Software Development",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has introduced Antigravity, a new",
-            "development tool designed to foster an",
-            "\u0022agent-first future\u0022 in coding,",
-            "leveraging its latest AI model, Gemini 3",
-            "Pro, and other third-party AI models.",
-            "Antigravity is engineered to support",
-            "multiple autonomous agents, granting",
-            "them direct access to essential",
-            "development environments such as the",
-            "code editor, terminal, and web browser.",
-            "The announcement of Antigravity",
-            "coincides with the reveal of Gemini 3",
-            "Pro, indicating that the capabilities of",
-            "this new AI model are a foundational",
-            "element of the tool.",
-            "The core philosophy behind Antigravity",
-            "is its \u0022agent-first\u0022 approach,",
-            "suggesting a shift towards AI agents",
-            "playing a more central and active role",
-            "in software development."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 0.47892031758266285,
-      "articleUrl": "https://www.theverge.com/news/822833/google-antigravity-ide-coding-agent-gemini-3-pro"
-    },
-    {
-      "id": "306",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Free AI in Office",
-      "mediumTitle": "Microsoft Adds Free AI to Office Apps",
-      "longTitle": "Microsoft to Offer Free AI Features in Core Office Applications in 2026",
-      "paragraphs": [
-        {
-          "Lines": [
-            "While the company has been actively",
-            "developing and integrating advanced AI",
-            "capabilities through its paid Microsoft",
-            "365 Copilot subscription, a substantial",
-            "wave of new, free AI functionalities is",
-            "slated for release in early 2026.",
-            "Microsoft is significantly expanding the",
-            "availability of AI features within its",
-            "core Office applications, including",
-            "Outlook, Word, Excel, and PowerPoint.",
-            "These forthcoming features will be",
-            "accessible to users without the need for",
-            "the premium Microsoft 365 Copilot",
-            "subscription, which currently costs $30",
-            "per month per user."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 0.10278394770677934,
-      "articleUrl": "https://www.theverge.com/news/822789/microsoft-copilot-chat-outlook-word-excel-powerpoint"
     },
     {
       "id": "298",
@@ -1497,43 +1463,42 @@
         }
       ],
       "publishedAt": "2025-11-18T17:00:00.000Z",
-      "ranking": 0.07483294898778681,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/microsoft-remakes-windows-for-an-era-of-autonomous-ai-agents"
     },
     {
-      "id": "304",
-      "topic": "Generative AI",
+      "id": "302",
+      "topic": "AI Ops",
       "source": "The Verge AI",
-      "shortTitle": "AI Windows",
-      "mediumTitle": "Windows Evolves into Agentic OS",
-      "longTitle": "Microsoft\u0027s Vision: Windows as an Agentic OS with AI",
+      "shortTitle": "Cloudflare Outage",
+      "mediumTitle": "Cloudflare Outage Disrupts Web Services",
+      "longTitle": "Massive Cloudflare Outage Causes Widespread Internet Disruptions",
       "paragraphs": [
         {
           "Lines": [
-            "Microsoft is embarking on a significant",
-            "transformation of Windows, aiming to",
-            "evolve it into an \u0027agentic OS\u0027 with AI",
-            "agents deeply integrated into the user",
-            "experience.",
-            "By transforming Windows into an \u0027agentic",
-            "OS,\u0027 Microsoft is positioning itself to",
-            "offer a more intelligent, proactive, and",
-            "efficient computing experience, where AI",
-            "agents act as extensions of the user\u0027s",
-            "will, directly influencing and managing",
-            "the digital environment.",
-            "The core idea is to imbue these AI",
-            "agents with the ability to act as",
-            "personal assistants within the operating",
-            "system, capable of independently",
-            "controlling the PC and executing tasks",
-            "at the user\u0027s command."
+            "A massive outage at Cloudflare, a",
+            "prominent networking company responsible",
+            "for DDoS protection and content delivery",
+            "for numerous global businesses,",
+            "significantly disrupted internet",
+            "services on Tuesday morning.",
+            "The incident rendered many websites",
+            "inaccessible, including prominent",
+            "platforms like X (formerly Twitter) and",
+            "ChatGPT, as well as the outage-tracking",
+            "website DownDetector itself.",
+            "The article highlights the critical role",
+            "Cloudflare plays in the internet\u0027s",
+            "backbone, underscoring how a single",
+            "point of failure within their system can",
+            "have cascading effects across a vast",
+            "number of online services."
           ]
         }
       ],
-      "publishedAt": "2025-11-18T12:00:34.000Z",
-      "ranking": 0.05688617729791545,
-      "articleUrl": "https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration"
+      "publishedAt": "2025-11-18T14:30:54.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector"
     },
     {
       "id": "303",
@@ -1572,6 +1537,41 @@
       "articleUrl": "https://www.theverge.com/news/823136/senator-elizabeth-warren-openai-trump-bailout"
     },
     {
+      "id": "304",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Windows",
+      "mediumTitle": "Windows Evolves into Agentic OS",
+      "longTitle": "Microsoft\u0027s Vision: Windows as an Agentic OS with AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft is embarking on a significant",
+            "transformation of Windows, aiming to",
+            "evolve it into an \u0027agentic OS\u0027 with AI",
+            "agents deeply integrated into the user",
+            "experience.",
+            "By transforming Windows into an \u0027agentic",
+            "OS,\u0027 Microsoft is positioning itself to",
+            "offer a more intelligent, proactive, and",
+            "efficient computing experience, where AI",
+            "agents act as extensions of the user\u0027s",
+            "will, directly influencing and managing",
+            "the digital environment.",
+            "The core idea is to imbue these AI",
+            "agents with the ability to act as",
+            "personal assistants within the operating",
+            "system, capable of independently",
+            "controlling the PC and executing tasks",
+            "at the user\u0027s command."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T12:00:34.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration"
+    },
+    {
       "id": "308",
       "topic": "Large Models",
       "source": "The Verge AI",
@@ -1608,76 +1608,41 @@
       "articleUrl": "https://www.theverge.com/news/822977/gemini-3-google-ai-model-launch"
     },
     {
-      "id": "305",
-      "topic": "Business",
+      "id": "307",
+      "topic": "Dev Tools",
       "source": "The Verge AI",
-      "shortTitle": "MS Agent 365",
-      "mediumTitle": "Microsoft\u0027s Agent 365 AI Platform",
-      "longTitle": "Microsoft\u0027s Agent 365: An AI Agent Factory for Businesses",
+      "shortTitle": "Google\u0027s Antigravity",
+      "mediumTitle": "Google Antigravity: Agent-First Coding",
+      "longTitle": "Google Unveils Antigravity for Agent-First Software Development",
       "paragraphs": [
         {
           "Lines": [
-            "Microsoft is developing \u0022Agent 365,\u0022 a",
-            "platform designed to enable businesses",
-            "to create and manage AI agents in a",
-            "manner analogous to how they manage",
-            "human employees.",
-            "Agent 365 represents a significant step",
-            "in democratizing AI agent creation and",
-            "management, aiming to equip businesses",
-            "to build and control their own AI",
-            "workforce.",
-            "Agent 365 aims to provide businesses",
-            "with the tools and infrastructure to",
-            "build, deploy, and oversee their own",
-            "custom AI agents.",
-            "The platform is envisioned as an \u0022AI",
-            "agent factory,\u0022 streamlining the process",
-            "of agent creation and integration into",
-            "existing business workflows."
+            "Google has introduced Antigravity, a new",
+            "development tool designed to foster an",
+            "\u0022agent-first future\u0022 in coding,",
+            "leveraging its latest AI model, Gemini 3",
+            "Pro, and other third-party AI models.",
+            "Antigravity is engineered to support",
+            "multiple autonomous agents, granting",
+            "them direct access to essential",
+            "development environments such as the",
+            "code editor, terminal, and web browser.",
+            "The announcement of Antigravity",
+            "coincides with the reveal of Gemini 3",
+            "Pro, indicating that the capabilities of",
+            "this new AI model are a foundational",
+            "element of the tool.",
+            "The core philosophy behind Antigravity",
+            "is its \u0022agent-first\u0022 approach,",
+            "suggesting a shift towards AI agents",
+            "playing a more central and active role",
+            "in software development."
           ]
         }
       ],
       "publishedAt": "2025-11-18T12:00:00.000Z",
       "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/822035/microsoft-agent-365-businesses-control-security"
-    },
-    {
-      "id": "309",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "MSFT \u0026 Anthropic AI",
-      "mediumTitle": "Microsoft Partners with Anthropic for AI",
-      "longTitle": "Microsoft and Anthropic Forge Strategic AI Partnership",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft has announced a significant",
-            "strategic partnership with AI startup",
-            "Anthropic, which will integrate",
-            "Anthropic\u0027s Claude AI models into",
-            "Microsoft Azure.",
-            "The AI company will purchase $30 billion",
-            "worth of Azure compute capacity.",
-            "Furthermore, Anthropic has pledged to",
-            "contract for \u0022additional compute",
-            "capacity up to one gigawatt.\u0022",
-            "This collaboration marks the first time",
-            "Claude models will be available on",
-            "Microsoft Foundry.",
-            "This substantial investment underscores",
-            "Anthropic\u0027s reliance on Microsoft\u0027s",
-            "cloud infrastructure for its AI",
-            "development and deployment.",
-            "The partnership will grant Microsoft",
-            "Foundry customers access to Anthropic\u0027s",
-            "advanced AI models."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T11:20:17.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/822988/microsoft-anthropic-partnership-claude-models-azure-investment-nvidia"
+      "articleUrl": "https://www.theverge.com/news/822833/google-antigravity-ide-coding-agent-gemini-3-pro"
     }
   ]
 }
