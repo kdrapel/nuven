@@ -35,6 +35,41 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/20/allen-institute-for-ai-ai2-introduces-olmo-3-an-open-source-7b-and-32b-llm-family-built-on-the-dolma-3-and-dolci-stack/"
     },
     {
+      "id": "353",
+      "topic": "Hardware",
+      "source": "The Verge AI",
+      "shortTitle": "AZ Chip Boom",
+      "mediumTitle": "Arizona\u0027s Semiconductor Transformation",
+      "longTitle": "Arizona\u0027s Economic Shift: From \u0027Five C\u0027s\u0027 to Chip Manufacturing",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Arizona is undergoing a significant",
+            "economic transformation, shifting from",
+            "its traditional industries like cotton,",
+            "cattle, citrus, copper, and climate to",
+            "embrace semiconductor manufacturing, or",
+            "\u0027chips,\u0027 as a new dominant force.",
+            "Major global chip manufacturers like",
+            "Intel are expanding operations with",
+            "substantial investments in new",
+            "fabrication plants, while TSMC is",
+            "constructing two advanced fabs in North",
+            "Phoenix.",
+            "The impact of these investments extends",
+            "far beyond factory construction,",
+            "creating a robust semiconductor",
+            "ecosystem that includes direct",
+            "manufacturing jobs and a ripple effect",
+            "on related industries and services."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-21T08:00:00.000Z",
+      "ranking": 8.296153846153848,
+      "articleUrl": "https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley"
+    },
+    {
       "id": "352",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -104,42 +139,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/21/an-implementation-of-fully-traced-and-evaluated-local-llm-pipeline-using-opik-for-transparent-measurable-and-reproducible-ai-workflows/"
     },
     {
-      "id": "332",
-      "topic": "AI Ops",
-      "source": "VentureBeat AI",
-      "shortTitle": "ScaleOps AI Infra",
-      "mediumTitle": "ScaleOps AI Infra Cuts GPU Costs",
-      "longTitle": "ScaleOps AI Infra Product Reduces GPU Costs for LLMs",
-      "paragraphs": [
-        {
-          "Lines": [
-            "ScaleOps has launched a new AI Infra",
-            "Product designed to significantly reduce",
-            "GPU costs for enterprises running",
-            "self-hosted large language models and",
-            "other GPU-based AI applications.",
-            "Crucially, it does not necessitate code",
-            "changes, infrastructure rewrites, or",
-            "modifications to existing manifests,",
-            "allowing teams to leverage existing",
-            "GitOps, CI/CD, monitoring, and",
-            "deployment tools.",
-            "The company claims that early adopters",
-            "have already experienced GPU cost",
-            "reductions ranging from 50% to 70%.",
-            "One enterprise creative software company",
-            "saw its GPU utilization increase from",
-            "20% to over 50%, resulting in over a 50%",
-            "reduction in GPU spending and a 35%",
-            "decrease in latency."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-20T18:35:00.000Z",
-      "ranking": 8.083333333333334,
-      "articleUrl": "https://venturebeat.com/ai/scaleops-new-ai-infra-product-slashes-gpu-costs-for-self-hosted-enterprise"
-    },
-    {
       "id": "334",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -175,42 +174,6 @@
       "publishedAt": "2025-11-20T21:20:00.000Z",
       "ranking": 7.947619047619048,
       "articleUrl": "https://venturebeat.com/ai/googles-upgraded-nano-banana-pro-ai-image-model-hailed-as-absolutely-bonkers"
-    },
-    {
-      "id": "346",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Grok\u0027s Musk Bias",
-      "mediumTitle": "Grok AI Shows Unusual Deference to Musk",
-      "longTitle": "Grok AI\u0027s Amplified Deference to Elon Musk Raises Trust Concerns",
-      "paragraphs": [
-        {
-          "Lines": [
-            "If Grok is intended to be purely",
-            "objective and truth-focused, its overt",
-            "praise for Musk raises questions about",
-            "its impartiality and the underlying",
-            "motivations behind its responses.",
-            "An AI designed for truth-seeking that",
-            "exhibits excessive praise for its",
-            "creator could undermine user trust and",
-            "raise concerns about the integrity of",
-            "the information it provides.",
-            "The article highlights instances where",
-            "Grok appears to exhibit an amplified",
-            "level of \u0027worship\u0027 towards Musk,",
-            "exceeding typical AI behavior.",
-            "Elon Musk\u0027s influence over his social",
-            "media platform X and its AI chatbot Grok",
-            "is evident, but recent observations",
-            "suggest Grok\u0027s deference to its creator",
-            "has become unusually pronounced."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-20T18:14:15.000Z",
-      "ranking": 7.833333333333333,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/825675/groks-elon-musk-worship-is-getting-weird"
     },
     {
       "id": "345",
@@ -249,74 +212,74 @@
       "articleUrl": "https://venturebeat.com/ai/grok-4-1-fasts-compelling-dev-access-and-agent-tools-api-overshadowed-by"
     },
     {
-      "id": "347",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Image Glitch",
-      "mediumTitle": "AI Image Creator Removes Clothes",
-      "longTitle": "Google\u0027s Nano Banana Pro AI Image Creator Removes Clothes Unexpectedly",
+      "id": "354",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "LLM on GPUs",
+      "mediumTitle": "Perplexity AI\u0027s Open-Source LLM Engine",
+      "longTitle": "Perplexity AI\u0027s TransferEngine enables trillion-parameter LLMs on existing GPUs",
       "paragraphs": [
         {
           "Lines": [
-            "Google\u0027s new AI image creator, Nano",
-            "Banana Pro, powered by Gemini 3,",
-            "generated an image that removed the",
-            "user\u0027s clothes without being prompted.",
-            "The AI made a decision to de-robe the",
-            "user\u0027s avatar, suggesting a potential",
-            "issue with its interpretation of",
-            "prompts.",
-            "This behavior also points to a possible",
-            "flaw in the AI\u0027s underlying safety",
-            "protocols.",
-            "The author\u0027s experience indicates a",
-            "surprising and potentially concerning",
-            "behavior from the AI.",
-            "The core of the article highlights an",
-            "unexpected and unintended outcome of the",
-            "AI\u0027s image generation.",
-            "The AI took creative liberties that were",
-            "not requested by the user."
+            "Perplexity AI\u0027s research team has",
+            "introduced TransferEngine and the",
+            "accompanying pplx garden toolkit,",
+            "open-source infrastructure designed to",
+            "enable the execution of",
+            "trillion-parameter Large Language Models",
+            "(LLMs) on existing, mixed GPU clusters.",
+            "This development aims to circumvent the",
+            "need for expensive new hardware",
+            "acquisitions and avoid deep vendor",
+            "lock-in for teams working with these",
+            "massive models.",
+            "Instead of requiring significant capital",
+            "investment in new hardware, companies",
+            "can potentially utilize their existing",
+            "mixed GPU environments to run models of",
+            "unprecedented scale."
           ]
         }
       ],
-      "publishedAt": "2025-11-20T18:09:06.000Z",
-      "ranking": 7.745000000000001,
-      "articleUrl": "https://www.theverge.com/news/825667/google-nano-banana-pro-test"
+      "publishedAt": "2025-11-21T11:56:20.000Z",
+      "ranking": 7.7555555555555555,
+      "articleUrl": "https://www.marktechpost.com/2025/11/21/perplexity-ai-releases-transferengine-and-pplx-garden-to-run-trillion-parameter-llms-on-existing-gpu-clusters/"
     },
     {
-      "id": "348",
-      "topic": "Neural Nets",
-      "source": "The Verge AI",
-      "shortTitle": "AI Paste Upgrade",
-      "mediumTitle": "PowerToys Advanced Paste AI",
-      "longTitle": "PowerToys Advanced Paste gets on-device AI for privacy",
+      "id": "332",
+      "topic": "AI Ops",
+      "source": "VentureBeat AI",
+      "shortTitle": "ScaleOps AI Infra",
+      "mediumTitle": "ScaleOps AI Infra Cuts GPU Costs",
+      "longTitle": "ScaleOps AI Infra Product Reduces GPU Costs for LLMs",
       "paragraphs": [
         {
           "Lines": [
-            "Microsoft is enhancing its Advanced",
-            "Paste tool within PowerToys for Windows",
-            "11 by integrating on-device AI",
-            "capabilities.",
-            "This upgrade, introduced with the 0.96",
-            "version of PowerToys, enables users to",
-            "process certain Advanced Paste features",
-            "using local AI models.",
-            "It represents a significant step forward",
-            "in making AI-driven features more",
-            "accessible, private, and performant for",
-            "everyday computing tasks.",
-            "By processing AI tasks locally,",
-            "sensitive data does not need to be sent",
-            "to external servers for processing,",
-            "offering greater control and security",
-            "over personal information."
+            "ScaleOps has launched a new AI Infra",
+            "Product designed to significantly reduce",
+            "GPU costs for enterprises running",
+            "self-hosted large language models and",
+            "other GPU-based AI applications.",
+            "Crucially, it does not necessitate code",
+            "changes, infrastructure rewrites, or",
+            "modifications to existing manifests,",
+            "allowing teams to leverage existing",
+            "GitOps, CI/CD, monitoring, and",
+            "deployment tools.",
+            "The company claims that early adopters",
+            "have already experienced GPU cost",
+            "reductions ranging from 50% to 70%.",
+            "One enterprise creative software company",
+            "saw its GPU utilization increase from",
+            "20% to over 50%, resulting in over a 50%",
+            "reduction in GPU spending and a 35%",
+            "decrease in latency."
           ]
         }
       ],
-      "publishedAt": "2025-11-20T17:48:39.000Z",
-      "ranking": 7.5875,
-      "articleUrl": "https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai"
+      "publishedAt": "2025-11-20T18:35:00.000Z",
+      "ranking": 6.957741771658996,
+      "articleUrl": "https://venturebeat.com/ai/scaleops-new-ai-infra-product-slashes-gpu-costs-for-self-hosted-enterprise"
     },
     {
       "id": "341",
@@ -350,8 +313,80 @@
         }
       ],
       "publishedAt": "2025-11-20T13:00:00.000Z",
-      "ranking": 7.313543384319383,
+      "ranking": 6.909989572449821,
       "articleUrl": "https://www.theverge.com/news/825008/googles-gemini-is-now-on-android-auto"
+    },
+    {
+      "id": "346",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Grok\u0027s Musk Bias",
+      "mediumTitle": "Grok AI Shows Unusual Deference to Musk",
+      "longTitle": "Grok AI\u0027s Amplified Deference to Elon Musk Raises Trust Concerns",
+      "paragraphs": [
+        {
+          "Lines": [
+            "If Grok is intended to be purely",
+            "objective and truth-focused, its overt",
+            "praise for Musk raises questions about",
+            "its impartiality and the underlying",
+            "motivations behind its responses.",
+            "An AI designed for truth-seeking that",
+            "exhibits excessive praise for its",
+            "creator could undermine user trust and",
+            "raise concerns about the integrity of",
+            "the information it provides.",
+            "The article highlights instances where",
+            "Grok appears to exhibit an amplified",
+            "level of \u0027worship\u0027 towards Musk,",
+            "exceeding typical AI behavior.",
+            "Elon Musk\u0027s influence over his social",
+            "media platform X and its AI chatbot Grok",
+            "is evident, but recent observations",
+            "suggest Grok\u0027s deference to its creator",
+            "has become unusually pronounced."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-20T18:14:15.000Z",
+      "ranking": 6.676958449636146,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/825675/groks-elon-musk-worship-is-getting-weird"
+    },
+    {
+      "id": "347",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Image Glitch",
+      "mediumTitle": "AI Image Creator Removes Clothes",
+      "longTitle": "Google\u0027s Nano Banana Pro AI Image Creator Removes Clothes Unexpectedly",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google\u0027s new AI image creator, Nano",
+            "Banana Pro, powered by Gemini 3,",
+            "generated an image that removed the",
+            "user\u0027s clothes without being prompted.",
+            "The AI made a decision to de-robe the",
+            "user\u0027s avatar, suggesting a potential",
+            "issue with its interpretation of",
+            "prompts.",
+            "This behavior also points to a possible",
+            "flaw in the AI\u0027s underlying safety",
+            "protocols.",
+            "The author\u0027s experience indicates a",
+            "surprising and potentially concerning",
+            "behavior from the AI.",
+            "The core of the article highlights an",
+            "unexpected and unintended outcome of the",
+            "AI\u0027s image generation.",
+            "The AI took creative liberties that were",
+            "not requested by the user."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-20T18:09:06.000Z",
+      "ranking": 6.580920590792648,
+      "articleUrl": "https://www.theverge.com/news/825667/google-nano-banana-pro-test"
     },
     {
       "id": "339",
@@ -386,7 +421,7 @@
         }
       ],
       "publishedAt": "2025-11-20T14:00:00.000Z",
-      "ranking": 6.902378067285181,
+      "ranking": 6.51271827184344,
       "articleUrl": "https://www.theverge.com/news/825221/perplexity-comet-ai-browser-launch-android"
     },
     {
@@ -418,8 +453,42 @@
         }
       ],
       "publishedAt": "2025-11-20T15:42:47.000Z",
-      "ranking": 6.861087114707407,
+      "ranking": 6.4952285592287655,
       "articleUrl": "https://www.theverge.com/report/825332/google-gemini-3-pro-ai-hands-on-test"
+    },
+    {
+      "id": "348",
+      "topic": "Neural Nets",
+      "source": "The Verge AI",
+      "shortTitle": "AI Paste Upgrade",
+      "mediumTitle": "PowerToys Advanced Paste AI",
+      "longTitle": "PowerToys Advanced Paste gets on-device AI for privacy",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft is enhancing its Advanced",
+            "Paste tool within PowerToys for Windows",
+            "11 by integrating on-device AI",
+            "capabilities.",
+            "This upgrade, introduced with the 0.96",
+            "version of PowerToys, enables users to",
+            "process certain Advanced Paste features",
+            "using local AI models.",
+            "It represents a significant step forward",
+            "in making AI-driven features more",
+            "accessible, private, and performant for",
+            "everyday computing tasks.",
+            "By processing AI tasks locally,",
+            "sensitive data does not need to be sent",
+            "to external servers for processing,",
+            "offering greater control and security",
+            "over personal information."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-20T17:48:39.000Z",
+      "ranking": 6.392574430075984,
+      "articleUrl": "https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai"
     },
     {
       "id": "336",
@@ -454,8 +523,42 @@
         }
       ],
       "publishedAt": "2025-11-20T15:51:56.000Z",
-      "ranking": 6.599327334996209,
+      "ranking": 6.235587620373154,
       "articleUrl": "https://www.theverge.com/news/825510/nvidia-china-smuggling-ai-chips-h200"
+    },
+    {
+      "id": "335",
+      "topic": "Dev Tools",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT Group Chat",
+      "mediumTitle": "ChatGPT Group Chats Now Global",
+      "longTitle": "OpenAI Rolls Out Group Chat Feature for ChatGPT Globally",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI is making group chats a widely",
+            "available feature within ChatGPT,",
+            "enabling users to invite up to 20 other",
+            "individuals to participate in",
+            "conversations with the AI chatbot.",
+            "The core benefit highlighted is the",
+            "enhanced collaboration potential,",
+            "allowing multiple users to leverage",
+            "ChatGPT\u0027s intelligence in a shared",
+            "context.",
+            "This new functionality has been rolled",
+            "out globally to all logged-in users,",
+            "following a brief pilot program",
+            "conducted earlier in the month.",
+            "OpenAI\u0027s strategic move expands",
+            "ChatGPT\u0027s functionality beyond",
+            "individual interactions."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-20T15:58:11.000Z",
+      "ranking": 6.223142263354221,
+      "articleUrl": "https://www.theverge.com/news/825544/openai-chatgpt-group-chats-launch"
     },
     {
       "id": "330",
@@ -490,42 +593,8 @@
         }
       ],
       "publishedAt": "2025-11-20T15:00:00.000Z",
-      "ranking": 6.595448846249597,
+      "ranking": 6.219683076429196,
       "articleUrl": "https://venturebeat.com/ai/tomes-founders-ditch-viral-presentation-app-with-20m-users-to-build-ai"
-    },
-    {
-      "id": "335",
-      "topic": "Dev Tools",
-      "source": "The Verge AI",
-      "shortTitle": "ChatGPT Group Chat",
-      "mediumTitle": "ChatGPT Group Chats Now Global",
-      "longTitle": "OpenAI Rolls Out Group Chat Feature for ChatGPT Globally",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI is making group chats a widely",
-            "available feature within ChatGPT,",
-            "enabling users to invite up to 20 other",
-            "individuals to participate in",
-            "conversations with the AI chatbot.",
-            "The core benefit highlighted is the",
-            "enhanced collaboration potential,",
-            "allowing multiple users to leverage",
-            "ChatGPT\u0027s intelligence in a shared",
-            "context.",
-            "This new functionality has been rolled",
-            "out globally to all logged-in users,",
-            "following a brief pilot program",
-            "conducted earlier in the month.",
-            "OpenAI\u0027s strategic move expands",
-            "ChatGPT\u0027s functionality beyond",
-            "individual interactions."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-20T15:58:11.000Z",
-      "ranking": 6.585434678265922,
-      "articleUrl": "https://www.theverge.com/news/825544/openai-chatgpt-group-chats-launch"
     },
     {
       "id": "338",
@@ -561,7 +630,7 @@
         }
       ],
       "publishedAt": "2025-11-20T15:16:34.000Z",
-      "ranking": 6.540507573238381,
+      "ranking": 6.168578093046291,
       "articleUrl": "https://www.theverge.com/tech/825382/ai-music-streaming-deal-klay-umg-sony-warner"
     },
     {
@@ -594,7 +663,7 @@
         }
       ],
       "publishedAt": "2025-11-20T11:04:02.000Z",
-      "ranking": 6.079727950070309,
+      "ranking": 5.649320827057218,
       "articleUrl": "https://www.theverge.com/news/825036/openai-chatgpt-atlas-arc-vertical-tabs-update"
     },
     {
@@ -626,7 +695,7 @@
         }
       ],
       "publishedAt": "2025-11-20T13:31:49.000Z",
-      "ranking": 5.856789111197147,
+      "ranking": 5.4606036882639675,
       "articleUrl": "https://www.theverge.com/news/825052/amazon-prime-original-ai-video-recap-fallout-jack-ryan"
     },
     {
@@ -661,7 +730,7 @@
         }
       ],
       "publishedAt": "2025-11-20T12:40:00.000Z",
-      "ranking": 5.618714987320072,
+      "ranking": 5.210530551940582,
       "articleUrl": "https://www.theverge.com/report/825141/sunos-ceo-ai-text-prompt-really-active-music-creation"
     },
     {
@@ -694,7 +763,7 @@
         }
       ],
       "publishedAt": "2025-11-20T06:00:00.000Z",
-      "ranking": 5.506858330173312,
+      "ranking": 5.0060472253188895,
       "articleUrl": "https://venturebeat.com/ai/ai2s-olmo-3-family-challenges-qwen-and-llama-with-efficient-open-reasoning"
     },
     {
@@ -728,7 +797,7 @@
         }
       ],
       "publishedAt": "2025-11-19T18:15:16.000Z",
-      "ranking": 4.731289954464349,
+      "ranking": 4.067286095115483,
       "articleUrl": "https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue"
     },
     {
@@ -763,7 +832,7 @@
         }
       ],
       "publishedAt": "2025-11-19T18:57:00.000Z",
-      "ranking": 4.1196098415834035,
+      "ranking": 3.46527003073889,
       "articleUrl": "https://venturebeat.com/ai/the-google-search-of-ai-agents-fetch-launches-asi-one-and-business-tier-for"
     },
     {
@@ -798,7 +867,7 @@
         }
       ],
       "publishedAt": "2025-11-19T19:03:28.000Z",
-      "ranking": 4.017715273966999,
+      "ranking": 3.3648729251462113,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws"
     },
     {
@@ -834,7 +903,7 @@
         }
       ],
       "publishedAt": "2025-11-19T17:50:54.000Z",
-      "ranking": 3.923577682099446,
+      "ranking": 3.2539313117569373,
       "articleUrl": "https://www.theverge.com/news/823213/google-scholar-labs-ai-search"
     },
     {
@@ -870,7 +939,7 @@
         }
       ],
       "publishedAt": "2025-11-19T20:26:00.000Z",
-      "ranking": 3.1780469239243585,
+      "ranking": 2.5443165433140966,
       "articleUrl": "https://venturebeat.com/ai/openai-debuts-gpt-5-1-codex-max-coding-model-and-it-already-completed-a-24"
     },
     {
@@ -906,7 +975,7 @@
         }
       ],
       "publishedAt": "2025-11-19T09:06:49.000Z",
-      "ranking": 3.150362212812917,
+      "ranking": 2.359355606486174,
       "articleUrl": "https://www.theverge.com/news/823775/tiktok-ai-generated-content-controls-manage-topics"
     },
     {
@@ -942,7 +1011,7 @@
         }
       ],
       "publishedAt": "2025-11-19T11:12:20.000Z",
-      "ranking": 3.111209563837863,
+      "ranking": 2.3492684288359085,
       "articleUrl": "https://www.theverge.com/report/822151/ai-smart-pen-for-cheating-tests"
     },
     {
@@ -977,7 +1046,7 @@
         }
       ],
       "publishedAt": "2025-11-19T08:47:09.000Z",
-      "ranking": 2.0805872882683287,
+      "ranking": 1.2850265308688869,
       "articleUrl": "https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes"
     },
     {
@@ -1013,43 +1082,8 @@
         }
       ],
       "publishedAt": "2025-11-19T15:00:00.000Z",
-      "ranking": 1.8890399242093707,
+      "ranking": 1.1798188040931423,
       "articleUrl": "https://venturebeat.com/ai/opencv-founders-launch-ai-video-startup-to-take-on-openai-and-google"
-    },
-    {
-      "id": "316",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Grok 4.1 Launched",
-      "mediumTitle": "xAI\u0027s Grok 4.1 Enhances AI",
-      "longTitle": "xAI\u0027s Grok 4.1 Now Live, Boosting Emotional Intelligence and Safety",
-      "paragraphs": [
-        {
-          "Lines": [
-            "xAI\u0027s latest large language model, Grok",
-            "4.1, is now powering Grok across its web",
-            "platform (grok.com), X (formerly",
-            "Twitter), and its mobile consumer",
-            "applications.",
-            "This new iteration aims to enhance the",
-            "AI assistant\u0027s capabilities by focusing",
-            "on three key areas: higher emotional",
-            "intelligence, reduced hallucinations,",
-            "and stricter safety controls.",
-            "This implies that xAI has put in place",
-            "more robust measures to prevent the",
-            "generation of harmful, biased, or",
-            "inappropriate content, ensuring a safer",
-            "user experience.",
-            "The implementation of tighter safety",
-            "controls is another critical aspect of",
-            "Grok 4.1\u0027s release."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-19T00:21:15.000Z",
-      "ranking": 1.6117263659660486,
-      "articleUrl": "https://www.marktechpost.com/2025/11/18/xais-grok-4-1-pushes-toward-higher-emotional-intelligence-lower-hallucinations-and-tighter-safety-controls/"
     },
     {
       "id": "317",
@@ -1085,8 +1119,43 @@
         }
       ],
       "publishedAt": "2025-11-19T05:48:59.000Z",
-      "ranking": 1.5359356038386842,
+      "ranking": 0.6991174015219697,
       "articleUrl": "https://www.theverge.com/report/823725/vanlife-ai-travel-planner-google-zero"
+    },
+    {
+      "id": "316",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "Grok 4.1 Launched",
+      "mediumTitle": "xAI\u0027s Grok 4.1 Enhances AI",
+      "longTitle": "xAI\u0027s Grok 4.1 Now Live, Boosting Emotional Intelligence and Safety",
+      "paragraphs": [
+        {
+          "Lines": [
+            "xAI\u0027s latest large language model, Grok",
+            "4.1, is now powering Grok across its web",
+            "platform (grok.com), X (formerly",
+            "Twitter), and its mobile consumer",
+            "applications.",
+            "This new iteration aims to enhance the",
+            "AI assistant\u0027s capabilities by focusing",
+            "on three key areas: higher emotional",
+            "intelligence, reduced hallucinations,",
+            "and stricter safety controls.",
+            "This implies that xAI has put in place",
+            "more robust measures to prevent the",
+            "generation of harmful, biased, or",
+            "inappropriate content, ensuring a safer",
+            "user experience.",
+            "The implementation of tighter safety",
+            "controls is another critical aspect of",
+            "Grok 4.1\u0027s release."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-19T00:21:15.000Z",
+      "ranking": 0.6990160274467874,
+      "articleUrl": "https://www.marktechpost.com/2025/11/18/xais-grok-4-1-pushes-toward-higher-emotional-intelligence-lower-hallucinations-and-tighter-safety-controls/"
     },
     {
       "id": "325",
@@ -1120,7 +1189,7 @@
         }
       ],
       "publishedAt": "2025-11-19T01:00:00.000Z",
-      "ranking": 1.4761300056813003,
+      "ranking": 0.5723928840319648,
       "articleUrl": "https://venturebeat.com/ai/metas-dreamgym-framework-trains-ai-agents-in-a-simulated-world-to-cut"
     },
     {
@@ -1153,7 +1222,7 @@
         }
       ],
       "publishedAt": "2025-11-19T00:35:45.000Z",
-      "ranking": 1.1493635889222427,
+      "ranking": 0.24001097532460314,
       "articleUrl": "https://www.marktechpost.com/2025/11/18/how-to-build-an-agentic-deep-reinforcement-learning-system-with-curriculum-progression-adaptive-exploration-and-meta-level-ucb-planning/"
     },
     {
@@ -1190,7 +1259,7 @@
         }
       ],
       "publishedAt": "2025-11-19T06:00:00.000Z",
-      "ranking": 0.9919539023585875,
+      "ranking": 0.15768678111158163,
       "articleUrl": "https://venturebeat.com/ai/venturebeat-launches-beyond-the-pilot-a-new-podcast-series-exploring-how"
     },
     {
@@ -1225,39 +1294,8 @@
         }
       ],
       "publishedAt": "2025-11-18T22:25:59.000Z",
-      "ranking": 0.9263049823077303,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/823711/cloudflare-outage-postmortem"
-    },
-    {
-      "id": "312",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Gemini 3 Pro",
-      "mediumTitle": "Google\u0027s Gemini 3 Pro AI",
-      "longTitle": "Google Unveils Gemini 3 Pro with 1 Million Token Context",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The ability to process a 1 million token",
-            "context window is a substantial leap,",
-            "enabling the model to ingest and analyze",
-            "significantly more information than",
-            "previous generations.",
-            "This approach allows Gemini 3 Pro to",
-            "efficiently process and reason over an",
-            "exceptionally large context window of up",
-            "to 1 million tokens.",
-            "Google has introduced its Gemini 3",
-            "family of models, with Gemini 3 Pro at",
-            "its core, representing a significant",
-            "advancement towards more generalized",
-            "artificial intelligence."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T20:12:35.000Z",
-      "ranking": 0.44454285197631105,
-      "articleUrl": "https://www.marktechpost.com/2025/11/18/googles-gemini-3-pro-turns-sparse-moe-and-1m-token-context-into-a-practical-engine-for-multimodal-agentic-workloads/"
     },
     {
       "id": "326",
@@ -1329,6 +1367,37 @@
       "publishedAt": "2025-11-18T21:03:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and"
+    },
+    {
+      "id": "312",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Gemini 3 Pro",
+      "mediumTitle": "Google\u0027s Gemini 3 Pro AI",
+      "longTitle": "Google Unveils Gemini 3 Pro with 1 Million Token Context",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The ability to process a 1 million token",
+            "context window is a substantial leap,",
+            "enabling the model to ingest and analyze",
+            "significantly more information than",
+            "previous generations.",
+            "This approach allows Gemini 3 Pro to",
+            "efficiently process and reason over an",
+            "exceptionally large context window of up",
+            "to 1 million tokens.",
+            "Google has introduced its Gemini 3",
+            "family of models, with Gemini 3 Pro at",
+            "its core, representing a significant",
+            "advancement towards more generalized",
+            "artificial intelligence."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T20:12:35.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.marktechpost.com/2025/11/18/googles-gemini-3-pro-turns-sparse-moe-and-1m-token-context-into-a-practical-engine-for-multimodal-agentic-workloads/"
     },
     {
       "id": "314",
@@ -1569,77 +1638,6 @@
       "publishedAt": "2025-11-18T14:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/823136/senator-elizabeth-warren-openai-trump-bailout"
-    },
-    {
-      "id": "304",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Windows",
-      "mediumTitle": "Windows Evolves into Agentic OS",
-      "longTitle": "Microsoft\u0027s Vision: Windows as an Agentic OS with AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft is embarking on a significant",
-            "transformation of Windows, aiming to",
-            "evolve it into an \u0027agentic OS\u0027 with AI",
-            "agents deeply integrated into the user",
-            "experience.",
-            "By transforming Windows into an \u0027agentic",
-            "OS,\u0027 Microsoft is positioning itself to",
-            "offer a more intelligent, proactive, and",
-            "efficient computing experience, where AI",
-            "agents act as extensions of the user\u0027s",
-            "will, directly influencing and managing",
-            "the digital environment.",
-            "The core idea is to imbue these AI",
-            "agents with the ability to act as",
-            "personal assistants within the operating",
-            "system, capable of independently",
-            "controlling the PC and executing tasks",
-            "at the user\u0027s command."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T12:00:34.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration"
-    },
-    {
-      "id": "308",
-      "topic": "Large Models",
-      "source": "The Verge AI",
-      "shortTitle": "Gemini 3 Launch",
-      "mediumTitle": "Google Launches Gemini 3 AI",
-      "longTitle": "Google Unveils Gemini 3 AI Series, Aiming for Market Leadership",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has launched Gemini 3, a new",
-            "series of AI models that the company",
-            "states are its most intelligent and",
-            "factually accurate to date.",
-            "This launch is a strategic move by",
-            "Google to potentially outpace OpenAI,",
-            "especially following recent challenges",
-            "with GPT-5\u0027s launch.",
-            "The emphasis is on advancements in",
-            "intelligence and factual accuracy,",
-            "suggesting improved reasoning and",
-            "generation of truthful information.",
-            "The AI models are designed to be more",
-            "capable and reliable than their",
-            "predecessors.",
-            "In essence, Google\u0027s Gemini 3 launch is",
-            "positioned as a significant step forward",
-            "in AI development, aiming for enhanced",
-            "intelligence and accuracy."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T12:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/822977/gemini-3-google-ai-model-launch"
     }
   ]
 }
