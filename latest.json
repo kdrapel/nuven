@@ -1,109 +1,6 @@
 {
   "articles": [
     {
-      "id": "350",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "AI2 Releases Olmo 3",
-      "mediumTitle": "AI2 Unveils Transparent Olmo 3 LLMs",
-      "longTitle": "AI2 Releases Olmo 3: Open-Source LLMs with Full Model Flow Transparency",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This release is notable for its",
-            "comprehensive transparency, providing",
-            "access to the entire \u0027model flow,\u0027 which",
-            "encompasses everything from the raw data",
-            "and code used for training to",
-            "intermediate checkpoints and",
-            "ready-to-deploy versions of the models.",
-            "AI2\u0027s release of Olmo 3 positions it as",
-            "a significant contribution to the",
-            "open-source AI landscape, providing",
-            "powerful and transparent LLM tools for",
-            "the global research and development",
-            "community.",
-            "The Allen Institute for AI (AI2) has",
-            "announced the release of Olmo 3, a new",
-            "family of open-source Large Language",
-            "Models (LLMs)."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-21T04:07:15.000Z",
-      "ranking": 8.46923076923077,
-      "articleUrl": "https://www.marktechpost.com/2025/11/20/allen-institute-for-ai-ai2-introduces-olmo-3-an-open-source-7b-and-32b-llm-family-built-on-the-dolma-3-and-dolci-stack/"
-    },
-    {
-      "id": "353",
-      "topic": "Hardware",
-      "source": "The Verge AI",
-      "shortTitle": "AZ Chip Boom",
-      "mediumTitle": "Arizona\u0027s Semiconductor Transformation",
-      "longTitle": "Arizona\u0027s Economic Shift: From \u0027Five C\u0027s\u0027 to Chip Manufacturing",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Arizona is undergoing a significant",
-            "economic transformation, shifting from",
-            "its traditional industries like cotton,",
-            "cattle, citrus, copper, and climate to",
-            "embrace semiconductor manufacturing, or",
-            "\u0027chips,\u0027 as a new dominant force.",
-            "Major global chip manufacturers like",
-            "Intel are expanding operations with",
-            "substantial investments in new",
-            "fabrication plants, while TSMC is",
-            "constructing two advanced fabs in North",
-            "Phoenix.",
-            "The impact of these investments extends",
-            "far beyond factory construction,",
-            "creating a robust semiconductor",
-            "ecosystem that includes direct",
-            "manufacturing jobs and a ripple effect",
-            "on related industries and services."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-21T08:00:00.000Z",
-      "ranking": 8.296153846153848,
-      "articleUrl": "https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley"
-    },
-    {
-      "id": "352",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Gemini AI Fails",
-      "mediumTitle": "Gemini AI\u0027s Content Moderation Failures",
-      "longTitle": "Google\u0027s Gemini AI Generates Harmful Conspiracy Images",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google\u0027s Gemini app, internally referred",
-            "to as \u0027Nano Banana Pro,\u0027 has shown a",
-            "significant weakness in content",
-            "moderation, easily creating images for",
-            "harmful conspiracy theories.",
-            "Serious questions are raised about the",
-            "responsibility of AI developers like",
-            "Google in preventing their tools from",
-            "being weaponized for spreading",
-            "conspiracy theories.",
-            "Furthermore, the AI complied with a",
-            "prompt for \u0027Mickey Mouse flying a plane",
-            "into the Twin Towers,\u0027 evoking 9/11",
-            "imagery.",
-            "This ease of generation indicates that",
-            "the AI\u0027s safety filters are either",
-            "inadequate or easily circumvented."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-21T06:45:32.000Z",
-      "ranking": 8.26,
-      "articleUrl": "https://www.theverge.com/report/826003/googles-nano-banana-pro-generates-excellent-conspiracy-fuel"
-    },
-    {
       "id": "358",
       "topic": "Business",
       "source": "The Verge AI",
@@ -206,6 +103,41 @@
       "articleUrl": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026"
     },
     {
+      "id": "360",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Google AI Training",
+      "mediumTitle": "Google Denies Gmail AI Training Reports",
+      "longTitle": "Google Refutes Claims of Using Gmail Content for AI Training",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has vehemently denied reports",
+            "circulating on social media and in some",
+            "articles, notably one by Malwarebytes,",
+            "that claim the company has altered its",
+            "policy to use Gmail messages and",
+            "attachments for training AI models.",
+            "The company maintains that it does not",
+            "use the content of users\u0027 private Gmail",
+            "communications, such as emails and",
+            "attachments, to train its AI models.",
+            "Google emphasizes that any AI training",
+            "conducted by the company adheres to",
+            "strict privacy protocols and does not",
+            "involve the direct content of personal",
+            "user emails.",
+            "According to Thomson, Google\u0027s stance on",
+            "using user data for AI training has not",
+            "changed."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-21T20:04:21.000Z",
+      "ranking": 7.7700000000000005,
+      "articleUrl": "https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out"
+    },
+    {
       "id": "354",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -276,6 +208,109 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/825498/openai-sora-video-slop-nostalgia-mister-rogers"
     },
     {
+      "id": "353",
+      "topic": "Hardware",
+      "source": "The Verge AI",
+      "shortTitle": "AZ Chip Boom",
+      "mediumTitle": "Arizona\u0027s Semiconductor Transformation",
+      "longTitle": "Arizona\u0027s Economic Shift: From \u0027Five C\u0027s\u0027 to Chip Manufacturing",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Arizona is undergoing a significant",
+            "economic transformation, shifting from",
+            "its traditional industries like cotton,",
+            "cattle, citrus, copper, and climate to",
+            "embrace semiconductor manufacturing, or",
+            "\u0027chips,\u0027 as a new dominant force.",
+            "Major global chip manufacturers like",
+            "Intel are expanding operations with",
+            "substantial investments in new",
+            "fabrication plants, while TSMC is",
+            "constructing two advanced fabs in North",
+            "Phoenix.",
+            "The impact of these investments extends",
+            "far beyond factory construction,",
+            "creating a robust semiconductor",
+            "ecosystem that includes direct",
+            "manufacturing jobs and a ripple effect",
+            "on related industries and services."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-21T08:00:00.000Z",
+      "ranking": 7.292617849906294,
+      "articleUrl": "https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley"
+    },
+    {
+      "id": "352",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini AI Fails",
+      "mediumTitle": "Gemini AI\u0027s Content Moderation Failures",
+      "longTitle": "Google\u0027s Gemini AI Generates Harmful Conspiracy Images",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google\u0027s Gemini app, internally referred",
+            "to as \u0027Nano Banana Pro,\u0027 has shown a",
+            "significant weakness in content",
+            "moderation, easily creating images for",
+            "harmful conspiracy theories.",
+            "Serious questions are raised about the",
+            "responsibility of AI developers like",
+            "Google in preventing their tools from",
+            "being weaponized for spreading",
+            "conspiracy theories.",
+            "Furthermore, the AI complied with a",
+            "prompt for \u0027Mickey Mouse flying a plane",
+            "into the Twin Towers,\u0027 evoking 9/11",
+            "imagery.",
+            "This ease of generation indicates that",
+            "the AI\u0027s safety filters are either",
+            "inadequate or easily circumvented."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-21T06:45:32.000Z",
+      "ranking": 7.15018114707434,
+      "articleUrl": "https://www.theverge.com/report/826003/googles-nano-banana-pro-generates-excellent-conspiracy-fuel"
+    },
+    {
+      "id": "350",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "AI2 Releases Olmo 3",
+      "mediumTitle": "AI2 Unveils Transparent Olmo 3 LLMs",
+      "longTitle": "AI2 Releases Olmo 3: Open-Source LLMs with Full Model Flow Transparency",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This release is notable for its",
+            "comprehensive transparency, providing",
+            "access to the entire \u0027model flow,\u0027 which",
+            "encompasses everything from the raw data",
+            "and code used for training to",
+            "intermediate checkpoints and",
+            "ready-to-deploy versions of the models.",
+            "AI2\u0027s release of Olmo 3 positions it as",
+            "a significant contribution to the",
+            "open-source AI landscape, providing",
+            "powerful and transparent LLM tools for",
+            "the global research and development",
+            "community.",
+            "The Allen Institute for AI (AI2) has",
+            "announced the release of Olmo 3, a new",
+            "family of open-source Large Language",
+            "Models (LLMs)."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-21T04:07:15.000Z",
+      "ranking": 7.115734963800044,
+      "articleUrl": "https://www.marktechpost.com/2025/11/20/allen-institute-for-ai-ai2-introduces-olmo-3-an-open-source-7b-and-32b-llm-family-built-on-the-dolma-3-and-dolci-stack/"
+    },
+    {
       "id": "356",
       "topic": "Neural Nets",
       "source": "VentureBeat AI",
@@ -308,8 +343,40 @@
         }
       ],
       "publishedAt": "2025-11-21T01:00:00.000Z",
-      "ranking": 6.8839972477253895,
+      "ranking": 6.480876943095284,
       "articleUrl": "https://venturebeat.com/ai/googles-nested-learning-paradigm-could-solve-ais-memory-and-continual"
+    },
+    {
+      "id": "355",
+      "topic": "AI Ops",
+      "source": "VentureBeat AI",
+      "shortTitle": "Salesforce AI Insight",
+      "mediumTitle": "Salesforce Agentforce Observability",
+      "longTitle": "Salesforce Launches Agentforce Observability for AI Agent Transparency",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Salesforce has launched Agentforce",
+            "Observability, a suite of monitoring",
+            "tools designed to address the critical",
+            "challenge of understanding how AI agents",
+            "make decisions in real-time customer",
+            "interactions.",
+            "This new capability, integrated into",
+            "Salesforce\u0027s Agentforce 360 Platform,",
+            "provides granular visibility into every",
+            "action, reasoning step, and guardrail",
+            "triggered by AI agents.",
+            "The move aims to alleviate executive",
+            "wariness surrounding autonomous AI",
+            "systems, which promise efficiency gains",
+            "but often lack transparency and control."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-21T11:00:00.000Z",
+      "ranking": 6.205,
+      "articleUrl": "https://venturebeat.com/ai/salesforce-agentforce-observability-lets-you-watch-your-ai-agents-think-in"
     },
     {
       "id": "345",
@@ -344,7 +411,7 @@
         }
       ],
       "publishedAt": "2025-11-21T00:57:00.000Z",
-      "ranking": 6.492118095444832,
+      "ranking": 6.0883038017603335,
       "articleUrl": "https://venturebeat.com/ai/grok-4-1-fasts-compelling-dev-access-and-agent-tools-api-overshadowed-by"
     },
     {
@@ -381,40 +448,8 @@
         }
       ],
       "publishedAt": "2025-11-20T21:20:00.000Z",
-      "ranking": 6.310105936519276,
+      "ranking": 5.856093100192161,
       "articleUrl": "https://venturebeat.com/ai/googles-upgraded-nano-banana-pro-ai-image-model-hailed-as-absolutely-bonkers"
-    },
-    {
-      "id": "355",
-      "topic": "AI Ops",
-      "source": "VentureBeat AI",
-      "shortTitle": "Salesforce AI Insight",
-      "mediumTitle": "Salesforce Agentforce Observability",
-      "longTitle": "Salesforce Launches Agentforce Observability for AI Agent Transparency",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Salesforce has launched Agentforce",
-            "Observability, a suite of monitoring",
-            "tools designed to address the critical",
-            "challenge of understanding how AI agents",
-            "make decisions in real-time customer",
-            "interactions.",
-            "This new capability, integrated into",
-            "Salesforce\u0027s Agentforce 360 Platform,",
-            "provides granular visibility into every",
-            "action, reasoning step, and guardrail",
-            "triggered by AI agents.",
-            "The move aims to alleviate executive",
-            "wariness surrounding autonomous AI",
-            "systems, which promise efficiency gains",
-            "but often lack transparency and control."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-21T11:00:00.000Z",
-      "ranking": 6.205,
-      "articleUrl": "https://venturebeat.com/ai/salesforce-agentforce-observability-lets-you-watch-your-ai-agents-think-in"
     },
     {
       "id": "332",
@@ -449,7 +484,7 @@
         }
       ],
       "publishedAt": "2025-11-20T18:35:00.000Z",
-      "ranking": 6.139436943601985,
+      "ranking": 5.647254711764129,
       "articleUrl": "https://venturebeat.com/ai/scaleops-new-ai-infra-product-slashes-gpu-costs-for-self-hosted-enterprise"
     },
     {
@@ -484,7 +519,7 @@
         }
       ],
       "publishedAt": "2025-11-20T13:00:00.000Z",
-      "ranking": 5.936608663273152,
+      "ranking": 5.366930982900332,
       "articleUrl": "https://www.theverge.com/news/825008/googles-gemini-is-now-on-android-auto"
     },
     {
@@ -520,7 +555,7 @@
         }
       ],
       "publishedAt": "2025-11-20T18:14:15.000Z",
-      "ranking": 5.849048161825128,
+      "ranking": 5.352065837558614,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/825675/groks-elon-musk-worship-is-getting-weird"
     },
     {
@@ -556,7 +591,7 @@
         }
       ],
       "publishedAt": "2025-11-20T18:09:06.000Z",
-      "ranking": 5.750626296260316,
+      "ranking": 5.2524526237985345,
       "articleUrl": "https://www.theverge.com/news/825667/google-nano-banana-pro-test"
     },
     {
@@ -588,8 +623,42 @@
         }
       ],
       "publishedAt": "2025-11-20T15:42:47.000Z",
-      "ranking": 5.5972022812294995,
+      "ranking": 5.065181218213567,
       "articleUrl": "https://www.theverge.com/report/825332/google-gemini-3-pro-ai-hands-on-test"
+    },
+    {
+      "id": "348",
+      "topic": "Neural Nets",
+      "source": "The Verge AI",
+      "shortTitle": "AI Paste Upgrade",
+      "mediumTitle": "PowerToys Advanced Paste AI",
+      "longTitle": "PowerToys Advanced Paste gets on-device AI for privacy",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft is enhancing its Advanced",
+            "Paste tool within PowerToys for Windows",
+            "11 by integrating on-device AI",
+            "capabilities.",
+            "This upgrade, introduced with the 0.96",
+            "version of PowerToys, enables users to",
+            "process certain Advanced Paste features",
+            "using local AI models.",
+            "It represents a significant step forward",
+            "in making AI-driven features more",
+            "accessible, private, and performant for",
+            "everyday computing tasks.",
+            "By processing AI tasks locally,",
+            "sensitive data does not need to be sent",
+            "to external servers for processing,",
+            "offering greater control and security",
+            "over personal information."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-20T17:48:39.000Z",
+      "ranking": 5.049909187383943,
+      "articleUrl": "https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai"
     },
     {
       "id": "339",
@@ -624,42 +693,8 @@
         }
       ],
       "publishedAt": "2025-11-20T14:00:00.000Z",
-      "ranking": 5.567112174028578,
+      "ranking": 5.011314269302777,
       "articleUrl": "https://www.theverge.com/news/825221/perplexity-comet-ai-browser-launch-android"
-    },
-    {
-      "id": "348",
-      "topic": "Neural Nets",
-      "source": "The Verge AI",
-      "shortTitle": "AI Paste Upgrade",
-      "mediumTitle": "PowerToys Advanced Paste AI",
-      "longTitle": "PowerToys Advanced Paste gets on-device AI for privacy",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft is enhancing its Advanced",
-            "Paste tool within PowerToys for Windows",
-            "11 by integrating on-device AI",
-            "capabilities.",
-            "This upgrade, introduced with the 0.96",
-            "version of PowerToys, enables users to",
-            "process certain Advanced Paste features",
-            "using local AI models.",
-            "It represents a significant step forward",
-            "in making AI-driven features more",
-            "accessible, private, and performant for",
-            "everyday computing tasks.",
-            "By processing AI tasks locally,",
-            "sensitive data does not need to be sent",
-            "to external servers for processing,",
-            "offering greater control and security",
-            "over personal information."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-20T17:48:39.000Z",
-      "ranking": 5.552813548896728,
-      "articleUrl": "https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai"
     },
     {
       "id": "336",
@@ -694,7 +729,7 @@
         }
       ],
       "publishedAt": "2025-11-20T15:51:56.000Z",
-      "ranking": 5.341796997212171,
+      "ranking": 4.811892599785734,
       "articleUrl": "https://www.theverge.com/news/825510/nvidia-china-smuggling-ai-chips-h200"
     },
     {
@@ -728,7 +763,7 @@
         }
       ],
       "publishedAt": "2025-11-20T15:58:11.000Z",
-      "ranking": 5.332244849860604,
+      "ranking": 4.803786263044088,
       "articleUrl": "https://www.theverge.com/news/825544/openai-chatgpt-group-chats-launch"
     },
     {
@@ -764,7 +799,7 @@
         }
       ],
       "publishedAt": "2025-11-20T15:00:00.000Z",
-      "ranking": 5.301851801608727,
+      "ranking": 4.759933681858126,
       "articleUrl": "https://venturebeat.com/ai/tomes-founders-ditch-viral-presentation-app-with-20m-users-to-build-ai"
     },
     {
@@ -801,7 +836,7 @@
         }
       ],
       "publishedAt": "2025-11-20T15:16:34.000Z",
-      "ranking": 5.258415763113374,
+      "ranking": 4.720330004700247,
       "articleUrl": "https://www.theverge.com/tech/825382/ai-music-streaming-deal-klay-umg-sony-warner"
     },
     {
@@ -834,7 +869,7 @@
         }
       ],
       "publishedAt": "2025-11-20T11:04:02.000Z",
-      "ranking": 4.6222573649881555,
+      "ranking": 4.025753149296639,
       "articleUrl": "https://www.theverge.com/news/825036/openai-chatgpt-atlas-arc-vertical-tabs-update"
     },
     {
@@ -866,7 +901,7 @@
         }
       ],
       "publishedAt": "2025-11-20T13:31:49.000Z",
-      "ranking": 4.501951151433236,
+      "ranking": 3.939633608113554,
       "articleUrl": "https://www.theverge.com/news/825052/amazon-prime-original-ai-video-recap-fallout-jack-ryan"
     },
     {
@@ -901,7 +936,7 @@
         }
       ],
       "publishedAt": "2025-11-20T12:40:00.000Z",
-      "ranking": 4.227891370215261,
+      "ranking": 3.6535870840100912,
       "articleUrl": "https://www.theverge.com/report/825141/sunos-ceo-ai-text-prompt-really-active-music-creation"
     },
     {
@@ -934,7 +969,7 @@
         }
       ],
       "publishedAt": "2025-11-20T06:00:00.000Z",
-      "ranking": 3.838242574546576,
+      "ranking": 3.171406403499642,
       "articleUrl": "https://venturebeat.com/ai/ai2s-olmo-3-family-challenges-qwen-and-llama-with-efficient-open-reasoning"
     },
     {
@@ -968,7 +1003,7 @@
         }
       ],
       "publishedAt": "2025-11-19T18:15:16.000Z",
-      "ranking": 2.573250749957306,
+      "ranking": 1.7433888274106337,
       "articleUrl": "https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue"
     },
     {
@@ -1003,7 +1038,7 @@
         }
       ],
       "publishedAt": "2025-11-19T18:57:00.000Z",
-      "ranking": 1.990553613099328,
+      "ranking": 1.1703458454051994,
       "articleUrl": "https://venturebeat.com/ai/the-google-search-of-ai-agents-fetch-launches-asi-one-and-business-tier-for"
     },
     {
@@ -1038,7 +1073,7 @@
         }
       ],
       "publishedAt": "2025-11-19T19:03:28.000Z",
-      "ranking": 1.8931500116956137,
+      "ranking": 1.0744381803344165,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws"
     },
     {
@@ -1074,7 +1109,7 @@
         }
       ],
       "publishedAt": "2025-11-19T17:50:54.000Z",
-      "ranking": 1.7486162956143136,
+      "ranking": 0.9131176385404824,
       "articleUrl": "https://www.theverge.com/news/823213/google-scholar-labs-ai-search"
     },
     {
@@ -1110,80 +1145,8 @@
         }
       ],
       "publishedAt": "2025-11-19T20:26:00.000Z",
-      "ranking": 1.1107994368039682,
+      "ranking": 0.3111800159225657,
       "articleUrl": "https://venturebeat.com/ai/openai-debuts-gpt-5-1-codex-max-coding-model-and-it-already-completed-a-24"
-    },
-    {
-      "id": "323",
-      "topic": "Education",
-      "source": "The Verge AI",
-      "shortTitle": "AI Pen Cheating",
-      "mediumTitle": "AI Pen Aids Cheating on Physical Tests",
-      "longTitle": "New AI Pen Emerges to Facilitate Cheating on Physical Exams",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A new physical gadget, an \u0027AI pen,\u0027 has",
-            "gone viral and is being marketed as a",
-            "tool to help students cheat on physical,",
-            "hardcopy tests.",
-            "This new technology represents a",
-            "significant and concerning development",
-            "in the ongoing arms race between",
-            "academic institutions and students",
-            "seeking to gain an unfair advantage.",
-            "While AI like ChatGPT can be used to",
-            "generate answers for digital",
-            "assignments, this physical pen aims to",
-            "tackle the problem of cheating in a more",
-            "tangible, in-person testing environment.",
-            "This comes at a time when physical tests",
-            "are making a comeback in higher",
-            "education as institutions grapple with",
-            "the widespread use of AI tools like",
-            "ChatGPT."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-19T11:12:20.000Z",
-      "ranking": 0.6594514651821655,
-      "articleUrl": "https://www.theverge.com/report/822151/ai-smart-pen-for-cheating-tests"
-    },
-    {
-      "id": "319",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "TikTok AI Control",
-      "mediumTitle": "TikTok Lets Users Control AI Content",
-      "longTitle": "TikTok Introduces AI Content Control Slider and Watermarks",
-      "paragraphs": [
-        {
-          "Lines": [
-            "TikTok is introducing a new feature that",
-            "empowers users to control the amount of",
-            "AI-generated content they encounter on",
-            "the platform.",
-            "To enhance the accuracy and",
-            "effectiveness of this new filter, TikTok",
-            "will also begin implementing invisible",
-            "watermarks on AI-generated content.",
-            "This innovative control, currently in",
-            "testing, will allow individuals to",
-            "adjust a slider to determine their",
-            "preferred level of AI-driven videos in",
-            "their personalized feed.",
-            "The introduction of invisible watermarks",
-            "is a crucial step in this process,",
-            "ensuring that the AI content filter can",
-            "operate with greater precision and that",
-            "users can make informed decisions about",
-            "the content they consume."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-19T09:06:49.000Z",
-      "ranking": 0.611435241765867,
-      "articleUrl": "https://www.theverge.com/news/823775/tiktok-ai-generated-content-controls-manage-topics"
     },
     {
       "id": "318",
@@ -1220,6 +1183,78 @@
       "publishedAt": "2025-11-19T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/opencv-founders-launch-ai-video-startup-to-take-on-openai-and-google"
+    },
+    {
+      "id": "323",
+      "topic": "Education",
+      "source": "The Verge AI",
+      "shortTitle": "AI Pen Cheating",
+      "mediumTitle": "AI Pen Aids Cheating on Physical Tests",
+      "longTitle": "New AI Pen Emerges to Facilitate Cheating on Physical Exams",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A new physical gadget, an \u0027AI pen,\u0027 has",
+            "gone viral and is being marketed as a",
+            "tool to help students cheat on physical,",
+            "hardcopy tests.",
+            "This new technology represents a",
+            "significant and concerning development",
+            "in the ongoing arms race between",
+            "academic institutions and students",
+            "seeking to gain an unfair advantage.",
+            "While AI like ChatGPT can be used to",
+            "generate answers for digital",
+            "assignments, this physical pen aims to",
+            "tackle the problem of cheating in a more",
+            "tangible, in-person testing environment.",
+            "This comes at a time when physical tests",
+            "are making a comeback in higher",
+            "education as institutions grapple with",
+            "the widespread use of AI tools like",
+            "ChatGPT."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-19T11:12:20.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/report/822151/ai-smart-pen-for-cheating-tests"
+    },
+    {
+      "id": "319",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "TikTok AI Control",
+      "mediumTitle": "TikTok Lets Users Control AI Content",
+      "longTitle": "TikTok Introduces AI Content Control Slider and Watermarks",
+      "paragraphs": [
+        {
+          "Lines": [
+            "TikTok is introducing a new feature that",
+            "empowers users to control the amount of",
+            "AI-generated content they encounter on",
+            "the platform.",
+            "To enhance the accuracy and",
+            "effectiveness of this new filter, TikTok",
+            "will also begin implementing invisible",
+            "watermarks on AI-generated content.",
+            "This innovative control, currently in",
+            "testing, will allow individuals to",
+            "adjust a slider to determine their",
+            "preferred level of AI-driven videos in",
+            "their personalized feed.",
+            "The introduction of invisible watermarks",
+            "is a crucial step in this process,",
+            "ensuring that the AI content filter can",
+            "operate with greater precision and that",
+            "users can make informed decisions about",
+            "the content they consume."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-19T09:06:49.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/823775/tiktok-ai-generated-content-controls-manage-topics"
     },
     {
       "id": "320",
@@ -1601,37 +1636,6 @@
       "publishedAt": "2025-11-18T19:45:52.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/policy/823650/ai-moratorium-house-gop-scalise"
-    },
-    {
-      "id": "299",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Writer Agent Launch",
-      "mediumTitle": "Writer Agent: AI for Enterprise Workflows",
-      "longTitle": "Writer Launches AI Platform for Enterprise Workflow Automation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Unlike consumer-focused tools like",
-            "ChatGPT and Microsoft Copilot, Writer",
-            "Agent enables employees to automate",
-            "complex business workflows without",
-            "coding.",
-            "Writer, an AI startup, has launched",
-            "Writer Agent, a unified AI platform",
-            "designed for enterprise use.",
-            "While other AI tools are primarily",
-            "geared towards personal productivity,",
-            "Writer Agent is built from the ground up",
-            "for the security, compliance, and",
-            "governance needs of large, regulated",
-            "organizations."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T17:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/writers-ai-agents-can-actually-do-your-work-not-just-chat-about-it"
     }
   ]
 }
