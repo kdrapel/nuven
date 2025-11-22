@@ -34,39 +34,39 @@
       "articleUrl": "https://www.theverge.com/column/826172/ai-startup-arr-numbers-sierra-bret-taylor"
     },
     {
-      "id": "349",
-      "topic": "Large Models",
+      "id": "361",
+      "topic": "Generative AI",
       "source": "Marktechpost AI",
-      "shortTitle": "Opik LLM Tutorial",
-      "mediumTitle": "Traceable LLM Pipeline with Opik",
-      "longTitle": "Implementing a Fully Traced and Evaluated Local LLM Pipeline with Opik",
+      "shortTitle": "Nano Banana Pro",
+      "mediumTitle": "Google DeepMind\u0027s Nano Banana Pro",
+      "longTitle": "Google DeepMind Unveils Advanced Image Model Nano Banana Pro",
       "paragraphs": [
         {
           "Lines": [
-            "This article provides a tutorial on",
-            "building a transparent, measurable, and",
-            "reproducible local Large Language Model",
-            "(LLM) pipeline using the Opik tool.",
-            "Opik\u0027s tracing capabilities enable users",
-            "to monitor every function span,",
-            "recording not only LLM calls but also",
-            "intermediate steps, data",
-            "transformations, and planning logic.",
-            "As each functional component or \u0027span\u0027",
-            "of the workflow is developed, Opik is",
-            "used to track its execution, allowing",
-            "for a comprehensive understanding of",
-            "data flow and contributions.",
-            "The goal is to achieve transparent,",
-            "measurable, and reproducible AI",
-            "workflows by implementing a fully traced",
-            "and evaluated local LLM pipeline."
+            "Google DeepMind has unveiled Nano Banana",
+            "Pro, also known as Gemini 3 Pro Image, a",
+            "new advanced image generation and",
+            "editing model.",
+            "This model is built upon the foundation",
+            "of Gemini 3 Pro and is designed to excel",
+            "at producing visuals that accurately",
+            "adhere to structural integrity,",
+            "real-world knowledge, and precise text",
+            "layouts, in addition to stylistic",
+            "considerations.",
+            "Nano Banana Pro represents a significant",
+            "advancement in AI-powered image",
+            "creation, aiming to deliver studio-grade",
+            "quality and reliability in its outputs.",
+            "This new model is positioned to set a",
+            "new standard for text-accurate and",
+            "high-quality visual content creation."
           ]
         }
       ],
-      "publishedAt": "2025-11-21T09:47:10.000Z",
-      "ranking": 8.166666666666668,
-      "articleUrl": "https://www.marktechpost.com/2025/11/21/an-implementation-of-fully-traced-and-evaluated-local-llm-pipeline-using-opik-for-transparent-measurable-and-reproducible-ai-workflows/"
+      "publishedAt": "2025-11-22T08:34:27.000Z",
+      "ranking": 8,
+      "articleUrl": "https://www.marktechpost.com/2025/11/21/google-deepmind-introduces-nano-banana-pro-the-gemini-3-pro-image-model-for-text-accurate-and-studio-grade-visuals/"
     },
     {
       "id": "359",
@@ -138,40 +138,6 @@
       "articleUrl": "https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out"
     },
     {
-      "id": "354",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "LLM on GPUs",
-      "mediumTitle": "Perplexity AI\u0027s Open-Source LLM Engine",
-      "longTitle": "Perplexity AI\u0027s TransferEngine enables trillion-parameter LLMs on existing GPUs",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Perplexity AI\u0027s research team has",
-            "introduced TransferEngine and the",
-            "accompanying pplx garden toolkit,",
-            "open-source infrastructure designed to",
-            "enable the execution of",
-            "trillion-parameter Large Language Models",
-            "(LLMs) on existing, mixed GPU clusters.",
-            "This development aims to circumvent the",
-            "need for expensive new hardware",
-            "acquisitions and avoid deep vendor",
-            "lock-in for teams working with these",
-            "massive models.",
-            "Instead of requiring significant capital",
-            "investment in new hardware, companies",
-            "can potentially utilize their existing",
-            "mixed GPU environments to run models of",
-            "unprecedented scale."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-21T11:56:20.000Z",
-      "ranking": 7.7555555555555555,
-      "articleUrl": "https://www.marktechpost.com/2025/11/21/perplexity-ai-releases-transferengine-and-pplx-garden-to-run-trillion-parameter-llms-on-existing-gpu-clusters/"
-    },
-    {
       "id": "357",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -208,6 +174,41 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/825498/openai-sora-video-slop-nostalgia-mister-rogers"
     },
     {
+      "id": "349",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Opik LLM Tutorial",
+      "mediumTitle": "Traceable LLM Pipeline with Opik",
+      "longTitle": "Implementing a Fully Traced and Evaluated Local LLM Pipeline with Opik",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This article provides a tutorial on",
+            "building a transparent, measurable, and",
+            "reproducible local Large Language Model",
+            "(LLM) pipeline using the Opik tool.",
+            "Opik\u0027s tracing capabilities enable users",
+            "to monitor every function span,",
+            "recording not only LLM calls but also",
+            "intermediate steps, data",
+            "transformations, and planning logic.",
+            "As each functional component or \u0027span\u0027",
+            "of the workflow is developed, Opik is",
+            "used to track its execution, allowing",
+            "for a comprehensive understanding of",
+            "data flow and contributions.",
+            "The goal is to achieve transparent,",
+            "measurable, and reproducible AI",
+            "workflows by implementing a fully traced",
+            "and evaluated local LLM pipeline."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-21T09:47:10.000Z",
+      "ranking": 6.9695817235726185,
+      "articleUrl": "https://www.marktechpost.com/2025/11/21/an-implementation-of-fully-traced-and-evaluated-local-llm-pipeline-using-opik-for-transparent-measurable-and-reproducible-ai-workflows/"
+    },
+    {
       "id": "353",
       "topic": "Hardware",
       "source": "The Verge AI",
@@ -239,7 +240,7 @@
         }
       ],
       "publishedAt": "2025-11-21T08:00:00.000Z",
-      "ranking": 7.292617849906294,
+      "ranking": 6.930679638625029,
       "articleUrl": "https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley"
     },
     {
@@ -273,8 +274,42 @@
         }
       ],
       "publishedAt": "2025-11-21T06:45:32.000Z",
-      "ranking": 7.15018114707434,
+      "ranking": 6.7709947350474184,
       "articleUrl": "https://www.theverge.com/report/826003/googles-nano-banana-pro-generates-excellent-conspiracy-fuel"
+    },
+    {
+      "id": "354",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "LLM on GPUs",
+      "mediumTitle": "Perplexity AI\u0027s Open-Source LLM Engine",
+      "longTitle": "Perplexity AI\u0027s TransferEngine enables trillion-parameter LLMs on existing GPUs",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Perplexity AI\u0027s research team has",
+            "introduced TransferEngine and the",
+            "accompanying pplx garden toolkit,",
+            "open-source infrastructure designed to",
+            "enable the execution of",
+            "trillion-parameter Large Language Models",
+            "(LLMs) on existing, mixed GPU clusters.",
+            "This development aims to circumvent the",
+            "need for expensive new hardware",
+            "acquisitions and avoid deep vendor",
+            "lock-in for teams working with these",
+            "massive models.",
+            "Instead of requiring significant capital",
+            "investment in new hardware, companies",
+            "can potentially utilize their existing",
+            "mixed GPU environments to run models of",
+            "unprecedented scale."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-21T11:56:20.000Z",
+      "ranking": 6.746706659778599,
+      "articleUrl": "https://www.marktechpost.com/2025/11/21/perplexity-ai-releases-transferengine-and-pplx-garden-to-run-trillion-parameter-llms-on-existing-gpu-clusters/"
     },
     {
       "id": "350",
@@ -307,7 +342,7 @@
         }
       ],
       "publishedAt": "2025-11-21T04:07:15.000Z",
-      "ranking": 7.115734963800044,
+      "ranking": 6.699886468941811,
       "articleUrl": "https://www.marktechpost.com/2025/11/20/allen-institute-for-ai-ai2-introduces-olmo-3-an-open-source-7b-and-32b-llm-family-built-on-the-dolma-3-and-dolci-stack/"
     },
     {
@@ -343,40 +378,8 @@
         }
       ],
       "publishedAt": "2025-11-21T01:00:00.000Z",
-      "ranking": 6.480876943095284,
+      "ranking": 6.021657021426034,
       "articleUrl": "https://venturebeat.com/ai/googles-nested-learning-paradigm-could-solve-ais-memory-and-continual"
-    },
-    {
-      "id": "355",
-      "topic": "AI Ops",
-      "source": "VentureBeat AI",
-      "shortTitle": "Salesforce AI Insight",
-      "mediumTitle": "Salesforce Agentforce Observability",
-      "longTitle": "Salesforce Launches Agentforce Observability for AI Agent Transparency",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Salesforce has launched Agentforce",
-            "Observability, a suite of monitoring",
-            "tools designed to address the critical",
-            "challenge of understanding how AI agents",
-            "make decisions in real-time customer",
-            "interactions.",
-            "This new capability, integrated into",
-            "Salesforce\u0027s Agentforce 360 Platform,",
-            "provides granular visibility into every",
-            "action, reasoning step, and guardrail",
-            "triggered by AI agents.",
-            "The move aims to alleviate executive",
-            "wariness surrounding autonomous AI",
-            "systems, which promise efficiency gains",
-            "but often lack transparency and control."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-21T11:00:00.000Z",
-      "ranking": 6.205,
-      "articleUrl": "https://venturebeat.com/ai/salesforce-agentforce-observability-lets-you-watch-your-ai-agents-think-in"
     },
     {
       "id": "345",
@@ -411,7 +414,7 @@
         }
       ],
       "publishedAt": "2025-11-21T00:57:00.000Z",
-      "ranking": 6.0883038017603335,
+      "ranking": 5.628389013591633,
       "articleUrl": "https://venturebeat.com/ai/grok-4-1-fasts-compelling-dev-access-and-agent-tools-api-overshadowed-by"
     },
     {
@@ -448,8 +451,40 @@
         }
       ],
       "publishedAt": "2025-11-20T21:20:00.000Z",
-      "ranking": 5.856093100192161,
+      "ranking": 5.345916098284081,
       "articleUrl": "https://venturebeat.com/ai/googles-upgraded-nano-banana-pro-ai-image-model-hailed-as-absolutely-bonkers"
+    },
+    {
+      "id": "355",
+      "topic": "AI Ops",
+      "source": "VentureBeat AI",
+      "shortTitle": "Salesforce AI Insight",
+      "mediumTitle": "Salesforce Agentforce Observability",
+      "longTitle": "Salesforce Launches Agentforce Observability for AI Agent Transparency",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Salesforce has launched Agentforce",
+            "Observability, a suite of monitoring",
+            "tools designed to address the critical",
+            "challenge of understanding how AI agents",
+            "make decisions in real-time customer",
+            "interactions.",
+            "This new capability, integrated into",
+            "Salesforce\u0027s Agentforce 360 Platform,",
+            "provides granular visibility into every",
+            "action, reasoning step, and guardrail",
+            "triggered by AI agents.",
+            "The move aims to alleviate executive",
+            "wariness surrounding autonomous AI",
+            "systems, which promise efficiency gains",
+            "but often lack transparency and control."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-21T11:00:00.000Z",
+      "ranking": 5.116034525386066,
+      "articleUrl": "https://venturebeat.com/ai/salesforce-agentforce-observability-lets-you-watch-your-ai-agents-think-in"
     },
     {
       "id": "332",
@@ -484,43 +519,8 @@
         }
       ],
       "publishedAt": "2025-11-20T18:35:00.000Z",
-      "ranking": 5.647254711764129,
+      "ranking": 5.098859879798582,
       "articleUrl": "https://venturebeat.com/ai/scaleops-new-ai-infra-product-slashes-gpu-costs-for-self-hosted-enterprise"
-    },
-    {
-      "id": "341",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Gemini in Auto",
-      "mediumTitle": "Gemini AI Arrives in Android Auto",
-      "longTitle": "Google\u0027s Gemini AI Assistant Now Integrated into Android Auto",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google is integrating its Gemini AI",
-            "assistant into Android Auto, offering",
-            "drivers a more conversational voice",
-            "assistant experience.",
-            "The key feature highlighted is Gemini\u0027s",
-            "ability to understand natural speech,",
-            "enabling back-and-forth conversations",
-            "rather than relying on rigid command",
-            "structures.",
-            "This rollout begins today, allowing",
-            "users to interact with Gemini for tasks",
-            "such as navigation, message management,",
-            "and other errands.",
-            "This move signifies a shift from the",
-            "traditional Google Assistant, aiming to",
-            "provide a more intuitive and efficient",
-            "way for drivers to manage their in-car",
-            "digital needs."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-20T13:00:00.000Z",
-      "ranking": 5.366930982900332,
-      "articleUrl": "https://www.theverge.com/news/825008/googles-gemini-is-now-on-android-auto"
     },
     {
       "id": "346",
@@ -555,8 +555,43 @@
         }
       ],
       "publishedAt": "2025-11-20T18:14:15.000Z",
-      "ranking": 5.352065837558614,
+      "ranking": 4.798864830255923,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/825675/groks-elon-musk-worship-is-getting-weird"
+    },
+    {
+      "id": "341",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini in Auto",
+      "mediumTitle": "Gemini AI Arrives in Android Auto",
+      "longTitle": "Google\u0027s Gemini AI Assistant Now Integrated into Android Auto",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google is integrating its Gemini AI",
+            "assistant into Android Auto, offering",
+            "drivers a more conversational voice",
+            "assistant experience.",
+            "The key feature highlighted is Gemini\u0027s",
+            "ability to understand natural speech,",
+            "enabling back-and-forth conversations",
+            "rather than relying on rigid command",
+            "structures.",
+            "This rollout begins today, allowing",
+            "users to interact with Gemini for tasks",
+            "such as navigation, message management,",
+            "and other errands.",
+            "This move signifies a shift from the",
+            "traditional Google Assistant, aiming to",
+            "provide a more intuitive and efficient",
+            "way for drivers to manage their in-car",
+            "digital needs."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-20T13:00:00.000Z",
+      "ranking": 4.740942401825155,
+      "articleUrl": "https://www.theverge.com/news/825008/googles-gemini-is-now-on-android-auto"
     },
     {
       "id": "347",
@@ -591,40 +626,8 @@
         }
       ],
       "publishedAt": "2025-11-20T18:09:06.000Z",
-      "ranking": 5.2524526237985345,
+      "ranking": 4.6980587507235745,
       "articleUrl": "https://www.theverge.com/news/825667/google-nano-banana-pro-test"
-    },
-    {
-      "id": "337",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Gemini 3 Review",
-      "mediumTitle": "Gemini 3: Google\u0027s AI Meets Expectations",
-      "longTitle": "Gemini 3: Google\u0027s Latest AI Model Largely Meets Advertised Capabilities",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google\u0027s latest AI model, Gemini 3, has",
-            "been presented with ambitious promises,",
-            "including advanced features like",
-            "generating code for interactive 3D",
-            "visualizations and \u0027agentic\u0027",
-            "capabilities for task completion.",
-            "While the description doesn\u0027t detail the",
-            "specific tests or their outcomes, it",
-            "establishes the premise that Gemini 3 is",
-            "\u0027almost as good as Google says it is,\u0027",
-            "indicating that it largely meets",
-            "expectations but may not exceed them in",
-            "every aspect, or that some advertised",
-            "features might be slightly less refined",
-            "in practice."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-20T15:42:47.000Z",
-      "ranking": 5.065181218213567,
-      "articleUrl": "https://www.theverge.com/report/825332/google-gemini-3-pro-ai-hands-on-test"
     },
     {
       "id": "348",
@@ -657,8 +660,40 @@
         }
       ],
       "publishedAt": "2025-11-20T17:48:39.000Z",
-      "ranking": 5.049909187383943,
+      "ranking": 4.490778627031961,
       "articleUrl": "https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai"
+    },
+    {
+      "id": "337",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini 3 Review",
+      "mediumTitle": "Gemini 3: Google\u0027s AI Meets Expectations",
+      "longTitle": "Gemini 3: Google\u0027s Latest AI Model Largely Meets Advertised Capabilities",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google\u0027s latest AI model, Gemini 3, has",
+            "been presented with ambitious promises,",
+            "including advanced features like",
+            "generating code for interactive 3D",
+            "visualizations and \u0027agentic\u0027",
+            "capabilities for task completion.",
+            "While the description doesn\u0027t detail the",
+            "specific tests or their outcomes, it",
+            "establishes the premise that Gemini 3 is",
+            "\u0027almost as good as Google says it is,\u0027",
+            "indicating that it largely meets",
+            "expectations but may not exceed them in",
+            "every aspect, or that some advertised",
+            "features might be slightly less refined",
+            "in practice."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-20T15:42:47.000Z",
+      "ranking": 4.476897018619788,
+      "articleUrl": "https://www.theverge.com/report/825332/google-gemini-3-pro-ai-hands-on-test"
     },
     {
       "id": "339",
@@ -693,7 +728,7 @@
         }
       ],
       "publishedAt": "2025-11-20T14:00:00.000Z",
-      "ranking": 5.011314269302777,
+      "ranking": 4.3992230779686246,
       "articleUrl": "https://www.theverge.com/news/825221/perplexity-comet-ai-browser-launch-android"
     },
     {
@@ -729,7 +764,7 @@
         }
       ],
       "publishedAt": "2025-11-20T15:51:56.000Z",
-      "ranking": 4.811892599785734,
+      "ranking": 4.225727754341831,
       "articleUrl": "https://www.theverge.com/news/825510/nvidia-china-smuggling-ai-chips-h200"
     },
     {
@@ -763,7 +798,7 @@
         }
       ],
       "publishedAt": "2025-11-20T15:58:11.000Z",
-      "ranking": 4.803786263044088,
+      "ranking": 4.219069061172865,
       "articleUrl": "https://www.theverge.com/news/825544/openai-chatgpt-group-chats-launch"
     },
     {
@@ -799,7 +834,7 @@
         }
       ],
       "publishedAt": "2025-11-20T15:00:00.000Z",
-      "ranking": 4.759933681858126,
+      "ranking": 4.161739874607296,
       "articleUrl": "https://venturebeat.com/ai/tomes-founders-ditch-viral-presentation-app-with-20m-users-to-build-ai"
     },
     {
@@ -836,7 +871,7 @@
         }
       ],
       "publishedAt": "2025-11-20T15:16:34.000Z",
-      "ranking": 4.720330004700247,
+      "ranking": 4.125973419566558,
       "articleUrl": "https://www.theverge.com/tech/825382/ai-music-streaming-deal-klay-umg-sony-warner"
     },
     {
@@ -869,7 +904,7 @@
         }
       ],
       "publishedAt": "2025-11-20T11:04:02.000Z",
-      "ranking": 4.025753149296639,
+      "ranking": 3.3729040077607086,
       "articleUrl": "https://www.theverge.com/news/825036/openai-chatgpt-atlas-arc-vertical-tabs-update"
     },
     {
@@ -901,7 +936,7 @@
         }
       ],
       "publishedAt": "2025-11-20T13:31:49.000Z",
-      "ranking": 3.939633608113554,
+      "ranking": 3.321014500885533,
       "articleUrl": "https://www.theverge.com/news/825052/amazon-prime-original-ai-video-recap-fallout-jack-ryan"
     },
     {
@@ -936,7 +971,7 @@
         }
       ],
       "publishedAt": "2025-11-20T12:40:00.000Z",
-      "ranking": 3.6535870840100912,
+      "ranking": 3.0229660479044016,
       "articleUrl": "https://www.theverge.com/report/825141/sunos-ceo-ai-text-prompt-really-active-music-creation"
     },
     {
@@ -969,7 +1004,7 @@
         }
       ],
       "publishedAt": "2025-11-20T06:00:00.000Z",
-      "ranking": 3.171406403499642,
+      "ranking": 2.4481361289012558,
       "articleUrl": "https://venturebeat.com/ai/ai2s-olmo-3-family-challenges-qwen-and-llama-with-efficient-open-reasoning"
     },
     {
@@ -1003,7 +1038,7 @@
         }
       ],
       "publishedAt": "2025-11-19T18:15:16.000Z",
-      "ranking": 1.7433888274106337,
+      "ranking": 0.8568860275238492,
       "articleUrl": "https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue"
     },
     {
@@ -1038,7 +1073,7 @@
         }
       ],
       "publishedAt": "2025-11-19T18:57:00.000Z",
-      "ranking": 1.1703458454051994,
+      "ranking": 0.29350945312241006,
       "articleUrl": "https://venturebeat.com/ai/the-google-search-of-ai-agents-fetch-launches-asi-one-and-business-tier-for"
     },
     {
@@ -1073,7 +1108,7 @@
         }
       ],
       "publishedAt": "2025-11-19T19:03:28.000Z",
-      "ranking": 1.0744381803344165,
+      "ranking": 0.19909961598648085,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws"
     },
     {
@@ -1109,7 +1144,7 @@
         }
       ],
       "publishedAt": "2025-11-19T17:50:54.000Z",
-      "ranking": 0.9131176385404824,
+      "ranking": 0.02097095766635082,
       "articleUrl": "https://www.theverge.com/news/823213/google-scholar-labs-ai-search"
     },
     {
@@ -1145,7 +1180,7 @@
         }
       ],
       "publishedAt": "2025-11-19T20:26:00.000Z",
-      "ranking": 0.3111800159225657,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/openai-debuts-gpt-5-1-codex-max-coding-model-and-it-already-completed-a-24"
     },
     {
@@ -1504,41 +1539,6 @@
       "articleUrl": "https://www.theverge.com/news/823711/cloudflare-outage-postmortem"
     },
     {
-      "id": "311",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Grok 4.1 Launched",
-      "mediumTitle": "xAI Releases Grok 4.1 LLM",
-      "longTitle": "xAI\u0027s Grok 4.1 LLM Launched with Enhanced Capabilities",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Elon Musk\u0027s AI startup, xAI, has",
-            "launched its latest large language",
-            "model, Grok 4.1, aiming to compete with",
-            "major players like Google and OpenAI.",
-            "A major constraint for enterprise",
-            "adoption is that Grok 4.1 is not yet",
-            "available through xAI\u0027s public API.",
-            "Grok 4.1 boasts significant",
-            "architectural and usability",
-            "enhancements, including faster",
-            "reasoning, improved emotional",
-            "intelligence, and a substantially",
-            "reduced hallucination rate.",
-            "However, the lack of API access means it",
-            "remains primarily a consumer-focused",
-            "product for now, with its future",
-            "enterprise applicability contingent on",
-            "future API availability."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T21:03:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and"
-    },
-    {
       "id": "326",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -1567,6 +1567,41 @@
             "positions Grok 4.1 Fast as a strong",
             "contender for enterprise and developer",
             "integration."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T21:03:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and"
+    },
+    {
+      "id": "311",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Grok 4.1 Launched",
+      "mediumTitle": "xAI Releases Grok 4.1 LLM",
+      "longTitle": "xAI\u0027s Grok 4.1 LLM Launched with Enhanced Capabilities",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Elon Musk\u0027s AI startup, xAI, has",
+            "launched its latest large language",
+            "model, Grok 4.1, aiming to compete with",
+            "major players like Google and OpenAI.",
+            "A major constraint for enterprise",
+            "adoption is that Grok 4.1 is not yet",
+            "available through xAI\u0027s public API.",
+            "Grok 4.1 boasts significant",
+            "architectural and usability",
+            "enhancements, including faster",
+            "reasoning, improved emotional",
+            "intelligence, and a substantially",
+            "reduced hallucination rate.",
+            "However, the lack of API access means it",
+            "remains primarily a consumer-focused",
+            "product for now, with its future",
+            "enterprise applicability contingent on",
+            "future API availability."
           ]
         }
       ],
@@ -1604,38 +1639,6 @@
       "publishedAt": "2025-11-18T20:12:35.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/18/googles-gemini-3-pro-turns-sparse-moe-and-1m-token-context-into-a-practical-engine-for-multimodal-agentic-workloads/"
-    },
-    {
-      "id": "314",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI Regs Blocked",
-      "mediumTitle": "House GOP Eyes AI State Reg Ban",
-      "longTitle": "House Republicans explore blocking state AI regulations via NDAA",
-      "paragraphs": [
-        {
-          "Lines": [
-            "House Republicans are reportedly",
-            "exploring strategies to reinstate a",
-            "federal moratorium on state-level",
-            "Artificial Intelligence (AI)",
-            "regulations.",
-            "House Majority Leader Steve Scalise",
-            "(R-LA) has indicated that he is",
-            "considering incorporating language into",
-            "the National Defense Authorization Act",
-            "(NDAA) that would effectively preempt or",
-            "ban state AI regulations.",
-            "This initiative aims to prevent",
-            "individual states from enacting their",
-            "own laws governing AI, a move that",
-            "previously stalled earlier this year."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T19:45:52.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/policy/823650/ai-moratorium-house-gop-scalise"
     }
   ]
 }
