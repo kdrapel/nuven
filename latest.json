@@ -134,7 +134,7 @@
         }
       ],
       "publishedAt": "2025-11-21T13:00:00.000Z",
-      "ranking": 6.9386320979798555,
+      "ranking": 6.535499933971275,
       "articleUrl": "https://www.theverge.com/column/826172/ai-startup-arr-numbers-sierra-bret-taylor"
     },
     {
@@ -169,43 +169,8 @@
         }
       ],
       "publishedAt": "2025-11-21T09:47:10.000Z",
-      "ranking": 6.57911089368573,
+      "ranking": 6.131341634672722,
       "articleUrl": "https://www.marktechpost.com/2025/11/21/an-implementation-of-fully-traced-and-evaluated-local-llm-pipeline-using-opik-for-transparent-measurable-and-reproducible-ai-workflows/"
-    },
-    {
-      "id": "353",
-      "topic": "Hardware",
-      "source": "The Verge AI",
-      "shortTitle": "AZ Chip Boom",
-      "mediumTitle": "Arizona\u0027s Semiconductor Transformation",
-      "longTitle": "Arizona\u0027s Economic Shift: From \u0027Five C\u0027s\u0027 to Chip Manufacturing",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Arizona is undergoing a significant",
-            "economic transformation, shifting from",
-            "its traditional industries like cotton,",
-            "cattle, citrus, copper, and climate to",
-            "embrace semiconductor manufacturing, or",
-            "\u0027chips,\u0027 as a new dominant force.",
-            "Major global chip manufacturers like",
-            "Intel are expanding operations with",
-            "substantial investments in new",
-            "fabrication plants, while TSMC is",
-            "constructing two advanced fabs in North",
-            "Phoenix.",
-            "The impact of these investments extends",
-            "far beyond factory construction,",
-            "creating a robust semiconductor",
-            "ecosystem that includes direct",
-            "manufacturing jobs and a ripple effect",
-            "on related industries and services."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-21T08:00:00.000Z",
-      "ranking": 6.515520484502914,
-      "articleUrl": "https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley"
     },
     {
       "id": "357",
@@ -240,8 +205,43 @@
         }
       ],
       "publishedAt": "2025-11-21T14:02:01.000Z",
-      "ranking": 6.448532453633417,
+      "ranking": 6.0597559227980575,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/825498/openai-sora-video-slop-nostalgia-mister-rogers"
+    },
+    {
+      "id": "353",
+      "topic": "Hardware",
+      "source": "The Verge AI",
+      "shortTitle": "AZ Chip Boom",
+      "mediumTitle": "Arizona\u0027s Semiconductor Transformation",
+      "longTitle": "Arizona\u0027s Economic Shift: From \u0027Five C\u0027s\u0027 to Chip Manufacturing",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Arizona is undergoing a significant",
+            "economic transformation, shifting from",
+            "its traditional industries like cotton,",
+            "cattle, citrus, copper, and climate to",
+            "embrace semiconductor manufacturing, or",
+            "\u0027chips,\u0027 as a new dominant force.",
+            "Major global chip manufacturers like",
+            "Intel are expanding operations with",
+            "substantial investments in new",
+            "fabrication plants, while TSMC is",
+            "constructing two advanced fabs in North",
+            "Phoenix.",
+            "The impact of these investments extends",
+            "far beyond factory construction,",
+            "creating a robust semiconductor",
+            "ecosystem that includes direct",
+            "manufacturing jobs and a ripple effect",
+            "on related industries and services."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-21T08:00:00.000Z",
+      "ranking": 6.042944254294654,
+      "articleUrl": "https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley"
     },
     {
       "id": "354",
@@ -274,7 +274,7 @@
         }
       ],
       "publishedAt": "2025-11-21T11:56:20.000Z",
-      "ranking": 6.385992364095441,
+      "ranking": 5.968122619756468,
       "articleUrl": "https://www.marktechpost.com/2025/11/21/perplexity-ai-releases-transferengine-and-pplx-garden-to-run-trillion-parameter-llms-on-existing-gpu-clusters/"
     },
     {
@@ -308,7 +308,7 @@
         }
       ],
       "publishedAt": "2025-11-21T06:45:32.000Z",
-      "ranking": 6.338680448916273,
+      "ranking": 5.8488666616420675,
       "articleUrl": "https://www.theverge.com/report/826003/googles-nano-banana-pro-generates-excellent-conspiracy-fuel"
     },
     {
@@ -342,7 +342,7 @@
         }
       ],
       "publishedAt": "2025-11-21T04:07:15.000Z",
-      "ranking": 6.231107955772629,
+      "ranking": 5.70465471251029,
       "articleUrl": "https://www.marktechpost.com/2025/11/20/allen-institute-for-ai-ai2-introduces-olmo-3-an-open-source-7b-and-32b-llm-family-built-on-the-dolma-3-and-dolci-stack/"
     },
     {
@@ -378,7 +378,7 @@
         }
       ],
       "publishedAt": "2025-11-21T01:00:00.000Z",
-      "ranking": 5.509741132854124,
+      "ranking": 4.939943223994369,
       "articleUrl": "https://venturebeat.com/ai/googles-nested-learning-paradigm-could-solve-ais-memory-and-continual"
     },
     {
@@ -414,8 +414,40 @@
         }
       ],
       "publishedAt": "2025-11-21T00:57:00.000Z",
-      "ranking": 5.115782005043711,
+      "ranking": 4.545289654862018,
       "articleUrl": "https://venturebeat.com/ai/grok-4-1-fasts-compelling-dev-access-and-agent-tools-api-overshadowed-by"
+    },
+    {
+      "id": "355",
+      "topic": "AI Ops",
+      "source": "VentureBeat AI",
+      "shortTitle": "Salesforce AI Insight",
+      "mediumTitle": "Salesforce Agentforce Observability",
+      "longTitle": "Salesforce Launches Agentforce Observability for AI Agent Transparency",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Salesforce has launched Agentforce",
+            "Observability, a suite of monitoring",
+            "tools designed to address the critical",
+            "challenge of understanding how AI agents",
+            "make decisions in real-time customer",
+            "interactions.",
+            "This new capability, integrated into",
+            "Salesforce\u0027s Agentforce 360 Platform,",
+            "provides granular visibility into every",
+            "action, reasoning step, and guardrail",
+            "triggered by AI agents.",
+            "The move aims to alleviate executive",
+            "wariness surrounding autonomous AI",
+            "systems, which promise efficiency gains",
+            "but often lack transparency and control."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-21T11:00:00.000Z",
+      "ranking": 4.311432746997735,
+      "articleUrl": "https://venturebeat.com/ai/salesforce-agentforce-observability-lets-you-watch-your-ai-agents-think-in"
     },
     {
       "id": "334",
@@ -451,40 +483,8 @@
         }
       ],
       "publishedAt": "2025-11-20T21:20:00.000Z",
-      "ranking": 4.783318112768525,
+      "ranking": 4.162594556015549,
       "articleUrl": "https://venturebeat.com/ai/googles-upgraded-nano-banana-pro-ai-image-model-hailed-as-absolutely-bonkers"
-    },
-    {
-      "id": "355",
-      "topic": "AI Ops",
-      "source": "VentureBeat AI",
-      "shortTitle": "Salesforce AI Insight",
-      "mediumTitle": "Salesforce Agentforce Observability",
-      "longTitle": "Salesforce Launches Agentforce Observability for AI Agent Transparency",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Salesforce has launched Agentforce",
-            "Observability, a suite of monitoring",
-            "tools designed to address the critical",
-            "challenge of understanding how AI agents",
-            "make decisions in real-time customer",
-            "interactions.",
-            "This new capability, integrated into",
-            "Salesforce\u0027s Agentforce 360 Platform,",
-            "provides granular visibility into every",
-            "action, reasoning step, and guardrail",
-            "triggered by AI agents.",
-            "The move aims to alleviate executive",
-            "wariness surrounding autonomous AI",
-            "systems, which promise efficiency gains",
-            "but often lack transparency and control."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-21T11:00:00.000Z",
-      "ranking": 4.742342541745239,
-      "articleUrl": "https://venturebeat.com/ai/salesforce-agentforce-observability-lets-you-watch-your-ai-agents-think-in"
     },
     {
       "id": "332",
@@ -519,7 +519,7 @@
         }
       ],
       "publishedAt": "2025-11-20T18:35:00.000Z",
-      "ranking": 4.498250334641643,
+      "ranking": 3.8393325515719123,
       "articleUrl": "https://venturebeat.com/ai/scaleops-new-ai-infra-product-slashes-gpu-costs-for-self-hosted-enterprise"
     },
     {
@@ -555,7 +555,7 @@
         }
       ],
       "publishedAt": "2025-11-20T18:14:15.000Z",
-      "ranking": 4.193475042539397,
+      "ranking": 3.529754044879942,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/825675/groks-elon-musk-worship-is-getting-weird"
     },
     {
@@ -591,7 +591,7 @@
         }
       ],
       "publishedAt": "2025-11-20T18:09:06.000Z",
-      "ranking": 4.091482547043732,
+      "ranking": 3.426569425706946,
       "articleUrl": "https://www.theverge.com/news/825667/google-nano-banana-pro-test"
     },
     {
@@ -626,7 +626,7 @@
         }
       ],
       "publishedAt": "2025-11-20T13:00:00.000Z",
-      "ranking": 4.063157840770041,
+      "ranking": 3.32669419281991,
       "articleUrl": "https://www.theverge.com/news/825008/googles-gemini-is-now-on-android-auto"
     },
     {
@@ -660,7 +660,7 @@
         }
       ],
       "publishedAt": "2025-11-20T17:48:39.000Z",
-      "ranking": 3.8794912866108655,
+      "ranking": 3.2098443941932304,
       "articleUrl": "https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai"
     },
     {
@@ -692,7 +692,7 @@
         }
       ],
       "publishedAt": "2025-11-20T15:42:47.000Z",
-      "ranking": 3.836613376402866,
+      "ranking": 3.137830843849798,
       "articleUrl": "https://www.theverge.com/report/825332/google-gemini-3-pro-ai-hands-on-test"
     },
     {
@@ -728,7 +728,7 @@
         }
       ],
       "publishedAt": "2025-11-20T14:00:00.000Z",
-      "ranking": 3.7352609145435958,
+      "ranking": 3.0126860763535017,
       "articleUrl": "https://www.theverge.com/news/825221/perplexity-comet-ai-browser-launch-android"
     },
     {
@@ -764,7 +764,7 @@
         }
       ],
       "publishedAt": "2025-11-20T15:51:56.000Z",
-      "ranking": 3.5875520267773116,
+      "ranking": 2.8908875365982256,
       "articleUrl": "https://www.theverge.com/news/825510/nvidia-china-smuggling-ai-chips-h200"
     },
     {
@@ -798,7 +798,7 @@
         }
       ],
       "publishedAt": "2025-11-20T15:58:11.000Z",
-      "ranking": 3.582333165355304,
+      "ranking": 2.8871154261574397,
       "articleUrl": "https://www.theverge.com/news/825544/openai-chatgpt-group-chats-launch"
     },
     {
@@ -834,7 +834,7 @@
         }
       ],
       "publishedAt": "2025-11-20T15:00:00.000Z",
-      "ranking": 3.511600100951446,
+      "ranking": 2.802914072331447,
       "articleUrl": "https://venturebeat.com/ai/tomes-founders-ditch-viral-presentation-app-with-20m-users-to-build-ai"
     },
     {
@@ -871,8 +871,40 @@
         }
       ],
       "publishedAt": "2025-11-20T15:16:34.000Z",
-      "ranking": 3.479650161156502,
+      "ranking": 2.774798987049045,
       "articleUrl": "https://www.theverge.com/tech/825382/ai-music-streaming-deal-klay-umg-sony-warner"
+    },
+    {
+      "id": "340",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Prime Video AI Recaps",
+      "mediumTitle": "Amazon Prime Video\u0027s New AI Recaps",
+      "longTitle": "Amazon Prime Video Introduces Generative AI Video Recaps",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon Prime Video is rolling out a new",
+            "generative AI-powered feature called",
+            "\u0022Video Recaps\u0022 designed to help viewers",
+            "catch up on shows before diving into a",
+            "new season.",
+            "This innovative tool utilizes artificial",
+            "intelligence to pinpoint crucial plot",
+            "developments within a series.",
+            "It then generates a concise, yet",
+            "\u0022theatrical-quality\u0022 summary video.",
+            "These recaps are constructed by",
+            "combining selected clips from the show",
+            "with appropriate music and dialogue,",
+            "aiming to provide a compelling narrative",
+            "overview."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-20T13:31:49.000Z",
+      "ranking": 1.921460935838506,
+      "articleUrl": "https://www.theverge.com/news/825052/amazon-prime-original-ai-video-recap-fallout-jack-ryan"
     },
     {
       "id": "344",
@@ -904,40 +936,8 @@
         }
       ],
       "publishedAt": "2025-11-20T11:04:02.000Z",
-      "ranking": 2.668403848498886,
+      "ranking": 1.9050962028343283,
       "articleUrl": "https://www.theverge.com/news/825036/openai-chatgpt-atlas-arc-vertical-tabs-update"
-    },
-    {
-      "id": "340",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Prime Video AI Recaps",
-      "mediumTitle": "Amazon Prime Video\u0027s New AI Recaps",
-      "longTitle": "Amazon Prime Video Introduces Generative AI Video Recaps",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Amazon Prime Video is rolling out a new",
-            "generative AI-powered feature called",
-            "\u0022Video Recaps\u0022 designed to help viewers",
-            "catch up on shows before diving into a",
-            "new season.",
-            "This innovative tool utilizes artificial",
-            "intelligence to pinpoint crucial plot",
-            "developments within a series.",
-            "It then generates a concise, yet",
-            "\u0022theatrical-quality\u0022 summary video.",
-            "These recaps are constructed by",
-            "combining selected clips from the show",
-            "with appropriate music and dialogue,",
-            "aiming to provide a compelling narrative",
-            "overview."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-20T13:31:49.000Z",
-      "ranking": 2.6505596542765097,
-      "articleUrl": "https://www.theverge.com/news/825052/amazon-prime-original-ai-video-recap-fallout-jack-ryan"
     },
     {
       "id": "342",
@@ -971,7 +971,7 @@
         }
       ],
       "publishedAt": "2025-11-20T12:40:00.000Z",
-      "ranking": 2.3405740326874165,
+      "ranking": 1.5994807759235172,
       "articleUrl": "https://www.theverge.com/report/825141/sunos-ceo-ai-text-prompt-really-active-music-creation"
     },
     {
@@ -1004,7 +1004,7 @@
         }
       ],
       "publishedAt": "2025-11-20T06:00:00.000Z",
-      "ranking": 1.6735948526934061,
+      "ranking": 0.839909519925115,
       "articleUrl": "https://venturebeat.com/ai/ai2s-olmo-3-family-challenges-qwen-and-llama-with-efficient-open-reasoning"
     },
     {
@@ -1539,6 +1539,41 @@
       "articleUrl": "https://www.theverge.com/news/823711/cloudflare-outage-postmortem"
     },
     {
+      "id": "311",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Grok 4.1 Launched",
+      "mediumTitle": "xAI Releases Grok 4.1 LLM",
+      "longTitle": "xAI\u0027s Grok 4.1 LLM Launched with Enhanced Capabilities",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Elon Musk\u0027s AI startup, xAI, has",
+            "launched its latest large language",
+            "model, Grok 4.1, aiming to compete with",
+            "major players like Google and OpenAI.",
+            "A major constraint for enterprise",
+            "adoption is that Grok 4.1 is not yet",
+            "available through xAI\u0027s public API.",
+            "Grok 4.1 boasts significant",
+            "architectural and usability",
+            "enhancements, including faster",
+            "reasoning, improved emotional",
+            "intelligence, and a substantially",
+            "reduced hallucination rate.",
+            "However, the lack of API access means it",
+            "remains primarily a consumer-focused",
+            "product for now, with its future",
+            "enterprise applicability contingent on",
+            "future API availability."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-18T21:03:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and"
+    },
+    {
       "id": "326",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -1567,41 +1602,6 @@
             "positions Grok 4.1 Fast as a strong",
             "contender for enterprise and developer",
             "integration."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T21:03:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and"
-    },
-    {
-      "id": "311",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Grok 4.1 Launched",
-      "mediumTitle": "xAI Releases Grok 4.1 LLM",
-      "longTitle": "xAI\u0027s Grok 4.1 LLM Launched with Enhanced Capabilities",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Elon Musk\u0027s AI startup, xAI, has",
-            "launched its latest large language",
-            "model, Grok 4.1, aiming to compete with",
-            "major players like Google and OpenAI.",
-            "A major constraint for enterprise",
-            "adoption is that Grok 4.1 is not yet",
-            "available through xAI\u0027s public API.",
-            "Grok 4.1 boasts significant",
-            "architectural and usability",
-            "enhancements, including faster",
-            "reasoning, improved emotional",
-            "intelligence, and a substantially",
-            "reduced hallucination rate.",
-            "However, the lack of API access means it",
-            "remains primarily a consumer-focused",
-            "product for now, with its future",
-            "enterprise applicability contingent on",
-            "future API availability."
           ]
         }
       ],
