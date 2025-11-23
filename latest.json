@@ -99,7 +99,7 @@
         }
       ],
       "publishedAt": "2025-11-22T08:34:27.000Z",
-      "ranking": 6.282528101633831,
+      "ranking": 5.818110907485991,
       "articleUrl": "https://www.marktechpost.com/2025/11/21/google-deepmind-introduces-nano-banana-pro-the-gemini-3-pro-image-model-for-text-accurate-and-studio-grade-visuals/"
     },
     {
@@ -133,7 +133,7 @@
         }
       ],
       "publishedAt": "2025-11-22T00:01:00.000Z",
-      "ranking": 5.143901115276674,
+      "ranking": 4.560678454791781,
       "articleUrl": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026"
     },
     {
@@ -168,7 +168,7 @@
         }
       ],
       "publishedAt": "2025-11-21T20:04:21.000Z",
-      "ranking": 4.4158776979219,
+      "ranking": 3.777897389964919,
       "articleUrl": "https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out"
     },
     {
@@ -201,7 +201,7 @@
         }
       ],
       "publishedAt": "2025-11-21T13:00:00.000Z",
-      "ranking": 3.686306757921221,
+      "ranking": 2.950137532799875,
       "articleUrl": "https://www.theverge.com/column/826172/ai-startup-arr-numbers-sierra-bret-taylor"
     },
     {
@@ -237,8 +237,42 @@
         }
       ],
       "publishedAt": "2025-11-21T14:02:01.000Z",
-      "ranking": 3.2823451163926114,
+      "ranking": 2.5605257196214897,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/825498/openai-sora-video-slop-nostalgia-mister-rogers"
+    },
+    {
+      "id": "354",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "LLM on GPUs",
+      "mediumTitle": "Perplexity AI\u0027s Open-Source LLM Engine",
+      "longTitle": "Perplexity AI\u0027s TransferEngine enables trillion-parameter LLMs on existing GPUs",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Perplexity AI\u0027s research team has",
+            "introduced TransferEngine and the",
+            "accompanying pplx garden toolkit,",
+            "open-source infrastructure designed to",
+            "enable the execution of",
+            "trillion-parameter Large Language Models",
+            "(LLMs) on existing, mixed GPU clusters.",
+            "This development aims to circumvent the",
+            "need for expensive new hardware",
+            "acquisitions and avoid deep vendor",
+            "lock-in for teams working with these",
+            "massive models.",
+            "Instead of requiring significant capital",
+            "investment in new hardware, companies",
+            "can potentially utilize their existing",
+            "mixed GPU environments to run models of",
+            "unprecedented scale."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-21T11:56:20.000Z",
+      "ranking": 2.2943364250244302,
+      "articleUrl": "https://www.marktechpost.com/2025/11/21/perplexity-ai-releases-transferengine-and-pplx-garden-to-run-trillion-parameter-llms-on-existing-gpu-clusters/"
     },
     {
       "id": "349",
@@ -272,42 +306,8 @@
         }
       ],
       "publishedAt": "2025-11-21T09:47:10.000Z",
-      "ranking": 3.058949849831796,
+      "ranking": 2.278161562306293,
       "articleUrl": "https://www.marktechpost.com/2025/11/21/an-implementation-of-fully-traced-and-evaluated-local-llm-pipeline-using-opik-for-transparent-measurable-and-reproducible-ai-workflows/"
-    },
-    {
-      "id": "354",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "LLM on GPUs",
-      "mediumTitle": "Perplexity AI\u0027s Open-Source LLM Engine",
-      "longTitle": "Perplexity AI\u0027s TransferEngine enables trillion-parameter LLMs on existing GPUs",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Perplexity AI\u0027s research team has",
-            "introduced TransferEngine and the",
-            "accompanying pplx garden toolkit,",
-            "open-source infrastructure designed to",
-            "enable the execution of",
-            "trillion-parameter Large Language Models",
-            "(LLMs) on existing, mixed GPU clusters.",
-            "This development aims to circumvent the",
-            "need for expensive new hardware",
-            "acquisitions and avoid deep vendor",
-            "lock-in for teams working with these",
-            "massive models.",
-            "Instead of requiring significant capital",
-            "investment in new hardware, companies",
-            "can potentially utilize their existing",
-            "mixed GPU environments to run models of",
-            "unprecedented scale."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-21T11:56:20.000Z",
-      "ranking": 3.0452372590642742,
-      "articleUrl": "https://www.marktechpost.com/2025/11/21/perplexity-ai-releases-transferengine-and-pplx-garden-to-run-trillion-parameter-llms-on-existing-gpu-clusters/"
     },
     {
       "id": "353",
@@ -341,7 +341,7 @@
         }
       ],
       "publishedAt": "2025-11-21T08:00:00.000Z",
-      "ranking": 2.8465103789751627,
+      "ranking": 2.0409251641227986,
       "articleUrl": "https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley"
     },
     {
@@ -375,7 +375,7 @@
         }
       ],
       "publishedAt": "2025-11-21T06:45:32.000Z",
-      "ranking": 2.5662399358631154,
+      "ranking": 1.743424130118842,
       "articleUrl": "https://www.theverge.com/report/826003/googles-nano-banana-pro-generates-excellent-conspiracy-fuel"
     },
     {
@@ -409,7 +409,7 @@
         }
       ],
       "publishedAt": "2025-11-21T04:07:15.000Z",
-      "ranking": 2.2388199378375147,
+      "ranking": 1.379379484189645,
       "articleUrl": "https://www.marktechpost.com/2025/11/20/allen-institute-for-ai-ai2-introduces-olmo-3-an-open-source-7b-and-32b-llm-family-built-on-the-dolma-3-and-dolci-stack/"
     },
     {
@@ -441,7 +441,7 @@
         }
       ],
       "publishedAt": "2025-11-21T11:00:00.000Z",
-      "ranking": 1.3233432984710927,
+      "ranking": 0.5594076762617259,
       "articleUrl": "https://venturebeat.com/ai/salesforce-agentforce-observability-lets-you-watch-your-ai-agents-think-in"
     },
     {
@@ -477,7 +477,7 @@
         }
       ],
       "publishedAt": "2025-11-21T01:00:00.000Z",
-      "ranking": 1.2573723755944552,
+      "ranking": 0.35460477503399535,
       "articleUrl": "https://venturebeat.com/ai/googles-nested-learning-paradigm-could-solve-ais-memory-and-continual"
     },
     {
@@ -513,7 +513,7 @@
         }
       ],
       "publishedAt": "2025-11-21T00:57:00.000Z",
-      "ranking": 0.8592463956872471,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/grok-4-1-fasts-compelling-dev-access-and-agent-tools-api-overshadowed-by"
     },
     {
@@ -550,7 +550,7 @@
         }
       ],
       "publishedAt": "2025-11-20T21:20:00.000Z",
-      "ranking": 0.22538053271741454,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/googles-upgraded-nano-banana-pro-ai-image-model-hailed-as-absolutely-bonkers"
     },
     {
