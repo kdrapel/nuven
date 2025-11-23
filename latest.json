@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "363",
+      "topic": "Learning",
+      "source": "Marktechpost AI",
+      "shortTitle": "Seer RL Speedup",
+      "mediumTitle": "Seer: Faster RL for Large Models",
+      "longTitle": "Seer: Novel System Accelerates Reinforcement Learning for Large Reasoning Models",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Researchers from Moonshot AI and",
+            "Tsinghua University have developed Seer,",
+            "a novel online context learning system",
+            "designed to address a critical",
+            "bottleneck in reinforcement learning for",
+            "large reasoning models.",
+            "The primary challenge Seer aims to solve",
+            "is the inefficiency that arises when RL",
+            "training stalls due to a few",
+            "exceptionally long and slow rollouts,",
+            "leading to underutilized GPU resources.",
+            "In complex reasoning scenarios, these",
+            "rollouts can become extremely",
+            "time-consuming, creating a",
+            "synchronization problem that holds up",
+            "the entire training process."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-23T07:28:06.000Z",
+      "ranking": 8.100000000000001,
+      "articleUrl": "https://www.marktechpost.com/2025/11/22/moonshot-ai-researchers-introduce-seer-an-online-context-learning-system-for-fast-synchronous-reinforcement-learning-rl-rollouts/"
+    },
+    {
       "id": "361",
       "topic": "Generative AI",
       "source": "Marktechpost AI",
@@ -100,7 +133,7 @@
         }
       ],
       "publishedAt": "2025-11-22T00:01:00.000Z",
-      "ranking": 6.559342122879979,
+      "ranking": 6.142252617509893,
       "articleUrl": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026"
     },
     {
@@ -135,7 +168,7 @@
         }
       ],
       "publishedAt": "2025-11-21T20:04:21.000Z",
-      "ranking": 5.995427413356823,
+      "ranking": 5.523551472432432,
       "articleUrl": "https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out"
     },
     {
@@ -168,7 +201,7 @@
         }
       ],
       "publishedAt": "2025-11-21T13:00:00.000Z",
-      "ranking": 5.560128734956019,
+      "ranking": 4.990012892023899,
       "articleUrl": "https://www.theverge.com/column/826172/ai-startup-arr-numbers-sierra-bret-taylor"
     },
     {
@@ -204,7 +237,7 @@
         }
       ],
       "publishedAt": "2025-11-21T14:02:01.000Z",
-      "ranking": 5.113160650677457,
+      "ranking": 4.557402079325626,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/825498/openai-sora-video-slop-nostalgia-mister-rogers"
     },
     {
@@ -239,7 +272,7 @@
         }
       ],
       "publishedAt": "2025-11-21T09:47:10.000Z",
-      "ranking": 5.066495173345821,
+      "ranking": 4.451737096052483,
       "articleUrl": "https://www.marktechpost.com/2025/11/21/an-implementation-of-fully-traced-and-evaluated-local-llm-pipeline-using-opik-for-transparent-measurable-and-reproducible-ai-workflows/"
     },
     {
@@ -273,7 +306,7 @@
         }
       ],
       "publishedAt": "2025-11-21T11:56:20.000Z",
-      "ranking": 4.963209902931693,
+      "ranking": 4.378354777910886,
       "articleUrl": "https://www.marktechpost.com/2025/11/21/perplexity-ai-releases-transferengine-and-pplx-garden-to-run-trillion-parameter-llms-on-existing-gpu-clusters/"
     },
     {
@@ -308,7 +341,7 @@
         }
       ],
       "publishedAt": "2025-11-21T08:00:00.000Z",
-      "ranking": 4.9283721344122196,
+      "ranking": 4.288804238456034,
       "articleUrl": "https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley"
     },
     {
@@ -342,7 +375,7 @@
         }
       ],
       "publishedAt": "2025-11-21T06:45:32.000Z",
-      "ranking": 4.69974178808597,
+      "ranking": 4.042934351233934,
       "articleUrl": "https://www.theverge.com/report/826003/googles-nano-banana-pro-generates-excellent-conspiracy-fuel"
     },
     {
@@ -376,7 +409,7 @@
         }
       ],
       "publishedAt": "2025-11-21T04:07:15.000Z",
-      "ranking": 4.482085887037244,
+      "ranking": 3.7886347751937075,
       "articleUrl": "https://www.marktechpost.com/2025/11/20/allen-institute-for-ai-ai2-introduces-olmo-3-an-open-source-7b-and-32b-llm-family-built-on-the-dolma-3-and-dolci-stack/"
     },
     {
@@ -412,7 +445,7 @@
         }
       ],
       "publishedAt": "2025-11-21T01:00:00.000Z",
-      "ranking": 3.6304898255560225,
+      "ranking": 2.893689060701859,
       "articleUrl": "https://venturebeat.com/ai/googles-nested-learning-paradigm-could-solve-ais-memory-and-continual"
     },
     {
@@ -444,7 +477,7 @@
         }
       ],
       "publishedAt": "2025-11-21T11:00:00.000Z",
-      "ranking": 3.280381187455739,
+      "ranking": 2.6824844828504726,
       "articleUrl": "https://venturebeat.com/ai/salesforce-agentforce-observability-lets-you-watch-your-ai-agents-think-in"
     },
     {
@@ -480,7 +513,7 @@
         }
       ],
       "publishedAt": "2025-11-21T00:57:00.000Z",
-      "ranking": 3.2344442372534266,
+      "ranking": 2.4969489378040812,
       "articleUrl": "https://venturebeat.com/ai/grok-4-1-fasts-compelling-dev-access-and-agent-tools-api-overshadowed-by"
     },
     {
@@ -517,7 +550,7 @@
         }
       ],
       "publishedAt": "2025-11-20T21:20:00.000Z",
-      "ranking": 2.751060474923965,
+      "ranking": 1.9633281987608928,
       "articleUrl": "https://venturebeat.com/ai/googles-upgraded-nano-banana-pro-ai-image-model-hailed-as-absolutely-bonkers"
     },
     {
@@ -553,7 +586,7 @@
         }
       ],
       "publishedAt": "2025-11-20T18:35:00.000Z",
-      "ranking": 2.3512379634774163,
+      "ranking": 1.5253070603416283,
       "articleUrl": "https://venturebeat.com/ai/scaleops-new-ai-infra-product-slashes-gpu-costs-for-self-hosted-enterprise"
     },
     {
@@ -589,7 +622,7 @@
         }
       ],
       "publishedAt": "2025-11-20T18:14:15.000Z",
-      "ranking": 2.03203139261512,
+      "ranking": 1.2012967150717468,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/825675/groks-elon-musk-worship-is-getting-weird"
     },
     {
@@ -625,7 +658,7 @@
         }
       ],
       "publishedAt": "2025-11-20T18:09:06.000Z",
-      "ranking": 1.9264571473962313,
+      "ranking": 1.094530210483513,
       "articleUrl": "https://www.theverge.com/news/825667/google-nano-banana-pro-test"
     },
     {
@@ -659,7 +692,7 @@
         }
       ],
       "publishedAt": "2025-11-20T17:48:39.000Z",
-      "ranking": 1.7002432562587808,
+      "ranking": 0.863582003337064,
       "articleUrl": "https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai"
     },
     {
@@ -694,7 +727,7 @@
         }
       ],
       "publishedAt": "2025-11-20T13:00:00.000Z",
-      "ranking": 1.6831585577673405,
+      "ranking": 0.7796728684417475,
       "articleUrl": "https://www.theverge.com/news/825008/googles-gemini-is-now-on-android-auto"
     },
     {
@@ -726,7 +759,7 @@
         }
       ],
       "publishedAt": "2025-11-20T15:42:47.000Z",
-      "ranking": 1.5698271782903372,
+      "ranking": 0.7040269285509639,
       "articleUrl": "https://www.theverge.com/report/825332/google-gemini-3-pro-ai-hands-on-test"
     },
     {
@@ -762,8 +795,42 @@
         }
       ],
       "publishedAt": "2025-11-20T14:00:00.000Z",
-      "ranking": 1.3969906275472201,
+      "ranking": 0.5073953328563823,
       "articleUrl": "https://www.theverge.com/news/825221/perplexity-comet-ai-browser-launch-android"
+    },
+    {
+      "id": "335",
+      "topic": "Dev Tools",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT Group Chat",
+      "mediumTitle": "ChatGPT Group Chats Now Global",
+      "longTitle": "OpenAI Rolls Out Group Chat Feature for ChatGPT Globally",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI is making group chats a widely",
+            "available feature within ChatGPT,",
+            "enabling users to invite up to 20 other",
+            "individuals to participate in",
+            "conversations with the AI chatbot.",
+            "The core benefit highlighted is the",
+            "enhanced collaboration potential,",
+            "allowing multiple users to leverage",
+            "ChatGPT\u0027s intelligence in a shared",
+            "context.",
+            "This new functionality has been rolled",
+            "out globally to all logged-in users,",
+            "following a brief pilot program",
+            "conducted earlier in the month.",
+            "OpenAI\u0027s strategic move expands",
+            "ChatGPT\u0027s functionality beyond",
+            "individual interactions."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-20T15:58:11.000Z",
+      "ranking": 0.4640223505636154,
+      "articleUrl": "https://www.theverge.com/news/825544/openai-chatgpt-group-chats-launch"
     },
     {
       "id": "336",
@@ -798,42 +865,8 @@
         }
       ],
       "publishedAt": "2025-11-20T15:51:56.000Z",
-      "ranking": 1.327129496317541,
+      "ranking": 0.4634475039081165,
       "articleUrl": "https://www.theverge.com/news/825510/nvidia-china-smuggling-ai-chips-h200"
-    },
-    {
-      "id": "335",
-      "topic": "Dev Tools",
-      "source": "The Verge AI",
-      "shortTitle": "ChatGPT Group Chat",
-      "mediumTitle": "ChatGPT Group Chats Now Global",
-      "longTitle": "OpenAI Rolls Out Group Chat Feature for ChatGPT Globally",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI is making group chats a widely",
-            "available feature within ChatGPT,",
-            "enabling users to invite up to 20 other",
-            "individuals to participate in",
-            "conversations with the AI chatbot.",
-            "The core benefit highlighted is the",
-            "enhanced collaboration potential,",
-            "allowing multiple users to leverage",
-            "ChatGPT\u0027s intelligence in a shared",
-            "context.",
-            "This new functionality has been rolled",
-            "out globally to all logged-in users,",
-            "following a brief pilot program",
-            "conducted earlier in the month.",
-            "OpenAI\u0027s strategic move expands",
-            "ChatGPT\u0027s functionality beyond",
-            "individual interactions."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-20T15:58:11.000Z",
-      "ranking": 1.3262574025540754,
-      "articleUrl": "https://www.theverge.com/news/825544/openai-chatgpt-group-chats-launch"
     },
     {
       "id": "330",
@@ -868,7 +901,7 @@
         }
       ],
       "publishedAt": "2025-11-20T15:00:00.000Z",
-      "ranking": 1.215058802039728,
+      "ranking": 0.33935389022878937,
       "articleUrl": "https://venturebeat.com/ai/tomes-founders-ditch-viral-presentation-app-with-20m-users-to-build-ai"
     },
     {
@@ -905,7 +938,7 @@
         }
       ],
       "publishedAt": "2025-11-20T15:16:34.000Z",
-      "ranking": 1.1946307000104923,
+      "ranking": 0.32276106503802726,
       "articleUrl": "https://www.theverge.com/tech/825382/ai-music-streaming-deal-klay-umg-sony-warner"
     },
     {
@@ -937,41 +970,8 @@
         }
       ],
       "publishedAt": "2025-11-20T13:31:49.000Z",
-      "ranking": 0.29268832571327685,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/825052/amazon-prime-original-ai-video-recap-fallout-jack-ryan"
-    },
-    {
-      "id": "344",
-      "topic": "Dev Tools",
-      "source": "The Verge AI",
-      "shortTitle": "ChatGPT Atlas Update",
-      "mediumTitle": "ChatGPT Atlas Adds Vertical Tabs",
-      "longTitle": "ChatGPT Atlas Updates with Vertical Tabs Resembling Arc Browser",
-      "paragraphs": [
-        {
-          "Lines": [
-            "ChatGPT Atlas, a feature within the",
-            "AI-powered browser, is undergoing an",
-            "update that introduces vertical tabs,",
-            "drawing a visual resemblance to the Arc",
-            "browser.",
-            "However, with this new update, users",
-            "will have the option to switch their tab",
-            "style, allowing them to access and",
-            "manage their ChatGPT sessions within a",
-            "sidebar located on the left-hand side of",
-            "the screen.",
-            "A key feature of this new sidebar in",
-            "ChatGPT Atlas is its resizability,",
-            "mirroring a similar capability in Arc,",
-            "which allows users to adjust the width",
-            "of the sidebar to their preference."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-20T11:04:02.000Z",
-      "ranking": 0.20775167239297776,
-      "articleUrl": "https://www.theverge.com/news/825036/openai-chatgpt-atlas-arc-vertical-tabs-update"
     },
     {
       "id": "342",
@@ -1007,6 +1007,39 @@
       "publishedAt": "2025-11-20T12:40:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/report/825141/sunos-ceo-ai-text-prompt-really-active-music-creation"
+    },
+    {
+      "id": "344",
+      "topic": "Dev Tools",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT Atlas Update",
+      "mediumTitle": "ChatGPT Atlas Adds Vertical Tabs",
+      "longTitle": "ChatGPT Atlas Updates with Vertical Tabs Resembling Arc Browser",
+      "paragraphs": [
+        {
+          "Lines": [
+            "ChatGPT Atlas, a feature within the",
+            "AI-powered browser, is undergoing an",
+            "update that introduces vertical tabs,",
+            "drawing a visual resemblance to the Arc",
+            "browser.",
+            "However, with this new update, users",
+            "will have the option to switch their tab",
+            "style, allowing them to access and",
+            "manage their ChatGPT sessions within a",
+            "sidebar located on the left-hand side of",
+            "the screen.",
+            "A key feature of this new sidebar in",
+            "ChatGPT Atlas is its resizability,",
+            "mirroring a similar capability in Arc,",
+            "which allows users to adjust the width",
+            "of the sidebar to their preference."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-20T11:04:02.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/825036/openai-chatgpt-atlas-arc-vertical-tabs-update"
     },
     {
       "id": "331",
@@ -1571,41 +1604,6 @@
       "publishedAt": "2025-11-18T22:25:59.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/823711/cloudflare-outage-postmortem"
-    },
-    {
-      "id": "311",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Grok 4.1 Launched",
-      "mediumTitle": "xAI Releases Grok 4.1 LLM",
-      "longTitle": "xAI\u0027s Grok 4.1 LLM Launched with Enhanced Capabilities",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Elon Musk\u0027s AI startup, xAI, has",
-            "launched its latest large language",
-            "model, Grok 4.1, aiming to compete with",
-            "major players like Google and OpenAI.",
-            "A major constraint for enterprise",
-            "adoption is that Grok 4.1 is not yet",
-            "available through xAI\u0027s public API.",
-            "Grok 4.1 boasts significant",
-            "architectural and usability",
-            "enhancements, including faster",
-            "reasoning, improved emotional",
-            "intelligence, and a substantially",
-            "reduced hallucination rate.",
-            "However, the lack of API access means it",
-            "remains primarily a consumer-focused",
-            "product for now, with its future",
-            "enterprise applicability contingent on",
-            "future API availability."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-18T21:03:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and"
     },
     {
       "id": "326",
