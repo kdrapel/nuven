@@ -99,7 +99,7 @@
         }
       ],
       "publishedAt": "2025-11-22T08:34:27.000Z",
-      "ranking": 6.6916330171425065,
+      "ranking": 6.282528101633831,
       "articleUrl": "https://www.marktechpost.com/2025/11/21/google-deepmind-introduces-nano-banana-pro-the-gemini-3-pro-image-model-for-text-accurate-and-studio-grade-visuals/"
     },
     {
@@ -133,7 +133,7 @@
         }
       ],
       "publishedAt": "2025-11-22T00:01:00.000Z",
-      "ranking": 5.671873141245319,
+      "ranking": 5.143901115276674,
       "articleUrl": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026"
     },
     {
@@ -168,7 +168,7 @@
         }
       ],
       "publishedAt": "2025-11-21T20:04:21.000Z",
-      "ranking": 4.998635781846385,
+      "ranking": 4.4158776979219,
       "articleUrl": "https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out"
     },
     {
@@ -201,7 +201,7 @@
         }
       ],
       "publishedAt": "2025-11-21T13:00:00.000Z",
-      "ranking": 4.367304705179999,
+      "ranking": 3.686306757921221,
       "articleUrl": "https://www.theverge.com/column/826172/ai-startup-arr-numbers-sierra-bret-taylor"
     },
     {
@@ -237,7 +237,7 @@
         }
       ],
       "publishedAt": "2025-11-21T14:02:01.000Z",
-      "ranking": 3.9489857915552555,
+      "ranking": 3.2823451163926114,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/825498/openai-sora-video-slop-nostalgia-mister-rogers"
     },
     {
@@ -272,7 +272,7 @@
         }
       ],
       "publishedAt": "2025-11-21T09:47:10.000Z",
-      "ranking": 3.7845900043432206,
+      "ranking": 3.058949849831796,
       "articleUrl": "https://www.marktechpost.com/2025/11/21/an-implementation-of-fully-traced-and-evaluated-local-llm-pipeline-using-opik-for-transparent-measurable-and-reproducible-ai-workflows/"
     },
     {
@@ -306,7 +306,7 @@
         }
       ],
       "publishedAt": "2025-11-21T11:56:20.000Z",
-      "ranking": 3.740974466974599,
+      "ranking": 3.0452372590642742,
       "articleUrl": "https://www.marktechpost.com/2025/11/21/perplexity-ai-releases-transferengine-and-pplx-garden-to-run-trillion-parameter-llms-on-existing-gpu-clusters/"
     },
     {
@@ -341,7 +341,7 @@
         }
       ],
       "publishedAt": "2025-11-21T08:00:00.000Z",
-      "ranking": 3.596960334108034,
+      "ranking": 2.8465103789751627,
       "articleUrl": "https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley"
     },
     {
@@ -375,7 +375,7 @@
         }
       ],
       "publishedAt": "2025-11-21T06:45:32.000Z",
-      "ranking": 3.333929422991912,
+      "ranking": 2.5662399358631154,
       "articleUrl": "https://www.theverge.com/report/826003/googles-nano-banana-pro-generates-excellent-conspiracy-fuel"
     },
     {
@@ -409,8 +409,40 @@
         }
       ],
       "publishedAt": "2025-11-21T04:07:15.000Z",
-      "ranking": 3.0431530750746054,
+      "ranking": 2.2388199378375147,
       "articleUrl": "https://www.marktechpost.com/2025/11/20/allen-institute-for-ai-ai2-introduces-olmo-3-an-open-source-7b-and-32b-llm-family-built-on-the-dolma-3-and-dolci-stack/"
+    },
+    {
+      "id": "355",
+      "topic": "AI Ops",
+      "source": "VentureBeat AI",
+      "shortTitle": "Salesforce AI Insight",
+      "mediumTitle": "Salesforce Agentforce Observability",
+      "longTitle": "Salesforce Launches Agentforce Observability for AI Agent Transparency",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Salesforce has launched Agentforce",
+            "Observability, a suite of monitoring",
+            "tools designed to address the critical",
+            "challenge of understanding how AI agents",
+            "make decisions in real-time customer",
+            "interactions.",
+            "This new capability, integrated into",
+            "Salesforce\u0027s Agentforce 360 Platform,",
+            "provides granular visibility into every",
+            "action, reasoning step, and guardrail",
+            "triggered by AI agents.",
+            "The move aims to alleviate executive",
+            "wariness surrounding autonomous AI",
+            "systems, which promise efficiency gains",
+            "but often lack transparency and control."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-21T11:00:00.000Z",
+      "ranking": 1.3233432984710927,
+      "articleUrl": "https://venturebeat.com/ai/salesforce-agentforce-observability-lets-you-watch-your-ai-agents-think-in"
     },
     {
       "id": "356",
@@ -445,40 +477,8 @@
         }
       ],
       "publishedAt": "2025-11-21T01:00:00.000Z",
-      "ranking": 2.1050551472813854,
+      "ranking": 1.2573723755944552,
       "articleUrl": "https://venturebeat.com/ai/googles-nested-learning-paradigm-could-solve-ais-memory-and-continual"
-    },
-    {
-      "id": "355",
-      "topic": "AI Ops",
-      "source": "VentureBeat AI",
-      "shortTitle": "Salesforce AI Insight",
-      "mediumTitle": "Salesforce Agentforce Observability",
-      "longTitle": "Salesforce Launches Agentforce Observability for AI Agent Transparency",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Salesforce has launched Agentforce",
-            "Observability, a suite of monitoring",
-            "tools designed to address the critical",
-            "challenge of understanding how AI agents",
-            "make decisions in real-time customer",
-            "interactions.",
-            "This new capability, integrated into",
-            "Salesforce\u0027s Agentforce 360 Platform,",
-            "provides granular visibility into every",
-            "action, reasoning step, and guardrail",
-            "triggered by AI agents.",
-            "The move aims to alleviate executive",
-            "wariness surrounding autonomous AI",
-            "systems, which promise efficiency gains",
-            "but often lack transparency and control."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-21T11:00:00.000Z",
-      "ranking": 2.0321220439253302,
-      "articleUrl": "https://venturebeat.com/ai/salesforce-agentforce-observability-lets-you-watch-your-ai-agents-think-in"
     },
     {
       "id": "345",
@@ -513,7 +513,7 @@
         }
       ],
       "publishedAt": "2025-11-21T00:57:00.000Z",
-      "ranking": 1.7076236812868277,
+      "ranking": 0.8592463956872471,
       "articleUrl": "https://venturebeat.com/ai/grok-4-1-fasts-compelling-dev-access-and-agent-tools-api-overshadowed-by"
     },
     {
@@ -550,7 +550,7 @@
         }
       ],
       "publishedAt": "2025-11-20T21:20:00.000Z",
-      "ranking": 1.1239947702985296,
+      "ranking": 0.22538053271741454,
       "articleUrl": "https://venturebeat.com/ai/googles-upgraded-nano-banana-pro-ai-image-model-hailed-as-absolutely-bonkers"
     },
     {
@@ -586,7 +586,7 @@
         }
       ],
       "publishedAt": "2025-11-20T18:35:00.000Z",
-      "ranking": 0.6479489872888831,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/scaleops-new-ai-infra-product-slashes-gpu-costs-for-self-hosted-enterprise"
     },
     {
@@ -622,7 +622,7 @@
         }
       ],
       "publishedAt": "2025-11-20T18:14:15.000Z",
-      "ranking": 0.31915676118326797,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/825675/groks-elon-musk-worship-is-getting-weird"
     },
     {
@@ -658,7 +658,7 @@
         }
       ],
       "publishedAt": "2025-11-20T18:09:06.000Z",
-      "ranking": 0.21120343293127686,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/825667/google-nano-banana-pro-test"
     },
     {
