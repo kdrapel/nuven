@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "400",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "DeepSeekMath V2",
+      "mediumTitle": "DeepSeekMath-V2: AI for Math Proofs",
+      "longTitle": "DeepSeekMath-V2: New AI Model Excels at Math Theorem Proving",
+      "paragraphs": [
+        {
+          "Lines": [
+            "DeepSeek AI has launched",
+            "DeepSeekMath-V2, an open-weights large",
+            "language model specifically designed for",
+            "natural language theorem proving and",
+            "self-verification of its reasoning.",
+            "The model achieved a remarkable score of",
+            "118 out of 120 on the 2024 Putnam exam.",
+            "The model\u0027s architecture and training",
+            "are optimized to not only generate",
+            "proofs in clear, natural language but",
+            "also to critically assess the",
+            "correctness of its own logical steps.",
+            "This self-verification mechanism is",
+            "crucial for ensuring the reliability and",
+            "accuracy of its mathematical reasoning.",
+            "A key highlight of DeepSeekMath-V2 is",
+            "its exceptional performance on the",
+            "Putnam Competition, a highly challenging",
+            "mathematics exam."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-28T10:35:43.000Z",
+      "ranking": 8.46875,
+      "articleUrl": "https://www.marktechpost.com/2025/11/28/deepseek-ai-releases-deepseekmath-v2-the-open-weights-maths-model-that-scored-118-120-on-putnam-2024/"
+    },
+    {
       "id": "396",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -32,7 +68,7 @@
         }
       ],
       "publishedAt": "2025-11-27T10:30:00.000Z",
-      "ranking": 7.377874379998947,
+      "ranking": 6.9935707362151796,
       "articleUrl": "https://www.theverge.com/report/829137/openai-chatgpt-time-date"
     },
     {
@@ -67,7 +103,7 @@
         }
       ],
       "publishedAt": "2025-11-27T08:30:00.000Z",
-      "ranking": 6.719574148202414,
+      "ranking": 6.30735793323079,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/830450/ai-shopping-assistants-are-stuck-in-the-past"
     },
     {
@@ -102,7 +138,7 @@
         }
       ],
       "publishedAt": "2025-11-27T09:07:54.000Z",
-      "ranking": 5.994254029087699,
+      "ranking": 5.590853664266198,
       "articleUrl": "https://www.theverge.com/news/831354/alibaba-quark-smart-glasses"
     },
     {
@@ -136,7 +172,7 @@
         }
       ],
       "publishedAt": "2025-11-27T08:44:01.000Z",
-      "ranking": 5.928235733902419,
+      "ranking": 5.519279912096397,
       "articleUrl": "https://www.marktechpost.com/2025/11/26/oceanbase-releases-seekdb-an-open-source-ai-native-hybrid-search-database-for-multi-model-rag-and-ai-agents/"
     },
     {
@@ -170,7 +206,7 @@
         }
       ],
       "publishedAt": "2025-11-27T11:57:49.000Z",
-      "ranking": 5.789231594454833,
+      "ranking": 5.425355219403808,
       "articleUrl": "https://www.theverge.com/news/831451/china-humanoid-robotics-bubble"
     },
     {
@@ -205,7 +241,7 @@
         }
       ],
       "publishedAt": "2025-11-26T20:43:44.000Z",
-      "ranking": 5.4280673898649185,
+      "ranking": 4.8515678343821556,
       "articleUrl": "https://www.theverge.com/news/831207/openai-chatgpt-lawsuit-parental-controls-tos"
     },
     {
@@ -240,7 +276,7 @@
         }
       ],
       "publishedAt": "2025-11-26T15:00:00.000Z",
-      "ranking": 4.566661816837593,
+      "ranking": 3.9102071033849413,
       "articleUrl": "https://venturebeat.com/ai/a-weekend-vibe-code-hack-by-andrej-karpathy-quietly-sketches-the-missing"
     },
     {
@@ -275,7 +311,7 @@
         }
       ],
       "publishedAt": "2025-11-26T20:07:34.000Z",
-      "ranking": 4.421096933409499,
+      "ranking": 3.836184640705673,
       "articleUrl": "https://www.marktechpost.com/2025/11/26/tencent-hunyuan-releases-hunyuanocr-a-1b-parameter-end-to-end-ocr-expert-vlm/"
     },
     {
@@ -312,7 +348,7 @@
         }
       ],
       "publishedAt": "2025-11-26T10:28:11.000Z",
-      "ranking": 3.4864003230740055,
+      "ranking": 2.76671877345691,
       "articleUrl": "https://www.theverge.com/news/829892/character-ai-stories-launch-teens"
     },
     {
@@ -349,7 +385,7 @@
         }
       ],
       "publishedAt": "2025-11-26T09:00:55.000Z",
-      "ranking": 3.4561446445279964,
+      "ranking": 2.7161641587683523,
       "articleUrl": "https://www.theverge.com/news/829808/chatgpt-copilot-ai-llm-leaving-whatsapp-meta"
     },
     {
@@ -386,7 +422,7 @@
         }
       ],
       "publishedAt": "2025-11-26T08:04:28.000Z",
-      "ranking": 3.383032459763153,
+      "ranking": 2.6299212462058756,
       "articleUrl": "https://www.marktechpost.com/2025/11/25/how-to-implement-functional-components-of-transformer-and-mini-gpt-model-from-scratch-using-tinygrad-to-understand-deep-learning-internals/"
     },
     {
@@ -423,7 +459,7 @@
         }
       ],
       "publishedAt": "2025-11-26T08:46:05.000Z",
-      "ranking": 2.9135660957670435,
+      "ranking": 2.170134642007574,
       "articleUrl": "https://www.marktechpost.com/2025/11/25/black-forest-labs-releases-flux-2-a-32b-flow-matching-transformer-for-production-image-pipelines/"
     },
     {
@@ -459,7 +495,7 @@
         }
       ],
       "publishedAt": "2025-11-26T04:46:00.000Z",
-      "ranking": 1.9986047015059984,
+      "ranking": 1.1993278596205759,
       "articleUrl": "https://venturebeat.com/ai/black-forest-labs-launches-flux-2-ai-image-models-to-challenge-nano-banana"
     },
     {
@@ -494,7 +530,7 @@
         }
       ],
       "publishedAt": "2025-11-26T01:00:00.000Z",
-      "ranking": 1.6579181977759472,
+      "ranking": 0.8060718544620835,
       "articleUrl": "https://venturebeat.com/ai/alibabas-agentevolver-lifts-model-performance-in-tool-use-by-30-using"
     },
     {
@@ -528,7 +564,7 @@
         }
       ],
       "publishedAt": "2025-11-25T19:25:47.000Z",
-      "ranking": 1.3090789330751331,
+      "ranking": 0.3794910029435865,
       "articleUrl": "https://www.marktechpost.com/2025/11/25/salesforce-ai-research-introduces-xrouter-a-reinforcement-learning-router-for-cost-aware-llm-orchestration/"
     },
     {
@@ -563,45 +599,8 @@
         }
       ],
       "publishedAt": "2025-11-25T17:06:08.000Z",
-      "ranking": 0.28793518196854695,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/829179/david-sacks-ai-executive-order"
-    },
-    {
-      "id": "382",
-      "topic": "Music",
-      "source": "The Verge AI",
-      "shortTitle": "WMG \u0026 Suno AI Deal",
-      "mediumTitle": "Warner Music Group licenses artist assets to Suno AI",
-      "longTitle": "Warner Music Group partners with Suno AI for licensed artist-generated music",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Warner Music Group (WMG) has entered",
-            "into a significant licensing agreement",
-            "with Suno, an artificial intelligence",
-            "(AI) music creation platform.",
-            "This partnership will enable users of",
-            "Suno to generate AI-powered music that",
-            "incorporates the voices, names,",
-            "likenesses, images, and even",
-            "compositions of artists who have chosen",
-            "to participate in this program.",
-            "This opt-in mechanism suggests a degree",
-            "of control for the artists themselves,",
-            "allowing them to decide whether their",
-            "likeness and work are made available for",
-            "AI manipulation.",
-            "The emphasis on \u0022opt-in\u0022 is crucial, as",
-            "it addresses some of the initial",
-            "concerns surrounding AI\u0027s use of",
-            "artists\u0027 identities without their",
-            "consent."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-25T16:47:02.000Z",
-      "ranking": 0.10015031774408634,
-      "articleUrl": "https://www.theverge.com/news/829189/warner-music-group-suno-ai-licensing-deal"
     },
     {
       "id": "377",
@@ -639,6 +638,43 @@
       "publishedAt": "2025-11-25T16:52:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/what-enterprises-should-know-about-the-white-houses-new-ai-manhattan-project"
+    },
+    {
+      "id": "382",
+      "topic": "Music",
+      "source": "The Verge AI",
+      "shortTitle": "WMG \u0026 Suno AI Deal",
+      "mediumTitle": "Warner Music Group licenses artist assets to Suno AI",
+      "longTitle": "Warner Music Group partners with Suno AI for licensed artist-generated music",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Warner Music Group (WMG) has entered",
+            "into a significant licensing agreement",
+            "with Suno, an artificial intelligence",
+            "(AI) music creation platform.",
+            "This partnership will enable users of",
+            "Suno to generate AI-powered music that",
+            "incorporates the voices, names,",
+            "likenesses, images, and even",
+            "compositions of artists who have chosen",
+            "to participate in this program.",
+            "This opt-in mechanism suggests a degree",
+            "of control for the artists themselves,",
+            "allowing them to decide whether their",
+            "likeness and work are made available for",
+            "AI manipulation.",
+            "The emphasis on \u0022opt-in\u0022 is crucial, as",
+            "it addresses some of the initial",
+            "concerns surrounding AI\u0027s use of",
+            "artists\u0027 identities without their",
+            "consent."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-25T16:47:02.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/829189/warner-music-group-suno-ai-licensing-deal"
     },
     {
       "id": "383",
@@ -1308,6 +1344,40 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/21/google-deepmind-introduces-nano-banana-pro-the-gemini-3-pro-image-model-for-text-accurate-and-studio-grade-visuals/"
     },
     {
+      "id": "359",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "GPT-4o API Sunset",
+      "mediumTitle": "OpenAI Retires GPT-4o API",
+      "longTitle": "OpenAI to Retire GPT-4o Model from Developer API in 2026",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI is set to retire its GPT-4o model",
+            "from its developer API on February 16,",
+            "2026, after its release in May 2024.",
+            "This backlash led OpenAI to reinstate",
+            "GPT-4o as a default option for paying",
+            "users and commit to providing",
+            "substantial advance notice before future",
+            "model removals.",
+            "When OpenAI attempted to replace it with",
+            "the GPT-5 series in August 2025, users",
+            "reacted strongly, rallying under the",
+            "#Keep4o hashtag.",
+            "GPT-4o became a significant technical",
+            "achievement and popular consumer model",
+            "due to its unified multimodal",
+            "architecture enabling near real-time",
+            "processing of text, audio, and images."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-22T00:01:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026"
+    },
+    {
       "id": "380",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -1336,40 +1406,6 @@
             "with GPT-5 in August 2025, users reacted",
             "negatively, advocating for its return",
             "under the #Keep4o hashtag."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-22T00:01:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026"
-    },
-    {
-      "id": "359",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "GPT-4o API Sunset",
-      "mediumTitle": "OpenAI Retires GPT-4o API",
-      "longTitle": "OpenAI to Retire GPT-4o Model from Developer API in 2026",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI is set to retire its GPT-4o model",
-            "from its developer API on February 16,",
-            "2026, after its release in May 2024.",
-            "This backlash led OpenAI to reinstate",
-            "GPT-4o as a default option for paying",
-            "users and commit to providing",
-            "substantial advance notice before future",
-            "model removals.",
-            "When OpenAI attempted to replace it with",
-            "the GPT-5 series in August 2025, users",
-            "reacted strongly, rallying under the",
-            "#Keep4o hashtag.",
-            "GPT-4o became a significant technical",
-            "achievement and popular consumer model",
-            "due to its unified multimodal",
-            "architecture enabling near real-time",
-            "processing of text, audio, and images."
           ]
         }
       ],
@@ -1684,42 +1720,6 @@
       "publishedAt": "2025-11-21T04:07:15.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/20/allen-institute-for-ai-ai2-introduces-olmo-3-an-open-source-7b-and-32b-llm-family-built-on-the-dolma-3-and-dolci-stack/"
-    },
-    {
-      "id": "356",
-      "topic": "Neural Nets",
-      "source": "VentureBeat AI",
-      "shortTitle": "Nested Learning AI",
-      "mediumTitle": "Google\u0027s Nested Learning for AI",
-      "longTitle": "Google\u0027s Nested Learning: AI That Learns Continuously",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google researchers have introduced",
-            "Nested Learning (NL), a new AI paradigm",
-            "enabling models to learn and update",
-            "knowledge post-training, unlike static",
-            "traditional LLMs.",
-            "The model Hope, built on the Titans",
-            "architecture, uses a Continuum Memory",
-            "System (CMS) for unbounded in-context",
-            "learning levels and scalable context",
-            "windows.",
-            "This self-referential loop allows Hope",
-            "to optimize its own memory, creating an",
-            "architecture with theoretically infinite",
-            "learning capabilities.",
-            "Hope\u0027s CMS employs a series of memory",
-            "banks updating at different frequencies,",
-            "with faster banks for immediate",
-            "information and slower ones for",
-            "consolidated knowledge."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-21T01:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/googles-nested-learning-paradigm-could-solve-ais-memory-and-continual"
     }
   ]
 }
