@@ -37,6 +37,42 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/28/deepseek-ai-releases-deepseekmath-v2-the-open-weights-maths-model-that-scored-118-120-on-putnam-2024/"
     },
     {
+      "id": "405",
+      "topic": "Learning",
+      "source": "VentureBeat AI",
+      "shortTitle": "Agent-R1 LLM Training",
+      "mediumTitle": "Agent-R1: New RL for LLMs",
+      "longTitle": "Agent-R1: Reinforcement Learning for Complex LLM Tasks",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The University of Science and Technology",
+            "of China has introduced Agent-R1, a",
+            "novel reinforcement learning (RL)",
+            "framework designed to train large",
+            "language models (LLMs) for complex,",
+            "real-world agentic tasks that extend",
+            "beyond well-defined problems like",
+            "mathematics and coding.",
+            "Crucially, Agent-R1 introduces \u0022process",
+            "rewards\u0022 for successfully completing",
+            "intermediate steps, mitigating the",
+            "\u0022sparse reward\u0022 problem inherent in",
+            "frameworks that only provide a final",
+            "outcome reward.",
+            "The results showed that RL-trained",
+            "agents using Agent-R1 significantly",
+            "outperformed the baselines, with the",
+            "GRPO algorithm achieving the best",
+            "performance."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-28T05:00:00.000Z",
+      "ranking": 7.942857142857143,
+      "articleUrl": "https://venturebeat.com/ai/beyond-math-and-coding-new-rl-framework-helps-train-llm-agents-for-complex"
+    },
+    {
       "id": "401",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -71,6 +107,42 @@
       "publishedAt": "2025-11-28T17:19:00.000Z",
       "ranking": 7.842857142857143,
       "articleUrl": "https://venturebeat.com/ai/what-to-be-thankful-for-in-ai-in-2025"
+    },
+    {
+      "id": "404",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Agent Memory",
+      "mediumTitle": "Anthropic Solves AI Agent Memory",
+      "longTitle": "Anthropic Introduces New Solution for AI Agent Memory Issues",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Anthropic has introduced a new solution",
+            "for the long-standing problem of \u0022agent",
+            "memory\u0022 in artificial intelligence,",
+            "particularly for AI agents that need to",
+            "perform tasks over extended periods.",
+            "The second part is a \u0022coding agent\u0022 that",
+            "makes incremental progress on the task",
+            "in each session and leaves structured",
+            "updates and artifacts for the next",
+            "session, ensuring continuity.",
+            "To address this, Anthropic has developed",
+            "a two-fold approach integrated into its",
+            "Claude Agent SDK, enabling agents to",
+            "work effectively across different",
+            "context windows.",
+            "The new two-part solution aims to",
+            "mitigate these issues by ensuring each",
+            "agent focuses on incremental progress",
+            "and leaves a clear record."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-28T20:30:00.000Z",
+      "ranking": 7.114285714285714,
+      "articleUrl": "https://venturebeat.com/ai/anthropic-says-it-solved-the-long-running-ai-agent-problem-with-a-new-multi"
     },
     {
       "id": "402",
@@ -174,7 +246,7 @@
         }
       ],
       "publishedAt": "2025-11-27T10:30:00.000Z",
-      "ranking": 6.555075700413056,
+      "ranking": 6.06176364213084,
       "articleUrl": "https://www.theverge.com/report/829137/openai-chatgpt-time-date"
     },
     {
@@ -209,7 +281,7 @@
         }
       ],
       "publishedAt": "2025-11-27T08:30:00.000Z",
-      "ranking": 5.841063518442038,
+      "ranking": 5.319996019939012,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/830450/ai-shopping-assistants-are-stuck-in-the-past"
     },
     {
@@ -244,7 +316,7 @@
         }
       ],
       "publishedAt": "2025-11-27T09:07:54.000Z",
-      "ranking": 5.133339222094874,
+      "ranking": 4.621037814794455,
       "articleUrl": "https://www.theverge.com/news/831354/alibaba-quark-smart-glasses"
     },
     {
@@ -278,7 +350,7 @@
         }
       ],
       "publishedAt": "2025-11-27T08:44:01.000Z",
-      "ranking": 5.056232620298614,
+      "ranking": 4.538407109703864,
       "articleUrl": "https://www.marktechpost.com/2025/11/26/oceanbase-releases-seekdb-an-open-source-ai-native-hybrid-search-database-for-multi-model-rag-and-ai-agents/"
     },
     {
@@ -312,7 +384,7 @@
         }
       ],
       "publishedAt": "2025-11-27T11:57:49.000Z",
-      "ranking": 5.00720392870501,
+      "ranking": 4.534203451027028,
       "articleUrl": "https://www.theverge.com/news/831451/china-humanoid-robotics-bubble"
     },
     {
@@ -347,43 +419,8 @@
         }
       ],
       "publishedAt": "2025-11-26T20:43:44.000Z",
-      "ranking": 4.221658616595112,
+      "ranking": 3.537234931718764,
       "articleUrl": "https://www.theverge.com/news/831207/openai-chatgpt-lawsuit-parental-controls-tos"
-    },
-    {
-      "id": "389",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "LLM Council AI",
-      "mediumTitle": "LLM Council: AI Orchestration",
-      "longTitle": "LLM Council: AI Orchestration Middleware Reference Architecture",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Andrej Karpathy developed the \u0027LLM",
-            "Council\u0027 project over a weekend as a",
-            "reference architecture for AI",
-            "orchestration middleware, connecting",
-            "corporate applications to AI models.",
-            "The core challenge for enterprises",
-            "moving into 2026 lies not in prompt",
-            "routing but in building the necessary",
-            "governance and compliance layers.",
-            "Crucially, it doesn\u0027t handle Personally",
-            "Identifiable Information (PII) redaction",
-            "or provide audit logs, raising",
-            "significant compliance concerns for",
-            "corporate environments.",
-            "Enterprises must decide whether to",
-            "develop these layers in-house or rely on",
-            "commercial solutions to \u0027harden\u0027 the",
-            "core \u0027vibe code\u0027."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-26T15:00:00.000Z",
-      "ranking": 3.2006681048837224,
-      "articleUrl": "https://venturebeat.com/ai/a-weekend-vibe-code-hack-by-andrej-karpathy-quietly-sketches-the-missing"
     },
     {
       "id": "393",
@@ -417,8 +454,43 @@
         }
       ],
       "publishedAt": "2025-11-26T20:07:34.000Z",
-      "ranking": 3.1978976248349262,
+      "ranking": 2.5051080350158985,
       "articleUrl": "https://www.marktechpost.com/2025/11/26/tencent-hunyuan-releases-hunyuanocr-a-1b-parameter-end-to-end-ocr-expert-vlm/"
+    },
+    {
+      "id": "389",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "LLM Council AI",
+      "mediumTitle": "LLM Council: AI Orchestration",
+      "longTitle": "LLM Council: AI Orchestration Middleware Reference Architecture",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Andrej Karpathy developed the \u0027LLM",
+            "Council\u0027 project over a weekend as a",
+            "reference architecture for AI",
+            "orchestration middleware, connecting",
+            "corporate applications to AI models.",
+            "The core challenge for enterprises",
+            "moving into 2026 lies not in prompt",
+            "routing but in building the necessary",
+            "governance and compliance layers.",
+            "Crucially, it doesn\u0027t handle Personally",
+            "Identifiable Information (PII) redaction",
+            "or provide audit logs, raising",
+            "significant compliance concerns for",
+            "corporate environments.",
+            "Enterprises must decide whether to",
+            "develop these layers in-house or rely on",
+            "commercial solutions to \u0027harden\u0027 the",
+            "core \u0027vibe code\u0027."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-26T15:00:00.000Z",
+      "ranking": 2.436739673436957,
+      "articleUrl": "https://venturebeat.com/ai/a-weekend-vibe-code-hack-by-andrej-karpathy-quietly-sketches-the-missing"
     },
     {
       "id": "390",
@@ -454,7 +526,7 @@
         }
       ],
       "publishedAt": "2025-11-26T10:28:11.000Z",
-      "ranking": 1.9942110879123822,
+      "ranking": 1.1674126766026784,
       "articleUrl": "https://www.theverge.com/news/829892/character-ai-stories-launch-teens"
     },
     {
@@ -491,7 +563,7 @@
         }
       ],
       "publishedAt": "2025-11-26T09:00:55.000Z",
-      "ranking": 1.9234401696834498,
+      "ranking": 1.0764573625230422,
       "articleUrl": "https://www.theverge.com/news/829808/chatgpt-copilot-ai-llm-leaving-whatsapp-meta"
     },
     {
@@ -528,7 +600,7 @@
         }
       ],
       "publishedAt": "2025-11-26T08:04:28.000Z",
-      "ranking": 1.824119978149863,
+      "ranking": 0.9640805357590461,
       "articleUrl": "https://www.marktechpost.com/2025/11/25/how-to-implement-functional-components-of-transformer-and-mini-gpt-model-from-scratch-using-tinygrad-to-understand-deep-learning-internals/"
     },
     {
@@ -565,7 +637,7 @@
         }
       ],
       "publishedAt": "2025-11-26T08:46:05.000Z",
-      "ranking": 1.3739749582794207,
+      "ranking": 0.5235612624436925,
       "articleUrl": "https://www.marktechpost.com/2025/11/25/black-forest-labs-releases-flux-2-a-32b-flow-matching-transformer-for-production-image-pipelines/"
     },
     {
@@ -601,7 +673,7 @@
         }
       ],
       "publishedAt": "2025-11-26T04:46:00.000Z",
-      "ranking": 0.3475502088470108,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/black-forest-labs-launches-flux-2-ai-image-models-to-challenge-nano-banana"
     },
     {
@@ -1656,73 +1728,6 @@
       "publishedAt": "2025-11-21T11:56:20.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/21/perplexity-ai-releases-transferengine-and-pplx-garden-to-run-trillion-parameter-llms-on-existing-gpu-clusters/"
-    },
-    {
-      "id": "355",
-      "topic": "AI Ops",
-      "source": "VentureBeat AI",
-      "shortTitle": "Salesforce AI Insight",
-      "mediumTitle": "Salesforce Agentforce Observability",
-      "longTitle": "Salesforce Launches Agentforce Observability for AI Agent Transparency",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Salesforce has launched Agentforce",
-            "Observability, a suite of monitoring",
-            "tools designed to address the critical",
-            "challenge of understanding how AI agents",
-            "make decisions in real-time customer",
-            "interactions.",
-            "This new capability, integrated into",
-            "Salesforce\u0027s Agentforce 360 Platform,",
-            "provides granular visibility into every",
-            "action, reasoning step, and guardrail",
-            "triggered by AI agents.",
-            "The move aims to alleviate executive",
-            "wariness surrounding autonomous AI",
-            "systems, which promise efficiency gains",
-            "but often lack transparency and control."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-21T11:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/salesforce-agentforce-observability-lets-you-watch-your-ai-agents-think-in"
-    },
-    {
-      "id": "349",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Opik LLM Tutorial",
-      "mediumTitle": "Traceable LLM Pipeline with Opik",
-      "longTitle": "Implementing a Fully Traced and Evaluated Local LLM Pipeline with Opik",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This article provides a tutorial on",
-            "building a transparent, measurable, and",
-            "reproducible local Large Language Model",
-            "(LLM) pipeline using the Opik tool.",
-            "Opik\u0027s tracing capabilities enable users",
-            "to monitor every function span,",
-            "recording not only LLM calls but also",
-            "intermediate steps, data",
-            "transformations, and planning logic.",
-            "As each functional component or \u0027span\u0027",
-            "of the workflow is developed, Opik is",
-            "used to track its execution, allowing",
-            "for a comprehensive understanding of",
-            "data flow and contributions.",
-            "The goal is to achieve transparent,",
-            "measurable, and reproducible AI",
-            "workflows by implementing a fully traced",
-            "and evaluated local LLM pipeline."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-21T09:47:10.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/21/an-implementation-of-fully-traced-and-evaluated-local-llm-pipeline-using-opik-for-transparent-measurable-and-reproducible-ai-workflows/"
     }
   ]
 }
