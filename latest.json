@@ -140,41 +140,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/26/oceanbase-releases-seekdb-an-open-source-ai-native-hybrid-search-database-for-multi-model-rag-and-ai-agents/"
     },
     {
-      "id": "394",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Suicide Lawsuit",
-      "mediumTitle": "OpenAI Responds to Suicide Lawsuit",
-      "longTitle": "OpenAI Denies Liability in Lawsuit Over Teen\u0027s Suicide",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has filed a response to a lawsuit",
-            "brought by the family of Adam Raine, a",
-            "16-year-old who died by suicide.",
-            "In their legal filing, OpenAI denies",
-            "liability, attributing the tragic",
-            "outcome to Raine\u0027s \u0022misuse, unauthorized",
-            "use, unintended use, unforeseeable use,",
-            "and/or improper use of ChatGPT.\u0022",
-            "The Raine family alleges that their",
-            "son\u0027s prolonged discussions with ChatGPT",
-            "about his suicidal ideations contributed",
-            "to his death.",
-            "The family contends that the AI\u0027s",
-            "responses were harmful and that OpenAI",
-            "should be held responsible for the",
-            "foreseeable consequences of its",
-            "product\u0027s interactions with vulnerable",
-            "users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-26T20:43:44.000Z",
-      "ranking": 6.813847075629257,
-      "articleUrl": "https://www.theverge.com/news/831207/openai-chatgpt-lawsuit-parental-controls-tos"
-    },
-    {
       "id": "399",
       "topic": "Robotics",
       "source": "The Verge AI",
@@ -209,6 +174,41 @@
       "articleUrl": "https://www.theverge.com/news/831451/china-humanoid-robotics-bubble"
     },
     {
+      "id": "394",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Suicide Lawsuit",
+      "mediumTitle": "OpenAI Responds to Suicide Lawsuit",
+      "longTitle": "OpenAI Denies Liability in Lawsuit Over Teen\u0027s Suicide",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has filed a response to a lawsuit",
+            "brought by the family of Adam Raine, a",
+            "16-year-old who died by suicide.",
+            "In their legal filing, OpenAI denies",
+            "liability, attributing the tragic",
+            "outcome to Raine\u0027s \u0022misuse, unauthorized",
+            "use, unintended use, unforeseeable use,",
+            "and/or improper use of ChatGPT.\u0022",
+            "The Raine family alleges that their",
+            "son\u0027s prolonged discussions with ChatGPT",
+            "about his suicidal ideations contributed",
+            "to his death.",
+            "The family contends that the AI\u0027s",
+            "responses were harmful and that OpenAI",
+            "should be held responsible for the",
+            "foreseeable consequences of its",
+            "product\u0027s interactions with vulnerable",
+            "users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-26T20:43:44.000Z",
+      "ranking": 6.408637249193356,
+      "articleUrl": "https://www.theverge.com/news/831207/openai-chatgpt-lawsuit-parental-controls-tos"
+    },
+    {
       "id": "389",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -240,7 +240,7 @@
         }
       ],
       "publishedAt": "2025-11-26T15:00:00.000Z",
-      "ranking": 6.190808790465929,
+      "ranking": 5.706384359319444,
       "articleUrl": "https://venturebeat.com/ai/a-weekend-vibe-code-hack-by-andrej-karpathy-quietly-sketches-the-missing"
     },
     {
@@ -275,7 +275,7 @@
         }
       ],
       "publishedAt": "2025-11-26T20:07:34.000Z",
-      "ranking": 5.8319571243732655,
+      "ranking": 5.418412509549117,
       "articleUrl": "https://www.marktechpost.com/2025/11/26/tencent-hunyuan-releases-hunyuanocr-a-1b-parameter-end-to-end-ocr-expert-vlm/"
     },
     {
@@ -312,7 +312,7 @@
         }
       ],
       "publishedAt": "2025-11-26T09:00:55.000Z",
-      "ranking": 5.3293037834503565,
+      "ranking": 4.762127230494178,
       "articleUrl": "https://www.theverge.com/news/829808/chatgpt-copilot-ai-llm-leaving-whatsapp-meta"
     },
     {
@@ -349,7 +349,7 @@
         }
       ],
       "publishedAt": "2025-11-26T10:28:11.000Z",
-      "ranking": 5.29904300304093,
+      "ranking": 4.751977372870103,
       "articleUrl": "https://www.theverge.com/news/829892/character-ai-stories-launch-teens"
     },
     {
@@ -386,7 +386,7 @@
         }
       ],
       "publishedAt": "2025-11-26T08:04:28.000Z",
-      "ranking": 5.295337733570735,
+      "ranking": 4.715152066225922,
       "articleUrl": "https://www.marktechpost.com/2025/11/25/how-to-implement-functional-components-of-transformer-and-mini-gpt-model-from-scratch-using-tinygrad-to-understand-deep-learning-internals/"
     },
     {
@@ -423,7 +423,7 @@
         }
       ],
       "publishedAt": "2025-11-26T08:46:05.000Z",
-      "ranking": 4.797011638685936,
+      "ranking": 4.22641668182025,
       "articleUrl": "https://www.marktechpost.com/2025/11/25/black-forest-labs-releases-flux-2-a-32b-flow-matching-transformer-for-production-image-pipelines/"
     },
     {
@@ -459,7 +459,7 @@
         }
       ],
       "publishedAt": "2025-11-26T04:46:00.000Z",
-      "ranking": 4.048539811626084,
+      "ranking": 3.422616768190979,
       "articleUrl": "https://venturebeat.com/ai/black-forest-labs-launches-flux-2-ai-image-models-to-challenge-nano-banana"
     },
     {
@@ -494,7 +494,7 @@
         }
       ],
       "publishedAt": "2025-11-26T01:00:00.000Z",
-      "ranking": 3.86457656614829,
+      "ranking": 3.18657099277888,
       "articleUrl": "https://venturebeat.com/ai/alibabas-agentevolver-lifts-model-performance-in-tool-use-by-30-using"
     },
     {
@@ -528,7 +528,7 @@
         }
       ],
       "publishedAt": "2025-11-25T19:25:47.000Z",
-      "ranking": 3.7475051076778962,
+      "ranking": 2.992478079231417,
       "articleUrl": "https://www.marktechpost.com/2025/11/25/salesforce-ai-research-introduces-xrouter-a-reinforcement-learning-router-for-cost-aware-llm-orchestration/"
     },
     {
@@ -563,7 +563,7 @@
         }
       ],
       "publishedAt": "2025-11-25T17:06:08.000Z",
-      "ranking": 2.8232038471206415,
+      "ranking": 2.035993964448549,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/829179/david-sacks-ai-executive-order"
     },
     {
@@ -600,7 +600,7 @@
         }
       ],
       "publishedAt": "2025-11-25T16:47:02.000Z",
-      "ranking": 2.6486641797655377,
+      "ranking": 1.8570526315772504,
       "articleUrl": "https://www.theverge.com/news/829189/warner-music-group-suno-ai-licensing-deal"
     },
     {
@@ -637,7 +637,7 @@
         }
       ],
       "publishedAt": "2025-11-25T15:26:11.000Z",
-      "ranking": 2.2602977443803933,
+      "ranking": 1.4500540169355052,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/829019/perplexity-ai-personal-shopper-paypal"
     },
     {
@@ -674,43 +674,8 @@
         }
       ],
       "publishedAt": "2025-11-25T16:52:00.000Z",
-      "ranking": 1.8978683319650935,
+      "ranking": 1.1074013705693373,
       "articleUrl": "https://venturebeat.com/ai/what-enterprises-should-know-about-the-white-houses-new-ai-manhattan-project"
-    },
-    {
-      "id": "374",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Agent0 AI",
-      "mediumTitle": "Agent0: Autonomous AI Evolution",
-      "longTitle": "Agent0: Fully Autonomous AI Framework Evolves Agents",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Agent0 is a novel AI framework developed",
-            "by researchers from UNC-Chapel Hill,",
-            "Salesforce Research, and Stanford",
-            "University.",
-            "Agent0 distinguishes itself by operating",
-            "as a fully autonomous system, capable of",
-            "evolving high-performing AI agents",
-            "without relying on external",
-            "human-generated datasets.",
-            "The core innovation lies in its",
-            "multi-step co-evolutionary approach,",
-            "where agents learn and improve by",
-            "creating their own curriculum and",
-            "teaching themselves to utilize tools.",
-            "Agent0 challenges this by proposing a",
-            "self-sufficient learning process where",
-            "agents actively generate their own",
-            "learning materials."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-25T07:10:13.000Z",
-      "ranking": 0.643628147234347,
-      "articleUrl": "https://www.marktechpost.com/2025/11/24/agent0-a-fully-autonomous-ai-framework-that-evolves-high-performing-agents-without-external-data-through-multi-step-co-evolution/"
     },
     {
       "id": "379",
@@ -747,6 +712,41 @@
       "publishedAt": "2025-11-25T08:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/827820/large-language-models-ai-intelligence-neuroscience-problems"
+    },
+    {
+      "id": "374",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "Agent0 AI",
+      "mediumTitle": "Agent0: Autonomous AI Evolution",
+      "longTitle": "Agent0: Fully Autonomous AI Framework Evolves Agents",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Agent0 is a novel AI framework developed",
+            "by researchers from UNC-Chapel Hill,",
+            "Salesforce Research, and Stanford",
+            "University.",
+            "Agent0 distinguishes itself by operating",
+            "as a fully autonomous system, capable of",
+            "evolving high-performing AI agents",
+            "without relying on external",
+            "human-generated datasets.",
+            "The core innovation lies in its",
+            "multi-step co-evolutionary approach,",
+            "where agents learn and improve by",
+            "creating their own curriculum and",
+            "teaching themselves to utilize tools.",
+            "Agent0 challenges this by proposing a",
+            "self-sufficient learning process where",
+            "agents actively generate their own",
+            "learning materials."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-25T07:10:13.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.marktechpost.com/2025/11/24/agent0-a-fully-autonomous-ai-framework-that-evolves-high-performing-agents-without-external-data-through-multi-step-co-evolution/"
     },
     {
       "id": "378",
@@ -1308,40 +1308,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/21/google-deepmind-introduces-nano-banana-pro-the-gemini-3-pro-image-model-for-text-accurate-and-studio-grade-visuals/"
     },
     {
-      "id": "359",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "GPT-4o API Sunset",
-      "mediumTitle": "OpenAI Retires GPT-4o API",
-      "longTitle": "OpenAI to Retire GPT-4o Model from Developer API in 2026",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI is set to retire its GPT-4o model",
-            "from its developer API on February 16,",
-            "2026, after its release in May 2024.",
-            "This backlash led OpenAI to reinstate",
-            "GPT-4o as a default option for paying",
-            "users and commit to providing",
-            "substantial advance notice before future",
-            "model removals.",
-            "When OpenAI attempted to replace it with",
-            "the GPT-5 series in August 2025, users",
-            "reacted strongly, rallying under the",
-            "#Keep4o hashtag.",
-            "GPT-4o became a significant technical",
-            "achievement and popular consumer model",
-            "due to its unified multimodal",
-            "architecture enabling near real-time",
-            "processing of text, audio, and images."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-22T00:01:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026"
-    },
-    {
       "id": "380",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -1370,6 +1336,40 @@
             "with GPT-5 in August 2025, users reacted",
             "negatively, advocating for its return",
             "under the #Keep4o hashtag."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-22T00:01:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026"
+    },
+    {
+      "id": "359",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "GPT-4o API Sunset",
+      "mediumTitle": "OpenAI Retires GPT-4o API",
+      "longTitle": "OpenAI to Retire GPT-4o Model from Developer API in 2026",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI is set to retire its GPT-4o model",
+            "from its developer API on February 16,",
+            "2026, after its release in May 2024.",
+            "This backlash led OpenAI to reinstate",
+            "GPT-4o as a default option for paying",
+            "users and commit to providing",
+            "substantial advance notice before future",
+            "model removals.",
+            "When OpenAI attempted to replace it with",
+            "the GPT-5 series in August 2025, users",
+            "reacted strongly, rallying under the",
+            "#Keep4o hashtag.",
+            "GPT-4o became a significant technical",
+            "achievement and popular consumer model",
+            "due to its unified multimodal",
+            "architecture enabling near real-time",
+            "processing of text, audio, and images."
           ]
         }
       ],
