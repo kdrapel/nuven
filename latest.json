@@ -246,7 +246,7 @@
         }
       ],
       "publishedAt": "2025-11-27T10:30:00.000Z",
-      "ranking": 6.06176364213084,
+      "ranking": 5.5155663760959435,
       "articleUrl": "https://www.theverge.com/report/829137/openai-chatgpt-time-date"
     },
     {
@@ -281,7 +281,7 @@
         }
       ],
       "publishedAt": "2025-11-27T08:30:00.000Z",
-      "ranking": 5.319996019939012,
+      "ranking": 4.746167601974898,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/830450/ai-shopping-assistants-are-stuck-in-the-past"
     },
     {
@@ -316,42 +316,8 @@
         }
       ],
       "publishedAt": "2025-11-27T09:07:54.000Z",
-      "ranking": 4.621037814794455,
+      "ranking": 4.055936235908744,
       "articleUrl": "https://www.theverge.com/news/831354/alibaba-quark-smart-glasses"
-    },
-    {
-      "id": "395",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "SeekDB AI DB",
-      "mediumTitle": "OceanBase\u0027s AI-Native Search Database",
-      "longTitle": "OceanBase Releases SeekDB: An Open-Source AI-Native Hybrid Search Database",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OceanBase has released seekdb, an",
-            "open-source, AI-native hybrid search",
-            "database designed to address the",
-            "complexities of modern AI applications.",
-            "The core problem seekdb aims to solve is",
-            "that AI applications often need to",
-            "manage and query diverse data types",
-            "simultaneously, including structured",
-            "user profiles, unstructured chat logs,",
-            "JSON metadata, vector embeddings, and",
-            "potentially spatial data.",
-            "seekdb is positioned as a unified",
-            "solution that integrates these",
-            "capabilities into a single database.",
-            "By offering a single, cohesive database,",
-            "seekdb aims to simplify the development",
-            "and deployment of AI applications."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-27T08:44:01.000Z",
-      "ranking": 4.538407109703864,
-      "articleUrl": "https://www.marktechpost.com/2025/11/26/oceanbase-releases-seekdb-an-open-source-ai-native-hybrid-search-database-for-multi-model-rag-and-ai-agents/"
     },
     {
       "id": "399",
@@ -384,8 +350,42 @@
         }
       ],
       "publishedAt": "2025-11-27T11:57:49.000Z",
-      "ranking": 4.534203451027028,
+      "ranking": 4.008226821833597,
       "articleUrl": "https://www.theverge.com/news/831451/china-humanoid-robotics-bubble"
+    },
+    {
+      "id": "395",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "SeekDB AI DB",
+      "mediumTitle": "OceanBase\u0027s AI-Native Search Database",
+      "longTitle": "OceanBase Releases SeekDB: An Open-Source AI-Native Hybrid Search Database",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OceanBase has released seekdb, an",
+            "open-source, AI-native hybrid search",
+            "database designed to address the",
+            "complexities of modern AI applications.",
+            "The core problem seekdb aims to solve is",
+            "that AI applications often need to",
+            "manage and query diverse data types",
+            "simultaneously, including structured",
+            "user profiles, unstructured chat logs,",
+            "JSON metadata, vector embeddings, and",
+            "potentially spatial data.",
+            "seekdb is positioned as a unified",
+            "solution that integrates these",
+            "capabilities into a single database.",
+            "By offering a single, cohesive database,",
+            "seekdb aims to simplify the development",
+            "and deployment of AI applications."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-27T08:44:01.000Z",
+      "ranking": 3.967806158262944,
+      "articleUrl": "https://www.marktechpost.com/2025/11/26/oceanbase-releases-seekdb-an-open-source-ai-native-hybrid-search-database-for-multi-model-rag-and-ai-agents/"
     },
     {
       "id": "394",
@@ -419,7 +419,7 @@
         }
       ],
       "publishedAt": "2025-11-26T20:43:44.000Z",
-      "ranking": 3.537234931718764,
+      "ranking": 2.8007818184566267,
       "articleUrl": "https://www.theverge.com/news/831207/openai-chatgpt-lawsuit-parental-controls-tos"
     },
     {
@@ -454,7 +454,7 @@
         }
       ],
       "publishedAt": "2025-11-26T20:07:34.000Z",
-      "ranking": 2.5051080350158985,
+      "ranking": 1.7603271523870303,
       "articleUrl": "https://www.marktechpost.com/2025/11/26/tencent-hunyuan-releases-hunyuanocr-a-1b-parameter-end-to-end-ocr-expert-vlm/"
     },
     {
@@ -489,7 +489,7 @@
         }
       ],
       "publishedAt": "2025-11-26T15:00:00.000Z",
-      "ranking": 2.436739673436957,
+      "ranking": 1.6211386137465675,
       "articleUrl": "https://venturebeat.com/ai/a-weekend-vibe-code-hack-by-andrej-karpathy-quietly-sketches-the-missing"
     },
     {
@@ -526,7 +526,7 @@
         }
       ],
       "publishedAt": "2025-11-26T10:28:11.000Z",
-      "ranking": 1.1674126766026784,
+      "ranking": 0.2892232191143016,
       "articleUrl": "https://www.theverge.com/news/829892/character-ai-stories-launch-teens"
     },
     {
@@ -563,7 +563,7 @@
         }
       ],
       "publishedAt": "2025-11-26T09:00:55.000Z",
-      "ranking": 1.0764573625230422,
+      "ranking": 0.17817391896426482,
       "articleUrl": "https://www.theverge.com/news/829808/chatgpt-copilot-ai-llm-leaving-whatsapp-meta"
     },
     {
@@ -600,7 +600,7 @@
         }
       ],
       "publishedAt": "2025-11-26T08:04:28.000Z",
-      "ranking": 0.9640805357590461,
+      "ranking": 0.05279893696244997,
       "articleUrl": "https://www.marktechpost.com/2025/11/25/how-to-implement-functional-components-of-transformer-and-mini-gpt-model-from-scratch-using-tinygrad-to-understand-deep-learning-internals/"
     },
     {
@@ -637,7 +637,7 @@
         }
       ],
       "publishedAt": "2025-11-26T08:46:05.000Z",
-      "ranking": 0.5235612624436925,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/25/black-forest-labs-releases-flux-2-a-32b-flow-matching-transformer-for-production-image-pipelines/"
     },
     {
