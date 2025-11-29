@@ -37,40 +37,39 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/28/deepseek-ai-releases-deepseekmath-v2-the-open-weights-maths-model-that-scored-118-120-on-putnam-2024/"
     },
     {
-      "id": "405",
-      "topic": "Learning",
-      "source": "VentureBeat AI",
-      "shortTitle": "Agent-R1 LLM Training",
-      "mediumTitle": "Agent-R1: New RL for LLMs",
-      "longTitle": "Agent-R1: Reinforcement Learning for Complex LLM Tasks",
+      "id": "406",
+      "topic": "Reinforcement Lrng",
+      "source": "Marktechpost AI",
+      "shortTitle": "NVIDIA\u0027s ToolOrchestra",
+      "mediumTitle": "NVIDIA\u0027s ToolOrchestra AI Method",
+      "longTitle": "NVIDIA\u0027s ToolOrchestra: Training an AI Orchestrator for Tool Selection",
       "paragraphs": [
         {
           "Lines": [
-            "The University of Science and Technology",
-            "of China has introduced Agent-R1, a",
-            "novel reinforcement learning (RL)",
-            "framework designed to train large",
-            "language models (LLMs) for complex,",
-            "real-world agentic tasks that extend",
-            "beyond well-defined problems like",
-            "mathematics and coding.",
-            "Crucially, Agent-R1 introduces \u0022process",
-            "rewards\u0022 for successfully completing",
-            "intermediate steps, mitigating the",
-            "\u0022sparse reward\u0022 problem inherent in",
-            "frameworks that only provide a final",
-            "outcome reward.",
-            "The results showed that RL-trained",
-            "agents using Agent-R1 significantly",
-            "outperformed the baselines, with the",
-            "GRPO algorithm achieving the best",
-            "performance."
+            "NVIDIA researchers have introduced",
+            "ToolOrchestra, a groundbreaking method",
+            "for training a compact language model to",
+            "function as an \u0027orchestrator,\u0027 acting as",
+            "the central control unit for a",
+            "heterogeneous agent capable of utilizing",
+            "various tools and models.",
+            "The core innovation lies in enabling an",
+            "AI system to learn how to select the",
+            "most appropriate model or tool for each",
+            "specific step of a task, rather than",
+            "defaulting to a single, monolithic large",
+            "model for all operations.",
+            "Instead of a one-size-fits-all approach,",
+            "ToolOrchestra facilitates a dynamic",
+            "selection process, where the AI",
+            "intelligently chooses the best resource",
+            "for the job at hand."
           ]
         }
       ],
-      "publishedAt": "2025-11-28T05:00:00.000Z",
-      "ranking": 7.942857142857143,
-      "articleUrl": "https://venturebeat.com/ai/beyond-math-and-coding-new-rl-framework-helps-train-llm-agents-for-complex"
+      "publishedAt": "2025-11-29T05:18:46.000Z",
+      "ranking": 8.416666666666666,
+      "articleUrl": "https://www.marktechpost.com/2025/11/28/nvidia-ai-releases-orchestrator-8b-a-reinforcement-learning-trained-controller-for-efficient-tool-and-model-selection/"
     },
     {
       "id": "401",
@@ -179,6 +178,42 @@
       "articleUrl": "https://www.theverge.com/news/831760/openai-google-rate-limit-sora-nano-banana-pro"
     },
     {
+      "id": "405",
+      "topic": "Learning",
+      "source": "VentureBeat AI",
+      "shortTitle": "Agent-R1 LLM Training",
+      "mediumTitle": "Agent-R1: New RL for LLMs",
+      "longTitle": "Agent-R1: Reinforcement Learning for Complex LLM Tasks",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The University of Science and Technology",
+            "of China has introduced Agent-R1, a",
+            "novel reinforcement learning (RL)",
+            "framework designed to train large",
+            "language models (LLMs) for complex,",
+            "real-world agentic tasks that extend",
+            "beyond well-defined problems like",
+            "mathematics and coding.",
+            "Crucially, Agent-R1 introduces \u0022process",
+            "rewards\u0022 for successfully completing",
+            "intermediate steps, mitigating the",
+            "\u0022sparse reward\u0022 problem inherent in",
+            "frameworks that only provide a final",
+            "outcome reward.",
+            "The results showed that RL-trained",
+            "agents using Agent-R1 significantly",
+            "outperformed the baselines, with the",
+            "GRPO algorithm achieving the best",
+            "performance."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-28T05:00:00.000Z",
+      "ranking": 6.673194603496347,
+      "articleUrl": "https://venturebeat.com/ai/beyond-math-and-coding-new-rl-framework-helps-train-llm-agents-for-complex"
+    },
+    {
       "id": "403",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -246,7 +281,7 @@
         }
       ],
       "publishedAt": "2025-11-27T10:30:00.000Z",
-      "ranking": 5.5155663760959435,
+      "ranking": 4.908105068154498,
       "articleUrl": "https://www.theverge.com/report/829137/openai-chatgpt-time-date"
     },
     {
@@ -281,7 +316,7 @@
         }
       ],
       "publishedAt": "2025-11-27T08:30:00.000Z",
-      "ranking": 4.746167601974898,
+      "ranking": 4.11079864697372,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/830450/ai-shopping-assistants-are-stuck-in-the-past"
     },
     {
@@ -316,7 +351,7 @@
         }
       ],
       "publishedAt": "2025-11-27T09:07:54.000Z",
-      "ranking": 4.055936235908744,
+      "ranking": 3.429381445272695,
       "articleUrl": "https://www.theverge.com/news/831354/alibaba-quark-smart-glasses"
     },
     {
@@ -350,7 +385,7 @@
         }
       ],
       "publishedAt": "2025-11-27T11:57:49.000Z",
-      "ranking": 4.008226821833597,
+      "ranking": 3.4211884828219037,
       "articleUrl": "https://www.theverge.com/news/831451/china-humanoid-robotics-bubble"
     },
     {
@@ -384,7 +419,7 @@
         }
       ],
       "publishedAt": "2025-11-27T08:44:01.000Z",
-      "ranking": 3.967806158262944,
+      "ranking": 3.335696969821838,
       "articleUrl": "https://www.marktechpost.com/2025/11/26/oceanbase-releases-seekdb-an-open-source-ai-native-hybrid-search-database-for-multi-model-rag-and-ai-agents/"
     },
     {
@@ -419,7 +454,7 @@
         }
       ],
       "publishedAt": "2025-11-26T20:43:44.000Z",
-      "ranking": 2.8007818184566267,
+      "ranking": 2.0011608654665602,
       "articleUrl": "https://www.theverge.com/news/831207/openai-chatgpt-lawsuit-parental-controls-tos"
     },
     {
@@ -454,7 +489,7 @@
         }
       ],
       "publishedAt": "2025-11-26T20:07:34.000Z",
-      "ranking": 1.7603271523870303,
+      "ranking": 0.9522951055861162,
       "articleUrl": "https://www.marktechpost.com/2025/11/26/tencent-hunyuan-releases-hunyuanocr-a-1b-parameter-end-to-end-ocr-expert-vlm/"
     },
     {
@@ -489,7 +524,7 @@
         }
       ],
       "publishedAt": "2025-11-26T15:00:00.000Z",
-      "ranking": 1.6211386137465675,
+      "ranking": 0.7415777168519027,
       "articleUrl": "https://venturebeat.com/ai/a-weekend-vibe-code-hack-by-andrej-karpathy-quietly-sketches-the-missing"
     },
     {
@@ -526,7 +561,7 @@
         }
       ],
       "publishedAt": "2025-11-26T10:28:11.000Z",
-      "ranking": 0.2892232191143016,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/829892/character-ai-stories-launch-teens"
     },
     {
@@ -563,45 +598,8 @@
         }
       ],
       "publishedAt": "2025-11-26T09:00:55.000Z",
-      "ranking": 0.17817391896426482,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/829808/chatgpt-copilot-ai-llm-leaving-whatsapp-meta"
-    },
-    {
-      "id": "387",
-      "topic": "Neural Nets",
-      "source": "Marktechpost AI",
-      "shortTitle": "Build NN from Scratch",
-      "mediumTitle": "Tinygrad: Build Transformer \u0026 GPT",
-      "longTitle": "Hands-on Tutorial: Building Transformer and Mini-GPT with Tinygrad",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This article offers a hands-on tutorial",
-            "for building neural network components,",
-            "specifically the Transformer",
-            "architecture and a mini-GPT model,",
-            "entirely from scratch using the Tinygrad",
-            "library.",
-            "The primary goal is to offer a deep",
-            "understanding of deep learning internals",
-            "by allowing readers to engage directly",
-            "with fundamental concepts like tensors,",
-            "automatic differentiation (autograd),",
-            "attention mechanisms, and the overall",
-            "Transformer architecture.",
-            "A significant portion of the tutorial is",
-            "dedicated to understanding and",
-            "implementing the attention mechanism, a",
-            "key innovation of the Transformer model.",
-            "The culmination of this step-by-step",
-            "process is the implementation of a",
-            "working mini-GPT model."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-26T08:04:28.000Z",
-      "ranking": 0.05279893696244997,
-      "articleUrl": "https://www.marktechpost.com/2025/11/25/how-to-implement-functional-components-of-transformer-and-mini-gpt-model-from-scratch-using-tinygrad-to-understand-deep-learning-internals/"
     },
     {
       "id": "386",
@@ -639,6 +637,43 @@
       "publishedAt": "2025-11-26T08:46:05.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/25/black-forest-labs-releases-flux-2-a-32b-flow-matching-transformer-for-production-image-pipelines/"
+    },
+    {
+      "id": "387",
+      "topic": "Neural Nets",
+      "source": "Marktechpost AI",
+      "shortTitle": "Build NN from Scratch",
+      "mediumTitle": "Tinygrad: Build Transformer \u0026 GPT",
+      "longTitle": "Hands-on Tutorial: Building Transformer and Mini-GPT with Tinygrad",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This article offers a hands-on tutorial",
+            "for building neural network components,",
+            "specifically the Transformer",
+            "architecture and a mini-GPT model,",
+            "entirely from scratch using the Tinygrad",
+            "library.",
+            "The primary goal is to offer a deep",
+            "understanding of deep learning internals",
+            "by allowing readers to engage directly",
+            "with fundamental concepts like tensors,",
+            "automatic differentiation (autograd),",
+            "attention mechanisms, and the overall",
+            "Transformer architecture.",
+            "A significant portion of the tutorial is",
+            "dedicated to understanding and",
+            "implementing the attention mechanism, a",
+            "key innovation of the Transformer model.",
+            "The culmination of this step-by-step",
+            "process is the implementation of a",
+            "working mini-GPT model."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-26T08:04:28.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.marktechpost.com/2025/11/25/how-to-implement-functional-components-of-transformer-and-mini-gpt-model-from-scratch-using-tinygrad-to-understand-deep-learning-internals/"
     },
     {
       "id": "385",
@@ -1522,6 +1557,40 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/21/google-deepmind-introduces-nano-banana-pro-the-gemini-3-pro-image-model-for-text-accurate-and-studio-grade-visuals/"
     },
     {
+      "id": "359",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "GPT-4o API Sunset",
+      "mediumTitle": "OpenAI Retires GPT-4o API",
+      "longTitle": "OpenAI to Retire GPT-4o Model from Developer API in 2026",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI is set to retire its GPT-4o model",
+            "from its developer API on February 16,",
+            "2026, after its release in May 2024.",
+            "This backlash led OpenAI to reinstate",
+            "GPT-4o as a default option for paying",
+            "users and commit to providing",
+            "substantial advance notice before future",
+            "model removals.",
+            "When OpenAI attempted to replace it with",
+            "the GPT-5 series in August 2025, users",
+            "reacted strongly, rallying under the",
+            "#Keep4o hashtag.",
+            "GPT-4o became a significant technical",
+            "achievement and popular consumer model",
+            "due to its unified multimodal",
+            "architecture enabling near real-time",
+            "processing of text, audio, and images."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-22T00:01:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026"
+    },
+    {
       "id": "380",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -1550,40 +1619,6 @@
             "with GPT-5 in August 2025, users reacted",
             "negatively, advocating for its return",
             "under the #Keep4o hashtag."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-22T00:01:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026"
-    },
-    {
-      "id": "359",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "GPT-4o API Sunset",
-      "mediumTitle": "OpenAI Retires GPT-4o API",
-      "longTitle": "OpenAI to Retire GPT-4o Model from Developer API in 2026",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI is set to retire its GPT-4o model",
-            "from its developer API on February 16,",
-            "2026, after its release in May 2024.",
-            "This backlash led OpenAI to reinstate",
-            "GPT-4o as a default option for paying",
-            "users and commit to providing",
-            "substantial advance notice before future",
-            "model removals.",
-            "When OpenAI attempted to replace it with",
-            "the GPT-5 series in August 2025, users",
-            "reacted strongly, rallying under the",
-            "#Keep4o hashtag.",
-            "GPT-4o became a significant technical",
-            "achievement and popular consumer model",
-            "due to its unified multimodal",
-            "architecture enabling near real-time",
-            "processing of text, audio, and images."
           ]
         }
       ],
@@ -1694,40 +1729,6 @@
       "publishedAt": "2025-11-21T13:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/column/826172/ai-startup-arr-numbers-sierra-bret-taylor"
-    },
-    {
-      "id": "354",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "LLM on GPUs",
-      "mediumTitle": "Perplexity AI\u0027s Open-Source LLM Engine",
-      "longTitle": "Perplexity AI\u0027s TransferEngine enables trillion-parameter LLMs on existing GPUs",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Perplexity AI\u0027s research team has",
-            "introduced TransferEngine and the",
-            "accompanying pplx garden toolkit,",
-            "open-source infrastructure designed to",
-            "enable the execution of",
-            "trillion-parameter Large Language Models",
-            "(LLMs) on existing, mixed GPU clusters.",
-            "This development aims to circumvent the",
-            "need for expensive new hardware",
-            "acquisitions and avoid deep vendor",
-            "lock-in for teams working with these",
-            "massive models.",
-            "Instead of requiring significant capital",
-            "investment in new hardware, companies",
-            "can potentially utilize their existing",
-            "mixed GPU environments to run models of",
-            "unprecedented scale."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-21T11:56:20.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/21/perplexity-ai-releases-transferengine-and-pplx-garden-to-run-trillion-parameter-llms-on-existing-gpu-clusters/"
     }
   ]
 }
