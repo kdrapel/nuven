@@ -71,40 +71,37 @@
       "articleUrl": "https://www.theverge.com/entertainment/830393/ai-music-deezer-survey-spotify"
     },
     {
-      "id": "404",
-      "topic": "Large Models",
+      "id": "408",
+      "topic": "Model Eval",
       "source": "VentureBeat AI",
-      "shortTitle": "AI Agent Memory",
-      "mediumTitle": "Anthropic Solves AI Agent Memory",
-      "longTitle": "Anthropic Introduces New Solution for AI Agent Memory Issues",
+      "shortTitle": "Observable AI",
+      "mediumTitle": "Observable AI for Enterprise LLMs",
+      "longTitle": "Enterprise LLM Trust: The Need for Observable AI",
       "paragraphs": [
         {
           "Lines": [
-            "Anthropic has introduced a new solution",
-            "for the long-standing problem of \u0022agent",
-            "memory\u0022 in artificial intelligence,",
-            "particularly for AI agents that need to",
-            "perform tasks over extended periods.",
-            "The second part is a \u0022coding agent\u0022 that",
-            "makes incremental progress on the task",
-            "in each session and leaves structured",
-            "updates and artifacts for the next",
-            "session, ensuring continuity.",
-            "To address this, Anthropic has developed",
-            "a two-fold approach integrated into its",
-            "Claude Agent SDK, enabling agents to",
-            "work effectively across different",
-            "context windows.",
-            "The new two-part solution aims to",
-            "mitigate these issues by ensuring each",
-            "agent focuses on incremental progress",
-            "and leaves a clear record."
+            "Enterprises need an observable AI layer,",
+            "similar to Site Reliability Engineering",
+            "for traditional software, to reliably",
+            "deploy and trust Large Language Models",
+            "(LLMs).",
+            "Ultimately, observable AI transforms AI",
+            "from an experiment into infrastructure,",
+            "fostering trust among executives,",
+            "compliance teams, engineers, and",
+            "customers by providing clear telemetry,",
+            "SLOs, and feedback loops.",
+            "Without observability, AI systems are",
+            "ungovernable and untrustworthy,",
+            "necessitating a shift in focus from the",
+            "AI model itself to desired business",
+            "outcomes."
           ]
         }
       ],
-      "publishedAt": "2025-11-28T20:30:00.000Z",
+      "publishedAt": "2025-11-29T20:00:00.000Z",
       "ranking": 7.114285714285714,
-      "articleUrl": "https://venturebeat.com/ai/anthropic-says-it-solved-the-long-running-ai-agent-problem-with-a-new-multi"
+      "articleUrl": "https://venturebeat.com/ai/why-observable-ai-is-the-missing-sre-layer-enterprises-need-for-reliable"
     },
     {
       "id": "401",
@@ -139,7 +136,7 @@
         }
       ],
       "publishedAt": "2025-11-28T17:19:00.000Z",
-      "ranking": 6.602585314306462,
+      "ranking": 6.203743230885307,
       "articleUrl": "https://venturebeat.com/ai/what-to-be-thankful-for-in-ai-in-2025"
     },
     {
@@ -175,8 +172,44 @@
         }
       ],
       "publishedAt": "2025-11-28T10:35:43.000Z",
-      "ranking": 6.526258902874638,
+      "ranking": 6.034099340439005,
       "articleUrl": "https://www.marktechpost.com/2025/11/28/deepseek-ai-releases-deepseekmath-v2-the-open-weights-maths-model-that-scored-118-120-on-putnam-2024/"
+    },
+    {
+      "id": "404",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Agent Memory",
+      "mediumTitle": "Anthropic Solves AI Agent Memory",
+      "longTitle": "Anthropic Introduces New Solution for AI Agent Memory Issues",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Anthropic has introduced a new solution",
+            "for the long-standing problem of \u0022agent",
+            "memory\u0022 in artificial intelligence,",
+            "particularly for AI agents that need to",
+            "perform tasks over extended periods.",
+            "The second part is a \u0022coding agent\u0022 that",
+            "makes incremental progress on the task",
+            "in each session and leaves structured",
+            "updates and artifacts for the next",
+            "session, ensuring continuity.",
+            "To address this, Anthropic has developed",
+            "a two-fold approach integrated into its",
+            "Claude Agent SDK, enabling agents to",
+            "work effectively across different",
+            "context windows.",
+            "The new two-part solution aims to",
+            "mitigate these issues by ensuring each",
+            "agent focuses on incremental progress",
+            "and leaves a clear record."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-28T20:30:00.000Z",
+      "ranking": 5.7972082456408405,
+      "articleUrl": "https://venturebeat.com/ai/anthropic-says-it-solved-the-long-running-ai-agent-problem-with-a-new-multi"
     },
     {
       "id": "405",
@@ -211,7 +244,7 @@
         }
       ],
       "publishedAt": "2025-11-28T05:00:00.000Z",
-      "ranking": 5.296153200584344,
+      "ranking": 4.726310697580017,
       "articleUrl": "https://venturebeat.com/ai/beyond-math-and-coding-new-rl-framework-helps-train-llm-agents-for-complex"
     },
     {
@@ -245,7 +278,7 @@
         }
       ],
       "publishedAt": "2025-11-28T09:00:34.000Z",
-      "ranking": 4.838957143774863,
+      "ranking": 4.324780403827491,
       "articleUrl": "https://www.theverge.com/news/831760/openai-google-rate-limit-sora-nano-banana-pro"
     },
     {
@@ -281,7 +314,7 @@
         }
       ],
       "publishedAt": "2025-11-28T08:39:58.000Z",
-      "ranking": 4.422819059007919,
+      "ranking": 3.903875596136291,
       "articleUrl": "https://www.theverge.com/news/831747/tim-sweeney-epic-ceo-steam-game-stores-made-with-ai"
     },
     {
@@ -316,7 +349,7 @@
         }
       ],
       "publishedAt": "2025-11-27T10:30:00.000Z",
-      "ranking": 2.760112635721234,
+      "ranking": 1.933422418654911,
       "articleUrl": "https://www.theverge.com/report/829137/openai-chatgpt-time-date"
     },
     {
@@ -351,7 +384,7 @@
         }
       ],
       "publishedAt": "2025-11-27T08:30:00.000Z",
-      "ranking": 1.8794601559250586,
+      "ranking": 1.025002618014713,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/830450/ai-shopping-assistants-are-stuck-in-the-past"
     },
     {
@@ -385,7 +418,7 @@
         }
       ],
       "publishedAt": "2025-11-27T11:57:49.000Z",
-      "ranking": 1.3341891590623858,
+      "ranking": 0.5278192204992234,
       "articleUrl": "https://www.theverge.com/news/831451/china-humanoid-robotics-bubble"
     },
     {
@@ -420,7 +453,7 @@
         }
       ],
       "publishedAt": "2025-11-27T09:07:54.000Z",
-      "ranking": 1.2243664079624512,
+      "ranking": 0.37867871426092226,
       "articleUrl": "https://www.theverge.com/news/831354/alibaba-quark-smart-glasses"
     },
     {
@@ -454,7 +487,7 @@
         }
       ],
       "publishedAt": "2025-11-27T08:44:01.000Z",
-      "ranking": 1.114093756506156,
+      "ranking": 0.2628795950922109,
       "articleUrl": "https://www.marktechpost.com/2025/11/26/oceanbase-releases-seekdb-an-open-source-ai-native-hybrid-search-database-for-multi-model-rag-and-ai-agents/"
     },
     {
@@ -1592,6 +1625,40 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/21/google-deepmind-introduces-nano-banana-pro-the-gemini-3-pro-image-model-for-text-accurate-and-studio-grade-visuals/"
     },
     {
+      "id": "359",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "GPT-4o API Sunset",
+      "mediumTitle": "OpenAI Retires GPT-4o API",
+      "longTitle": "OpenAI to Retire GPT-4o Model from Developer API in 2026",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI is set to retire its GPT-4o model",
+            "from its developer API on February 16,",
+            "2026, after its release in May 2024.",
+            "This backlash led OpenAI to reinstate",
+            "GPT-4o as a default option for paying",
+            "users and commit to providing",
+            "substantial advance notice before future",
+            "model removals.",
+            "When OpenAI attempted to replace it with",
+            "the GPT-5 series in August 2025, users",
+            "reacted strongly, rallying under the",
+            "#Keep4o hashtag.",
+            "GPT-4o became a significant technical",
+            "achievement and popular consumer model",
+            "due to its unified multimodal",
+            "architecture enabling near real-time",
+            "processing of text, audio, and images."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-22T00:01:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026"
+    },
+    {
       "id": "380",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -1620,40 +1687,6 @@
             "with GPT-5 in August 2025, users reacted",
             "negatively, advocating for its return",
             "under the #Keep4o hashtag."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-22T00:01:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026"
-    },
-    {
-      "id": "359",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "GPT-4o API Sunset",
-      "mediumTitle": "OpenAI Retires GPT-4o API",
-      "longTitle": "OpenAI to Retire GPT-4o Model from Developer API in 2026",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI is set to retire its GPT-4o model",
-            "from its developer API on February 16,",
-            "2026, after its release in May 2024.",
-            "This backlash led OpenAI to reinstate",
-            "GPT-4o as a default option for paying",
-            "users and commit to providing",
-            "substantial advance notice before future",
-            "model removals.",
-            "When OpenAI attempted to replace it with",
-            "the GPT-5 series in August 2025, users",
-            "reacted strongly, rallying under the",
-            "#Keep4o hashtag.",
-            "GPT-4o became a significant technical",
-            "achievement and popular consumer model",
-            "due to its unified multimodal",
-            "architecture enabling near real-time",
-            "processing of text, audio, and images."
           ]
         }
       ],
@@ -1695,42 +1728,6 @@
       "publishedAt": "2025-11-21T20:04:21.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out"
-    },
-    {
-      "id": "357",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Nostalgia",
-      "mediumTitle": "AI Nostalgia Slop: Who Is It For?",
-      "longTitle": "Examining the Purpose and Audience of AI-Generated 80s/90s Nostalgia Videos",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Generative AI is creating videos evoking",
-            "nostalgia for the 1980s and 1990s,",
-            "featuring AI teens longing for an",
-            "idealized past.",
-            "The AI teens, by their nature, cannot",
-            "have lived through the eras they are",
-            "supposedly nostalgic for, creating a",
-            "disconnect.",
-            "However, the article suggests these",
-            "AI-generated pieces lack genuine human",
-            "experience and depth.",
-            "They may not provide the genuine",
-            "emotional connection or insightful",
-            "reflection that true nostalgia often",
-            "entails.",
-            "The author explores the implications of",
-            "AI in generating emotional content and",
-            "its potential to be perceived as",
-            "inauthentic."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-21T14:02:01.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/825498/openai-sora-video-slop-nostalgia-mister-rogers"
     }
   ]
 }
