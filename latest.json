@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "id": "400",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "DeepSeekMath V2",
-      "mediumTitle": "DeepSeekMath-V2: AI for Math Proofs",
-      "longTitle": "DeepSeekMath-V2: New AI Model Excels at Math Theorem Proving",
-      "paragraphs": [
-        {
-          "Lines": [
-            "DeepSeek AI has launched",
-            "DeepSeekMath-V2, an open-weights large",
-            "language model specifically designed for",
-            "natural language theorem proving and",
-            "self-verification of its reasoning.",
-            "The model achieved a remarkable score of",
-            "118 out of 120 on the 2024 Putnam exam.",
-            "The model\u0027s architecture and training",
-            "are optimized to not only generate",
-            "proofs in clear, natural language but",
-            "also to critically assess the",
-            "correctness of its own logical steps.",
-            "This self-verification mechanism is",
-            "crucial for ensuring the reliability and",
-            "accuracy of its mathematical reasoning.",
-            "A key highlight of DeepSeekMath-V2 is",
-            "its exceptional performance on the",
-            "Putnam Competition, a highly challenging",
-            "mathematics exam."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-28T10:35:43.000Z",
-      "ranking": 8.46875,
-      "articleUrl": "https://www.marktechpost.com/2025/11/28/deepseek-ai-releases-deepseekmath-v2-the-open-weights-maths-model-that-scored-118-120-on-putnam-2024/"
-    },
-    {
       "id": "406",
       "topic": "Reinforcement Lrng",
       "source": "Marktechpost AI",
@@ -108,6 +72,42 @@
       "articleUrl": "https://venturebeat.com/ai/what-to-be-thankful-for-in-ai-in-2025"
     },
     {
+      "id": "400",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "DeepSeekMath V2",
+      "mediumTitle": "DeepSeekMath-V2: AI for Math Proofs",
+      "longTitle": "DeepSeekMath-V2: New AI Model Excels at Math Theorem Proving",
+      "paragraphs": [
+        {
+          "Lines": [
+            "DeepSeek AI has launched",
+            "DeepSeekMath-V2, an open-weights large",
+            "language model specifically designed for",
+            "natural language theorem proving and",
+            "self-verification of its reasoning.",
+            "The model achieved a remarkable score of",
+            "118 out of 120 on the 2024 Putnam exam.",
+            "The model\u0027s architecture and training",
+            "are optimized to not only generate",
+            "proofs in clear, natural language but",
+            "also to critically assess the",
+            "correctness of its own logical steps.",
+            "This self-verification mechanism is",
+            "crucial for ensuring the reliability and",
+            "accuracy of its mathematical reasoning.",
+            "A key highlight of DeepSeekMath-V2 is",
+            "its exceptional performance on the",
+            "Putnam Competition, a highly challenging",
+            "mathematics exam."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-28T10:35:43.000Z",
+      "ranking": 7.34598785843544,
+      "articleUrl": "https://www.marktechpost.com/2025/11/28/deepseek-ai-releases-deepseekmath-v2-the-open-weights-maths-model-that-scored-118-120-on-putnam-2024/"
+    },
+    {
       "id": "404",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -144,40 +144,6 @@
       "articleUrl": "https://venturebeat.com/ai/anthropic-says-it-solved-the-long-running-ai-agent-problem-with-a-new-multi"
     },
     {
-      "id": "402",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Demand Surge",
-      "mediumTitle": "AI Tools Face Demand Limits",
-      "longTitle": "Popular AI Generation Tools Hit by High Demand",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Popular AI generation tools Sora and",
-            "Nano Banana Pro are experiencing",
-            "throttled request limits due to a surge",
-            "in demand this holiday weekend.",
-            "Bill Peebles, who leads the Sora project",
-            "at OpenAI, announced that free users",
-            "will now be limited to six video",
-            "generations per day.",
-            "He humorously described the situation as",
-            "\u0027Our GPUs are melting,\u0027 highlighting the",
-            "extreme strain on their processing",
-            "resources.",
-            "While the article doesn\u0027t explicitly",
-            "detail the new limits for Nano Banana",
-            "Pro, it groups it with Sora as being",
-            "affected by similar demand-driven",
-            "throttling."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-28T09:00:34.000Z",
-      "ranking": 6.97,
-      "articleUrl": "https://www.theverge.com/news/831760/openai-google-rate-limit-sora-nano-banana-pro"
-    },
-    {
       "id": "405",
       "topic": "Learning",
       "source": "VentureBeat AI",
@@ -210,8 +176,42 @@
         }
       ],
       "publishedAt": "2025-11-28T05:00:00.000Z",
-      "ranking": 6.673194603496347,
+      "ranking": 6.2716771003723055,
       "articleUrl": "https://venturebeat.com/ai/beyond-math-and-coding-new-rl-framework-helps-train-llm-agents-for-complex"
+    },
+    {
+      "id": "402",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Demand Surge",
+      "mediumTitle": "AI Tools Face Demand Limits",
+      "longTitle": "Popular AI Generation Tools Hit by High Demand",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Popular AI generation tools Sora and",
+            "Nano Banana Pro are experiencing",
+            "throttled request limits due to a surge",
+            "in demand this holiday weekend.",
+            "Bill Peebles, who leads the Sora project",
+            "at OpenAI, announced that free users",
+            "will now be limited to six video",
+            "generations per day.",
+            "He humorously described the situation as",
+            "\u0027Our GPUs are melting,\u0027 highlighting the",
+            "extreme strain on their processing",
+            "resources.",
+            "While the article doesn\u0027t explicitly",
+            "detail the new limits for Nano Banana",
+            "Pro, it groups it with Sora as being",
+            "affected by similar demand-driven",
+            "throttling."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-28T09:00:34.000Z",
+      "ranking": 5.702842046586194,
+      "articleUrl": "https://www.theverge.com/news/831760/openai-google-rate-limit-sora-nano-banana-pro"
     },
     {
       "id": "403",
@@ -246,7 +246,7 @@
         }
       ],
       "publishedAt": "2025-11-28T08:39:58.000Z",
-      "ranking": 6.595833333333333,
+      "ranking": 5.296263739908394,
       "articleUrl": "https://www.theverge.com/news/831747/tim-sweeney-epic-ceo-steam-game-stores-made-with-ai"
     },
     {
@@ -281,7 +281,7 @@
         }
       ],
       "publishedAt": "2025-11-27T10:30:00.000Z",
-      "ranking": 4.908105068154498,
+      "ranking": 4.2507506623803,
       "articleUrl": "https://www.theverge.com/report/829137/openai-chatgpt-time-date"
     },
     {
@@ -316,8 +316,42 @@
         }
       ],
       "publishedAt": "2025-11-27T08:30:00.000Z",
-      "ranking": 4.11079864697372,
+      "ranking": 3.4257861974281605,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/830450/ai-shopping-assistants-are-stuck-in-the-past"
+    },
+    {
+      "id": "399",
+      "topic": "Robotics",
+      "source": "The Verge AI",
+      "shortTitle": "Robot Bubble Alert",
+      "mediumTitle": "China Warns of Humanoid Robot Bubble",
+      "longTitle": "China\u0027s Economic Planner Warns of Humanoid Robot Industry Bubble",
+      "paragraphs": [
+        {
+          "Lines": [
+            "China\u0027s National Development and Reform",
+            "Commission (NDRC), the country\u0027s primary",
+            "economic planning body, has issued a",
+            "cautionary statement regarding a",
+            "potential bubble forming within its",
+            "burgeoning humanoid robot industry.",
+            "This alert arrives amidst escalating",
+            "anxieties about a possible bursting of a",
+            "bubble in the Artificial Intelligence",
+            "(AI) sector, which shares significant",
+            "ties with robotics.",
+            "During a press briefing, NDRC",
+            "spokesperson Li Chao highlighted that",
+            "the advancement of China\u0027s humanoid",
+            "robotics industry necessitates",
+            "meticulous observation and careful",
+            "consideration."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-27T11:57:49.000Z",
+      "ranking": 2.7840743914621724,
+      "articleUrl": "https://www.theverge.com/news/831451/china-humanoid-robotics-bubble"
     },
     {
       "id": "397",
@@ -351,42 +385,8 @@
         }
       ],
       "publishedAt": "2025-11-27T09:07:54.000Z",
-      "ranking": 3.429381445272695,
+      "ranking": 2.753104320872369,
       "articleUrl": "https://www.theverge.com/news/831354/alibaba-quark-smart-glasses"
-    },
-    {
-      "id": "399",
-      "topic": "Robotics",
-      "source": "The Verge AI",
-      "shortTitle": "Robot Bubble Alert",
-      "mediumTitle": "China Warns of Humanoid Robot Bubble",
-      "longTitle": "China\u0027s Economic Planner Warns of Humanoid Robot Industry Bubble",
-      "paragraphs": [
-        {
-          "Lines": [
-            "China\u0027s National Development and Reform",
-            "Commission (NDRC), the country\u0027s primary",
-            "economic planning body, has issued a",
-            "cautionary statement regarding a",
-            "potential bubble forming within its",
-            "burgeoning humanoid robot industry.",
-            "This alert arrives amidst escalating",
-            "anxieties about a possible bursting of a",
-            "bubble in the Artificial Intelligence",
-            "(AI) sector, which shares significant",
-            "ties with robotics.",
-            "During a press briefing, NDRC",
-            "spokesperson Li Chao highlighted that",
-            "the advancement of China\u0027s humanoid",
-            "robotics industry necessitates",
-            "meticulous observation and careful",
-            "consideration."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-27T11:57:49.000Z",
-      "ranking": 3.4211884828219037,
-      "articleUrl": "https://www.theverge.com/news/831451/china-humanoid-robotics-bubble"
     },
     {
       "id": "395",
@@ -419,7 +419,7 @@
         }
       ],
       "publishedAt": "2025-11-27T08:44:01.000Z",
-      "ranking": 3.335696969821838,
+      "ranking": 2.6539151328637223,
       "articleUrl": "https://www.marktechpost.com/2025/11/26/oceanbase-releases-seekdb-an-open-source-ai-native-hybrid-search-database-for-multi-model-rag-and-ai-agents/"
     },
     {
@@ -454,7 +454,7 @@
         }
       ],
       "publishedAt": "2025-11-26T20:43:44.000Z",
-      "ranking": 2.0011608654665602,
+      "ranking": 1.1533654742153834,
       "articleUrl": "https://www.theverge.com/news/831207/openai-chatgpt-lawsuit-parental-controls-tos"
     },
     {
@@ -489,7 +489,7 @@
         }
       ],
       "publishedAt": "2025-11-26T20:07:34.000Z",
-      "ranking": 0.9522951055861162,
+      "ranking": 0.09616380122503276,
       "articleUrl": "https://www.marktechpost.com/2025/11/26/tencent-hunyuan-releases-hunyuanocr-a-1b-parameter-end-to-end-ocr-expert-vlm/"
     },
     {
@@ -524,7 +524,7 @@
         }
       ],
       "publishedAt": "2025-11-26T15:00:00.000Z",
-      "ranking": 0.7415777168519027,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/a-weekend-vibe-code-hack-by-andrej-karpathy-quietly-sketches-the-missing"
     },
     {
@@ -1557,40 +1557,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/21/google-deepmind-introduces-nano-banana-pro-the-gemini-3-pro-image-model-for-text-accurate-and-studio-grade-visuals/"
     },
     {
-      "id": "359",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "GPT-4o API Sunset",
-      "mediumTitle": "OpenAI Retires GPT-4o API",
-      "longTitle": "OpenAI to Retire GPT-4o Model from Developer API in 2026",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI is set to retire its GPT-4o model",
-            "from its developer API on February 16,",
-            "2026, after its release in May 2024.",
-            "This backlash led OpenAI to reinstate",
-            "GPT-4o as a default option for paying",
-            "users and commit to providing",
-            "substantial advance notice before future",
-            "model removals.",
-            "When OpenAI attempted to replace it with",
-            "the GPT-5 series in August 2025, users",
-            "reacted strongly, rallying under the",
-            "#Keep4o hashtag.",
-            "GPT-4o became a significant technical",
-            "achievement and popular consumer model",
-            "due to its unified multimodal",
-            "architecture enabling near real-time",
-            "processing of text, audio, and images."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-22T00:01:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026"
-    },
-    {
       "id": "380",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -1619,6 +1585,40 @@
             "with GPT-5 in August 2025, users reacted",
             "negatively, advocating for its return",
             "under the #Keep4o hashtag."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-22T00:01:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026"
+    },
+    {
+      "id": "359",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "GPT-4o API Sunset",
+      "mediumTitle": "OpenAI Retires GPT-4o API",
+      "longTitle": "OpenAI to Retire GPT-4o Model from Developer API in 2026",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI is set to retire its GPT-4o model",
+            "from its developer API on February 16,",
+            "2026, after its release in May 2024.",
+            "This backlash led OpenAI to reinstate",
+            "GPT-4o as a default option for paying",
+            "users and commit to providing",
+            "substantial advance notice before future",
+            "model removals.",
+            "When OpenAI attempted to replace it with",
+            "the GPT-5 series in August 2025, users",
+            "reacted strongly, rallying under the",
+            "#Keep4o hashtag.",
+            "GPT-4o became a significant technical",
+            "achievement and popular consumer model",
+            "due to its unified multimodal",
+            "architecture enabling near real-time",
+            "processing of text, audio, and images."
           ]
         }
       ],
