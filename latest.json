@@ -36,6 +36,41 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/29/stepfun-ai-releases-step-audio-r1-a-new-audio-llm-that-finally-benefits-from-test-time-compute-scaling/"
     },
     {
+      "id": "411",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "Meta\u0027s Matrix",
+      "mediumTitle": "Meta AI\u0027s Matrix for Synthetic Data",
+      "longTitle": "Meta AI Introduces Matrix, a Decentralized Framework for Synthetic Data Generation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta AI researchers have introduced",
+            "Matrix, a novel decentralized framework",
+            "designed to address the challenges of",
+            "generating fresh and diverse synthetic",
+            "data for modern AI models, particularly",
+            "Large Language Models (LLMs).",
+            "In essence, Matrix represents a",
+            "significant step forward in synthetic",
+            "data generation for AI, offering a",
+            "scalable, flexible, and robust solution",
+            "for creating high-quality, diverse",
+            "synthetic data essential for training",
+            "next-generation AI models.",
+            "Matrix\u0027s decentralized and",
+            "message-driven approach is designed to",
+            "overcome these limitations by",
+            "dynamically scaling and adapting to",
+            "generation demands without bottlenecks."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-30T10:49:00.000Z",
+      "ranking": 7.53125,
+      "articleUrl": "https://www.marktechpost.com/2025/11/30/meta-ai-researchers-introduce-matrix-a-ray-native-a-decentralized-framework-for-multi-agent-synthetic-data-generation/"
+    },
+    {
       "id": "408",
       "topic": "Model Eval",
       "source": "VentureBeat AI",
@@ -65,7 +100,7 @@
         }
       ],
       "publishedAt": "2025-11-29T20:00:00.000Z",
-      "ranking": 7.114285714285714,
+      "ranking": 6.110483499020479,
       "articleUrl": "https://venturebeat.com/ai/why-observable-ai-is-the-missing-sre-layer-enterprises-need-for-reliable"
     },
     {
@@ -100,7 +135,7 @@
         }
       ],
       "publishedAt": "2025-11-29T05:18:46.000Z",
-      "ranking": 6.324270198588193,
+      "ranking": 5.812100298792,
       "articleUrl": "https://www.marktechpost.com/2025/11/28/nvidia-ai-releases-orchestrator-8b-a-reinforcement-learning-trained-controller-for-efficient-tool-and-model-selection/"
     },
     {
@@ -135,7 +170,7 @@
         }
       ],
       "publishedAt": "2025-11-29T13:00:00.000Z",
-      "ranking": 5.858315666891744,
+      "ranking": 5.453353735746542,
       "articleUrl": "https://www.theverge.com/entertainment/830393/ai-music-deezer-survey-spotify"
     },
     {
@@ -171,7 +206,7 @@
         }
       ],
       "publishedAt": "2025-11-28T17:19:00.000Z",
-      "ranking": 4.054579621388257,
+      "ranking": 3.3751088855930513,
       "articleUrl": "https://venturebeat.com/ai/what-to-be-thankful-for-in-ai-in-2025"
     },
     {
@@ -207,7 +242,7 @@
         }
       ],
       "publishedAt": "2025-11-28T20:30:00.000Z",
-      "ranking": 3.82473846001419,
+      "ranking": 3.189663305587299,
       "articleUrl": "https://venturebeat.com/ai/anthropic-says-it-solved-the-long-running-ai-agent-problem-with-a-new-multi"
     },
     {
@@ -243,7 +278,7 @@
         }
       ],
       "publishedAt": "2025-11-28T10:35:43.000Z",
-      "ranking": 3.5118588964944024,
+      "ranking": 2.7386499496799797,
       "articleUrl": "https://www.marktechpost.com/2025/11/28/deepseek-ai-releases-deepseekmath-v2-the-open-weights-maths-model-that-scored-118-120-on-putnam-2024/"
     },
     {
@@ -279,7 +314,7 @@
         }
       ],
       "publishedAt": "2025-11-28T05:00:00.000Z",
-      "ranking": 1.8934992573395037,
+      "ranking": 1.0422571334062125,
       "articleUrl": "https://venturebeat.com/ai/beyond-math-and-coding-new-rl-framework-helps-train-llm-agents-for-complex"
     },
     {
@@ -313,7 +348,7 @@
         }
       ],
       "publishedAt": "2025-11-28T09:00:34.000Z",
-      "ranking": 1.7145168360681051,
+      "ranking": 0.9191914491627227,
       "articleUrl": "https://www.theverge.com/news/831760/openai-google-rate-limit-sora-nano-banana-pro"
     },
     {
@@ -349,7 +384,7 @@
         }
       ],
       "publishedAt": "2025-11-28T08:39:58.000Z",
-      "ranking": 1.2745549963838423,
+      "ranking": 0.47444139404992924,
       "articleUrl": "https://www.theverge.com/news/831747/tim-sweeney-epic-ceo-steam-game-stores-made-with-ai"
     },
     {
@@ -1658,76 +1693,6 @@
       "publishedAt": "2025-11-22T08:34:27.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/21/google-deepmind-introduces-nano-banana-pro-the-gemini-3-pro-image-model-for-text-accurate-and-studio-grade-visuals/"
-    },
-    {
-      "id": "359",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "GPT-4o API Sunset",
-      "mediumTitle": "OpenAI Retires GPT-4o API",
-      "longTitle": "OpenAI to Retire GPT-4o Model from Developer API in 2026",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI is set to retire its GPT-4o model",
-            "from its developer API on February 16,",
-            "2026, after its release in May 2024.",
-            "This backlash led OpenAI to reinstate",
-            "GPT-4o as a default option for paying",
-            "users and commit to providing",
-            "substantial advance notice before future",
-            "model removals.",
-            "When OpenAI attempted to replace it with",
-            "the GPT-5 series in August 2025, users",
-            "reacted strongly, rallying under the",
-            "#Keep4o hashtag.",
-            "GPT-4o became a significant technical",
-            "achievement and popular consumer model",
-            "due to its unified multimodal",
-            "architecture enabling near real-time",
-            "processing of text, audio, and images."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-22T00:01:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026"
-    },
-    {
-      "id": "380",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "GPT-4o API Sunset",
-      "mediumTitle": "OpenAI Retiring Specific GPT-4o API Model",
-      "longTitle": "OpenAI to Retire chatgpt-4o-latest API Model in February 2026",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI is retiring the",
-            "\u0060chatgpt-4o-latest\u0060 model from its API",
-            "on February 16, 2026, providing",
-            "developers with a roughly three-month",
-            "transition period.",
-            "This backlash prompted OpenAI to restore",
-            "GPT-4o as a default option for paying",
-            "users and commit to providing",
-            "substantial notice before future model",
-            "removals.",
-            "OpenAI has stated that this timeline",
-            "applies only to the API and has not",
-            "announced any plans to remove GPT-4o",
-            "from the consumer-facing ChatGPT",
-            "application.",
-            "When OpenAI initially replaced GPT-4o",
-            "with GPT-5 in August 2025, users reacted",
-            "negatively, advocating for its return",
-            "under the #Keep4o hashtag."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-22T00:01:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026"
     }
   ]
 }
