@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "409",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "StepFun AI Audio LLM",
+      "mediumTitle": "StepFun AI\u0027s New Audio LLM",
+      "longTitle": "StepFun AI Introduces Step-Audio-R1, an Audio LLM",
+      "paragraphs": [
+        {
+          "Lines": [
+            "StepFun AI has introduced Step-Audio-R1,",
+            "a novel audio Large Language Model (LLM)",
+            "that addresses a critical limitation in",
+            "current audio AI: the degradation of",
+            "performance when generating longer",
+            "reasoning chains compared to grounding",
+            "decisions in the raw audio.",
+            "This new model is specifically designed",
+            "to benefit from test-time compute",
+            "scaling, a technique that allows for",
+            "increased computational resources to be",
+            "utilized during inference without",
+            "requiring retraining.",
+            "The core problem Step-Audio-R1 aims to",
+            "solve is the tendency for existing audio",
+            "AI models to exhibit a drop in accuracy",
+            "as the complexity and length of their",
+            "reasoning processes increase."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-29T23:03:21.000Z",
+      "ranking": 7.844444444444444,
+      "articleUrl": "https://www.marktechpost.com/2025/11/29/stepfun-ai-releases-step-audio-r1-a-new-audio-llm-that-finally-benefits-from-test-time-compute-scaling/"
+    },
+    {
       "id": "406",
       "topic": "Reinforcement Lrng",
       "source": "Marktechpost AI",
@@ -32,7 +67,7 @@
         }
       ],
       "publishedAt": "2025-11-29T05:18:46.000Z",
-      "ranking": 8.416666666666666,
+      "ranking": 7.17613622488054,
       "articleUrl": "https://www.marktechpost.com/2025/11/28/nvidia-ai-releases-orchestrator-8b-a-reinforcement-learning-trained-controller-for-efficient-tool-and-model-selection/"
     },
     {
@@ -136,44 +171,8 @@
         }
       ],
       "publishedAt": "2025-11-28T17:19:00.000Z",
-      "ranking": 5.751333654044963,
+      "ranking": 5.23905861892962,
       "articleUrl": "https://venturebeat.com/ai/what-to-be-thankful-for-in-ai-in-2025"
-    },
-    {
-      "id": "400",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "DeepSeekMath V2",
-      "mediumTitle": "DeepSeekMath-V2: AI for Math Proofs",
-      "longTitle": "DeepSeekMath-V2: New AI Model Excels at Math Theorem Proving",
-      "paragraphs": [
-        {
-          "Lines": [
-            "DeepSeek AI has launched",
-            "DeepSeekMath-V2, an open-weights large",
-            "language model specifically designed for",
-            "natural language theorem proving and",
-            "self-verification of its reasoning.",
-            "The model achieved a remarkable score of",
-            "118 out of 120 on the 2024 Putnam exam.",
-            "The model\u0027s architecture and training",
-            "are optimized to not only generate",
-            "proofs in clear, natural language but",
-            "also to critically assess the",
-            "correctness of its own logical steps.",
-            "This self-verification mechanism is",
-            "crucial for ensuring the reliability and",
-            "accuracy of its mathematical reasoning.",
-            "A key highlight of DeepSeekMath-V2 is",
-            "its exceptional performance on the",
-            "Putnam Competition, a highly challenging",
-            "mathematics exam."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-28T10:35:43.000Z",
-      "ranking": 5.488749085605589,
-      "articleUrl": "https://www.marktechpost.com/2025/11/28/deepseek-ai-releases-deepseekmath-v2-the-open-weights-maths-model-that-scored-118-120-on-putnam-2024/"
     },
     {
       "id": "404",
@@ -208,8 +207,44 @@
         }
       ],
       "publishedAt": "2025-11-28T20:30:00.000Z",
-      "ranking": 5.388816528719159,
+      "ranking": 4.92095402295154,
       "articleUrl": "https://venturebeat.com/ai/anthropic-says-it-solved-the-long-running-ai-agent-problem-with-a-new-multi"
+    },
+    {
+      "id": "400",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "DeepSeekMath V2",
+      "mediumTitle": "DeepSeekMath-V2: AI for Math Proofs",
+      "longTitle": "DeepSeekMath-V2: New AI Model Excels at Math Theorem Proving",
+      "paragraphs": [
+        {
+          "Lines": [
+            "DeepSeek AI has launched",
+            "DeepSeekMath-V2, an open-weights large",
+            "language model specifically designed for",
+            "natural language theorem proving and",
+            "self-verification of its reasoning.",
+            "The model achieved a remarkable score of",
+            "118 out of 120 on the 2024 Putnam exam.",
+            "The model\u0027s architecture and training",
+            "are optimized to not only generate",
+            "proofs in clear, natural language but",
+            "also to critically assess the",
+            "correctness of its own logical steps.",
+            "This self-verification mechanism is",
+            "crucial for ensuring the reliability and",
+            "accuracy of its mathematical reasoning.",
+            "A key highlight of DeepSeekMath-V2 is",
+            "its exceptional performance on the",
+            "Putnam Competition, a highly challenging",
+            "mathematics exam."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-28T10:35:43.000Z",
+      "ranking": 4.882700054407037,
+      "articleUrl": "https://www.marktechpost.com/2025/11/28/deepseek-ai-releases-deepseekmath-v2-the-open-weights-maths-model-that-scored-118-120-on-putnam-2024/"
     },
     {
       "id": "405",
@@ -244,7 +279,7 @@
         }
       ],
       "publishedAt": "2025-11-28T05:00:00.000Z",
-      "ranking": 4.10359117831738,
+      "ranking": 3.4194791900416623,
       "articleUrl": "https://venturebeat.com/ai/beyond-math-and-coding-new-rl-framework-helps-train-llm-agents-for-complex"
     },
     {
@@ -278,7 +313,7 @@
         }
       ],
       "publishedAt": "2025-11-28T09:00:34.000Z",
-      "ranking": 3.7575018798872315,
+      "ranking": 3.129327971930897,
       "articleUrl": "https://www.theverge.com/news/831760/openai-google-rate-limit-sora-nano-banana-pro"
     },
     {
@@ -314,7 +349,7 @@
         }
       ],
       "publishedAt": "2025-11-28T08:39:58.000Z",
-      "ranking": 3.3318495963788672,
+      "ranking": 2.6988856448209764,
       "articleUrl": "https://www.theverge.com/news/831747/tim-sweeney-epic-ceo-steam-game-stores-made-with-ai"
     },
     {
@@ -349,43 +384,8 @@
         }
       ],
       "publishedAt": "2025-11-27T10:30:00.000Z",
-      "ranking": 1.0548922994132397,
+      "ranking": 0.11267609264015022,
       "articleUrl": "https://www.theverge.com/report/829137/openai-chatgpt-time-date"
-    },
-    {
-      "id": "398",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Shopping Lag",
-      "mediumTitle": "AI Shopping Assistants Struggle with Current Products",
-      "longTitle": "AI Shopping Assistants Lag Behind Rapid Product Releases",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AI shopping assistants are currently",
-            "struggling to recommend up-to-date",
-            "products, especially in consumer",
-            "electronics.",
-            "The author\u0027s search for a new smartwatch",
-            "highlighted this issue, where AI",
-            "assistants failed to recommend current",
-            "models.",
-            "Despite having specific, recently",
-            "released models in mind, such as the",
-            "Google Pixel Watch 4 or the Garmin",
-            "Vivoactive 6, the AI assistants",
-            "consistently suggested older models from",
-            "a couple of years prior.",
-            "This indicates a significant lag in the",
-            "AI\u0027s knowledge base or its ability to",
-            "access and process up-to-date product",
-            "information."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-27T08:30:00.000Z",
-      "ranking": 0.11881729935679797,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/830450/ai-shopping-assistants-are-stuck-in-the-past"
     },
     {
       "id": "399",
@@ -489,6 +489,41 @@
       "publishedAt": "2025-11-27T08:44:01.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/26/oceanbase-releases-seekdb-an-open-source-ai-native-hybrid-search-database-for-multi-model-rag-and-ai-agents/"
+    },
+    {
+      "id": "398",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Shopping Lag",
+      "mediumTitle": "AI Shopping Assistants Struggle with Current Products",
+      "longTitle": "AI Shopping Assistants Lag Behind Rapid Product Releases",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AI shopping assistants are currently",
+            "struggling to recommend up-to-date",
+            "products, especially in consumer",
+            "electronics.",
+            "The author\u0027s search for a new smartwatch",
+            "highlighted this issue, where AI",
+            "assistants failed to recommend current",
+            "models.",
+            "Despite having specific, recently",
+            "released models in mind, such as the",
+            "Google Pixel Watch 4 or the Garmin",
+            "Vivoactive 6, the AI assistants",
+            "consistently suggested older models from",
+            "a couple of years prior.",
+            "This indicates a significant lag in the",
+            "AI\u0027s knowledge base or its ability to",
+            "access and process up-to-date product",
+            "information."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-27T08:30:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/830450/ai-shopping-assistants-are-stuck-in-the-past"
     },
     {
       "id": "394",
