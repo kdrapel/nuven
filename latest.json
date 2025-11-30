@@ -1,39 +1,40 @@
 {
   "articles": [
     {
-      "id": "409",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "StepFun AI Audio LLM",
-      "mediumTitle": "StepFun AI\u0027s New Audio LLM",
-      "longTitle": "StepFun AI Introduces Step-Audio-R1, an Audio LLM",
+      "id": "412",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Agents \u0026 Data",
+      "mediumTitle": "AI Agents Struggle with Business Data",
+      "longTitle": "Ontology Solution for Enterprise AI Agent Data Understanding",
       "paragraphs": [
         {
           "Lines": [
-            "StepFun AI has introduced Step-Audio-R1,",
-            "a novel audio Large Language Model (LLM)",
-            "that addresses a critical limitation in",
-            "current audio AI: the degradation of",
-            "performance when generating longer",
-            "reasoning chains compared to grounding",
-            "decisions in the raw audio.",
-            "This new model is specifically designed",
-            "to benefit from test-time compute",
-            "scaling, a technique that allows for",
-            "increased computational resources to be",
-            "utilized during inference without",
-            "requiring retraining.",
-            "The core problem Step-Audio-R1 aims to",
-            "solve is the tendency for existing audio",
-            "AI models to exhibit a drop in accuracy",
-            "as the complexity and length of their",
-            "reasoning processes increase."
+            "The article proposes an ontology-based",
+            "single source of truth as the solution",
+            "for building effective agentic",
+            "solutions.",
+            "Once implemented, an ontology can guide",
+            "AI agents by prompting them to follow",
+            "it, discover data and relationships, and",
+            "adhere to embedded business rules and",
+            "policies.",
+            "An ontology defines business concepts,",
+            "their hierarchies, and relationships",
+            "within specific business domains,",
+            "establishing a unified view of data and",
+            "standardizing field names.",
+            "Enterprises are investing heavily in AI",
+            "agents to transform business processes,",
+            "but real-world success is limited due to",
+            "agents\u0027 inability to truly understand",
+            "business data, policies, and processes."
           ]
         }
       ],
-      "publishedAt": "2025-11-29T23:03:21.000Z",
-      "ranking": 7.844444444444444,
-      "articleUrl": "https://www.marktechpost.com/2025/11/29/stepfun-ai-releases-step-audio-r1-a-new-audio-llm-that-finally-benefits-from-test-time-compute-scaling/"
+      "publishedAt": "2025-11-30T06:00:00.000Z",
+      "ranking": 7.755,
+      "articleUrl": "https://venturebeat.com/ai/ontology-is-the-real-guardrail-how-to-stop-ai-agents-from-misunderstanding"
     },
     {
       "id": "411",
@@ -71,6 +72,41 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/30/meta-ai-researchers-introduce-matrix-a-ray-native-a-decentralized-framework-for-multi-agent-synthetic-data-generation/"
     },
     {
+      "id": "409",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "StepFun AI Audio LLM",
+      "mediumTitle": "StepFun AI\u0027s New Audio LLM",
+      "longTitle": "StepFun AI Introduces Step-Audio-R1, an Audio LLM",
+      "paragraphs": [
+        {
+          "Lines": [
+            "StepFun AI has introduced Step-Audio-R1,",
+            "a novel audio Large Language Model (LLM)",
+            "that addresses a critical limitation in",
+            "current audio AI: the degradation of",
+            "performance when generating longer",
+            "reasoning chains compared to grounding",
+            "decisions in the raw audio.",
+            "This new model is specifically designed",
+            "to benefit from test-time compute",
+            "scaling, a technique that allows for",
+            "increased computational resources to be",
+            "utilized during inference without",
+            "requiring retraining.",
+            "The core problem Step-Audio-R1 aims to",
+            "solve is the tendency for existing audio",
+            "AI models to exhibit a drop in accuracy",
+            "as the complexity and length of their",
+            "reasoning processes increase."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-29T23:03:21.000Z",
+      "ranking": 6.760237946298132,
+      "articleUrl": "https://www.marktechpost.com/2025/11/29/stepfun-ai-releases-step-audio-r1-a-new-audio-llm-that-finally-benefits-from-test-time-compute-scaling/"
+    },
+    {
       "id": "408",
       "topic": "Model Eval",
       "source": "VentureBeat AI",
@@ -100,7 +136,7 @@
         }
       ],
       "publishedAt": "2025-11-29T20:00:00.000Z",
-      "ranking": 6.110483499020479,
+      "ranking": 5.748709394071751,
       "articleUrl": "https://venturebeat.com/ai/why-observable-ai-is-the-missing-sre-layer-enterprises-need-for-reliable"
     },
     {
@@ -135,7 +171,7 @@
         }
       ],
       "publishedAt": "2025-11-29T05:18:46.000Z",
-      "ranking": 5.812100298792,
+      "ranking": 5.2463213420300345,
       "articleUrl": "https://www.marktechpost.com/2025/11/28/nvidia-ai-releases-orchestrator-8b-a-reinforcement-learning-trained-controller-for-efficient-tool-and-model-selection/"
     },
     {
@@ -170,7 +206,7 @@
         }
       ],
       "publishedAt": "2025-11-29T13:00:00.000Z",
-      "ranking": 5.453353735746542,
+      "ranking": 4.994349947119325,
       "articleUrl": "https://www.theverge.com/entertainment/830393/ai-music-deezer-survey-spotify"
     },
     {
@@ -206,7 +242,7 @@
         }
       ],
       "publishedAt": "2025-11-28T17:19:00.000Z",
-      "ranking": 3.3751088855930513,
+      "ranking": 2.6427044883170483,
       "articleUrl": "https://venturebeat.com/ai/what-to-be-thankful-for-in-ai-in-2025"
     },
     {
@@ -242,7 +278,7 @@
         }
       ],
       "publishedAt": "2025-11-28T20:30:00.000Z",
-      "ranking": 3.189663305587299,
+      "ranking": 2.501475262288439,
       "articleUrl": "https://venturebeat.com/ai/anthropic-says-it-solved-the-long-running-ai-agent-problem-with-a-new-multi"
     },
     {
@@ -278,7 +314,7 @@
         }
       ],
       "publishedAt": "2025-11-28T10:35:43.000Z",
-      "ranking": 2.7386499496799797,
+      "ranking": 1.9128857636098244,
       "articleUrl": "https://www.marktechpost.com/2025/11/28/deepseek-ai-releases-deepseekmath-v2-the-open-weights-maths-model-that-scored-118-120-on-putnam-2024/"
     },
     {
@@ -314,7 +350,7 @@
         }
       ],
       "publishedAt": "2025-11-28T05:00:00.000Z",
-      "ranking": 1.0422571334062125,
+      "ranking": 0.13877479153621675,
       "articleUrl": "https://venturebeat.com/ai/beyond-math-and-coding-new-rl-framework-helps-train-llm-agents-for-complex"
     },
     {
@@ -348,7 +384,7 @@
         }
       ],
       "publishedAt": "2025-11-28T09:00:34.000Z",
-      "ranking": 0.9191914491627227,
+      "ranking": 0.07140010679928643,
       "articleUrl": "https://www.theverge.com/news/831760/openai-google-rate-limit-sora-nano-banana-pro"
     },
     {
@@ -384,7 +420,7 @@
         }
       ],
       "publishedAt": "2025-11-28T08:39:58.000Z",
-      "ranking": 0.47444139404992924,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/831747/tim-sweeney-epic-ceo-steam-game-stores-made-with-ai"
     },
     {
@@ -1658,41 +1694,6 @@
       "publishedAt": "2025-11-23T01:30:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in"
-    },
-    {
-      "id": "361",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Nano Banana Pro",
-      "mediumTitle": "Google DeepMind\u0027s Nano Banana Pro",
-      "longTitle": "Google DeepMind Unveils Advanced Image Model Nano Banana Pro",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google DeepMind has unveiled Nano Banana",
-            "Pro, also known as Gemini 3 Pro Image, a",
-            "new advanced image generation and",
-            "editing model.",
-            "This model is built upon the foundation",
-            "of Gemini 3 Pro and is designed to excel",
-            "at producing visuals that accurately",
-            "adhere to structural integrity,",
-            "real-world knowledge, and precise text",
-            "layouts, in addition to stylistic",
-            "considerations.",
-            "Nano Banana Pro represents a significant",
-            "advancement in AI-powered image",
-            "creation, aiming to deliver studio-grade",
-            "quality and reliability in its outputs.",
-            "This new model is positioned to set a",
-            "new standard for text-accurate and",
-            "high-quality visual content creation."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-22T08:34:27.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/21/google-deepmind-introduces-nano-banana-pro-the-gemini-3-pro-image-model-for-text-accurate-and-studio-grade-visuals/"
     }
   ]
 }
