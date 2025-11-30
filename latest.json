@@ -36,41 +36,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/29/stepfun-ai-releases-step-audio-r1-a-new-audio-llm-that-finally-benefits-from-test-time-compute-scaling/"
     },
     {
-      "id": "406",
-      "topic": "Reinforcement Lrng",
-      "source": "Marktechpost AI",
-      "shortTitle": "NVIDIA\u0027s ToolOrchestra",
-      "mediumTitle": "NVIDIA\u0027s ToolOrchestra AI Method",
-      "longTitle": "NVIDIA\u0027s ToolOrchestra: Training an AI Orchestrator for Tool Selection",
-      "paragraphs": [
-        {
-          "Lines": [
-            "NVIDIA researchers have introduced",
-            "ToolOrchestra, a groundbreaking method",
-            "for training a compact language model to",
-            "function as an \u0027orchestrator,\u0027 acting as",
-            "the central control unit for a",
-            "heterogeneous agent capable of utilizing",
-            "various tools and models.",
-            "The core innovation lies in enabling an",
-            "AI system to learn how to select the",
-            "most appropriate model or tool for each",
-            "specific step of a task, rather than",
-            "defaulting to a single, monolithic large",
-            "model for all operations.",
-            "Instead of a one-size-fits-all approach,",
-            "ToolOrchestra facilitates a dynamic",
-            "selection process, where the AI",
-            "intelligently chooses the best resource",
-            "for the job at hand."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-29T05:18:46.000Z",
-      "ranking": 7.17613622488054,
-      "articleUrl": "https://www.marktechpost.com/2025/11/28/nvidia-ai-releases-orchestrator-8b-a-reinforcement-learning-trained-controller-for-efficient-tool-and-model-selection/"
-    },
-    {
       "id": "407",
       "topic": "Music",
       "source": "The Verge AI",
@@ -139,6 +104,41 @@
       "articleUrl": "https://venturebeat.com/ai/why-observable-ai-is-the-missing-sre-layer-enterprises-need-for-reliable"
     },
     {
+      "id": "406",
+      "topic": "Reinforcement Lrng",
+      "source": "Marktechpost AI",
+      "shortTitle": "NVIDIA\u0027s ToolOrchestra",
+      "mediumTitle": "NVIDIA\u0027s ToolOrchestra AI Method",
+      "longTitle": "NVIDIA\u0027s ToolOrchestra: Training an AI Orchestrator for Tool Selection",
+      "paragraphs": [
+        {
+          "Lines": [
+            "NVIDIA researchers have introduced",
+            "ToolOrchestra, a groundbreaking method",
+            "for training a compact language model to",
+            "function as an \u0027orchestrator,\u0027 acting as",
+            "the central control unit for a",
+            "heterogeneous agent capable of utilizing",
+            "various tools and models.",
+            "The core innovation lies in enabling an",
+            "AI system to learn how to select the",
+            "most appropriate model or tool for each",
+            "specific step of a task, rather than",
+            "defaulting to a single, monolithic large",
+            "model for all operations.",
+            "Instead of a one-size-fits-all approach,",
+            "ToolOrchestra facilitates a dynamic",
+            "selection process, where the AI",
+            "intelligently chooses the best resource",
+            "for the job at hand."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-29T05:18:46.000Z",
+      "ranking": 6.778954230415789,
+      "articleUrl": "https://www.marktechpost.com/2025/11/28/nvidia-ai-releases-orchestrator-8b-a-reinforcement-learning-trained-controller-for-efficient-tool-and-model-selection/"
+    },
+    {
       "id": "401",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -171,7 +171,7 @@
         }
       ],
       "publishedAt": "2025-11-28T17:19:00.000Z",
-      "ranking": 5.23905861892962,
+      "ranking": 4.675990047752517,
       "articleUrl": "https://venturebeat.com/ai/what-to-be-thankful-for-in-ai-in-2025"
     },
     {
@@ -207,7 +207,7 @@
         }
       ],
       "publishedAt": "2025-11-28T20:30:00.000Z",
-      "ranking": 4.92095402295154,
+      "ranking": 4.40190574276573,
       "articleUrl": "https://venturebeat.com/ai/anthropic-says-it-solved-the-long-running-ai-agent-problem-with-a-new-multi"
     },
     {
@@ -243,7 +243,7 @@
         }
       ],
       "publishedAt": "2025-11-28T10:35:43.000Z",
-      "ranking": 4.882700054407037,
+      "ranking": 4.226685672002695,
       "articleUrl": "https://www.marktechpost.com/2025/11/28/deepseek-ai-releases-deepseekmath-v2-the-open-weights-maths-model-that-scored-118-120-on-putnam-2024/"
     },
     {
@@ -279,7 +279,7 @@
         }
       ],
       "publishedAt": "2025-11-28T05:00:00.000Z",
-      "ranking": 3.4194791900416623,
+      "ranking": 2.6860912729446014,
       "articleUrl": "https://venturebeat.com/ai/beyond-math-and-coding-new-rl-framework-helps-train-llm-agents-for-complex"
     },
     {
@@ -313,7 +313,7 @@
         }
       ],
       "publishedAt": "2025-11-28T09:00:34.000Z",
-      "ranking": 3.129327971930897,
+      "ranking": 2.4513841101613245,
       "articleUrl": "https://www.theverge.com/news/831760/openai-google-rate-limit-sora-nano-banana-pro"
     },
     {
@@ -349,43 +349,8 @@
         }
       ],
       "publishedAt": "2025-11-28T08:39:58.000Z",
-      "ranking": 2.6988856448209764,
+      "ranking": 2.0161940452218943,
       "articleUrl": "https://www.theverge.com/news/831747/tim-sweeney-epic-ceo-steam-game-stores-made-with-ai"
-    },
-    {
-      "id": "396",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Time Limit",
-      "mediumTitle": "ChatGPT\u0027s Struggle with Time",
-      "longTitle": "Why Large Language Models Like ChatGPT Can\u0027t Tell Time",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article \u0022Why can\u2019t ChatGPT tell",
-            "time?\u0022 explores the fundamental",
-            "limitation of large language models",
-            "(LLMs) like ChatGPT in accurately and",
-            "reliably telling the current time.",
-            "They do not have a direct connection to",
-            "the real-time clock of the internet or",
-            "any external device.",
-            "The author emphasizes that this",
-            "limitation is not a bug but a",
-            "fundamental characteristic of how LLMs",
-            "operate, as they are designed for",
-            "language generation and understanding,",
-            "not real-time data retrieval.",
-            "This inconsistency stems from the core",
-            "architecture of LLMs, which are trained",
-            "on vast, static datasets of text and",
-            "code up to a certain point in time."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-27T10:30:00.000Z",
-      "ranking": 0.11267609264015022,
-      "articleUrl": "https://www.theverge.com/report/829137/openai-chatgpt-time-date"
     },
     {
       "id": "399",
@@ -420,6 +385,41 @@
       "publishedAt": "2025-11-27T11:57:49.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/831451/china-humanoid-robotics-bubble"
+    },
+    {
+      "id": "396",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Time Limit",
+      "mediumTitle": "ChatGPT\u0027s Struggle with Time",
+      "longTitle": "Why Large Language Models Like ChatGPT Can\u0027t Tell Time",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article \u0022Why can\u2019t ChatGPT tell",
+            "time?\u0022 explores the fundamental",
+            "limitation of large language models",
+            "(LLMs) like ChatGPT in accurately and",
+            "reliably telling the current time.",
+            "They do not have a direct connection to",
+            "the real-time clock of the internet or",
+            "any external device.",
+            "The author emphasizes that this",
+            "limitation is not a bug but a",
+            "fundamental characteristic of how LLMs",
+            "operate, as they are designed for",
+            "language generation and understanding,",
+            "not real-time data retrieval.",
+            "This inconsistency stems from the core",
+            "architecture of LLMs, which are trained",
+            "on vast, static datasets of text and",
+            "code up to a certain point in time."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-27T10:30:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/report/829137/openai-chatgpt-time-date"
     },
     {
       "id": "397",
@@ -1660,6 +1660,40 @@
       "articleUrl": "https://www.marktechpost.com/2025/11/21/google-deepmind-introduces-nano-banana-pro-the-gemini-3-pro-image-model-for-text-accurate-and-studio-grade-visuals/"
     },
     {
+      "id": "359",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "GPT-4o API Sunset",
+      "mediumTitle": "OpenAI Retires GPT-4o API",
+      "longTitle": "OpenAI to Retire GPT-4o Model from Developer API in 2026",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI is set to retire its GPT-4o model",
+            "from its developer API on February 16,",
+            "2026, after its release in May 2024.",
+            "This backlash led OpenAI to reinstate",
+            "GPT-4o as a default option for paying",
+            "users and commit to providing",
+            "substantial advance notice before future",
+            "model removals.",
+            "When OpenAI attempted to replace it with",
+            "the GPT-5 series in August 2025, users",
+            "reacted strongly, rallying under the",
+            "#Keep4o hashtag.",
+            "GPT-4o became a significant technical",
+            "achievement and popular consumer model",
+            "due to its unified multimodal",
+            "architecture enabling near real-time",
+            "processing of text, audio, and images."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-22T00:01:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026"
+    },
+    {
       "id": "380",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -1688,40 +1722,6 @@
             "with GPT-5 in August 2025, users reacted",
             "negatively, advocating for its return",
             "under the #Keep4o hashtag."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-22T00:01:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026"
-    },
-    {
-      "id": "359",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "GPT-4o API Sunset",
-      "mediumTitle": "OpenAI Retires GPT-4o API",
-      "longTitle": "OpenAI to Retire GPT-4o Model from Developer API in 2026",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI is set to retire its GPT-4o model",
-            "from its developer API on February 16,",
-            "2026, after its release in May 2024.",
-            "This backlash led OpenAI to reinstate",
-            "GPT-4o as a default option for paying",
-            "users and commit to providing",
-            "substantial advance notice before future",
-            "model removals.",
-            "When OpenAI attempted to replace it with",
-            "the GPT-5 series in August 2025, users",
-            "reacted strongly, rallying under the",
-            "#Keep4o hashtag.",
-            "GPT-4o became a significant technical",
-            "achievement and popular consumer model",
-            "due to its unified multimodal",
-            "architecture enabling near real-time",
-            "processing of text, audio, and images."
           ]
         }
       ],
