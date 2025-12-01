@@ -69,7 +69,7 @@
         }
       ],
       "publishedAt": "2025-11-30T10:49:00.000Z",
-      "ranking": 7.53125,
+      "ranking": 6.427796711344794,
       "articleUrl": "https://www.marktechpost.com/2025/11/30/meta-ai-researchers-introduce-matrix-a-ray-native-a-decentralized-framework-for-multi-agent-synthetic-data-generation/"
     },
     {
@@ -105,7 +105,7 @@
         }
       ],
       "publishedAt": "2025-11-30T06:00:00.000Z",
-      "ranking": 6.576306534156062,
+      "ranking": 6.1896279384593,
       "articleUrl": "https://venturebeat.com/ai/ontology-is-the-real-guardrail-how-to-stop-ai-agents-from-misunderstanding"
     },
     {
@@ -140,7 +140,7 @@
         }
       ],
       "publishedAt": "2025-11-29T23:03:21.000Z",
-      "ranking": 5.953773296174124,
+      "ranking": 5.471339389126115,
       "articleUrl": "https://www.marktechpost.com/2025/11/29/stepfun-ai-releases-step-audio-r1-a-new-audio-llm-that-finally-benefits-from-test-time-compute-scaling/"
     },
     {
@@ -173,43 +173,8 @@
         }
       ],
       "publishedAt": "2025-11-29T20:00:00.000Z",
-      "ranking": 4.857250710289388,
+      "ranking": 4.3326789501249205,
       "articleUrl": "https://venturebeat.com/ai/why-observable-ai-is-the-missing-sre-layer-enterprises-need-for-reliable"
-    },
-    {
-      "id": "406",
-      "topic": "Reinforcement Lrng",
-      "source": "Marktechpost AI",
-      "shortTitle": "NVIDIA\u0027s ToolOrchestra",
-      "mediumTitle": "NVIDIA\u0027s ToolOrchestra AI Method",
-      "longTitle": "NVIDIA\u0027s ToolOrchestra: Training an AI Orchestrator for Tool Selection",
-      "paragraphs": [
-        {
-          "Lines": [
-            "NVIDIA researchers have introduced",
-            "ToolOrchestra, a groundbreaking method",
-            "for training a compact language model to",
-            "function as an \u0027orchestrator,\u0027 acting as",
-            "the central control unit for a",
-            "heterogeneous agent capable of utilizing",
-            "various tools and models.",
-            "The core innovation lies in enabling an",
-            "AI system to learn how to select the",
-            "most appropriate model or tool for each",
-            "specific step of a task, rather than",
-            "defaulting to a single, monolithic large",
-            "model for all operations.",
-            "Instead of a one-size-fits-all approach,",
-            "ToolOrchestra facilitates a dynamic",
-            "selection process, where the AI",
-            "intelligently chooses the best resource",
-            "for the job at hand."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-29T05:18:46.000Z",
-      "ranking": 3.9463566527499214,
-      "articleUrl": "https://www.marktechpost.com/2025/11/28/nvidia-ai-releases-orchestrator-8b-a-reinforcement-learning-trained-controller-for-efficient-tool-and-model-selection/"
     },
     {
       "id": "407",
@@ -243,8 +208,43 @@
         }
       ],
       "publishedAt": "2025-11-29T13:00:00.000Z",
-      "ranking": 3.9081953565261114,
+      "ranking": 3.287098388161128,
       "articleUrl": "https://www.theverge.com/entertainment/830393/ai-music-deezer-survey-spotify"
+    },
+    {
+      "id": "406",
+      "topic": "Reinforcement Lrng",
+      "source": "Marktechpost AI",
+      "shortTitle": "NVIDIA\u0027s ToolOrchestra",
+      "mediumTitle": "NVIDIA\u0027s ToolOrchestra AI Method",
+      "longTitle": "NVIDIA\u0027s ToolOrchestra: Training an AI Orchestrator for Tool Selection",
+      "paragraphs": [
+        {
+          "Lines": [
+            "NVIDIA researchers have introduced",
+            "ToolOrchestra, a groundbreaking method",
+            "for training a compact language model to",
+            "function as an \u0027orchestrator,\u0027 acting as",
+            "the central control unit for a",
+            "heterogeneous agent capable of utilizing",
+            "various tools and models.",
+            "The core innovation lies in enabling an",
+            "AI system to learn how to select the",
+            "most appropriate model or tool for each",
+            "specific step of a task, rather than",
+            "defaulting to a single, monolithic large",
+            "model for all operations.",
+            "Instead of a one-size-fits-all approach,",
+            "ToolOrchestra facilitates a dynamic",
+            "selection process, where the AI",
+            "intelligently chooses the best resource",
+            "for the job at hand."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-29T05:18:46.000Z",
+      "ranking": 3.2192581330207855,
+      "articleUrl": "https://www.marktechpost.com/2025/11/28/nvidia-ai-releases-orchestrator-8b-a-reinforcement-learning-trained-controller-for-efficient-tool-and-model-selection/"
     },
     {
       "id": "401",
@@ -279,7 +279,7 @@
         }
       ],
       "publishedAt": "2025-11-28T17:19:00.000Z",
-      "ranking": 1.009083553168134,
+      "ranking": 0.11656686819046769,
       "articleUrl": "https://venturebeat.com/ai/what-to-be-thankful-for-in-ai-in-2025"
     },
     {
@@ -315,7 +315,7 @@
         }
       ],
       "publishedAt": "2025-11-28T20:30:00.000Z",
-      "ranking": 0.9563946083306449,
+      "ranking": 0.10777391277511494,
       "articleUrl": "https://venturebeat.com/ai/anthropic-says-it-solved-the-long-running-ai-agent-problem-with-a-new-multi"
     },
     {
@@ -351,7 +351,7 @@
         }
       ],
       "publishedAt": "2025-11-28T10:35:43.000Z",
-      "ranking": 0.09231813008670464,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/28/deepseek-ai-releases-deepseekmath-v2-the-open-weights-maths-model-that-scored-118-120-on-putnam-2024/"
     },
     {
