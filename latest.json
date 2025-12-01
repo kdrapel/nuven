@@ -38,6 +38,38 @@
       "articleUrl": "https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage"
     },
     {
+      "id": "414",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "OpenAGI\u0027s Lux AI",
+      "mediumTitle": "OpenAGI\u0027s Lux AI Outperforms Competitors",
+      "longTitle": "OpenAGI\u0027s Lux AI: A New Contender in Computer Control",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAGI, a new AI startup founded by MIT",
+            "researcher Zengyi Qin, has emerged with",
+            "its AI model, Lux, claiming superior",
+            "performance and lower cost in",
+            "controlling computers.",
+            "Lux reportedly achieves an 83.6% success",
+            "rate on the Online-Mind2Web benchmark,",
+            "significantly surpassing OpenAI\u0027s",
+            "Operator (61.3%) and Anthropic\u0027s Claude",
+            "Computer Use (56.3%).",
+            "While Lux\u0027s benchmark success is",
+            "promising, its real-world reliability",
+            "and ability to handle complex,",
+            "unpredictable scenarios will be the",
+            "ultimate test of its capabilities."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-01T15:00:00.000Z",
+      "ranking": 6.971428571428573,
+      "articleUrl": "https://venturebeat.com/ai/openagi-emerges-from-stealth-with-an-ai-agent-that-it-claims-crushes-openai"
+    },
+    {
       "id": "411",
       "topic": "Generative AI",
       "source": "Marktechpost AI",
@@ -69,7 +101,7 @@
         }
       ],
       "publishedAt": "2025-11-30T10:49:00.000Z",
-      "ranking": 6.427796711344794,
+      "ranking": 6.0475312804149235,
       "articleUrl": "https://www.marktechpost.com/2025/11/30/meta-ai-researchers-introduce-matrix-a-ray-native-a-decentralized-framework-for-multi-agent-synthetic-data-generation/"
     },
     {
@@ -105,7 +137,7 @@
         }
       ],
       "publishedAt": "2025-11-30T06:00:00.000Z",
-      "ranking": 6.1896279384593,
+      "ranking": 5.74207926265577,
       "articleUrl": "https://venturebeat.com/ai/ontology-is-the-real-guardrail-how-to-stop-ai-agents-from-misunderstanding"
     },
     {
@@ -140,7 +172,7 @@
         }
       ],
       "publishedAt": "2025-11-29T23:03:21.000Z",
-      "ranking": 5.471339389126115,
+      "ranking": 4.926788758328441,
       "articleUrl": "https://www.marktechpost.com/2025/11/29/stepfun-ai-releases-step-audio-r1-a-new-audio-llm-that-finally-benefits-from-test-time-compute-scaling/"
     },
     {
@@ -173,7 +205,7 @@
         }
       ],
       "publishedAt": "2025-11-29T20:00:00.000Z",
-      "ranking": 4.3326789501249205,
+      "ranking": 3.745441869009524,
       "articleUrl": "https://venturebeat.com/ai/why-observable-ai-is-the-missing-sre-layer-enterprises-need-for-reliable"
     },
     {
@@ -208,7 +240,7 @@
         }
       ],
       "publishedAt": "2025-11-29T13:00:00.000Z",
-      "ranking": 3.287098388161128,
+      "ranking": 2.602079416398807,
       "articleUrl": "https://www.theverge.com/entertainment/830393/ai-music-deezer-survey-spotify"
     },
     {
@@ -243,44 +275,8 @@
         }
       ],
       "publishedAt": "2025-11-29T05:18:46.000Z",
-      "ranking": 3.2192581330207855,
+      "ranking": 2.426857574684549,
       "articleUrl": "https://www.marktechpost.com/2025/11/28/nvidia-ai-releases-orchestrator-8b-a-reinforcement-learning-trained-controller-for-efficient-tool-and-model-selection/"
-    },
-    {
-      "id": "401",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI 2025 Recap",
-      "mediumTitle": "AI Advancements in 2025",
-      "longTitle": "Reflections on the Diversified and Mature AI Landscape of 2025",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The year 2025 saw significant",
-            "advancements and diversification in the",
-            "Artificial Intelligence landscape,",
-            "moving beyond hype cycles.",
-            "In conclusion, the author expresses",
-            "thankfulness for the expanded AI",
-            "ecosystem in 2025, characterized by",
-            "diverse options representing the true",
-            "story of the year for developers and",
-            "enterprises.",
-            "OpenAI continued its strong performance",
-            "with the release of GPT-5 and GPT-5.1,",
-            "featuring enhanced reasoning",
-            "capabilities and dynamic \u0027thinking time\u0027",
-            "adjustments.",
-            "Notably, OpenAI returned to its",
-            "open-source roots by releasing",
-            "GPT-OSS-120B and GPT-OSS-20B,",
-            "open-weight MoE reasoning models."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-28T17:19:00.000Z",
-      "ranking": 0.11656686819046769,
-      "articleUrl": "https://venturebeat.com/ai/what-to-be-thankful-for-in-ai-in-2025"
     },
     {
       "id": "404",
@@ -315,8 +311,44 @@
         }
       ],
       "publishedAt": "2025-11-28T20:30:00.000Z",
-      "ranking": 0.10777391277511494,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/anthropic-says-it-solved-the-long-running-ai-agent-problem-with-a-new-multi"
+    },
+    {
+      "id": "401",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI 2025 Recap",
+      "mediumTitle": "AI Advancements in 2025",
+      "longTitle": "Reflections on the Diversified and Mature AI Landscape of 2025",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The year 2025 saw significant",
+            "advancements and diversification in the",
+            "Artificial Intelligence landscape,",
+            "moving beyond hype cycles.",
+            "In conclusion, the author expresses",
+            "thankfulness for the expanded AI",
+            "ecosystem in 2025, characterized by",
+            "diverse options representing the true",
+            "story of the year for developers and",
+            "enterprises.",
+            "OpenAI continued its strong performance",
+            "with the release of GPT-5 and GPT-5.1,",
+            "featuring enhanced reasoning",
+            "capabilities and dynamic \u0027thinking time\u0027",
+            "adjustments.",
+            "Notably, OpenAI returned to its",
+            "open-source roots by releasing",
+            "GPT-OSS-120B and GPT-OSS-20B,",
+            "open-weight MoE reasoning models."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-28T17:19:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/what-to-be-thankful-for-in-ai-in-2025"
     },
     {
       "id": "400",
@@ -1559,144 +1591,6 @@
       "publishedAt": "2025-11-24T10:57:27.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/report/827555/google-gemini-3-is-winning-the-ai-race-for-now"
-    },
-    {
-      "id": "368",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "NVIDIA\u0027s Nemotron",
-      "mediumTitle": "NVIDIA\u0027s Nemotron-Elastic-12B",
-      "longTitle": "NVIDIA\u0027s Nemotron-Elastic-12B: Efficient LLM Training",
-      "paragraphs": [
-        {
-          "Lines": [
-            "NVIDIA AI has introduced",
-            "Nemotron-Elastic-12B, a novel 12-billion",
-            "parameter reasoning model designed to",
-            "address the inefficiency of training and",
-            "storing multiple large language models",
-            "(LLMs) for varying deployment",
-            "requirements.",
-            "The core innovation of",
-            "Nemotron-Elastic-12B lies in its",
-            "\u0027elastic\u0027 architecture, which allows it",
-            "to generate different model sizes \u2013",
-            "specifically 6 billion, 9 billion, and",
-            "12 billion parameters \u2013 from a single",
-            "training process.",
-            "This eliminates the need for separate",
-            "training runs and the associated costs",
-            "for each variant."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-24T07:54:47.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/23/nvidia-ai-releases-nemotron-elastic-12b-a-single-ai-model-that-gives-you-6b-9b-12b-variants-without-extra-training-cost/"
-    },
-    {
-      "id": "364",
-      "topic": "Business",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Adoption Pitfalls",
-      "mediumTitle": "Genuine AI Adoption vs. Performance",
-      "longTitle": "Companies often adopt AI mandates performatively, not genuinely, missing organic innovation.",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Companies often adopt an \u0027AI-first\u0027",
-            "mandate due to competitive pressure",
-            "rather than genuine innovation, leading",
-            "to a performance of AI usage.",
-            "The future belongs to organizations",
-            "prioritizing patient, experimental",
-            "progress over mere performative AI",
-            "adoption.",
-            "Companies that thrive will learn through",
-            "trial and error, embracing AI\u0027s",
-            "limitations and fostering genuine",
-            "innovation over superficial adoption.",
-            "To drive real change, leaders should",
-            "model their own AI use, including",
-            "struggles, to foster vulnerability and",
-            "trust.",
-            "Creating an environment where",
-            "experimentation is safe and encouraged,",
-            "allowing curiosity to flourish without",
-            "mandates, is key."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-24T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/how-to-avoid-becoming-an-ai-first-company-with-zero-real-ai-usage"
-    },
-    {
-      "id": "365",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Fara-7B AI Agent",
-      "mediumTitle": "Microsoft\u0027s Fara-7B: Local AI Agent",
-      "longTitle": "Microsoft\u0027s Fara-7B: Local AI Agent for Secure Task Automation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft has unveiled Fara-7B, an",
-            "experimental 7-billion parameter AI",
-            "model designed to function as a Computer",
-            "Use Agent (CUA).",
-            "This model operates directly on a user\u0027s",
-            "PC, offering a significant advantage in",
-            "data security and reduced latency",
-            "compared to cloud-dependent large",
-            "language models.",
-            "Fara-7B aims to enable the automation of",
-            "complex tasks, including those involving",
-            "sensitive company data, without the",
-            "information leaving the user\u0027s device.",
-            "Fara-7B interacts with user interfaces",
-            "by visually processing screenshots and",
-            "predicting mouse and keyboard actions,",
-            "such as clicks, typing, and scrolling."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-24T01:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/microsofts-fara-7b-is-a-computer-use-ai-agent-that-rivals-gpt-4o-and-works"
-    },
-    {
-      "id": "363",
-      "topic": "Learning",
-      "source": "Marktechpost AI",
-      "shortTitle": "Seer RL Speedup",
-      "mediumTitle": "Seer: Faster RL for Large Models",
-      "longTitle": "Seer: Novel System Accelerates Reinforcement Learning for Large Reasoning Models",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Researchers from Moonshot AI and",
-            "Tsinghua University have developed Seer,",
-            "a novel online context learning system",
-            "designed to address a critical",
-            "bottleneck in reinforcement learning for",
-            "large reasoning models.",
-            "The primary challenge Seer aims to solve",
-            "is the inefficiency that arises when RL",
-            "training stalls due to a few",
-            "exceptionally long and slow rollouts,",
-            "leading to underutilized GPU resources.",
-            "In complex reasoning scenarios, these",
-            "rollouts can become extremely",
-            "time-consuming, creating a",
-            "synchronization problem that holds up",
-            "the entire training process."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-23T07:28:06.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/22/moonshot-ai-researchers-introduce-seer-an-online-context-learning-system-for-fast-synchronous-reinforcement-learning-rl-rollouts/"
     }
   ]
 }
