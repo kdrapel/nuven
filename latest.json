@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "id": "424",
+      "topic": "Finance",
+      "source": "VentureBeat AI",
+      "shortTitle": "Tech Value",
+      "mediumTitle": "Financial Intelligence for Tech Value",
+      "longTitle": "Maximizing Technology Value with Financial Intelligence",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Organizations face increasing difficulty",
+            "in making swift and clear investment",
+            "decisions for rapidly evolving",
+            "technologies such as AI and cloud.",
+            "In an era demanding efficient technology",
+            "spend management, financial intelligence",
+            "is indispensable for maximizing budgets",
+            "and ensuring data-driven precision in",
+            "technology investments.",
+            "By unifying financial, operational, and",
+            "business data across the entire",
+            "enterprise, these solutions equip",
+            "leaders with the necessary clarity to",
+            "maximize the value of every technology",
+            "investment."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-01T06:00:00.000Z",
+      "ranking": 8.730434782608695,
+      "articleUrl": "https://venturebeat.com/ai/capture-the-full-value-of-your-technology-with-financial-intelligence"
+    },
+    {
       "id": "420",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -140,6 +172,40 @@
       "articleUrl": "https://venturebeat.com/ai/openagi-emerges-from-stealth-with-an-ai-agent-that-it-claims-crushes-openai"
     },
     {
+      "id": "418",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "DeepSeek AI Release",
+      "mediumTitle": "DeepSeek\u0027s New Open-Source AI Models",
+      "longTitle": "DeepSeek Releases Open-Source AI Models Rivaling GPT-5 and Gemini",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Chinese AI startup DeepSeek has released",
+            "two new AI models, DeepSeek-V3.2 and",
+            "DeepSeek-V3.2-Speciale, which the",
+            "company claims rival or surpass the",
+            "capabilities of OpenAI\u0027s GPT-5 and",
+            "Google\u0027s Gemini-3.0-Pro.",
+            "These models are notable for being",
+            "freely available under an MIT",
+            "open-source license, a move that could",
+            "significantly alter the competitive",
+            "landscape in AI development.",
+            "A key innovation behind these models is",
+            "DeepSeek Sparse Attention (DSA), a new",
+            "architectural approach that drastically",
+            "reduces the computational cost of",
+            "processing long documents and complex",
+            "tasks."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-01T19:45:00.000Z",
+      "ranking": 6.7555555555555555,
+      "articleUrl": "https://venturebeat.com/ai/deepseek-just-dropped-two-insanely-powerful-ai-models-that-rival-gpt-5-and"
+    },
+    {
       "id": "416",
       "topic": "Security",
       "source": "VentureBeat AI",
@@ -173,7 +239,7 @@
         }
       ],
       "publishedAt": "2025-11-30T17:00:00.000Z",
-      "ranking": 6.947908581348193,
+      "ranking": 6.54716827523566,
       "articleUrl": "https://venturebeat.com/security/hybrid-cloud-security-reinvented-ai-era"
     },
     {
@@ -210,42 +276,8 @@
         }
       ],
       "publishedAt": "2025-11-30T19:17:08.000Z",
-      "ranking": 6.915471430502225,
+      "ranking": 6.546248220981729,
       "articleUrl": "https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage"
-    },
-    {
-      "id": "418",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "DeepSeek AI Release",
-      "mediumTitle": "DeepSeek\u0027s New Open-Source AI Models",
-      "longTitle": "DeepSeek Releases Open-Source AI Models Rivaling GPT-5 and Gemini",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Chinese AI startup DeepSeek has released",
-            "two new AI models, DeepSeek-V3.2 and",
-            "DeepSeek-V3.2-Speciale, which the",
-            "company claims rival or surpass the",
-            "capabilities of OpenAI\u0027s GPT-5 and",
-            "Google\u0027s Gemini-3.0-Pro.",
-            "These models are notable for being",
-            "freely available under an MIT",
-            "open-source license, a move that could",
-            "significantly alter the competitive",
-            "landscape in AI development.",
-            "A key innovation behind these models is",
-            "DeepSeek Sparse Attention (DSA), a new",
-            "architectural approach that drastically",
-            "reduces the computational cost of",
-            "processing long documents and complex",
-            "tasks."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-01T19:45:00.000Z",
-      "ranking": 6.7555555555555555,
-      "articleUrl": "https://venturebeat.com/ai/deepseek-just-dropped-two-insanely-powerful-ai-models-that-rival-gpt-5-and"
     },
     {
       "id": "411",
@@ -279,7 +311,7 @@
         }
       ],
       "publishedAt": "2025-11-30T10:49:00.000Z",
-      "ranking": 5.610891672035497,
+      "ranking": 5.1248850979484475,
       "articleUrl": "https://www.marktechpost.com/2025/11/30/meta-ai-researchers-introduce-matrix-a-ray-native-a-decentralized-framework-for-multi-agent-synthetic-data-generation/"
     },
     {
@@ -315,7 +347,7 @@
         }
       ],
       "publishedAt": "2025-11-30T06:00:00.000Z",
-      "ranking": 5.238130750840914,
+      "ranking": 4.685703825332655,
       "articleUrl": "https://venturebeat.com/ai/ontology-is-the-real-guardrail-how-to-stop-ai-agents-from-misunderstanding"
     },
     {
@@ -350,7 +382,7 @@
         }
       ],
       "publishedAt": "2025-11-29T23:03:21.000Z",
-      "ranking": 4.325801301853935,
+      "ranking": 3.677616456133631,
       "articleUrl": "https://www.marktechpost.com/2025/11/29/stepfun-ai-releases-step-audio-r1-a-new-audio-llm-that-finally-benefits-from-test-time-compute-scaling/"
     },
     {
@@ -383,7 +415,7 @@
         }
       ],
       "publishedAt": "2025-11-29T20:00:00.000Z",
-      "ranking": 3.101751689574713,
+      "ranking": 2.4114278424693527,
       "articleUrl": "https://venturebeat.com/ai/why-observable-ai-is-the-missing-sre-layer-enterprises-need-for-reliable"
     },
     {
@@ -418,7 +450,7 @@
         }
       ],
       "publishedAt": "2025-11-29T13:00:00.000Z",
-      "ranking": 1.8605700761395259,
+      "ranking": 1.0737183835197373,
       "articleUrl": "https://www.theverge.com/entertainment/830393/ai-music-deezer-survey-spotify"
     },
     {
@@ -453,7 +485,7 @@
         }
       ],
       "publishedAt": "2025-11-29T05:18:46.000Z",
-      "ranking": 1.5779257144444294,
+      "ranking": 0.6850695937082811,
       "articleUrl": "https://www.marktechpost.com/2025/11/28/nvidia-ai-releases-orchestrator-8b-a-reinforcement-learning-trained-controller-for-efficient-tool-and-model-selection/"
     },
     {
@@ -1489,78 +1521,6 @@
       "publishedAt": "2025-11-24T23:57:29.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/24/microsoft-ai-releases-fara-7b-an-efficient-agentic-model-for-computer-use/"
-    },
-    {
-      "id": "369",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Claude Opus 4.5",
-      "mediumTitle": "Anthropic\u0027s Claude Opus 4.5 Launched",
-      "longTitle": "Anthropic\u0027s Claude Opus 4.5: Cheaper, Smarter AI Intensifies Competition",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Anthropic has launched its latest and",
-            "most advanced AI model, Claude Opus 4.5,",
-            "significantly reducing its price by",
-            "approximately two-thirds while claiming",
-            "superior performance in software",
-            "engineering tasks.",
-            "Claude Opus 4.5 reportedly outperformed",
-            "all human job candidates in Anthropic\u0027s",
-            "challenging internal engineering",
-            "assessment, a testament to the rapidly",
-            "evolving capabilities of AI and its",
-            "potential to reshape white-collar",
-            "professions.",
-            "On the SWE-bench Verified benchmark for",
-            "real-world software engineering tasks,",
-            "it achieved 80.9% accuracy, surpassing",
-            "OpenAI\u0027s GPT-5.1-Codex-Max (77.9%),",
-            "Anthropic\u0027s Sonnet 4.5 (77.2%), and",
-            "Google\u0027s Gemini 3 Pro (76.2%)."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-24T22:35:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/anthropics-claude-opus-4-5-is-here-cheaper-ai-infinite-chats-and-coding"
-    },
-    {
-      "id": "384",
-      "topic": "Hardware",
-      "source": "The Verge AI",
-      "shortTitle": "RAM Price Surge",
-      "mediumTitle": "RAM Prices Soar Due to Shortage",
-      "longTitle": "RAM Prices Soar Dramatically Due to Severe Global Shortage",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This unprecedented situation,",
-            "highlighted by PCWorld, reflects a",
-            "severe shortage of PC memory.",
-            "RAM prices have become so exorbitant",
-            "that retailers are now selling the",
-            "component at fluctuating daily market",
-            "prices, akin to how seafood is priced.",
-            "The core issue is the extreme difficulty",
-            "in acquiring sufficient RAM.",
-            "This forces sellers to adjust their",
-            "pricing in real-time to reflect the",
-            "current market demand and availability.",
-            "Stores like Central Computers in the San",
-            "Francisco Bay Area are adopting this",
-            "dynamic pricing model.",
-            "Manufacturers and distributors are",
-            "grappling with limited supply.",
-            "The article implies that this scarcity",
-            "is driving up costs significantly."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-24T20:08:51.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/828337/ram-memory-shortage-crunch-market-prices-central-micro-center"
     }
   ]
 }
