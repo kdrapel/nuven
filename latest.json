@@ -1,41 +1,111 @@
 {
   "articles": [
     {
-      "id": "413",
-      "topic": "Environment",
+      "id": "420",
+      "topic": "Generative AI",
       "source": "The Verge AI",
-      "shortTitle": "Oregon Water Crisis",
-      "mediumTitle": "Morrow County Water Contamination",
-      "longTitle": "Morrow County, Oregon: Agriculture, Data Centers, and Health Concerns",
+      "shortTitle": "Runway Gen-4.5",
+      "mediumTitle": "Runway\u0027s New AI Video Generator",
+      "longTitle": "Runway Unveils Gen-4.5 AI Video Generator with Enhanced Realism",
       "paragraphs": [
         {
           "Lines": [
-            "In Morrow County, Oregon, a combination",
-            "of agriculture, food processing, and",
-            "Amazon data centers is suspected of",
-            "causing elevated nitrate levels in",
-            "drinking water, potentially leading to",
-            "increased cancer and miscarriage rates.",
-            "High levels of nitrates in drinking",
-            "water are a known health risk,",
-            "particularly for infants, where they can",
-            "cause methemoglobinemia, also known as",
-            "\u0027blue baby syndrome.\u0027",
-            "Furthermore, studies have suggested a",
-            "correlation between high nitrate",
-            "exposure and adverse pregnancy outcomes,",
-            "such as miscarriages and birth defects.",
-            "For adults, prolonged exposure to",
-            "elevated nitrate levels has been linked",
-            "to an increased risk of certain cancers,",
-            "including colorectal, ovarian, and",
-            "thyroid cancers."
+            "Runway has announced its latest",
+            "text-to-video AI generator, Gen-4.5,",
+            "claiming it offers \u0022unprecedented\u0022",
+            "accuracy in generating visuals.",
+            "The outputs produced by Gen-4.5 are",
+            "described as \u0022cinematic and highly",
+            "realistic.\u0022",
+            "This advancement implies that it may",
+            "become increasingly difficult to",
+            "differentiate between real-world footage",
+            "and AI-generated content.",
+            "Runway emphasizes that Gen-4.5 reaches a",
+            "new standard of \u0022physical accuracy and",
+            "visual precision.\u0022",
+            "According to a blog post from the",
+            "company, this new model surpasses the",
+            "capabilities of its predecessor."
           ]
         }
       ],
-      "publishedAt": "2025-11-30T19:17:08.000Z",
-      "ranking": 7.982352941176469,
-      "articleUrl": "https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage"
+      "publishedAt": "2025-12-01T12:22:08.000Z",
+      "ranking": 8.5,
+      "articleUrl": "https://www.theverge.com/news/834905/runway-ai-text-video-generator-launch"
+    },
+    {
+      "id": "419",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Liquid AI LFM2",
+      "mediumTitle": "Liquid AI\u0027s LFM2: On-Device AI",
+      "longTitle": "Liquid AI\u0027s LFM2: On-Device Training and Inference for Enterprises",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Liquid AI, founded by MIT computer",
+            "scientists in 2023, has released its",
+            "Liquid Foundation Models series 2 (LFM2)",
+            "for enterprise-grade, on-device training",
+            "and inference.",
+            "On-device AI is now a viable design",
+            "choice rather than a compromise, with",
+            "LFM2 models demonstrating competitive",
+            "performance and significant latency",
+            "gains.",
+            "LFM2 models offer a fast and efficient",
+            "alternative to large, cloud-only",
+            "language models, aiming for real-time,",
+            "privacy-preserving AI on devices like",
+            "phones and laptops.",
+            "LFM2 provides a reproducible, open, and",
+            "operationally feasible foundation for",
+            "agentic systems that need to run",
+            "anywhere, from mobile devices to",
+            "air-gapped facilities."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-01T18:24:00.000Z",
+      "ranking": 7.955555555555555,
+      "articleUrl": "https://venturebeat.com/ai/mit-offshoot-liquid-ai-releases-blueprint-for-enterprise-grade-small-model"
+    },
+    {
+      "id": "415",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Commerce Boost",
+      "mediumTitle": "AWS \u0026 Visa Partner for Agentic Commerce",
+      "longTitle": "AWS and Visa collaborate to streamline agentic commerce payments",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The emerging field of agentic commerce,",
+            "where AI agents handle tasks like",
+            "product searching, adding to carts, and",
+            "making payments, is rapidly gaining",
+            "attention but faces fragmentation and a",
+            "lack of standardized infrastructure.",
+            "AWS and Visa are collaborating to",
+            "address this gap by making Visa\u0027s",
+            "Intelligence Commerce platform available",
+            "on the AWS Marketplace, aiming to",
+            "simplify the integration of payment",
+            "capabilities for agentic commerce.",
+            "This initiative aims to provide",
+            "developers with pre-built frameworks and",
+            "standardized infrastructure, with Scott",
+            "Mullins of AWS highlighting the",
+            "accessibility of secure payment",
+            "capabilities through AWS services like",
+            "Bedrock and AgentCore."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-01T06:00:00.000Z",
+      "ranking": 7.821428571428571,
+      "articleUrl": "https://venturebeat.com/ai/agent-coordination-is-the-missing-piece-in-ai-commerce-new-aws-and-visa"
     },
     {
       "id": "414",
@@ -70,6 +140,114 @@
       "articleUrl": "https://venturebeat.com/ai/openagi-emerges-from-stealth-with-an-ai-agent-that-it-claims-crushes-openai"
     },
     {
+      "id": "416",
+      "topic": "Security",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI vs Cloud Sec",
+      "mediumTitle": "AI Threats Outpace Hybrid Cloud Security",
+      "longTitle": "Outdated Hybrid Cloud Security Fails Against AI-Powered Threats",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Hybrid cloud security architectures,",
+            "designed for a pre-AI era of human-speed",
+            "cyberattacks, are failing to protect",
+            "organizations against the current wave",
+            "of automated, machine-based threats.",
+            "CrowdStrike\u0027s new real-time Cloud",
+            "Detection and Response platform aims to",
+            "address this by analyzing cloud logs as",
+            "they stream in, compressing response",
+            "windows to seconds.",
+            "The core issue lies in batch-based",
+            "detection, where logs are collected and",
+            "processed with significant delays,",
+            "making a 15-minute detection delay",
+            "effectively an invitation for attackers.",
+            "The overarching message is that hybrid",
+            "cloud security must be fundamentally",
+            "rebuilt to withstand the speed and",
+            "sophistication of AI-powered cyber",
+            "warfare."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-30T17:00:00.000Z",
+      "ranking": 6.947908581348193,
+      "articleUrl": "https://venturebeat.com/security/hybrid-cloud-security-reinvented-ai-era"
+    },
+    {
+      "id": "413",
+      "topic": "Environment",
+      "source": "The Verge AI",
+      "shortTitle": "Oregon Water Crisis",
+      "mediumTitle": "Morrow County Water Contamination",
+      "longTitle": "Morrow County, Oregon: Agriculture, Data Centers, and Health Concerns",
+      "paragraphs": [
+        {
+          "Lines": [
+            "In Morrow County, Oregon, a combination",
+            "of agriculture, food processing, and",
+            "Amazon data centers is suspected of",
+            "causing elevated nitrate levels in",
+            "drinking water, potentially leading to",
+            "increased cancer and miscarriage rates.",
+            "High levels of nitrates in drinking",
+            "water are a known health risk,",
+            "particularly for infants, where they can",
+            "cause methemoglobinemia, also known as",
+            "\u0027blue baby syndrome.\u0027",
+            "Furthermore, studies have suggested a",
+            "correlation between high nitrate",
+            "exposure and adverse pregnancy outcomes,",
+            "such as miscarriages and birth defects.",
+            "For adults, prolonged exposure to",
+            "elevated nitrate levels has been linked",
+            "to an increased risk of certain cancers,",
+            "including colorectal, ovarian, and",
+            "thyroid cancers."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-30T19:17:08.000Z",
+      "ranking": 6.915471430502225,
+      "articleUrl": "https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage"
+    },
+    {
+      "id": "418",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "DeepSeek AI Release",
+      "mediumTitle": "DeepSeek\u0027s New Open-Source AI Models",
+      "longTitle": "DeepSeek Releases Open-Source AI Models Rivaling GPT-5 and Gemini",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Chinese AI startup DeepSeek has released",
+            "two new AI models, DeepSeek-V3.2 and",
+            "DeepSeek-V3.2-Speciale, which the",
+            "company claims rival or surpass the",
+            "capabilities of OpenAI\u0027s GPT-5 and",
+            "Google\u0027s Gemini-3.0-Pro.",
+            "These models are notable for being",
+            "freely available under an MIT",
+            "open-source license, a move that could",
+            "significantly alter the competitive",
+            "landscape in AI development.",
+            "A key innovation behind these models is",
+            "DeepSeek Sparse Attention (DSA), a new",
+            "architectural approach that drastically",
+            "reduces the computational cost of",
+            "processing long documents and complex",
+            "tasks."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-01T19:45:00.000Z",
+      "ranking": 6.7555555555555555,
+      "articleUrl": "https://venturebeat.com/ai/deepseek-just-dropped-two-insanely-powerful-ai-models-that-rival-gpt-5-and"
+    },
+    {
       "id": "411",
       "topic": "Generative AI",
       "source": "Marktechpost AI",
@@ -101,7 +279,7 @@
         }
       ],
       "publishedAt": "2025-11-30T10:49:00.000Z",
-      "ranking": 6.0475312804149235,
+      "ranking": 5.610891672035497,
       "articleUrl": "https://www.marktechpost.com/2025/11/30/meta-ai-researchers-introduce-matrix-a-ray-native-a-decentralized-framework-for-multi-agent-synthetic-data-generation/"
     },
     {
@@ -137,7 +315,7 @@
         }
       ],
       "publishedAt": "2025-11-30T06:00:00.000Z",
-      "ranking": 5.74207926265577,
+      "ranking": 5.238130750840914,
       "articleUrl": "https://venturebeat.com/ai/ontology-is-the-real-guardrail-how-to-stop-ai-agents-from-misunderstanding"
     },
     {
@@ -172,7 +350,7 @@
         }
       ],
       "publishedAt": "2025-11-29T23:03:21.000Z",
-      "ranking": 4.926788758328441,
+      "ranking": 4.325801301853935,
       "articleUrl": "https://www.marktechpost.com/2025/11/29/stepfun-ai-releases-step-audio-r1-a-new-audio-llm-that-finally-benefits-from-test-time-compute-scaling/"
     },
     {
@@ -205,7 +383,7 @@
         }
       ],
       "publishedAt": "2025-11-29T20:00:00.000Z",
-      "ranking": 3.745441869009524,
+      "ranking": 3.101751689574713,
       "articleUrl": "https://venturebeat.com/ai/why-observable-ai-is-the-missing-sre-layer-enterprises-need-for-reliable"
     },
     {
@@ -240,7 +418,7 @@
         }
       ],
       "publishedAt": "2025-11-29T13:00:00.000Z",
-      "ranking": 2.602079416398807,
+      "ranking": 1.8605700761395259,
       "articleUrl": "https://www.theverge.com/entertainment/830393/ai-music-deezer-survey-spotify"
     },
     {
@@ -275,7 +453,7 @@
         }
       ],
       "publishedAt": "2025-11-29T05:18:46.000Z",
-      "ranking": 2.426857574684549,
+      "ranking": 1.5779257144444294,
       "articleUrl": "https://www.marktechpost.com/2025/11/28/nvidia-ai-releases-orchestrator-8b-a-reinforcement-learning-trained-controller-for-efficient-tool-and-model-selection/"
     },
     {
@@ -1383,214 +1561,6 @@
       "publishedAt": "2025-11-24T20:08:51.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/828337/ram-memory-shortage-crunch-market-prices-central-micro-center"
-    },
-    {
-      "id": "373",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "ChatGPT Shopping",
-      "mediumTitle": "ChatGPT Adds Shopping Research Feature",
-      "longTitle": "OpenAI\u0027s ChatGPT Integrates New Shopping Research Tool",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has announced a new feature",
-            "called \u0022shopping research\u0022 integrated",
-            "directly into ChatGPT, designed to",
-            "simplify holiday shopping by allowing",
-            "users to ask any shopping-related",
-            "question.",
-            "When a user poses a shopping-related",
-            "query, the AI will automatically",
-            "activate this \u0022shopping research\u0022",
-            "functionality.",
-            "This new capability is being rolled out",
-            "to all ChatGPT users, irrespective of",
-            "whether they are on free or paid plans.",
-            "The feature will be accessible on both",
-            "mobile and web platforms for user",
-            "convenience.",
-            "During the upcoming holiday shopping",
-            "season, users will benefit from \u0022nearly",
-            "unlimited usage\u0022 of this feature."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-24T19:40:38.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/828326/chatgpt-shopping-research-chatgpt-buyers-guide"
-    },
-    {
-      "id": "372",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Nvidia Fraud Claims",
-      "mediumTitle": "Nvidia Faces Accounting Fraud Allegations",
-      "longTitle": "Nvidia\u0027s Value Surge Sparks Viral Accounting Fraud Allegations",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Nvidia\u0027s recent surge in value has",
-            "attracted significant attention, leading",
-            "to a viral Substack post alleging the",
-            "company is involved in what \u0027may become",
-            "the largest accounting fraud in",
-            "technology history.\u0027",
-            "The article suggests that many of the",
-            "questions raised by this allegation are",
-            "already implicitly addressed within the",
-            "very memo that has gone viral.",
-            "The article implies that the memo",
-            "itself, while fueling speculation, also",
-            "contains information that could",
-            "preemptively answer some of the concerns",
-            "being voiced."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-24T17:18:57.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/business/828047/nvidia-enron-conspiracy-accounting"
-    },
-    {
-      "id": "370",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Claude Opus 4.5",
-      "mediumTitle": "Anthropic\u0027s Claude Opus 4.5",
-      "longTitle": "Anthropic Unveils Claude Opus 4.5, Challenging AI Rivals",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Anthropic has unveiled its latest AI",
-            "model, Claude Opus 4.5, positioning it",
-            "as a significant advancement in the",
-            "competitive landscape of AI agents.",
-            "Anthropic claims that Claude Opus 4.5",
-            "surpasses existing models, including",
-            "Gemini 3, particularly in areas such as",
-            "coding, agent capabilities, and general",
-            "computer use.",
-            "However, despite the touted",
-            "advancements, the article also points to",
-            "persistent cybersecurity concerns",
-            "surrounding Anthropic\u0027s new model.",
-            "The rapid advancements in AI",
-            "capabilities, as exemplified by Claude",
-            "Opus 4.5, necessitate a parallel focus",
-            "on robust security measures to prevent",
-            "misuse and mitigate potential risks."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-24T16:20:17.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/828003/anthropics-new-claude-opus-4-5-model-ai-agents-cybersecurity"
-    },
-    {
-      "id": "371",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Indie AI-Free Games",
-      "mediumTitle": "Indie Developers Market \u0027AI-Free\u0027 Games",
-      "longTitle": "Indie Developers Embrace \u0027AI-Free\u0027 Marketing Amidst Industry Concerns",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A growing trend sees independent game",
-            "developers marketing their games as",
-            "\u0027AI-free\u0027 following a statement by",
-            "Nexon\u0027s CEO suggesting AI use is",
-            "standard.",
-            "Indie developers fear AI-generated",
-            "content could devalue human creativity",
-            "and labor, threatening the unique",
-            "artistic vision of their handcrafted",
-            "games.",
-            "The \u0027AI-free\u0027 label is a strategy to",
-            "differentiate games and appeal to",
-            "players who value human artistry and",
-            "ethical development.",
-            "It serves as a signal to players that",
-            "the game was created entirely by human",
-            "hands, emphasizing the personal touch",
-            "and dedicated craftsmanship."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-24T14:22:32.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/entertainment/827650/indie-developers-gen-ai-nexon-arc-raiders"
-    },
-    {
-      "id": "366",
-      "topic": "Hardware",
-      "source": "The Verge AI",
-      "shortTitle": "AI Hardware Progress",
-      "mediumTitle": "Ive \u0026 Altman AI Device Prototyping",
-      "longTitle": "Jony Ive and Sam Altman\u0027s AI Hardware Device in Prototyping Phase",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Jony Ive, the renowned former Apple",
-            "designer, and Sam Altman, CEO of OpenAI,",
-            "have reportedly settled on a design for",
-            "their highly anticipated AI hardware",
-            "device and are currently in the",
-            "prototyping phase.",
-            "The interview at Emerson Collective\u2019s",
-            "Demo Day provided the first concrete",
-            "update on the progress of this secretive",
-            "project, confirming that a design has",
-            "been chosen and that physical prototypes",
-            "are being built.",
-            "The ambition is to develop a device that",
-            "integrates artificial intelligence in a",
-            "way that is both intuitive and",
-            "seamlessly incorporated into users\u0027",
-            "lives, potentially moving beyond the",
-            "current paradigm of smartphones and",
-            "computers."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-24T11:52:57.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/827607/openai-hardware-prototype-chatgpt-jony-ive-sam-altman"
-    },
-    {
-      "id": "367",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Gemini 3 Launch",
-      "mediumTitle": "Google\u0027s Gemini 3 AI Model Released",
-      "longTitle": "Google\u0027s Gemini 3 AI Model: Immediate Integration and Industry Impact",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A notable aspect of Gemini 3\u0027s launch is",
-            "its immediate integration into Google",
-            "Search, a first for any AI model.",
-            "The integration into Google Search on",
-            "day one is a key differentiator,",
-            "showcasing a practical and immediate",
-            "application of the advanced AI",
-            "technology.",
-            "Google has recently released its Gemini",
-            "3 AI model, marking a significant moment",
-            "in the AI industry with immediate",
-            "reactions and widespread fanfare.",
-            "This suggests a strategic move by Google",
-            "to leverage Gemini 3\u0027s power directly",
-            "for its core product, aiming to enhance",
-            "user experience and potentially gain a",
-            "competitive edge."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-24T10:57:27.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/report/827555/google-gemini-3-is-winning-the-ai-race-for-now"
     }
   ]
 }
