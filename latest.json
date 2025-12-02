@@ -1,6 +1,77 @@
 {
   "articles": [
     {
+      "id": "435",
+      "topic": "Policy",
+      "source": "VentureBeat AI",
+      "shortTitle": "AWS Bedrock Agents",
+      "mediumTitle": "AWS Bedrock AgentCore Enhancements",
+      "longTitle": "AWS Bedrock AgentCore Adds Reasoning, Memory, and Frontier Agents",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AWS is also introducing \u0022frontier",
+            "agents,\u0022 a new class of autonomous,",
+            "scalable, and independent agents",
+            "designed to handle complex projects.",
+            "AWS\u0027s most significant advancement is",
+            "the introduction of \u0022frontier agents,\u0022",
+            "described as a \u0022new class\u0022 of agents",
+            "that are fully automated and",
+            "independent.",
+            "These frontier agents are capable of",
+            "acting as teammates with minimal",
+            "direction and moving beyond assisting",
+            "with individual tasks to tackling",
+            "complex projects.",
+            "AWS is enhancing its Amazon Bedrock",
+            "AgentCore platform with new capabilities",
+            "focused on automated reasoning to",
+            "improve agent control, performance, and",
+            "safety for enterprises."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T06:00:00.000Z",
+      "ranking": 8.78235294117647,
+      "articleUrl": "https://venturebeat.com/ai/aws-goes-beyond-prompt-level-safety-with-automated-reasoning-in-agentcore"
+    },
+    {
+      "id": "436",
+      "topic": "Safety",
+      "source": "The Verge AI",
+      "shortTitle": "AI Safety Focus",
+      "mediumTitle": "AI Researchers Tackle Safety Concerns",
+      "longTitle": "AI Researchers Actively Working to Prevent AI Risks",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Ensuring AI safety is not an",
+            "afterthought but a critical and ongoing",
+            "responsibility for those at the",
+            "forefront of AI development.",
+            "The article underscores the importance",
+            "of research into AI alignment, ensuring",
+            "AI systems pursue goals aligned with",
+            "human values and intentions.",
+            "In essence, AI researchers are aware of",
+            "their technologies\u0027 power and are",
+            "building safeguards against negative",
+            "outcomes to steer AI development towards",
+            "benefiting humanity.",
+            "The article discusses the growing",
+            "concerns and efforts within the AI",
+            "research community to ensure the safe",
+            "and beneficial development of artificial",
+            "intelligence."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T11:11:21.000Z",
+      "ranking": 8.241666666666667,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/836335/anthropic-societal-impacts-team-ai-claude-effects"
+    },
+    {
       "id": "431",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -71,77 +142,74 @@
       "articleUrl": "https://venturebeat.com/ai/ascentra-labs-raises-usd2-million-to-help-consultants-use-ai-instead-of-all"
     },
     {
-      "id": "419",
+      "id": "434",
       "topic": "Large Models",
       "source": "VentureBeat AI",
-      "shortTitle": "Liquid AI LFM2",
-      "mediumTitle": "Liquid AI\u0027s LFM2: On-Device AI",
-      "longTitle": "Liquid AI\u0027s LFM2: On-Device Training and Inference for Enterprises",
+      "shortTitle": "Mistral 3 AI Launch",
+      "mediumTitle": "Mistral AI Releases Open-Source Mistral 3",
+      "longTitle": "Mistral AI Launches Mistral 3: Open-Source Models for Distributed Intelligence",
       "paragraphs": [
         {
           "Lines": [
-            "Liquid AI, founded by MIT computer",
-            "scientists in 2023, has released its",
-            "Liquid Foundation Models series 2 (LFM2)",
-            "for enterprise-grade, on-device training",
-            "and inference.",
-            "On-device AI is now a viable design",
-            "choice rather than a compromise, with",
-            "LFM2 models demonstrating competitive",
-            "performance and significant latency",
-            "gains.",
-            "LFM2 models offer a fast and efficient",
-            "alternative to large, cloud-only",
-            "language models, aiming for real-time,",
-            "privacy-preserving AI on devices like",
-            "phones and laptops.",
-            "LFM2 provides a reproducible, open, and",
-            "operationally feasible foundation for",
-            "agentic systems that need to run",
-            "anywhere, from mobile devices to",
-            "air-gapped facilities."
+            "Mistral AI, a prominent European AI",
+            "startup, has launched Mistral 3, a",
+            "family of 10 open-source models designed",
+            "for broad deployment across various",
+            "devices, from laptops and drones to",
+            "enterprise cloud systems.",
+            "This release marks a significant",
+            "challenge to U.S. tech giants and",
+            "Chinese competitors by offering models",
+            "under the permissive Apache 2.0 license,",
+            "allowing unrestricted commercial use.",
+            "Mistral\u0027s strategy prioritizes",
+            "flexibility, efficiency, and",
+            "\u0027distributed intelligence\u0027 over the",
+            "pursuit of ever-larger proprietary",
+            "systems, aiming to empower businesses",
+            "with customizable AI solutions."
           ]
         }
       ],
-      "publishedAt": "2025-12-01T18:24:00.000Z",
-      "ranking": 7.955555555555555,
-      "articleUrl": "https://venturebeat.com/ai/mit-offshoot-liquid-ai-releases-blueprint-for-enterprise-grade-small-model"
+      "publishedAt": "2025-12-02T16:00:00.000Z",
+      "ranking": 7.9421052631578934,
+      "articleUrl": "https://venturebeat.com/ai/mistral-launches-mistral-3-a-family-of-open-models-designed-to-run-on"
     },
     {
-      "id": "426",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI\u0027s Circular Deal",
-      "mediumTitle": "OpenAI Acquires Stake in Investor",
-      "longTitle": "OpenAI Enters Circular Deal Acquiring Stake in Thrive Holdings",
+      "id": "433",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AWS Frontier Agents",
+      "mediumTitle": "AWS Introduces Autonomous AI Agents",
+      "longTitle": "AWS Unveils Frontier Agents for Autonomous Software Development",
       "paragraphs": [
         {
           "Lines": [
-            "This move is notable because Thrive",
-            "Holdings\u0027 parent company, Thrive",
-            "Capital, is a significant investor in",
-            "OpenAI itself.",
-            "This creates a situation where OpenAI is",
-            "both a recipient of investment and a",
-            "stakeholder in one of its key investors.",
-            "OpenAI, focused on artificial",
-            "intelligence, is now an owner of a firm",
-            "that has a substantial financial",
-            "interest in OpenAI\u0027s success.",
-            "OpenAI has entered into a new \u0027circular",
-            "deal\u0027 by acquiring an ownership stake in",
-            "Thrive Holdings, a private equity",
-            "investment firm.",
-            "OpenAI did not spend any money to",
-            "acquire this ownership stake, according",
-            "to an anonymous source cited by The",
-            "Financial Times."
+            "AWS has introduced \u0022frontier agents,\u0022 a",
+            "new class of AI systems designed for",
+            "extended autonomous operation without",
+            "human intervention, aiming to automate",
+            "the software development lifecycle.",
+            "Unlike current tools that require",
+            "constant human prompting and lose",
+            "context between tasks, frontier agents",
+            "can independently identify necessary",
+            "code repository changes, work on",
+            "multiple files concurrently, and manage",
+            "complex transformations across numerous",
+            "microservices.",
+            "These frontier agents differentiate",
+            "themselves from existing AI coding tools",
+            "by possessing persistent memory across",
+            "sessions, continuously learning from an",
+            "organization\u0027s codebase, documentation,",
+            "and communications."
           ]
         }
       ],
-      "publishedAt": "2025-12-01T19:12:24.000Z",
-      "ranking": 7.950000000000001,
-      "articleUrl": "https://www.theverge.com/news/835453/openai-ownership-thrive-holdings"
+      "publishedAt": "2025-12-02T18:30:00.000Z",
+      "ranking": 7.665217391304349,
+      "articleUrl": "https://venturebeat.com/ai/amazons-new-ai-can-code-for-days-without-human-help-what-does-that-mean-for"
     },
     {
       "id": "428",
@@ -180,40 +248,6 @@
       "articleUrl": "https://venturebeat.com/ai/arcee-aims-to-reboot-u-s-open-source-ai-with-new-trinity-models-released"
     },
     {
-      "id": "420",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Runway Gen-4.5",
-      "mediumTitle": "Runway\u0027s New AI Video Generator",
-      "longTitle": "Runway Unveils Gen-4.5 AI Video Generator with Enhanced Realism",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Runway has announced its latest",
-            "text-to-video AI generator, Gen-4.5,",
-            "claiming it offers \u0022unprecedented\u0022",
-            "accuracy in generating visuals.",
-            "The outputs produced by Gen-4.5 are",
-            "described as \u0022cinematic and highly",
-            "realistic.\u0022",
-            "This advancement implies that it may",
-            "become increasingly difficult to",
-            "differentiate between real-world footage",
-            "and AI-generated content.",
-            "Runway emphasizes that Gen-4.5 reaches a",
-            "new standard of \u0022physical accuracy and",
-            "visual precision.\u0022",
-            "According to a blog post from the",
-            "company, this new model surpasses the",
-            "capabilities of its predecessor."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-01T12:22:08.000Z",
-      "ranking": 7.167511357376942,
-      "articleUrl": "https://www.theverge.com/news/834905/runway-ai-text-video-generator-launch"
-    },
-    {
       "id": "430",
       "topic": "Security",
       "source": "VentureBeat AI",
@@ -249,73 +283,111 @@
       "articleUrl": "https://venturebeat.com/ai/with-ai-browsers-creating-fresh-security-and-privacy-concerns-norton-neo-is"
     },
     {
-      "id": "427",
-      "topic": "Generative AI",
+      "id": "426",
+      "topic": "Business",
       "source": "The Verge AI",
-      "shortTitle": "Apple AI Shakeup",
-      "mediumTitle": "Apple AI Leadership Change",
-      "longTitle": "Apple AI Chief Steps Down Amidst Siri Challenges",
+      "shortTitle": "OpenAI\u0027s Circular Deal",
+      "mediumTitle": "OpenAI Acquires Stake in Investor",
+      "longTitle": "OpenAI Enters Circular Deal Acquiring Stake in Thrive Holdings",
       "paragraphs": [
         {
           "Lines": [
-            "Apple\u0027s AI chief, John Giannandrea, is",
-            "stepping down from his role, as",
-            "announced on Monday.",
-            "Taking over the reins, Amar Subramanya",
-            "will now serve as Apple\u0027s vice president",
-            "of AI.",
-            "The article implies that Giannandrea\u0027s",
-            "departure is linked to the challenges",
-            "faced by Siri.",
-            "This leadership change occurs amidst",
-            "Apple\u0027s ongoing efforts to improve its",
-            "AI-powered virtual assistant, Siri.",
-            "He previously spent 16 years at Google.",
-            "The setbacks in Siri\u0027s development and",
-            "launch have contributed to this",
-            "executive transition.",
-            "Siri experienced a delayed launch",
-            "earlier this year."
+            "This move is notable because Thrive",
+            "Holdings\u0027 parent company, Thrive",
+            "Capital, is a significant investor in",
+            "OpenAI itself.",
+            "This creates a situation where OpenAI is",
+            "both a recipient of investment and a",
+            "stakeholder in one of its key investors.",
+            "OpenAI, focused on artificial",
+            "intelligence, is now an owner of a firm",
+            "that has a substantial financial",
+            "interest in OpenAI\u0027s success.",
+            "OpenAI has entered into a new \u0027circular",
+            "deal\u0027 by acquiring an ownership stake in",
+            "Thrive Holdings, a private equity",
+            "investment firm.",
+            "OpenAI did not spend any money to",
+            "acquire this ownership stake, according",
+            "to an anonymous source cited by The",
+            "Financial Times."
           ]
         }
       ],
-      "publishedAt": "2025-12-01T18:39:22.000Z",
-      "ranking": 7.1,
-      "articleUrl": "https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri"
+      "publishedAt": "2025-12-01T19:12:24.000Z",
+      "ranking": 6.876680902385235,
+      "articleUrl": "https://www.theverge.com/news/835453/openai-ownership-thrive-holdings"
     },
     {
-      "id": "418",
+      "id": "419",
       "topic": "Large Models",
       "source": "VentureBeat AI",
-      "shortTitle": "DeepSeek AI Release",
-      "mediumTitle": "DeepSeek\u0027s New Open-Source AI Models",
-      "longTitle": "DeepSeek Releases Open-Source AI Models Rivaling GPT-5 and Gemini",
+      "shortTitle": "Liquid AI LFM2",
+      "mediumTitle": "Liquid AI\u0027s LFM2: On-Device AI",
+      "longTitle": "Liquid AI\u0027s LFM2: On-Device Training and Inference for Enterprises",
       "paragraphs": [
         {
           "Lines": [
-            "Chinese AI startup DeepSeek has released",
-            "two new AI models, DeepSeek-V3.2 and",
-            "DeepSeek-V3.2-Speciale, which the",
-            "company claims rival or surpass the",
-            "capabilities of OpenAI\u0027s GPT-5 and",
-            "Google\u0027s Gemini-3.0-Pro.",
-            "These models are notable for being",
-            "freely available under an MIT",
-            "open-source license, a move that could",
-            "significantly alter the competitive",
-            "landscape in AI development.",
-            "A key innovation behind these models is",
-            "DeepSeek Sparse Attention (DSA), a new",
-            "architectural approach that drastically",
-            "reduces the computational cost of",
-            "processing long documents and complex",
-            "tasks."
+            "Liquid AI, founded by MIT computer",
+            "scientists in 2023, has released its",
+            "Liquid Foundation Models series 2 (LFM2)",
+            "for enterprise-grade, on-device training",
+            "and inference.",
+            "On-device AI is now a viable design",
+            "choice rather than a compromise, with",
+            "LFM2 models demonstrating competitive",
+            "performance and significant latency",
+            "gains.",
+            "LFM2 models offer a fast and efficient",
+            "alternative to large, cloud-only",
+            "language models, aiming for real-time,",
+            "privacy-preserving AI on devices like",
+            "phones and laptops.",
+            "LFM2 provides a reproducible, open, and",
+            "operationally feasible foundation for",
+            "agentic systems that need to run",
+            "anywhere, from mobile devices to",
+            "air-gapped facilities."
           ]
         }
       ],
-      "publishedAt": "2025-12-01T19:45:00.000Z",
-      "ranking": 6.7555555555555555,
-      "articleUrl": "https://venturebeat.com/ai/deepseek-just-dropped-two-insanely-powerful-ai-models-that-rival-gpt-5-and"
+      "publishedAt": "2025-12-01T18:24:00.000Z",
+      "ranking": 6.811463776596798,
+      "articleUrl": "https://venturebeat.com/ai/mit-offshoot-liquid-ai-releases-blueprint-for-enterprise-grade-small-model"
+    },
+    {
+      "id": "420",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Runway Gen-4.5",
+      "mediumTitle": "Runway\u0027s New AI Video Generator",
+      "longTitle": "Runway Unveils Gen-4.5 AI Video Generator with Enhanced Realism",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Runway has announced its latest",
+            "text-to-video AI generator, Gen-4.5,",
+            "claiming it offers \u0022unprecedented\u0022",
+            "accuracy in generating visuals.",
+            "The outputs produced by Gen-4.5 are",
+            "described as \u0022cinematic and highly",
+            "realistic.\u0022",
+            "This advancement implies that it may",
+            "become increasingly difficult to",
+            "differentiate between real-world footage",
+            "and AI-generated content.",
+            "Runway emphasizes that Gen-4.5 reaches a",
+            "new standard of \u0022physical accuracy and",
+            "visual precision.\u0022",
+            "According to a blog post from the",
+            "company, this new model surpasses the",
+            "capabilities of its predecessor."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-01T12:22:08.000Z",
+      "ranking": 6.755174163348296,
+      "articleUrl": "https://www.theverge.com/news/834905/runway-ai-text-video-generator-launch"
     },
     {
       "id": "432",
@@ -378,8 +450,77 @@
         }
       ],
       "publishedAt": "2025-12-01T06:00:00.000Z",
-      "ranking": 6.7148722142783415,
+      "ranking": 6.214122211677333,
       "articleUrl": "https://venturebeat.com/ai/capture-the-full-value-of-your-technology-with-financial-intelligence"
+    },
+    {
+      "id": "427",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Apple AI Shakeup",
+      "mediumTitle": "Apple AI Leadership Change",
+      "longTitle": "Apple AI Chief Steps Down Amidst Siri Challenges",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Apple\u0027s AI chief, John Giannandrea, is",
+            "stepping down from his role, as",
+            "announced on Monday.",
+            "Taking over the reins, Amar Subramanya",
+            "will now serve as Apple\u0027s vice president",
+            "of AI.",
+            "The article implies that Giannandrea\u0027s",
+            "departure is linked to the challenges",
+            "faced by Siri.",
+            "This leadership change occurs amidst",
+            "Apple\u0027s ongoing efforts to improve its",
+            "AI-powered virtual assistant, Siri.",
+            "He previously spent 16 years at Google.",
+            "The setbacks in Siri\u0027s development and",
+            "launch have contributed to this",
+            "executive transition.",
+            "Siri experienced a delayed launch",
+            "earlier this year."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-01T18:39:22.000Z",
+      "ranking": 5.978622845579981,
+      "articleUrl": "https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri"
+    },
+    {
+      "id": "418",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "DeepSeek AI Release",
+      "mediumTitle": "DeepSeek\u0027s New Open-Source AI Models",
+      "longTitle": "DeepSeek Releases Open-Source AI Models Rivaling GPT-5 and Gemini",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Chinese AI startup DeepSeek has released",
+            "two new AI models, DeepSeek-V3.2 and",
+            "DeepSeek-V3.2-Speciale, which the",
+            "company claims rival or surpass the",
+            "capabilities of OpenAI\u0027s GPT-5 and",
+            "Google\u0027s Gemini-3.0-Pro.",
+            "These models are notable for being",
+            "freely available under an MIT",
+            "open-source license, a move that could",
+            "significantly alter the competitive",
+            "landscape in AI development.",
+            "A key innovation behind these models is",
+            "DeepSeek Sparse Attention (DSA), a new",
+            "architectural approach that drastically",
+            "reduces the computational cost of",
+            "processing long documents and complex",
+            "tasks."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-01T19:45:00.000Z",
+      "ranking": 5.728632205302243,
+      "articleUrl": "https://venturebeat.com/ai/deepseek-just-dropped-two-insanely-powerful-ai-models-that-rival-gpt-5-and"
     },
     {
       "id": "414",
@@ -410,7 +551,7 @@
         }
       ],
       "publishedAt": "2025-12-01T15:00:00.000Z",
-      "ranking": 5.880019823044265,
+      "ranking": 5.504207688894859,
       "articleUrl": "https://venturebeat.com/ai/openagi-emerges-from-stealth-with-an-ai-agent-that-it-claims-crushes-openai"
     },
     {
@@ -446,8 +587,44 @@
         }
       ],
       "publishedAt": "2025-12-01T06:00:00.000Z",
-      "ranking": 5.805865992013344,
+      "ranking": 5.305115984296499,
       "articleUrl": "https://venturebeat.com/ai/agent-coordination-is-the-missing-piece-in-ai-commerce-new-aws-and-visa"
+    },
+    {
+      "id": "422",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AGI Pope Outreach",
+      "mediumTitle": "Researcher Aims to Inform Pope on AGI Risks",
+      "longTitle": "AGI Researcher John-Clark Levin Seeks Vatican Audience on AI Dangers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AGI researcher John-Clark Levin and his",
+            "collaborators are attempting to raise",
+            "awareness about the potential risks of",
+            "Artificial General Intelligence (AGI)",
+            "with Pope Leo XIV.",
+            "Levin\u0027s mission involved a visit to the",
+            "Vatican with the specific aim of",
+            "presenting these concerns directly to",
+            "the Pope.",
+            "This outreach is part of a broader,",
+            "year-long effort by Levin and his",
+            "network to engage influential figures",
+            "and institutions on the existential",
+            "threats posed by advanced AI.",
+            "The article implies that this outreach",
+            "extends beyond religious leaders,",
+            "suggesting a concerted campaign to",
+            "inform decision-makers across various",
+            "sectors."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-01T10:00:00.000Z",
+      "ranking": 5.099672610434607,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/829813/ai-agi-pope-leo"
     },
     {
       "id": "413",
@@ -483,7 +660,7 @@
         }
       ],
       "publishedAt": "2025-11-30T19:17:08.000Z",
-      "ranking": 4.499873359953865,
+      "ranking": 3.850385580964465,
       "articleUrl": "https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage"
     },
     {
@@ -520,7 +697,7 @@
         }
       ],
       "publishedAt": "2025-11-30T17:00:00.000Z",
-      "ranking": 4.373609004285539,
+      "ranking": 3.6923931756748916,
       "articleUrl": "https://venturebeat.com/security/hybrid-cloud-security-reinvented-ai-era"
     },
     {
@@ -555,7 +732,7 @@
         }
       ],
       "publishedAt": "2025-11-30T10:49:00.000Z",
-      "ranking": 2.60724167648039,
+      "ranking": 1.8401889018252149,
       "articleUrl": "https://www.marktechpost.com/2025/11/30/meta-ai-researchers-introduce-matrix-a-ray-native-a-decentralized-framework-for-multi-agent-synthetic-data-generation/"
     },
     {
@@ -591,7 +768,7 @@
         }
       ],
       "publishedAt": "2025-11-30T06:00:00.000Z",
-      "ranking": 1.9000271838661602,
+      "ranking": 1.0661095122362445,
       "articleUrl": "https://venturebeat.com/ai/ontology-is-the-real-guardrail-how-to-stop-ai-agents-from-misunderstanding"
     },
     {
@@ -626,7 +803,7 @@
         }
       ],
       "publishedAt": "2025-11-29T23:03:21.000Z",
-      "ranking": 0.5055175270398191,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/29/stepfun-ai-releases-step-audio-r1-a-new-audio-llm-that-finally-benefits-from-test-time-compute-scaling/"
     },
     {
@@ -1407,147 +1584,6 @@
       "publishedAt": "2025-11-26T04:46:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/black-forest-labs-launches-flux-2-ai-image-models-to-challenge-nano-banana"
-    },
-    {
-      "id": "392",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AgentEvolver AI",
-      "mediumTitle": "Alibaba\u0027s AgentEvolver Enhances AI Tool Use",
-      "longTitle": "Alibaba\u0027s AgentEvolver Framework Boosts AI Agent Performance",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Alibaba\u0027s Tongyi Lab has introduced",
-            "AgentEvolver, a novel framework designed",
-            "to enhance the performance of AI agents",
-            "in tool use by approximately 30%.",
-            "This innovative system empowers agents",
-            "to autonomously generate their own",
-            "training data by exploring their",
-            "operational environments, thereby",
-            "overcoming the significant costs and",
-            "manual effort typically associated with",
-            "creating task-specific datasets.",
-            "AgentEvolver leverages the knowledge and",
-            "reasoning capabilities of large language",
-            "models (LLMs) for autonomous learning,",
-            "offering a more efficient, data-savvy,",
-            "and faster adaptation process compared",
-            "to traditional reinforcement learning",
-            "(RL) methods."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-26T01:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/alibabas-agentevolver-lifts-model-performance-in-tool-use-by-30-using"
-    },
-    {
-      "id": "388",
-      "topic": "Learning",
-      "source": "Marktechpost AI",
-      "shortTitle": "xRouter LLM",
-      "mediumTitle": "Salesforce xRouter for LLM Orchestration",
-      "longTitle": "Salesforce xRouter: Intelligent Orchestration of Multiple LLMs",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The primary objective of xRouter is",
-            "cost-aware LLM orchestration.",
-            "By intelligently routing requests, it",
-            "aims to minimize the overall expenditure",
-            "associated with LLM usage while ensuring",
-            "that the application\u0027s performance and",
-            "the quality of responses are maintained.",
-            "Salesforce AI Research has introduced",
-            "xRouter, a novel system designed to",
-            "address the complex challenge of",
-            "orchestrating multiple Large Language",
-            "Models (LLMs) within an application.",
-            "In essence, xRouter acts as an",
-            "intelligent intermediary, analyzing",
-            "incoming requests and, using its learned",
-            "knowledge, directing them to the most",
-            "appropriate LLM."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-25T19:25:47.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/25/salesforce-ai-research-introduces-xrouter-a-reinforcement-learning-router-for-cost-aware-llm-orchestration/"
-    },
-    {
-      "id": "381",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "Sacks AI Lobby",
-      "mediumTitle": "Venture Capitalist\u0027s AI Regulation Push",
-      "longTitle": "Venture Capitalist\u0027s Attempt to Centralize AI Regulation Backfires",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Venture capitalist David Sacks",
-            "reportedly attempted to influence the",
-            "White House to issue an executive order",
-            "that would preempt all state-level",
-            "Artificial Intelligence (AI) laws.",
-            "The article implies that the White House",
-            "did not issue the executive order as",
-            "rumored, and that Sacks\u0027s lobbying",
-            "efforts may have inadvertently",
-            "highlighted the need for, or even",
-            "spurred, federal action on AI",
-            "regulation, albeit not in the way he",
-            "intended.",
-            "However, the effort appears to have",
-            "backfired spectacularly.",
-            "Instead of preempting state laws, the",
-            "White House\u0027s actions, or lack thereof,",
-            "led to a different outcome."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-25T17:06:08.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/829179/david-sacks-ai-executive-order"
-    },
-    {
-      "id": "377",
-      "topic": "Science",
-      "source": "VentureBeat AI",
-      "shortTitle": "Genesis Mission AI",
-      "mediumTitle": "White House Genesis Mission AI Initiative",
-      "longTitle": "White House Genesis Mission: AI for Scientific Revolution",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The White House has launched the",
-            "\u0022Genesis Mission,\u0022 an ambitious",
-            "initiative likened to the Manhattan",
-            "Project, aimed at revolutionizing",
-            "scientific research through artificial",
-            "intelligence.",
-            "This executive order directs the",
-            "Department of Energy (DOE) to establish",
-            "a \u0022closed-loop AI experimentation",
-            "platform\u0022 that will integrate the",
-            "nation\u0027s 17 national laboratories,",
-            "federal supercomputers, and decades of",
-            "government scientific data into a",
-            "unified research system.",
-            "The mission prioritizes advancements in",
-            "biotechnology, critical materials,",
-            "nuclear fission and fusion, quantum",
-            "information science, and semiconductors,",
-            "with the goal of accelerating scientific",
-            "discovery and doubling R\u0026D productivity."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-25T16:52:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/what-enterprises-should-know-about-the-white-houses-new-ai-manhattan-project"
     }
   ]
 }
