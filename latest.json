@@ -104,6 +104,42 @@
       "articleUrl": "https://venturebeat.com/ai/mit-offshoot-liquid-ai-releases-blueprint-for-enterprise-grade-small-model"
     },
     {
+      "id": "426",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI\u0027s Circular Deal",
+      "mediumTitle": "OpenAI Acquires Stake in Investor",
+      "longTitle": "OpenAI Enters Circular Deal Acquiring Stake in Thrive Holdings",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This move is notable because Thrive",
+            "Holdings\u0027 parent company, Thrive",
+            "Capital, is a significant investor in",
+            "OpenAI itself.",
+            "This creates a situation where OpenAI is",
+            "both a recipient of investment and a",
+            "stakeholder in one of its key investors.",
+            "OpenAI, focused on artificial",
+            "intelligence, is now an owner of a firm",
+            "that has a substantial financial",
+            "interest in OpenAI\u0027s success.",
+            "OpenAI has entered into a new \u0027circular",
+            "deal\u0027 by acquiring an ownership stake in",
+            "Thrive Holdings, a private equity",
+            "investment firm.",
+            "OpenAI did not spend any money to",
+            "acquire this ownership stake, according",
+            "to an anonymous source cited by The",
+            "Financial Times."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-01T19:12:24.000Z",
+      "ranking": 7.950000000000001,
+      "articleUrl": "https://www.theverge.com/news/835453/openai-ownership-thrive-holdings"
+    },
+    {
       "id": "415",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -138,6 +174,41 @@
       "publishedAt": "2025-12-01T06:00:00.000Z",
       "ranking": 7.821428571428571,
       "articleUrl": "https://venturebeat.com/ai/agent-coordination-is-the-missing-piece-in-ai-commerce-new-aws-and-visa"
+    },
+    {
+      "id": "427",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Apple AI Shakeup",
+      "mediumTitle": "Apple AI Leadership Change",
+      "longTitle": "Apple AI Chief Steps Down Amidst Siri Challenges",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Apple\u0027s AI chief, John Giannandrea, is",
+            "stepping down from his role, as",
+            "announced on Monday.",
+            "Taking over the reins, Amar Subramanya",
+            "will now serve as Apple\u0027s vice president",
+            "of AI.",
+            "The article implies that Giannandrea\u0027s",
+            "departure is linked to the challenges",
+            "faced by Siri.",
+            "This leadership change occurs amidst",
+            "Apple\u0027s ongoing efforts to improve its",
+            "AI-powered virtual assistant, Siri.",
+            "He previously spent 16 years at Google.",
+            "The setbacks in Siri\u0027s development and",
+            "launch have contributed to this",
+            "executive transition.",
+            "Siri experienced a delayed launch",
+            "earlier this year."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-01T18:39:22.000Z",
+      "ranking": 7.1,
+      "articleUrl": "https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri"
     },
     {
       "id": "414",
@@ -206,43 +277,6 @@
       "articleUrl": "https://venturebeat.com/ai/deepseek-just-dropped-two-insanely-powerful-ai-models-that-rival-gpt-5-and"
     },
     {
-      "id": "416",
-      "topic": "Security",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI vs Cloud Sec",
-      "mediumTitle": "AI Threats Outpace Hybrid Cloud Security",
-      "longTitle": "Outdated Hybrid Cloud Security Fails Against AI-Powered Threats",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Hybrid cloud security architectures,",
-            "designed for a pre-AI era of human-speed",
-            "cyberattacks, are failing to protect",
-            "organizations against the current wave",
-            "of automated, machine-based threats.",
-            "CrowdStrike\u0027s new real-time Cloud",
-            "Detection and Response platform aims to",
-            "address this by analyzing cloud logs as",
-            "they stream in, compressing response",
-            "windows to seconds.",
-            "The core issue lies in batch-based",
-            "detection, where logs are collected and",
-            "processed with significant delays,",
-            "making a 15-minute detection delay",
-            "effectively an invitation for attackers.",
-            "The overarching message is that hybrid",
-            "cloud security must be fundamentally",
-            "rebuilt to withstand the speed and",
-            "sophistication of AI-powered cyber",
-            "warfare."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-30T17:00:00.000Z",
-      "ranking": 6.54716827523566,
-      "articleUrl": "https://venturebeat.com/security/hybrid-cloud-security-reinvented-ai-era"
-    },
-    {
       "id": "413",
       "topic": "Environment",
       "source": "The Verge AI",
@@ -276,8 +310,45 @@
         }
       ],
       "publishedAt": "2025-11-30T19:17:08.000Z",
-      "ranking": 6.546248220981729,
+      "ranking": 6.119025567933188,
       "articleUrl": "https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage"
+    },
+    {
+      "id": "416",
+      "topic": "Security",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI vs Cloud Sec",
+      "mediumTitle": "AI Threats Outpace Hybrid Cloud Security",
+      "longTitle": "Outdated Hybrid Cloud Security Fails Against AI-Powered Threats",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Hybrid cloud security architectures,",
+            "designed for a pre-AI era of human-speed",
+            "cyberattacks, are failing to protect",
+            "organizations against the current wave",
+            "of automated, machine-based threats.",
+            "CrowdStrike\u0027s new real-time Cloud",
+            "Detection and Response platform aims to",
+            "address this by analyzing cloud logs as",
+            "they stream in, compressing response",
+            "windows to seconds.",
+            "The core issue lies in batch-based",
+            "detection, where logs are collected and",
+            "processed with significant delays,",
+            "making a 15-minute detection delay",
+            "effectively an invitation for attackers.",
+            "The overarching message is that hybrid",
+            "cloud security must be fundamentally",
+            "rebuilt to withstand the speed and",
+            "sophistication of AI-powered cyber",
+            "warfare."
+          ]
+        }
+      ],
+      "publishedAt": "2025-11-30T17:00:00.000Z",
+      "ranking": 6.088202734745627,
+      "articleUrl": "https://venturebeat.com/security/hybrid-cloud-security-reinvented-ai-era"
     },
     {
       "id": "411",
@@ -311,7 +382,7 @@
         }
       ],
       "publishedAt": "2025-11-30T10:49:00.000Z",
-      "ranking": 5.1248850979484475,
+      "ranking": 4.580042540457252,
       "articleUrl": "https://www.marktechpost.com/2025/11/30/meta-ai-researchers-introduce-matrix-a-ray-native-a-decentralized-framework-for-multi-agent-synthetic-data-generation/"
     },
     {
@@ -347,7 +418,7 @@
         }
       ],
       "publishedAt": "2025-11-30T06:00:00.000Z",
-      "ranking": 4.685703825332655,
+      "ranking": 4.07396514247824,
       "articleUrl": "https://venturebeat.com/ai/ontology-is-the-real-guardrail-how-to-stop-ai-agents-from-misunderstanding"
     },
     {
@@ -382,7 +453,7 @@
         }
       ],
       "publishedAt": "2025-11-29T23:03:21.000Z",
-      "ranking": 3.677616456133631,
+      "ranking": 2.9694339278294697,
       "articleUrl": "https://www.marktechpost.com/2025/11/29/stepfun-ai-releases-step-audio-r1-a-new-audio-llm-that-finally-benefits-from-test-time-compute-scaling/"
     },
     {
@@ -415,7 +486,7 @@
         }
       ],
       "publishedAt": "2025-11-29T20:00:00.000Z",
-      "ranking": 2.4114278424693527,
+      "ranking": 1.6608044655926566,
       "articleUrl": "https://venturebeat.com/ai/why-observable-ai-is-the-missing-sre-layer-enterprises-need-for-reliable"
     },
     {
@@ -450,7 +521,7 @@
         }
       ],
       "publishedAt": "2025-11-29T13:00:00.000Z",
-      "ranking": 1.0737183835197373,
+      "ranking": 0.22587572176144466,
       "articleUrl": "https://www.theverge.com/entertainment/830393/ai-music-deezer-survey-spotify"
     },
     {
@@ -485,7 +556,7 @@
         }
       ],
       "publishedAt": "2025-11-29T05:18:46.000Z",
-      "ranking": 0.6850695937082811,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/28/nvidia-ai-releases-orchestrator-8b-a-reinforcement-learning-trained-controller-for-efficient-tool-and-model-selection/"
     },
     {
@@ -1449,78 +1520,6 @@
       "publishedAt": "2025-11-25T07:10:13.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/24/agent0-a-fully-autonomous-ai-framework-that-evolves-high-performing-agents-without-external-data-through-multi-step-co-evolution/"
-    },
-    {
-      "id": "378",
-      "topic": "Policy",
-      "source": "VentureBeat AI",
-      "shortTitle": "OpenAI Data Residency",
-      "mediumTitle": "OpenAI Expands Data Residency Options",
-      "longTitle": "OpenAI Enhances Data Residency for Enterprise ChatGPT and API",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has expanded its data residency",
-            "options for enterprise customers using",
-            "ChatGPT and its API, allowing them to",
-            "choose where their data is stored and",
-            "processed.",
-            "Subscribers of ChatGPT Enterprise and",
-            "Edu can now opt to have their data",
-            "processed in a variety of regions,",
-            "including Europe (European Economic Area",
-            "and Switzerland), the United Kingdom,",
-            "the United States, Canada, Japan, South",
-            "Korea, Singapore, India, Australia, and",
-            "the United Arab Emirates.",
-            "The company stated that this expansion",
-            "is in response to the large number of",
-            "business customers worldwide using",
-            "OpenAI\u0027s services, aiming to help",
-            "organizations meet local regulatory and",
-            "data protection requirements."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-25T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/openai-now-lets-enterprises-choose-where-to-host-their-data"
-    },
-    {
-      "id": "376",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Fara-7B AI Agent",
-      "mediumTitle": "Microsoft\u0027s Fara-7B Local AI Agent",
-      "longTitle": "Microsoft Research unveils Fara-7B, a local AI agent for web tasks",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This release addresses a critical",
-            "challenge in AI development: enabling AI",
-            "agents to perform real-world web tasks,",
-            "such as booking appointments, conducting",
-            "searches, and filling out forms,",
-            "directly on a user\u0027s local device",
-            "without the need to transmit all data to",
-            "the cloud.",
-            "Microsoft Research has introduced",
-            "Fara-7B, a novel 7-billion parameter",
-            "agentic small language model (SLM)",
-            "specifically engineered for direct",
-            "computer use.",
-            "The core innovation lies in its ability",
-            "to operate efficiently on local",
-            "hardware, thereby enhancing user privacy",
-            "and security by minimizing the exposure",
-            "of sensitive information to external",
-            "servers."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-24T23:57:29.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/24/microsoft-ai-releases-fara-7b-an-efficient-agentic-model-for-computer-use/"
     }
   ]
 }
