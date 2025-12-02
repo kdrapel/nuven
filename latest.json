@@ -176,6 +176,36 @@
       "articleUrl": "https://venturebeat.com/ai/mistral-launches-mistral-3-a-family-of-open-models-designed-to-run-on"
     },
     {
+      "id": "437",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "AWS Nova Forge",
+      "mediumTitle": "AWS Nova Forge for Custom AI",
+      "longTitle": "AWS Launches Nova Forge for Custom AI Model Creation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AWS has launched Nova Forge, a new",
+            "service designed to empower enterprises",
+            "to build custom foundation-class AI",
+            "models without requiring significant GPU",
+            "resources, as part of a strategy to meet",
+            "the growing demand for personalized AI",
+            "solutions.",
+            "The Nova Forge service allows businesses",
+            "to create customized versions of AWS\u0027s",
+            "Nova models, referred to as \u0027Novellas,\u0027",
+            "through a process called \u0027open",
+            "training,\u0027 where proprietary data is",
+            "blended with Amazon-curated datasets."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T05:00:00.000Z",
+      "ranking": 7.71875,
+      "articleUrl": "https://venturebeat.com/ai/with-nova-forge-aws-gives-companies-a-path-to-build-foundation-class-models"
+    },
+    {
       "id": "433",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -283,6 +313,38 @@
       "articleUrl": "https://venturebeat.com/ai/with-ai-browsers-creating-fresh-security-and-privacy-concerns-norton-neo-is"
     },
     {
+      "id": "432",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "DeepSeek AI Models",
+      "mediumTitle": "DeepSeek\u0027s New AI Models for Reasoning",
+      "longTitle": "DeepSeek Unveils V3.2 Models for Advanced Long-Context Reasoning",
+      "paragraphs": [
+        {
+          "Lines": [
+            "DeepSeek researchers have introduced two",
+            "new models, DeepSeek-V3.2 and",
+            "DeepSeek-V3.2-Speciale, designed to",
+            "address the challenges of long-context",
+            "reasoning and agentic workloads.",
+            "The primary goal of these models is to",
+            "achieve GPT-5-level reasoning",
+            "capabilities without the prohibitive",
+            "quadratic attention and GPU costs",
+            "typically associated with such systems.",
+            "These models are specifically built with",
+            "a \u0022reasoning-first\u0022 approach, targeting",
+            "high-quality reasoning, the ability to",
+            "process and understand extensive",
+            "contexts, and efficient agent workflows."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T01:53:45.000Z",
+      "ranking": 6.730769230769232,
+      "articleUrl": "https://www.marktechpost.com/2025/12/01/deepseek-researchers-introduce-deepseek-v3-2-and-deepseek-v3-2-speciale-for-long-context-reasoning-and-agentic-workloads/"
+    },
+    {
       "id": "426",
       "topic": "Business",
       "source": "The Verge AI",
@@ -315,7 +377,7 @@
         }
       ],
       "publishedAt": "2025-12-01T19:12:24.000Z",
-      "ranking": 6.876680902385235,
+      "ranking": 6.5061398474877015,
       "articleUrl": "https://www.theverge.com/news/835453/openai-ownership-thrive-holdings"
     },
     {
@@ -352,7 +414,7 @@
         }
       ],
       "publishedAt": "2025-12-01T18:24:00.000Z",
-      "ranking": 6.811463776596798,
+      "ranking": 6.429790977849357,
       "articleUrl": "https://venturebeat.com/ai/mit-offshoot-liquid-ai-releases-blueprint-for-enterprise-grade-small-model"
     },
     {
@@ -386,40 +448,8 @@
         }
       ],
       "publishedAt": "2025-12-01T12:22:08.000Z",
-      "ranking": 6.755174163348296,
+      "ranking": 6.290273954210306,
       "articleUrl": "https://www.theverge.com/news/834905/runway-ai-text-video-generator-launch"
-    },
-    {
-      "id": "432",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "DeepSeek AI Models",
-      "mediumTitle": "DeepSeek\u0027s New AI Models for Reasoning",
-      "longTitle": "DeepSeek Unveils V3.2 Models for Advanced Long-Context Reasoning",
-      "paragraphs": [
-        {
-          "Lines": [
-            "DeepSeek researchers have introduced two",
-            "new models, DeepSeek-V3.2 and",
-            "DeepSeek-V3.2-Speciale, designed to",
-            "address the challenges of long-context",
-            "reasoning and agentic workloads.",
-            "The primary goal of these models is to",
-            "achieve GPT-5-level reasoning",
-            "capabilities without the prohibitive",
-            "quadratic attention and GPU costs",
-            "typically associated with such systems.",
-            "These models are specifically built with",
-            "a \u0022reasoning-first\u0022 approach, targeting",
-            "high-quality reasoning, the ability to",
-            "process and understand extensive",
-            "contexts, and efficient agent workflows."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T01:53:45.000Z",
-      "ranking": 6.730769230769232,
-      "articleUrl": "https://www.marktechpost.com/2025/12/01/deepseek-researchers-introduce-deepseek-v3-2-and-deepseek-v3-2-speciale-for-long-context-reasoning-and-agentic-workloads/"
     },
     {
       "id": "424",
@@ -450,7 +480,7 @@
         }
       ],
       "publishedAt": "2025-12-01T06:00:00.000Z",
-      "ranking": 6.214122211677333,
+      "ranking": 5.661333369407814,
       "articleUrl": "https://venturebeat.com/ai/capture-the-full-value-of-your-technology-with-financial-intelligence"
     },
     {
@@ -485,7 +515,7 @@
         }
       ],
       "publishedAt": "2025-12-01T18:39:22.000Z",
-      "ranking": 5.978622845579981,
+      "ranking": 5.600484297476003,
       "articleUrl": "https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri"
     },
     {
@@ -519,7 +549,7 @@
         }
       ],
       "publishedAt": "2025-12-01T19:45:00.000Z",
-      "ranking": 5.728632205302243,
+      "ranking": 5.365588973765461,
       "articleUrl": "https://venturebeat.com/ai/deepseek-just-dropped-two-insanely-powerful-ai-models-that-rival-gpt-5-and"
     },
     {
@@ -551,7 +581,7 @@
         }
       ],
       "publishedAt": "2025-12-01T15:00:00.000Z",
-      "ranking": 5.504207688894859,
+      "ranking": 5.0756159703725,
       "articleUrl": "https://venturebeat.com/ai/openagi-emerges-from-stealth-with-an-ai-agent-that-it-claims-crushes-openai"
     },
     {
@@ -587,7 +617,7 @@
         }
       ],
       "publishedAt": "2025-12-01T06:00:00.000Z",
-      "ranking": 5.305115984296499,
+      "ranking": 4.7523271341473805,
       "articleUrl": "https://venturebeat.com/ai/agent-coordination-is-the-missing-piece-in-ai-commerce-new-aws-and-visa"
     },
     {
@@ -623,7 +653,7 @@
         }
       ],
       "publishedAt": "2025-12-01T10:00:00.000Z",
-      "ranking": 5.099672610434607,
+      "ranking": 4.602082483605967,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/829813/ai-agi-pope-leo"
     },
     {
@@ -660,7 +690,7 @@
         }
       ],
       "publishedAt": "2025-11-30T19:17:08.000Z",
-      "ranking": 3.850385580964465,
+      "ranking": 3.149740810297641,
       "articleUrl": "https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage"
     },
     {
@@ -697,7 +727,7 @@
         }
       ],
       "publishedAt": "2025-11-30T17:00:00.000Z",
-      "ranking": 3.6923931756748916,
+      "ranking": 2.9602084636330517,
       "articleUrl": "https://venturebeat.com/security/hybrid-cloud-security-reinvented-ai-era"
     },
     {
@@ -732,7 +762,7 @@
         }
       ],
       "publishedAt": "2025-11-30T10:49:00.000Z",
-      "ranking": 1.8401889018252149,
+      "ranking": 1.022676157940749,
       "articleUrl": "https://www.marktechpost.com/2025/11/30/meta-ai-researchers-introduce-matrix-a-ray-native-a-decentralized-framework-for-multi-agent-synthetic-data-generation/"
     },
     {
@@ -768,7 +798,7 @@
         }
       ],
       "publishedAt": "2025-11-30T06:00:00.000Z",
-      "ranking": 1.0661095122362445,
+      "ranking": 0.18212830053428863,
       "articleUrl": "https://venturebeat.com/ai/ontology-is-the-real-guardrail-how-to-stop-ai-agents-from-misunderstanding"
     },
     {
@@ -1511,79 +1541,6 @@
       "publishedAt": "2025-11-26T08:46:05.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/25/black-forest-labs-releases-flux-2-a-32b-flow-matching-transformer-for-production-image-pipelines/"
-    },
-    {
-      "id": "387",
-      "topic": "Neural Nets",
-      "source": "Marktechpost AI",
-      "shortTitle": "Build NN from Scratch",
-      "mediumTitle": "Tinygrad: Build Transformer \u0026 GPT",
-      "longTitle": "Hands-on Tutorial: Building Transformer and Mini-GPT with Tinygrad",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This article offers a hands-on tutorial",
-            "for building neural network components,",
-            "specifically the Transformer",
-            "architecture and a mini-GPT model,",
-            "entirely from scratch using the Tinygrad",
-            "library.",
-            "The primary goal is to offer a deep",
-            "understanding of deep learning internals",
-            "by allowing readers to engage directly",
-            "with fundamental concepts like tensors,",
-            "automatic differentiation (autograd),",
-            "attention mechanisms, and the overall",
-            "Transformer architecture.",
-            "A significant portion of the tutorial is",
-            "dedicated to understanding and",
-            "implementing the attention mechanism, a",
-            "key innovation of the Transformer model.",
-            "The culmination of this step-by-step",
-            "process is the implementation of a",
-            "working mini-GPT model."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-26T08:04:28.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/25/how-to-implement-functional-components-of-transformer-and-mini-gpt-model-from-scratch-using-tinygrad-to-understand-deep-learning-internals/"
-    },
-    {
-      "id": "385",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "FLUX.2 AI Launch",
-      "mediumTitle": "Black Forest Labs Launches FLUX.2 AI",
-      "longTitle": "Black Forest Labs Unveils FLUX.2 AI for Image Generation and Editing",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Black Forest Labs has launched FLUX.2, a",
-            "new suite of AI image generation and",
-            "editing models designed to compete with",
-            "established players like Nano Banana Pro",
-            "and Midjourney.",
-            "This release emphasizes production-grade",
-            "creative workflows, offering improved",
-            "multi-reference conditioning, higher",
-            "fidelity outputs, and better text",
-            "rendering.",
-            "A key component of FLUX.2 is the",
-            "open-source Flux.2 VAE, released under",
-            "the Apache 2.0 license, which compresses",
-            "images into a latent space and",
-            "reconstructs them at high resolution.",
-            "FLUX.2 expands on the company\u0027s",
-            "open-core ecosystem by providing both",
-            "commercial endpoints and open-weight",
-            "checkpoints."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-26T04:46:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/black-forest-labs-launches-flux-2-ai-image-models-to-challenge-nano-banana"
     }
   ]
 }
