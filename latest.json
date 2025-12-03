@@ -1,41 +1,115 @@
 {
   "articles": [
     {
-      "id": "440",
-      "topic": "Ethics",
+      "id": "445",
+      "topic": "Generative AI",
       "source": "The Verge AI",
-      "shortTitle": "Google AI Headlines",
-      "mediumTitle": "Google\u0027s AI Headline Experiments",
-      "longTitle": "Google Reportedly Experimenting with AI-Generated Clickbait Headlines",
+      "shortTitle": "Grokipedia\u0027s Chaos",
+      "mediumTitle": "Grokipedia: Musk\u0027s \u0027Anti-Woke\u0027 AI Project",
+      "longTitle": "Elon Musk\u0027s Grokipedia: From Monument to Mess",
       "paragraphs": [
         {
           "Lines": [
-            "Google is reportedly experimenting with",
-            "replacing original news headlines with",
-            "AI-generated, clickbait-style",
-            "alternatives, potentially to increase",
-            "engagement.",
-            "The core issue highlighted is the",
-            "potential for AI to be used to",
-            "manipulate user perception and drive",
-            "traffic through deceptive means.",
-            "This practice involves Google serving up",
-            "misleading or sensationalized headlines",
-            "that differ significantly from the",
-            "actual content of the articles.",
-            "The author expresses concern that this",
-            "approach could lead to reader",
-            "dissatisfaction and a decline in trust.",
-            "Examples cited include \u0027BG3 players",
-            "exploit children\u0027 and \u0027Qi2 slows older",
-            "Pixels,\u0027 which are designed to be",
-            "attention-grabbing."
+            "However, the current state of Grokipedia",
+            "is described as a \u0027hot mess,\u0027 reportedly",
+            "worsening since public edit suggestions",
+            "were allowed.",
+            "Elon Musk envisions Grokipedia, an",
+            "AI-generated \u0027anti-woke\u0027 Wikipedia",
+            "alternative by xAI, as a permanent",
+            "monument to human knowledge.",
+            "The attempt to democratize editing",
+            "without robust moderation has led to a",
+            "degradation of content quality and",
+            "accuracy.",
+            "Despite public edit suggestions, Elon",
+            "Musk and xAI retain ultimate control,",
+            "with the AI \u0027running the show\u0027 on",
+            "content.",
+            "This has made it far from the \u0027complete",
+            "and truthful\u0027 repository Musk envisions,",
+            "pointing to a chaotic and uncontrolled",
+            "environment."
           ]
         }
       ],
-      "publishedAt": "2025-12-02T18:14:21.000Z",
-      "ranking": 8.204545454545455,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense"
+      "publishedAt": "2025-12-03T13:47:45.000Z",
+      "ranking": 8.383333333333335,
+      "articleUrl": "https://www.theverge.com/report/837431/grokipedia-update-editing-mess"
+    },
+    {
+      "id": "447",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Alexa Plus",
+      "mediumTitle": "Alexa Plus: Scene Finder on Fire TV",
+      "longTitle": "Amazon\u0027s Alexa Plus: AI Scene Finder for Fire TV",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This innovative functionality allows",
+            "users to locate specific scenes within",
+            "movies by simply describing the scene",
+            "they are looking for to Alexa.",
+            "Amazon has introduced a new AI-powered",
+            "feature for its Fire TV devices called",
+            "\u0022Alexa Plus.\u0022",
+            "The core of Alexa Plus\u0027s capability lies",
+            "in its advanced AI, which can understand",
+            "natural language descriptions of movie",
+            "moments.",
+            "Instead of navigating through menus or",
+            "scrubbing through timelines, users can",
+            "verbally prompt Alexa with details like",
+            "\u0022Alexa, find the scene where the main",
+            "character confronts the villain in the",
+            "rain.\u0022",
+            "Alexa Plus then processes this request",
+            "and intelligently navigates to the",
+            "corresponding segment of the film."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-03T11:00:00.000Z",
+      "ranking": 8.100000000000001,
+      "articleUrl": "https://www.theverge.com/news/837156/amazon-fire-tv-alexa-plus-skip-to-scene"
+    },
+    {
+      "id": "443",
+      "topic": "Business",
+      "source": "VentureBeat AI",
+      "shortTitle": "Supply Chain Blind Spots",
+      "mediumTitle": "Process Intelligence for Supply Chain Volatility",
+      "longTitle": "Addressing Supply Chain Blind Spots with Process Intelligence and AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Recent tariff turbulence has exposed",
+            "significant blind spots in traditional",
+            "supply chain management and the",
+            "limitations of current enterprise",
+            "systems, especially when combined with",
+            "Artificial Intelligence (AI).",
+            "The key takeaway is that the ability to",
+            "connect the dots across systems quickly",
+            "is paramount, not just the capture of",
+            "data.",
+            "AI in supply chains is ineffective",
+            "without process intelligence (PI), which",
+            "provides the operational context AI",
+            "needs to make precise decisions.",
+            "Zero-copy integration with platforms",
+            "like Databricks and Microsoft Fabric",
+            "allows for near real-time querying of",
+            "vast data without duplication, enabling",
+            "instant modeling of alternatives when",
+            "trade policies shift."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-03T09:00:00.000Z",
+      "ranking": 8.066666666666666,
+      "articleUrl": "https://venturebeat.com/ai/tariff-turbulence-exposes-costly-blind-spots-in-supply-chains-and-ai"
     },
     {
       "id": "442",
@@ -75,74 +149,74 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/02/nvidia-and-mistral-ai-bring-10x-faster-inference-for-the-mistral-3-family-on-gb200-nvl72-gpu-systems/"
     },
     {
-      "id": "433",
-      "topic": "Generative AI",
+      "id": "444",
+      "topic": "Business",
       "source": "VentureBeat AI",
-      "shortTitle": "AWS Frontier Agents",
-      "mediumTitle": "AWS Introduces Autonomous AI Agents",
-      "longTitle": "AWS Unveils Frontier Agents for Autonomous Software Development",
+      "shortTitle": "AI \u0026 Talent Shift",
+      "mediumTitle": "AI Reshapes Talent Acquisition \u0026 Development",
+      "longTitle": "AI\u0027s Impact on Talent: Hiring, Skills, and Retention Strategies",
       "paragraphs": [
         {
           "Lines": [
-            "AWS has introduced \u0022frontier agents,\u0022 a",
-            "new class of AI systems designed for",
-            "extended autonomous operation without",
-            "human intervention, aiming to automate",
-            "the software development lifecycle.",
-            "Unlike current tools that require",
-            "constant human prompting and lose",
-            "context between tasks, frontier agents",
-            "can independently identify necessary",
-            "code repository changes, work on",
-            "multiple files concurrently, and manage",
-            "complex transformations across numerous",
-            "microservices.",
-            "These frontier agents differentiate",
-            "themselves from existing AI coding tools",
-            "by possessing persistent memory across",
-            "sessions, continuously learning from an",
-            "organization\u0027s codebase, documentation,",
-            "and communications."
+            "Artificial Intelligence is fundamentally",
+            "changing the talent landscape, prompting",
+            "leaders to adapt their strategies for",
+            "hiring, skill development, and employee",
+            "retention.",
+            "Despite a general decrease in tech job",
+            "postings, demand for AI expertise is",
+            "soaring, leading to the emergence of new",
+            "roles like prompt engineers and AI",
+            "operations managers.",
+            "Leaders\u0027 mindsets are critical in this",
+            "transition; those who view AI as a tool",
+            "for reimagining work and enhancing human",
+            "capabilities, rather than solely for",
+            "cost-cutting and job reduction, are more",
+            "successful."
           ]
         }
       ],
-      "publishedAt": "2025-12-02T18:30:00.000Z",
-      "ranking": 7.665217391304349,
-      "articleUrl": "https://venturebeat.com/ai/amazons-new-ai-can-code-for-days-without-human-help-what-does-that-mean-for"
+      "publishedAt": "2025-12-03T06:00:00.000Z",
+      "ranking": 7.187499999999999,
+      "articleUrl": "https://venturebeat.com/ai/ai-has-redefined-the-talent-game-heres-how-leaders-are-responding"
     },
     {
-      "id": "441",
-      "topic": "Model Eval",
+      "id": "440",
+      "topic": "Ethics",
       "source": "The Verge AI",
-      "shortTitle": "AI Benchmarks",
-      "mediumTitle": "Amazon AI Chief on Benchmarks",
-      "longTitle": "Amazon\u0027s AI Chief Urges Shift from Benchmarks to Real-World Utility",
+      "shortTitle": "Google AI Headlines",
+      "mediumTitle": "Google\u0027s AI Headline Experiments",
+      "longTitle": "Google Reportedly Experimenting with AI-Generated Clickbait Headlines",
       "paragraphs": [
         {
           "Lines": [
-            "Amazon\u0027s AI chief, Rohit Prasad, is",
-            "urging a shift away from an overemphasis",
-            "on AI model benchmarks, arguing that",
-            "they do not accurately reflect",
-            "real-world utility.",
-            "Prasad, who leads Amazon\u0027s AI efforts,",
-            "believes that the current obsession with",
-            "leaderboards is misguided and that the",
-            "focus should instead be on practical",
-            "applications and how AI performs in",
-            "actual use cases.",
-            "Instead of chasing higher scores on",
-            "standardized tests, Prasad advocates for",
-            "a more pragmatic approach, emphasizing",
-            "the importance of evaluating AI based on",
-            "its effectiveness in delivering desired",
-            "outcomes in real-world scenarios."
+            "Google is reportedly experimenting with",
+            "replacing original news headlines with",
+            "AI-generated, clickbait-style",
+            "alternatives, potentially to increase",
+            "engagement.",
+            "The core issue highlighted is the",
+            "potential for AI to be used to",
+            "manipulate user perception and drive",
+            "traffic through deceptive means.",
+            "This practice involves Google serving up",
+            "misleading or sensationalized headlines",
+            "that differ significantly from the",
+            "actual content of the articles.",
+            "The author expresses concern that this",
+            "approach could lead to reader",
+            "dissatisfaction and a decline in trust.",
+            "Examples cited include \u0027BG3 players",
+            "exploit children\u0027 and \u0027Qi2 slows older",
+            "Pixels,\u0027 which are designed to be",
+            "attention-grabbing."
           ]
         }
       ],
-      "publishedAt": "2025-12-02T18:00:00.000Z",
-      "ranking": 7.609090909090909,
-      "articleUrl": "https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter"
+      "publishedAt": "2025-12-02T18:14:21.000Z",
+      "ranking": 7.046034947105238,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense"
     },
     {
       "id": "434",
@@ -175,8 +249,44 @@
         }
       ],
       "publishedAt": "2025-12-02T16:00:00.000Z",
-      "ranking": 6.938377546603858,
+      "ranking": 6.574047829124822,
       "articleUrl": "https://venturebeat.com/ai/mistral-launches-mistral-3-a-family-of-open-models-designed-to-run-on"
+    },
+    {
+      "id": "433",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AWS Frontier Agents",
+      "mediumTitle": "AWS Introduces Autonomous AI Agents",
+      "longTitle": "AWS Unveils Frontier Agents for Autonomous Software Development",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AWS has introduced \u0022frontier agents,\u0022 a",
+            "new class of AI systems designed for",
+            "extended autonomous operation without",
+            "human intervention, aiming to automate",
+            "the software development lifecycle.",
+            "Unlike current tools that require",
+            "constant human prompting and lose",
+            "context between tasks, frontier agents",
+            "can independently identify necessary",
+            "code repository changes, work on",
+            "multiple files concurrently, and manage",
+            "complex transformations across numerous",
+            "microservices.",
+            "These frontier agents differentiate",
+            "themselves from existing AI coding tools",
+            "by possessing persistent memory across",
+            "sessions, continuously learning from an",
+            "organization\u0027s codebase, documentation,",
+            "and communications."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T18:30:00.000Z",
+      "ranking": 6.529984232831584,
+      "articleUrl": "https://venturebeat.com/ai/amazons-new-ai-can-code-for-days-without-human-help-what-does-that-mean-for"
     },
     {
       "id": "429",
@@ -208,8 +318,42 @@
         }
       ],
       "publishedAt": "2025-12-02T15:00:00.000Z",
-      "ranking": 6.877714319670049,
+      "ranking": 6.499403123457503,
       "articleUrl": "https://venturebeat.com/ai/ascentra-labs-raises-usd2-million-to-help-consultants-use-ai-instead-of-all"
+    },
+    {
+      "id": "441",
+      "topic": "Model Eval",
+      "source": "The Verge AI",
+      "shortTitle": "AI Benchmarks",
+      "mediumTitle": "Amazon AI Chief on Benchmarks",
+      "longTitle": "Amazon\u0027s AI Chief Urges Shift from Benchmarks to Real-World Utility",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon\u0027s AI chief, Rohit Prasad, is",
+            "urging a shift away from an overemphasis",
+            "on AI model benchmarks, arguing that",
+            "they do not accurately reflect",
+            "real-world utility.",
+            "Prasad, who leads Amazon\u0027s AI efforts,",
+            "believes that the current obsession with",
+            "leaderboards is misguided and that the",
+            "focus should instead be on practical",
+            "applications and how AI performs in",
+            "actual use cases.",
+            "Instead of chasing higher scores on",
+            "standardized tests, Prasad advocates for",
+            "a more pragmatic approach, emphasizing",
+            "the importance of evaluating AI based on",
+            "its effectiveness in delivering desired",
+            "outcomes in real-world scenarios."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T18:00:00.000Z",
+      "ranking": 6.429028998008102,
+      "articleUrl": "https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter"
     },
     {
       "id": "436",
@@ -243,7 +387,7 @@
         }
       ],
       "publishedAt": "2025-12-02T11:11:21.000Z",
-      "ranking": 6.796108867327202,
+      "ranking": 6.3645165805408475,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/836335/anthropic-societal-impacts-team-ai-claude-effects"
     },
     {
@@ -279,7 +423,7 @@
         }
       ],
       "publishedAt": "2025-12-02T06:00:00.000Z",
-      "ranking": 6.770128987367367,
+      "ranking": 6.265984473350227,
       "articleUrl": "https://venturebeat.com/ai/aws-goes-beyond-prompt-level-safety-with-automated-reasoning-in-agentcore"
     },
     {
@@ -316,7 +460,7 @@
         }
       ],
       "publishedAt": "2025-12-02T13:30:00.000Z",
-      "ranking": 6.4593089883189645,
+      "ranking": 6.060025567213423,
       "articleUrl": "https://venturebeat.com/ai/new-training-method-boosts-ai-multimodal-reasoning-with-smaller-smarter"
     },
     {
@@ -353,7 +497,7 @@
         }
       ],
       "publishedAt": "2025-12-02T07:40:07.000Z",
-      "ranking": 6.284356658633074,
+      "ranking": 5.803541794318379,
       "articleUrl": "https://www.theverge.com/news/836212/openai-code-red-chatgpt"
     },
     {
@@ -383,7 +527,7 @@
         }
       ],
       "publishedAt": "2025-12-02T05:00:00.000Z",
-      "ranking": 5.586579190040455,
+      "ranking": 5.068453193892591,
       "articleUrl": "https://venturebeat.com/ai/with-nova-forge-aws-gives-companies-a-path-to-build-foundation-class-models"
     },
     {
@@ -419,7 +563,7 @@
         }
       ],
       "publishedAt": "2025-12-02T04:53:00.000Z",
-      "ranking": 5.38694254400363,
+      "ranking": 4.867185374619715,
       "articleUrl": "https://venturebeat.com/ai/arcee-aims-to-reboot-u-s-open-source-ai-with-new-trinity-models-released"
     },
     {
@@ -454,7 +598,7 @@
         }
       ],
       "publishedAt": "2025-12-02T06:00:00.000Z",
-      "ranking": 5.094442691103506,
+      "ranking": 4.590298174164545,
       "articleUrl": "https://venturebeat.com/ai/with-ai-browsers-creating-fresh-security-and-privacy-concerns-norton-neo-is"
     },
     {
@@ -490,7 +634,7 @@
         }
       ],
       "publishedAt": "2025-12-01T19:12:24.000Z",
-      "ranking": 4.45963808659025,
+      "ranking": 3.8045868034910804,
       "articleUrl": "https://www.theverge.com/news/835453/openai-ownership-thrive-holdings"
     },
     {
@@ -527,7 +671,7 @@
         }
       ],
       "publishedAt": "2025-12-01T18:24:00.000Z",
-      "ranking": 4.3384759436941085,
+      "ranking": 3.672146248851984,
       "articleUrl": "https://venturebeat.com/ai/mit-offshoot-liquid-ai-releases-blueprint-for-enterprise-grade-small-model"
     },
     {
@@ -559,7 +703,7 @@
         }
       ],
       "publishedAt": "2025-12-02T01:53:45.000Z",
-      "ranking": 4.204145312270585,
+      "ranking": 3.642618454724388,
       "articleUrl": "https://www.marktechpost.com/2025/12/01/deepseek-researchers-introduce-deepseek-v3-2-and-deepseek-v3-2-speciale-for-long-context-reasoning-and-agentic-workloads/"
     },
     {
@@ -593,7 +737,7 @@
         }
       ],
       "publishedAt": "2025-12-01T12:22:08.000Z",
-      "ranking": 3.863908722268503,
+      "ranking": 3.1132551655815783,
       "articleUrl": "https://www.theverge.com/news/834905/runway-ai-text-video-generator-launch"
     },
     {
@@ -628,7 +772,7 @@
         }
       ],
       "publishedAt": "2025-12-01T18:39:22.000Z",
-      "ranking": 3.5233971639513015,
+      "ranking": 2.860648274573472,
       "articleUrl": "https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri"
     },
     {
@@ -662,40 +806,8 @@
         }
       ],
       "publishedAt": "2025-12-01T19:45:00.000Z",
-      "ranking": 3.349271351202864,
+      "ranking": 2.7018166457339916,
       "articleUrl": "https://venturebeat.com/ai/deepseek-just-dropped-two-insanely-powerful-ai-models-that-rival-gpt-5-and"
-    },
-    {
-      "id": "424",
-      "topic": "Finance",
-      "source": "VentureBeat AI",
-      "shortTitle": "Tech Value",
-      "mediumTitle": "Financial Intelligence for Tech Value",
-      "longTitle": "Maximizing Technology Value with Financial Intelligence",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Organizations face increasing difficulty",
-            "in making swift and clear investment",
-            "decisions for rapidly evolving",
-            "technologies such as AI and cloud.",
-            "In an era demanding efficient technology",
-            "spend management, financial intelligence",
-            "is indispensable for maximizing budgets",
-            "and ensuring data-driven precision in",
-            "technology investments.",
-            "By unifying financial, operational, and",
-            "business data across the entire",
-            "enterprise, these solutions equip",
-            "leaders with the necessary clarity to",
-            "maximize the value of every technology",
-            "investment."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-01T06:00:00.000Z",
-      "ranking": 2.8811531450073824,
-      "articleUrl": "https://venturebeat.com/ai/capture-the-full-value-of-your-technology-with-financial-intelligence"
     },
     {
       "id": "414",
@@ -726,8 +838,40 @@
         }
       ],
       "publishedAt": "2025-12-01T15:00:00.000Z",
-      "ranking": 2.795418540225846,
+      "ranking": 2.081551810151127,
       "articleUrl": "https://venturebeat.com/ai/openagi-emerges-from-stealth-with-an-ai-agent-that-it-claims-crushes-openai"
+    },
+    {
+      "id": "424",
+      "topic": "Finance",
+      "source": "VentureBeat AI",
+      "shortTitle": "Tech Value",
+      "mediumTitle": "Financial Intelligence for Tech Value",
+      "longTitle": "Maximizing Technology Value with Financial Intelligence",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Organizations face increasing difficulty",
+            "in making swift and clear investment",
+            "decisions for rapidly evolving",
+            "technologies such as AI and cloud.",
+            "In an era demanding efficient technology",
+            "spend management, financial intelligence",
+            "is indispensable for maximizing budgets",
+            "and ensuring data-driven precision in",
+            "technology investments.",
+            "By unifying financial, operational, and",
+            "business data across the entire",
+            "enterprise, these solutions equip",
+            "leaders with the necessary clarity to",
+            "maximize the value of every technology",
+            "investment."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-01T06:00:00.000Z",
+      "ranking": 2.0414530847559833,
+      "articleUrl": "https://venturebeat.com/ai/capture-the-full-value-of-your-technology-with-financial-intelligence"
     },
     {
       "id": "417",
@@ -763,7 +907,7 @@
         }
       ],
       "publishedAt": "2025-12-01T08:00:00.000Z",
-      "ranking": 2.2391697323215105,
+      "ranking": 1.4274326372206652,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/830876/influencers-anti-ai-deepfakes-fandom-economy"
     },
     {
@@ -799,7 +943,7 @@
         }
       ],
       "publishedAt": "2025-12-01T10:00:00.000Z",
-      "ranking": 2.0441168371462552,
+      "ranking": 1.2603426975896737,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/829813/ai-agi-pope-leo"
     },
     {
@@ -835,7 +979,7 @@
         }
       ],
       "publishedAt": "2025-12-01T06:00:00.000Z",
-      "ranking": 1.972146905734255,
+      "ranking": 1.132446846072404,
       "articleUrl": "https://venturebeat.com/ai/agent-coordination-is-the-missing-piece-in-ai-commerce-new-aws-and-visa"
     },
     {
@@ -1403,180 +1547,6 @@
       "publishedAt": "2025-11-27T10:30:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/report/829137/openai-chatgpt-time-date"
-    },
-    {
-      "id": "397",
-      "topic": "Robotics",
-      "source": "The Verge AI",
-      "shortTitle": "Alibaba AI Glasses",
-      "mediumTitle": "Alibaba Launches Quark AI Smart Glasses",
-      "longTitle": "Alibaba Enters Smart Glasses Market with Removable Battery Quark AI Headsets",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Alibaba, the Chinese tech giant, has",
-            "officially entered the competitive arena",
-            "of AI-powered smart glasses with the",
-            "launch of its Quark headsets in China.",
-            "A key distinguishing feature of",
-            "Alibaba\u0027s Quark glasses, setting them",
-            "apart from many existing competitors, is",
-            "the inclusion of removable batteries.",
-            "This design choice addresses a common",
-            "limitation of current smart glasses,",
-            "which often suffer from short battery",
-            "life and the inconvenience of lengthy",
-            "recharging periods.",
-            "By allowing users to swap out batteries,",
-            "Alibaba aims to enable \u0022all-day usage,\u0022",
-            "a crucial factor for widespread adoption",
-            "and practical application of smart",
-            "glasses."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-27T09:07:54.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/831354/alibaba-quark-smart-glasses"
-    },
-    {
-      "id": "395",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "SeekDB AI DB",
-      "mediumTitle": "OceanBase\u0027s AI-Native Search Database",
-      "longTitle": "OceanBase Releases SeekDB: An Open-Source AI-Native Hybrid Search Database",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OceanBase has released seekdb, an",
-            "open-source, AI-native hybrid search",
-            "database designed to address the",
-            "complexities of modern AI applications.",
-            "The core problem seekdb aims to solve is",
-            "that AI applications often need to",
-            "manage and query diverse data types",
-            "simultaneously, including structured",
-            "user profiles, unstructured chat logs,",
-            "JSON metadata, vector embeddings, and",
-            "potentially spatial data.",
-            "seekdb is positioned as a unified",
-            "solution that integrates these",
-            "capabilities into a single database.",
-            "By offering a single, cohesive database,",
-            "seekdb aims to simplify the development",
-            "and deployment of AI applications."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-27T08:44:01.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/26/oceanbase-releases-seekdb-an-open-source-ai-native-hybrid-search-database-for-multi-model-rag-and-ai-agents/"
-    },
-    {
-      "id": "398",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Shopping Lag",
-      "mediumTitle": "AI Shopping Assistants Struggle with Current Products",
-      "longTitle": "AI Shopping Assistants Lag Behind Rapid Product Releases",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AI shopping assistants are currently",
-            "struggling to recommend up-to-date",
-            "products, especially in consumer",
-            "electronics.",
-            "The author\u0027s search for a new smartwatch",
-            "highlighted this issue, where AI",
-            "assistants failed to recommend current",
-            "models.",
-            "Despite having specific, recently",
-            "released models in mind, such as the",
-            "Google Pixel Watch 4 or the Garmin",
-            "Vivoactive 6, the AI assistants",
-            "consistently suggested older models from",
-            "a couple of years prior.",
-            "This indicates a significant lag in the",
-            "AI\u0027s knowledge base or its ability to",
-            "access and process up-to-date product",
-            "information."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-27T08:30:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/830450/ai-shopping-assistants-are-stuck-in-the-past"
-    },
-    {
-      "id": "394",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Suicide Lawsuit",
-      "mediumTitle": "OpenAI Responds to Suicide Lawsuit",
-      "longTitle": "OpenAI Denies Liability in Lawsuit Over Teen\u0027s Suicide",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has filed a response to a lawsuit",
-            "brought by the family of Adam Raine, a",
-            "16-year-old who died by suicide.",
-            "In their legal filing, OpenAI denies",
-            "liability, attributing the tragic",
-            "outcome to Raine\u0027s \u0022misuse, unauthorized",
-            "use, unintended use, unforeseeable use,",
-            "and/or improper use of ChatGPT.\u0022",
-            "The Raine family alleges that their",
-            "son\u0027s prolonged discussions with ChatGPT",
-            "about his suicidal ideations contributed",
-            "to his death.",
-            "The family contends that the AI\u0027s",
-            "responses were harmful and that OpenAI",
-            "should be held responsible for the",
-            "foreseeable consequences of its",
-            "product\u0027s interactions with vulnerable",
-            "users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-26T20:43:44.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/831207/openai-chatgpt-lawsuit-parental-controls-tos"
-    },
-    {
-      "id": "393",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "HunyuanOCR",
-      "mediumTitle": "Tencent Hunyuan\u0027s OCR Model",
-      "longTitle": "Tencent Hunyuan Introduces HunyuanOCR for Document Understanding",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Tencent Hunyuan has introduced",
-            "HunyuanOCR, a specialized",
-            "vision-language model (VLM) with 1",
-            "billion parameters, designed for Optical",
-            "Character Recognition (OCR) and document",
-            "understanding.",
-            "These capabilities include text",
-            "spotting, parsing, and information",
-            "extraction.",
-            "This model leverages Hunyuan\u0027s native",
-            "multimodal architecture to perform a",
-            "range of tasks within a single,",
-            "end-to-end pipeline.",
-            "Its end-to-end pipeline simplifies the",
-            "workflow for document processing tasks.",
-            "The integration of multiple OCR and",
-            "understanding functions into one model",
-            "streamlines operations."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-26T20:07:34.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/26/tencent-hunyuan-releases-hunyuanocr-a-1b-parameter-end-to-end-ocr-expert-vlm/"
     }
   ]
 }
