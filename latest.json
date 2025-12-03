@@ -38,73 +38,6 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense"
     },
     {
-      "id": "429",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Ascentra Labs Funding",
-      "mediumTitle": "Ascentra Labs Secures Funding for AI in Consulting",
-      "longTitle": "Ascentra Labs raises $2M to automate consulting tasks with AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Ascentra Labs, a startup founded by",
-            "former McKinsey consultants, has secured",
-            "$2 million in seed funding led by NAP",
-            "(formerly Cavalry Ventures) to address",
-            "the manual nature of the global",
-            "consulting industry, which remains",
-            "largely analog despite AI advancements",
-            "in other sectors.",
-            "While using OpenAI\u0027s GPT models for data",
-            "interpretation, the core analysis is",
-            "performed by deterministic Python",
-            "scripts, ensuring verifiable outputs and",
-            "eliminating AI \u0022hallucinations.\u0022",
-            "This hybrid model aims to provide the",
-            "assurance consultants need when dealing",
-            "with quantitative data."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T15:00:00.000Z",
-      "ranking": 7.966666666666665,
-      "articleUrl": "https://venturebeat.com/ai/ascentra-labs-raises-usd2-million-to-help-consultants-use-ai-instead-of-all"
-    },
-    {
-      "id": "434",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Mistral 3 AI Launch",
-      "mediumTitle": "Mistral AI Releases Open-Source Mistral 3",
-      "longTitle": "Mistral AI Launches Mistral 3: Open-Source Models for Distributed Intelligence",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Mistral AI, a prominent European AI",
-            "startup, has launched Mistral 3, a",
-            "family of 10 open-source models designed",
-            "for broad deployment across various",
-            "devices, from laptops and drones to",
-            "enterprise cloud systems.",
-            "This release marks a significant",
-            "challenge to U.S. tech giants and",
-            "Chinese competitors by offering models",
-            "under the permissive Apache 2.0 license,",
-            "allowing unrestricted commercial use.",
-            "Mistral\u0027s strategy prioritizes",
-            "flexibility, efficiency, and",
-            "\u0027distributed intelligence\u0027 over the",
-            "pursuit of ever-larger proprietary",
-            "systems, aiming to empower businesses",
-            "with customizable AI solutions."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T16:00:00.000Z",
-      "ranking": 7.9421052631578934,
-      "articleUrl": "https://venturebeat.com/ai/mistral-launches-mistral-3-a-family-of-open-models-designed-to-run-on"
-    },
-    {
       "id": "442",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -140,43 +73,6 @@
       "publishedAt": "2025-12-03T03:26:56.000Z",
       "ranking": 7.835714285714285,
       "articleUrl": "https://www.marktechpost.com/2025/12/02/nvidia-and-mistral-ai-bring-10x-faster-inference-for-the-mistral-3-family-on-gb200-nvl72-gpu-systems/"
-    },
-    {
-      "id": "439",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "OpenMMReasoner",
-      "mediumTitle": "OpenMMReasoner: Multimodal Reasoning Framework",
-      "longTitle": "OpenMMReasoner: Enhancing Multimodal Reasoning with Open-Source Framework",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenMMReasoner is a novel training",
-            "framework developed by researchers from",
-            "MiroMind AI and several Chinese",
-            "universities, designed to enhance the",
-            "multimodal reasoning capabilities of",
-            "language models.",
-            "This framework employs a two-stage",
-            "process: a supervised fine-tuning (SFT)",
-            "stage using a curated, high-quality",
-            "dataset, followed by a reinforcement",
-            "learning (RL) stage that guides the",
-            "model towards more effective reasoning",
-            "with both text and visual data.",
-            "A significant advantage of",
-            "OpenMMReasoner is its emphasis on",
-            "smaller, smarter datasets.",
-            "Experiments demonstrate that models",
-            "trained with this framework outperform",
-            "existing leading visual reasoning",
-            "models, often with less training data."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T13:30:00.000Z",
-      "ranking": 7.682608695652173,
-      "articleUrl": "https://venturebeat.com/ai/new-training-method-boosts-ai-multimodal-reasoning-with-smaller-smarter"
     },
     {
       "id": "433",
@@ -249,40 +145,71 @@
       "articleUrl": "https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter"
     },
     {
-      "id": "435",
-      "topic": "Policy",
+      "id": "434",
+      "topic": "Large Models",
       "source": "VentureBeat AI",
-      "shortTitle": "AWS Bedrock Agents",
-      "mediumTitle": "AWS Bedrock AgentCore Enhancements",
-      "longTitle": "AWS Bedrock AgentCore Adds Reasoning, Memory, and Frontier Agents",
+      "shortTitle": "Mistral 3 AI Launch",
+      "mediumTitle": "Mistral AI Releases Open-Source Mistral 3",
+      "longTitle": "Mistral AI Launches Mistral 3: Open-Source Models for Distributed Intelligence",
       "paragraphs": [
         {
           "Lines": [
-            "AWS is also introducing \u0022frontier",
-            "agents,\u0022 a new class of autonomous,",
-            "scalable, and independent agents",
-            "designed to handle complex projects.",
-            "AWS\u0027s most significant advancement is",
-            "the introduction of \u0022frontier agents,\u0022",
-            "described as a \u0022new class\u0022 of agents",
-            "that are fully automated and",
-            "independent.",
-            "These frontier agents are capable of",
-            "acting as teammates with minimal",
-            "direction and moving beyond assisting",
-            "with individual tasks to tackling",
-            "complex projects.",
-            "AWS is enhancing its Amazon Bedrock",
-            "AgentCore platform with new capabilities",
-            "focused on automated reasoning to",
-            "improve agent control, performance, and",
-            "safety for enterprises."
+            "Mistral AI, a prominent European AI",
+            "startup, has launched Mistral 3, a",
+            "family of 10 open-source models designed",
+            "for broad deployment across various",
+            "devices, from laptops and drones to",
+            "enterprise cloud systems.",
+            "This release marks a significant",
+            "challenge to U.S. tech giants and",
+            "Chinese competitors by offering models",
+            "under the permissive Apache 2.0 license,",
+            "allowing unrestricted commercial use.",
+            "Mistral\u0027s strategy prioritizes",
+            "flexibility, efficiency, and",
+            "\u0027distributed intelligence\u0027 over the",
+            "pursuit of ever-larger proprietary",
+            "systems, aiming to empower businesses",
+            "with customizable AI solutions."
           ]
         }
       ],
-      "publishedAt": "2025-12-02T06:00:00.000Z",
-      "ranking": 7.214981753143043,
-      "articleUrl": "https://venturebeat.com/ai/aws-goes-beyond-prompt-level-safety-with-automated-reasoning-in-agentcore"
+      "publishedAt": "2025-12-02T16:00:00.000Z",
+      "ranking": 6.938377546603858,
+      "articleUrl": "https://venturebeat.com/ai/mistral-launches-mistral-3-a-family-of-open-models-designed-to-run-on"
+    },
+    {
+      "id": "429",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Ascentra Labs Funding",
+      "mediumTitle": "Ascentra Labs Secures Funding for AI in Consulting",
+      "longTitle": "Ascentra Labs raises $2M to automate consulting tasks with AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Ascentra Labs, a startup founded by",
+            "former McKinsey consultants, has secured",
+            "$2 million in seed funding led by NAP",
+            "(formerly Cavalry Ventures) to address",
+            "the manual nature of the global",
+            "consulting industry, which remains",
+            "largely analog despite AI advancements",
+            "in other sectors.",
+            "While using OpenAI\u0027s GPT models for data",
+            "interpretation, the core analysis is",
+            "performed by deterministic Python",
+            "scripts, ensuring verifiable outputs and",
+            "eliminating AI \u0022hallucinations.\u0022",
+            "This hybrid model aims to provide the",
+            "assurance consultants need when dealing",
+            "with quantitative data."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T15:00:00.000Z",
+      "ranking": 6.877714319670049,
+      "articleUrl": "https://venturebeat.com/ai/ascentra-labs-raises-usd2-million-to-help-consultants-use-ai-instead-of-all"
     },
     {
       "id": "436",
@@ -316,8 +243,81 @@
         }
       ],
       "publishedAt": "2025-12-02T11:11:21.000Z",
-      "ranking": 7.1689265482302975,
+      "ranking": 6.796108867327202,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/836335/anthropic-societal-impacts-team-ai-claude-effects"
+    },
+    {
+      "id": "435",
+      "topic": "Policy",
+      "source": "VentureBeat AI",
+      "shortTitle": "AWS Bedrock Agents",
+      "mediumTitle": "AWS Bedrock AgentCore Enhancements",
+      "longTitle": "AWS Bedrock AgentCore Adds Reasoning, Memory, and Frontier Agents",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AWS is also introducing \u0022frontier",
+            "agents,\u0022 a new class of autonomous,",
+            "scalable, and independent agents",
+            "designed to handle complex projects.",
+            "AWS\u0027s most significant advancement is",
+            "the introduction of \u0022frontier agents,\u0022",
+            "described as a \u0022new class\u0022 of agents",
+            "that are fully automated and",
+            "independent.",
+            "These frontier agents are capable of",
+            "acting as teammates with minimal",
+            "direction and moving beyond assisting",
+            "with individual tasks to tackling",
+            "complex projects.",
+            "AWS is enhancing its Amazon Bedrock",
+            "AgentCore platform with new capabilities",
+            "focused on automated reasoning to",
+            "improve agent control, performance, and",
+            "safety for enterprises."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T06:00:00.000Z",
+      "ranking": 6.770128987367367,
+      "articleUrl": "https://venturebeat.com/ai/aws-goes-beyond-prompt-level-safety-with-automated-reasoning-in-agentcore"
+    },
+    {
+      "id": "439",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "OpenMMReasoner",
+      "mediumTitle": "OpenMMReasoner: Multimodal Reasoning Framework",
+      "longTitle": "OpenMMReasoner: Enhancing Multimodal Reasoning with Open-Source Framework",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenMMReasoner is a novel training",
+            "framework developed by researchers from",
+            "MiroMind AI and several Chinese",
+            "universities, designed to enhance the",
+            "multimodal reasoning capabilities of",
+            "language models.",
+            "This framework employs a two-stage",
+            "process: a supervised fine-tuning (SFT)",
+            "stage using a curated, high-quality",
+            "dataset, followed by a reinforcement",
+            "learning (RL) stage that guides the",
+            "model towards more effective reasoning",
+            "with both text and visual data.",
+            "A significant advantage of",
+            "OpenMMReasoner is its emphasis on",
+            "smaller, smarter datasets.",
+            "Experiments demonstrate that models",
+            "trained with this framework outperform",
+            "existing leading visual reasoning",
+            "models, often with less training data."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T13:30:00.000Z",
+      "ranking": 6.4593089883189645,
+      "articleUrl": "https://venturebeat.com/ai/new-training-method-boosts-ai-multimodal-reasoning-with-smaller-smarter"
     },
     {
       "id": "431",
@@ -353,7 +353,7 @@
         }
       ],
       "publishedAt": "2025-12-02T07:40:07.000Z",
-      "ranking": 6.706046065002489,
+      "ranking": 6.284356658633074,
       "articleUrl": "https://www.theverge.com/news/836212/openai-code-red-chatgpt"
     },
     {
@@ -383,7 +383,7 @@
         }
       ],
       "publishedAt": "2025-12-02T05:00:00.000Z",
-      "ranking": 6.045313775781141,
+      "ranking": 5.586579190040455,
       "articleUrl": "https://venturebeat.com/ai/with-nova-forge-aws-gives-companies-a-path-to-build-foundation-class-models"
     },
     {
@@ -419,7 +419,7 @@
         }
       ],
       "publishedAt": "2025-12-02T04:53:00.000Z",
-      "ranking": 5.847296675455048,
+      "ranking": 5.38694254400363,
       "articleUrl": "https://venturebeat.com/ai/arcee-aims-to-reboot-u-s-open-source-ai-with-new-trinity-models-released"
     },
     {
@@ -454,7 +454,7 @@
         }
       ],
       "publishedAt": "2025-12-02T06:00:00.000Z",
-      "ranking": 5.539295457567493,
+      "ranking": 5.094442691103506,
       "articleUrl": "https://venturebeat.com/ai/with-ai-browsers-creating-fresh-security-and-privacy-concerns-norton-neo-is"
     },
     {
@@ -490,7 +490,7 @@
         }
       ],
       "publishedAt": "2025-12-01T19:12:24.000Z",
-      "ranking": 5.054321963365437,
+      "ranking": 4.45963808659025,
       "articleUrl": "https://www.theverge.com/news/835453/openai-ownership-thrive-holdings"
     },
     {
@@ -527,7 +527,7 @@
         }
       ],
       "publishedAt": "2025-12-01T18:24:00.000Z",
-      "ranking": 4.9443578207394925,
+      "ranking": 4.3384759436941085,
       "articleUrl": "https://venturebeat.com/ai/mit-offshoot-liquid-ai-releases-blueprint-for-enterprise-grade-small-model"
     },
     {
@@ -559,7 +559,7 @@
         }
       ],
       "publishedAt": "2025-12-02T01:53:45.000Z",
-      "ranking": 4.705971380741715,
+      "ranking": 4.204145312270585,
       "articleUrl": "https://www.marktechpost.com/2025/12/01/deepseek-researchers-introduce-deepseek-v3-2-and-deepseek-v3-2-speciale-for-long-context-reasoning-and-agentic-workloads/"
     },
     {
@@ -593,7 +593,7 @@
         }
       ],
       "publishedAt": "2025-12-01T12:22:08.000Z",
-      "ranking": 4.553513396747931,
+      "ranking": 3.863908722268503,
       "articleUrl": "https://www.theverge.com/news/834905/runway-ai-text-video-generator-launch"
     },
     {
@@ -628,7 +628,7 @@
         }
       ],
       "publishedAt": "2025-12-01T18:39:22.000Z",
-      "ranking": 4.1257237473648285,
+      "ranking": 3.5233971639513015,
       "articleUrl": "https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri"
     },
     {
@@ -662,7 +662,7 @@
         }
       ],
       "publishedAt": "2025-12-01T19:45:00.000Z",
-      "ranking": 3.9364127652655947,
+      "ranking": 3.349271351202864,
       "articleUrl": "https://venturebeat.com/ai/deepseek-just-dropped-two-insanely-powerful-ai-models-that-rival-gpt-5-and"
     },
     {
@@ -694,7 +694,7 @@
         }
       ],
       "publishedAt": "2025-12-01T06:00:00.000Z",
-      "ranking": 3.6591695794953063,
+      "ranking": 2.8811531450073824,
       "articleUrl": "https://venturebeat.com/ai/capture-the-full-value-of-your-technology-with-financial-intelligence"
     },
     {
@@ -726,7 +726,7 @@
         }
       ],
       "publishedAt": "2025-12-01T15:00:00.000Z",
-      "ranking": 3.4484985976552562,
+      "ranking": 2.795418540225846,
       "articleUrl": "https://venturebeat.com/ai/openagi-emerges-from-stealth-with-an-ai-agent-that-it-claims-crushes-openai"
     },
     {
@@ -763,7 +763,7 @@
         }
       ],
       "publishedAt": "2025-12-01T08:00:00.000Z",
-      "ranking": 2.989422525335459,
+      "ranking": 2.2391697323215105,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/830876/influencers-anti-ai-deepfakes-fandom-economy"
     },
     {
@@ -799,7 +799,7 @@
         }
       ],
       "publishedAt": "2025-12-01T10:00:00.000Z",
-      "ranking": 2.76660599097887,
+      "ranking": 2.0441168371462552,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/829813/ai-agi-pope-leo"
     },
     {
@@ -835,7 +835,7 @@
         }
       ],
       "publishedAt": "2025-12-01T06:00:00.000Z",
-      "ranking": 2.7501633381067725,
+      "ranking": 1.972146905734255,
       "articleUrl": "https://venturebeat.com/ai/agent-coordination-is-the-missing-piece-in-ai-commerce-new-aws-and-visa"
     },
     {
@@ -872,7 +872,7 @@
         }
       ],
       "publishedAt": "2025-11-30T19:17:08.000Z",
-      "ranking": 0.7010865853023507,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage"
     },
     {
@@ -909,7 +909,7 @@
         }
       ],
       "publishedAt": "2025-11-30T17:00:00.000Z",
-      "ranking": 0.4163109711569426,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/security/hybrid-cloud-security-reinvented-ai-era"
     },
     {
