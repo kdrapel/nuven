@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "id": "435",
-      "topic": "Policy",
-      "source": "VentureBeat AI",
-      "shortTitle": "AWS Bedrock Agents",
-      "mediumTitle": "AWS Bedrock AgentCore Enhancements",
-      "longTitle": "AWS Bedrock AgentCore Adds Reasoning, Memory, and Frontier Agents",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AWS is also introducing \u0022frontier",
-            "agents,\u0022 a new class of autonomous,",
-            "scalable, and independent agents",
-            "designed to handle complex projects.",
-            "AWS\u0027s most significant advancement is",
-            "the introduction of \u0022frontier agents,\u0022",
-            "described as a \u0022new class\u0022 of agents",
-            "that are fully automated and",
-            "independent.",
-            "These frontier agents are capable of",
-            "acting as teammates with minimal",
-            "direction and moving beyond assisting",
-            "with individual tasks to tackling",
-            "complex projects.",
-            "AWS is enhancing its Amazon Bedrock",
-            "AgentCore platform with new capabilities",
-            "focused on automated reasoning to",
-            "improve agent control, performance, and",
-            "safety for enterprises."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T06:00:00.000Z",
-      "ranking": 8.78235294117647,
-      "articleUrl": "https://venturebeat.com/ai/aws-goes-beyond-prompt-level-safety-with-automated-reasoning-in-agentcore"
-    },
-    {
       "id": "436",
       "topic": "Safety",
       "source": "The Verge AI",
@@ -107,43 +71,6 @@
       "publishedAt": "2025-12-02T18:14:21.000Z",
       "ranking": 8.204545454545455,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense"
-    },
-    {
-      "id": "431",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI Code Red",
-      "mediumTitle": "OpenAI Declares Code Red Amidst AI Race",
-      "longTitle": "OpenAI Issues Code Red Alert Due to Intense AI Competition",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has declared a \u0022code red\u0022 due to",
-            "increasing pressure from competitors,",
-            "particularly Google, in the artificial",
-            "intelligence race.",
-            "This internal alert, reportedly issued",
-            "by CEO Sam Altman, signals a need for",
-            "urgent improvements to their flagship",
-            "product, ChatGPT.",
-            "This integration allows Bard to access",
-            "real-time information, a feature that",
-            "ChatGPT currently lacks.",
-            "The move suggests that OpenAI\u0027s",
-            "previously dominant position in the AI",
-            "landscape is diminishing as rivals like",
-            "Google and Anthropic rapidly advance",
-            "their own AI capabilities.",
-            "This real-time access is a crucial",
-            "advantage, enabling Bard to provide more",
-            "up-to-date and relevant responses to",
-            "user queries."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T07:40:07.000Z",
-      "ranking": 8.104166666666666,
-      "articleUrl": "https://www.theverge.com/news/836212/openai-code-red-chatgpt"
     },
     {
       "id": "429",
@@ -248,36 +175,6 @@
       "publishedAt": "2025-12-03T03:26:56.000Z",
       "ranking": 7.835714285714285,
       "articleUrl": "https://www.marktechpost.com/2025/12/02/nvidia-and-mistral-ai-bring-10x-faster-inference-for-the-mistral-3-family-on-gb200-nvl72-gpu-systems/"
-    },
-    {
-      "id": "437",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "AWS Nova Forge",
-      "mediumTitle": "AWS Nova Forge for Custom AI",
-      "longTitle": "AWS Launches Nova Forge for Custom AI Model Creation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AWS has launched Nova Forge, a new",
-            "service designed to empower enterprises",
-            "to build custom foundation-class AI",
-            "models without requiring significant GPU",
-            "resources, as part of a strategy to meet",
-            "the growing demand for personalized AI",
-            "solutions.",
-            "The Nova Forge service allows businesses",
-            "to create customized versions of AWS\u0027s",
-            "Nova models, referred to as \u0027Novellas,\u0027",
-            "through a process called \u0027open",
-            "training,\u0027 where proprietary data is",
-            "blended with Amazon-curated datasets."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T05:00:00.000Z",
-      "ranking": 7.71875,
-      "articleUrl": "https://venturebeat.com/ai/with-nova-forge-aws-gives-companies-a-path-to-build-foundation-class-models"
     },
     {
       "id": "439",
@@ -387,6 +284,109 @@
       "articleUrl": "https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter"
     },
     {
+      "id": "435",
+      "topic": "Policy",
+      "source": "VentureBeat AI",
+      "shortTitle": "AWS Bedrock Agents",
+      "mediumTitle": "AWS Bedrock AgentCore Enhancements",
+      "longTitle": "AWS Bedrock AgentCore Adds Reasoning, Memory, and Frontier Agents",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AWS is also introducing \u0022frontier",
+            "agents,\u0022 a new class of autonomous,",
+            "scalable, and independent agents",
+            "designed to handle complex projects.",
+            "AWS\u0027s most significant advancement is",
+            "the introduction of \u0022frontier agents,\u0022",
+            "described as a \u0022new class\u0022 of agents",
+            "that are fully automated and",
+            "independent.",
+            "These frontier agents are capable of",
+            "acting as teammates with minimal",
+            "direction and moving beyond assisting",
+            "with individual tasks to tackling",
+            "complex projects.",
+            "AWS is enhancing its Amazon Bedrock",
+            "AgentCore platform with new capabilities",
+            "focused on automated reasoning to",
+            "improve agent control, performance, and",
+            "safety for enterprises."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T06:00:00.000Z",
+      "ranking": 7.604862251303945,
+      "articleUrl": "https://venturebeat.com/ai/aws-goes-beyond-prompt-level-safety-with-automated-reasoning-in-agentcore"
+    },
+    {
+      "id": "431",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI Code Red",
+      "mediumTitle": "OpenAI Declares Code Red Amidst AI Race",
+      "longTitle": "OpenAI Issues Code Red Alert Due to Intense AI Competition",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has declared a \u0022code red\u0022 due to",
+            "increasing pressure from competitors,",
+            "particularly Google, in the artificial",
+            "intelligence race.",
+            "This internal alert, reportedly issued",
+            "by CEO Sam Altman, signals a need for",
+            "urgent improvements to their flagship",
+            "product, ChatGPT.",
+            "This integration allows Bard to access",
+            "real-time information, a feature that",
+            "ChatGPT currently lacks.",
+            "The move suggests that OpenAI\u0027s",
+            "previously dominant position in the AI",
+            "landscape is diminishing as rivals like",
+            "Google and Anthropic rapidly advance",
+            "their own AI capabilities.",
+            "This real-time access is a crucial",
+            "advantage, enabling Bard to provide more",
+            "up-to-date and relevant responses to",
+            "user queries."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T07:40:07.000Z",
+      "ranking": 7.072729462140906,
+      "articleUrl": "https://www.theverge.com/news/836212/openai-code-red-chatgpt"
+    },
+    {
+      "id": "437",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "AWS Nova Forge",
+      "mediumTitle": "AWS Nova Forge for Custom AI",
+      "longTitle": "AWS Launches Nova Forge for Custom AI Model Creation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AWS has launched Nova Forge, a new",
+            "service designed to empower enterprises",
+            "to build custom foundation-class AI",
+            "models without requiring significant GPU",
+            "resources, as part of a strategy to meet",
+            "the growing demand for personalized AI",
+            "solutions.",
+            "The Nova Forge service allows businesses",
+            "to create customized versions of AWS\u0027s",
+            "Nova models, referred to as \u0027Novellas,\u0027",
+            "through a process called \u0027open",
+            "training,\u0027 where proprietary data is",
+            "blended with Amazon-curated datasets."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T05:00:00.000Z",
+      "ranking": 6.449096322676187,
+      "articleUrl": "https://venturebeat.com/ai/with-nova-forge-aws-gives-companies-a-path-to-build-foundation-class-models"
+    },
+    {
       "id": "428",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -419,7 +419,7 @@
         }
       ],
       "publishedAt": "2025-12-02T04:53:00.000Z",
-      "ranking": 7.533333333333334,
+      "ranking": 6.252701128255292,
       "articleUrl": "https://venturebeat.com/ai/arcee-aims-to-reboot-u-s-open-source-ai-with-new-trinity-models-released"
     },
     {
@@ -454,7 +454,7 @@
         }
       ],
       "publishedAt": "2025-12-02T06:00:00.000Z",
-      "ranking": 7.1066666666666665,
+      "ranking": 5.929175961881245,
       "articleUrl": "https://venturebeat.com/ai/with-ai-browsers-creating-fresh-security-and-privacy-concerns-norton-neo-is"
     },
     {
@@ -490,7 +490,7 @@
         }
       ],
       "publishedAt": "2025-12-01T19:12:24.000Z",
-      "ranking": 6.07546518681014,
+      "ranking": 5.594251852462882,
       "articleUrl": "https://www.theverge.com/news/835453/openai-ownership-thrive-holdings"
     },
     {
@@ -527,7 +527,7 @@
         }
       ],
       "publishedAt": "2025-12-01T18:24:00.000Z",
-      "ranking": 5.9878546314506815,
+      "ranking": 5.495502022891073,
       "articleUrl": "https://venturebeat.com/ai/mit-offshoot-liquid-ai-releases-blueprint-for-enterprise-grade-small-model"
     },
     {
@@ -561,7 +561,7 @@
         }
       ],
       "publishedAt": "2025-12-01T12:22:08.000Z",
-      "ranking": 5.76413867149641,
+      "ranking": 5.188502375773089,
       "articleUrl": "https://www.theverge.com/news/834905/runway-ai-text-video-generator-launch"
     },
     {
@@ -593,7 +593,7 @@
         }
       ],
       "publishedAt": "2025-12-02T01:53:45.000Z",
-      "ranking": 5.541750732111427,
+      "ranking": 5.152908176667704,
       "articleUrl": "https://www.marktechpost.com/2025/12/01/deepseek-researchers-introduce-deepseek-v3-2-and-deepseek-v3-2-speciale-for-long-context-reasoning-and-agentic-workloads/"
     },
     {
@@ -628,40 +628,8 @@
         }
       ],
       "publishedAt": "2025-12-01T18:39:22.000Z",
-      "ranking": 5.162123456200686,
+      "ranking": 4.673307488412892,
       "articleUrl": "https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri"
-    },
-    {
-      "id": "424",
-      "topic": "Finance",
-      "source": "VentureBeat AI",
-      "shortTitle": "Tech Value",
-      "mediumTitle": "Financial Intelligence for Tech Value",
-      "longTitle": "Maximizing Technology Value with Financial Intelligence",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Organizations face increasing difficulty",
-            "in making swift and clear investment",
-            "decisions for rapidly evolving",
-            "technologies such as AI and cloud.",
-            "In an era demanding efficient technology",
-            "spend management, financial intelligence",
-            "is indispensable for maximizing budgets",
-            "and ensuring data-driven precision in",
-            "technology investments.",
-            "By unifying financial, operational, and",
-            "business data across the entire",
-            "enterprise, these solutions equip",
-            "leaders with the necessary clarity to",
-            "maximize the value of every technology",
-            "investment."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-01T06:00:00.000Z",
-      "ranking": 5.046283499977068,
-      "articleUrl": "https://venturebeat.com/ai/capture-the-full-value-of-your-technology-with-financial-intelligence"
     },
     {
       "id": "418",
@@ -694,8 +662,40 @@
         }
       ],
       "publishedAt": "2025-12-01T19:45:00.000Z",
-      "ranking": 4.942499655566073,
+      "ranking": 4.468789216746233,
       "articleUrl": "https://venturebeat.com/ai/deepseek-just-dropped-two-insanely-powerful-ai-models-that-rival-gpt-5-and"
+    },
+    {
+      "id": "424",
+      "topic": "Finance",
+      "source": "VentureBeat AI",
+      "shortTitle": "Tech Value",
+      "mediumTitle": "Financial Intelligence for Tech Value",
+      "longTitle": "Maximizing Technology Value with Financial Intelligence",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Organizations face increasing difficulty",
+            "in making swift and clear investment",
+            "decisions for rapidly evolving",
+            "technologies such as AI and cloud.",
+            "In an era demanding efficient technology",
+            "spend management, financial intelligence",
+            "is indispensable for maximizing budgets",
+            "and ensuring data-driven precision in",
+            "technology investments.",
+            "By unifying financial, operational, and",
+            "business data across the entire",
+            "enterprise, these solutions equip",
+            "leaders with the necessary clarity to",
+            "maximize the value of every technology",
+            "investment."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-01T06:00:00.000Z",
+      "ranking": 4.38269913565486,
+      "articleUrl": "https://venturebeat.com/ai/capture-the-full-value-of-your-technology-with-financial-intelligence"
     },
     {
       "id": "414",
@@ -726,7 +726,7 @@
         }
       ],
       "publishedAt": "2025-12-01T15:00:00.000Z",
-      "ranking": 4.586213008983558,
+      "ranking": 4.046909758738024,
       "articleUrl": "https://venturebeat.com/ai/openagi-emerges-from-stealth-with-an-ai-agent-that-it-claims-crushes-openai"
     },
     {
@@ -762,7 +762,7 @@
         }
       ],
       "publishedAt": "2025-12-01T06:00:00.000Z",
-      "ranking": 4.1372772700204505,
+      "ranking": 3.473692910815254,
       "articleUrl": "https://venturebeat.com/ai/agent-coordination-is-the-missing-piece-in-ai-commerce-new-aws-and-visa"
     },
     {
@@ -798,7 +798,7 @@
         }
       ],
       "publishedAt": "2025-12-01T10:00:00.000Z",
-      "ranking": 4.042875685842646,
+      "ranking": 3.4345273756382264,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/829813/ai-agi-pope-leo"
     },
     {
@@ -835,7 +835,7 @@
         }
       ],
       "publishedAt": "2025-11-30T19:17:08.000Z",
-      "ranking": 2.3851090827573076,
+      "ranking": 1.573568832542902,
       "articleUrl": "https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage"
     },
     {
@@ -872,7 +872,7 @@
         }
       ],
       "publishedAt": "2025-11-30T17:00:00.000Z",
-      "ranking": 2.1636686285811537,
+      "ranking": 1.3205671112510258,
       "articleUrl": "https://venturebeat.com/security/hybrid-cloud-security-reinvented-ai-era"
     },
     {
@@ -907,7 +907,7 @@
         }
       ],
       "publishedAt": "2025-11-30T10:49:00.000Z",
-      "ranking": 0.13981224720201002,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/30/meta-ai-researchers-introduce-matrix-a-ray-native-a-decentralized-framework-for-multi-agent-synthetic-data-generation/"
     },
     {
