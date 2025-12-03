@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "id": "436",
-      "topic": "Safety",
-      "source": "The Verge AI",
-      "shortTitle": "AI Safety Focus",
-      "mediumTitle": "AI Researchers Tackle Safety Concerns",
-      "longTitle": "AI Researchers Actively Working to Prevent AI Risks",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Ensuring AI safety is not an",
-            "afterthought but a critical and ongoing",
-            "responsibility for those at the",
-            "forefront of AI development.",
-            "The article underscores the importance",
-            "of research into AI alignment, ensuring",
-            "AI systems pursue goals aligned with",
-            "human values and intentions.",
-            "In essence, AI researchers are aware of",
-            "their technologies\u0027 power and are",
-            "building safeguards against negative",
-            "outcomes to steer AI development towards",
-            "benefiting humanity.",
-            "The article discusses the growing",
-            "concerns and efforts within the AI",
-            "research community to ensure the safe",
-            "and beneficial development of artificial",
-            "intelligence."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T11:11:21.000Z",
-      "ranking": 8.241666666666667,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/836335/anthropic-societal-impacts-team-ai-claude-effects"
-    },
-    {
       "id": "440",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -316,8 +281,43 @@
         }
       ],
       "publishedAt": "2025-12-02T06:00:00.000Z",
-      "ranking": 7.604862251303945,
+      "ranking": 7.214981753143043,
       "articleUrl": "https://venturebeat.com/ai/aws-goes-beyond-prompt-level-safety-with-automated-reasoning-in-agentcore"
+    },
+    {
+      "id": "436",
+      "topic": "Safety",
+      "source": "The Verge AI",
+      "shortTitle": "AI Safety Focus",
+      "mediumTitle": "AI Researchers Tackle Safety Concerns",
+      "longTitle": "AI Researchers Actively Working to Prevent AI Risks",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Ensuring AI safety is not an",
+            "afterthought but a critical and ongoing",
+            "responsibility for those at the",
+            "forefront of AI development.",
+            "The article underscores the importance",
+            "of research into AI alignment, ensuring",
+            "AI systems pursue goals aligned with",
+            "human values and intentions.",
+            "In essence, AI researchers are aware of",
+            "their technologies\u0027 power and are",
+            "building safeguards against negative",
+            "outcomes to steer AI development towards",
+            "benefiting humanity.",
+            "The article discusses the growing",
+            "concerns and efforts within the AI",
+            "research community to ensure the safe",
+            "and beneficial development of artificial",
+            "intelligence."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T11:11:21.000Z",
+      "ranking": 7.1689265482302975,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/836335/anthropic-societal-impacts-team-ai-claude-effects"
     },
     {
       "id": "431",
@@ -353,7 +353,7 @@
         }
       ],
       "publishedAt": "2025-12-02T07:40:07.000Z",
-      "ranking": 7.072729462140906,
+      "ranking": 6.706046065002489,
       "articleUrl": "https://www.theverge.com/news/836212/openai-code-red-chatgpt"
     },
     {
@@ -383,7 +383,7 @@
         }
       ],
       "publishedAt": "2025-12-02T05:00:00.000Z",
-      "ranking": 6.449096322676187,
+      "ranking": 6.045313775781141,
       "articleUrl": "https://venturebeat.com/ai/with-nova-forge-aws-gives-companies-a-path-to-build-foundation-class-models"
     },
     {
@@ -419,7 +419,7 @@
         }
       ],
       "publishedAt": "2025-12-02T04:53:00.000Z",
-      "ranking": 6.252701128255292,
+      "ranking": 5.847296675455048,
       "articleUrl": "https://venturebeat.com/ai/arcee-aims-to-reboot-u-s-open-source-ai-with-new-trinity-models-released"
     },
     {
@@ -454,7 +454,7 @@
         }
       ],
       "publishedAt": "2025-12-02T06:00:00.000Z",
-      "ranking": 5.929175961881245,
+      "ranking": 5.539295457567493,
       "articleUrl": "https://venturebeat.com/ai/with-ai-browsers-creating-fresh-security-and-privacy-concerns-norton-neo-is"
     },
     {
@@ -490,7 +490,7 @@
         }
       ],
       "publishedAt": "2025-12-01T19:12:24.000Z",
-      "ranking": 5.594251852462882,
+      "ranking": 5.054321963365437,
       "articleUrl": "https://www.theverge.com/news/835453/openai-ownership-thrive-holdings"
     },
     {
@@ -527,8 +527,40 @@
         }
       ],
       "publishedAt": "2025-12-01T18:24:00.000Z",
-      "ranking": 5.495502022891073,
+      "ranking": 4.9443578207394925,
       "articleUrl": "https://venturebeat.com/ai/mit-offshoot-liquid-ai-releases-blueprint-for-enterprise-grade-small-model"
+    },
+    {
+      "id": "432",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "DeepSeek AI Models",
+      "mediumTitle": "DeepSeek\u0027s New AI Models for Reasoning",
+      "longTitle": "DeepSeek Unveils V3.2 Models for Advanced Long-Context Reasoning",
+      "paragraphs": [
+        {
+          "Lines": [
+            "DeepSeek researchers have introduced two",
+            "new models, DeepSeek-V3.2 and",
+            "DeepSeek-V3.2-Speciale, designed to",
+            "address the challenges of long-context",
+            "reasoning and agentic workloads.",
+            "The primary goal of these models is to",
+            "achieve GPT-5-level reasoning",
+            "capabilities without the prohibitive",
+            "quadratic attention and GPU costs",
+            "typically associated with such systems.",
+            "These models are specifically built with",
+            "a \u0022reasoning-first\u0022 approach, targeting",
+            "high-quality reasoning, the ability to",
+            "process and understand extensive",
+            "contexts, and efficient agent workflows."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T01:53:45.000Z",
+      "ranking": 4.705971380741715,
+      "articleUrl": "https://www.marktechpost.com/2025/12/01/deepseek-researchers-introduce-deepseek-v3-2-and-deepseek-v3-2-speciale-for-long-context-reasoning-and-agentic-workloads/"
     },
     {
       "id": "420",
@@ -561,40 +593,8 @@
         }
       ],
       "publishedAt": "2025-12-01T12:22:08.000Z",
-      "ranking": 5.188502375773089,
+      "ranking": 4.553513396747931,
       "articleUrl": "https://www.theverge.com/news/834905/runway-ai-text-video-generator-launch"
-    },
-    {
-      "id": "432",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "DeepSeek AI Models",
-      "mediumTitle": "DeepSeek\u0027s New AI Models for Reasoning",
-      "longTitle": "DeepSeek Unveils V3.2 Models for Advanced Long-Context Reasoning",
-      "paragraphs": [
-        {
-          "Lines": [
-            "DeepSeek researchers have introduced two",
-            "new models, DeepSeek-V3.2 and",
-            "DeepSeek-V3.2-Speciale, designed to",
-            "address the challenges of long-context",
-            "reasoning and agentic workloads.",
-            "The primary goal of these models is to",
-            "achieve GPT-5-level reasoning",
-            "capabilities without the prohibitive",
-            "quadratic attention and GPU costs",
-            "typically associated with such systems.",
-            "These models are specifically built with",
-            "a \u0022reasoning-first\u0022 approach, targeting",
-            "high-quality reasoning, the ability to",
-            "process and understand extensive",
-            "contexts, and efficient agent workflows."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T01:53:45.000Z",
-      "ranking": 5.152908176667704,
-      "articleUrl": "https://www.marktechpost.com/2025/12/01/deepseek-researchers-introduce-deepseek-v3-2-and-deepseek-v3-2-speciale-for-long-context-reasoning-and-agentic-workloads/"
     },
     {
       "id": "427",
@@ -628,7 +628,7 @@
         }
       ],
       "publishedAt": "2025-12-01T18:39:22.000Z",
-      "ranking": 4.673307488412892,
+      "ranking": 4.1257237473648285,
       "articleUrl": "https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri"
     },
     {
@@ -662,7 +662,7 @@
         }
       ],
       "publishedAt": "2025-12-01T19:45:00.000Z",
-      "ranking": 4.468789216746233,
+      "ranking": 3.9364127652655947,
       "articleUrl": "https://venturebeat.com/ai/deepseek-just-dropped-two-insanely-powerful-ai-models-that-rival-gpt-5-and"
     },
     {
@@ -694,7 +694,7 @@
         }
       ],
       "publishedAt": "2025-12-01T06:00:00.000Z",
-      "ranking": 4.38269913565486,
+      "ranking": 3.6591695794953063,
       "articleUrl": "https://venturebeat.com/ai/capture-the-full-value-of-your-technology-with-financial-intelligence"
     },
     {
@@ -726,44 +726,45 @@
         }
       ],
       "publishedAt": "2025-12-01T15:00:00.000Z",
-      "ranking": 4.046909758738024,
+      "ranking": 3.4484985976552562,
       "articleUrl": "https://venturebeat.com/ai/openagi-emerges-from-stealth-with-an-ai-agent-that-it-claims-crushes-openai"
     },
     {
-      "id": "415",
+      "id": "417",
       "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Commerce Boost",
-      "mediumTitle": "AWS \u0026 Visa Partner for Agentic Commerce",
-      "longTitle": "AWS and Visa collaborate to streamline agentic commerce payments",
+      "source": "The Verge AI",
+      "shortTitle": "AI in Fandom",
+      "mediumTitle": "AI Clout Economy in Fandom",
+      "longTitle": "Fandom\u0027s AI Clout Economy: Tensions and Debates",
       "paragraphs": [
         {
           "Lines": [
-            "The emerging field of agentic commerce,",
-            "where AI agents handle tasks like",
-            "product searching, adding to carts, and",
-            "making payments, is rapidly gaining",
-            "attention but faces fragmentation and a",
-            "lack of standardized infrastructure.",
-            "AWS and Visa are collaborating to",
-            "address this gap by making Visa\u0027s",
-            "Intelligence Commerce platform available",
-            "on the AWS Marketplace, aiming to",
-            "simplify the integration of payment",
-            "capabilities for agentic commerce.",
-            "This initiative aims to provide",
-            "developers with pre-built frameworks and",
-            "standardized infrastructure, with Scott",
-            "Mullins of AWS highlighting the",
-            "accessibility of secure payment",
-            "capabilities through AWS services like",
-            "Bedrock and AgentCore."
+            "The article explores the growing tension",
+            "between fans and creators in online",
+            "fandoms due to the rise of Artificial",
+            "Intelligence (AI).",
+            "An incident involving Ariana Grande, who",
+            "reportedly disliked AI-generated imagery",
+            "and blocked a fan account, highlights",
+            "this debate.",
+            "The \u0027AI clout economy\u0027 describes how AI",
+            "tools are used to create content, gain",
+            "attention, and potentially profit within",
+            "fandom.",
+            "Concerns exist that AI-generated content",
+            "devalues human artistry, effort, and",
+            "could make it harder for human creators",
+            "to gain recognition.",
+            "Grande\u0027s alleged actions suggest a",
+            "desire to protect fandom integrity and",
+            "artistic vision from what she perceives",
+            "as inauthentic AI content."
           ]
         }
       ],
-      "publishedAt": "2025-12-01T06:00:00.000Z",
-      "ranking": 3.473692910815254,
-      "articleUrl": "https://venturebeat.com/ai/agent-coordination-is-the-missing-piece-in-ai-commerce-new-aws-and-visa"
+      "publishedAt": "2025-12-01T08:00:00.000Z",
+      "ranking": 2.989422525335459,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/830876/influencers-anti-ai-deepfakes-fandom-economy"
     },
     {
       "id": "422",
@@ -798,8 +799,44 @@
         }
       ],
       "publishedAt": "2025-12-01T10:00:00.000Z",
-      "ranking": 3.4345273756382264,
+      "ranking": 2.76660599097887,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/829813/ai-agi-pope-leo"
+    },
+    {
+      "id": "415",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Commerce Boost",
+      "mediumTitle": "AWS \u0026 Visa Partner for Agentic Commerce",
+      "longTitle": "AWS and Visa collaborate to streamline agentic commerce payments",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The emerging field of agentic commerce,",
+            "where AI agents handle tasks like",
+            "product searching, adding to carts, and",
+            "making payments, is rapidly gaining",
+            "attention but faces fragmentation and a",
+            "lack of standardized infrastructure.",
+            "AWS and Visa are collaborating to",
+            "address this gap by making Visa\u0027s",
+            "Intelligence Commerce platform available",
+            "on the AWS Marketplace, aiming to",
+            "simplify the integration of payment",
+            "capabilities for agentic commerce.",
+            "This initiative aims to provide",
+            "developers with pre-built frameworks and",
+            "standardized infrastructure, with Scott",
+            "Mullins of AWS highlighting the",
+            "accessibility of secure payment",
+            "capabilities through AWS services like",
+            "Bedrock and AgentCore."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-01T06:00:00.000Z",
+      "ranking": 2.7501633381067725,
+      "articleUrl": "https://venturebeat.com/ai/agent-coordination-is-the-missing-piece-in-ai-commerce-new-aws-and-visa"
     },
     {
       "id": "413",
@@ -835,7 +872,7 @@
         }
       ],
       "publishedAt": "2025-11-30T19:17:08.000Z",
-      "ranking": 1.573568832542902,
+      "ranking": 0.7010865853023507,
       "articleUrl": "https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage"
     },
     {
@@ -872,7 +909,7 @@
         }
       ],
       "publishedAt": "2025-11-30T17:00:00.000Z",
-      "ranking": 1.3205671112510258,
+      "ranking": 0.4163109711569426,
       "articleUrl": "https://venturebeat.com/security/hybrid-cloud-security-reinvented-ai-era"
     },
     {
