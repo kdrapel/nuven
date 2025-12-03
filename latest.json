@@ -72,6 +72,43 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/836335/anthropic-societal-impacts-team-ai-claude-effects"
     },
     {
+      "id": "440",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Google AI Headlines",
+      "mediumTitle": "Google\u0027s AI Headline Experiments",
+      "longTitle": "Google Reportedly Experimenting with AI-Generated Clickbait Headlines",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google is reportedly experimenting with",
+            "replacing original news headlines with",
+            "AI-generated, clickbait-style",
+            "alternatives, potentially to increase",
+            "engagement.",
+            "The core issue highlighted is the",
+            "potential for AI to be used to",
+            "manipulate user perception and drive",
+            "traffic through deceptive means.",
+            "This practice involves Google serving up",
+            "misleading or sensationalized headlines",
+            "that differ significantly from the",
+            "actual content of the articles.",
+            "The author expresses concern that this",
+            "approach could lead to reader",
+            "dissatisfaction and a decline in trust.",
+            "Examples cited include \u0027BG3 players",
+            "exploit children\u0027 and \u0027Qi2 slows older",
+            "Pixels,\u0027 which are designed to be",
+            "attention-grabbing."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T18:14:21.000Z",
+      "ranking": 8.204545454545455,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense"
+    },
+    {
       "id": "431",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -176,6 +213,43 @@
       "articleUrl": "https://venturebeat.com/ai/mistral-launches-mistral-3-a-family-of-open-models-designed-to-run-on"
     },
     {
+      "id": "442",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "NVIDIA \u0026 Mistral AI",
+      "mediumTitle": "NVIDIA \u0026 Mistral AI Boost AI Performance",
+      "longTitle": "NVIDIA and Mistral AI Enhance Collaboration for Faster AI Inference",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This partnership focuses on achieving a",
+            "substantial performance improvement,",
+            "specifically a 10x faster inference",
+            "speed for the Mistral 3 models when",
+            "running on NVIDIA\u0027s GB200 NVL72 GPU",
+            "systems.",
+            "NVIDIA and Mistral AI have significantly",
+            "expanded their strategic collaboration,",
+            "coinciding with the release of Mistral",
+            "AI\u0027s new Mistral 3 family of open",
+            "frontier models.",
+            "This advancement represents a",
+            "convergence of hardware acceleration and",
+            "open-source model architecture, aiming",
+            "to set new performance benchmarks in the",
+            "field.",
+            "The collaboration highlights the synergy",
+            "between NVIDIA\u0027s cutting-edge GPU",
+            "technology and Mistral AI\u0027s innovative",
+            "open-source large language models."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-03T03:26:56.000Z",
+      "ranking": 7.835714285714285,
+      "articleUrl": "https://www.marktechpost.com/2025/12/02/nvidia-and-mistral-ai-bring-10x-faster-inference-for-the-mistral-3-family-on-gb200-nvl72-gpu-systems/"
+    },
+    {
       "id": "437",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -204,6 +278,43 @@
       "publishedAt": "2025-12-02T05:00:00.000Z",
       "ranking": 7.71875,
       "articleUrl": "https://venturebeat.com/ai/with-nova-forge-aws-gives-companies-a-path-to-build-foundation-class-models"
+    },
+    {
+      "id": "439",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "OpenMMReasoner",
+      "mediumTitle": "OpenMMReasoner: Multimodal Reasoning Framework",
+      "longTitle": "OpenMMReasoner: Enhancing Multimodal Reasoning with Open-Source Framework",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenMMReasoner is a novel training",
+            "framework developed by researchers from",
+            "MiroMind AI and several Chinese",
+            "universities, designed to enhance the",
+            "multimodal reasoning capabilities of",
+            "language models.",
+            "This framework employs a two-stage",
+            "process: a supervised fine-tuning (SFT)",
+            "stage using a curated, high-quality",
+            "dataset, followed by a reinforcement",
+            "learning (RL) stage that guides the",
+            "model towards more effective reasoning",
+            "with both text and visual data.",
+            "A significant advantage of",
+            "OpenMMReasoner is its emphasis on",
+            "smaller, smarter datasets.",
+            "Experiments demonstrate that models",
+            "trained with this framework outperform",
+            "existing leading visual reasoning",
+            "models, often with less training data."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T13:30:00.000Z",
+      "ranking": 7.682608695652173,
+      "articleUrl": "https://venturebeat.com/ai/new-training-method-boosts-ai-multimodal-reasoning-with-smaller-smarter"
     },
     {
       "id": "433",
@@ -240,6 +351,40 @@
       "publishedAt": "2025-12-02T18:30:00.000Z",
       "ranking": 7.665217391304349,
       "articleUrl": "https://venturebeat.com/ai/amazons-new-ai-can-code-for-days-without-human-help-what-does-that-mean-for"
+    },
+    {
+      "id": "441",
+      "topic": "Model Eval",
+      "source": "The Verge AI",
+      "shortTitle": "AI Benchmarks",
+      "mediumTitle": "Amazon AI Chief on Benchmarks",
+      "longTitle": "Amazon\u0027s AI Chief Urges Shift from Benchmarks to Real-World Utility",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon\u0027s AI chief, Rohit Prasad, is",
+            "urging a shift away from an overemphasis",
+            "on AI model benchmarks, arguing that",
+            "they do not accurately reflect",
+            "real-world utility.",
+            "Prasad, who leads Amazon\u0027s AI efforts,",
+            "believes that the current obsession with",
+            "leaderboards is misguided and that the",
+            "focus should instead be on practical",
+            "applications and how AI performs in",
+            "actual use cases.",
+            "Instead of chasing higher scores on",
+            "standardized tests, Prasad advocates for",
+            "a more pragmatic approach, emphasizing",
+            "the importance of evaluating AI based on",
+            "its effectiveness in delivering desired",
+            "outcomes in real-world scenarios."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T18:00:00.000Z",
+      "ranking": 7.609090909090909,
+      "articleUrl": "https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter"
     },
     {
       "id": "428",
@@ -313,38 +458,6 @@
       "articleUrl": "https://venturebeat.com/ai/with-ai-browsers-creating-fresh-security-and-privacy-concerns-norton-neo-is"
     },
     {
-      "id": "432",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "DeepSeek AI Models",
-      "mediumTitle": "DeepSeek\u0027s New AI Models for Reasoning",
-      "longTitle": "DeepSeek Unveils V3.2 Models for Advanced Long-Context Reasoning",
-      "paragraphs": [
-        {
-          "Lines": [
-            "DeepSeek researchers have introduced two",
-            "new models, DeepSeek-V3.2 and",
-            "DeepSeek-V3.2-Speciale, designed to",
-            "address the challenges of long-context",
-            "reasoning and agentic workloads.",
-            "The primary goal of these models is to",
-            "achieve GPT-5-level reasoning",
-            "capabilities without the prohibitive",
-            "quadratic attention and GPU costs",
-            "typically associated with such systems.",
-            "These models are specifically built with",
-            "a \u0022reasoning-first\u0022 approach, targeting",
-            "high-quality reasoning, the ability to",
-            "process and understand extensive",
-            "contexts, and efficient agent workflows."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T01:53:45.000Z",
-      "ranking": 6.730769230769232,
-      "articleUrl": "https://www.marktechpost.com/2025/12/01/deepseek-researchers-introduce-deepseek-v3-2-and-deepseek-v3-2-speciale-for-long-context-reasoning-and-agentic-workloads/"
-    },
-    {
       "id": "426",
       "topic": "Business",
       "source": "The Verge AI",
@@ -377,7 +490,7 @@
         }
       ],
       "publishedAt": "2025-12-01T19:12:24.000Z",
-      "ranking": 6.5061398474877015,
+      "ranking": 6.07546518681014,
       "articleUrl": "https://www.theverge.com/news/835453/openai-ownership-thrive-holdings"
     },
     {
@@ -414,7 +527,7 @@
         }
       ],
       "publishedAt": "2025-12-01T18:24:00.000Z",
-      "ranking": 6.429790977849357,
+      "ranking": 5.9878546314506815,
       "articleUrl": "https://venturebeat.com/ai/mit-offshoot-liquid-ai-releases-blueprint-for-enterprise-grade-small-model"
     },
     {
@@ -448,40 +561,40 @@
         }
       ],
       "publishedAt": "2025-12-01T12:22:08.000Z",
-      "ranking": 6.290273954210306,
+      "ranking": 5.76413867149641,
       "articleUrl": "https://www.theverge.com/news/834905/runway-ai-text-video-generator-launch"
     },
     {
-      "id": "424",
-      "topic": "Finance",
-      "source": "VentureBeat AI",
-      "shortTitle": "Tech Value",
-      "mediumTitle": "Financial Intelligence for Tech Value",
-      "longTitle": "Maximizing Technology Value with Financial Intelligence",
+      "id": "432",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "DeepSeek AI Models",
+      "mediumTitle": "DeepSeek\u0027s New AI Models for Reasoning",
+      "longTitle": "DeepSeek Unveils V3.2 Models for Advanced Long-Context Reasoning",
       "paragraphs": [
         {
           "Lines": [
-            "Organizations face increasing difficulty",
-            "in making swift and clear investment",
-            "decisions for rapidly evolving",
-            "technologies such as AI and cloud.",
-            "In an era demanding efficient technology",
-            "spend management, financial intelligence",
-            "is indispensable for maximizing budgets",
-            "and ensuring data-driven precision in",
-            "technology investments.",
-            "By unifying financial, operational, and",
-            "business data across the entire",
-            "enterprise, these solutions equip",
-            "leaders with the necessary clarity to",
-            "maximize the value of every technology",
-            "investment."
+            "DeepSeek researchers have introduced two",
+            "new models, DeepSeek-V3.2 and",
+            "DeepSeek-V3.2-Speciale, designed to",
+            "address the challenges of long-context",
+            "reasoning and agentic workloads.",
+            "The primary goal of these models is to",
+            "achieve GPT-5-level reasoning",
+            "capabilities without the prohibitive",
+            "quadratic attention and GPU costs",
+            "typically associated with such systems.",
+            "These models are specifically built with",
+            "a \u0022reasoning-first\u0022 approach, targeting",
+            "high-quality reasoning, the ability to",
+            "process and understand extensive",
+            "contexts, and efficient agent workflows."
           ]
         }
       ],
-      "publishedAt": "2025-12-01T06:00:00.000Z",
-      "ranking": 5.661333369407814,
-      "articleUrl": "https://venturebeat.com/ai/capture-the-full-value-of-your-technology-with-financial-intelligence"
+      "publishedAt": "2025-12-02T01:53:45.000Z",
+      "ranking": 5.541750732111427,
+      "articleUrl": "https://www.marktechpost.com/2025/12/01/deepseek-researchers-introduce-deepseek-v3-2-and-deepseek-v3-2-speciale-for-long-context-reasoning-and-agentic-workloads/"
     },
     {
       "id": "427",
@@ -515,8 +628,40 @@
         }
       ],
       "publishedAt": "2025-12-01T18:39:22.000Z",
-      "ranking": 5.600484297476003,
+      "ranking": 5.162123456200686,
       "articleUrl": "https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri"
+    },
+    {
+      "id": "424",
+      "topic": "Finance",
+      "source": "VentureBeat AI",
+      "shortTitle": "Tech Value",
+      "mediumTitle": "Financial Intelligence for Tech Value",
+      "longTitle": "Maximizing Technology Value with Financial Intelligence",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Organizations face increasing difficulty",
+            "in making swift and clear investment",
+            "decisions for rapidly evolving",
+            "technologies such as AI and cloud.",
+            "In an era demanding efficient technology",
+            "spend management, financial intelligence",
+            "is indispensable for maximizing budgets",
+            "and ensuring data-driven precision in",
+            "technology investments.",
+            "By unifying financial, operational, and",
+            "business data across the entire",
+            "enterprise, these solutions equip",
+            "leaders with the necessary clarity to",
+            "maximize the value of every technology",
+            "investment."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-01T06:00:00.000Z",
+      "ranking": 5.046283499977068,
+      "articleUrl": "https://venturebeat.com/ai/capture-the-full-value-of-your-technology-with-financial-intelligence"
     },
     {
       "id": "418",
@@ -549,7 +694,7 @@
         }
       ],
       "publishedAt": "2025-12-01T19:45:00.000Z",
-      "ranking": 5.365588973765461,
+      "ranking": 4.942499655566073,
       "articleUrl": "https://venturebeat.com/ai/deepseek-just-dropped-two-insanely-powerful-ai-models-that-rival-gpt-5-and"
     },
     {
@@ -581,7 +726,7 @@
         }
       ],
       "publishedAt": "2025-12-01T15:00:00.000Z",
-      "ranking": 5.0756159703725,
+      "ranking": 4.586213008983558,
       "articleUrl": "https://venturebeat.com/ai/openagi-emerges-from-stealth-with-an-ai-agent-that-it-claims-crushes-openai"
     },
     {
@@ -617,7 +762,7 @@
         }
       ],
       "publishedAt": "2025-12-01T06:00:00.000Z",
-      "ranking": 4.7523271341473805,
+      "ranking": 4.1372772700204505,
       "articleUrl": "https://venturebeat.com/ai/agent-coordination-is-the-missing-piece-in-ai-commerce-new-aws-and-visa"
     },
     {
@@ -653,7 +798,7 @@
         }
       ],
       "publishedAt": "2025-12-01T10:00:00.000Z",
-      "ranking": 4.602082483605967,
+      "ranking": 4.042875685842646,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/829813/ai-agi-pope-leo"
     },
     {
@@ -690,7 +835,7 @@
         }
       ],
       "publishedAt": "2025-11-30T19:17:08.000Z",
-      "ranking": 3.149740810297641,
+      "ranking": 2.3851090827573076,
       "articleUrl": "https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage"
     },
     {
@@ -727,7 +872,7 @@
         }
       ],
       "publishedAt": "2025-11-30T17:00:00.000Z",
-      "ranking": 2.9602084636330517,
+      "ranking": 2.1636686285811537,
       "articleUrl": "https://venturebeat.com/security/hybrid-cloud-security-reinvented-ai-era"
     },
     {
@@ -762,7 +907,7 @@
         }
       ],
       "publishedAt": "2025-11-30T10:49:00.000Z",
-      "ranking": 1.022676157940749,
+      "ranking": 0.13981224720201002,
       "articleUrl": "https://www.marktechpost.com/2025/11/30/meta-ai-researchers-introduce-matrix-a-ray-native-a-decentralized-framework-for-multi-agent-synthetic-data-generation/"
     },
     {
@@ -798,7 +943,7 @@
         }
       ],
       "publishedAt": "2025-11-30T06:00:00.000Z",
-      "ranking": 0.18212830053428863,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/ontology-is-the-real-guardrail-how-to-stop-ai-agents-from-misunderstanding"
     },
     {
@@ -1395,152 +1540,6 @@
       "publishedAt": "2025-11-26T20:07:34.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/26/tencent-hunyuan-releases-hunyuanocr-a-1b-parameter-end-to-end-ocr-expert-vlm/"
-    },
-    {
-      "id": "389",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "LLM Council AI",
-      "mediumTitle": "LLM Council: AI Orchestration",
-      "longTitle": "LLM Council: AI Orchestration Middleware Reference Architecture",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Andrej Karpathy developed the \u0027LLM",
-            "Council\u0027 project over a weekend as a",
-            "reference architecture for AI",
-            "orchestration middleware, connecting",
-            "corporate applications to AI models.",
-            "The core challenge for enterprises",
-            "moving into 2026 lies not in prompt",
-            "routing but in building the necessary",
-            "governance and compliance layers.",
-            "Crucially, it doesn\u0027t handle Personally",
-            "Identifiable Information (PII) redaction",
-            "or provide audit logs, raising",
-            "significant compliance concerns for",
-            "corporate environments.",
-            "Enterprises must decide whether to",
-            "develop these layers in-house or rely on",
-            "commercial solutions to \u0027harden\u0027 the",
-            "core \u0027vibe code\u0027."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-26T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/a-weekend-vibe-code-hack-by-andrej-karpathy-quietly-sketches-the-missing"
-    },
-    {
-      "id": "390",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI Stories for Teens",
-      "mediumTitle": "Character.AI\u0027s New Story Feature for Teens",
-      "longTitle": "Character.AI Launches \u0027Stories\u0027 Feature for Teens Amidst Lawsuits",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Character.AI has introduced a new",
-            "feature called \u0027Stories\u0027 specifically",
-            "for teenage users, following a decision",
-            "to ban them from engaging in open-ended",
-            "chats on its platform.",
-            "This move comes amidst legal pressure,",
-            "as the company faces several lawsuits",
-            "alleging a negative impact on teen",
-            "mental health.",
-            "The core of the change is a shift from",
-            "freeform conversation to a more curated",
-            "and predetermined narrative experience",
-            "for teens on Character.AI.",
-            "This shift is driven by concerns about",
-            "user well-being and potential legal",
-            "ramifications.",
-            "The \u0027Stories\u0027 feature offers a",
-            "structured,",
-            "choose-your-own-adventure-style",
-            "experience with AI characters."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-26T10:28:11.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/829892/character-ai-stories-launch-teens"
-    },
-    {
-      "id": "391",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI Chatbots Leave WhatsApp",
-      "mediumTitle": "WhatsApp Bans Third-Party AI Chatbots",
-      "longTitle": "ChatGPT and Copilot Removed from WhatsApp Due to Policy Changes",
-      "paragraphs": [
-        {
-          "Lines": [
-            "ChatGPT and Copilot, popular AI chatbots",
-            "developed by OpenAI and Microsoft",
-            "respectively, are being removed from",
-            "WhatsApp.",
-            "This decision stems from upcoming",
-            "changes to WhatsApp\u0027s terms of service,",
-            "which will explicitly forbid the",
-            "distribution of third-party AI chatbots",
-            "not developed by Meta, the parent",
-            "company of WhatsApp.",
-            "OpenAI initially announced its departure",
-            "a few weeks prior to Microsoft\u0027s",
-            "announcement this week, with both",
-            "companies citing Meta\u0027s policy changes",
-            "as the reason for their exit.",
-            "While the exact details of Meta\u0027s future",
-            "AI plans for WhatsApp are not yet fully",
-            "disclosed, this policy change is a clear",
-            "indication of their intent to develop",
-            "and deploy its own AI solutions."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-26T09:00:55.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/829808/chatgpt-copilot-ai-llm-leaving-whatsapp-meta"
-    },
-    {
-      "id": "386",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "FLUX.2 Launched",
-      "mediumTitle": "Black Forest Labs Launches FLUX.2",
-      "longTitle": "Black Forest Labs Unveils FLUX.2 for Professional Creative Workflows",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Black Forest Labs has launched FLUX.2,",
-            "the second iteration of their image",
-            "generation and editing system.",
-            "Furthermore, it offers robust control",
-            "over crucial design elements such as",
-            "layout, logos, and typography, enabling",
-            "users to precisely manipulate these",
-            "aspects of their images.",
-            "This new system is specifically",
-            "engineered to cater to professional",
-            "creative workflows, including the",
-            "creation of marketing materials, product",
-            "photography, design layouts, and",
-            "intricate infographics.",
-            "The system is built upon a 32 billion",
-            "parameter flow matching transformer",
-            "architecture, indicating a significant",
-            "advancement in model size and the",
-            "underlying technology for image",
-            "synthesis and manipulation."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-26T08:46:05.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/25/black-forest-labs-releases-flux-2-a-32b-flow-matching-transformer-for-production-image-pipelines/"
     }
   ]
 }
