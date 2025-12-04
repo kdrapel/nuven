@@ -75,6 +75,43 @@
       "articleUrl": "https://www.theverge.com/news/837156/amazon-fire-tv-alexa-plus-skip-to-scene"
     },
     {
+      "id": "450",
+      "topic": "Model Eval",
+      "source": "VentureBeat AI",
+      "shortTitle": "Gemini 3 Pro Tops AI Benchmark",
+      "mediumTitle": "Google\u0027s Gemini 3 Pro Leads HUMAINE Benchmark",
+      "longTitle": "Google\u0027s Gemini 3 Pro Achieves Top Ranking in Vendor-Neutral HUMAINE AI Performance Benchmark",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This makes Gemini 3 Pro the",
+            "highest-scoring model ever recorded by",
+            "Prolific in terms of trust, ethics, and",
+            "safety, ranking number one across",
+            "demographic subgroups 69% of the time.",
+            "Google\u0027s Gemini 3 Pro has been placed at",
+            "the top of the \u0022HUMAINE benchmark,\u0022 a",
+            "vendor-neutral evaluation by Prolific, a",
+            "company founded by University of Oxford",
+            "researchers.",
+            "Gemini 3 Pro achieved a trust score of",
+            "69%, a significant increase from its",
+            "predecessor, Gemini 2.5 Pro, which",
+            "scored 16%.",
+            "The 69% trust score for Gemini 3 Pro",
+            "signifies its consistent perceived",
+            "reliability across demographic groups,",
+            "which is more significant for",
+            "organizations serving diverse",
+            "populations than aggregate scores."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-03T23:00:00.000Z",
+      "ranking": 8.073684210526316,
+      "articleUrl": "https://venturebeat.com/ai/gemini-3-pro-scores-69-trust-in-blinded-testing-up-from-16-for-gemini-2-5"
+    },
+    {
       "id": "443",
       "topic": "Business",
       "source": "VentureBeat AI",
@@ -110,43 +147,6 @@
       "publishedAt": "2025-12-03T09:00:00.000Z",
       "ranking": 8.066666666666666,
       "articleUrl": "https://venturebeat.com/ai/tariff-turbulence-exposes-costly-blind-spots-in-supply-chains-and-ai"
-    },
-    {
-      "id": "442",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "NVIDIA \u0026 Mistral AI",
-      "mediumTitle": "NVIDIA \u0026 Mistral AI Boost AI Performance",
-      "longTitle": "NVIDIA and Mistral AI Enhance Collaboration for Faster AI Inference",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This partnership focuses on achieving a",
-            "substantial performance improvement,",
-            "specifically a 10x faster inference",
-            "speed for the Mistral 3 models when",
-            "running on NVIDIA\u0027s GB200 NVL72 GPU",
-            "systems.",
-            "NVIDIA and Mistral AI have significantly",
-            "expanded their strategic collaboration,",
-            "coinciding with the release of Mistral",
-            "AI\u0027s new Mistral 3 family of open",
-            "frontier models.",
-            "This advancement represents a",
-            "convergence of hardware acceleration and",
-            "open-source model architecture, aiming",
-            "to set new performance benchmarks in the",
-            "field.",
-            "The collaboration highlights the synergy",
-            "between NVIDIA\u0027s cutting-edge GPU",
-            "technology and Mistral AI\u0027s innovative",
-            "open-source large language models."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-03T03:26:56.000Z",
-      "ranking": 7.835714285714285,
-      "articleUrl": "https://www.marktechpost.com/2025/12/02/nvidia-and-mistral-ai-bring-10x-faster-inference-for-the-mistral-3-family-on-gb200-nvl72-gpu-systems/"
     },
     {
       "id": "448",
@@ -214,6 +214,43 @@
       "articleUrl": "https://venturebeat.com/ai/ai-has-redefined-the-talent-game-heres-how-leaders-are-responding"
     },
     {
+      "id": "442",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "NVIDIA \u0026 Mistral AI",
+      "mediumTitle": "NVIDIA \u0026 Mistral AI Boost AI Performance",
+      "longTitle": "NVIDIA and Mistral AI Enhance Collaboration for Faster AI Inference",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This partnership focuses on achieving a",
+            "substantial performance improvement,",
+            "specifically a 10x faster inference",
+            "speed for the Mistral 3 models when",
+            "running on NVIDIA\u0027s GB200 NVL72 GPU",
+            "systems.",
+            "NVIDIA and Mistral AI have significantly",
+            "expanded their strategic collaboration,",
+            "coinciding with the release of Mistral",
+            "AI\u0027s new Mistral 3 family of open",
+            "frontier models.",
+            "This advancement represents a",
+            "convergence of hardware acceleration and",
+            "open-source model architecture, aiming",
+            "to set new performance benchmarks in the",
+            "field.",
+            "The collaboration highlights the synergy",
+            "between NVIDIA\u0027s cutting-edge GPU",
+            "technology and Mistral AI\u0027s innovative",
+            "open-source large language models."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-03T03:26:56.000Z",
+      "ranking": 6.785329399910905,
+      "articleUrl": "https://www.marktechpost.com/2025/12/02/nvidia-and-mistral-ai-bring-10x-faster-inference-for-the-mistral-3-family-on-gb200-nvl72-gpu-systems/"
+    },
+    {
       "id": "440",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -247,42 +284,8 @@
         }
       ],
       "publishedAt": "2025-12-02T18:14:21.000Z",
-      "ranking": 6.662169996292167,
+      "ranking": 6.220331503800482,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense"
-    },
-    {
-      "id": "434",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Mistral 3 AI Launch",
-      "mediumTitle": "Mistral AI Releases Open-Source Mistral 3",
-      "longTitle": "Mistral AI Launches Mistral 3: Open-Source Models for Distributed Intelligence",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Mistral AI, a prominent European AI",
-            "startup, has launched Mistral 3, a",
-            "family of 10 open-source models designed",
-            "for broad deployment across various",
-            "devices, from laptops and drones to",
-            "enterprise cloud systems.",
-            "This release marks a significant",
-            "challenge to U.S. tech giants and",
-            "Chinese competitors by offering models",
-            "under the permissive Apache 2.0 license,",
-            "allowing unrestricted commercial use.",
-            "Mistral\u0027s strategy prioritizes",
-            "flexibility, efficiency, and",
-            "\u0027distributed intelligence\u0027 over the",
-            "pursuit of ever-larger proprietary",
-            "systems, aiming to empower businesses",
-            "with customizable AI solutions."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T16:00:00.000Z",
-      "ranking": 6.159285057192342,
-      "articleUrl": "https://venturebeat.com/ai/mistral-launches-mistral-3-a-family-of-open-models-designed-to-run-on"
     },
     {
       "id": "433",
@@ -317,41 +320,42 @@
         }
       ],
       "publishedAt": "2025-12-02T18:30:00.000Z",
-      "ranking": 6.149717917421977,
+      "ranking": 5.7115032699890405,
       "articleUrl": "https://venturebeat.com/ai/amazons-new-ai-can-code-for-days-without-human-help-what-does-that-mean-for"
     },
     {
-      "id": "429",
-      "topic": "Generative AI",
+      "id": "434",
+      "topic": "Large Models",
       "source": "VentureBeat AI",
-      "shortTitle": "Ascentra Labs Funding",
-      "mediumTitle": "Ascentra Labs Secures Funding for AI in Consulting",
-      "longTitle": "Ascentra Labs raises $2M to automate consulting tasks with AI",
+      "shortTitle": "Mistral 3 AI Launch",
+      "mediumTitle": "Mistral AI Releases Open-Source Mistral 3",
+      "longTitle": "Mistral AI Launches Mistral 3: Open-Source Models for Distributed Intelligence",
       "paragraphs": [
         {
           "Lines": [
-            "Ascentra Labs, a startup founded by",
-            "former McKinsey consultants, has secured",
-            "$2 million in seed funding led by NAP",
-            "(formerly Cavalry Ventures) to address",
-            "the manual nature of the global",
-            "consulting industry, which remains",
-            "largely analog despite AI advancements",
-            "in other sectors.",
-            "While using OpenAI\u0027s GPT models for data",
-            "interpretation, the core analysis is",
-            "performed by deterministic Python",
-            "scripts, ensuring verifiable outputs and",
-            "eliminating AI \u0022hallucinations.\u0022",
-            "This hybrid model aims to provide the",
-            "assurance consultants need when dealing",
-            "with quantitative data."
+            "Mistral AI, a prominent European AI",
+            "startup, has launched Mistral 3, a",
+            "family of 10 open-source models designed",
+            "for broad deployment across various",
+            "devices, from laptops and drones to",
+            "enterprise cloud systems.",
+            "This release marks a significant",
+            "challenge to U.S. tech giants and",
+            "Chinese competitors by offering models",
+            "under the permissive Apache 2.0 license,",
+            "allowing unrestricted commercial use.",
+            "Mistral\u0027s strategy prioritizes",
+            "flexibility, efficiency, and",
+            "\u0027distributed intelligence\u0027 over the",
+            "pursuit of ever-larger proprietary",
+            "systems, aiming to empower businesses",
+            "with customizable AI solutions."
           ]
         }
       ],
-      "publishedAt": "2025-12-02T15:00:00.000Z",
-      "ranking": 6.070841754851292,
-      "articleUrl": "https://venturebeat.com/ai/ascentra-labs-raises-usd2-million-to-help-consultants-use-ai-instead-of-all"
+      "publishedAt": "2025-12-02T16:00:00.000Z",
+      "ranking": 5.686341346623414,
+      "articleUrl": "https://venturebeat.com/ai/mistral-launches-mistral-3-a-family-of-open-models-designed-to-run-on"
     },
     {
       "id": "441",
@@ -384,8 +388,41 @@
         }
       ],
       "publishedAt": "2025-12-02T18:00:00.000Z",
-      "ranking": 6.041863387952388,
+      "ranking": 5.596702542544342,
       "articleUrl": "https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter"
+    },
+    {
+      "id": "429",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Ascentra Labs Funding",
+      "mediumTitle": "Ascentra Labs Secures Funding for AI in Consulting",
+      "longTitle": "Ascentra Labs raises $2M to automate consulting tasks with AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Ascentra Labs, a startup founded by",
+            "former McKinsey consultants, has secured",
+            "$2 million in seed funding led by NAP",
+            "(formerly Cavalry Ventures) to address",
+            "the manual nature of the global",
+            "consulting industry, which remains",
+            "largely analog despite AI advancements",
+            "in other sectors.",
+            "While using OpenAI\u0027s GPT models for data",
+            "interpretation, the core analysis is",
+            "performed by deterministic Python",
+            "scripts, ensuring verifiable outputs and",
+            "eliminating AI \u0022hallucinations.\u0022",
+            "This hybrid model aims to provide the",
+            "assurance consultants need when dealing",
+            "with quantitative data."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T15:00:00.000Z",
+      "ranking": 5.584006603083368,
+      "articleUrl": "https://venturebeat.com/ai/ascentra-labs-raises-usd2-million-to-help-consultants-use-ai-instead-of-all"
     },
     {
       "id": "436",
@@ -419,44 +456,8 @@
         }
       ],
       "publishedAt": "2025-12-02T11:11:21.000Z",
-      "ranking": 5.88337109894251,
+      "ranking": 5.343598022102361,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/836335/anthropic-societal-impacts-team-ai-claude-effects"
-    },
-    {
-      "id": "435",
-      "topic": "Policy",
-      "source": "VentureBeat AI",
-      "shortTitle": "AWS Bedrock Agents",
-      "mediumTitle": "AWS Bedrock AgentCore Enhancements",
-      "longTitle": "AWS Bedrock AgentCore Adds Reasoning, Memory, and Frontier Agents",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AWS is also introducing \u0022frontier",
-            "agents,\u0022 a new class of autonomous,",
-            "scalable, and independent agents",
-            "designed to handle complex projects.",
-            "AWS\u0027s most significant advancement is",
-            "the introduction of \u0022frontier agents,\u0022",
-            "described as a \u0022new class\u0022 of agents",
-            "that are fully automated and",
-            "independent.",
-            "These frontier agents are capable of",
-            "acting as teammates with minimal",
-            "direction and moving beyond assisting",
-            "with individual tasks to tackling",
-            "complex projects.",
-            "AWS is enhancing its Amazon Bedrock",
-            "AgentCore platform with new capabilities",
-            "focused on automated reasoning to",
-            "improve agent control, performance, and",
-            "safety for enterprises."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T06:00:00.000Z",
-      "ranking": 5.713235828895414,
-      "articleUrl": "https://venturebeat.com/ai/aws-goes-beyond-prompt-level-safety-with-automated-reasoning-in-agentcore"
     },
     {
       "id": "439",
@@ -492,8 +493,44 @@
         }
       ],
       "publishedAt": "2025-12-02T13:30:00.000Z",
-      "ranking": 5.610766319015375,
+      "ranking": 5.103094027310773,
       "articleUrl": "https://venturebeat.com/ai/new-training-method-boosts-ai-multimodal-reasoning-with-smaller-smarter"
+    },
+    {
+      "id": "435",
+      "topic": "Policy",
+      "source": "VentureBeat AI",
+      "shortTitle": "AWS Bedrock Agents",
+      "mediumTitle": "AWS Bedrock AgentCore Enhancements",
+      "longTitle": "AWS Bedrock AgentCore Adds Reasoning, Memory, and Frontier Agents",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AWS is also introducing \u0022frontier",
+            "agents,\u0022 a new class of autonomous,",
+            "scalable, and independent agents",
+            "designed to handle complex projects.",
+            "AWS\u0027s most significant advancement is",
+            "the introduction of \u0022frontier agents,\u0022",
+            "described as a \u0022new class\u0022 of agents",
+            "that are fully automated and",
+            "independent.",
+            "These frontier agents are capable of",
+            "acting as teammates with minimal",
+            "direction and moving beyond assisting",
+            "with individual tasks to tackling",
+            "complex projects.",
+            "AWS is enhancing its Amazon Bedrock",
+            "AgentCore platform with new capabilities",
+            "focused on automated reasoning to",
+            "improve agent control, performance, and",
+            "safety for enterprises."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T06:00:00.000Z",
+      "ranking": 5.1013777915158744,
+      "articleUrl": "https://venturebeat.com/ai/aws-goes-beyond-prompt-level-safety-with-automated-reasoning-in-agentcore"
     },
     {
       "id": "431",
@@ -529,7 +566,7 @@
         }
       ],
       "publishedAt": "2025-12-02T07:40:07.000Z",
-      "ranking": 5.27381762221394,
+      "ranking": 4.685138984677238,
       "articleUrl": "https://www.theverge.com/news/836212/openai-code-red-chatgpt"
     },
     {
@@ -559,7 +596,7 @@
         }
       ],
       "publishedAt": "2025-12-02T05:00:00.000Z",
-      "ranking": 4.501905960677647,
+      "ranking": 3.8761564952916747,
       "articleUrl": "https://venturebeat.com/ai/with-nova-forge-aws-gives-companies-a-path-to-build-foundation-class-models"
     },
     {
@@ -595,7 +632,7 @@
         }
       ],
       "publishedAt": "2025-12-02T04:53:00.000Z",
-      "ranking": 4.299028305620193,
+      "ranking": 3.671658172773617,
       "articleUrl": "https://venturebeat.com/ai/arcee-aims-to-reboot-u-s-open-source-ai-with-new-trinity-models-released"
     },
     {
@@ -630,8 +667,40 @@
         }
       ],
       "publishedAt": "2025-12-02T06:00:00.000Z",
-      "ranking": 4.037549524068187,
+      "ranking": 3.425691487352358,
       "articleUrl": "https://venturebeat.com/ai/with-ai-browsers-creating-fresh-security-and-privacy-concerns-norton-neo-is"
+    },
+    {
+      "id": "432",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "DeepSeek AI Models",
+      "mediumTitle": "DeepSeek\u0027s New AI Models for Reasoning",
+      "longTitle": "DeepSeek Unveils V3.2 Models for Advanced Long-Context Reasoning",
+      "paragraphs": [
+        {
+          "Lines": [
+            "DeepSeek researchers have introduced two",
+            "new models, DeepSeek-V3.2 and",
+            "DeepSeek-V3.2-Speciale, designed to",
+            "address the challenges of long-context",
+            "reasoning and agentic workloads.",
+            "The primary goal of these models is to",
+            "achieve GPT-5-level reasoning",
+            "capabilities without the prohibitive",
+            "quadratic attention and GPU costs",
+            "typically associated with such systems.",
+            "These models are specifically built with",
+            "a \u0022reasoning-first\u0022 approach, targeting",
+            "high-quality reasoning, the ability to",
+            "process and understand extensive",
+            "contexts, and efficient agent workflows."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T01:53:45.000Z",
+      "ranking": 2.364367347261056,
+      "articleUrl": "https://www.marktechpost.com/2025/12/01/deepseek-researchers-introduce-deepseek-v3-2-and-deepseek-v3-2-speciale-for-long-context-reasoning-and-agentic-workloads/"
     },
     {
       "id": "426",
@@ -666,40 +735,8 @@
         }
       ],
       "publishedAt": "2025-12-01T19:12:24.000Z",
-      "ranking": 3.102905411975347,
+      "ranking": 2.3411125159997797,
       "articleUrl": "https://www.theverge.com/news/835453/openai-ownership-thrive-holdings"
-    },
-    {
-      "id": "432",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "DeepSeek AI Models",
-      "mediumTitle": "DeepSeek\u0027s New AI Models for Reasoning",
-      "longTitle": "DeepSeek Unveils V3.2 Models for Advanced Long-Context Reasoning",
-      "paragraphs": [
-        {
-          "Lines": [
-            "DeepSeek researchers have introduced two",
-            "new models, DeepSeek-V3.2 and",
-            "DeepSeek-V3.2-Speciale, designed to",
-            "address the challenges of long-context",
-            "reasoning and agentic workloads.",
-            "The primary goal of these models is to",
-            "achieve GPT-5-level reasoning",
-            "capabilities without the prohibitive",
-            "quadratic attention and GPU costs",
-            "typically associated with such systems.",
-            "These models are specifically built with",
-            "a \u0022reasoning-first\u0022 approach, targeting",
-            "high-quality reasoning, the ability to",
-            "process and understand extensive",
-            "contexts, and efficient agent workflows."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T01:53:45.000Z",
-      "ranking": 3.0332381277549474,
-      "articleUrl": "https://www.marktechpost.com/2025/12/01/deepseek-researchers-introduce-deepseek-v3-2-and-deepseek-v3-2-speciale-for-long-context-reasoning-and-agentic-workloads/"
     },
     {
       "id": "419",
@@ -735,7 +772,7 @@
         }
       ],
       "publishedAt": "2025-12-01T18:24:00.000Z",
-      "ranking": 2.9593340067967757,
+      "ranking": 2.186335363456865,
       "articleUrl": "https://venturebeat.com/ai/mit-offshoot-liquid-ai-releases-blueprint-for-enterprise-grade-small-model"
     },
     {
@@ -769,7 +806,7 @@
         }
       ],
       "publishedAt": "2025-12-01T12:22:08.000Z",
-      "ranking": 2.3172221268926148,
+      "ranking": 1.460442708674936,
       "articleUrl": "https://www.theverge.com/news/834905/runway-ai-text-video-generator-launch"
     },
     {
@@ -804,7 +841,7 @@
         }
       ],
       "publishedAt": "2025-12-01T18:39:22.000Z",
-      "ranking": 2.151370012065171,
+      "ranking": 1.3819291075785625,
       "articleUrl": "https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri"
     },
     {
@@ -838,7 +875,7 @@
         }
       ],
       "publishedAt": "2025-12-01T19:45:00.000Z",
-      "ranking": 2.007632502186439,
+      "ranking": 1.253387277288864,
       "articleUrl": "https://venturebeat.com/ai/deepseek-just-dropped-two-insanely-powerful-ai-models-that-rival-gpt-5-and"
     },
     {
@@ -870,7 +907,7 @@
         }
       ],
       "publishedAt": "2025-12-01T15:00:00.000Z",
-      "ranking": 1.3218243821499183,
+      "ranking": 0.5015948570488282,
       "articleUrl": "https://venturebeat.com/ai/openagi-emerges-from-stealth-with-an-ai-agent-that-it-claims-crushes-openai"
     },
     {
@@ -902,8 +939,44 @@
         }
       ],
       "publishedAt": "2025-12-01T06:00:00.000Z",
-      "ranking": 1.1575383838709987,
+      "ranking": 0.2122859753007038,
       "articleUrl": "https://venturebeat.com/ai/capture-the-full-value-of-your-technology-with-financial-intelligence"
+    },
+    {
+      "id": "422",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AGI Pope Outreach",
+      "mediumTitle": "Researcher Aims to Inform Pope on AGI Risks",
+      "longTitle": "AGI Researcher John-Clark Levin Seeks Vatican Audience on AI Dangers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AGI researcher John-Clark Levin and his",
+            "collaborators are attempting to raise",
+            "awareness about the potential risks of",
+            "Artificial General Intelligence (AGI)",
+            "with Pope Leo XIV.",
+            "Levin\u0027s mission involved a visit to the",
+            "Vatican with the specific aim of",
+            "presenting these concerns directly to",
+            "the Pope.",
+            "This outreach is part of a broader,",
+            "year-long effort by Levin and his",
+            "network to engage influential figures",
+            "and institutions on the existential",
+            "threats posed by advanced AI.",
+            "The article implies that this outreach",
+            "extends beyond religious leaders,",
+            "suggesting a concerted campaign to",
+            "inform decision-makers across various",
+            "sectors."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-01T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/829813/ai-agi-pope-leo"
     },
     {
       "id": "417",
@@ -939,44 +1012,8 @@
         }
       ],
       "publishedAt": "2025-12-01T08:00:00.000Z",
-      "ranking": 0.5711151082436361,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/830876/influencers-anti-ai-deepfakes-fandom-economy"
-    },
-    {
-      "id": "422",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AGI Pope Outreach",
-      "mediumTitle": "Researcher Aims to Inform Pope on AGI Risks",
-      "longTitle": "AGI Researcher John-Clark Levin Seeks Vatican Audience on AI Dangers",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AGI researcher John-Clark Levin and his",
-            "collaborators are attempting to raise",
-            "awareness about the potential risks of",
-            "Artificial General Intelligence (AGI)",
-            "with Pope Leo XIV.",
-            "Levin\u0027s mission involved a visit to the",
-            "Vatican with the specific aim of",
-            "presenting these concerns directly to",
-            "the Pope.",
-            "This outreach is part of a broader,",
-            "year-long effort by Levin and his",
-            "network to engage influential figures",
-            "and institutions on the existential",
-            "threats posed by advanced AI.",
-            "The article implies that this outreach",
-            "extends beyond religious leaders,",
-            "suggesting a concerted campaign to",
-            "inform decision-makers across various",
-            "sectors."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-01T10:00:00.000Z",
-      "ranking": 0.43162234198806537,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/829813/ai-agi-pope-leo"
     },
     {
       "id": "415",
@@ -1011,7 +1048,7 @@
         }
       ],
       "publishedAt": "2025-12-01T06:00:00.000Z",
-      "ranking": 0.24853214648422117,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/agent-coordination-is-the-missing-piece-in-ai-commerce-new-aws-and-visa"
     },
     {
@@ -1474,42 +1511,6 @@
       "publishedAt": "2025-11-28T08:39:58.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/831747/tim-sweeney-epic-ceo-steam-game-stores-made-with-ai"
-    },
-    {
-      "id": "405",
-      "topic": "Learning",
-      "source": "VentureBeat AI",
-      "shortTitle": "Agent-R1 LLM Training",
-      "mediumTitle": "Agent-R1: New RL for LLMs",
-      "longTitle": "Agent-R1: Reinforcement Learning for Complex LLM Tasks",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The University of Science and Technology",
-            "of China has introduced Agent-R1, a",
-            "novel reinforcement learning (RL)",
-            "framework designed to train large",
-            "language models (LLMs) for complex,",
-            "real-world agentic tasks that extend",
-            "beyond well-defined problems like",
-            "mathematics and coding.",
-            "Crucially, Agent-R1 introduces \u0022process",
-            "rewards\u0022 for successfully completing",
-            "intermediate steps, mitigating the",
-            "\u0022sparse reward\u0022 problem inherent in",
-            "frameworks that only provide a final",
-            "outcome reward.",
-            "The results showed that RL-trained",
-            "agents using Agent-R1 significantly",
-            "outperformed the baselines, with the",
-            "GRPO algorithm achieving the best",
-            "performance."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-28T05:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/beyond-math-and-coding-new-rl-framework-helps-train-llm-agents-for-complex"
     }
   ]
 }
