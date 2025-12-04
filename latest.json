@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "457",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "NetSuite AI Evolution",
+      "mediumTitle": "NetSuite Next: AI Embedded",
+      "longTitle": "NetSuite Next: Deeply Embedded Agentic AI in Business Systems",
+      "paragraphs": [
+        {
+          "Lines": [
+            "NetSuite founder Evan Goldberg discussed",
+            "NetSuite Next, a major shift towards",
+            "deeply embedded, agentic AI within",
+            "business systems.",
+            "Unlike competitors adding AI as separate",
+            "tools, NetSuite Next integrates AI",
+            "directly into core operations, making it",
+            "an extension of the business.",
+            "The AI in NetSuite Next is designed to",
+            "be contextual, conversational, and",
+            "autonomous, operating within",
+            "human-defined guardrails to perform",
+            "tasks like reconciling accounts and",
+            "optimizing payments.",
+            "The company believes enterprises that",
+            "reimagine ERP operations around embedded",
+            "intelligence will outperform those",
+            "simply adding conversational AI."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T06:00:00.000Z",
+      "ranking": 8.455555555555556,
+      "articleUrl": "https://venturebeat.com/ai/inside-netsuites-next-act-evan-goldberg-on-the-future-of-ai-powered-business"
+    },
+    {
       "id": "450",
       "topic": "Model Eval",
       "source": "VentureBeat AI",
@@ -74,6 +109,80 @@
       "articleUrl": "https://venturebeat.com/ai/nvidias-new-ai-framework-trains-an-8b-model-to-manage-tools-like-a-pro"
     },
     {
+      "id": "461",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Yahoo AI Sports",
+      "mediumTitle": "Yahoo Sports AI Game Recaps",
+      "longTitle": "Yahoo Sports App Introduces AI-Powered Game Breakdowns",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Yahoo is introducing a new AI-powered",
+            "feature called \u0022Game Breakdowns\u0022 within",
+            "the Yahoo Sports app, designed to",
+            "automatically generate real-time recaps",
+            "of NFL football games.",
+            "The feature will provide a snapshot of",
+            "key moments and developments as they",
+            "happen during games.",
+            "Users can expect immediate updates on",
+            "significant plays and game shifts",
+            "directly within the app.",
+            "The AI\u0027s ability to process and",
+            "summarize live game events offers a new",
+            "way for fans to stay informed.",
+            "The \u0022Game Breakdowns\u0022 are intended to",
+            "provide a dynamic and engaging fan",
+            "experience throughout the NFL season.",
+            "This initiative aims to capture the",
+            "evolving stakes and storylines of the",
+            "league as the season progresses."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T10:05:16.000Z",
+      "ranking": 7.635,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/837950/yahoo-sports-game-breakdowns-ai"
+    },
+    {
+      "id": "456",
+      "topic": "Security",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Red Teaming",
+      "mediumTitle": "AI Red Teaming: Anthropic vs OpenAI",
+      "longTitle": "AI Red Teaming Methodologies: Anthropic and OpenAI Diverge",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This article examines the contrasting",
+            "red teaming methodologies of Anthropic",
+            "and OpenAI, revealing how their",
+            "differing security priorities impact",
+            "enterprises deploying AI agents.",
+            "Enterprises should align their",
+            "evaluation methodology with their",
+            "specific deployment\u0027s threat landscape,",
+            "rather than simply asking which model is",
+            "\u0027safer\u0027.",
+            "Security teams should ask vendors",
+            "specific questions about ASR at higher",
+            "attempt counts, deception detection",
+            "methods, and evaluation awareness rates.",
+            "Anthropic relies on multi-attempt attack",
+            "success rates (ASR) from reinforcement",
+            "learning (RL) campaigns of up to 200",
+            "attempts, while OpenAI also reports",
+            "attempted jailbreak resistance, often",
+            "using single-attempt metrics."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T06:00:00.000Z",
+      "ranking": 7.577272727272728,
+      "articleUrl": "https://venturebeat.com/security/anthropic-vs-openai-red-teaming-methods-reveal-different-security-priorities"
+    },
+    {
       "id": "452",
       "topic": "Dev Tools",
       "source": "VentureBeat AI",
@@ -141,6 +250,41 @@
       "articleUrl": "https://venturebeat.com/ai/gong-study-sales-teams-using-ai-generate-77-more-revenue-per-rep"
     },
     {
+      "id": "459",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Meta Metaverse Cuts",
+      "mediumTitle": "Meta May Cut Metaverse Budget",
+      "longTitle": "Meta Reportedly Considering Significant Metaverse Budget Cuts",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta is reportedly considering",
+            "significant budget cuts for its",
+            "metaverse initiatives in the upcoming",
+            "year, with potential reductions reaching",
+            "as high as 30 percent.",
+            "While these cuts are not yet finalized,",
+            "they are expected to affect key areas of",
+            "Meta\u0027s metaverse development,",
+            "specifically the division responsible",
+            "for its Quest virtual reality headsets",
+            "and the social platform Horizon Worlds.",
+            "However, these potential budget",
+            "reductions signal a possible shift in",
+            "strategy or a reassessment of the pace",
+            "and scale of these investments,",
+            "especially in light of ongoing financial",
+            "pressures and the performance of its",
+            "metaverse-related ventures."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T11:39:24.000Z",
+      "ranking": 7.109999999999999,
+      "articleUrl": "https://www.theverge.com/news/838186/meta-metaverse-budget-cuts-2026"
+    },
+    {
       "id": "445",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -174,7 +318,7 @@
         }
       ],
       "publishedAt": "2025-12-03T13:47:45.000Z",
-      "ranking": 7.184478769486008,
+      "ranking": 6.791686595523297,
       "articleUrl": "https://www.theverge.com/report/837431/grokipedia-update-editing-mess"
     },
     {
@@ -211,7 +355,7 @@
         }
       ],
       "publishedAt": "2025-12-03T11:00:00.000Z",
-      "ranking": 6.632473140280083,
+      "ranking": 6.200846222912235,
       "articleUrl": "https://www.theverge.com/news/837156/amazon-fire-tv-alexa-plus-skip-to-scene"
     },
     {
@@ -248,7 +392,7 @@
         }
       ],
       "publishedAt": "2025-12-03T09:00:00.000Z",
-      "ranking": 6.390292820399814,
+      "ranking": 5.9308854599118295,
       "articleUrl": "https://venturebeat.com/ai/tariff-turbulence-exposes-costly-blind-spots-in-supply-chains-and-ai"
     },
     {
@@ -285,7 +429,7 @@
         }
       ],
       "publishedAt": "2025-12-03T03:26:56.000Z",
-      "ranking": 5.506901360479711,
+      "ranking": 4.970387838756403,
       "articleUrl": "https://www.marktechpost.com/2025/12/02/nvidia-and-mistral-ai-bring-10x-faster-inference-for-the-mistral-3-family-on-gb200-nvl72-gpu-systems/"
     },
     {
@@ -317,7 +461,7 @@
         }
       ],
       "publishedAt": "2025-12-03T06:00:00.000Z",
-      "ranking": 5.434314002258634,
+      "ranking": 4.933235977562459,
       "articleUrl": "https://venturebeat.com/ai/workspace-studio-aims-to-solve-the-real-agent-problem-getting-employees-to"
     },
     {
@@ -350,7 +494,7 @@
         }
       ],
       "publishedAt": "2025-12-03T06:00:00.000Z",
-      "ranking": 5.171813997036455,
+      "ranking": 4.670735972009949,
       "articleUrl": "https://venturebeat.com/ai/ai-has-redefined-the-talent-game-heres-how-leaders-are-responding"
     },
     {
@@ -387,7 +531,7 @@
         }
       ],
       "publishedAt": "2025-12-02T18:14:21.000Z",
-      "ranking": 4.5572732238099,
+      "ranking": 3.892834622495508,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense"
     },
     {
@@ -423,42 +567,8 @@
         }
       ],
       "publishedAt": "2025-12-02T18:30:00.000Z",
-      "ranking": 4.059338301901185,
+      "ranking": 3.398522731793591,
       "articleUrl": "https://venturebeat.com/ai/amazons-new-ai-can-code-for-days-without-human-help-what-does-that-mean-for"
-    },
-    {
-      "id": "434",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Mistral 3 AI Launch",
-      "mediumTitle": "Mistral AI Releases Open-Source Mistral 3",
-      "longTitle": "Mistral AI Launches Mistral 3: Open-Source Models for Distributed Intelligence",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Mistral AI, a prominent European AI",
-            "startup, has launched Mistral 3, a",
-            "family of 10 open-source models designed",
-            "for broad deployment across various",
-            "devices, from laptops and drones to",
-            "enterprise cloud systems.",
-            "This release marks a significant",
-            "challenge to U.S. tech giants and",
-            "Chinese competitors by offering models",
-            "under the permissive Apache 2.0 license,",
-            "allowing unrestricted commercial use.",
-            "Mistral\u0027s strategy prioritizes",
-            "flexibility, efficiency, and",
-            "\u0027distributed intelligence\u0027 over the",
-            "pursuit of ever-larger proprietary",
-            "systems, aiming to empower businesses",
-            "with customizable AI solutions."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T16:00:00.000Z",
-      "ranking": 3.9297681257490744,
-      "articleUrl": "https://venturebeat.com/ai/mistral-launches-mistral-3-a-family-of-open-models-designed-to-run-on"
     },
     {
       "id": "441",
@@ -491,8 +601,42 @@
         }
       ],
       "publishedAt": "2025-12-02T18:00:00.000Z",
-      "ranking": 3.923656304180395,
+      "ranking": 3.2558956359279883,
       "articleUrl": "https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter"
+    },
+    {
+      "id": "434",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Mistral 3 AI Launch",
+      "mediumTitle": "Mistral AI Releases Open-Source Mistral 3",
+      "longTitle": "Mistral AI Launches Mistral 3: Open-Source Models for Distributed Intelligence",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Mistral AI, a prominent European AI",
+            "startup, has launched Mistral 3, a",
+            "family of 10 open-source models designed",
+            "for broad deployment across various",
+            "devices, from laptops and drones to",
+            "enterprise cloud systems.",
+            "This release marks a significant",
+            "challenge to U.S. tech giants and",
+            "Chinese competitors by offering models",
+            "under the permissive Apache 2.0 license,",
+            "allowing unrestricted commercial use.",
+            "Mistral\u0027s strategy prioritizes",
+            "flexibility, efficiency, and",
+            "\u0027distributed intelligence\u0027 over the",
+            "pursuit of ever-larger proprietary",
+            "systems, aiming to empower businesses",
+            "with customizable AI solutions."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T16:00:00.000Z",
+      "ranking": 3.2342269952967637,
+      "articleUrl": "https://venturebeat.com/ai/mistral-launches-mistral-3-a-family-of-open-models-designed-to-run-on"
     },
     {
       "id": "429",
@@ -524,7 +668,7 @@
         }
       ],
       "publishedAt": "2025-12-02T15:00:00.000Z",
-      "ranking": 3.7856699105967317,
+      "ranking": 3.076238565783404,
       "articleUrl": "https://venturebeat.com/ai/ascentra-labs-raises-usd2-million-to-help-consultants-use-ai-instead-of-all"
     },
     {
@@ -559,7 +703,7 @@
         }
       ],
       "publishedAt": "2025-12-02T11:11:21.000Z",
-      "ranking": 3.3861076451865655,
+      "ranking": 2.6237429744232434,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/836335/anthropic-societal-impacts-team-ai-claude-effects"
     },
     {
@@ -596,7 +740,7 @@
         }
       ],
       "publishedAt": "2025-12-02T13:30:00.000Z",
-      "ranking": 3.2421121051551998,
+      "ranking": 2.5118454177207115,
       "articleUrl": "https://venturebeat.com/ai/new-training-method-boosts-ai-multimodal-reasoning-with-smaller-smarter"
     },
     {
@@ -632,7 +776,7 @@
         }
       ],
       "publishedAt": "2025-12-02T06:00:00.000Z",
-      "ranking": 2.927169727093487,
+      "ranking": 2.0927263784260735,
       "articleUrl": "https://venturebeat.com/ai/aws-goes-beyond-prompt-level-safety-with-automated-reasoning-in-agentcore"
     },
     {
@@ -669,7 +813,7 @@
         }
       ],
       "publishedAt": "2025-12-02T07:40:07.000Z",
-      "ranking": 2.580617937221419,
+      "ranking": 1.769351964852353,
       "articleUrl": "https://www.theverge.com/news/836212/openai-code-red-chatgpt"
     },
     {
@@ -699,7 +843,7 @@
         }
       ],
       "publishedAt": "2025-12-02T05:00:00.000Z",
-      "ranking": 1.6601849457465674,
+      "ranking": 0.8118513737563191,
       "articleUrl": "https://venturebeat.com/ai/with-nova-forge-aws-gives-companies-a-path-to-build-foundation-class-models"
     },
     {
@@ -735,7 +879,7 @@
         }
       ],
       "publishedAt": "2025-12-02T04:53:00.000Z",
-      "ranking": 1.450814214299755,
+      "ranking": 0.6008601163533758,
       "articleUrl": "https://venturebeat.com/ai/arcee-aims-to-reboot-u-s-open-source-ai-with-new-trinity-models-released"
     },
     {
@@ -770,7 +914,7 @@
         }
       ],
       "publishedAt": "2025-12-02T06:00:00.000Z",
-      "ranking": 1.251483422320022,
+      "ranking": 0.41704006986159126,
       "articleUrl": "https://venturebeat.com/ai/with-ai-browsers-creating-fresh-security-and-privacy-concerns-norton-neo-is"
     },
     {
@@ -802,7 +946,7 @@
         }
       ],
       "publishedAt": "2025-12-02T01:53:45.000Z",
-      "ranking": 0.01875497784128033,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/12/01/deepseek-researchers-introduce-deepseek-v3-2-and-deepseek-v3-2-speciale-for-long-context-reasoning-and-agentic-workloads/"
     },
     {
@@ -1087,6 +1231,38 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/830876/influencers-anti-ai-deepfakes-fandom-economy"
     },
     {
+      "id": "424",
+      "topic": "Finance",
+      "source": "VentureBeat AI",
+      "shortTitle": "Tech Value",
+      "mediumTitle": "Financial Intelligence for Tech Value",
+      "longTitle": "Maximizing Technology Value with Financial Intelligence",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Organizations face increasing difficulty",
+            "in making swift and clear investment",
+            "decisions for rapidly evolving",
+            "technologies such as AI and cloud.",
+            "In an era demanding efficient technology",
+            "spend management, financial intelligence",
+            "is indispensable for maximizing budgets",
+            "and ensuring data-driven precision in",
+            "technology investments.",
+            "By unifying financial, operational, and",
+            "business data across the entire",
+            "enterprise, these solutions equip",
+            "leaders with the necessary clarity to",
+            "maximize the value of every technology",
+            "investment."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-01T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/capture-the-full-value-of-your-technology-with-financial-intelligence"
+    },
+    {
       "id": "415",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -1121,38 +1297,6 @@
       "publishedAt": "2025-12-01T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/agent-coordination-is-the-missing-piece-in-ai-commerce-new-aws-and-visa"
-    },
-    {
-      "id": "424",
-      "topic": "Finance",
-      "source": "VentureBeat AI",
-      "shortTitle": "Tech Value",
-      "mediumTitle": "Financial Intelligence for Tech Value",
-      "longTitle": "Maximizing Technology Value with Financial Intelligence",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Organizations face increasing difficulty",
-            "in making swift and clear investment",
-            "decisions for rapidly evolving",
-            "technologies such as AI and cloud.",
-            "In an era demanding efficient technology",
-            "spend management, financial intelligence",
-            "is indispensable for maximizing budgets",
-            "and ensuring data-driven precision in",
-            "technology investments.",
-            "By unifying financial, operational, and",
-            "business data across the entire",
-            "enterprise, these solutions equip",
-            "leaders with the necessary clarity to",
-            "maximize the value of every technology",
-            "investment."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-01T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/capture-the-full-value-of-your-technology-with-financial-intelligence"
     },
     {
       "id": "413",
@@ -1227,215 +1371,6 @@
       "publishedAt": "2025-11-30T17:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/security/hybrid-cloud-security-reinvented-ai-era"
-    },
-    {
-      "id": "411",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Meta\u0027s Matrix",
-      "mediumTitle": "Meta AI\u0027s Matrix for Synthetic Data",
-      "longTitle": "Meta AI Introduces Matrix, a Decentralized Framework for Synthetic Data Generation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta AI researchers have introduced",
-            "Matrix, a novel decentralized framework",
-            "designed to address the challenges of",
-            "generating fresh and diverse synthetic",
-            "data for modern AI models, particularly",
-            "Large Language Models (LLMs).",
-            "In essence, Matrix represents a",
-            "significant step forward in synthetic",
-            "data generation for AI, offering a",
-            "scalable, flexible, and robust solution",
-            "for creating high-quality, diverse",
-            "synthetic data essential for training",
-            "next-generation AI models.",
-            "Matrix\u0027s decentralized and",
-            "message-driven approach is designed to",
-            "overcome these limitations by",
-            "dynamically scaling and adapting to",
-            "generation demands without bottlenecks."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-30T10:49:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/30/meta-ai-researchers-introduce-matrix-a-ray-native-a-decentralized-framework-for-multi-agent-synthetic-data-generation/"
-    },
-    {
-      "id": "412",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Agents \u0026 Data",
-      "mediumTitle": "AI Agents Struggle with Business Data",
-      "longTitle": "Ontology Solution for Enterprise AI Agent Data Understanding",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article proposes an ontology-based",
-            "single source of truth as the solution",
-            "for building effective agentic",
-            "solutions.",
-            "Once implemented, an ontology can guide",
-            "AI agents by prompting them to follow",
-            "it, discover data and relationships, and",
-            "adhere to embedded business rules and",
-            "policies.",
-            "An ontology defines business concepts,",
-            "their hierarchies, and relationships",
-            "within specific business domains,",
-            "establishing a unified view of data and",
-            "standardizing field names.",
-            "Enterprises are investing heavily in AI",
-            "agents to transform business processes,",
-            "but real-world success is limited due to",
-            "agents\u0027 inability to truly understand",
-            "business data, policies, and processes."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-30T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/ontology-is-the-real-guardrail-how-to-stop-ai-agents-from-misunderstanding"
-    },
-    {
-      "id": "409",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "StepFun AI Audio LLM",
-      "mediumTitle": "StepFun AI\u0027s New Audio LLM",
-      "longTitle": "StepFun AI Introduces Step-Audio-R1, an Audio LLM",
-      "paragraphs": [
-        {
-          "Lines": [
-            "StepFun AI has introduced Step-Audio-R1,",
-            "a novel audio Large Language Model (LLM)",
-            "that addresses a critical limitation in",
-            "current audio AI: the degradation of",
-            "performance when generating longer",
-            "reasoning chains compared to grounding",
-            "decisions in the raw audio.",
-            "This new model is specifically designed",
-            "to benefit from test-time compute",
-            "scaling, a technique that allows for",
-            "increased computational resources to be",
-            "utilized during inference without",
-            "requiring retraining.",
-            "The core problem Step-Audio-R1 aims to",
-            "solve is the tendency for existing audio",
-            "AI models to exhibit a drop in accuracy",
-            "as the complexity and length of their",
-            "reasoning processes increase."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-29T23:03:21.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/29/stepfun-ai-releases-step-audio-r1-a-new-audio-llm-that-finally-benefits-from-test-time-compute-scaling/"
-    },
-    {
-      "id": "408",
-      "topic": "Model Eval",
-      "source": "VentureBeat AI",
-      "shortTitle": "Observable AI",
-      "mediumTitle": "Observable AI for Enterprise LLMs",
-      "longTitle": "Enterprise LLM Trust: The Need for Observable AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Enterprises need an observable AI layer,",
-            "similar to Site Reliability Engineering",
-            "for traditional software, to reliably",
-            "deploy and trust Large Language Models",
-            "(LLMs).",
-            "Ultimately, observable AI transforms AI",
-            "from an experiment into infrastructure,",
-            "fostering trust among executives,",
-            "compliance teams, engineers, and",
-            "customers by providing clear telemetry,",
-            "SLOs, and feedback loops.",
-            "Without observability, AI systems are",
-            "ungovernable and untrustworthy,",
-            "necessitating a shift in focus from the",
-            "AI model itself to desired business",
-            "outcomes."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-29T20:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/why-observable-ai-is-the-missing-sre-layer-enterprises-need-for-reliable"
-    },
-    {
-      "id": "407",
-      "topic": "Music",
-      "source": "The Verge AI",
-      "shortTitle": "AI Music Test",
-      "mediumTitle": "AI Music vs Human Music Test",
-      "longTitle": "Deezer Experiment: AI Music Indistinguishable from Human Music?",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A recent experiment by streaming service",
-            "Deezer, in collaboration with research",
-            "firm Ipsos, found that 97 percent of",
-            "participants were unable to distinguish",
-            "between fully AI-generated music and",
-            "human-made music.",
-            "The 97 percent figure is a testament to",
-            "AI\u0027s growing capabilities in mimicry and",
-            "production, but it does not diminish the",
-            "unique contributions and artistic",
-            "expression that human musicians bring to",
-            "the world of music.",
-            "The focus, therefore, should not solely",
-            "be on the technical ability to",
-            "distinguish AI from human music, but",
-            "also on the deeper qualitative aspects",
-            "that define artistic merit and emotional",
-            "connection."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-29T13:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/entertainment/830393/ai-music-deezer-survey-spotify"
-    },
-    {
-      "id": "406",
-      "topic": "Reinforcement Lrng",
-      "source": "Marktechpost AI",
-      "shortTitle": "NVIDIA\u0027s ToolOrchestra",
-      "mediumTitle": "NVIDIA\u0027s ToolOrchestra AI Method",
-      "longTitle": "NVIDIA\u0027s ToolOrchestra: Training an AI Orchestrator for Tool Selection",
-      "paragraphs": [
-        {
-          "Lines": [
-            "NVIDIA researchers have introduced",
-            "ToolOrchestra, a groundbreaking method",
-            "for training a compact language model to",
-            "function as an \u0027orchestrator,\u0027 acting as",
-            "the central control unit for a",
-            "heterogeneous agent capable of utilizing",
-            "various tools and models.",
-            "The core innovation lies in enabling an",
-            "AI system to learn how to select the",
-            "most appropriate model or tool for each",
-            "specific step of a task, rather than",
-            "defaulting to a single, monolithic large",
-            "model for all operations.",
-            "Instead of a one-size-fits-all approach,",
-            "ToolOrchestra facilitates a dynamic",
-            "selection process, where the AI",
-            "intelligently chooses the best resource",
-            "for the job at hand."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-29T05:18:46.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/28/nvidia-ai-releases-orchestrator-8b-a-reinforcement-learning-trained-controller-for-efficient-tool-and-model-selection/"
     }
   ]
 }
