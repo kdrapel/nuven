@@ -1,43 +1,6 @@
 {
   "articles": [
     {
-      "id": "445",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Grokipedia\u0027s Chaos",
-      "mediumTitle": "Grokipedia: Musk\u0027s \u0027Anti-Woke\u0027 AI Project",
-      "longTitle": "Elon Musk\u0027s Grokipedia: From Monument to Mess",
-      "paragraphs": [
-        {
-          "Lines": [
-            "However, the current state of Grokipedia",
-            "is described as a \u0027hot mess,\u0027 reportedly",
-            "worsening since public edit suggestions",
-            "were allowed.",
-            "Elon Musk envisions Grokipedia, an",
-            "AI-generated \u0027anti-woke\u0027 Wikipedia",
-            "alternative by xAI, as a permanent",
-            "monument to human knowledge.",
-            "The attempt to democratize editing",
-            "without robust moderation has led to a",
-            "degradation of content quality and",
-            "accuracy.",
-            "Despite public edit suggestions, Elon",
-            "Musk and xAI retain ultimate control,",
-            "with the AI \u0027running the show\u0027 on",
-            "content.",
-            "This has made it far from the \u0027complete",
-            "and truthful\u0027 repository Musk envisions,",
-            "pointing to a chaotic and uncontrolled",
-            "environment."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-03T13:47:45.000Z",
-      "ranking": 8.383333333333335,
-      "articleUrl": "https://www.theverge.com/report/837431/grokipedia-update-editing-mess"
-    },
-    {
       "id": "450",
       "topic": "Model Eval",
       "source": "VentureBeat AI",
@@ -75,6 +38,146 @@
       "articleUrl": "https://venturebeat.com/ai/gemini-3-pro-scores-69-trust-in-blinded-testing-up-from-16-for-gemini-2-5"
     },
     {
+      "id": "454",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Orchestrator",
+      "mediumTitle": "Nvidia \u0026 HKU AI Orchestrator",
+      "longTitle": "Nvidia and HKU\u0027s Orchestrator AI Manages Tools",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Researchers from Nvidia and the",
+            "University of Hong Kong have introduced",
+            "Orchestrator, an 8-billion-parameter AI",
+            "model designed to intelligently manage",
+            "and coordinate various tools and other",
+            "large language models (LLMs) to tackle",
+            "complex problems.",
+            "Crucially for enterprise adoption, it",
+            "generalized well to models and pricing",
+            "structures it had not encountered during",
+            "training.",
+            "The combination of lower cost, higher",
+            "speed, and customizability positions",
+            "this orchestration approach as a",
+            "practical and scalable solution for",
+            "developing sophisticated AI agents.",
+            "A key finding is Orchestrator\u0027s",
+            "adaptability and generalization",
+            "capabilities."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T00:00:00.000Z",
+      "ranking": 7.726315789473684,
+      "articleUrl": "https://venturebeat.com/ai/nvidias-new-ai-framework-trains-an-8b-model-to-manage-tools-like-a-pro"
+    },
+    {
+      "id": "452",
+      "topic": "Dev Tools",
+      "source": "VentureBeat AI",
+      "shortTitle": "AWS Kiro Powers",
+      "mediumTitle": "AWS Kiro Powers: Smarter AI Coding",
+      "longTitle": "AWS Kiro Powers Enhances AI Coding Assistants with On-Demand Expertise",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon Web Services (AWS) has launched",
+            "Kiro powers, a new system designed to",
+            "enhance AI coding assistants by",
+            "providing them with instant, specialized",
+            "expertise in specific tools and",
+            "workflows.",
+            "Kiro powers adopts an \u0027on-demand\u0027",
+            "approach, activating specialized",
+            "knowledge only when a developer needs",
+            "it, thereby reducing costs and improving",
+            "efficiency.",
+            "Kiro powers addresses this by",
+            "dynamically loading AI expertise,",
+            "comprising a POWER.md steering file,",
+            "Model Context Protocol (MCP) server",
+            "configuration, and optional automation",
+            "hooks."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T15:02:00.000Z",
+      "ranking": 7.539130434782607,
+      "articleUrl": "https://venturebeat.com/ai/aws-launches-kiro-powers-with-stripe-figma-and-datadog-integrations-for-ai"
+    },
+    {
+      "id": "453",
+      "topic": "Business",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI in Sales Surge",
+      "mediumTitle": "AI Transforms Sales Decision-Making",
+      "longTitle": "Study Reveals AI\u0027s Growing Influence on Sales Strategy and Performance",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The research, based on an analysis of",
+            "7.1 million sales opportunities across",
+            "over 3,600 companies and a survey of",
+            "more than 3,000 global revenue leaders,",
+            "indicates that 70% of enterprise revenue",
+            "leaders now rely on AI to inform their",
+            "business decisions.",
+            "A new study by revenue intelligence",
+            "company Gong reveals a significant shift",
+            "in how sales teams are adopting and",
+            "trusting Artificial Intelligence (AI).",
+            "Teams that regularly use AI tools",
+            "generate 77% more revenue per",
+            "representative than those that don\u0027t, a",
+            "difference estimated to be six figures",
+            "per salesperson annually."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T15:00:00.000Z",
+      "ranking": 7.327777777777779,
+      "articleUrl": "https://venturebeat.com/ai/gong-study-sales-teams-using-ai-generate-77-more-revenue-per-rep"
+    },
+    {
+      "id": "445",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Grokipedia\u0027s Chaos",
+      "mediumTitle": "Grokipedia: Musk\u0027s \u0027Anti-Woke\u0027 AI Project",
+      "longTitle": "Elon Musk\u0027s Grokipedia: From Monument to Mess",
+      "paragraphs": [
+        {
+          "Lines": [
+            "However, the current state of Grokipedia",
+            "is described as a \u0027hot mess,\u0027 reportedly",
+            "worsening since public edit suggestions",
+            "were allowed.",
+            "Elon Musk envisions Grokipedia, an",
+            "AI-generated \u0027anti-woke\u0027 Wikipedia",
+            "alternative by xAI, as a permanent",
+            "monument to human knowledge.",
+            "The attempt to democratize editing",
+            "without robust moderation has led to a",
+            "degradation of content quality and",
+            "accuracy.",
+            "Despite public edit suggestions, Elon",
+            "Musk and xAI retain ultimate control,",
+            "with the AI \u0027running the show\u0027 on",
+            "content.",
+            "This has made it far from the \u0027complete",
+            "and truthful\u0027 repository Musk envisions,",
+            "pointing to a chaotic and uncontrolled",
+            "environment."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-03T13:47:45.000Z",
+      "ranking": 7.184478769486008,
+      "articleUrl": "https://www.theverge.com/report/837431/grokipedia-update-editing-mess"
+    },
+    {
       "id": "447",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -108,7 +211,7 @@
         }
       ],
       "publishedAt": "2025-12-03T11:00:00.000Z",
-      "ranking": 7.0110016764872904,
+      "ranking": 6.632473140280083,
       "articleUrl": "https://www.theverge.com/news/837156/amazon-fire-tv-alexa-plus-skip-to-scene"
     },
     {
@@ -145,7 +248,7 @@
         }
       ],
       "publishedAt": "2025-12-03T09:00:00.000Z",
-      "ranking": 6.796798756482551,
+      "ranking": 6.390292820399814,
       "articleUrl": "https://venturebeat.com/ai/tariff-turbulence-exposes-costly-blind-spots-in-supply-chains-and-ai"
     },
     {
@@ -182,7 +285,7 @@
         }
       ],
       "publishedAt": "2025-12-03T03:26:56.000Z",
-      "ranking": 5.991060128589264,
+      "ranking": 5.506901360479711,
       "articleUrl": "https://www.marktechpost.com/2025/12/02/nvidia-and-mistral-ai-bring-10x-faster-inference-for-the-mistral-3-family-on-gb200-nvl72-gpu-systems/"
     },
     {
@@ -214,7 +317,7 @@
         }
       ],
       "publishedAt": "2025-12-03T06:00:00.000Z",
-      "ranking": 5.882786041858907,
+      "ranking": 5.434314002258634,
       "articleUrl": "https://venturebeat.com/ai/workspace-studio-aims-to-solve-the-real-agent-problem-getting-employees-to"
     },
     {
@@ -247,7 +350,7 @@
         }
       ],
       "publishedAt": "2025-12-03T06:00:00.000Z",
-      "ranking": 5.620286036587662,
+      "ranking": 5.171813997036455,
       "articleUrl": "https://venturebeat.com/ai/ai-has-redefined-the-talent-game-heres-how-leaders-are-responding"
     },
     {
@@ -284,7 +387,7 @@
         }
       ],
       "publishedAt": "2025-12-02T18:14:21.000Z",
-      "ranking": 5.170264038327561,
+      "ranking": 4.5572732238099,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense"
     },
     {
@@ -320,7 +423,7 @@
         }
       ],
       "publishedAt": "2025-12-02T18:30:00.000Z",
-      "ranking": 4.668680397613558,
+      "ranking": 4.059338301901185,
       "articleUrl": "https://venturebeat.com/ai/amazons-new-ai-can-code-for-days-without-human-help-what-does-that-mean-for"
     },
     {
@@ -354,7 +457,7 @@
         }
       ],
       "publishedAt": "2025-12-02T16:00:00.000Z",
-      "ranking": 4.574081362030481,
+      "ranking": 3.9297681257490744,
       "articleUrl": "https://venturebeat.com/ai/mistral-launches-mistral-3-a-family-of-open-models-designed-to-run-on"
     },
     {
@@ -388,7 +491,7 @@
         }
       ],
       "publishedAt": "2025-12-02T18:00:00.000Z",
-      "ranking": 4.539992159286051,
+      "ranking": 3.923656304180395,
       "articleUrl": "https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter"
     },
     {
@@ -421,7 +524,7 @@
         }
       ],
       "publishedAt": "2025-12-02T15:00:00.000Z",
-      "ranking": 4.443971825149699,
+      "ranking": 3.7856699105967317,
       "articleUrl": "https://venturebeat.com/ai/ascentra-labs-raises-usd2-million-to-help-consultants-use-ai-instead-of-all"
     },
     {
@@ -456,7 +559,7 @@
         }
       ],
       "publishedAt": "2025-12-02T11:11:21.000Z",
-      "ranking": 4.097718112490289,
+      "ranking": 3.3861076451865655,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/836335/anthropic-societal-impacts-team-ai-claude-effects"
     },
     {
@@ -493,7 +596,7 @@
         }
       ],
       "publishedAt": "2025-12-02T13:30:00.000Z",
-      "ranking": 3.9213970502680464,
+      "ranking": 3.2421121051551998,
       "articleUrl": "https://venturebeat.com/ai/new-training-method-boosts-ai-multimodal-reasoning-with-smaller-smarter"
     },
     {
@@ -529,7 +632,7 @@
         }
       ],
       "publishedAt": "2025-12-02T06:00:00.000Z",
-      "ranking": 3.7113698212189155,
+      "ranking": 2.927169727093487,
       "articleUrl": "https://venturebeat.com/ai/aws-goes-beyond-prompt-level-safety-with-automated-reasoning-in-agentcore"
     },
     {
@@ -566,7 +669,7 @@
         }
       ],
       "publishedAt": "2025-12-02T07:40:07.000Z",
-      "ranking": 3.3414763547866126,
+      "ranking": 2.580617937221419,
       "articleUrl": "https://www.theverge.com/news/836212/openai-code-red-chatgpt"
     },
     {
@@ -596,7 +699,7 @@
         }
       ],
       "publishedAt": "2025-12-02T05:00:00.000Z",
-      "ranking": 2.458373727942657,
+      "ranking": 1.6601849457465674,
       "articleUrl": "https://venturebeat.com/ai/with-nova-forge-aws-gives-companies-a-path-to-build-foundation-class-models"
     },
     {
@@ -632,7 +735,7 @@
         }
       ],
       "publishedAt": "2025-12-02T04:53:00.000Z",
-      "ranking": 2.2506350112887947,
+      "ranking": 1.450814214299755,
       "articleUrl": "https://venturebeat.com/ai/arcee-aims-to-reboot-u-s-open-source-ai-with-new-trinity-models-released"
     },
     {
@@ -667,7 +770,7 @@
         }
       ],
       "publishedAt": "2025-12-02T06:00:00.000Z",
-      "ranking": 2.035683518576196,
+      "ranking": 1.251483422320022,
       "articleUrl": "https://venturebeat.com/ai/with-ai-browsers-creating-fresh-security-and-privacy-concerns-norton-neo-is"
     },
     {
@@ -699,81 +802,8 @@
         }
       ],
       "publishedAt": "2025-12-02T01:53:45.000Z",
-      "ranking": 0.8603669748517877,
+      "ranking": 0.01875497784128033,
       "articleUrl": "https://www.marktechpost.com/2025/12/01/deepseek-researchers-introduce-deepseek-v3-2-and-deepseek-v3-2-speciale-for-long-context-reasoning-and-agentic-workloads/"
-    },
-    {
-      "id": "426",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI\u0027s Circular Deal",
-      "mediumTitle": "OpenAI Acquires Stake in Investor",
-      "longTitle": "OpenAI Enters Circular Deal Acquiring Stake in Thrive Holdings",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This move is notable because Thrive",
-            "Holdings\u0027 parent company, Thrive",
-            "Capital, is a significant investor in",
-            "OpenAI itself.",
-            "This creates a situation where OpenAI is",
-            "both a recipient of investment and a",
-            "stakeholder in one of its key investors.",
-            "OpenAI, focused on artificial",
-            "intelligence, is now an owner of a firm",
-            "that has a substantial financial",
-            "interest in OpenAI\u0027s success.",
-            "OpenAI has entered into a new \u0027circular",
-            "deal\u0027 by acquiring an ownership stake in",
-            "Thrive Holdings, a private equity",
-            "investment firm.",
-            "OpenAI did not spend any money to",
-            "acquire this ownership stake, according",
-            "to an anonymous source cited by The",
-            "Financial Times."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-01T19:12:24.000Z",
-      "ranking": 0.6513218857250056,
-      "articleUrl": "https://www.theverge.com/news/835453/openai-ownership-thrive-holdings"
-    },
-    {
-      "id": "419",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Liquid AI LFM2",
-      "mediumTitle": "Liquid AI\u0027s LFM2: On-Device AI",
-      "longTitle": "Liquid AI\u0027s LFM2: On-Device Training and Inference for Enterprises",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Liquid AI, founded by MIT computer",
-            "scientists in 2023, has released its",
-            "Liquid Foundation Models series 2 (LFM2)",
-            "for enterprise-grade, on-device training",
-            "and inference.",
-            "On-device AI is now a viable design",
-            "choice rather than a compromise, with",
-            "LFM2 models demonstrating competitive",
-            "performance and significant latency",
-            "gains.",
-            "LFM2 models offer a fast and efficient",
-            "alternative to large, cloud-only",
-            "language models, aiming for real-time,",
-            "privacy-preserving AI on devices like",
-            "phones and laptops.",
-            "LFM2 provides a reproducible, open, and",
-            "operationally feasible foundation for",
-            "agentic systems that need to run",
-            "anywhere, from mobile devices to",
-            "air-gapped facilities."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-01T18:24:00.000Z",
-      "ranking": 0.4741397287026219,
-      "articleUrl": "https://venturebeat.com/ai/mit-offshoot-liquid-ai-releases-blueprint-for-enterprise-grade-small-model"
     },
     {
       "id": "418",
@@ -810,6 +840,42 @@
       "articleUrl": "https://venturebeat.com/ai/deepseek-just-dropped-two-insanely-powerful-ai-models-that-rival-gpt-5-and"
     },
     {
+      "id": "426",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI\u0027s Circular Deal",
+      "mediumTitle": "OpenAI Acquires Stake in Investor",
+      "longTitle": "OpenAI Enters Circular Deal Acquiring Stake in Thrive Holdings",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This move is notable because Thrive",
+            "Holdings\u0027 parent company, Thrive",
+            "Capital, is a significant investor in",
+            "OpenAI itself.",
+            "This creates a situation where OpenAI is",
+            "both a recipient of investment and a",
+            "stakeholder in one of its key investors.",
+            "OpenAI, focused on artificial",
+            "intelligence, is now an owner of a firm",
+            "that has a substantial financial",
+            "interest in OpenAI\u0027s success.",
+            "OpenAI has entered into a new \u0027circular",
+            "deal\u0027 by acquiring an ownership stake in",
+            "Thrive Holdings, a private equity",
+            "investment firm.",
+            "OpenAI did not spend any money to",
+            "acquire this ownership stake, according",
+            "to an anonymous source cited by The",
+            "Financial Times."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-01T19:12:24.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/835453/openai-ownership-thrive-holdings"
+    },
+    {
       "id": "427",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -843,6 +909,43 @@
       "publishedAt": "2025-12-01T18:39:22.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri"
+    },
+    {
+      "id": "419",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Liquid AI LFM2",
+      "mediumTitle": "Liquid AI\u0027s LFM2: On-Device AI",
+      "longTitle": "Liquid AI\u0027s LFM2: On-Device Training and Inference for Enterprises",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Liquid AI, founded by MIT computer",
+            "scientists in 2023, has released its",
+            "Liquid Foundation Models series 2 (LFM2)",
+            "for enterprise-grade, on-device training",
+            "and inference.",
+            "On-device AI is now a viable design",
+            "choice rather than a compromise, with",
+            "LFM2 models demonstrating competitive",
+            "performance and significant latency",
+            "gains.",
+            "LFM2 models offer a fast and efficient",
+            "alternative to large, cloud-only",
+            "language models, aiming for real-time,",
+            "privacy-preserving AI on devices like",
+            "phones and laptops.",
+            "LFM2 provides a reproducible, open, and",
+            "operationally feasible foundation for",
+            "agentic systems that need to run",
+            "anywhere, from mobile devices to",
+            "air-gapped facilities."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-01T18:24:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/mit-offshoot-liquid-ai-releases-blueprint-for-enterprise-grade-small-model"
     },
     {
       "id": "414",
@@ -1333,148 +1436,6 @@
       "publishedAt": "2025-11-29T05:18:46.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/11/28/nvidia-ai-releases-orchestrator-8b-a-reinforcement-learning-trained-controller-for-efficient-tool-and-model-selection/"
-    },
-    {
-      "id": "404",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Agent Memory",
-      "mediumTitle": "Anthropic Solves AI Agent Memory",
-      "longTitle": "Anthropic Introduces New Solution for AI Agent Memory Issues",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Anthropic has introduced a new solution",
-            "for the long-standing problem of \u0022agent",
-            "memory\u0022 in artificial intelligence,",
-            "particularly for AI agents that need to",
-            "perform tasks over extended periods.",
-            "The second part is a \u0022coding agent\u0022 that",
-            "makes incremental progress on the task",
-            "in each session and leaves structured",
-            "updates and artifacts for the next",
-            "session, ensuring continuity.",
-            "To address this, Anthropic has developed",
-            "a two-fold approach integrated into its",
-            "Claude Agent SDK, enabling agents to",
-            "work effectively across different",
-            "context windows.",
-            "The new two-part solution aims to",
-            "mitigate these issues by ensuring each",
-            "agent focuses on incremental progress",
-            "and leaves a clear record."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-28T20:30:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/anthropic-says-it-solved-the-long-running-ai-agent-problem-with-a-new-multi"
-    },
-    {
-      "id": "401",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI 2025 Recap",
-      "mediumTitle": "AI Advancements in 2025",
-      "longTitle": "Reflections on the Diversified and Mature AI Landscape of 2025",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The year 2025 saw significant",
-            "advancements and diversification in the",
-            "Artificial Intelligence landscape,",
-            "moving beyond hype cycles.",
-            "In conclusion, the author expresses",
-            "thankfulness for the expanded AI",
-            "ecosystem in 2025, characterized by",
-            "diverse options representing the true",
-            "story of the year for developers and",
-            "enterprises.",
-            "OpenAI continued its strong performance",
-            "with the release of GPT-5 and GPT-5.1,",
-            "featuring enhanced reasoning",
-            "capabilities and dynamic \u0027thinking time\u0027",
-            "adjustments.",
-            "Notably, OpenAI returned to its",
-            "open-source roots by releasing",
-            "GPT-OSS-120B and GPT-OSS-20B,",
-            "open-weight MoE reasoning models."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-28T17:19:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/what-to-be-thankful-for-in-ai-in-2025"
-    },
-    {
-      "id": "400",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "DeepSeekMath V2",
-      "mediumTitle": "DeepSeekMath-V2: AI for Math Proofs",
-      "longTitle": "DeepSeekMath-V2: New AI Model Excels at Math Theorem Proving",
-      "paragraphs": [
-        {
-          "Lines": [
-            "DeepSeek AI has launched",
-            "DeepSeekMath-V2, an open-weights large",
-            "language model specifically designed for",
-            "natural language theorem proving and",
-            "self-verification of its reasoning.",
-            "The model achieved a remarkable score of",
-            "118 out of 120 on the 2024 Putnam exam.",
-            "The model\u0027s architecture and training",
-            "are optimized to not only generate",
-            "proofs in clear, natural language but",
-            "also to critically assess the",
-            "correctness of its own logical steps.",
-            "This self-verification mechanism is",
-            "crucial for ensuring the reliability and",
-            "accuracy of its mathematical reasoning.",
-            "A key highlight of DeepSeekMath-V2 is",
-            "its exceptional performance on the",
-            "Putnam Competition, a highly challenging",
-            "mathematics exam."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-28T10:35:43.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/11/28/deepseek-ai-releases-deepseekmath-v2-the-open-weights-maths-model-that-scored-118-120-on-putnam-2024/"
-    },
-    {
-      "id": "402",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Demand Surge",
-      "mediumTitle": "AI Tools Face Demand Limits",
-      "longTitle": "Popular AI Generation Tools Hit by High Demand",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Popular AI generation tools Sora and",
-            "Nano Banana Pro are experiencing",
-            "throttled request limits due to a surge",
-            "in demand this holiday weekend.",
-            "Bill Peebles, who leads the Sora project",
-            "at OpenAI, announced that free users",
-            "will now be limited to six video",
-            "generations per day.",
-            "He humorously described the situation as",
-            "\u0027Our GPUs are melting,\u0027 highlighting the",
-            "extreme strain on their processing",
-            "resources.",
-            "While the article doesn\u0027t explicitly",
-            "detail the new limits for Nano Banana",
-            "Pro, it groups it with Sora as being",
-            "affected by similar demand-driven",
-            "throttling."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-28T09:00:34.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/831760/openai-google-rate-limit-sora-nano-banana-pro"
     }
   ]
 }
