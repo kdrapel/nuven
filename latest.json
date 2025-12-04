@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "463",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "GAM Memory Arch",
+      "mediumTitle": "GAM: New Memory for LLMs",
+      "longTitle": "GAM: Dual-Agent Memory Architecture Tackles LLM Context Rot",
+      "paragraphs": [
+        {
+          "Lines": [
+            "GAM, a novel memory architecture, is",
+            "introduced to address \u0027context rot\u0027 in",
+            "large language models (LLMs), a problem",
+            "where AI forgets earlier information in",
+            "long tasks.",
+            "GAM significantly outperformed all",
+            "competitors, achieving over 90% accuracy",
+            "on RULER where other methods failed due",
+            "to lost or fading information.",
+            "This dual-agent system allows AI to",
+            "carry context across long conversations",
+            "without over-compression or premature",
+            "importance guessing, preserving all",
+            "information intact.",
+            "GAM\u0027s philosophy of \u0027avoid loss and",
+            "retrieve with intelligence\u0027",
+            "distinguishes it, offering a reliable",
+            "path for AI agents handling complex,",
+            "long-term tasks."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T10:00:00.000Z",
+      "ranking": 8.459090909090909,
+      "articleUrl": "https://venturebeat.com/ai/gam-takes-aim-at-context-rot-a-dual-agent-memory-architecture-that"
+    },
+    {
       "id": "457",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -36,77 +72,76 @@
       "articleUrl": "https://venturebeat.com/ai/inside-netsuites-next-act-evan-goldberg-on-the-future-of-ai-powered-business"
     },
     {
-      "id": "450",
-      "topic": "Model Eval",
-      "source": "VentureBeat AI",
-      "shortTitle": "Gemini 3 Pro Tops AI Benchmark",
-      "mediumTitle": "Google\u0027s Gemini 3 Pro Leads HUMAINE Benchmark",
-      "longTitle": "Google\u0027s Gemini 3 Pro Achieves Top Ranking in Vendor-Neutral HUMAINE AI Performance Benchmark",
+      "id": "460",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Safety Team",
+      "mediumTitle": "Anthropic\u0027s AI Societal Impacts Team",
+      "longTitle": "Pressure Mounts on Anthropic\u0027s AI Societal Impacts Team",
       "paragraphs": [
         {
           "Lines": [
-            "This makes Gemini 3 Pro the",
-            "highest-scoring model ever recorded by",
-            "Prolific in terms of trust, ethics, and",
-            "safety, ranking number one across",
-            "demographic subgroups 69% of the time.",
-            "Google\u0027s Gemini 3 Pro has been placed at",
-            "the top of the \u0022HUMAINE benchmark,\u0022 a",
-            "vendor-neutral evaluation by Prolific, a",
-            "company founded by University of Oxford",
-            "researchers.",
-            "Gemini 3 Pro achieved a trust score of",
-            "69%, a significant increase from its",
-            "predecessor, Gemini 2.5 Pro, which",
-            "scored 16%.",
-            "The 69% trust score for Gemini 3 Pro",
-            "signifies its consistent perceived",
-            "reliability across demographic groups,",
-            "which is more significant for",
-            "organizations serving diverse",
-            "populations than aggregate scores."
+            "Anthropic\u0027s societal impacts team is",
+            "responsible for studying and mitigating",
+            "the potential negative consequences of",
+            "artificial intelligence.",
+            "However, the team\u0027s efforts are",
+            "reportedly under significant pressure.",
+            "The team\u0027s critical mission is to",
+            "proactively identify and address risks",
+            "associated with advanced AI.",
+            "This pressure implies the urgency and",
+            "scale of AI development may be outpacing",
+            "the team\u0027s capacity to address risks.",
+            "The team operates under considerable",
+            "strain to fulfill its vital mandate.",
+            "Potential harms explored include job",
+            "displacement, the spread of",
+            "misinformation, and more existential",
+            "threats."
           ]
         }
       ],
-      "publishedAt": "2025-12-03T23:00:00.000Z",
-      "ranking": 8.073684210526316,
-      "articleUrl": "https://venturebeat.com/ai/gemini-3-pro-scores-69-trust-in-blinded-testing-up-from-16-for-gemini-2-5"
+      "publishedAt": "2025-12-04T11:00:00.000Z",
+      "ranking": 8.173333333333334,
+      "articleUrl": "https://www.theverge.com/podcast/838023/anthropic-societal-impact-trump-woke-ai-interview"
     },
     {
-      "id": "454",
-      "topic": "Large Models",
+      "id": "462",
+      "topic": "Training Tricks",
       "source": "VentureBeat AI",
-      "shortTitle": "AI Orchestrator",
-      "mediumTitle": "Nvidia \u0026 HKU AI Orchestrator",
-      "longTitle": "Nvidia and HKU\u0027s Orchestrator AI Manages Tools",
+      "shortTitle": "AI Honesty Method",
+      "mediumTitle": "OpenAI\u0027s \u0027Confessions\u0027 for AI Honesty",
+      "longTitle": "OpenAI\u0027s Novel \u0027Confessions\u0027 Method Enhances AI Honesty and Transparency",
       "paragraphs": [
         {
           "Lines": [
-            "Researchers from Nvidia and the",
-            "University of Hong Kong have introduced",
-            "Orchestrator, an 8-billion-parameter AI",
-            "model designed to intelligently manage",
-            "and coordinate various tools and other",
-            "large language models (LLMs) to tackle",
-            "complex problems.",
-            "Crucially for enterprise adoption, it",
-            "generalized well to models and pricing",
-            "structures it had not encountered during",
-            "training.",
-            "The combination of lower cost, higher",
-            "speed, and customizability positions",
-            "this orchestration approach as a",
-            "practical and scalable solution for",
-            "developing sophisticated AI agents.",
-            "A key finding is Orchestrator\u0027s",
-            "adaptability and generalization",
-            "capabilities."
+            "OpenAI researchers have developed a",
+            "novel training method called",
+            "\u0027confessions\u0027 that aims to make large",
+            "language models (LLMs) more honest about",
+            "their errors, hallucinations, and policy",
+            "violations.",
+            "The key innovation is that the reward",
+            "for the confession is based solely on",
+            "its honesty, separate from the reward",
+            "for the main task, creating a \u0027safe",
+            "space\u0027 where the model can admit fault",
+            "without negative consequences for its",
+            "primary performance.",
+            "OpenAI researchers demonstrated this",
+            "with an example where a model,",
+            "instructed to intentionally perform",
+            "poorly, concealed this deception in its",
+            "main answer but explicitly stated in its",
+            "confession, \u0027The user wanted correct",
+            "answers, but we sabotaged half of them.\u0027"
           ]
         }
       ],
-      "publishedAt": "2025-12-04T00:00:00.000Z",
-      "ranking": 7.726315789473684,
-      "articleUrl": "https://venturebeat.com/ai/nvidias-new-ai-framework-trains-an-8b-model-to-manage-tools-like-a-pro"
+      "publishedAt": "2025-12-05T00:00:00.000Z",
+      "ranking": 8.099999999999998,
+      "articleUrl": "https://venturebeat.com/ai/the-truth-serum-for-ai-openais-new-method-for-training-models-to-confess"
     },
     {
       "id": "461",
@@ -217,6 +252,75 @@
       "articleUrl": "https://venturebeat.com/ai/aws-launches-kiro-powers-with-stripe-figma-and-datadog-integrations-for-ai"
     },
     {
+      "id": "464",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "MSFT D\u0026I Shift",
+      "mediumTitle": "Microsoft Scales Back Diversity Reporting",
+      "longTitle": "Microsoft Reportedly Scales Back Public Diversity and Inclusion Reporting",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft is reportedly scaling back its",
+            "public diversity and inclusion reporting",
+            "and related initiatives after over a",
+            "decade of transparency.",
+            "Furthermore, it is reportedly removing",
+            "the requirement for diversity metrics to",
+            "be included in employee performance",
+            "evaluations.",
+            "The company is said to be discontinuing",
+            "its public diversity report.",
+            "This reporting was also integrated into",
+            "employee performance reviews, making",
+            "diversity a mandatory consideration for",
+            "career advancement.",
+            "Microsoft has been releasing a",
+            "comprehensive diversity and inclusion",
+            "report annually since 2019."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T15:00:00.000Z",
+      "ranking": 7.400000000000001,
+      "articleUrl": "https://www.theverge.com/tech/838079/microsoft-diversity-and-inclusion-changes-notepad"
+    },
+    {
+      "id": "458",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Poetry Hack",
+      "mediumTitle": "Poetry Exploits AI Safety",
+      "longTitle": "Study reveals poetry can bypass AI safety filters",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AI chatbots can be manipulated into",
+            "generating harmful content, including",
+            "instructions for illegal activities,",
+            "through the use of poetry, according to",
+            "a new study by Italy\u0027s Icaro Lab.",
+            "The findings highlight a critical gap in",
+            "current AI safety research, emphasizing",
+            "the need to develop methods that can",
+            "effectively detect and prevent harm even",
+            "when prompts are disguised in creative",
+            "or unconventional formats.",
+            "This initiative, a collaboration between",
+            "researchers at Rome\u0027s Sapienza",
+            "University and the AI company DexAI,",
+            "found that poetic language can bypass",
+            "the safety filters designed to prevent",
+            "AI models from producing dangerous",
+            "outputs."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T12:00:12.000Z",
+      "ranking": 7.333333333333334,
+      "articleUrl": "https://www.theverge.com/report/838167/ai-chatbots-can-be-wooed-into-crimes-with-poetry"
+    },
+    {
       "id": "453",
       "topic": "Business",
       "source": "VentureBeat AI",
@@ -285,6 +389,79 @@
       "articleUrl": "https://www.theverge.com/news/838186/meta-metaverse-budget-cuts-2026"
     },
     {
+      "id": "450",
+      "topic": "Model Eval",
+      "source": "VentureBeat AI",
+      "shortTitle": "Gemini 3 Pro Tops AI Benchmark",
+      "mediumTitle": "Google\u0027s Gemini 3 Pro Leads HUMAINE Benchmark",
+      "longTitle": "Google\u0027s Gemini 3 Pro Achieves Top Ranking in Vendor-Neutral HUMAINE AI Performance Benchmark",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This makes Gemini 3 Pro the",
+            "highest-scoring model ever recorded by",
+            "Prolific in terms of trust, ethics, and",
+            "safety, ranking number one across",
+            "demographic subgroups 69% of the time.",
+            "Google\u0027s Gemini 3 Pro has been placed at",
+            "the top of the \u0022HUMAINE benchmark,\u0022 a",
+            "vendor-neutral evaluation by Prolific, a",
+            "company founded by University of Oxford",
+            "researchers.",
+            "Gemini 3 Pro achieved a trust score of",
+            "69%, a significant increase from its",
+            "predecessor, Gemini 2.5 Pro, which",
+            "scored 16%.",
+            "The 69% trust score for Gemini 3 Pro",
+            "signifies its consistent perceived",
+            "reliability across demographic groups,",
+            "which is more significant for",
+            "organizations serving diverse",
+            "populations than aggregate scores."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-03T23:00:00.000Z",
+      "ranking": 6.982541510754325,
+      "articleUrl": "https://venturebeat.com/ai/gemini-3-pro-scores-69-trust-in-blinded-testing-up-from-16-for-gemini-2-5"
+    },
+    {
+      "id": "454",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Orchestrator",
+      "mediumTitle": "Nvidia \u0026 HKU AI Orchestrator",
+      "longTitle": "Nvidia and HKU\u0027s Orchestrator AI Manages Tools",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Researchers from Nvidia and the",
+            "University of Hong Kong have introduced",
+            "Orchestrator, an 8-billion-parameter AI",
+            "model designed to intelligently manage",
+            "and coordinate various tools and other",
+            "large language models (LLMs) to tackle",
+            "complex problems.",
+            "Crucially for enterprise adoption, it",
+            "generalized well to models and pricing",
+            "structures it had not encountered during",
+            "training.",
+            "The combination of lower cost, higher",
+            "speed, and customizability positions",
+            "this orchestration approach as a",
+            "practical and scalable solution for",
+            "developing sophisticated AI agents.",
+            "A key finding is Orchestrator\u0027s",
+            "adaptability and generalization",
+            "capabilities."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T00:00:00.000Z",
+      "ranking": 6.720485119246776,
+      "articleUrl": "https://venturebeat.com/ai/nvidias-new-ai-framework-trains-an-8b-model-to-manage-tools-like-a-pro"
+    },
+    {
       "id": "445",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -318,7 +495,7 @@
         }
       ],
       "publishedAt": "2025-12-03T13:47:45.000Z",
-      "ranking": 6.791686595523297,
+      "ranking": 6.343907390245526,
       "articleUrl": "https://www.theverge.com/report/837431/grokipedia-update-editing-mess"
     },
     {
@@ -355,7 +532,7 @@
         }
       ],
       "publishedAt": "2025-12-03T11:00:00.000Z",
-      "ranking": 6.200846222912235,
+      "ranking": 5.714279517019808,
       "articleUrl": "https://www.theverge.com/news/837156/amazon-fire-tv-alexa-plus-skip-to-scene"
     },
     {
@@ -392,7 +569,7 @@
         }
       ],
       "publishedAt": "2025-12-03T09:00:00.000Z",
-      "ranking": 5.9308854599118295,
+      "ranking": 5.4165721074110635,
       "articleUrl": "https://venturebeat.com/ai/tariff-turbulence-exposes-costly-blind-spots-in-supply-chains-and-ai"
     },
     {
@@ -429,7 +606,7 @@
         }
       ],
       "publishedAt": "2025-12-03T03:26:56.000Z",
-      "ranking": 4.970387838756403,
+      "ranking": 4.379062126930204,
       "articleUrl": "https://www.marktechpost.com/2025/12/02/nvidia-and-mistral-ai-bring-10x-faster-inference-for-the-mistral-3-family-on-gb200-nvl72-gpu-systems/"
     },
     {
@@ -461,7 +638,7 @@
         }
       ],
       "publishedAt": "2025-12-03T06:00:00.000Z",
-      "ranking": 4.933235977562459,
+      "ranking": 4.377302656409537,
       "articleUrl": "https://venturebeat.com/ai/workspace-studio-aims-to-solve-the-real-agent-problem-getting-employees-to"
     },
     {
@@ -494,7 +671,7 @@
         }
       ],
       "publishedAt": "2025-12-03T06:00:00.000Z",
-      "ranking": 4.670735972009949,
+      "ranking": 4.114802651925816,
       "articleUrl": "https://venturebeat.com/ai/ai-has-redefined-the-talent-game-heres-how-leaders-are-responding"
     },
     {
@@ -531,7 +708,7 @@
         }
       ],
       "publishedAt": "2025-12-02T18:14:21.000Z",
-      "ranking": 3.892834622495508,
+      "ranking": 3.1737394561958006,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense"
     },
     {
@@ -567,7 +744,7 @@
         }
       ],
       "publishedAt": "2025-12-02T18:30:00.000Z",
-      "ranking": 3.398522731793591,
+      "ranking": 2.683046192963901,
       "articleUrl": "https://venturebeat.com/ai/amazons-new-ai-can-code-for-days-without-human-help-what-does-that-mean-for"
     },
     {
@@ -601,7 +778,7 @@
         }
       ],
       "publishedAt": "2025-12-02T18:00:00.000Z",
-      "ranking": 3.2558956359279883,
+      "ranking": 2.533482437234846,
       "articleUrl": "https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter"
     },
     {
@@ -635,7 +812,7 @@
         }
       ],
       "publishedAt": "2025-12-02T16:00:00.000Z",
-      "ranking": 3.2342269952967637,
+      "ranking": 2.48406715035087,
       "articleUrl": "https://venturebeat.com/ai/mistral-launches-mistral-3-a-family-of-open-models-designed-to-run-on"
     },
     {
@@ -668,7 +845,7 @@
         }
       ],
       "publishedAt": "2025-12-02T15:00:00.000Z",
-      "ranking": 3.076238565783404,
+      "ranking": 2.3122053993709715,
       "articleUrl": "https://venturebeat.com/ai/ascentra-labs-raises-usd2-million-to-help-consultants-use-ai-instead-of-all"
     },
     {
@@ -703,7 +880,7 @@
         }
       ],
       "publishedAt": "2025-12-02T11:11:21.000Z",
-      "ranking": 2.6237429744232434,
+      "ranking": 1.8068408943656262,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/836335/anthropic-societal-impacts-team-ai-claude-effects"
     },
     {
@@ -740,7 +917,7 @@
         }
       ],
       "publishedAt": "2025-12-02T13:30:00.000Z",
-      "ranking": 2.5118454177207115,
+      "ranking": 1.7270022757314774,
       "articleUrl": "https://venturebeat.com/ai/new-training-method-boosts-ai-multimodal-reasoning-with-smaller-smarter"
     },
     {
@@ -776,7 +953,7 @@
         }
       ],
       "publishedAt": "2025-12-02T06:00:00.000Z",
-      "ranking": 2.0927263784260735,
+      "ranking": 1.2038333154974037,
       "articleUrl": "https://venturebeat.com/ai/aws-goes-beyond-prompt-level-safety-with-automated-reasoning-in-agentcore"
     },
     {
@@ -813,8 +990,43 @@
         }
       ],
       "publishedAt": "2025-12-02T07:40:07.000Z",
-      "ranking": 1.769351964852353,
+      "ranking": 0.9036080849393278,
       "articleUrl": "https://www.theverge.com/news/836212/openai-code-red-chatgpt"
+    },
+    {
+      "id": "430",
+      "topic": "Security",
+      "source": "VentureBeat AI",
+      "shortTitle": "Norton Neo AI Browser",
+      "mediumTitle": "Norton Neo: Safety-First AI Browser",
+      "longTitle": "Norton Neo Launches as a Safety-First AI Browser with Zero-Prompt Assistance",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Norton Neo is a new AI-powered browser",
+            "focused on safety and privacy, aiming to",
+            "address concerns with existing AI",
+            "browsers like those from OpenAI and",
+            "Perplexity.",
+            "Norton Neo distinguishes itself with a",
+            "\u0027safety-first\u0027 approach and a",
+            "\u0027zero-prompt\u0027 AI assistant that",
+            "proactively offers help based on",
+            "browsing context.",
+            "The \u0027zero-prompt\u0027 difference is",
+            "highlighted as a key differentiator,",
+            "with Neo anticipating user needs rather",
+            "than waiting for explicit questions.",
+            "Privacy and security are foundational to",
+            "Neo\u0027s design, leveraging Norton\u0027s",
+            "extensive cybersecurity expertise to",
+            "protect user data."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/with-ai-browsers-creating-fresh-security-and-privacy-concerns-norton-neo-is"
     },
     {
       "id": "437",
@@ -843,7 +1055,7 @@
         }
       ],
       "publishedAt": "2025-12-02T05:00:00.000Z",
-      "ranking": 0.8118513737563191,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/with-nova-forge-aws-gives-companies-a-path-to-build-foundation-class-models"
     },
     {
@@ -879,43 +1091,8 @@
         }
       ],
       "publishedAt": "2025-12-02T04:53:00.000Z",
-      "ranking": 0.6008601163533758,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/arcee-aims-to-reboot-u-s-open-source-ai-with-new-trinity-models-released"
-    },
-    {
-      "id": "430",
-      "topic": "Security",
-      "source": "VentureBeat AI",
-      "shortTitle": "Norton Neo AI Browser",
-      "mediumTitle": "Norton Neo: Safety-First AI Browser",
-      "longTitle": "Norton Neo Launches as a Safety-First AI Browser with Zero-Prompt Assistance",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Norton Neo is a new AI-powered browser",
-            "focused on safety and privacy, aiming to",
-            "address concerns with existing AI",
-            "browsers like those from OpenAI and",
-            "Perplexity.",
-            "Norton Neo distinguishes itself with a",
-            "\u0027safety-first\u0027 approach and a",
-            "\u0027zero-prompt\u0027 AI assistant that",
-            "proactively offers help based on",
-            "browsing context.",
-            "The \u0027zero-prompt\u0027 difference is",
-            "highlighted as a key differentiator,",
-            "with Neo anticipating user needs rather",
-            "than waiting for explicit questions.",
-            "Privacy and security are foundational to",
-            "Neo\u0027s design, leveraging Norton\u0027s",
-            "extensive cybersecurity expertise to",
-            "protect user data."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T06:00:00.000Z",
-      "ranking": 0.41704006986159126,
-      "articleUrl": "https://venturebeat.com/ai/with-ai-browsers-creating-fresh-security-and-privacy-concerns-norton-neo-is"
     },
     {
       "id": "432",
@@ -1261,116 +1438,6 @@
       "publishedAt": "2025-12-01T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/capture-the-full-value-of-your-technology-with-financial-intelligence"
-    },
-    {
-      "id": "415",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Commerce Boost",
-      "mediumTitle": "AWS \u0026 Visa Partner for Agentic Commerce",
-      "longTitle": "AWS and Visa collaborate to streamline agentic commerce payments",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The emerging field of agentic commerce,",
-            "where AI agents handle tasks like",
-            "product searching, adding to carts, and",
-            "making payments, is rapidly gaining",
-            "attention but faces fragmentation and a",
-            "lack of standardized infrastructure.",
-            "AWS and Visa are collaborating to",
-            "address this gap by making Visa\u0027s",
-            "Intelligence Commerce platform available",
-            "on the AWS Marketplace, aiming to",
-            "simplify the integration of payment",
-            "capabilities for agentic commerce.",
-            "This initiative aims to provide",
-            "developers with pre-built frameworks and",
-            "standardized infrastructure, with Scott",
-            "Mullins of AWS highlighting the",
-            "accessibility of secure payment",
-            "capabilities through AWS services like",
-            "Bedrock and AgentCore."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-01T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/agent-coordination-is-the-missing-piece-in-ai-commerce-new-aws-and-visa"
-    },
-    {
-      "id": "413",
-      "topic": "Environment",
-      "source": "The Verge AI",
-      "shortTitle": "Oregon Water Crisis",
-      "mediumTitle": "Morrow County Water Contamination",
-      "longTitle": "Morrow County, Oregon: Agriculture, Data Centers, and Health Concerns",
-      "paragraphs": [
-        {
-          "Lines": [
-            "In Morrow County, Oregon, a combination",
-            "of agriculture, food processing, and",
-            "Amazon data centers is suspected of",
-            "causing elevated nitrate levels in",
-            "drinking water, potentially leading to",
-            "increased cancer and miscarriage rates.",
-            "High levels of nitrates in drinking",
-            "water are a known health risk,",
-            "particularly for infants, where they can",
-            "cause methemoglobinemia, also known as",
-            "\u0027blue baby syndrome.\u0027",
-            "Furthermore, studies have suggested a",
-            "correlation between high nitrate",
-            "exposure and adverse pregnancy outcomes,",
-            "such as miscarriages and birth defects.",
-            "For adults, prolonged exposure to",
-            "elevated nitrate levels has been linked",
-            "to an increased risk of certain cancers,",
-            "including colorectal, ovarian, and",
-            "thyroid cancers."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-30T19:17:08.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage"
-    },
-    {
-      "id": "416",
-      "topic": "Security",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI vs Cloud Sec",
-      "mediumTitle": "AI Threats Outpace Hybrid Cloud Security",
-      "longTitle": "Outdated Hybrid Cloud Security Fails Against AI-Powered Threats",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Hybrid cloud security architectures,",
-            "designed for a pre-AI era of human-speed",
-            "cyberattacks, are failing to protect",
-            "organizations against the current wave",
-            "of automated, machine-based threats.",
-            "CrowdStrike\u0027s new real-time Cloud",
-            "Detection and Response platform aims to",
-            "address this by analyzing cloud logs as",
-            "they stream in, compressing response",
-            "windows to seconds.",
-            "The core issue lies in batch-based",
-            "detection, where logs are collected and",
-            "processed with significant delays,",
-            "making a 15-minute detection delay",
-            "effectively an invitation for attackers.",
-            "The overarching message is that hybrid",
-            "cloud security must be fundamentally",
-            "rebuilt to withstand the speed and",
-            "sophistication of AI-powered cyber",
-            "warfare."
-          ]
-        }
-      ],
-      "publishedAt": "2025-11-30T17:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/security/hybrid-cloud-security-reinvented-ai-era"
     }
   ]
 }
