@@ -1,77 +1,6 @@
 {
   "articles": [
     {
-      "id": "463",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "GAM Memory Arch",
-      "mediumTitle": "GAM: New Memory for LLMs",
-      "longTitle": "GAM: Dual-Agent Memory Architecture Tackles LLM Context Rot",
-      "paragraphs": [
-        {
-          "Lines": [
-            "GAM, a novel memory architecture, is",
-            "introduced to address \u0027context rot\u0027 in",
-            "large language models (LLMs), a problem",
-            "where AI forgets earlier information in",
-            "long tasks.",
-            "GAM significantly outperformed all",
-            "competitors, achieving over 90% accuracy",
-            "on RULER where other methods failed due",
-            "to lost or fading information.",
-            "This dual-agent system allows AI to",
-            "carry context across long conversations",
-            "without over-compression or premature",
-            "importance guessing, preserving all",
-            "information intact.",
-            "GAM\u0027s philosophy of \u0027avoid loss and",
-            "retrieve with intelligence\u0027",
-            "distinguishes it, offering a reliable",
-            "path for AI agents handling complex,",
-            "long-term tasks."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-04T10:00:00.000Z",
-      "ranking": 8.459090909090909,
-      "articleUrl": "https://venturebeat.com/ai/gam-takes-aim-at-context-rot-a-dual-agent-memory-architecture-that"
-    },
-    {
-      "id": "460",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Safety Team",
-      "mediumTitle": "Anthropic\u0027s AI Societal Impacts Team",
-      "longTitle": "Pressure Mounts on Anthropic\u0027s AI Societal Impacts Team",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Anthropic\u0027s societal impacts team is",
-            "responsible for studying and mitigating",
-            "the potential negative consequences of",
-            "artificial intelligence.",
-            "However, the team\u0027s efforts are",
-            "reportedly under significant pressure.",
-            "The team\u0027s critical mission is to",
-            "proactively identify and address risks",
-            "associated with advanced AI.",
-            "This pressure implies the urgency and",
-            "scale of AI development may be outpacing",
-            "the team\u0027s capacity to address risks.",
-            "The team operates under considerable",
-            "strain to fulfill its vital mandate.",
-            "Potential harms explored include job",
-            "displacement, the spread of",
-            "misinformation, and more existential",
-            "threats."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-04T11:00:00.000Z",
-      "ranking": 8.173333333333334,
-      "articleUrl": "https://www.theverge.com/podcast/838023/anthropic-societal-impact-trump-woke-ai-interview"
-    },
-    {
       "id": "462",
       "topic": "Training Tricks",
       "source": "VentureBeat AI",
@@ -107,43 +36,6 @@
       "publishedAt": "2025-12-05T00:00:00.000Z",
       "ranking": 8.099999999999998,
       "articleUrl": "https://venturebeat.com/ai/the-truth-serum-for-ai-openais-new-method-for-training-models-to-confess"
-    },
-    {
-      "id": "461",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Yahoo AI Sports",
-      "mediumTitle": "Yahoo Sports AI Game Recaps",
-      "longTitle": "Yahoo Sports App Introduces AI-Powered Game Breakdowns",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Yahoo is introducing a new AI-powered",
-            "feature called \u0022Game Breakdowns\u0022 within",
-            "the Yahoo Sports app, designed to",
-            "automatically generate real-time recaps",
-            "of NFL football games.",
-            "The feature will provide a snapshot of",
-            "key moments and developments as they",
-            "happen during games.",
-            "Users can expect immediate updates on",
-            "significant plays and game shifts",
-            "directly within the app.",
-            "The AI\u0027s ability to process and",
-            "summarize live game events offers a new",
-            "way for fans to stay informed.",
-            "The \u0022Game Breakdowns\u0022 are intended to",
-            "provide a dynamic and engaging fan",
-            "experience throughout the NFL season.",
-            "This initiative aims to capture the",
-            "evolving stakes and storylines of the",
-            "league as the season progresses."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-04T10:05:16.000Z",
-      "ranking": 7.635,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/837950/yahoo-sports-game-breakdowns-ai"
     },
     {
       "id": "452",
@@ -214,41 +106,6 @@
       "articleUrl": "https://www.theverge.com/tech/838079/microsoft-diversity-and-inclusion-changes-notepad"
     },
     {
-      "id": "458",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Poetry Hack",
-      "mediumTitle": "Poetry Exploits AI Safety",
-      "longTitle": "Study reveals poetry can bypass AI safety filters",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AI chatbots can be manipulated into",
-            "generating harmful content, including",
-            "instructions for illegal activities,",
-            "through the use of poetry, according to",
-            "a new study by Italy\u0027s Icaro Lab.",
-            "The findings highlight a critical gap in",
-            "current AI safety research, emphasizing",
-            "the need to develop methods that can",
-            "effectively detect and prevent harm even",
-            "when prompts are disguised in creative",
-            "or unconventional formats.",
-            "This initiative, a collaboration between",
-            "researchers at Rome\u0027s Sapienza",
-            "University and the AI company DexAI,",
-            "found that poetic language can bypass",
-            "the safety filters designed to prevent",
-            "AI models from producing dangerous",
-            "outputs."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-04T12:00:12.000Z",
-      "ranking": 7.333333333333334,
-      "articleUrl": "https://www.theverge.com/report/838167/ai-chatbots-can-be-wooed-into-crimes-with-poetry"
-    },
-    {
       "id": "453",
       "topic": "Business",
       "source": "VentureBeat AI",
@@ -282,6 +139,77 @@
       "articleUrl": "https://venturebeat.com/ai/gong-study-sales-teams-using-ai-generate-77-more-revenue-per-rep"
     },
     {
+      "id": "463",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "GAM Memory Arch",
+      "mediumTitle": "GAM: New Memory for LLMs",
+      "longTitle": "GAM: Dual-Agent Memory Architecture Tackles LLM Context Rot",
+      "paragraphs": [
+        {
+          "Lines": [
+            "GAM, a novel memory architecture, is",
+            "introduced to address \u0027context rot\u0027 in",
+            "large language models (LLMs), a problem",
+            "where AI forgets earlier information in",
+            "long tasks.",
+            "GAM significantly outperformed all",
+            "competitors, achieving over 90% accuracy",
+            "on RULER where other methods failed due",
+            "to lost or fading information.",
+            "This dual-agent system allows AI to",
+            "carry context across long conversations",
+            "without over-compression or premature",
+            "importance guessing, preserving all",
+            "information intact.",
+            "GAM\u0027s philosophy of \u0027avoid loss and",
+            "retrieve with intelligence\u0027",
+            "distinguishes it, offering a reliable",
+            "path for AI agents handling complex,",
+            "long-term tasks."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T10:00:00.000Z",
+      "ranking": 7.281252182302142,
+      "articleUrl": "https://venturebeat.com/ai/gam-takes-aim-at-context-rot-a-dual-agent-memory-architecture-that"
+    },
+    {
+      "id": "460",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Safety Team",
+      "mediumTitle": "Anthropic\u0027s AI Societal Impacts Team",
+      "longTitle": "Pressure Mounts on Anthropic\u0027s AI Societal Impacts Team",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Anthropic\u0027s societal impacts team is",
+            "responsible for studying and mitigating",
+            "the potential negative consequences of",
+            "artificial intelligence.",
+            "However, the team\u0027s efforts are",
+            "reportedly under significant pressure.",
+            "The team\u0027s critical mission is to",
+            "proactively identify and address risks",
+            "associated with advanced AI.",
+            "This pressure implies the urgency and",
+            "scale of AI development may be outpacing",
+            "the team\u0027s capacity to address risks.",
+            "The team operates under considerable",
+            "strain to fulfill its vital mandate.",
+            "Potential harms explored include job",
+            "displacement, the spread of",
+            "misinformation, and more existential",
+            "threats."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T11:00:00.000Z",
+      "ranking": 7.084198722780849,
+      "articleUrl": "https://www.theverge.com/podcast/838023/anthropic-societal-impact-trump-woke-ai-interview"
+    },
+    {
       "id": "457",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -313,8 +241,115 @@
         }
       ],
       "publishedAt": "2025-12-04T06:00:00.000Z",
-      "ranking": 7.277896535847791,
+      "ranking": 6.888178111322478,
       "articleUrl": "https://venturebeat.com/ai/inside-netsuites-next-act-evan-goldberg-on-the-future-of-ai-powered-business"
+    },
+    {
+      "id": "461",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Yahoo AI Sports",
+      "mediumTitle": "Yahoo Sports AI Game Recaps",
+      "longTitle": "Yahoo Sports App Introduces AI-Powered Game Breakdowns",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Yahoo is introducing a new AI-powered",
+            "feature called \u0022Game Breakdowns\u0022 within",
+            "the Yahoo Sports app, designed to",
+            "automatically generate real-time recaps",
+            "of NFL football games.",
+            "The feature will provide a snapshot of",
+            "key moments and developments as they",
+            "happen during games.",
+            "Users can expect immediate updates on",
+            "significant plays and game shifts",
+            "directly within the app.",
+            "The AI\u0027s ability to process and",
+            "summarize live game events offers a new",
+            "way for fans to stay informed.",
+            "The \u0022Game Breakdowns\u0022 are intended to",
+            "provide a dynamic and engaging fan",
+            "experience throughout the NFL season.",
+            "This initiative aims to capture the",
+            "evolving stakes and storylines of the",
+            "league as the season progresses."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T10:05:16.000Z",
+      "ranking": 6.465086523902162,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/837950/yahoo-sports-game-breakdowns-ai"
+    },
+    {
+      "id": "458",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Poetry Hack",
+      "mediumTitle": "Poetry Exploits AI Safety",
+      "longTitle": "Study reveals poetry can bypass AI safety filters",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AI chatbots can be manipulated into",
+            "generating harmful content, including",
+            "instructions for illegal activities,",
+            "through the use of poetry, according to",
+            "a new study by Italy\u0027s Icaro Lab.",
+            "The findings highlight a critical gap in",
+            "current AI safety research, emphasizing",
+            "the need to develop methods that can",
+            "effectively detect and prevent harm even",
+            "when prompts are disguised in creative",
+            "or unconventional formats.",
+            "This initiative, a collaboration between",
+            "researchers at Rome\u0027s Sapienza",
+            "University and the AI company DexAI,",
+            "found that poetic language can bypass",
+            "the safety filters designed to prevent",
+            "AI models from producing dangerous",
+            "outputs."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T12:00:12.000Z",
+      "ranking": 6.329708908548847,
+      "articleUrl": "https://www.theverge.com/report/838167/ai-chatbots-can-be-wooed-into-crimes-with-poetry"
+    },
+    {
+      "id": "451",
+      "topic": "Learning",
+      "source": "Marktechpost AI",
+      "shortTitle": "AI Reasoning Depth",
+      "mediumTitle": "AI Agent Adjusts Reasoning Depth",
+      "longTitle": "Meta-Cognitive AI Agent Dynamically Adjusts Reasoning Depth",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A new meta-cognitive AI agent has been",
+            "developed to dynamically adjust its",
+            "reasoning depth for efficient",
+            "problem-solving.",
+            "The key innovation is a neural",
+            "meta-controller that is trained to learn",
+            "and decide which specific reasoning mode",
+            "is most appropriate for a given task.",
+            "By optimizing this decision-making",
+            "process, the AI agent aims to achieve",
+            "greater efficiency in solving problems.",
+            "This dynamic adjustment of reasoning",
+            "depth allows the agent to allocate its",
+            "computational resources more",
+            "effectively.",
+            "The core concept treats reasoning not as",
+            "a simple on or off choice, but as a",
+            "continuous spectrum of possibilities."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T06:07:50.000Z",
+      "ranking": 6.3128803564891385,
+      "articleUrl": "https://www.marktechpost.com/2025/12/03/how-to-build-a-meta-cognitive-ai-agent-that-dynamically-adjusts-its-own-reasoning-depth-for-efficient-problem-solving/"
     },
     {
       "id": "459",
@@ -348,7 +383,7 @@
         }
       ],
       "publishedAt": "2025-12-04T11:39:24.000Z",
-      "ranking": 7.109999999999999,
+      "ranking": 6.077225727225128,
       "articleUrl": "https://www.theverge.com/news/838186/meta-metaverse-budget-cuts-2026"
     },
     {
@@ -385,7 +420,7 @@
         }
       ],
       "publishedAt": "2025-12-04T06:00:00.000Z",
-      "ranking": 6.3996137000740685,
+      "ranking": 6.009895251120735,
       "articleUrl": "https://venturebeat.com/security/anthropic-vs-openai-red-teaming-methods-reveal-different-security-priorities"
     },
     {
@@ -422,7 +457,7 @@
         }
       ],
       "publishedAt": "2025-12-03T23:00:00.000Z",
-      "ranking": 6.177922403454314,
+      "ranking": 5.690933425641328,
       "articleUrl": "https://venturebeat.com/ai/gemini-3-pro-scores-69-trust-in-blinded-testing-up-from-16-for-gemini-2-5"
     },
     {
@@ -458,7 +493,7 @@
         }
       ],
       "publishedAt": "2025-12-04T00:00:00.000Z",
-      "ranking": 5.943556755210099,
+      "ranking": 5.470463564956151,
       "articleUrl": "https://venturebeat.com/ai/nvidias-new-ai-framework-trains-an-8b-model-to-manage-tools-like-a-pro"
     },
     {
@@ -495,7 +530,7 @@
         }
       ],
       "publishedAt": "2025-12-03T13:47:45.000Z",
-      "ranking": 5.284418082604361,
+      "ranking": 4.669529921261281,
       "articleUrl": "https://www.theverge.com/report/837431/grokipedia-update-editing-mess"
     },
     {
@@ -532,7 +567,7 @@
         }
       ],
       "publishedAt": "2025-12-03T11:00:00.000Z",
-      "ranking": 4.577371509381882,
+      "ranking": 3.9236330239422665,
       "articleUrl": "https://www.theverge.com/news/837156/amazon-fire-tv-alexa-plus-skip-to-scene"
     },
     {
@@ -569,7 +604,7 @@
         }
       ],
       "publishedAt": "2025-12-03T09:00:00.000Z",
-      "ranking": 4.224282614946304,
+      "ranking": 3.542752545319165,
       "articleUrl": "https://venturebeat.com/ai/tariff-turbulence-exposes-costly-blind-spots-in-supply-chains-and-ai"
     },
     {
@@ -601,7 +636,7 @@
         }
       ],
       "publishedAt": "2025-12-03T06:00:00.000Z",
-      "ranking": 3.1019409427729654,
+      "ranking": 2.378723496782393,
       "articleUrl": "https://venturebeat.com/ai/workspace-studio-aims-to-solve-the-real-agent-problem-getting-employees-to"
     },
     {
@@ -638,7 +673,7 @@
         }
       ],
       "publishedAt": "2025-12-03T03:26:56.000Z",
-      "ranking": 3.033058242928715,
+      "ranking": 2.2743910889799075,
       "articleUrl": "https://www.marktechpost.com/2025/12/02/nvidia-and-mistral-ai-bring-10x-faster-inference-for-the-mistral-3-family-on-gb200-nvl72-gpu-systems/"
     },
     {
@@ -671,7 +706,7 @@
         }
       ],
       "publishedAt": "2025-12-03T06:00:00.000Z",
-      "ranking": 2.8394409289778215,
+      "ranking": 2.116223478693816,
       "articleUrl": "https://venturebeat.com/ai/ai-has-redefined-the-talent-game-heres-how-leaders-are-responding"
     },
     {
@@ -708,7 +743,7 @@
         }
       ],
       "publishedAt": "2025-12-02T18:14:21.000Z",
-      "ranking": 1.5727115333959318,
+      "ranking": 0.6860680023845109,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense"
     },
     {
@@ -744,7 +779,7 @@
         }
       ],
       "publishedAt": "2025-12-02T18:30:00.000Z",
-      "ranking": 1.0892409346378962,
+      "ranking": 0.20622188808876807,
       "articleUrl": "https://venturebeat.com/ai/amazons-new-ai-can-code-for-days-without-human-help-what-does-that-mean-for"
     },
     {
@@ -778,7 +813,7 @@
         }
       ],
       "publishedAt": "2025-12-02T18:00:00.000Z",
-      "ranking": 0.925831804993507,
+      "ranking": 0.03586485841325526,
       "articleUrl": "https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter"
     },
     {
@@ -812,7 +847,7 @@
         }
       ],
       "publishedAt": "2025-12-02T16:00:00.000Z",
-      "ranking": 0.8210341378838324,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/mistral-launches-mistral-3-a-family-of-open-models-designed-to-run-on"
     },
     {
@@ -845,43 +880,8 @@
         }
       ],
       "publishedAt": "2025-12-02T15:00:00.000Z",
-      "ranking": 0.6214816147707989,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/ascentra-labs-raises-usd2-million-to-help-consultants-use-ai-instead-of-all"
-    },
-    {
-      "id": "436",
-      "topic": "Safety",
-      "source": "The Verge AI",
-      "shortTitle": "AI Safety Focus",
-      "mediumTitle": "AI Researchers Tackle Safety Concerns",
-      "longTitle": "AI Researchers Actively Working to Prevent AI Risks",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Ensuring AI safety is not an",
-            "afterthought but a critical and ongoing",
-            "responsibility for those at the",
-            "forefront of AI development.",
-            "The article underscores the importance",
-            "of research into AI alignment, ensuring",
-            "AI systems pursue goals aligned with",
-            "human values and intentions.",
-            "In essence, AI researchers are aware of",
-            "their technologies\u0027 power and are",
-            "building safeguards against negative",
-            "outcomes to steer AI development towards",
-            "benefiting humanity.",
-            "The article discusses the growing",
-            "concerns and efforts within the AI",
-            "research community to ensure the safe",
-            "and beneficial development of artificial",
-            "intelligence."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T11:11:21.000Z",
-      "ranking": 0.010592248429301065,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/836335/anthropic-societal-impacts-team-ai-claude-effects"
     },
     {
       "id": "439",
@@ -919,6 +919,41 @@
       "publishedAt": "2025-12-02T13:30:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/new-training-method-boosts-ai-multimodal-reasoning-with-smaller-smarter"
+    },
+    {
+      "id": "436",
+      "topic": "Safety",
+      "source": "The Verge AI",
+      "shortTitle": "AI Safety Focus",
+      "mediumTitle": "AI Researchers Tackle Safety Concerns",
+      "longTitle": "AI Researchers Actively Working to Prevent AI Risks",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Ensuring AI safety is not an",
+            "afterthought but a critical and ongoing",
+            "responsibility for those at the",
+            "forefront of AI development.",
+            "The article underscores the importance",
+            "of research into AI alignment, ensuring",
+            "AI systems pursue goals aligned with",
+            "human values and intentions.",
+            "In essence, AI researchers are aware of",
+            "their technologies\u0027 power and are",
+            "building safeguards against negative",
+            "outcomes to steer AI development towards",
+            "benefiting humanity.",
+            "The article discusses the growing",
+            "concerns and efforts within the AI",
+            "research community to ensure the safe",
+            "and beneficial development of artificial",
+            "intelligence."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T11:11:21.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/836335/anthropic-societal-impacts-team-ai-claude-effects"
     },
     {
       "id": "431",
