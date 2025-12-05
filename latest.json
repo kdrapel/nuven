@@ -37,41 +37,6 @@
       "articleUrl": "https://venturebeat.com/ai/gam-takes-aim-at-context-rot-a-dual-agent-memory-architecture-that"
     },
     {
-      "id": "457",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "NetSuite AI Evolution",
-      "mediumTitle": "NetSuite Next: AI Embedded",
-      "longTitle": "NetSuite Next: Deeply Embedded Agentic AI in Business Systems",
-      "paragraphs": [
-        {
-          "Lines": [
-            "NetSuite founder Evan Goldberg discussed",
-            "NetSuite Next, a major shift towards",
-            "deeply embedded, agentic AI within",
-            "business systems.",
-            "Unlike competitors adding AI as separate",
-            "tools, NetSuite Next integrates AI",
-            "directly into core operations, making it",
-            "an extension of the business.",
-            "The AI in NetSuite Next is designed to",
-            "be contextual, conversational, and",
-            "autonomous, operating within",
-            "human-defined guardrails to perform",
-            "tasks like reconciling accounts and",
-            "optimizing payments.",
-            "The company believes enterprises that",
-            "reimagine ERP operations around embedded",
-            "intelligence will outperform those",
-            "simply adding conversational AI."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-04T06:00:00.000Z",
-      "ranking": 8.455555555555556,
-      "articleUrl": "https://venturebeat.com/ai/inside-netsuites-next-act-evan-goldberg-on-the-future-of-ai-powered-business"
-    },
-    {
       "id": "460",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -179,43 +144,6 @@
       "publishedAt": "2025-12-04T10:05:16.000Z",
       "ranking": 7.635,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/837950/yahoo-sports-game-breakdowns-ai"
-    },
-    {
-      "id": "456",
-      "topic": "Security",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Red Teaming",
-      "mediumTitle": "AI Red Teaming: Anthropic vs OpenAI",
-      "longTitle": "AI Red Teaming Methodologies: Anthropic and OpenAI Diverge",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This article examines the contrasting",
-            "red teaming methodologies of Anthropic",
-            "and OpenAI, revealing how their",
-            "differing security priorities impact",
-            "enterprises deploying AI agents.",
-            "Enterprises should align their",
-            "evaluation methodology with their",
-            "specific deployment\u0027s threat landscape,",
-            "rather than simply asking which model is",
-            "\u0027safer\u0027.",
-            "Security teams should ask vendors",
-            "specific questions about ASR at higher",
-            "attempt counts, deception detection",
-            "methods, and evaluation awareness rates.",
-            "Anthropic relies on multi-attempt attack",
-            "success rates (ASR) from reinforcement",
-            "learning (RL) campaigns of up to 200",
-            "attempts, while OpenAI also reports",
-            "attempted jailbreak resistance, often",
-            "using single-attempt metrics."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-04T06:00:00.000Z",
-      "ranking": 7.577272727272728,
-      "articleUrl": "https://venturebeat.com/security/anthropic-vs-openai-red-teaming-methods-reveal-different-security-priorities"
     },
     {
       "id": "452",
@@ -354,6 +282,41 @@
       "articleUrl": "https://venturebeat.com/ai/gong-study-sales-teams-using-ai-generate-77-more-revenue-per-rep"
     },
     {
+      "id": "457",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "NetSuite AI Evolution",
+      "mediumTitle": "NetSuite Next: AI Embedded",
+      "longTitle": "NetSuite Next: Deeply Embedded Agentic AI in Business Systems",
+      "paragraphs": [
+        {
+          "Lines": [
+            "NetSuite founder Evan Goldberg discussed",
+            "NetSuite Next, a major shift towards",
+            "deeply embedded, agentic AI within",
+            "business systems.",
+            "Unlike competitors adding AI as separate",
+            "tools, NetSuite Next integrates AI",
+            "directly into core operations, making it",
+            "an extension of the business.",
+            "The AI in NetSuite Next is designed to",
+            "be contextual, conversational, and",
+            "autonomous, operating within",
+            "human-defined guardrails to perform",
+            "tasks like reconciling accounts and",
+            "optimizing payments.",
+            "The company believes enterprises that",
+            "reimagine ERP operations around embedded",
+            "intelligence will outperform those",
+            "simply adding conversational AI."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T06:00:00.000Z",
+      "ranking": 7.277896535847791,
+      "articleUrl": "https://venturebeat.com/ai/inside-netsuites-next-act-evan-goldberg-on-the-future-of-ai-powered-business"
+    },
+    {
       "id": "459",
       "topic": "Business",
       "source": "The Verge AI",
@@ -389,6 +352,43 @@
       "articleUrl": "https://www.theverge.com/news/838186/meta-metaverse-budget-cuts-2026"
     },
     {
+      "id": "456",
+      "topic": "Security",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Red Teaming",
+      "mediumTitle": "AI Red Teaming: Anthropic vs OpenAI",
+      "longTitle": "AI Red Teaming Methodologies: Anthropic and OpenAI Diverge",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This article examines the contrasting",
+            "red teaming methodologies of Anthropic",
+            "and OpenAI, revealing how their",
+            "differing security priorities impact",
+            "enterprises deploying AI agents.",
+            "Enterprises should align their",
+            "evaluation methodology with their",
+            "specific deployment\u0027s threat landscape,",
+            "rather than simply asking which model is",
+            "\u0027safer\u0027.",
+            "Security teams should ask vendors",
+            "specific questions about ASR at higher",
+            "attempt counts, deception detection",
+            "methods, and evaluation awareness rates.",
+            "Anthropic relies on multi-attempt attack",
+            "success rates (ASR) from reinforcement",
+            "learning (RL) campaigns of up to 200",
+            "attempts, while OpenAI also reports",
+            "attempted jailbreak resistance, often",
+            "using single-attempt metrics."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T06:00:00.000Z",
+      "ranking": 6.3996137000740685,
+      "articleUrl": "https://venturebeat.com/security/anthropic-vs-openai-red-teaming-methods-reveal-different-security-priorities"
+    },
+    {
       "id": "450",
       "topic": "Model Eval",
       "source": "VentureBeat AI",
@@ -422,7 +422,7 @@
         }
       ],
       "publishedAt": "2025-12-03T23:00:00.000Z",
-      "ranking": 6.6091543135363,
+      "ranking": 6.177922403454314,
       "articleUrl": "https://venturebeat.com/ai/gemini-3-pro-scores-69-trust-in-blinded-testing-up-from-16-for-gemini-2-5"
     },
     {
@@ -458,7 +458,7 @@
         }
       ],
       "publishedAt": "2025-12-04T00:00:00.000Z",
-      "ranking": 6.360897913385675,
+      "ranking": 5.943556755210099,
       "articleUrl": "https://venturebeat.com/ai/nvidias-new-ai-framework-trains-an-8b-model-to-manage-tools-like-a-pro"
     },
     {
@@ -495,7 +495,7 @@
         }
       ],
       "publishedAt": "2025-12-03T13:47:45.000Z",
-      "ranking": 5.8435027971493,
+      "ranking": 5.284418082604361,
       "articleUrl": "https://www.theverge.com/report/837431/grokipedia-update-editing-mess"
     },
     {
@@ -532,7 +532,7 @@
         }
       ],
       "publishedAt": "2025-12-03T11:00:00.000Z",
-      "ranking": 5.175292453503596,
+      "ranking": 4.577371509381882,
       "articleUrl": "https://www.theverge.com/news/837156/amazon-fire-tv-alexa-plus-skip-to-scene"
     },
     {
@@ -569,7 +569,7 @@
         }
       ],
       "publishedAt": "2025-12-03T09:00:00.000Z",
-      "ranking": 4.849985064906133,
+      "ranking": 4.224282614946304,
       "articleUrl": "https://venturebeat.com/ai/tariff-turbulence-exposes-costly-blind-spots-in-supply-chains-and-ai"
     },
     {
@@ -601,7 +601,7 @@
         }
       ],
       "publishedAt": "2025-12-03T06:00:00.000Z",
-      "ranking": 3.769315650910709,
+      "ranking": 3.1019409427729654,
       "articleUrl": "https://venturebeat.com/ai/workspace-studio-aims-to-solve-the-real-agent-problem-getting-employees-to"
     },
     {
@@ -638,7 +638,7 @@
         }
       ],
       "publishedAt": "2025-12-03T03:26:56.000Z",
-      "ranking": 3.735869804961631,
+      "ranking": 3.033058242928715,
       "articleUrl": "https://www.marktechpost.com/2025/12/02/nvidia-and-mistral-ai-bring-10x-faster-inference-for-the-mistral-3-family-on-gb200-nvl72-gpu-systems/"
     },
     {
@@ -671,7 +671,7 @@
         }
       ],
       "publishedAt": "2025-12-03T06:00:00.000Z",
-      "ranking": 3.5068156374900132,
+      "ranking": 2.8394409289778215,
       "articleUrl": "https://venturebeat.com/ai/ai-has-redefined-the-talent-game-heres-how-leaders-are-responding"
     },
     {
@@ -708,7 +708,7 @@
         }
       ],
       "publishedAt": "2025-12-02T18:14:21.000Z",
-      "ranking": 2.403453069660414,
+      "ranking": 1.5727115333959318,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense"
     },
     {
@@ -744,7 +744,7 @@
         }
       ],
       "publishedAt": "2025-12-02T18:30:00.000Z",
-      "ranking": 1.9163592993630196,
+      "ranking": 1.0892409346378962,
       "articleUrl": "https://venturebeat.com/ai/amazons-new-ai-can-code-for-days-without-human-help-what-does-that-mean-for"
     },
     {
@@ -778,7 +778,7 @@
         }
       ],
       "publishedAt": "2025-12-02T18:00:00.000Z",
-      "ranking": 1.7598955462750432,
+      "ranking": 0.925831804993507,
       "articleUrl": "https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter"
     },
     {
@@ -812,7 +812,7 @@
         }
       ],
       "publishedAt": "2025-12-02T16:00:00.000Z",
-      "ranking": 1.6828794403417113,
+      "ranking": 0.8210341378838324,
       "articleUrl": "https://venturebeat.com/ai/mistral-launches-mistral-3-a-family-of-open-models-designed-to-run-on"
     },
     {
@@ -845,7 +845,7 @@
         }
       ],
       "publishedAt": "2025-12-02T15:00:00.000Z",
-      "ranking": 1.4972176710925567,
+      "ranking": 0.6214816147707989,
       "articleUrl": "https://venturebeat.com/ai/ascentra-labs-raises-usd2-million-to-help-consultants-use-ai-instead-of-all"
     },
     {
@@ -880,7 +880,7 @@
         }
       ],
       "publishedAt": "2025-12-02T11:11:21.000Z",
-      "ranking": 0.9392636470483726,
+      "ranking": 0.010592248429301065,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/836335/anthropic-societal-impacts-team-ai-claude-effects"
     },
     {
@@ -917,44 +917,8 @@
         }
       ],
       "publishedAt": "2025-12-02T13:30:00.000Z",
-      "ranking": 0.8913145375583742,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/new-training-method-boosts-ai-multimodal-reasoning-with-smaller-smarter"
-    },
-    {
-      "id": "435",
-      "topic": "Policy",
-      "source": "VentureBeat AI",
-      "shortTitle": "AWS Bedrock Agents",
-      "mediumTitle": "AWS Bedrock AgentCore Enhancements",
-      "longTitle": "AWS Bedrock AgentCore Adds Reasoning, Memory, and Frontier Agents",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AWS is also introducing \u0022frontier",
-            "agents,\u0022 a new class of autonomous,",
-            "scalable, and independent agents",
-            "designed to handle complex projects.",
-            "AWS\u0027s most significant advancement is",
-            "the introduction of \u0022frontier agents,\u0022",
-            "described as a \u0022new class\u0022 of agents",
-            "that are fully automated and",
-            "independent.",
-            "These frontier agents are capable of",
-            "acting as teammates with minimal",
-            "direction and moving beyond assisting",
-            "with individual tasks to tackling",
-            "complex projects.",
-            "AWS is enhancing its Amazon Bedrock",
-            "AgentCore platform with new capabilities",
-            "focused on automated reasoning to",
-            "improve agent control, performance, and",
-            "safety for enterprises."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T06:00:00.000Z",
-      "ranking": 0.26464554849701827,
-      "articleUrl": "https://venturebeat.com/ai/aws-goes-beyond-prompt-level-safety-with-automated-reasoning-in-agentcore"
     },
     {
       "id": "431",
@@ -992,6 +956,42 @@
       "publishedAt": "2025-12-02T07:40:07.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/836212/openai-code-red-chatgpt"
+    },
+    {
+      "id": "435",
+      "topic": "Policy",
+      "source": "VentureBeat AI",
+      "shortTitle": "AWS Bedrock Agents",
+      "mediumTitle": "AWS Bedrock AgentCore Enhancements",
+      "longTitle": "AWS Bedrock AgentCore Adds Reasoning, Memory, and Frontier Agents",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AWS is also introducing \u0022frontier",
+            "agents,\u0022 a new class of autonomous,",
+            "scalable, and independent agents",
+            "designed to handle complex projects.",
+            "AWS\u0027s most significant advancement is",
+            "the introduction of \u0022frontier agents,\u0022",
+            "described as a \u0022new class\u0022 of agents",
+            "that are fully automated and",
+            "independent.",
+            "These frontier agents are capable of",
+            "acting as teammates with minimal",
+            "direction and moving beyond assisting",
+            "with individual tasks to tackling",
+            "complex projects.",
+            "AWS is enhancing its Amazon Bedrock",
+            "AgentCore platform with new capabilities",
+            "focused on automated reasoning to",
+            "improve agent control, performance, and",
+            "safety for enterprises."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/aws-goes-beyond-prompt-level-safety-with-automated-reasoning-in-agentcore"
     },
     {
       "id": "430",
