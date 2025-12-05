@@ -38,105 +38,38 @@
       "articleUrl": "https://venturebeat.com/ai/the-truth-serum-for-ai-openais-new-method-for-training-models-to-confess"
     },
     {
-      "id": "452",
-      "topic": "Dev Tools",
-      "source": "VentureBeat AI",
-      "shortTitle": "AWS Kiro Powers",
-      "mediumTitle": "AWS Kiro Powers: Smarter AI Coding",
-      "longTitle": "AWS Kiro Powers Enhances AI Coding Assistants with On-Demand Expertise",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Amazon Web Services (AWS) has launched",
-            "Kiro powers, a new system designed to",
-            "enhance AI coding assistants by",
-            "providing them with instant, specialized",
-            "expertise in specific tools and",
-            "workflows.",
-            "Kiro powers adopts an \u0027on-demand\u0027",
-            "approach, activating specialized",
-            "knowledge only when a developer needs",
-            "it, thereby reducing costs and improving",
-            "efficiency.",
-            "Kiro powers addresses this by",
-            "dynamically loading AI expertise,",
-            "comprising a POWER.md steering file,",
-            "Model Context Protocol (MCP) server",
-            "configuration, and optional automation",
-            "hooks."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-04T15:02:00.000Z",
-      "ranking": 7.539130434782607,
-      "articleUrl": "https://venturebeat.com/ai/aws-launches-kiro-powers-with-stripe-figma-and-datadog-integrations-for-ai"
-    },
-    {
-      "id": "464",
-      "topic": "Policy",
+      "id": "466",
+      "topic": "Robotics",
       "source": "The Verge AI",
-      "shortTitle": "MSFT D\u0026I Shift",
-      "mediumTitle": "Microsoft Scales Back Diversity Reporting",
-      "longTitle": "Microsoft Reportedly Scales Back Public Diversity and Inclusion Reporting",
+      "shortTitle": "Waymo Probed",
+      "mediumTitle": "NHTSA Investigates Waymo Robotaxis",
+      "longTitle": "NHTSA Investigates Waymo Over Alleged School Bus Violations",
       "paragraphs": [
         {
           "Lines": [
-            "Microsoft is reportedly scaling back its",
-            "public diversity and inclusion reporting",
-            "and related initiatives after over a",
-            "decade of transparency.",
-            "Furthermore, it is reportedly removing",
-            "the requirement for diversity metrics to",
-            "be included in employee performance",
-            "evaluations.",
-            "The company is said to be discontinuing",
-            "its public diversity report.",
-            "This reporting was also integrated into",
-            "employee performance reviews, making",
-            "diversity a mandatory consideration for",
-            "career advancement.",
-            "Microsoft has been releasing a",
-            "comprehensive diversity and inclusion",
-            "report annually since 2019."
+            "The National Highway Traffic Safety",
+            "Administration (NHTSA) has initiated an",
+            "investigation into Waymo, the",
+            "self-driving car company, due to",
+            "allegations that its autonomous vehicles",
+            "have illegally passed stopped school",
+            "buses.",
+            "This investigation was prompted by",
+            "reports from Austin, Texas, where",
+            "Waymo\u0027s robotaxis are alleged to have",
+            "committed this infraction.",
+            "In a formal letter addressed to Waymo,",
+            "the NHTSA\u0027s Office of Defects",
+            "Investigation has requested",
+            "comprehensive details regarding the",
+            "company\u0027s fifth-generation self-driving",
+            "system."
           ]
         }
       ],
-      "publishedAt": "2025-12-04T15:00:00.000Z",
-      "ranking": 7.400000000000001,
-      "articleUrl": "https://www.theverge.com/tech/838079/microsoft-diversity-and-inclusion-changes-notepad"
-    },
-    {
-      "id": "453",
-      "topic": "Business",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI in Sales Surge",
-      "mediumTitle": "AI Transforms Sales Decision-Making",
-      "longTitle": "Study Reveals AI\u0027s Growing Influence on Sales Strategy and Performance",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The research, based on an analysis of",
-            "7.1 million sales opportunities across",
-            "over 3,600 companies and a survey of",
-            "more than 3,000 global revenue leaders,",
-            "indicates that 70% of enterprise revenue",
-            "leaders now rely on AI to inform their",
-            "business decisions.",
-            "A new study by revenue intelligence",
-            "company Gong reveals a significant shift",
-            "in how sales teams are adopting and",
-            "trusting Artificial Intelligence (AI).",
-            "Teams that regularly use AI tools",
-            "generate 77% more revenue per",
-            "representative than those that don\u0027t, a",
-            "difference estimated to be six figures",
-            "per salesperson annually."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-04T15:00:00.000Z",
-      "ranking": 7.327777777777779,
-      "articleUrl": "https://venturebeat.com/ai/gong-study-sales-teams-using-ai-generate-77-more-revenue-per-rep"
+      "publishedAt": "2025-12-05T09:45:35.000Z",
+      "ranking": 8.055555555555557,
+      "articleUrl": "https://www.theverge.com/news/838879/waymo-school-buses-probe"
     },
     {
       "id": "463",
@@ -171,7 +104,7 @@
         }
       ],
       "publishedAt": "2025-12-04T10:00:00.000Z",
-      "ranking": 7.281252182302142,
+      "ranking": 6.891027417224915,
       "articleUrl": "https://venturebeat.com/ai/gam-takes-aim-at-context-rot-a-dual-agent-memory-architecture-that"
     },
     {
@@ -206,8 +139,42 @@
         }
       ],
       "publishedAt": "2025-12-04T11:00:00.000Z",
-      "ranking": 7.084198722780849,
+      "ranking": 6.707885675018625,
       "articleUrl": "https://www.theverge.com/podcast/838023/anthropic-societal-impact-trump-woke-ai-interview"
+    },
+    {
+      "id": "452",
+      "topic": "Dev Tools",
+      "source": "VentureBeat AI",
+      "shortTitle": "AWS Kiro Powers",
+      "mediumTitle": "AWS Kiro Powers: Smarter AI Coding",
+      "longTitle": "AWS Kiro Powers Enhances AI Coding Assistants with On-Demand Expertise",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon Web Services (AWS) has launched",
+            "Kiro powers, a new system designed to",
+            "enhance AI coding assistants by",
+            "providing them with instant, specialized",
+            "expertise in specific tools and",
+            "workflows.",
+            "Kiro powers adopts an \u0027on-demand\u0027",
+            "approach, activating specialized",
+            "knowledge only when a developer needs",
+            "it, thereby reducing costs and improving",
+            "efficiency.",
+            "Kiro powers addresses this by",
+            "dynamically loading AI expertise,",
+            "comprising a POWER.md steering file,",
+            "Model Context Protocol (MCP) server",
+            "configuration, and optional automation",
+            "hooks."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T15:02:00.000Z",
+      "ranking": 6.452321678876615,
+      "articleUrl": "https://venturebeat.com/ai/aws-launches-kiro-powers-with-stripe-figma-and-datadog-integrations-for-ai"
     },
     {
       "id": "457",
@@ -241,8 +208,75 @@
         }
       ],
       "publishedAt": "2025-12-04T06:00:00.000Z",
-      "ranking": 6.888178111322478,
+      "ranking": 6.442306461355034,
       "articleUrl": "https://venturebeat.com/ai/inside-netsuites-next-act-evan-goldberg-on-the-future-of-ai-powered-business"
+    },
+    {
+      "id": "464",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "MSFT D\u0026I Shift",
+      "mediumTitle": "Microsoft Scales Back Diversity Reporting",
+      "longTitle": "Microsoft Reportedly Scales Back Public Diversity and Inclusion Reporting",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft is reportedly scaling back its",
+            "public diversity and inclusion reporting",
+            "and related initiatives after over a",
+            "decade of transparency.",
+            "Furthermore, it is reportedly removing",
+            "the requirement for diversity metrics to",
+            "be included in employee performance",
+            "evaluations.",
+            "The company is said to be discontinuing",
+            "its public diversity report.",
+            "This reporting was also integrated into",
+            "employee performance reviews, making",
+            "diversity a mandatory consideration for",
+            "career advancement.",
+            "Microsoft has been releasing a",
+            "comprehensive diversity and inclusion",
+            "report annually since 2019."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T15:00:00.000Z",
+      "ranking": 6.310293471943474,
+      "articleUrl": "https://www.theverge.com/tech/838079/microsoft-diversity-and-inclusion-changes-notepad"
+    },
+    {
+      "id": "453",
+      "topic": "Business",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI in Sales Surge",
+      "mediumTitle": "AI Transforms Sales Decision-Making",
+      "longTitle": "Study Reveals AI\u0027s Growing Influence on Sales Strategy and Performance",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The research, based on an analysis of",
+            "7.1 million sales opportunities across",
+            "over 3,600 companies and a survey of",
+            "more than 3,000 global revenue leaders,",
+            "indicates that 70% of enterprise revenue",
+            "leaders now rely on AI to inform their",
+            "business decisions.",
+            "A new study by revenue intelligence",
+            "company Gong reveals a significant shift",
+            "in how sales teams are adopting and",
+            "trusting Artificial Intelligence (AI).",
+            "Teams that regularly use AI tools",
+            "generate 77% more revenue per",
+            "representative than those that don\u0027t, a",
+            "difference estimated to be six figures",
+            "per salesperson annually."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T15:00:00.000Z",
+      "ranking": 6.238071245209811,
+      "articleUrl": "https://venturebeat.com/ai/gong-study-sales-teams-using-ai-generate-77-more-revenue-per-rep"
     },
     {
       "id": "461",
@@ -278,7 +312,7 @@
         }
       ],
       "publishedAt": "2025-12-04T10:05:16.000Z",
-      "ranking": 6.465086523902162,
+      "ranking": 6.076082883863121,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/837950/yahoo-sports-game-breakdowns-ai"
     },
     {
@@ -313,7 +347,7 @@
         }
       ],
       "publishedAt": "2025-12-04T12:00:12.000Z",
-      "ranking": 6.329708908548847,
+      "ranking": 5.9673539401761815,
       "articleUrl": "https://www.theverge.com/report/838167/ai-chatbots-can-be-wooed-into-crimes-with-poetry"
     },
     {
@@ -348,7 +382,7 @@
         }
       ],
       "publishedAt": "2025-12-04T06:07:50.000Z",
-      "ranking": 6.3128803564891385,
+      "ranking": 5.868824954282637,
       "articleUrl": "https://www.marktechpost.com/2025/12/03/how-to-build-a-meta-cognitive-ai-agent-that-dynamically-adjusts-its-own-reasoning-depth-for-efficient-problem-solving/"
     },
     {
@@ -383,7 +417,7 @@
         }
       ],
       "publishedAt": "2025-12-04T11:39:24.000Z",
-      "ranking": 6.077225727225128,
+      "ranking": 5.710048033871083,
       "articleUrl": "https://www.theverge.com/news/838186/meta-metaverse-budget-cuts-2026"
     },
     {
@@ -420,7 +454,7 @@
         }
       ],
       "publishedAt": "2025-12-04T06:00:00.000Z",
-      "ranking": 6.009895251120735,
+      "ranking": 5.564023598890749,
       "articleUrl": "https://venturebeat.com/security/anthropic-vs-openai-red-teaming-methods-reveal-different-security-priorities"
     },
     {
@@ -457,7 +491,7 @@
         }
       ],
       "publishedAt": "2025-12-03T23:00:00.000Z",
-      "ranking": 5.690933425641328,
+      "ranking": 5.147679736596929,
       "articleUrl": "https://venturebeat.com/ai/gemini-3-pro-scores-69-trust-in-blinded-testing-up-from-16-for-gemini-2-5"
     },
     {
@@ -493,7 +527,7 @@
         }
       ],
       "publishedAt": "2025-12-04T00:00:00.000Z",
-      "ranking": 5.470463564956151,
+      "ranking": 4.9411215950468375,
       "articleUrl": "https://venturebeat.com/ai/nvidias-new-ai-framework-trains-an-8b-model-to-manage-tools-like-a-pro"
     },
     {
@@ -530,7 +564,7 @@
         }
       ],
       "publishedAt": "2025-12-03T13:47:45.000Z",
-      "ranking": 4.669529921261281,
+      "ranking": 3.9982304612896247,
       "articleUrl": "https://www.theverge.com/report/837431/grokipedia-update-editing-mess"
     },
     {
@@ -567,7 +601,7 @@
         }
       ],
       "publishedAt": "2025-12-03T11:00:00.000Z",
-      "ranking": 3.9236330239422665,
+      "ranking": 3.2134387238441526,
       "articleUrl": "https://www.theverge.com/news/837156/amazon-fire-tv-alexa-plus-skip-to-scene"
     },
     {
@@ -604,7 +638,7 @@
         }
       ],
       "publishedAt": "2025-12-03T09:00:00.000Z",
-      "ranking": 3.542752545319165,
+      "ranking": 2.8047348087454695,
       "articleUrl": "https://venturebeat.com/ai/tariff-turbulence-exposes-costly-blind-spots-in-supply-chains-and-ai"
     },
     {
@@ -636,7 +670,7 @@
         }
       ],
       "publishedAt": "2025-12-03T06:00:00.000Z",
-      "ranking": 2.378723496782393,
+      "ranking": 1.5989706075517995,
       "articleUrl": "https://venturebeat.com/ai/workspace-studio-aims-to-solve-the-real-agent-problem-getting-employees-to"
     },
     {
@@ -673,7 +707,7 @@
         }
       ],
       "publishedAt": "2025-12-03T03:26:56.000Z",
-      "ranking": 2.2743910889799075,
+      "ranking": 1.4591478593697689,
       "articleUrl": "https://www.marktechpost.com/2025/12/02/nvidia-and-mistral-ai-bring-10x-faster-inference-for-the-mistral-3-family-on-gb200-nvl72-gpu-systems/"
     },
     {
@@ -706,8 +740,44 @@
         }
       ],
       "publishedAt": "2025-12-03T06:00:00.000Z",
-      "ranking": 2.116223478693816,
+      "ranking": 1.336470586677673,
       "articleUrl": "https://venturebeat.com/ai/ai-has-redefined-the-talent-game-heres-how-leaders-are-responding"
+    },
+    {
+      "id": "433",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AWS Frontier Agents",
+      "mediumTitle": "AWS Introduces Autonomous AI Agents",
+      "longTitle": "AWS Unveils Frontier Agents for Autonomous Software Development",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AWS has introduced \u0022frontier agents,\u0022 a",
+            "new class of AI systems designed for",
+            "extended autonomous operation without",
+            "human intervention, aiming to automate",
+            "the software development lifecycle.",
+            "Unlike current tools that require",
+            "constant human prompting and lose",
+            "context between tasks, frontier agents",
+            "can independently identify necessary",
+            "code repository changes, work on",
+            "multiple files concurrently, and manage",
+            "complex transformations across numerous",
+            "microservices.",
+            "These frontier agents differentiate",
+            "themselves from existing AI coding tools",
+            "by possessing persistent memory across",
+            "sessions, continuously learning from an",
+            "organization\u0027s codebase, documentation,",
+            "and communications."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T18:30:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/amazons-new-ai-can-code-for-days-without-human-help-what-does-that-mean-for"
     },
     {
       "id": "440",
@@ -743,44 +813,8 @@
         }
       ],
       "publishedAt": "2025-12-02T18:14:21.000Z",
-      "ranking": 0.6860680023845109,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense"
-    },
-    {
-      "id": "433",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AWS Frontier Agents",
-      "mediumTitle": "AWS Introduces Autonomous AI Agents",
-      "longTitle": "AWS Unveils Frontier Agents for Autonomous Software Development",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AWS has introduced \u0022frontier agents,\u0022 a",
-            "new class of AI systems designed for",
-            "extended autonomous operation without",
-            "human intervention, aiming to automate",
-            "the software development lifecycle.",
-            "Unlike current tools that require",
-            "constant human prompting and lose",
-            "context between tasks, frontier agents",
-            "can independently identify necessary",
-            "code repository changes, work on",
-            "multiple files concurrently, and manage",
-            "complex transformations across numerous",
-            "microservices.",
-            "These frontier agents differentiate",
-            "themselves from existing AI coding tools",
-            "by possessing persistent memory across",
-            "sessions, continuously learning from an",
-            "organization\u0027s codebase, documentation,",
-            "and communications."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T18:30:00.000Z",
-      "ranking": 0.20622188808876807,
-      "articleUrl": "https://venturebeat.com/ai/amazons-new-ai-can-code-for-days-without-human-help-what-does-that-mean-for"
     },
     {
       "id": "441",
@@ -813,7 +847,7 @@
         }
       ],
       "publishedAt": "2025-12-02T18:00:00.000Z",
-      "ranking": 0.03586485841325526,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter"
     },
     {
@@ -1368,111 +1402,6 @@
       "publishedAt": "2025-12-01T12:22:08.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/834905/runway-ai-text-video-generator-launch"
-    },
-    {
-      "id": "422",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AGI Pope Outreach",
-      "mediumTitle": "Researcher Aims to Inform Pope on AGI Risks",
-      "longTitle": "AGI Researcher John-Clark Levin Seeks Vatican Audience on AI Dangers",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AGI researcher John-Clark Levin and his",
-            "collaborators are attempting to raise",
-            "awareness about the potential risks of",
-            "Artificial General Intelligence (AGI)",
-            "with Pope Leo XIV.",
-            "Levin\u0027s mission involved a visit to the",
-            "Vatican with the specific aim of",
-            "presenting these concerns directly to",
-            "the Pope.",
-            "This outreach is part of a broader,",
-            "year-long effort by Levin and his",
-            "network to engage influential figures",
-            "and institutions on the existential",
-            "threats posed by advanced AI.",
-            "The article implies that this outreach",
-            "extends beyond religious leaders,",
-            "suggesting a concerted campaign to",
-            "inform decision-makers across various",
-            "sectors."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-01T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/829813/ai-agi-pope-leo"
-    },
-    {
-      "id": "417",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI in Fandom",
-      "mediumTitle": "AI Clout Economy in Fandom",
-      "longTitle": "Fandom\u0027s AI Clout Economy: Tensions and Debates",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article explores the growing tension",
-            "between fans and creators in online",
-            "fandoms due to the rise of Artificial",
-            "Intelligence (AI).",
-            "An incident involving Ariana Grande, who",
-            "reportedly disliked AI-generated imagery",
-            "and blocked a fan account, highlights",
-            "this debate.",
-            "The \u0027AI clout economy\u0027 describes how AI",
-            "tools are used to create content, gain",
-            "attention, and potentially profit within",
-            "fandom.",
-            "Concerns exist that AI-generated content",
-            "devalues human artistry, effort, and",
-            "could make it harder for human creators",
-            "to gain recognition.",
-            "Grande\u0027s alleged actions suggest a",
-            "desire to protect fandom integrity and",
-            "artistic vision from what she perceives",
-            "as inauthentic AI content."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-01T08:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/830876/influencers-anti-ai-deepfakes-fandom-economy"
-    },
-    {
-      "id": "424",
-      "topic": "Finance",
-      "source": "VentureBeat AI",
-      "shortTitle": "Tech Value",
-      "mediumTitle": "Financial Intelligence for Tech Value",
-      "longTitle": "Maximizing Technology Value with Financial Intelligence",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Organizations face increasing difficulty",
-            "in making swift and clear investment",
-            "decisions for rapidly evolving",
-            "technologies such as AI and cloud.",
-            "In an era demanding efficient technology",
-            "spend management, financial intelligence",
-            "is indispensable for maximizing budgets",
-            "and ensuring data-driven precision in",
-            "technology investments.",
-            "By unifying financial, operational, and",
-            "business data across the entire",
-            "enterprise, these solutions equip",
-            "leaders with the necessary clarity to",
-            "maximize the value of every technology",
-            "investment."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-01T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/capture-the-full-value-of-your-technology-with-financial-intelligence"
     }
   ]
 }
