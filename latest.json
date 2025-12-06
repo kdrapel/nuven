@@ -1,76 +1,6 @@
 {
   "articles": [
     {
-      "id": "470",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI Code Red",
-      "mediumTitle": "OpenAI Declares Code Red Amidst Competition",
-      "longTitle": "OpenAI CEO Sam Altman Declares Code Red Due to AI Competition",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI CEO Sam Altman has declared an",
-            "internal \u0022code red,\u0022 signaling an urgent",
-            "push to address heightened competition",
-            "from Google and Anthropic.",
-            "OpenAI is reportedly preparing to",
-            "release an update to its GPT model,",
-            "tentatively named GPT-5.2.",
-            "The urgency of the situation, as",
-            "conveyed by Altman\u0027s \u0022code red\u0022",
-            "declaration, underscores the intense",
-            "race among major AI developers.",
-            "The upcoming GPT-5.2 release is",
-            "positioned as a direct answer to Gemini",
-            "3.",
-            "This declaration comes in response to",
-            "Google\u0027s recent advancements,",
-            "particularly with its Gemini 3 model."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-05T13:00:00.000Z",
-      "ranking": 8.34,
-      "articleUrl": "https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response"
-    },
-    {
-      "id": "469",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Reality Check",
-      "mediumTitle": "AI\u0027s Real Progress vs. Public Doubt",
-      "longTitle": "AI\u0027s Rapid Development Outpaces Public Perception and Poses Societal Risks",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The author emphasizes that this is not a",
-            "bubble but the formation of a new",
-            "AI-powered society, and denial will only",
-            "leave humanity less prepared for the",
-            "associated risks.",
-            "This raises the significant \u0027AI",
-            "manipulation problem,\u0027 where AI could be",
-            "used for individually optimized",
-            "persuasion.",
-            "Photorealistic AI agents, designed to",
-            "appear warm and trustworthy, could",
-            "exploit our visceral, evolutionarily",
-            "shaped emotional responses to faces,",
-            "leading to manipulation.",
-            "The article argues that public",
-            "dismissiveness towards AI output as",
-            "\u0027slop\u0027 and the notion of an AI bubble",
-            "are dangerous, obscuring AI\u0027s",
-            "significant real-world capabilities."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-05T14:00:00.000Z",
-      "ranking": 8.316666666666668,
-      "articleUrl": "https://venturebeat.com/ai/ai-denial-is-becoming-an-enterprise-risk-why-dismissing-slop-obscures-real"
-    },
-    {
       "id": "475",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -108,6 +38,76 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/05/apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression\u2011native-rag-with-16x-128x-semantic-document-compression/"
     },
     {
+      "id": "469",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Reality Check",
+      "mediumTitle": "AI\u0027s Real Progress vs. Public Doubt",
+      "longTitle": "AI\u0027s Rapid Development Outpaces Public Perception and Poses Societal Risks",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The author emphasizes that this is not a",
+            "bubble but the formation of a new",
+            "AI-powered society, and denial will only",
+            "leave humanity less prepared for the",
+            "associated risks.",
+            "This raises the significant \u0027AI",
+            "manipulation problem,\u0027 where AI could be",
+            "used for individually optimized",
+            "persuasion.",
+            "Photorealistic AI agents, designed to",
+            "appear warm and trustworthy, could",
+            "exploit our visceral, evolutionarily",
+            "shaped emotional responses to faces,",
+            "leading to manipulation.",
+            "The article argues that public",
+            "dismissiveness towards AI output as",
+            "\u0027slop\u0027 and the notion of an AI bubble",
+            "are dangerous, obscuring AI\u0027s",
+            "significant real-world capabilities."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-05T14:00:00.000Z",
+      "ranking": 7.138817373822365,
+      "articleUrl": "https://venturebeat.com/ai/ai-denial-is-becoming-an-enterprise-risk-why-dismissing-slop-obscures-real"
+    },
+    {
+      "id": "470",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI Code Red",
+      "mediumTitle": "OpenAI Declares Code Red Amidst Competition",
+      "longTitle": "OpenAI CEO Sam Altman Declares Code Red Due to AI Competition",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI CEO Sam Altman has declared an",
+            "internal \u0022code red,\u0022 signaling an urgent",
+            "push to address heightened competition",
+            "from Google and Anthropic.",
+            "OpenAI is reportedly preparing to",
+            "release an update to its GPT model,",
+            "tentatively named GPT-5.2.",
+            "The urgency of the situation, as",
+            "conveyed by Altman\u0027s \u0022code red\u0022",
+            "declaration, underscores the intense",
+            "race among major AI developers.",
+            "The upcoming GPT-5.2 release is",
+            "positioned as a direct answer to Gemini",
+            "3.",
+            "This declaration comes in response to",
+            "Google\u0027s recent advancements,",
+            "particularly with its Gemini 3 model."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-05T13:00:00.000Z",
+      "ranking": 7.069973949055969,
+      "articleUrl": "https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response"
+    },
+    {
       "id": "471",
       "topic": "Policy",
       "source": "The Verge AI",
@@ -140,7 +140,7 @@
         }
       ],
       "publishedAt": "2025-12-05T11:42:56.000Z",
-      "ranking": 6.968232120507381,
+      "ranking": 6.602317191744463,
       "articleUrl": "https://www.theverge.com/news/839006/new-york-times-perplexity-lawsuit-copyright"
     },
     {
@@ -174,7 +174,7 @@
         }
       ],
       "publishedAt": "2025-12-05T09:45:35.000Z",
-      "ranking": 6.856093112923704,
+      "ranking": 6.462997612378608,
       "articleUrl": "https://www.theverge.com/news/838879/waymo-school-buses-probe"
     },
     {
@@ -211,7 +211,7 @@
         }
       ],
       "publishedAt": "2025-12-05T11:09:35.000Z",
-      "ranking": 6.799908076884375,
+      "ranking": 6.426268627552833,
       "articleUrl": "https://www.theverge.com/podcast/838932/openai-chatgpt-code-red-vergecast"
     },
     {
@@ -247,7 +247,7 @@
         }
       ],
       "publishedAt": "2025-12-05T07:08:43.000Z",
-      "ranking": 6.540059103952604,
+      "ranking": 6.110630190472777,
       "articleUrl": "https://www.theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub"
     },
     {
@@ -284,7 +284,7 @@
         }
       ],
       "publishedAt": "2025-12-05T10:39:25.000Z",
-      "ranking": 6.068526425140554,
+      "ranking": 5.68789977060597,
       "articleUrl": "https://www.theverge.com/news/838927/meta-ai-licensing-deals-cnn-fox-news-usa-today"
     },
     {
@@ -321,7 +321,7 @@
         }
       ],
       "publishedAt": "2025-12-05T00:00:00.000Z",
-      "ranking": 5.844432079086127,
+      "ranking": 5.315703924098191,
       "articleUrl": "https://venturebeat.com/ai/the-truth-serum-for-ai-openais-new-method-for-training-models-to-confess"
     },
     {
@@ -357,7 +357,7 @@
         }
       ],
       "publishedAt": "2025-12-04T10:00:00.000Z",
-      "ranking": 4.111081239478174,
+      "ranking": 3.387792535833741,
       "articleUrl": "https://venturebeat.com/ai/gam-takes-aim-at-context-rot-a-dual-agent-memory-architecture-that"
     },
     {
@@ -391,7 +391,7 @@
         }
       ],
       "publishedAt": "2025-12-04T15:02:00.000Z",
-      "ranking": 4.021757939778157,
+      "ranking": 3.3684183811147417,
       "articleUrl": "https://venturebeat.com/ai/aws-launches-kiro-powers-with-stripe-figma-and-datadog-integrations-for-ai"
     },
     {
@@ -426,7 +426,7 @@
         }
       ],
       "publishedAt": "2025-12-04T11:00:00.000Z",
-      "ranking": 3.997353220682352,
+      "ranking": 3.2879616932723303,
       "articleUrl": "https://www.theverge.com/podcast/838023/anthropic-societal-impact-trump-woke-ai-interview"
     },
     {
@@ -460,7 +460,7 @@
         }
       ],
       "publishedAt": "2025-12-04T15:00:00.000Z",
-      "ranking": 3.8774159376605746,
+      "ranking": 3.2236131353657775,
       "articleUrl": "https://www.theverge.com/tech/838079/microsoft-diversity-and-inclusion-changes-notepad"
     },
     {
@@ -493,43 +493,8 @@
         }
       ],
       "publishedAt": "2025-12-04T15:00:00.000Z",
-      "ranking": 3.8051937103378255,
+      "ranking": 3.1513909067667027,
       "articleUrl": "https://venturebeat.com/ai/gong-study-sales-teams-using-ai-generate-77-more-revenue-per-rep"
-    },
-    {
-      "id": "457",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "NetSuite AI Evolution",
-      "mediumTitle": "NetSuite Next: AI Embedded",
-      "longTitle": "NetSuite Next: Deeply Embedded Agentic AI in Business Systems",
-      "paragraphs": [
-        {
-          "Lines": [
-            "NetSuite founder Evan Goldberg discussed",
-            "NetSuite Next, a major shift towards",
-            "deeply embedded, agentic AI within",
-            "business systems.",
-            "Unlike competitors adding AI as separate",
-            "tools, NetSuite Next integrates AI",
-            "directly into core operations, making it",
-            "an extension of the business.",
-            "The AI in NetSuite Next is designed to",
-            "be contextual, conversational, and",
-            "autonomous, operating within",
-            "human-defined guardrails to perform",
-            "tasks like reconciling accounts and",
-            "optimizing payments.",
-            "The company believes enterprises that",
-            "reimagine ERP operations around embedded",
-            "intelligence will outperform those",
-            "simply adding conversational AI."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-04T06:00:00.000Z",
-      "ranking": 3.3847053575019386,
-      "articleUrl": "https://venturebeat.com/ai/inside-netsuites-next-act-evan-goldberg-on-the-future-of-ai-powered-business"
     },
     {
       "id": "458",
@@ -563,8 +528,43 @@
         }
       ],
       "publishedAt": "2025-12-04T12:00:12.000Z",
-      "ranking": 3.3264665989038473,
+      "ranking": 2.631018574743079,
       "articleUrl": "https://www.theverge.com/report/838167/ai-chatbots-can-be-wooed-into-crimes-with-poetry"
+    },
+    {
+      "id": "457",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "NetSuite AI Evolution",
+      "mediumTitle": "NetSuite Next: AI Embedded",
+      "longTitle": "NetSuite Next: Deeply Embedded Agentic AI in Business Systems",
+      "paragraphs": [
+        {
+          "Lines": [
+            "NetSuite founder Evan Goldberg discussed",
+            "NetSuite Next, a major shift towards",
+            "deeply embedded, agentic AI within",
+            "business systems.",
+            "Unlike competitors adding AI as separate",
+            "tools, NetSuite Next integrates AI",
+            "directly into core operations, making it",
+            "an extension of the business.",
+            "The AI in NetSuite Next is designed to",
+            "be contextual, conversational, and",
+            "autonomous, operating within",
+            "human-defined guardrails to perform",
+            "tasks like reconciling accounts and",
+            "optimizing payments.",
+            "The company believes enterprises that",
+            "reimagine ERP operations around embedded",
+            "intelligence will outperform those",
+            "simply adding conversational AI."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T06:00:00.000Z",
+      "ranking": 2.6058279042536068,
+      "articleUrl": "https://venturebeat.com/ai/inside-netsuites-next-act-evan-goldberg-on-the-future-of-ai-powered-business"
     },
     {
       "id": "461",
@@ -600,7 +600,7 @@
         }
       ],
       "publishedAt": "2025-12-04T10:05:16.000Z",
-      "ranking": 3.3022296794370636,
+      "ranking": 2.580160821867575,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/837950/yahoo-sports-game-breakdowns-ai"
     },
     {
@@ -635,7 +635,7 @@
         }
       ],
       "publishedAt": "2025-12-04T11:39:24.000Z",
-      "ranking": 3.0450972624501755,
+      "ranking": 2.344831537865609,
       "articleUrl": "https://www.theverge.com/news/838186/meta-metaverse-budget-cuts-2026"
     },
     {
@@ -670,7 +670,7 @@
         }
       ],
       "publishedAt": "2025-12-04T06:07:50.000Z",
-      "ranking": 2.8202861994844968,
+      "ranking": 2.043223101119449,
       "articleUrl": "https://www.marktechpost.com/2025/12/03/how-to-build-a-meta-cognitive-ai-agent-that-dynamically-adjusts-its-own-reasoning-depth-for-efficient-problem-solving/"
     },
     {
@@ -707,7 +707,7 @@
         }
       ],
       "publishedAt": "2025-12-04T06:00:00.000Z",
-      "ranking": 2.5064224986626904,
+      "ranking": 1.7275450424068142,
       "articleUrl": "https://venturebeat.com/security/anthropic-vs-openai-red-teaming-methods-reveal-different-security-priorities"
     },
     {
@@ -744,7 +744,7 @@
         }
       ],
       "publishedAt": "2025-12-03T23:00:00.000Z",
-      "ranking": 1.6041825377457029,
+      "ranking": 0.7280248043075819,
       "articleUrl": "https://venturebeat.com/ai/gemini-3-pro-scores-69-trust-in-blinded-testing-up-from-16-for-gemini-2-5"
     },
     {
@@ -780,7 +780,7 @@
         }
       ],
       "publishedAt": "2025-12-04T00:00:00.000Z",
-      "ranking": 1.4670381220199111,
+      "ranking": 0.604777566632082,
       "articleUrl": "https://venturebeat.com/ai/nvidias-new-ai-framework-trains-an-8b-model-to-manage-tools-like-a-pro"
     },
     {
@@ -932,6 +932,38 @@
       "articleUrl": "https://venturebeat.com/ai/tariff-turbulence-exposes-costly-blind-spots-in-supply-chains-and-ai"
     },
     {
+      "id": "448",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Google AI Studio",
+      "mediumTitle": "Google Workspace Studio for AI",
+      "longTitle": "Google Workspace Studio: Democratizing AI Agent Adoption",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has launched Workspace Studio, a",
+            "new platform designed to address the",
+            "challenge of employee adoption of AI",
+            "agents within enterprises.",
+            "Workspace Studio aims to democratize the",
+            "creation, management, and sharing of AI",
+            "agents by making them accessible",
+            "directly within Google Workspace",
+            "applications.",
+            "By embedding agents directly into Gmail,",
+            "Drive, and other Workspace tools, Google",
+            "can leverage the contextual information",
+            "available within these platforms to",
+            "power more effective agents and reach a",
+            "vast user base."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-03T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/workspace-studio-aims-to-solve-the-real-agent-problem-getting-employees-to"
+    },
+    {
       "id": "444",
       "topic": "Business",
       "source": "VentureBeat AI",
@@ -963,38 +995,6 @@
       "publishedAt": "2025-12-03T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/ai-has-redefined-the-talent-game-heres-how-leaders-are-responding"
-    },
-    {
-      "id": "448",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Google AI Studio",
-      "mediumTitle": "Google Workspace Studio for AI",
-      "longTitle": "Google Workspace Studio: Democratizing AI Agent Adoption",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has launched Workspace Studio, a",
-            "new platform designed to address the",
-            "challenge of employee adoption of AI",
-            "agents within enterprises.",
-            "Workspace Studio aims to democratize the",
-            "creation, management, and sharing of AI",
-            "agents by making them accessible",
-            "directly within Google Workspace",
-            "applications.",
-            "By embedding agents directly into Gmail,",
-            "Drive, and other Workspace tools, Google",
-            "can leverage the contextual information",
-            "available within these platforms to",
-            "power more effective agents and reach a",
-            "vast user base."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-03T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/workspace-studio-aims-to-solve-the-real-agent-problem-getting-employees-to"
     },
     {
       "id": "442",
