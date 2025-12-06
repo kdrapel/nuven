@@ -38,6 +38,42 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/05/apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression\u2011native-rag-with-16x-128x-semantic-document-compression/"
     },
     {
+      "id": "476",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Influencers Rise",
+      "mediumTitle": "AI Creators Reshape Influencer Economy",
+      "longTitle": "AI-Generated Creators Emerge, Disrupting Social Media Influencer Landscape",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AI-generated creators are rapidly",
+            "gaining followers on platforms like",
+            "TikTok and Instagram, challenging the",
+            "traditional influencer economy.",
+            "AI creators represent a significant",
+            "development that could fundamentally",
+            "alter social media marketing and content",
+            "creation.",
+            "These AI entities can be programmed to",
+            "create content, interact with audiences,",
+            "and develop personalities, often",
+            "appearing indistinguishable from humans.",
+            "This shift could lead to a substantial",
+            "disruption, or even a \u0022crash,\u0022 of the",
+            "current influencer economy.",
+            "Ethical implications of presenting AI as",
+            "human and the potential for",
+            "mass-produced, inauthentic content are",
+            "significant challenges."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-06T10:30:37.000Z",
+      "ranking": 7.626666666666665,
+      "articleUrl": "https://www.theverge.com/entertainment/839494/ai-literacy-tiktok"
+    },
+    {
       "id": "469",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -70,7 +106,7 @@
         }
       ],
       "publishedAt": "2025-12-05T14:00:00.000Z",
-      "ranking": 7.138817373822365,
+      "ranking": 6.749242038517498,
       "articleUrl": "https://venturebeat.com/ai/ai-denial-is-becoming-an-enterprise-risk-why-dismissing-slop-obscures-real"
     },
     {
@@ -104,7 +140,7 @@
         }
       ],
       "publishedAt": "2025-12-05T13:00:00.000Z",
-      "ranking": 7.069973949055969,
+      "ranking": 6.666508561686047,
       "articleUrl": "https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response"
     },
     {
@@ -140,7 +176,7 @@
         }
       ],
       "publishedAt": "2025-12-05T11:42:56.000Z",
-      "ranking": 6.602317191744463,
+      "ranking": 6.181010803551076,
       "articleUrl": "https://www.theverge.com/news/839006/new-york-times-perplexity-lawsuit-copyright"
     },
     {
@@ -174,7 +210,7 @@
         }
       ],
       "publishedAt": "2025-12-05T09:45:35.000Z",
-      "ranking": 6.462997612378608,
+      "ranking": 6.014524592772412,
       "articleUrl": "https://www.theverge.com/news/838879/waymo-school-buses-probe"
     },
     {
@@ -211,7 +247,7 @@
         }
       ],
       "publishedAt": "2025-12-05T11:09:35.000Z",
-      "ranking": 6.426268627552833,
+      "ranking": 5.9972416844698095,
       "articleUrl": "https://www.theverge.com/podcast/838932/openai-chatgpt-code-red-vergecast"
     },
     {
@@ -247,7 +283,7 @@
         }
       ],
       "publishedAt": "2025-12-05T07:08:43.000Z",
-      "ranking": 6.110630190472777,
+      "ranking": 5.625842395705098,
       "articleUrl": "https://www.theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub"
     },
     {
@@ -284,7 +320,7 @@
         }
       ],
       "publishedAt": "2025-12-05T10:39:25.000Z",
-      "ranking": 5.68789977060597,
+      "ranking": 5.2518892226885825,
       "articleUrl": "https://www.theverge.com/news/838927/meta-ai-licensing-deals-cnn-fox-news-usa-today"
     },
     {
@@ -321,8 +357,42 @@
         }
       ],
       "publishedAt": "2025-12-05T00:00:00.000Z",
-      "ranking": 5.315703924098191,
+      "ranking": 4.731667850291249,
       "articleUrl": "https://venturebeat.com/ai/the-truth-serum-for-ai-openais-new-method-for-training-models-to-confess"
+    },
+    {
+      "id": "452",
+      "topic": "Dev Tools",
+      "source": "VentureBeat AI",
+      "shortTitle": "AWS Kiro Powers",
+      "mediumTitle": "AWS Kiro Powers: Smarter AI Coding",
+      "longTitle": "AWS Kiro Powers Enhances AI Coding Assistants with On-Demand Expertise",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon Web Services (AWS) has launched",
+            "Kiro powers, a new system designed to",
+            "enhance AI coding assistants by",
+            "providing them with instant, specialized",
+            "expertise in specific tools and",
+            "workflows.",
+            "Kiro powers adopts an \u0027on-demand\u0027",
+            "approach, activating specialized",
+            "knowledge only when a developer needs",
+            "it, thereby reducing costs and improving",
+            "efficiency.",
+            "Kiro powers addresses this by",
+            "dynamically loading AI expertise,",
+            "comprising a POWER.md steering file,",
+            "Model Context Protocol (MCP) server",
+            "configuration, and optional automation",
+            "hooks."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T15:02:00.000Z",
+      "ranking": 2.659834832036702,
+      "articleUrl": "https://venturebeat.com/ai/aws-launches-kiro-powers-with-stripe-figma-and-datadog-integrations-for-ai"
     },
     {
       "id": "463",
@@ -357,42 +427,8 @@
         }
       ],
       "publishedAt": "2025-12-04T10:00:00.000Z",
-      "ranking": 3.387792535833741,
+      "ranking": 2.6092956979169504,
       "articleUrl": "https://venturebeat.com/ai/gam-takes-aim-at-context-rot-a-dual-agent-memory-architecture-that"
-    },
-    {
-      "id": "452",
-      "topic": "Dev Tools",
-      "source": "VentureBeat AI",
-      "shortTitle": "AWS Kiro Powers",
-      "mediumTitle": "AWS Kiro Powers: Smarter AI Coding",
-      "longTitle": "AWS Kiro Powers Enhances AI Coding Assistants with On-Demand Expertise",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Amazon Web Services (AWS) has launched",
-            "Kiro powers, a new system designed to",
-            "enhance AI coding assistants by",
-            "providing them with instant, specialized",
-            "expertise in specific tools and",
-            "workflows.",
-            "Kiro powers adopts an \u0027on-demand\u0027",
-            "approach, activating specialized",
-            "knowledge only when a developer needs",
-            "it, thereby reducing costs and improving",
-            "efficiency.",
-            "Kiro powers addresses this by",
-            "dynamically loading AI expertise,",
-            "comprising a POWER.md steering file,",
-            "Model Context Protocol (MCP) server",
-            "configuration, and optional automation",
-            "hooks."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-04T15:02:00.000Z",
-      "ranking": 3.3684183811147417,
-      "articleUrl": "https://venturebeat.com/ai/aws-launches-kiro-powers-with-stripe-figma-and-datadog-integrations-for-ai"
     },
     {
       "id": "460",
@@ -426,7 +462,7 @@
         }
       ],
       "publishedAt": "2025-12-04T11:00:00.000Z",
-      "ranking": 3.2879616932723303,
+      "ranking": 2.5233549144051715,
       "articleUrl": "https://www.theverge.com/podcast/838023/anthropic-societal-impact-trump-woke-ai-interview"
     },
     {
@@ -460,7 +496,7 @@
         }
       ],
       "publishedAt": "2025-12-04T15:00:00.000Z",
-      "ranking": 3.2236131353657775,
+      "ranking": 2.51456657147891,
       "articleUrl": "https://www.theverge.com/tech/838079/microsoft-diversity-and-inclusion-changes-notepad"
     },
     {
@@ -493,7 +529,7 @@
         }
       ],
       "publishedAt": "2025-12-04T15:00:00.000Z",
-      "ranking": 3.1513909067667027,
+      "ranking": 2.4423443330989736,
       "articleUrl": "https://venturebeat.com/ai/gong-study-sales-teams-using-ai-generate-77-more-revenue-per-rep"
     },
     {
@@ -528,43 +564,8 @@
         }
       ],
       "publishedAt": "2025-12-04T12:00:12.000Z",
-      "ranking": 2.631018574743079,
+      "ranking": 1.8803481393767258,
       "articleUrl": "https://www.theverge.com/report/838167/ai-chatbots-can-be-wooed-into-crimes-with-poetry"
-    },
-    {
-      "id": "457",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "NetSuite AI Evolution",
-      "mediumTitle": "NetSuite Next: AI Embedded",
-      "longTitle": "NetSuite Next: Deeply Embedded Agentic AI in Business Systems",
-      "paragraphs": [
-        {
-          "Lines": [
-            "NetSuite founder Evan Goldberg discussed",
-            "NetSuite Next, a major shift towards",
-            "deeply embedded, agentic AI within",
-            "business systems.",
-            "Unlike competitors adding AI as separate",
-            "tools, NetSuite Next integrates AI",
-            "directly into core operations, making it",
-            "an extension of the business.",
-            "The AI in NetSuite Next is designed to",
-            "be contextual, conversational, and",
-            "autonomous, operating within",
-            "human-defined guardrails to perform",
-            "tasks like reconciling accounts and",
-            "optimizing payments.",
-            "The company believes enterprises that",
-            "reimagine ERP operations around embedded",
-            "intelligence will outperform those",
-            "simply adding conversational AI."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-04T06:00:00.000Z",
-      "ranking": 2.6058279042536068,
-      "articleUrl": "https://venturebeat.com/ai/inside-netsuites-next-act-evan-goldberg-on-the-future-of-ai-powered-business"
     },
     {
       "id": "461",
@@ -600,8 +601,43 @@
         }
       ],
       "publishedAt": "2025-12-04T10:05:16.000Z",
-      "ranking": 2.580160821867575,
+      "ranking": 1.8028832216407373,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/837950/yahoo-sports-game-breakdowns-ai"
+    },
+    {
+      "id": "457",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "NetSuite AI Evolution",
+      "mediumTitle": "NetSuite Next: AI Embedded",
+      "longTitle": "NetSuite Next: Deeply Embedded Agentic AI in Business Systems",
+      "paragraphs": [
+        {
+          "Lines": [
+            "NetSuite founder Evan Goldberg discussed",
+            "NetSuite Next, a major shift towards",
+            "deeply embedded, agentic AI within",
+            "business systems.",
+            "Unlike competitors adding AI as separate",
+            "tools, NetSuite Next integrates AI",
+            "directly into core operations, making it",
+            "an extension of the business.",
+            "The AI in NetSuite Next is designed to",
+            "be contextual, conversational, and",
+            "autonomous, operating within",
+            "human-defined guardrails to perform",
+            "tasks like reconciling accounts and",
+            "optimizing payments.",
+            "The company believes enterprises that",
+            "reimagine ERP operations around embedded",
+            "intelligence will outperform those",
+            "simply adding conversational AI."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T06:00:00.000Z",
+      "ranking": 1.771770833176224,
+      "articleUrl": "https://venturebeat.com/ai/inside-netsuites-next-act-evan-goldberg-on-the-future-of-ai-powered-business"
     },
     {
       "id": "459",
@@ -635,7 +671,7 @@
         }
       ],
       "publishedAt": "2025-12-04T11:39:24.000Z",
-      "ranking": 2.344831537865609,
+      "ranking": 1.5893458811517833,
       "articleUrl": "https://www.theverge.com/news/838186/meta-metaverse-budget-cuts-2026"
     },
     {
@@ -670,7 +706,7 @@
         }
       ],
       "publishedAt": "2025-12-04T06:07:50.000Z",
-      "ranking": 2.043223101119449,
+      "ranking": 1.2109794609245315,
       "articleUrl": "https://www.marktechpost.com/2025/12/03/how-to-build-a-meta-cognitive-ai-agent-that-dynamically-adjusts-its-own-reasoning-depth-for-efficient-problem-solving/"
     },
     {
@@ -707,8 +743,44 @@
         }
       ],
       "publishedAt": "2025-12-04T06:00:00.000Z",
-      "ranking": 1.7275450424068142,
+      "ranking": 0.8934879804227958,
       "articleUrl": "https://venturebeat.com/security/anthropic-vs-openai-red-teaming-methods-reveal-different-security-priorities"
+    },
+    {
+      "id": "454",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Orchestrator",
+      "mediumTitle": "Nvidia \u0026 HKU AI Orchestrator",
+      "longTitle": "Nvidia and HKU\u0027s Orchestrator AI Manages Tools",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Researchers from Nvidia and the",
+            "University of Hong Kong have introduced",
+            "Orchestrator, an 8-billion-parameter AI",
+            "model designed to intelligently manage",
+            "and coordinate various tools and other",
+            "large language models (LLMs) to tackle",
+            "complex problems.",
+            "Crucially for enterprise adoption, it",
+            "generalized well to models and pricing",
+            "structures it had not encountered during",
+            "training.",
+            "The combination of lower cost, higher",
+            "speed, and customizability positions",
+            "this orchestration approach as a",
+            "practical and scalable solution for",
+            "developing sophisticated AI agents.",
+            "A key finding is Orchestrator\u0027s",
+            "adaptability and generalization",
+            "capabilities."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T00:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/nvidias-new-ai-framework-trains-an-8b-model-to-manage-tools-like-a-pro"
     },
     {
       "id": "450",
@@ -744,44 +816,8 @@
         }
       ],
       "publishedAt": "2025-12-03T23:00:00.000Z",
-      "ranking": 0.7280248043075819,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/gemini-3-pro-scores-69-trust-in-blinded-testing-up-from-16-for-gemini-2-5"
-    },
-    {
-      "id": "454",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Orchestrator",
-      "mediumTitle": "Nvidia \u0026 HKU AI Orchestrator",
-      "longTitle": "Nvidia and HKU\u0027s Orchestrator AI Manages Tools",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Researchers from Nvidia and the",
-            "University of Hong Kong have introduced",
-            "Orchestrator, an 8-billion-parameter AI",
-            "model designed to intelligently manage",
-            "and coordinate various tools and other",
-            "large language models (LLMs) to tackle",
-            "complex problems.",
-            "Crucially for enterprise adoption, it",
-            "generalized well to models and pricing",
-            "structures it had not encountered during",
-            "training.",
-            "The combination of lower cost, higher",
-            "speed, and customizability positions",
-            "this orchestration approach as a",
-            "practical and scalable solution for",
-            "developing sophisticated AI agents.",
-            "A key finding is Orchestrator\u0027s",
-            "adaptability and generalization",
-            "capabilities."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-04T00:00:00.000Z",
-      "ranking": 0.604777566632082,
-      "articleUrl": "https://venturebeat.com/ai/nvidias-new-ai-framework-trains-an-8b-model-to-manage-tools-like-a-pro"
     },
     {
       "id": "449",
@@ -1518,42 +1554,6 @@
       "publishedAt": "2025-12-01T19:45:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/deepseek-just-dropped-two-insanely-powerful-ai-models-that-rival-gpt-5-and"
-    },
-    {
-      "id": "426",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI\u0027s Circular Deal",
-      "mediumTitle": "OpenAI Acquires Stake in Investor",
-      "longTitle": "OpenAI Enters Circular Deal Acquiring Stake in Thrive Holdings",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This move is notable because Thrive",
-            "Holdings\u0027 parent company, Thrive",
-            "Capital, is a significant investor in",
-            "OpenAI itself.",
-            "This creates a situation where OpenAI is",
-            "both a recipient of investment and a",
-            "stakeholder in one of its key investors.",
-            "OpenAI, focused on artificial",
-            "intelligence, is now an owner of a firm",
-            "that has a substantial financial",
-            "interest in OpenAI\u0027s success.",
-            "OpenAI has entered into a new \u0027circular",
-            "deal\u0027 by acquiring an ownership stake in",
-            "Thrive Holdings, a private equity",
-            "investment firm.",
-            "OpenAI did not spend any money to",
-            "acquire this ownership stake, according",
-            "to an anonymous source cited by The",
-            "Financial Times."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-01T19:12:24.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/835453/openai-ownership-thrive-holdings"
     }
   ]
 }
