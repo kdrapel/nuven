@@ -141,42 +141,6 @@
       "articleUrl": "https://www.theverge.com/news/839006/new-york-times-perplexity-lawsuit-copyright"
     },
     {
-      "id": "468",
-      "topic": "Security",
-      "source": "The Verge AI",
-      "shortTitle": "Meta Account Hub",
-      "mediumTitle": "Meta Launches New Account Support Hub",
-      "longTitle": "Meta Introduces Centralized Hub for Facebook \u0026 Instagram Account Recovery",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta, the parent company of Facebook and",
-            "Instagram, has launched a new,",
-            "centralized support hub designed to",
-            "assist users in recovering hijacked or",
-            "inaccessible accounts.",
-            "The new hub consolidates all necessary",
-            "support features for both Facebook and",
-            "Instagram, allowing users to report",
-            "account problems or initiate the",
-            "recovery process for lost access.",
-            "The core purpose of this new feature is",
-            "to provide a more efficient and",
-            "user-friendly pathway for account",
-            "recovery.",
-            "The hub is expected to be a significant",
-            "step towards making it easier for",
-            "individuals to regain control of their",
-            "compromised accounts on these widely",
-            "used social media platforms."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-05T07:08:43.000Z",
-      "ranking": 7.99,
-      "articleUrl": "https://www.theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub"
-    },
-    {
       "id": "472",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -212,6 +176,43 @@
       "publishedAt": "2025-12-05T11:09:35.000Z",
       "ranking": 7.875000000000001,
       "articleUrl": "https://www.theverge.com/podcast/838932/openai-chatgpt-code-red-vergecast"
+    },
+    {
+      "id": "475",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "CLaRa RAG",
+      "mediumTitle": "Apple\u0027s CLaRa for RAG Systems",
+      "longTitle": "Apple\u0027s CLaRa Framework Enhances RAG System Efficiency",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Apple researchers, in collaboration with",
+            "the University of Edinburgh, have",
+            "introduced CLaRa (Continuous Latent",
+            "Reasoning), a novel framework designed",
+            "to address the challenges of maintaining",
+            "accuracy and efficiency in",
+            "Retrieval-Augmented Generation (RAG)",
+            "systems.",
+            "The core innovation of CLaRa lies in its",
+            "\u0022compression-native\u0022 approach, designed",
+            "from the ground up to handle compressed",
+            "representations of documents.",
+            "By enabling continuous latent reasoning",
+            "and semantic compression, CLaRa promises",
+            "to make RAG systems more scalable and",
+            "performant.",
+            "CLaRa aims to overcome these limitations",
+            "by integrating compression directly into",
+            "the RAG process, enabling significant",
+            "semantic document compression."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-05T21:20:00.000Z",
+      "ranking": 7.657142857142857,
+      "articleUrl": "https://www.marktechpost.com/2025/12/05/apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression\u2011native-rag-with-16x-128x-semantic-document-compression/"
     },
     {
       "id": "473",
@@ -251,6 +252,42 @@
       "articleUrl": "https://www.theverge.com/news/838927/meta-ai-licensing-deals-cnn-fox-news-usa-today"
     },
     {
+      "id": "468",
+      "topic": "Security",
+      "source": "The Verge AI",
+      "shortTitle": "Meta Account Hub",
+      "mediumTitle": "Meta Launches New Account Support Hub",
+      "longTitle": "Meta Introduces Centralized Hub for Facebook \u0026 Instagram Account Recovery",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta, the parent company of Facebook and",
+            "Instagram, has launched a new,",
+            "centralized support hub designed to",
+            "assist users in recovering hijacked or",
+            "inaccessible accounts.",
+            "The new hub consolidates all necessary",
+            "support features for both Facebook and",
+            "Instagram, allowing users to report",
+            "account problems or initiate the",
+            "recovery process for lost access.",
+            "The core purpose of this new feature is",
+            "to provide a more efficient and",
+            "user-friendly pathway for account",
+            "recovery.",
+            "The hub is expected to be a significant",
+            "step towards making it easier for",
+            "individuals to regain control of their",
+            "compromised accounts on these widely",
+            "used social media platforms."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-05T07:08:43.000Z",
+      "ranking": 6.913399855442629,
+      "articleUrl": "https://www.theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub"
+    },
+    {
       "id": "462",
       "topic": "Training Tricks",
       "source": "VentureBeat AI",
@@ -284,7 +321,7 @@
         }
       ],
       "publishedAt": "2025-12-05T00:00:00.000Z",
-      "ranking": 6.734675670855043,
+      "ranking": 6.316938261339353,
       "articleUrl": "https://venturebeat.com/ai/the-truth-serum-for-ai-openais-new-method-for-training-models-to-confess"
     },
     {
@@ -320,7 +357,7 @@
         }
       ],
       "publishedAt": "2025-12-04T10:00:00.000Z",
-      "ranking": 5.390272704499591,
+      "ranking": 4.777885813194101,
       "articleUrl": "https://venturebeat.com/ai/gam-takes-aim-at-context-rot-a-dual-agent-memory-architecture-that"
     },
     {
@@ -355,7 +392,7 @@
         }
       ],
       "publishedAt": "2025-12-04T11:00:00.000Z",
-      "ranking": 5.248762700690328,
+      "ranking": 4.650279343111416,
       "articleUrl": "https://www.theverge.com/podcast/838023/anthropic-societal-impact-trump-woke-ai-interview"
     },
     {
@@ -389,7 +426,7 @@
         }
       ],
       "publishedAt": "2025-12-04T15:02:00.000Z",
-      "ranking": 5.161113379599975,
+      "ranking": 4.618707609103484,
       "articleUrl": "https://venturebeat.com/ai/aws-launches-kiro-powers-with-stripe-figma-and-datadog-integrations-for-ai"
     },
     {
@@ -423,7 +460,7 @@
         }
       ],
       "publishedAt": "2025-12-04T15:00:00.000Z",
-      "ranking": 5.017697450572813,
+      "ranking": 4.4748282284173175,
       "articleUrl": "https://www.theverge.com/tech/838079/microsoft-diversity-and-inclusion-changes-notepad"
     },
     {
@@ -456,7 +493,7 @@
         }
       ],
       "publishedAt": "2025-12-04T15:00:00.000Z",
-      "ranking": 4.94547522422395,
+      "ranking": 4.402605999211315,
       "articleUrl": "https://venturebeat.com/ai/gong-study-sales-teams-using-ai-generate-77-more-revenue-per-rep"
     },
     {
@@ -491,7 +528,7 @@
         }
       ],
       "publishedAt": "2025-12-04T06:00:00.000Z",
-      "ranking": 4.775024789772212,
+      "ranking": 4.107023753440354,
       "articleUrl": "https://venturebeat.com/ai/inside-netsuites-next-act-evan-goldberg-on-the-future-of-ai-powered-business"
     },
     {
@@ -528,7 +565,7 @@
         }
       ],
       "publishedAt": "2025-12-04T10:05:16.000Z",
-      "ranking": 4.578982513022309,
+      "ranking": 3.9678160349351956,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/837950/yahoo-sports-game-breakdowns-ai"
     },
     {
@@ -563,7 +600,7 @@
         }
       ],
       "publishedAt": "2025-12-04T12:00:12.000Z",
-      "ranking": 4.550001475242519,
+      "ranking": 3.9654679887624558,
       "articleUrl": "https://www.theverge.com/report/838167/ai-chatbots-can-be-wooed-into-crimes-with-poetry"
     },
     {
@@ -598,7 +635,7 @@
         }
       ],
       "publishedAt": "2025-12-04T11:39:24.000Z",
-      "ranking": 4.278263236405257,
+      "ranking": 3.688909856540966,
       "articleUrl": "https://www.theverge.com/news/838186/meta-metaverse-budget-cuts-2026"
     },
     {
@@ -633,7 +670,7 @@
         }
       ],
       "publishedAt": "2025-12-04T06:07:50.000Z",
-      "ranking": 4.20697854210677,
+      "ranking": 3.540792685353937,
       "articleUrl": "https://www.marktechpost.com/2025/12/03/how-to-build-a-meta-cognitive-ai-agent-that-dynamically-adjusts-its-own-reasoning-depth-for-efficient-problem-solving/"
     },
     {
@@ -670,7 +707,7 @@
         }
       ],
       "publishedAt": "2025-12-04T06:00:00.000Z",
-      "ranking": 3.8967419356744033,
+      "ranking": 3.228740878020756,
       "articleUrl": "https://venturebeat.com/security/anthropic-vs-openai-red-teaming-methods-reveal-different-security-priorities"
     },
     {
@@ -707,7 +744,7 @@
         }
       ],
       "publishedAt": "2025-12-03T23:00:00.000Z",
-      "ranking": 3.188975911601453,
+      "ranking": 2.423650107236412,
       "articleUrl": "https://venturebeat.com/ai/gemini-3-pro-scores-69-trust-in-blinded-testing-up-from-16-for-gemini-2-5"
     },
     {
@@ -743,7 +780,7 @@
         }
       ],
       "publishedAt": "2025-12-04T00:00:00.000Z",
-      "ranking": 3.024049508466601,
+      "ranking": 2.272627236112151,
       "articleUrl": "https://venturebeat.com/ai/nvidias-new-ai-framework-trains-an-8b-model-to-manage-tools-like-a-pro"
     },
     {
@@ -780,7 +817,7 @@
         }
       ],
       "publishedAt": "2025-12-03T13:47:45.000Z",
-      "ranking": 1.6563411801062848,
+      "ranking": 0.7630449283587382,
       "articleUrl": "https://www.theverge.com/report/837431/grokipedia-update-editing-mess"
     },
     {
@@ -817,7 +854,7 @@
         }
       ],
       "publishedAt": "2025-12-03T17:45:00.000Z",
-      "ranking": 0.8855048881477572,
+      "ranking": 0.04718553729978048,
       "articleUrl": "https://www.theverge.com/column/837779/anthropic-ai-bubble-warning"
     },
     {
@@ -854,7 +891,7 @@
         }
       ],
       "publishedAt": "2025-12-03T11:00:00.000Z",
-      "ranking": 0.755154021966181,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/837156/amazon-fire-tv-alexa-plus-skip-to-scene"
     },
     {
@@ -891,7 +928,7 @@
         }
       ],
       "publishedAt": "2025-12-03T09:00:00.000Z",
-      "ranking": 0.26318663162689493,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/tariff-turbulence-exposes-costly-blind-spots-in-supply-chains-and-ai"
     },
     {
@@ -1280,6 +1317,41 @@
       "articleUrl": "https://www.theverge.com/news/836212/openai-code-red-chatgpt"
     },
     {
+      "id": "430",
+      "topic": "Security",
+      "source": "VentureBeat AI",
+      "shortTitle": "Norton Neo AI Browser",
+      "mediumTitle": "Norton Neo: Safety-First AI Browser",
+      "longTitle": "Norton Neo Launches as a Safety-First AI Browser with Zero-Prompt Assistance",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Norton Neo is a new AI-powered browser",
+            "focused on safety and privacy, aiming to",
+            "address concerns with existing AI",
+            "browsers like those from OpenAI and",
+            "Perplexity.",
+            "Norton Neo distinguishes itself with a",
+            "\u0027safety-first\u0027 approach and a",
+            "\u0027zero-prompt\u0027 AI assistant that",
+            "proactively offers help based on",
+            "browsing context.",
+            "The \u0027zero-prompt\u0027 difference is",
+            "highlighted as a key differentiator,",
+            "with Neo anticipating user needs rather",
+            "than waiting for explicit questions.",
+            "Privacy and security are foundational to",
+            "Neo\u0027s design, leveraging Norton\u0027s",
+            "extensive cybersecurity expertise to",
+            "protect user data."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/with-ai-browsers-creating-fresh-security-and-privacy-concerns-norton-neo-is"
+    },
+    {
       "id": "435",
       "topic": "Policy",
       "source": "VentureBeat AI",
@@ -1314,41 +1386,6 @@
       "publishedAt": "2025-12-02T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/aws-goes-beyond-prompt-level-safety-with-automated-reasoning-in-agentcore"
-    },
-    {
-      "id": "430",
-      "topic": "Security",
-      "source": "VentureBeat AI",
-      "shortTitle": "Norton Neo AI Browser",
-      "mediumTitle": "Norton Neo: Safety-First AI Browser",
-      "longTitle": "Norton Neo Launches as a Safety-First AI Browser with Zero-Prompt Assistance",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Norton Neo is a new AI-powered browser",
-            "focused on safety and privacy, aiming to",
-            "address concerns with existing AI",
-            "browsers like those from OpenAI and",
-            "Perplexity.",
-            "Norton Neo distinguishes itself with a",
-            "\u0027safety-first\u0027 approach and a",
-            "\u0027zero-prompt\u0027 AI assistant that",
-            "proactively offers help based on",
-            "browsing context.",
-            "The \u0027zero-prompt\u0027 difference is",
-            "highlighted as a key differentiator,",
-            "with Neo anticipating user needs rather",
-            "than waiting for explicit questions.",
-            "Privacy and security are foundational to",
-            "Neo\u0027s design, leveraging Norton\u0027s",
-            "extensive cybersecurity expertise to",
-            "protect user data."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/with-ai-browsers-creating-fresh-security-and-privacy-concerns-norton-neo-is"
     },
     {
       "id": "437",
@@ -1517,78 +1554,6 @@
       "publishedAt": "2025-12-01T19:12:24.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/835453/openai-ownership-thrive-holdings"
-    },
-    {
-      "id": "427",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Apple AI Shakeup",
-      "mediumTitle": "Apple AI Leadership Change",
-      "longTitle": "Apple AI Chief Steps Down Amidst Siri Challenges",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Apple\u0027s AI chief, John Giannandrea, is",
-            "stepping down from his role, as",
-            "announced on Monday.",
-            "Taking over the reins, Amar Subramanya",
-            "will now serve as Apple\u0027s vice president",
-            "of AI.",
-            "The article implies that Giannandrea\u0027s",
-            "departure is linked to the challenges",
-            "faced by Siri.",
-            "This leadership change occurs amidst",
-            "Apple\u0027s ongoing efforts to improve its",
-            "AI-powered virtual assistant, Siri.",
-            "He previously spent 16 years at Google.",
-            "The setbacks in Siri\u0027s development and",
-            "launch have contributed to this",
-            "executive transition.",
-            "Siri experienced a delayed launch",
-            "earlier this year."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-01T18:39:22.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri"
-    },
-    {
-      "id": "419",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Liquid AI LFM2",
-      "mediumTitle": "Liquid AI\u0027s LFM2: On-Device AI",
-      "longTitle": "Liquid AI\u0027s LFM2: On-Device Training and Inference for Enterprises",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Liquid AI, founded by MIT computer",
-            "scientists in 2023, has released its",
-            "Liquid Foundation Models series 2 (LFM2)",
-            "for enterprise-grade, on-device training",
-            "and inference.",
-            "On-device AI is now a viable design",
-            "choice rather than a compromise, with",
-            "LFM2 models demonstrating competitive",
-            "performance and significant latency",
-            "gains.",
-            "LFM2 models offer a fast and efficient",
-            "alternative to large, cloud-only",
-            "language models, aiming for real-time,",
-            "privacy-preserving AI on devices like",
-            "phones and laptops.",
-            "LFM2 provides a reproducible, open, and",
-            "operationally feasible foundation for",
-            "agentic systems that need to run",
-            "anywhere, from mobile devices to",
-            "air-gapped facilities."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-01T18:24:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/mit-offshoot-liquid-ai-releases-blueprint-for-enterprise-grade-small-model"
     }
   ]
 }
