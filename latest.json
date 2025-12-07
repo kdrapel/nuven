@@ -33,7 +33,7 @@
         }
       ],
       "publishedAt": "2025-12-06T10:30:37.000Z",
-      "ranking": 6.112885335569142,
+      "ranking": 5.675102325988513,
       "articleUrl": "https://www.theverge.com/entertainment/839494/ai-literacy-tiktok"
     },
     {
@@ -70,7 +70,7 @@
         }
       ],
       "publishedAt": "2025-12-05T21:20:00.000Z",
-      "ranking": 4.490886461789913,
+      "ranking": 3.870135593931882,
       "articleUrl": "https://www.marktechpost.com/2025/12/05/apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression\u2011native-rag-with-16x-128x-semantic-document-compression/"
     },
     {
@@ -106,7 +106,7 @@
         }
       ],
       "publishedAt": "2025-12-05T14:00:00.000Z",
-      "ranking": 3.9696363049476027,
+      "ranking": 3.247058633939645,
       "articleUrl": "https://venturebeat.com/ai/ai-denial-is-becoming-an-enterprise-risk-why-dismissing-slop-obscures-real"
     },
     {
@@ -140,7 +140,7 @@
         }
       ],
       "publishedAt": "2025-12-05T13:00:00.000Z",
-      "ranking": 3.8174874066230533,
+      "ranking": 3.0810242618206836,
       "articleUrl": "https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response"
     },
     {
@@ -176,7 +176,7 @@
         }
       ],
       "publishedAt": "2025-12-05T11:42:56.000Z",
-      "ranking": 3.24282939525202,
+      "ranking": 2.488531113267589,
       "articleUrl": "https://www.theverge.com/news/839006/new-york-times-perplexity-lawsuit-copyright"
     },
     {
@@ -213,7 +213,7 @@
         }
       ],
       "publishedAt": "2025-12-05T11:09:35.000Z",
-      "ranking": 3.0204768746046033,
+      "ranking": 2.258460573924073,
       "articleUrl": "https://www.theverge.com/podcast/838932/openai-chatgpt-code-red-vergecast"
     },
     {
@@ -247,7 +247,7 @@
         }
       ],
       "publishedAt": "2025-12-05T09:45:35.000Z",
-      "ranking": 2.940578182203936,
+      "ranking": 2.159122214408744,
       "articleUrl": "https://www.theverge.com/news/838879/waymo-school-buses-probe"
     },
     {
@@ -283,7 +283,7 @@
         }
       ],
       "publishedAt": "2025-12-05T07:08:43.000Z",
-      "ranking": 2.3704132355709637,
+      "ranking": 1.5526544653023961,
       "articleUrl": "https://www.theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub"
     },
     {
@@ -320,7 +320,7 @@
         }
       ],
       "publishedAt": "2025-12-05T10:39:25.000Z",
-      "ranking": 2.2402238698680854,
+      "ranking": 1.4712262538778313,
       "articleUrl": "https://www.theverge.com/news/838927/meta-ai-licensing-deals-cnn-fox-news-usa-today"
     },
     {
@@ -357,7 +357,7 @@
         }
       ],
       "publishedAt": "2025-12-05T00:00:00.000Z",
-      "ranking": 0.9802462351871473,
+      "ranking": 0.06327188998207056,
       "articleUrl": "https://venturebeat.com/ai/the-truth-serum-for-ai-openais-new-method-for-training-models-to-confess"
     },
     {
@@ -1353,6 +1353,41 @@
       "articleUrl": "https://www.theverge.com/news/836212/openai-code-red-chatgpt"
     },
     {
+      "id": "430",
+      "topic": "Security",
+      "source": "VentureBeat AI",
+      "shortTitle": "Norton Neo AI Browser",
+      "mediumTitle": "Norton Neo: Safety-First AI Browser",
+      "longTitle": "Norton Neo Launches as a Safety-First AI Browser with Zero-Prompt Assistance",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Norton Neo is a new AI-powered browser",
+            "focused on safety and privacy, aiming to",
+            "address concerns with existing AI",
+            "browsers like those from OpenAI and",
+            "Perplexity.",
+            "Norton Neo distinguishes itself with a",
+            "\u0027safety-first\u0027 approach and a",
+            "\u0027zero-prompt\u0027 AI assistant that",
+            "proactively offers help based on",
+            "browsing context.",
+            "The \u0027zero-prompt\u0027 difference is",
+            "highlighted as a key differentiator,",
+            "with Neo anticipating user needs rather",
+            "than waiting for explicit questions.",
+            "Privacy and security are foundational to",
+            "Neo\u0027s design, leveraging Norton\u0027s",
+            "extensive cybersecurity expertise to",
+            "protect user data."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-02T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/with-ai-browsers-creating-fresh-security-and-privacy-concerns-norton-neo-is"
+    },
+    {
       "id": "435",
       "topic": "Policy",
       "source": "VentureBeat AI",
@@ -1387,41 +1422,6 @@
       "publishedAt": "2025-12-02T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/aws-goes-beyond-prompt-level-safety-with-automated-reasoning-in-agentcore"
-    },
-    {
-      "id": "430",
-      "topic": "Security",
-      "source": "VentureBeat AI",
-      "shortTitle": "Norton Neo AI Browser",
-      "mediumTitle": "Norton Neo: Safety-First AI Browser",
-      "longTitle": "Norton Neo Launches as a Safety-First AI Browser with Zero-Prompt Assistance",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Norton Neo is a new AI-powered browser",
-            "focused on safety and privacy, aiming to",
-            "address concerns with existing AI",
-            "browsers like those from OpenAI and",
-            "Perplexity.",
-            "Norton Neo distinguishes itself with a",
-            "\u0027safety-first\u0027 approach and a",
-            "\u0027zero-prompt\u0027 AI assistant that",
-            "proactively offers help based on",
-            "browsing context.",
-            "The \u0027zero-prompt\u0027 difference is",
-            "highlighted as a key differentiator,",
-            "with Neo anticipating user needs rather",
-            "than waiting for explicit questions.",
-            "Privacy and security are foundational to",
-            "Neo\u0027s design, leveraging Norton\u0027s",
-            "extensive cybersecurity expertise to",
-            "protect user data."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/with-ai-browsers-creating-fresh-security-and-privacy-concerns-norton-neo-is"
     },
     {
       "id": "437",
@@ -1488,38 +1488,6 @@
       "publishedAt": "2025-12-02T04:53:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/arcee-aims-to-reboot-u-s-open-source-ai-with-new-trinity-models-released"
-    },
-    {
-      "id": "432",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "DeepSeek AI Models",
-      "mediumTitle": "DeepSeek\u0027s New AI Models for Reasoning",
-      "longTitle": "DeepSeek Unveils V3.2 Models for Advanced Long-Context Reasoning",
-      "paragraphs": [
-        {
-          "Lines": [
-            "DeepSeek researchers have introduced two",
-            "new models, DeepSeek-V3.2 and",
-            "DeepSeek-V3.2-Speciale, designed to",
-            "address the challenges of long-context",
-            "reasoning and agentic workloads.",
-            "The primary goal of these models is to",
-            "achieve GPT-5-level reasoning",
-            "capabilities without the prohibitive",
-            "quadratic attention and GPU costs",
-            "typically associated with such systems.",
-            "These models are specifically built with",
-            "a \u0022reasoning-first\u0022 approach, targeting",
-            "high-quality reasoning, the ability to",
-            "process and understand extensive",
-            "contexts, and efficient agent workflows."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T01:53:45.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/12/01/deepseek-researchers-introduce-deepseek-v3-2-and-deepseek-v3-2-speciale-for-long-context-reasoning-and-agentic-workloads/"
     }
   ]
 }
