@@ -33,7 +33,7 @@
         }
       ],
       "publishedAt": "2025-12-06T10:30:37.000Z",
-      "ranking": 5.675102325988513,
+      "ranking": 5.181571720671384,
       "articleUrl": "https://www.theverge.com/entertainment/839494/ai-literacy-tiktok"
     },
     {
@@ -70,7 +70,7 @@
         }
       ],
       "publishedAt": "2025-12-05T21:20:00.000Z",
-      "ranking": 3.870135593931882,
+      "ranking": 3.1935597306290164,
       "articleUrl": "https://www.marktechpost.com/2025/12/05/apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression\u2011native-rag-with-16x-128x-semantic-document-compression/"
     },
     {
@@ -106,7 +106,7 @@
         }
       ],
       "publishedAt": "2025-12-05T14:00:00.000Z",
-      "ranking": 3.247058633939645,
+      "ranking": 2.4686130433093183,
       "articleUrl": "https://venturebeat.com/ai/ai-denial-is-becoming-an-enterprise-risk-why-dismissing-slop-obscures-real"
     },
     {
@@ -140,7 +140,7 @@
         }
       ],
       "publishedAt": "2025-12-05T13:00:00.000Z",
-      "ranking": 3.0810242618206836,
+      "ranking": 2.2886873425322083,
       "articleUrl": "https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response"
     },
     {
@@ -176,7 +176,7 @@
         }
       ],
       "publishedAt": "2025-12-05T11:42:56.000Z",
-      "ranking": 2.488531113267589,
+      "ranking": 1.6783515733276806,
       "articleUrl": "https://www.theverge.com/news/839006/new-york-times-perplexity-lawsuit-copyright"
     },
     {
@@ -213,7 +213,7 @@
         }
       ],
       "publishedAt": "2025-12-05T11:09:35.000Z",
-      "ranking": 2.258460573924073,
+      "ranking": 1.4405597778236672,
       "articleUrl": "https://www.theverge.com/podcast/838932/openai-chatgpt-code-red-vergecast"
     },
     {
@@ -247,7 +247,7 @@
         }
       ],
       "publishedAt": "2025-12-05T09:45:35.000Z",
-      "ranking": 2.159122214408744,
+      "ranking": 1.3217735631353449,
       "articleUrl": "https://www.theverge.com/news/838879/waymo-school-buses-probe"
     },
     {
@@ -283,7 +283,7 @@
         }
       ],
       "publishedAt": "2025-12-05T07:08:43.000Z",
-      "ranking": 1.5526544653023961,
+      "ranking": 0.678987694038975,
       "articleUrl": "https://www.theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub"
     },
     {
@@ -320,7 +320,7 @@
         }
       ],
       "publishedAt": "2025-12-05T10:39:25.000Z",
-      "ranking": 1.4712262538778313,
+      "ranking": 0.6463411814061972,
       "articleUrl": "https://www.theverge.com/news/838927/meta-ai-licensing-deals-cnn-fox-news-usa-today"
     },
     {
@@ -357,7 +357,7 @@
         }
       ],
       "publishedAt": "2025-12-05T00:00:00.000Z",
-      "ranking": 0.06327188998207056,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/the-truth-serum-for-ai-openais-new-method-for-training-models-to-confess"
     },
     {
@@ -1351,143 +1351,6 @@
       "publishedAt": "2025-12-02T07:40:07.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/836212/openai-code-red-chatgpt"
-    },
-    {
-      "id": "430",
-      "topic": "Security",
-      "source": "VentureBeat AI",
-      "shortTitle": "Norton Neo AI Browser",
-      "mediumTitle": "Norton Neo: Safety-First AI Browser",
-      "longTitle": "Norton Neo Launches as a Safety-First AI Browser with Zero-Prompt Assistance",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Norton Neo is a new AI-powered browser",
-            "focused on safety and privacy, aiming to",
-            "address concerns with existing AI",
-            "browsers like those from OpenAI and",
-            "Perplexity.",
-            "Norton Neo distinguishes itself with a",
-            "\u0027safety-first\u0027 approach and a",
-            "\u0027zero-prompt\u0027 AI assistant that",
-            "proactively offers help based on",
-            "browsing context.",
-            "The \u0027zero-prompt\u0027 difference is",
-            "highlighted as a key differentiator,",
-            "with Neo anticipating user needs rather",
-            "than waiting for explicit questions.",
-            "Privacy and security are foundational to",
-            "Neo\u0027s design, leveraging Norton\u0027s",
-            "extensive cybersecurity expertise to",
-            "protect user data."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/with-ai-browsers-creating-fresh-security-and-privacy-concerns-norton-neo-is"
-    },
-    {
-      "id": "435",
-      "topic": "Policy",
-      "source": "VentureBeat AI",
-      "shortTitle": "AWS Bedrock Agents",
-      "mediumTitle": "AWS Bedrock AgentCore Enhancements",
-      "longTitle": "AWS Bedrock AgentCore Adds Reasoning, Memory, and Frontier Agents",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AWS is also introducing \u0022frontier",
-            "agents,\u0022 a new class of autonomous,",
-            "scalable, and independent agents",
-            "designed to handle complex projects.",
-            "AWS\u0027s most significant advancement is",
-            "the introduction of \u0022frontier agents,\u0022",
-            "described as a \u0022new class\u0022 of agents",
-            "that are fully automated and",
-            "independent.",
-            "These frontier agents are capable of",
-            "acting as teammates with minimal",
-            "direction and moving beyond assisting",
-            "with individual tasks to tackling",
-            "complex projects.",
-            "AWS is enhancing its Amazon Bedrock",
-            "AgentCore platform with new capabilities",
-            "focused on automated reasoning to",
-            "improve agent control, performance, and",
-            "safety for enterprises."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/aws-goes-beyond-prompt-level-safety-with-automated-reasoning-in-agentcore"
-    },
-    {
-      "id": "437",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "AWS Nova Forge",
-      "mediumTitle": "AWS Nova Forge for Custom AI",
-      "longTitle": "AWS Launches Nova Forge for Custom AI Model Creation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AWS has launched Nova Forge, a new",
-            "service designed to empower enterprises",
-            "to build custom foundation-class AI",
-            "models without requiring significant GPU",
-            "resources, as part of a strategy to meet",
-            "the growing demand for personalized AI",
-            "solutions.",
-            "The Nova Forge service allows businesses",
-            "to create customized versions of AWS\u0027s",
-            "Nova models, referred to as \u0027Novellas,\u0027",
-            "through a process called \u0027open",
-            "training,\u0027 where proprietary data is",
-            "blended with Amazon-curated datasets."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T05:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/with-nova-forge-aws-gives-companies-a-path-to-build-foundation-class-models"
-    },
-    {
-      "id": "428",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Arcee AI\u0027s Trinity",
-      "mediumTitle": "Arcee AI Launches Open-Weight MoE Models",
-      "longTitle": "Arcee AI Aims to Revitalize Open-Source AI with Trinity Models",
-      "paragraphs": [
-        {
-          "Lines": [
-            "U.S. startup Arcee AI is launching its",
-            "\u0022Trinity\u0022 family of open-weight",
-            "Mixture-of-Experts (MoE) models to",
-            "challenge the dominance of Chinese",
-            "research labs in open-source AI.",
-            "The initial releases, Trinity Mini (26B",
-            "parameters) and Trinity Nano Preview (6B",
-            "parameters), are available under the",
-            "Apache 2.0 license for free commercial",
-            "and research use.",
-            "Trinity Mini is a 26B parameter model",
-            "with 3B active parameters per token,",
-            "designed for high-throughput reasoning,",
-            "function calling, and tool use.",
-            "These models are built using Arcee\u0027s",
-            "novel Attention-First Mixture-of-Experts",
-            "(AFMoE) architecture, designed for",
-            "improved stability, long-context",
-            "reasoning, and efficiency."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T04:53:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/arcee-aims-to-reboot-u-s-open-source-ai-with-new-trinity-models-released"
     }
   ]
 }
