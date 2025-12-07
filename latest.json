@@ -70,7 +70,7 @@
         }
       ],
       "publishedAt": "2025-12-05T21:20:00.000Z",
-      "ranking": 6.020428180576936,
+      "ranking": 5.566121328445158,
       "articleUrl": "https://www.marktechpost.com/2025/12/05/apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression\u2011native-rag-with-16x-128x-semantic-document-compression/"
     },
     {
@@ -106,7 +106,7 @@
         }
       ],
       "publishedAt": "2025-12-05T14:00:00.000Z",
-      "ranking": 5.804767971599608,
+      "ranking": 5.2485919593951404,
       "articleUrl": "https://venturebeat.com/ai/ai-denial-is-becoming-an-enterprise-risk-why-dismissing-slop-obscures-real"
     },
     {
@@ -140,7 +140,7 @@
         }
       ],
       "publishedAt": "2025-12-05T13:00:00.000Z",
-      "ranking": 5.694290429447182,
+      "ranking": 5.124223169636222,
       "articleUrl": "https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response"
     },
     {
@@ -176,7 +176,7 @@
         }
       ],
       "publishedAt": "2025-12-05T11:42:56.000Z",
-      "ranking": 5.173156961734147,
+      "ranking": 4.585247163451914,
       "articleUrl": "https://www.theverge.com/news/839006/new-york-times-perplexity-lawsuit-copyright"
     },
     {
@@ -213,7 +213,7 @@
         }
       ],
       "publishedAt": "2025-12-05T11:09:35.000Z",
-      "ranking": 4.9739667638621565,
+      "ranking": 4.3783357524541575,
       "articleUrl": "https://www.theverge.com/podcast/838932/openai-chatgpt-code-red-vergecast"
     },
     {
@@ -247,7 +247,7 @@
         }
       ],
       "publishedAt": "2025-12-05T09:45:35.000Z",
-      "ranking": 4.95240796636968,
+      "ranking": 4.337329210366844,
       "articleUrl": "https://www.theverge.com/news/838879/waymo-school-buses-probe"
     },
     {
@@ -283,7 +283,7 @@
         }
       ],
       "publishedAt": "2025-12-05T07:08:43.000Z",
-      "ranking": 4.49119046181245,
+      "ranking": 3.8397938083773946,
       "articleUrl": "https://www.theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub"
     },
     {
@@ -320,7 +320,7 @@
         }
       ],
       "publishedAt": "2025-12-05T10:39:25.000Z",
-      "ranking": 4.21466519010878,
+      "ranking": 3.6120499715605394,
       "articleUrl": "https://www.theverge.com/news/838927/meta-ai-licensing-deals-cnn-fox-news-usa-today"
     },
     {
@@ -357,7 +357,7 @@
         }
       ],
       "publishedAt": "2025-12-05T00:00:00.000Z",
-      "ranking": 3.3987768713486526,
+      "ranking": 2.6481233873419665,
       "articleUrl": "https://venturebeat.com/ai/the-truth-serum-for-ai-openais-new-method-for-training-models-to-confess"
     },
     {
@@ -391,7 +391,7 @@
         }
       ],
       "publishedAt": "2025-12-04T15:02:00.000Z",
-      "ranking": 1.078172086777485,
+      "ranking": 0.20296040632188284,
       "articleUrl": "https://venturebeat.com/ai/aws-launches-kiro-powers-with-stripe-figma-and-datadog-integrations-for-ai"
     },
     {
@@ -425,44 +425,8 @@
         }
       ],
       "publishedAt": "2025-12-04T15:00:00.000Z",
-      "ranking": 0.9319790426844694,
+      "ranking": 0.056304320287327236,
       "articleUrl": "https://www.theverge.com/tech/838079/microsoft-diversity-and-inclusion-changes-notepad"
-    },
-    {
-      "id": "463",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "GAM Memory Arch",
-      "mediumTitle": "GAM: New Memory for LLMs",
-      "longTitle": "GAM: Dual-Agent Memory Architecture Tackles LLM Context Rot",
-      "paragraphs": [
-        {
-          "Lines": [
-            "GAM, a novel memory architecture, is",
-            "introduced to address \u0027context rot\u0027 in",
-            "large language models (LLMs), a problem",
-            "where AI forgets earlier information in",
-            "long tasks.",
-            "GAM significantly outperformed all",
-            "competitors, achieving over 90% accuracy",
-            "on RULER where other methods failed due",
-            "to lost or fading information.",
-            "This dual-agent system allows AI to",
-            "carry context across long conversations",
-            "without over-compression or premature",
-            "importance guessing, preserving all",
-            "information intact.",
-            "GAM\u0027s philosophy of \u0027avoid loss and",
-            "retrieve with intelligence\u0027",
-            "distinguishes it, offering a reliable",
-            "path for AI agents handling complex,",
-            "long-term tasks."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-04T10:00:00.000Z",
-      "ranking": 0.8879878228725531,
-      "articleUrl": "https://venturebeat.com/ai/gam-takes-aim-at-context-rot-a-dual-agent-memory-architecture-that"
     },
     {
       "id": "453",
@@ -494,43 +458,8 @@
         }
       ],
       "publishedAt": "2025-12-04T15:00:00.000Z",
-      "ranking": 0.8597568021710051,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/gong-study-sales-teams-using-ai-generate-77-more-revenue-per-rep"
-    },
-    {
-      "id": "460",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Safety Team",
-      "mediumTitle": "Anthropic\u0027s AI Societal Impacts Team",
-      "longTitle": "Pressure Mounts on Anthropic\u0027s AI Societal Impacts Team",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Anthropic\u0027s societal impacts team is",
-            "responsible for studying and mitigating",
-            "the potential negative consequences of",
-            "artificial intelligence.",
-            "However, the team\u0027s efforts are",
-            "reportedly under significant pressure.",
-            "The team\u0027s critical mission is to",
-            "proactively identify and address risks",
-            "associated with advanced AI.",
-            "This pressure implies the urgency and",
-            "scale of AI development may be outpacing",
-            "the team\u0027s capacity to address risks.",
-            "The team operates under considerable",
-            "strain to fulfill its vital mandate.",
-            "Potential harms explored include job",
-            "displacement, the spread of",
-            "misinformation, and more existential",
-            "threats."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-04T11:00:00.000Z",
-      "ranking": 0.8297910948487734,
-      "articleUrl": "https://www.theverge.com/podcast/838023/anthropic-societal-impact-trump-woke-ai-interview"
     },
     {
       "id": "458",
@@ -564,45 +493,8 @@
         }
       ],
       "publishedAt": "2025-12-04T12:00:12.000Z",
-      "ranking": 0.2146208877591409,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/report/838167/ai-chatbots-can-be-wooed-into-crimes-with-poetry"
-    },
-    {
-      "id": "461",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Yahoo AI Sports",
-      "mediumTitle": "Yahoo Sports AI Game Recaps",
-      "longTitle": "Yahoo Sports App Introduces AI-Powered Game Breakdowns",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Yahoo is introducing a new AI-powered",
-            "feature called \u0022Game Breakdowns\u0022 within",
-            "the Yahoo Sports app, designed to",
-            "automatically generate real-time recaps",
-            "of NFL football games.",
-            "The feature will provide a snapshot of",
-            "key moments and developments as they",
-            "happen during games.",
-            "Users can expect immediate updates on",
-            "significant plays and game shifts",
-            "directly within the app.",
-            "The AI\u0027s ability to process and",
-            "summarize live game events offers a new",
-            "way for fans to stay informed.",
-            "The \u0022Game Breakdowns\u0022 are intended to",
-            "provide a dynamic and engaging fan",
-            "experience throughout the NFL season.",
-            "This initiative aims to capture the",
-            "evolving stakes and storylines of the",
-            "league as the season progresses."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-04T10:05:16.000Z",
-      "ranking": 0.08401067515496052,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/837950/yahoo-sports-game-breakdowns-ai"
     },
     {
       "id": "459",
@@ -640,6 +532,114 @@
       "articleUrl": "https://www.theverge.com/news/838186/meta-metaverse-budget-cuts-2026"
     },
     {
+      "id": "460",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Safety Team",
+      "mediumTitle": "Anthropic\u0027s AI Societal Impacts Team",
+      "longTitle": "Pressure Mounts on Anthropic\u0027s AI Societal Impacts Team",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Anthropic\u0027s societal impacts team is",
+            "responsible for studying and mitigating",
+            "the potential negative consequences of",
+            "artificial intelligence.",
+            "However, the team\u0027s efforts are",
+            "reportedly under significant pressure.",
+            "The team\u0027s critical mission is to",
+            "proactively identify and address risks",
+            "associated with advanced AI.",
+            "This pressure implies the urgency and",
+            "scale of AI development may be outpacing",
+            "the team\u0027s capacity to address risks.",
+            "The team operates under considerable",
+            "strain to fulfill its vital mandate.",
+            "Potential harms explored include job",
+            "displacement, the spread of",
+            "misinformation, and more existential",
+            "threats."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T11:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/podcast/838023/anthropic-societal-impact-trump-woke-ai-interview"
+    },
+    {
+      "id": "461",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Yahoo AI Sports",
+      "mediumTitle": "Yahoo Sports AI Game Recaps",
+      "longTitle": "Yahoo Sports App Introduces AI-Powered Game Breakdowns",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Yahoo is introducing a new AI-powered",
+            "feature called \u0022Game Breakdowns\u0022 within",
+            "the Yahoo Sports app, designed to",
+            "automatically generate real-time recaps",
+            "of NFL football games.",
+            "The feature will provide a snapshot of",
+            "key moments and developments as they",
+            "happen during games.",
+            "Users can expect immediate updates on",
+            "significant plays and game shifts",
+            "directly within the app.",
+            "The AI\u0027s ability to process and",
+            "summarize live game events offers a new",
+            "way for fans to stay informed.",
+            "The \u0022Game Breakdowns\u0022 are intended to",
+            "provide a dynamic and engaging fan",
+            "experience throughout the NFL season.",
+            "This initiative aims to capture the",
+            "evolving stakes and storylines of the",
+            "league as the season progresses."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T10:05:16.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/837950/yahoo-sports-game-breakdowns-ai"
+    },
+    {
+      "id": "463",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "GAM Memory Arch",
+      "mediumTitle": "GAM: New Memory for LLMs",
+      "longTitle": "GAM: Dual-Agent Memory Architecture Tackles LLM Context Rot",
+      "paragraphs": [
+        {
+          "Lines": [
+            "GAM, a novel memory architecture, is",
+            "introduced to address \u0027context rot\u0027 in",
+            "large language models (LLMs), a problem",
+            "where AI forgets earlier information in",
+            "long tasks.",
+            "GAM significantly outperformed all",
+            "competitors, achieving over 90% accuracy",
+            "on RULER where other methods failed due",
+            "to lost or fading information.",
+            "This dual-agent system allows AI to",
+            "carry context across long conversations",
+            "without over-compression or premature",
+            "importance guessing, preserving all",
+            "information intact.",
+            "GAM\u0027s philosophy of \u0027avoid loss and",
+            "retrieve with intelligence\u0027",
+            "distinguishes it, offering a reliable",
+            "path for AI agents handling complex,",
+            "long-term tasks."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/gam-takes-aim-at-context-rot-a-dual-agent-memory-architecture-that"
+    },
+    {
       "id": "451",
       "topic": "Learning",
       "source": "Marktechpost AI",
@@ -673,6 +673,41 @@
       "publishedAt": "2025-12-04T06:07:50.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/12/03/how-to-build-a-meta-cognitive-ai-agent-that-dynamically-adjusts-its-own-reasoning-depth-for-efficient-problem-solving/"
+    },
+    {
+      "id": "457",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "NetSuite AI Evolution",
+      "mediumTitle": "NetSuite Next: AI Embedded",
+      "longTitle": "NetSuite Next: Deeply Embedded Agentic AI in Business Systems",
+      "paragraphs": [
+        {
+          "Lines": [
+            "NetSuite founder Evan Goldberg discussed",
+            "NetSuite Next, a major shift towards",
+            "deeply embedded, agentic AI within",
+            "business systems.",
+            "Unlike competitors adding AI as separate",
+            "tools, NetSuite Next integrates AI",
+            "directly into core operations, making it",
+            "an extension of the business.",
+            "The AI in NetSuite Next is designed to",
+            "be contextual, conversational, and",
+            "autonomous, operating within",
+            "human-defined guardrails to perform",
+            "tasks like reconciling accounts and",
+            "optimizing payments.",
+            "The company believes enterprises that",
+            "reimagine ERP operations around embedded",
+            "intelligence will outperform those",
+            "simply adding conversational AI."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/inside-netsuites-next-act-evan-goldberg-on-the-future-of-ai-powered-business"
     },
     {
       "id": "456",
@@ -710,41 +745,6 @@
       "publishedAt": "2025-12-04T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/security/anthropic-vs-openai-red-teaming-methods-reveal-different-security-priorities"
-    },
-    {
-      "id": "457",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "NetSuite AI Evolution",
-      "mediumTitle": "NetSuite Next: AI Embedded",
-      "longTitle": "NetSuite Next: Deeply Embedded Agentic AI in Business Systems",
-      "paragraphs": [
-        {
-          "Lines": [
-            "NetSuite founder Evan Goldberg discussed",
-            "NetSuite Next, a major shift towards",
-            "deeply embedded, agentic AI within",
-            "business systems.",
-            "Unlike competitors adding AI as separate",
-            "tools, NetSuite Next integrates AI",
-            "directly into core operations, making it",
-            "an extension of the business.",
-            "The AI in NetSuite Next is designed to",
-            "be contextual, conversational, and",
-            "autonomous, operating within",
-            "human-defined guardrails to perform",
-            "tasks like reconciling accounts and",
-            "optimizing payments.",
-            "The company believes enterprises that",
-            "reimagine ERP operations around embedded",
-            "intelligence will outperform those",
-            "simply adding conversational AI."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-04T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/inside-netsuites-next-act-evan-goldberg-on-the-future-of-ai-powered-business"
     },
     {
       "id": "454",
@@ -968,38 +968,6 @@
       "articleUrl": "https://venturebeat.com/ai/tariff-turbulence-exposes-costly-blind-spots-in-supply-chains-and-ai"
     },
     {
-      "id": "448",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Google AI Studio",
-      "mediumTitle": "Google Workspace Studio for AI",
-      "longTitle": "Google Workspace Studio: Democratizing AI Agent Adoption",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has launched Workspace Studio, a",
-            "new platform designed to address the",
-            "challenge of employee adoption of AI",
-            "agents within enterprises.",
-            "Workspace Studio aims to democratize the",
-            "creation, management, and sharing of AI",
-            "agents by making them accessible",
-            "directly within Google Workspace",
-            "applications.",
-            "By embedding agents directly into Gmail,",
-            "Drive, and other Workspace tools, Google",
-            "can leverage the contextual information",
-            "available within these platforms to",
-            "power more effective agents and reach a",
-            "vast user base."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-03T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/workspace-studio-aims-to-solve-the-real-agent-problem-getting-employees-to"
-    },
-    {
       "id": "444",
       "topic": "Business",
       "source": "VentureBeat AI",
@@ -1031,6 +999,38 @@
       "publishedAt": "2025-12-03T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/ai-has-redefined-the-talent-game-heres-how-leaders-are-responding"
+    },
+    {
+      "id": "448",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Google AI Studio",
+      "mediumTitle": "Google Workspace Studio for AI",
+      "longTitle": "Google Workspace Studio: Democratizing AI Agent Adoption",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has launched Workspace Studio, a",
+            "new platform designed to address the",
+            "challenge of employee adoption of AI",
+            "agents within enterprises.",
+            "Workspace Studio aims to democratize the",
+            "creation, management, and sharing of AI",
+            "agents by making them accessible",
+            "directly within Google Workspace",
+            "applications.",
+            "By embedding agents directly into Gmail,",
+            "Drive, and other Workspace tools, Google",
+            "can leverage the contextual information",
+            "available within these platforms to",
+            "power more effective agents and reach a",
+            "vast user base."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-03T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/workspace-studio-aims-to-solve-the-real-agent-problem-getting-employees-to"
     },
     {
       "id": "442",
@@ -1520,40 +1520,6 @@
       "publishedAt": "2025-12-02T01:53:45.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/12/01/deepseek-researchers-introduce-deepseek-v3-2-and-deepseek-v3-2-speciale-for-long-context-reasoning-and-agentic-workloads/"
-    },
-    {
-      "id": "418",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "DeepSeek AI Release",
-      "mediumTitle": "DeepSeek\u0027s New Open-Source AI Models",
-      "longTitle": "DeepSeek Releases Open-Source AI Models Rivaling GPT-5 and Gemini",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Chinese AI startup DeepSeek has released",
-            "two new AI models, DeepSeek-V3.2 and",
-            "DeepSeek-V3.2-Speciale, which the",
-            "company claims rival or surpass the",
-            "capabilities of OpenAI\u0027s GPT-5 and",
-            "Google\u0027s Gemini-3.0-Pro.",
-            "These models are notable for being",
-            "freely available under an MIT",
-            "open-source license, a move that could",
-            "significantly alter the competitive",
-            "landscape in AI development.",
-            "A key innovation behind these models is",
-            "DeepSeek Sparse Attention (DSA), a new",
-            "architectural approach that drastically",
-            "reduces the computational cost of",
-            "processing long documents and complex",
-            "tasks."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-01T19:45:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/deepseek-just-dropped-two-insanely-powerful-ai-models-that-rival-gpt-5-and"
     }
   ]
 }
