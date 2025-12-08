@@ -33,7 +33,7 @@
         }
       ],
       "publishedAt": "2025-12-06T10:30:37.000Z",
-      "ranking": 4.632725678277282,
+      "ranking": 4.028081001379929,
       "articleUrl": "https://www.theverge.com/entertainment/839494/ai-literacy-tiktok"
     },
     {
@@ -70,7 +70,7 @@
         }
       ],
       "publishedAt": "2025-12-05T21:20:00.000Z",
-      "ranking": 2.461750274560507,
+      "ranking": 1.6740640564300149,
       "articleUrl": "https://www.marktechpost.com/2025/12/05/apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression\u2011native-rag-with-16x-128x-semantic-document-compression/"
     },
     {
@@ -106,7 +106,7 @@
         }
       ],
       "publishedAt": "2025-12-05T14:00:00.000Z",
-      "ranking": 1.6349796260471248,
+      "ranking": 0.7454255298974246,
       "articleUrl": "https://venturebeat.com/ai/ai-denial-is-becoming-an-enterprise-risk-why-dismissing-slop-obscures-real"
     },
     {
@@ -140,7 +140,7 @@
         }
       ],
       "publishedAt": "2025-12-05T13:00:00.000Z",
-      "ranking": 1.4411688400392526,
+      "ranking": 0.5377236682432471,
       "articleUrl": "https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response"
     },
     {
@@ -176,7 +176,7 @@
         }
       ],
       "publishedAt": "2025-12-05T11:42:56.000Z",
-      "ranking": 0.8129984487091342,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/839006/new-york-times-perplexity-lawsuit-copyright"
     },
     {
@@ -213,42 +213,8 @@
         }
       ],
       "publishedAt": "2025-12-05T11:09:35.000Z",
-      "ranking": 0.5674888566623091,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/podcast/838932/openai-chatgpt-code-red-vergecast"
-    },
-    {
-      "id": "466",
-      "topic": "Robotics",
-      "source": "The Verge AI",
-      "shortTitle": "Waymo Probed",
-      "mediumTitle": "NHTSA Investigates Waymo Robotaxis",
-      "longTitle": "NHTSA Investigates Waymo Over Alleged School Bus Violations",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The National Highway Traffic Safety",
-            "Administration (NHTSA) has initiated an",
-            "investigation into Waymo, the",
-            "self-driving car company, due to",
-            "allegations that its autonomous vehicles",
-            "have illegally passed stopped school",
-            "buses.",
-            "This investigation was prompted by",
-            "reports from Austin, Texas, where",
-            "Waymo\u0027s robotaxis are alleged to have",
-            "committed this infraction.",
-            "In a formal letter addressed to Waymo,",
-            "the NHTSA\u0027s Office of Defects",
-            "Investigation has requested",
-            "comprehensive details regarding the",
-            "company\u0027s fifth-generation self-driving",
-            "system."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-05T09:45:35.000Z",
-      "ranking": 0.42926351602195023,
-      "articleUrl": "https://www.theverge.com/news/838879/waymo-school-buses-probe"
     },
     {
       "id": "473",
@@ -286,6 +252,40 @@
       "publishedAt": "2025-12-05T10:39:25.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/838927/meta-ai-licensing-deals-cnn-fox-news-usa-today"
+    },
+    {
+      "id": "466",
+      "topic": "Robotics",
+      "source": "The Verge AI",
+      "shortTitle": "Waymo Probed",
+      "mediumTitle": "NHTSA Investigates Waymo Robotaxis",
+      "longTitle": "NHTSA Investigates Waymo Over Alleged School Bus Violations",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The National Highway Traffic Safety",
+            "Administration (NHTSA) has initiated an",
+            "investigation into Waymo, the",
+            "self-driving car company, due to",
+            "allegations that its autonomous vehicles",
+            "have illegally passed stopped school",
+            "buses.",
+            "This investigation was prompted by",
+            "reports from Austin, Texas, where",
+            "Waymo\u0027s robotaxis are alleged to have",
+            "committed this infraction.",
+            "In a formal letter addressed to Waymo,",
+            "the NHTSA\u0027s Office of Defects",
+            "Investigation has requested",
+            "comprehensive details regarding the",
+            "company\u0027s fifth-generation self-driving",
+            "system."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-05T09:45:35.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/838879/waymo-school-buses-probe"
     },
     {
       "id": "468",
@@ -1314,43 +1314,6 @@
       "publishedAt": "2025-12-02T11:11:21.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/836335/anthropic-societal-impacts-team-ai-claude-effects"
-    },
-    {
-      "id": "431",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI Code Red",
-      "mediumTitle": "OpenAI Declares Code Red Amidst AI Race",
-      "longTitle": "OpenAI Issues Code Red Alert Due to Intense AI Competition",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has declared a \u0022code red\u0022 due to",
-            "increasing pressure from competitors,",
-            "particularly Google, in the artificial",
-            "intelligence race.",
-            "This internal alert, reportedly issued",
-            "by CEO Sam Altman, signals a need for",
-            "urgent improvements to their flagship",
-            "product, ChatGPT.",
-            "This integration allows Bard to access",
-            "real-time information, a feature that",
-            "ChatGPT currently lacks.",
-            "The move suggests that OpenAI\u0027s",
-            "previously dominant position in the AI",
-            "landscape is diminishing as rivals like",
-            "Google and Anthropic rapidly advance",
-            "their own AI capabilities.",
-            "This real-time access is a crucial",
-            "advantage, enabling Bard to provide more",
-            "up-to-date and relevant responses to",
-            "user queries."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T07:40:07.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/836212/openai-code-red-chatgpt"
     }
   ]
 }
