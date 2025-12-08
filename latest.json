@@ -33,7 +33,7 @@
         }
       ],
       "publishedAt": "2025-12-06T10:30:37.000Z",
-      "ranking": 4.028081001379929,
+      "ranking": 3.367161992183516,
       "articleUrl": "https://www.theverge.com/entertainment/839494/ai-literacy-tiktok"
     },
     {
@@ -70,7 +70,7 @@
         }
       ],
       "publishedAt": "2025-12-05T21:20:00.000Z",
-      "ranking": 1.6740640564300149,
+      "ranking": 0.829915805524589,
       "articleUrl": "https://www.marktechpost.com/2025/12/05/apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression\u2011native-rag-with-16x-128x-semantic-document-compression/"
     },
     {
@@ -106,7 +106,7 @@
         }
       ],
       "publishedAt": "2025-12-05T14:00:00.000Z",
-      "ranking": 0.7454255298974246,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/ai-denial-is-becoming-an-enterprise-risk-why-dismissing-slop-obscures-real"
     },
     {
@@ -140,7 +140,7 @@
         }
       ],
       "publishedAt": "2025-12-05T13:00:00.000Z",
-      "ranking": 0.5377236682432471,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response"
     },
     {
@@ -395,39 +395,6 @@
       "articleUrl": "https://venturebeat.com/ai/aws-launches-kiro-powers-with-stripe-figma-and-datadog-integrations-for-ai"
     },
     {
-      "id": "453",
-      "topic": "Business",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI in Sales Surge",
-      "mediumTitle": "AI Transforms Sales Decision-Making",
-      "longTitle": "Study Reveals AI\u0027s Growing Influence on Sales Strategy and Performance",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The research, based on an analysis of",
-            "7.1 million sales opportunities across",
-            "over 3,600 companies and a survey of",
-            "more than 3,000 global revenue leaders,",
-            "indicates that 70% of enterprise revenue",
-            "leaders now rely on AI to inform their",
-            "business decisions.",
-            "A new study by revenue intelligence",
-            "company Gong reveals a significant shift",
-            "in how sales teams are adopting and",
-            "trusting Artificial Intelligence (AI).",
-            "Teams that regularly use AI tools",
-            "generate 77% more revenue per",
-            "representative than those that don\u0027t, a",
-            "difference estimated to be six figures",
-            "per salesperson annually."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-04T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/gong-study-sales-teams-using-ai-generate-77-more-revenue-per-rep"
-    },
-    {
       "id": "464",
       "topic": "Policy",
       "source": "The Verge AI",
@@ -460,6 +427,39 @@
       "publishedAt": "2025-12-04T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/838079/microsoft-diversity-and-inclusion-changes-notepad"
+    },
+    {
+      "id": "453",
+      "topic": "Business",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI in Sales Surge",
+      "mediumTitle": "AI Transforms Sales Decision-Making",
+      "longTitle": "Study Reveals AI\u0027s Growing Influence on Sales Strategy and Performance",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The research, based on an analysis of",
+            "7.1 million sales opportunities across",
+            "over 3,600 companies and a survey of",
+            "more than 3,000 global revenue leaders,",
+            "indicates that 70% of enterprise revenue",
+            "leaders now rely on AI to inform their",
+            "business decisions.",
+            "A new study by revenue intelligence",
+            "company Gong reveals a significant shift",
+            "in how sales teams are adopting and",
+            "trusting Artificial Intelligence (AI).",
+            "Teams that regularly use AI tools",
+            "generate 77% more revenue per",
+            "representative than those that don\u0027t, a",
+            "difference estimated to be six figures",
+            "per salesperson annually."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/gong-study-sales-teams-using-ai-generate-77-more-revenue-per-rep"
     },
     {
       "id": "458",
@@ -968,6 +968,38 @@
       "articleUrl": "https://venturebeat.com/ai/tariff-turbulence-exposes-costly-blind-spots-in-supply-chains-and-ai"
     },
     {
+      "id": "448",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Google AI Studio",
+      "mediumTitle": "Google Workspace Studio for AI",
+      "longTitle": "Google Workspace Studio: Democratizing AI Agent Adoption",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has launched Workspace Studio, a",
+            "new platform designed to address the",
+            "challenge of employee adoption of AI",
+            "agents within enterprises.",
+            "Workspace Studio aims to democratize the",
+            "creation, management, and sharing of AI",
+            "agents by making them accessible",
+            "directly within Google Workspace",
+            "applications.",
+            "By embedding agents directly into Gmail,",
+            "Drive, and other Workspace tools, Google",
+            "can leverage the contextual information",
+            "available within these platforms to",
+            "power more effective agents and reach a",
+            "vast user base."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-03T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/workspace-studio-aims-to-solve-the-real-agent-problem-getting-employees-to"
+    },
+    {
       "id": "444",
       "topic": "Business",
       "source": "VentureBeat AI",
@@ -999,38 +1031,6 @@
       "publishedAt": "2025-12-03T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/ai-has-redefined-the-talent-game-heres-how-leaders-are-responding"
-    },
-    {
-      "id": "448",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Google AI Studio",
-      "mediumTitle": "Google Workspace Studio for AI",
-      "longTitle": "Google Workspace Studio: Democratizing AI Agent Adoption",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has launched Workspace Studio, a",
-            "new platform designed to address the",
-            "challenge of employee adoption of AI",
-            "agents within enterprises.",
-            "Workspace Studio aims to democratize the",
-            "creation, management, and sharing of AI",
-            "agents by making them accessible",
-            "directly within Google Workspace",
-            "applications.",
-            "By embedding agents directly into Gmail,",
-            "Drive, and other Workspace tools, Google",
-            "can leverage the contextual information",
-            "available within these platforms to",
-            "power more effective agents and reach a",
-            "vast user base."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-03T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/workspace-studio-aims-to-solve-the-real-agent-problem-getting-employees-to"
     },
     {
       "id": "442",
