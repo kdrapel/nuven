@@ -33,7 +33,7 @@
         }
       ],
       "publishedAt": "2025-12-06T10:30:37.000Z",
-      "ranking": 5.181571720671384,
+      "ranking": 4.632725678277282,
       "articleUrl": "https://www.theverge.com/entertainment/839494/ai-literacy-tiktok"
     },
     {
@@ -70,7 +70,7 @@
         }
       ],
       "publishedAt": "2025-12-05T21:20:00.000Z",
-      "ranking": 3.1935597306290164,
+      "ranking": 2.461750274560507,
       "articleUrl": "https://www.marktechpost.com/2025/12/05/apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression\u2011native-rag-with-16x-128x-semantic-document-compression/"
     },
     {
@@ -106,7 +106,7 @@
         }
       ],
       "publishedAt": "2025-12-05T14:00:00.000Z",
-      "ranking": 2.4686130433093183,
+      "ranking": 1.6349796260471248,
       "articleUrl": "https://venturebeat.com/ai/ai-denial-is-becoming-an-enterprise-risk-why-dismissing-slop-obscures-real"
     },
     {
@@ -140,7 +140,7 @@
         }
       ],
       "publishedAt": "2025-12-05T13:00:00.000Z",
-      "ranking": 2.2886873425322083,
+      "ranking": 1.4411688400392526,
       "articleUrl": "https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response"
     },
     {
@@ -176,7 +176,7 @@
         }
       ],
       "publishedAt": "2025-12-05T11:42:56.000Z",
-      "ranking": 1.6783515733276806,
+      "ranking": 0.8129984487091342,
       "articleUrl": "https://www.theverge.com/news/839006/new-york-times-perplexity-lawsuit-copyright"
     },
     {
@@ -213,7 +213,7 @@
         }
       ],
       "publishedAt": "2025-12-05T11:09:35.000Z",
-      "ranking": 1.4405597778236672,
+      "ranking": 0.5674888566623091,
       "articleUrl": "https://www.theverge.com/podcast/838932/openai-chatgpt-code-red-vergecast"
     },
     {
@@ -247,44 +247,8 @@
         }
       ],
       "publishedAt": "2025-12-05T09:45:35.000Z",
-      "ranking": 1.3217735631353449,
+      "ranking": 0.42926351602195023,
       "articleUrl": "https://www.theverge.com/news/838879/waymo-school-buses-probe"
-    },
-    {
-      "id": "468",
-      "topic": "Security",
-      "source": "The Verge AI",
-      "shortTitle": "Meta Account Hub",
-      "mediumTitle": "Meta Launches New Account Support Hub",
-      "longTitle": "Meta Introduces Centralized Hub for Facebook \u0026 Instagram Account Recovery",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta, the parent company of Facebook and",
-            "Instagram, has launched a new,",
-            "centralized support hub designed to",
-            "assist users in recovering hijacked or",
-            "inaccessible accounts.",
-            "The new hub consolidates all necessary",
-            "support features for both Facebook and",
-            "Instagram, allowing users to report",
-            "account problems or initiate the",
-            "recovery process for lost access.",
-            "The core purpose of this new feature is",
-            "to provide a more efficient and",
-            "user-friendly pathway for account",
-            "recovery.",
-            "The hub is expected to be a significant",
-            "step towards making it easier for",
-            "individuals to regain control of their",
-            "compromised accounts on these widely",
-            "used social media platforms."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-05T07:08:43.000Z",
-      "ranking": 0.678987694038975,
-      "articleUrl": "https://www.theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub"
     },
     {
       "id": "473",
@@ -320,8 +284,44 @@
         }
       ],
       "publishedAt": "2025-12-05T10:39:25.000Z",
-      "ranking": 0.6463411814061972,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/838927/meta-ai-licensing-deals-cnn-fox-news-usa-today"
+    },
+    {
+      "id": "468",
+      "topic": "Security",
+      "source": "The Verge AI",
+      "shortTitle": "Meta Account Hub",
+      "mediumTitle": "Meta Launches New Account Support Hub",
+      "longTitle": "Meta Introduces Centralized Hub for Facebook \u0026 Instagram Account Recovery",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta, the parent company of Facebook and",
+            "Instagram, has launched a new,",
+            "centralized support hub designed to",
+            "assist users in recovering hijacked or",
+            "inaccessible accounts.",
+            "The new hub consolidates all necessary",
+            "support features for both Facebook and",
+            "Instagram, allowing users to report",
+            "account problems or initiate the",
+            "recovery process for lost access.",
+            "The core purpose of this new feature is",
+            "to provide a more efficient and",
+            "user-friendly pathway for account",
+            "recovery.",
+            "The hub is expected to be a significant",
+            "step towards making it easier for",
+            "individuals to regain control of their",
+            "compromised accounts on these widely",
+            "used social media platforms."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-05T07:08:43.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub"
     },
     {
       "id": "462",
@@ -675,6 +675,41 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/03/how-to-build-a-meta-cognitive-ai-agent-that-dynamically-adjusts-its-own-reasoning-depth-for-efficient-problem-solving/"
     },
     {
+      "id": "457",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "NetSuite AI Evolution",
+      "mediumTitle": "NetSuite Next: AI Embedded",
+      "longTitle": "NetSuite Next: Deeply Embedded Agentic AI in Business Systems",
+      "paragraphs": [
+        {
+          "Lines": [
+            "NetSuite founder Evan Goldberg discussed",
+            "NetSuite Next, a major shift towards",
+            "deeply embedded, agentic AI within",
+            "business systems.",
+            "Unlike competitors adding AI as separate",
+            "tools, NetSuite Next integrates AI",
+            "directly into core operations, making it",
+            "an extension of the business.",
+            "The AI in NetSuite Next is designed to",
+            "be contextual, conversational, and",
+            "autonomous, operating within",
+            "human-defined guardrails to perform",
+            "tasks like reconciling accounts and",
+            "optimizing payments.",
+            "The company believes enterprises that",
+            "reimagine ERP operations around embedded",
+            "intelligence will outperform those",
+            "simply adding conversational AI."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/inside-netsuites-next-act-evan-goldberg-on-the-future-of-ai-powered-business"
+    },
+    {
       "id": "456",
       "topic": "Security",
       "source": "VentureBeat AI",
@@ -710,41 +745,6 @@
       "publishedAt": "2025-12-04T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/security/anthropic-vs-openai-red-teaming-methods-reveal-different-security-priorities"
-    },
-    {
-      "id": "457",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "NetSuite AI Evolution",
-      "mediumTitle": "NetSuite Next: AI Embedded",
-      "longTitle": "NetSuite Next: Deeply Embedded Agentic AI in Business Systems",
-      "paragraphs": [
-        {
-          "Lines": [
-            "NetSuite founder Evan Goldberg discussed",
-            "NetSuite Next, a major shift towards",
-            "deeply embedded, agentic AI within",
-            "business systems.",
-            "Unlike competitors adding AI as separate",
-            "tools, NetSuite Next integrates AI",
-            "directly into core operations, making it",
-            "an extension of the business.",
-            "The AI in NetSuite Next is designed to",
-            "be contextual, conversational, and",
-            "autonomous, operating within",
-            "human-defined guardrails to perform",
-            "tasks like reconciling accounts and",
-            "optimizing payments.",
-            "The company believes enterprises that",
-            "reimagine ERP operations around embedded",
-            "intelligence will outperform those",
-            "simply adding conversational AI."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-04T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/inside-netsuites-next-act-evan-goldberg-on-the-future-of-ai-powered-business"
     },
     {
       "id": "454",
@@ -968,38 +968,6 @@
       "articleUrl": "https://venturebeat.com/ai/tariff-turbulence-exposes-costly-blind-spots-in-supply-chains-and-ai"
     },
     {
-      "id": "448",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Google AI Studio",
-      "mediumTitle": "Google Workspace Studio for AI",
-      "longTitle": "Google Workspace Studio: Democratizing AI Agent Adoption",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has launched Workspace Studio, a",
-            "new platform designed to address the",
-            "challenge of employee adoption of AI",
-            "agents within enterprises.",
-            "Workspace Studio aims to democratize the",
-            "creation, management, and sharing of AI",
-            "agents by making them accessible",
-            "directly within Google Workspace",
-            "applications.",
-            "By embedding agents directly into Gmail,",
-            "Drive, and other Workspace tools, Google",
-            "can leverage the contextual information",
-            "available within these platforms to",
-            "power more effective agents and reach a",
-            "vast user base."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-03T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/workspace-studio-aims-to-solve-the-real-agent-problem-getting-employees-to"
-    },
-    {
       "id": "444",
       "topic": "Business",
       "source": "VentureBeat AI",
@@ -1031,6 +999,38 @@
       "publishedAt": "2025-12-03T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/ai-has-redefined-the-talent-game-heres-how-leaders-are-responding"
+    },
+    {
+      "id": "448",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Google AI Studio",
+      "mediumTitle": "Google Workspace Studio for AI",
+      "longTitle": "Google Workspace Studio: Democratizing AI Agent Adoption",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has launched Workspace Studio, a",
+            "new platform designed to address the",
+            "challenge of employee adoption of AI",
+            "agents within enterprises.",
+            "Workspace Studio aims to democratize the",
+            "creation, management, and sharing of AI",
+            "agents by making them accessible",
+            "directly within Google Workspace",
+            "applications.",
+            "By embedding agents directly into Gmail,",
+            "Drive, and other Workspace tools, Google",
+            "can leverage the contextual information",
+            "available within these platforms to",
+            "power more effective agents and reach a",
+            "vast user base."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-03T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/workspace-studio-aims-to-solve-the-real-agent-problem-getting-employees-to"
     },
     {
       "id": "442",
