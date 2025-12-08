@@ -33,7 +33,7 @@
         }
       ],
       "publishedAt": "2025-12-06T10:30:37.000Z",
-      "ranking": 3.367161992183516,
+      "ranking": 2.649160453143379,
       "articleUrl": "https://www.theverge.com/entertainment/839494/ai-literacy-tiktok"
     },
     {
@@ -70,7 +70,7 @@
         }
       ],
       "publishedAt": "2025-12-05T21:20:00.000Z",
-      "ranking": 0.829915805524589,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/12/05/apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression\u2011native-rag-with-16x-128x-semantic-document-compression/"
     },
     {
@@ -675,41 +675,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/03/how-to-build-a-meta-cognitive-ai-agent-that-dynamically-adjusts-its-own-reasoning-depth-for-efficient-problem-solving/"
     },
     {
-      "id": "457",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "NetSuite AI Evolution",
-      "mediumTitle": "NetSuite Next: AI Embedded",
-      "longTitle": "NetSuite Next: Deeply Embedded Agentic AI in Business Systems",
-      "paragraphs": [
-        {
-          "Lines": [
-            "NetSuite founder Evan Goldberg discussed",
-            "NetSuite Next, a major shift towards",
-            "deeply embedded, agentic AI within",
-            "business systems.",
-            "Unlike competitors adding AI as separate",
-            "tools, NetSuite Next integrates AI",
-            "directly into core operations, making it",
-            "an extension of the business.",
-            "The AI in NetSuite Next is designed to",
-            "be contextual, conversational, and",
-            "autonomous, operating within",
-            "human-defined guardrails to perform",
-            "tasks like reconciling accounts and",
-            "optimizing payments.",
-            "The company believes enterprises that",
-            "reimagine ERP operations around embedded",
-            "intelligence will outperform those",
-            "simply adding conversational AI."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-04T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/inside-netsuites-next-act-evan-goldberg-on-the-future-of-ai-powered-business"
-    },
-    {
       "id": "456",
       "topic": "Security",
       "source": "VentureBeat AI",
@@ -745,6 +710,41 @@
       "publishedAt": "2025-12-04T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/security/anthropic-vs-openai-red-teaming-methods-reveal-different-security-priorities"
+    },
+    {
+      "id": "457",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "NetSuite AI Evolution",
+      "mediumTitle": "NetSuite Next: AI Embedded",
+      "longTitle": "NetSuite Next: Deeply Embedded Agentic AI in Business Systems",
+      "paragraphs": [
+        {
+          "Lines": [
+            "NetSuite founder Evan Goldberg discussed",
+            "NetSuite Next, a major shift towards",
+            "deeply embedded, agentic AI within",
+            "business systems.",
+            "Unlike competitors adding AI as separate",
+            "tools, NetSuite Next integrates AI",
+            "directly into core operations, making it",
+            "an extension of the business.",
+            "The AI in NetSuite Next is designed to",
+            "be contextual, conversational, and",
+            "autonomous, operating within",
+            "human-defined guardrails to perform",
+            "tasks like reconciling accounts and",
+            "optimizing payments.",
+            "The company believes enterprises that",
+            "reimagine ERP operations around embedded",
+            "intelligence will outperform those",
+            "simply adding conversational AI."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-04T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/inside-netsuites-next-act-evan-goldberg-on-the-future-of-ai-powered-business"
     },
     {
       "id": "454",
@@ -968,38 +968,6 @@
       "articleUrl": "https://venturebeat.com/ai/tariff-turbulence-exposes-costly-blind-spots-in-supply-chains-and-ai"
     },
     {
-      "id": "448",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Google AI Studio",
-      "mediumTitle": "Google Workspace Studio for AI",
-      "longTitle": "Google Workspace Studio: Democratizing AI Agent Adoption",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has launched Workspace Studio, a",
-            "new platform designed to address the",
-            "challenge of employee adoption of AI",
-            "agents within enterprises.",
-            "Workspace Studio aims to democratize the",
-            "creation, management, and sharing of AI",
-            "agents by making them accessible",
-            "directly within Google Workspace",
-            "applications.",
-            "By embedding agents directly into Gmail,",
-            "Drive, and other Workspace tools, Google",
-            "can leverage the contextual information",
-            "available within these platforms to",
-            "power more effective agents and reach a",
-            "vast user base."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-03T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/workspace-studio-aims-to-solve-the-real-agent-problem-getting-employees-to"
-    },
-    {
       "id": "444",
       "topic": "Business",
       "source": "VentureBeat AI",
@@ -1031,6 +999,38 @@
       "publishedAt": "2025-12-03T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/ai-has-redefined-the-talent-game-heres-how-leaders-are-responding"
+    },
+    {
+      "id": "448",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Google AI Studio",
+      "mediumTitle": "Google Workspace Studio for AI",
+      "longTitle": "Google Workspace Studio: Democratizing AI Agent Adoption",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has launched Workspace Studio, a",
+            "new platform designed to address the",
+            "challenge of employee adoption of AI",
+            "agents within enterprises.",
+            "Workspace Studio aims to democratize the",
+            "creation, management, and sharing of AI",
+            "agents by making them accessible",
+            "directly within Google Workspace",
+            "applications.",
+            "By embedding agents directly into Gmail,",
+            "Drive, and other Workspace tools, Google",
+            "can leverage the contextual information",
+            "available within these platforms to",
+            "power more effective agents and reach a",
+            "vast user base."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-03T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/workspace-studio-aims-to-solve-the-real-agent-problem-getting-employees-to"
     },
     {
       "id": "442",
@@ -1279,41 +1279,6 @@
       "publishedAt": "2025-12-02T13:30:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/new-training-method-boosts-ai-multimodal-reasoning-with-smaller-smarter"
-    },
-    {
-      "id": "436",
-      "topic": "Safety",
-      "source": "The Verge AI",
-      "shortTitle": "AI Safety Focus",
-      "mediumTitle": "AI Researchers Tackle Safety Concerns",
-      "longTitle": "AI Researchers Actively Working to Prevent AI Risks",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Ensuring AI safety is not an",
-            "afterthought but a critical and ongoing",
-            "responsibility for those at the",
-            "forefront of AI development.",
-            "The article underscores the importance",
-            "of research into AI alignment, ensuring",
-            "AI systems pursue goals aligned with",
-            "human values and intentions.",
-            "In essence, AI researchers are aware of",
-            "their technologies\u0027 power and are",
-            "building safeguards against negative",
-            "outcomes to steer AI development towards",
-            "benefiting humanity.",
-            "The article discusses the growing",
-            "concerns and efforts within the AI",
-            "research community to ensure the safe",
-            "and beneficial development of artificial",
-            "intelligence."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T11:11:21.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/836335/anthropic-societal-impacts-team-ai-claude-effects"
     }
   ]
 }
