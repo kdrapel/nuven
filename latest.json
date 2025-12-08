@@ -33,7 +33,7 @@
         }
       ],
       "publishedAt": "2025-12-06T10:30:37.000Z",
-      "ranking": 2.649160453143379,
+      "ranking": 1.877630642728377,
       "articleUrl": "https://www.theverge.com/entertainment/839494/ai-literacy-tiktok"
     },
     {
@@ -1175,110 +1175,6 @@
       "publishedAt": "2025-12-02T18:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter"
-    },
-    {
-      "id": "434",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Mistral 3 AI Launch",
-      "mediumTitle": "Mistral AI Releases Open-Source Mistral 3",
-      "longTitle": "Mistral AI Launches Mistral 3: Open-Source Models for Distributed Intelligence",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Mistral AI, a prominent European AI",
-            "startup, has launched Mistral 3, a",
-            "family of 10 open-source models designed",
-            "for broad deployment across various",
-            "devices, from laptops and drones to",
-            "enterprise cloud systems.",
-            "This release marks a significant",
-            "challenge to U.S. tech giants and",
-            "Chinese competitors by offering models",
-            "under the permissive Apache 2.0 license,",
-            "allowing unrestricted commercial use.",
-            "Mistral\u0027s strategy prioritizes",
-            "flexibility, efficiency, and",
-            "\u0027distributed intelligence\u0027 over the",
-            "pursuit of ever-larger proprietary",
-            "systems, aiming to empower businesses",
-            "with customizable AI solutions."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T16:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/mistral-launches-mistral-3-a-family-of-open-models-designed-to-run-on"
-    },
-    {
-      "id": "429",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Ascentra Labs Funding",
-      "mediumTitle": "Ascentra Labs Secures Funding for AI in Consulting",
-      "longTitle": "Ascentra Labs raises $2M to automate consulting tasks with AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Ascentra Labs, a startup founded by",
-            "former McKinsey consultants, has secured",
-            "$2 million in seed funding led by NAP",
-            "(formerly Cavalry Ventures) to address",
-            "the manual nature of the global",
-            "consulting industry, which remains",
-            "largely analog despite AI advancements",
-            "in other sectors.",
-            "While using OpenAI\u0027s GPT models for data",
-            "interpretation, the core analysis is",
-            "performed by deterministic Python",
-            "scripts, ensuring verifiable outputs and",
-            "eliminating AI \u0022hallucinations.\u0022",
-            "This hybrid model aims to provide the",
-            "assurance consultants need when dealing",
-            "with quantitative data."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/ascentra-labs-raises-usd2-million-to-help-consultants-use-ai-instead-of-all"
-    },
-    {
-      "id": "439",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "OpenMMReasoner",
-      "mediumTitle": "OpenMMReasoner: Multimodal Reasoning Framework",
-      "longTitle": "OpenMMReasoner: Enhancing Multimodal Reasoning with Open-Source Framework",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenMMReasoner is a novel training",
-            "framework developed by researchers from",
-            "MiroMind AI and several Chinese",
-            "universities, designed to enhance the",
-            "multimodal reasoning capabilities of",
-            "language models.",
-            "This framework employs a two-stage",
-            "process: a supervised fine-tuning (SFT)",
-            "stage using a curated, high-quality",
-            "dataset, followed by a reinforcement",
-            "learning (RL) stage that guides the",
-            "model towards more effective reasoning",
-            "with both text and visual data.",
-            "A significant advantage of",
-            "OpenMMReasoner is its emphasis on",
-            "smaller, smarter datasets.",
-            "Experiments demonstrate that models",
-            "trained with this framework outperform",
-            "existing leading visual reasoning",
-            "models, often with less training data."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-02T13:30:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/new-training-method-boosts-ai-multimodal-reasoning-with-smaller-smarter"
     }
   ]
 }
