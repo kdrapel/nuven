@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "559",
+      "topic": "Dev Tools",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Coding",
+      "mediumTitle": "AI Coding Pilots Fail",
+      "longTitle": "Why Enterprise AI Coding Pilots Underperform",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Successful implementation depends on",
+            "treating context as an engineered asset",
+            "and workflow as a product.",
+            "Agentic coding is fundamentally a data",
+            "problem, requiring a new data layer to",
+            "capture engineering intent and",
+            "decision-making.",
+            "AI agents require a deep understanding",
+            "of the codebase, including modules,",
+            "dependencies, tests, architectural",
+            "conventions, and change history.",
+            "Agents should be treated as data",
+            "infrastructure, capturing plans, context",
+            "snapshots, and test runs as valuable",
+            "data.",
+            "Initial deployments of AI coding agents",
+            "often result in decreased productivity",
+            "due to the need for verification,",
+            "rework, and resolving confusion."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-13T21:00:00.000Z",
+      "ranking": 8.186363636363637,
+      "articleUrl": "https://venturebeat.com/ai/why-most-enterprise-ai-coding-pilots-underperform-hint-its-not-the-model"
+    },
+    {
       "id": "558",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -69,7 +105,7 @@
         }
       ],
       "publishedAt": "2025-12-12T14:11:14.000Z",
-      "ranking": 6.088448639880248,
+      "ranking": 5.644688045723515,
       "articleUrl": "https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones"
     },
     {
@@ -106,7 +142,7 @@
         }
       ],
       "publishedAt": "2025-12-12T06:00:00.000Z",
-      "ranking": 4.868722514138231,
+      "ranking": 4.311223956282413,
       "articleUrl": "https://venturebeat.com/ai/ai2s-new-olmo-3-1-extends-reinforcement-learning-training-for-stronger"
     },
     {
@@ -143,7 +179,7 @@
         }
       ],
       "publishedAt": "2025-12-12T01:00:00.000Z",
-      "ranking": 4.177981755144503,
+      "ranking": 3.551022474826996,
       "articleUrl": "https://venturebeat.com/ai/googles-new-framework-helps-ai-agents-spend-their-compute-and-tool-budget"
     },
     {
@@ -178,7 +214,7 @@
         }
       ],
       "publishedAt": "2025-12-11T19:03:24.000Z",
-      "ranking": 3.9520999355128845,
+      "ranking": 3.2425750854763633,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/842992/disney-openai-sora-ai-slop-partnership"
     },
     {
@@ -213,7 +249,7 @@
         }
       ],
       "publishedAt": "2025-12-12T00:26:00.000Z",
-      "ranking": 3.7427541484119216,
+      "ranking": 3.1079226625477943,
       "articleUrl": "https://venturebeat.com/ai/gpt-5-2-first-impressions-a-powerful-update-especially-for-business-tasks"
     },
     {
@@ -247,7 +283,7 @@
         }
       ],
       "publishedAt": "2025-12-11T17:30:15.000Z",
-      "ranking": 3.3153791451702848,
+      "ranking": 2.5842867677880097,
       "articleUrl": "https://www.theverge.com/news/842848/new-york-law-ai-advertisements-sag-aftra-labor"
     },
     {
@@ -284,7 +320,7 @@
         }
       ],
       "publishedAt": "2025-12-11T19:16:00.000Z",
-      "ranking": 2.6369488789009923,
+      "ranking": 1.9303413820433368,
       "articleUrl": "https://venturebeat.com/ai/openais-gpt-5-2-is-here-what-enterprises-need-to-know"
     },
     {
@@ -318,44 +354,8 @@
         }
       ],
       "publishedAt": "2025-12-11T15:00:00.000Z",
-      "ranking": 2.590965540492599,
+      "ranking": 1.8250849503304654,
       "articleUrl": "https://venturebeat.com/ai/marble-enters-the-race-to-bring-ai-to-tax-work-armed-with-usd9-million-and-a"
-    },
-    {
-      "id": "534",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Disney vs Google",
-      "mediumTitle": "Disney Accuses Google of Copyright Issues",
-      "longTitle": "Disney Demands Google Stop AI Copyright Infringement",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Disney formally accused Google of",
-            "large-scale copyright infringement this",
-            "week.",
-            "The letter requests an immediate halt to",
-            "the alleged infringement.",
-            "Disney contends that Google\u2019s AI",
-            "unlawfully utilizes their copyrighted",
-            "works in its generated content.",
-            "The accusation is based on Google\u2019s AI",
-            "models creating content that is",
-            "substantially similar to Disney\u2019s",
-            "copyrighted properties.",
-            "The core issue revolves around the",
-            "training data used by Google\u2019s AI and",
-            "the resulting outputs.",
-            "Disney\u2019s cease-and-desist letter",
-            "specifically mentions outputs resembling",
-            "characters from *Frozen*, *Deadpool*,",
-            "and *Star Wars*."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T13:02:06.000Z",
-      "ranking": 2.3650933418717788,
-      "articleUrl": "https://www.theverge.com/news/842573/disney-google-copyright-infringement-cease-and-desist"
     },
     {
       "id": "542",
@@ -391,8 +391,44 @@
         }
       ],
       "publishedAt": "2025-12-11T14:10:36.000Z",
-      "ranking": 2.3562339531700323,
+      "ranking": 1.5789155161506354,
       "articleUrl": "https://www.theverge.com/tech/842000/google-disco-browser-ai-experiment"
+    },
+    {
+      "id": "534",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Disney vs Google",
+      "mediumTitle": "Disney Accuses Google of Copyright Issues",
+      "longTitle": "Disney Demands Google Stop AI Copyright Infringement",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Disney formally accused Google of",
+            "large-scale copyright infringement this",
+            "week.",
+            "The letter requests an immediate halt to",
+            "the alleged infringement.",
+            "Disney contends that Google\u2019s AI",
+            "unlawfully utilizes their copyrighted",
+            "works in its generated content.",
+            "The accusation is based on Google\u2019s AI",
+            "models creating content that is",
+            "substantially similar to Disney\u2019s",
+            "copyrighted properties.",
+            "The core issue revolves around the",
+            "training data used by Google\u2019s AI and",
+            "the resulting outputs.",
+            "Disney\u2019s cease-and-desist letter",
+            "specifically mentions outputs resembling",
+            "characters from *Frozen*, *Deadpool*,",
+            "and *Star Wars*."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T13:02:06.000Z",
+      "ranking": 1.5719147028167688,
+      "articleUrl": "https://www.theverge.com/news/842573/disney-google-copyright-infringement-cease-and-desist"
     },
     {
       "id": "538",
@@ -427,7 +463,7 @@
         }
       ],
       "publishedAt": "2025-12-11T18:56:31.000Z",
-      "ranking": 2.2395290725975174,
+      "ranking": 1.5284104881070233,
       "articleUrl": "https://www.marktechpost.com/2025/12/11/the-machine-learning-divide-marktechposts-latest-ml-global-impact-report-reveals-geographic-asymmetry-between-ml-tool-origins-and-research-adoption/"
     },
     {
@@ -463,43 +499,8 @@
         }
       ],
       "publishedAt": "2025-12-11T14:10:19.000Z",
-      "ranking": 2.0903492468344638,
+      "ranking": 1.3129651870339325,
       "articleUrl": "https://www.theverge.com/news/842657/openai-chatgpt-adult-mode-debut-q1-2026"
-    },
-    {
-      "id": "537",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Disney \u0026 OpenAI",
-      "mediumTitle": "Disney Licenses Characters",
-      "longTitle": "OpenAI \u0026 Disney AI Partnership",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI and Disney have entered into a",
-            "three-year licensing agreement for",
-            "character usage.",
-            "The characters will be integrated into",
-            "OpenAI\u2019s Sora video generation model.",
-            "The agreement grants OpenAI rights to",
-            "utilize over 200 characters from",
-            "Disney\u2019s extensive portfolio.",
-            "However, the deal is described as a",
-            "\u201Cbillion-dollar\u201D agreement.",
-            "These characters span Disney, Marvel,",
-            "Pixar, and Star Wars franchises.",
-            "Users will be able to create",
-            "\u201Cuser-prompted social videos\u201D featuring",
-            "these iconic characters.",
-            "The collaboration aims to leverage",
-            "Sora\u2019s capabilities to create new",
-            "AI-generated video content."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T10:32:21.000Z",
-      "ranking": 1.9781837059625573,
-      "articleUrl": "https://www.theverge.com/news/842348/disney-openai-sora-chatgpt-images"
     },
     {
       "id": "536",
@@ -534,8 +535,43 @@
         }
       ],
       "publishedAt": "2025-12-11T12:21:17.000Z",
-      "ranking": 1.9536966117851762,
+      "ranking": 1.1510674668617655,
       "articleUrl": "https://www.theverge.com/news/842512/google-meta-openai-state-attorneys-general-ai-letter"
+    },
+    {
+      "id": "537",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Disney \u0026 OpenAI",
+      "mediumTitle": "Disney Licenses Characters",
+      "longTitle": "OpenAI \u0026 Disney AI Partnership",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI and Disney have entered into a",
+            "three-year licensing agreement for",
+            "character usage.",
+            "The characters will be integrated into",
+            "OpenAI\u2019s Sora video generation model.",
+            "The agreement grants OpenAI rights to",
+            "utilize over 200 characters from",
+            "Disney\u2019s extensive portfolio.",
+            "However, the deal is described as a",
+            "\u201Cbillion-dollar\u201D agreement.",
+            "These characters span Disney, Marvel,",
+            "Pixar, and Star Wars franchises.",
+            "Users will be able to create",
+            "\u201Cuser-prompted social videos\u201D featuring",
+            "these iconic characters.",
+            "The collaboration aims to leverage",
+            "Sora\u2019s capabilities to create new",
+            "AI-generated video content."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T10:32:21.000Z",
+      "ranking": 1.1503326063309816,
+      "articleUrl": "https://www.theverge.com/news/842348/disney-openai-sora-chatgpt-images"
     },
     {
       "id": "535",
@@ -570,7 +606,7 @@
         }
       ],
       "publishedAt": "2025-12-11T12:29:05.000Z",
-      "ranking": 1.9042981799826064,
+      "ranking": 1.1034749987114338,
       "articleUrl": "https://www.theverge.com/news/842494/openai-chatgpt-wrongful-death-suzanne-adams-delusions"
     },
     {
@@ -605,7 +641,7 @@
         }
       ],
       "publishedAt": "2025-12-11T18:46:11.000Z",
-      "ranking": 1.7450633495817396,
+      "ranking": 1.0315522141372382,
       "articleUrl": "https://www.theverge.com/news/842978/amazon-prime-video-ai-fallout-recap"
     },
     {
@@ -639,7 +675,7 @@
         }
       ],
       "publishedAt": "2025-12-11T10:30:00.000Z",
-      "ranking": 1.1570622011191016,
+      "ranking": 0.328666972117432,
       "articleUrl": "https://venturebeat.com/ai/nous-research-just-released-nomos-1-an-open-source-ai-that-ranks-second-on"
     },
     {
@@ -675,7 +711,7 @@
         }
       ],
       "publishedAt": "2025-12-11T06:00:00.000Z",
-      "ranking": 0.8862163856221423,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/creating-a-glass-box-how-netsuite-is-engineering-trust-into-ai"
     },
     {
@@ -710,7 +746,7 @@
         }
       ],
       "publishedAt": "2025-12-11T06:00:00.000Z",
-      "ranking": 0.68169256824818,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/coheres-rerank-4-quadruples-the-context-window-to-cut-agent-errors-and-boost"
     },
     {
@@ -1148,41 +1184,6 @@
       "articleUrl": "https://www.theverge.com/news/841222/rsl-licensing-ai-spec-launch"
     },
     {
-      "id": "524",
-      "topic": "Generative AI, NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Adobe \u0026 ChatGPT",
-      "mediumTitle": "Adobe Apps in ChatGPT",
-      "longTitle": "Adobe Integrates Tools into ChatGPT Platform",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Adobe is integrating its applications \u2013",
-            "Photoshop, Acrobat, and Adobe Express \u2013",
-            "directly into ChatGPT.",
-            "This allows ChatGPT users to edit photos",
-            "and PDFs, and create designs without",
-            "leaving the ChatGPT interface.",
-            "Users can simply describe the desired",
-            "edits or creations, and the Adobe apps",
-            "will execute them within ChatGPT.",
-            "Importantly, access to these Adobe apps",
-            "through ChatGPT is being offered for",
-            "free.",
-            "The article does not specify any usage",
-            "limitations associated with this free",
-            "access.",
-            "The article also doesn\u0027t mention any",
-            "potential future changes to the free",
-            "access model."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-10T09:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/841369/chatgpt-apps-adobe-photoshop-acrobat-express"
-    },
-    {
       "id": "516",
       "topic": "Hardware",
       "source": "VentureBeat AI",
@@ -1220,40 +1221,39 @@
       "articleUrl": "https://venturebeat.com/ai/how-googles-tpus-are-reshaping-the-economics-of-large-scale-ai"
     },
     {
-      "id": "501",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Mistral AI News",
-      "mediumTitle": "Mistral Releases Devstral 2",
-      "longTitle": "Mistral AI Launches New Coding Models \u0026 CLI Agent",
+      "id": "524",
+      "topic": "Generative AI, NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Adobe \u0026 ChatGPT",
+      "mediumTitle": "Adobe Apps in ChatGPT",
+      "longTitle": "Adobe Integrates Tools into ChatGPT Platform",
       "paragraphs": [
         {
           "Lines": [
-            "Mistral AI released Devstral 2, a new",
-            "pair of coding models alongside Mistral",
-            "Vibe, a command-line interface (CLI)",
-            "agent.",
-            "Devstral 2 is designed for software",
-            "development and boasts a 256K token",
-            "context window.",
-            "Devstral 2 uses a modified MIT license",
-            "restricting use for companies with over",
-            "$20 million in monthly revenue without a",
-            "commercial license.",
-            "Mistral emphasizes efficiency over",
-            "scale, stating Devstral 2 is smaller",
-            "than DeepSeek V3.2 and Kimi K2 while",
-            "matching or exceeding their performance.",
-            "Human evaluations show Devstral 2",
-            "beating DeepSeek V3.2 in 42.8% of tasks,",
-            "but losing to Claude Sonnet 4.5 in",
-            "53.1%."
+            "Adobe is integrating its applications \u2013",
+            "Photoshop, Acrobat, and Adobe Express \u2013",
+            "directly into ChatGPT.",
+            "This allows ChatGPT users to edit photos",
+            "and PDFs, and create designs without",
+            "leaving the ChatGPT interface.",
+            "Users can simply describe the desired",
+            "edits or creations, and the Adobe apps",
+            "will execute them within ChatGPT.",
+            "Importantly, access to these Adobe apps",
+            "through ChatGPT is being offered for",
+            "free.",
+            "The article does not specify any usage",
+            "limitations associated with this free",
+            "access.",
+            "The article also doesn\u0027t mention any",
+            "potential future changes to the free",
+            "access model."
           ]
         }
       ],
-      "publishedAt": "2025-12-09T20:44:00.000Z",
+      "publishedAt": "2025-12-10T09:00:00.000Z",
       "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/mistral-launches-powerful-devstral-2-coding-model-including-open-source"
+      "articleUrl": "https://www.theverge.com/news/841369/chatgpt-apps-adobe-photoshop-acrobat-express"
     }
   ]
 }
