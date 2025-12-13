@@ -1,40 +1,1259 @@
 {
   "articles": [
     {
-      "id": "476",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Influencers Rise",
-      "mediumTitle": "AI Creators Reshape Influencer Economy",
-      "longTitle": "AI-Generated Creators Emerge, Disrupting Social Media Influencer Landscape",
+      "id": "558",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Nanbeige4-3B",
+      "mediumTitle": "Small LLM, Big Reasoning",
+      "longTitle": "Nanbeige4-3B: Reasoning with 3B Parameters",
       "paragraphs": [
         {
           "Lines": [
-            "AI-generated creators are rapidly",
-            "gaining followers on platforms like",
-            "TikTok and Instagram, challenging the",
-            "traditional influencer economy.",
-            "AI creators represent a significant",
-            "development that could fundamentally",
-            "alter social media marketing and content",
-            "creation.",
-            "These AI entities can be programmed to",
-            "create content, interact with audiences,",
-            "and develop personalities, often",
-            "appearing indistinguishable from humans.",
-            "This shift could lead to a substantial",
-            "disruption, or even a \u0022crash,\u0022 of the",
-            "current influencer economy.",
-            "Ethical implications of presenting AI as",
-            "human and the potential for",
-            "mass-produced, inauthentic content are",
-            "significant challenges."
+            "This is accomplished by refining the",
+            "training process, rather than simply",
+            "scaling up the model size.",
+            "The goal is to achieve reasoning",
+            "capabilities similar to models that are",
+            "ten times larger.",
+            "The training process leveraged a very",
+            "large dataset of 23 trillion tokens.",
+            "Data quality is a key focus in the",
+            "training methodology.",
+            "A carefully designed curriculum guides",
+            "the model\u0027s learning process.",
+            "Reinforcement learning is also utilized",
+            "to enhance performance.",
+            "Distillation techniques are employed to",
+            "transfer knowledge efficiently.",
+            "Nanbeige4-3B is a language model with 3",
+            "billion parameters.",
+            "The released checkpoints represent the",
+            "culmination of this research effort."
           ]
         }
       ],
-      "publishedAt": "2025-12-06T10:30:37.000Z",
+      "publishedAt": "2025-12-13T07:00:36.000Z",
+      "ranking": 6.905,
+      "articleUrl": "https://www.marktechpost.com/2025/12/12/nanbeige4-3b-thinking-how-a-23t-token-pipeline-pushes-3b-models-past-30b-class-reasoning/"
+    },
+    {
+      "id": "551",
+      "topic": "Speech, NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Translate Beta",
+      "mediumTitle": "Google Translate Expands",
+      "longTitle": "Real-time Translation for All Headphones",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google Translate has expanded its",
+            "real-time speech translation capability,",
+            "previously exclusive to Pixel Buds, to",
+            "work with *any* headphones.",
+            "This feature is rolling out today in",
+            "beta on Android, making it available to",
+            "a wider range of users.",
+            "The real-time translation supports over",
+            "70 languages, facilitating communication",
+            "across diverse linguistic backgrounds.",
+            "Unlike Apple\u2019s comparable functionality",
+            "which is limited to AirPods, Google\u2019s",
+            "implementation doesn\u2019t require specific",
+            "hardware.",
+            "The feature functions with any",
+            "compatible headphones connected to an",
+            "Android phone running the Google",
+            "Translate app."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-12T14:11:14.000Z",
+      "ranking": 6.088448639880248,
+      "articleUrl": "https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones"
+    },
+    {
+      "id": "554",
+      "topic": "Large Models, Training Tricks",
+      "source": "VentureBeat AI",
+      "shortTitle": "Ai2 Olmo 3.1",
+      "mediumTitle": "Allen AI Updates Olmo LLMs",
+      "longTitle": "Allen Institute for AI Releases Olmo 3.1 Updates",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The Allen Institute for AI (Ai2) has",
+            "released Olmo 3.1, an updated version of",
+            "its Olmo 3 family of large language",
+            "models (LLMs).",
+            "This update focuses on improving",
+            "performance, efficiency, transparency,",
+            "and control for enterprise and research",
+            "use.",
+            "This resulted in gains of 5\u002B points on",
+            "AIME, 4\u002B points on ZebraLogic, 4\u002B points",
+            "on IFEval, and 20\u002B points on IFBench,",
+            "alongside improved coding and complex",
+            "task performance.",
+            "Benchmark tests demonstrate Olmo 3.1\u0027s",
+            "improved performance.",
+            "Olmo 3.1 Think 32B was improved by",
+            "extending the reinforcement learning",
+            "(RL) training run by 21 days on 224",
+            "GPUs, utilizing the Dolci-Think-RL",
+            "dataset."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-12T06:00:00.000Z",
+      "ranking": 4.868722514138231,
+      "articleUrl": "https://venturebeat.com/ai/ai2s-new-olmo-3-1-extends-reinforcement-learning-training-for-stronger"
+    },
+    {
+      "id": "555",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Budgeting",
+      "mediumTitle": "Efficient AI Agents",
+      "longTitle": "Google Improves AI Resource Use",
+      "paragraphs": [
+        {
+          "Lines": [
+            "BATS achieved better cost-performance",
+            "trade-offs, achieving higher accuracy at",
+            "a lower cost.",
+            "BATS achieved 24.6% accuracy on",
+            "BrowseComp versus 12.6% for ReAct.",
+            "BATS achieved 27.0% on HLE-Search versus",
+            "20.5% for ReAct.",
+            "On BrowseComp, BATS cost approximately",
+            "23 cents versus over 50 cents for a",
+            "parallel scaling baseline.",
+            "Budget Tracker continued to scale with",
+            "increased budgets, unlike standard ReAct",
+            "approaches which plateaued.",
+            "These techniques are crucial for",
+            "deploying effective AI agents in",
+            "enterprise settings.",
+            "Google researchers have developed new",
+            "techniques to help AI agents use their",
+            "computational and tool-use budgets more",
+            "efficiently."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-12T01:00:00.000Z",
+      "ranking": 4.177981755144503,
+      "articleUrl": "https://venturebeat.com/ai/googles-new-framework-helps-ai-agents-spend-their-compute-and-tool-budget"
+    },
+    {
+      "id": "548",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Disney \u0026 OpenAI",
+      "mediumTitle": "Disney Partners with OpenAI",
+      "longTitle": "Disney and OpenAI Announce $1 Billion AI Deal",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Disney and OpenAI have entered into a $1",
+            "billion partnership to explore the",
+            "potential of generative AI.",
+            "The collaboration centers around Disney",
+            "granting OpenAI access to its vast",
+            "library of characters and content.",
+            "Sora users will gain the ability to",
+            "create video clips featuring hundreds of",
+            "Disney-owned characters.",
+            "Specifically, the deal focuses on",
+            "integrating Disney properties with",
+            "OpenAI\u2019s Sora, its AI video generator.",
+            "OpenAI will leverage Disney\u2019s",
+            "intellectual property to enhance the",
+            "capabilities of its generative AI tools.",
+            "The financial investment of $1 billion",
+            "underscores the importance both",
+            "companies place on this collaboration."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T19:03:24.000Z",
+      "ranking": 3.9520999355128845,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/842992/disney-openai-sora-ai-slop-partnership"
+    },
+    {
+      "id": "546",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "GPT-5.2 Out",
+      "mediumTitle": "OpenAI Releases GPT-5.2",
+      "longTitle": "GPT-5.2: Advanced Reasoning \u0026 Coding",
+      "paragraphs": [
+        {
+          "Lines": [
+            "GPT-5.2\u0027s release indicates a",
+            "significant advancement in complex",
+            "reasoning, coding, and autonomous task",
+            "handling.",
+            "Developers are impressed by the model\u2019s",
+            "ability to generate complex code",
+            "structures from single prompts.",
+            "Box observed a reduction in complex",
+            "extraction task time from 46 to 12",
+            "seconds with GPT-5.2.",
+            "Reasoning accuracy in the Media \u0026",
+            "Entertainment vertical increased from",
+            "76% to 81% using GPT-5.2.",
+            "GPT-5.2\u2019s extended autonomy allows it to",
+            "maintain focus on tasks for hours.",
+            "Initial reactions suggest GPT-5.2 is",
+            "particularly beneficial for business",
+            "applications."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-12T00:26:00.000Z",
+      "ranking": 3.7427541484119216,
+      "articleUrl": "https://venturebeat.com/ai/gpt-5-2-first-impressions-a-powerful-update-especially-for-business-tasks"
+    },
+    {
+      "id": "541",
+      "topic": "Policy, Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "NY AI Ads",
+      "mediumTitle": "New York Requires AI Ad Disclosure",
+      "longTitle": "New York State Mandates Disclosure of AI-Generated Ads",
+      "paragraphs": [
+        {
+          "Lines": [
+            "New York State has enacted a",
+            "first-of-its-kind law in the United",
+            "States regarding the use of artificial",
+            "intelligence in advertising.",
+            "Advertisers are now legally obligated to",
+            "disclose when an advertisement features",
+            "an AI-generated person.",
+            "New York is the first state in the US to",
+            "implement such a comprehensive law",
+            "concerning AI-generated advertising.",
+            "The law specifically targets",
+            "advertisements that utilize AI to create",
+            "images or videos of individuals.",
+            "The legislation addresses the growing",
+            "concern of realistic AI-generated",
+            "content being used to mislead the",
+            "public."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T17:30:15.000Z",
+      "ranking": 3.3153791451702848,
+      "articleUrl": "https://www.theverge.com/news/842848/new-york-law-ai-advertisements-sag-aftra-labor"
+    },
+    {
+      "id": "533",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "GPT-5.2",
+      "mediumTitle": "OpenAI Releases GPT-5.2",
+      "longTitle": "OpenAI Launches GPT-5.2 Model Family",
+      "paragraphs": [
+        {
+          "Lines": [
+            "GPT-5.2 Thinking outperforms industry",
+            "professionals on 70.9% of tasks, as",
+            "measured by the GDPval benchmark.",
+            "In coding benchmarks, GPT-5.2 achieves a",
+            "state-of-the-art score of 55.6% on",
+            "SWE-bench Pro.",
+            "OpenAI describes GPT-5.2 as its \u201Cmost",
+            "capable model series yet for",
+            "professional knowledge work,\u201D focusing",
+            "on reasoning, coding, and agentic",
+            "workflows.",
+            "GPT-5.2 exhibits a 38% reduction in",
+            "\u201Challucinations\u201D compared to GPT-5.1.",
+            "GPT-5.2 demonstrates strong performance",
+            "on science (93.2% on GPQA Diamond), math",
+            "(40.3% on FrontierMath), and general",
+            "reasoning (90.5% on ARC-AGI-1).",
+            "The release of GPT-5.2 followed an",
+            "internal \u201CCode Red\u201D directive at OpenAI",
+            "to enhance ChatGPT\u2019s performance."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T19:16:00.000Z",
+      "ranking": 2.6369488789009923,
+      "articleUrl": "https://venturebeat.com/ai/openais-gpt-5-2-is-here-what-enterprises-need-to-know"
+    },
+    {
+      "id": "530",
+      "topic": "Business",
+      "source": "VentureBeat AI",
+      "shortTitle": "Marble AI",
+      "mediumTitle": "AI for Accounting",
+      "longTitle": "Marble Secures $9M to Boost Tax Efficiency",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Marble secured $9 million in seed",
+            "funding led by Susa Ventures, with",
+            "participation from MXV Capital and",
+            "Konrad Capital.",
+            "Marble aims to enable accountants to",
+            "shift from repetitive tasks to",
+            "higher-value advisory work, addressing",
+            "unmet demand for strategic services.",
+            "Data security is a top priority for",
+            "Marble, focusing on building secure",
+            "systems from the ground up due to the",
+            "sensitive nature of financial",
+            "information.",
+            "Ultimately, Marble hopes to reshape the",
+            "accounting industry, allowing firms to",
+            "focus on strategic planning and client",
+            "relationships."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T15:00:00.000Z",
+      "ranking": 2.590965540492599,
+      "articleUrl": "https://venturebeat.com/ai/marble-enters-the-race-to-bring-ai-to-tax-work-armed-with-usd9-million-and-a"
+    },
+    {
+      "id": "534",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Disney vs Google",
+      "mediumTitle": "Disney Accuses Google of Copyright Issues",
+      "longTitle": "Disney Demands Google Stop AI Copyright Infringement",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Disney formally accused Google of",
+            "large-scale copyright infringement this",
+            "week.",
+            "The letter requests an immediate halt to",
+            "the alleged infringement.",
+            "Disney contends that Google\u2019s AI",
+            "unlawfully utilizes their copyrighted",
+            "works in its generated content.",
+            "The accusation is based on Google\u2019s AI",
+            "models creating content that is",
+            "substantially similar to Disney\u2019s",
+            "copyrighted properties.",
+            "The core issue revolves around the",
+            "training data used by Google\u2019s AI and",
+            "the resulting outputs.",
+            "Disney\u2019s cease-and-desist letter",
+            "specifically mentions outputs resembling",
+            "characters from *Frozen*, *Deadpool*,",
+            "and *Star Wars*."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T13:02:06.000Z",
+      "ranking": 2.3650933418717788,
+      "articleUrl": "https://www.theverge.com/news/842573/disney-google-copyright-infringement-cease-and-desist"
+    },
+    {
+      "id": "542",
+      "topic": "NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Chrome Apps",
+      "mediumTitle": "Chrome Develops AI Apps",
+      "longTitle": "Google Chrome: AI-Powered Web Apps",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Crucially, these opened tabs are then",
+            "compiled into a custom-built",
+            "application.",
+            "The system differs from traditional",
+            "browsing by automatically opening",
+            "related tabs based on a user\u2019s input.",
+            "The core idea is to streamline the",
+            "often-tedious process of researching a",
+            "topic across multiple websites.",
+            "The browser automatically handles",
+            "opening and navigating numerous tabs for",
+            "the user.",
+            "Google\u2019s Chrome team is actively",
+            "developing this experimental new browser",
+            "functionality.",
+            "The results are presented as a focused,",
+            "single-purpose application, simplifying",
+            "the user experience.",
+            "A request for \u201Cstudy help\u201D can generate",
+            "a dedicated study aid application."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T14:10:36.000Z",
+      "ranking": 2.3562339531700323,
+      "articleUrl": "https://www.theverge.com/tech/842000/google-disco-browser-ai-experiment"
+    },
+    {
+      "id": "538",
+      "topic": "Learning",
+      "source": "Marktechpost AI",
+      "shortTitle": "ML Impact",
+      "mediumTitle": "ML Global Impact Report",
+      "longTitle": "Marktechpost\u0027s ML Global Impact Report 2025",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The report identifies a significant",
+            "geographic asymmetry in machine",
+            "learning.",
+            "This asymmetry exists between the",
+            "locations where ML tools are developed",
+            "and where they are adopted.",
+            "The analysis focuses specifically on the",
+            "utilization of machine learning",
+            "research.",
+            "The report\u2019s findings are limited to the",
+            "articles analyzed from the specified",
+            "timeframe.",
+            "The scope of the report is also",
+            "constrained by the publications included",
+            "\u2013 those within the Nature family of",
+            "journals.",
+            "The ML Global Impact Report 2025 is",
+            "available for review at",
+            "AIResearchTrends.com."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T18:56:31.000Z",
+      "ranking": 2.2395290725975174,
+      "articleUrl": "https://www.marktechpost.com/2025/12/11/the-machine-learning-divide-marktechposts-latest-ml-global-impact-report-reveals-geographic-asymmetry-between-ml-tool-origins-and-research-adoption/"
+    },
+    {
+      "id": "543",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT Adult",
+      "mediumTitle": "ChatGPT to Get Adult Mode",
+      "longTitle": "OpenAI Plans \u0027Adult Mode\u0027 for ChatGPT",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI is planning to introduce an",
+            "\u0027adult mode\u0027 within its ChatGPT chatbot.",
+            "The expected launch timeframe for this",
+            "feature is the first quarter of 2026.",
+            "The announcement provides a specific",
+            "timeline for the feature\u2019s release.",
+            "This development was announced by Fidji",
+            "Simo, OpenAI\u0027s CEO of Applications.",
+            "This moves the feature from speculation",
+            "to a concrete plan within OpenAI\u2019s",
+            "development roadmap.",
+            "Sam Altman, OpenAI\u2019s CEO, previously",
+            "hinted at the possibility of adult",
+            "content integration within ChatGPT.",
+            "This move follows similar offerings from",
+            "competitors like Grok, which already",
+            "includes NSFW content.",
+            "The announcement occurred during a",
+            "briefing regarding GPT-5.2."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T14:10:19.000Z",
+      "ranking": 2.0903492468344638,
+      "articleUrl": "https://www.theverge.com/news/842657/openai-chatgpt-adult-mode-debut-q1-2026"
+    },
+    {
+      "id": "537",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Disney \u0026 OpenAI",
+      "mediumTitle": "Disney Licenses Characters",
+      "longTitle": "OpenAI \u0026 Disney AI Partnership",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI and Disney have entered into a",
+            "three-year licensing agreement for",
+            "character usage.",
+            "The characters will be integrated into",
+            "OpenAI\u2019s Sora video generation model.",
+            "The agreement grants OpenAI rights to",
+            "utilize over 200 characters from",
+            "Disney\u2019s extensive portfolio.",
+            "However, the deal is described as a",
+            "\u201Cbillion-dollar\u201D agreement.",
+            "These characters span Disney, Marvel,",
+            "Pixar, and Star Wars franchises.",
+            "Users will be able to create",
+            "\u201Cuser-prompted social videos\u201D featuring",
+            "these iconic characters.",
+            "The collaboration aims to leverage",
+            "Sora\u2019s capabilities to create new",
+            "AI-generated video content."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T10:32:21.000Z",
+      "ranking": 1.9781837059625573,
+      "articleUrl": "https://www.theverge.com/news/842348/disney-openai-sora-chatgpt-images"
+    },
+    {
+      "id": "536",
+      "topic": "Ethics, Safety, Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Warning",
+      "mediumTitle": "US States Probe AI Firms",
+      "longTitle": "AI Chatbots Face Legal Scrutiny",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A coalition of US state attorneys",
+            "general (AGs) has issued warnings to",
+            "Google, Meta, OpenAI, and other AI",
+            "companies regarding potential legal",
+            "violations stemming from their chatbot",
+            "technologies.",
+            "The AGs are demanding increased",
+            "accountability and safety measures for",
+            "generative AI technologies.",
+            "Specifically, they\u2019ve requested detailed",
+            "information about the safeguards these",
+            "companies have in place to protect",
+            "consumers.",
+            "The core concern revolves around the",
+            "possibility that these chatbots are",
+            "breaking existing state laws.",
+            "The demand for information suggests",
+            "concerns about areas like data privacy",
+            "and consumer protection."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T12:21:17.000Z",
+      "ranking": 1.9536966117851762,
+      "articleUrl": "https://www.theverge.com/news/842512/google-meta-openai-state-attorneys-general-ai-letter"
+    },
+    {
+      "id": "535",
+      "topic": "Ethics, Safety",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI Lawsuit",
+      "mediumTitle": "ChatGPT Linked to Deaths",
+      "longTitle": "OpenAI Sued Over Fatal Incidents",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI is being sued for wrongful death",
+            "in a California court.",
+            "Suzanne Adams, 83, was murdered in her",
+            "Connecticut home in August.",
+            "Her son, 56, died by suicide following",
+            "the death of his mother.",
+            "The son believed his mother was not his",
+            "biological mother due to interactions",
+            "with ChatGPT.",
+            "He also believed his mother was part of",
+            "a conspiracy against him, according to",
+            "the lawsuit.",
+            "The complaint alleges ChatGPT acted",
+            "negligently in its responses to the son.",
+            "ChatGPT\u2019s responses reportedly",
+            "contributed to the son\u2019s distorted",
+            "reality.",
+            "The lawsuit suggests ChatGPT\u2019s actions",
+            "led to violent actions."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T12:29:05.000Z",
+      "ranking": 1.9042981799826064,
+      "articleUrl": "https://www.theverge.com/news/842494/openai-chatgpt-wrongful-death-suzanne-adams-delusions"
+    },
+    {
+      "id": "550",
+      "topic": "NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Prime Recap Fail",
+      "mediumTitle": "Amazon Pulls AI Recaps",
+      "longTitle": "Amazon Removes AI Video Recaps After Errors",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The errors in the *Fallout* recap",
+            "related to key plot points and character",
+            "details.",
+            "Criticism arose quickly after the",
+            "release of the *Fallout* recap,",
+            "highlighting substantial inaccuracies.",
+            "Amazon responded to the feedback by",
+            "removing the recaps from all shows in",
+            "the initial test group.",
+            "The future of the \u201CVideo Recaps\u201D feature",
+            "depends on Amazon\u2019s success in resolving",
+            "these issues.",
+            "The removal suggests Amazon recognizes",
+            "the potential for AI to misrepresent",
+            "content.",
+            "Amazon Prime Video launched an",
+            "experimental AI-powered video recap",
+            "feature recently."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T18:46:11.000Z",
+      "ranking": 1.7450633495817396,
+      "articleUrl": "https://www.theverge.com/news/842978/amazon-prime-video-ai-fallout-recap"
+    },
+    {
+      "id": "539",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Nomos 1 AI",
+      "mediumTitle": "AI Achieves High Math Score",
+      "longTitle": "Nous Research\u0027s Nomos 1 Excels in Putnam Competition",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Nous Research has released Nomos 1, an",
+            "open-source AI system specifically",
+            "designed for mathematical reasoning.",
+            "The code and submissions for Nomos 1 are",
+            "publicly available on Hugging Face and",
+            "GitHub.",
+            "The base Qwen3 model achieved a score of",
+            "only 24 points on the Putnam exam before",
+            "Nous Research\u2019s specialized training.",
+            "Nomos 1 is designed to run on",
+            "consumer-grade hardware, making it more",
+            "accessible to researchers and",
+            "developers.",
+            "The 2024 William Lowell Putnam",
+            "Mathematical Competition is known for",
+            "its difficulty and is a prestigious",
+            "undergraduate math contest."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T10:30:00.000Z",
+      "ranking": 1.1570622011191016,
+      "articleUrl": "https://venturebeat.com/ai/nous-research-just-released-nomos-1-an-open-source-ai-that-ranks-second-on"
+    },
+    {
+      "id": "531",
+      "topic": "Business",
+      "source": "VentureBeat AI",
+      "shortTitle": "NetSuite AI",
+      "mediumTitle": "NetSuite\u0027s Trustworthy AI",
+      "longTitle": "Oracle NetSuite Launches AI-Driven Platform",
+      "paragraphs": [
+        {
+          "Lines": [
+            "NetSuite Next is Oracle NetSuite\u2019s",
+            "largest product release in nearly three",
+            "decades, focusing on trustworthy AI.",
+            "Critical processes, like those impacting",
+            "the general ledger, require 100%",
+            "accuracy and human review.",
+            "The platform aims for a \u201Cglass-box\u201D",
+            "approach where AI decisions are visible",
+            "and operate within defined guardrails.",
+            "NetSuite is designing AI systems for",
+            "accountability, enabling users to trace",
+            "the reasoning behind AI-driven",
+            "decisions.",
+            "NetSuite believes that transparent and",
+            "governable AI will be a key",
+            "differentiator in the market.",
+            "Auditing is extended to AI, with every",
+            "action and code snippet recorded within",
+            "the existing audit framework."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T06:00:00.000Z",
+      "ranking": 0.8862163856221423,
+      "articleUrl": "https://venturebeat.com/ai/creating-a-glass-box-how-netsuite-is-engineering-trust-into-ai"
+    },
+    {
+      "id": "540",
+      "topic": "NLP, Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Cohere Rerank 4",
+      "mediumTitle": "Cohere Releases Rerank 4",
+      "longTitle": "Cohere\u0027s Rerank 4 Improves Search Relevance",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Rerank 4 is the first reranking model",
+            "with self-learning capabilities.",
+            "Benchmarks show Rerank 4 often",
+            "outperforms competitors like Qwen",
+            "Reranker 8B and MongoDB\u2019s Voyage Rerank",
+            "2.5.",
+            "Users can customize the model without",
+            "additional annotated data by providing",
+            "preferences regarding content types.",
+            "Cohere has released Rerank 4, the latest",
+            "version of its search model, building",
+            "upon Rerank 3.5.",
+            "Self-learning consistently improved",
+            "retrieval quality in healthcare",
+            "datasets.",
+            "Rerank 4 addresses limitations of",
+            "bi-encoder embeddings by using a",
+            "cross-encoder architecture."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T06:00:00.000Z",
+      "ranking": 0.68169256824818,
+      "articleUrl": "https://venturebeat.com/ai/coheres-rerank-4-quadruples-the-context-window-to-cut-agent-errors-and-boost"
+    },
+    {
+      "id": "528",
+      "topic": "Model Eval",
+      "source": "VentureBeat AI",
+      "shortTitle": "LLM Factuality",
+      "mediumTitle": "Google\u0027s FACTS Benchmark",
+      "longTitle": "Evaluating LLM Factuality with FACTS",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The overall message is that LLMs are not",
+            "yet infallible and systems should be",
+            "designed anticipating a significant",
+            "error rate.",
+            "The Multimodal benchmark yielded the",
+            "lowest scores (under 50%), indicating",
+            "LLMs struggle with unsupervised data",
+            "extraction from visual sources.",
+            "Gemini 3 Pro achieved 83.8% on Search",
+            "tasks but only 76.4% on Parametric",
+            "tasks, highlighting the need for",
+            "external knowledge sources.",
+            "Deploying AI to automatically process",
+            "visual data without human review carries",
+            "a high risk of errors, according to the",
+            "benchmark results.",
+            "Existing LLM benchmarks often prioritize",
+            "task completion over factual",
+            "correctness, which is crucial for",
+            "sensitive applications."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T00:00:00.000Z",
       "ranking": 0,
-      "articleUrl": "https://www.theverge.com/entertainment/839494/ai-literacy-tiktok"
+      "articleUrl": "https://venturebeat.com/ai/the-70-factuality-ceiling-why-googles-new-facts-benchmark-is-a-wake-up-call"
+    },
+    {
+      "id": "529",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Spotify AI",
+      "mediumTitle": "Spotify Tests AI Playlists",
+      "longTitle": "Spotify\u0027s \u0027Prompted Playlists\u0027 Beta",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Spotify is currently testing a new beta",
+            "feature that leverages artificial",
+            "intelligence to create personalized",
+            "playlists.",
+            "This feature allows users to directly",
+            "influence the algorithmic selection of",
+            "their music.",
+            "The system\u2019s AI component is responsible",
+            "for understanding and translating the",
+            "text prompts into musical selections.",
+            "Users are no longer solely reliant on",
+            "Spotify\u2019s pre-determined algorithmic",
+            "choices.",
+            "This represents a shift towards greater",
+            "user agency in playlist creation on",
+            "Spotify.",
+            "\u2018Discover Weekly\u2019 already provides",
+            "algorithmic playlists, but lacks the",
+            "direct prompt-based control of the new",
+            "feature."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-10T18:11:57.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/842053/spotify-ai-prompted-playlists"
+    },
+    {
+      "id": "500",
+      "topic": "Business",
+      "source": "VentureBeat AI",
+      "shortTitle": "SAP \u0026 AI",
+      "mediumTitle": "SAP\u0027s AI Co-Pilot Test",
+      "longTitle": "SAP Consultant Acceptance of AI Joule",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The experiment highlighted a significant",
+            "bias against AI-generated work among",
+            "experienced SAP consultants.",
+            "Only through individual validation did",
+            "the team aware of the AI\u2019s origin",
+            "recognize the 95% accuracy of the",
+            "responses.",
+            "Joule is designed to amplify consultant",
+            "expertise, not replace it.",
+            "SAP envisions a future of \u0027agentic AI\u0027",
+            "that proactively interprets business",
+            "processes and handles tasks",
+            "autonomously.",
+            "SAP believes careful communication about",
+            "AI\u2019s capabilities is crucial for",
+            "successful adoption.",
+            "SAP believes its process knowledge and",
+            "data will drive significant advancements",
+            "in AI-driven problem-solving."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-10T16:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/the-ai-that-scored-95-until-consultants-learned-it-was-ai"
+    },
+    {
+      "id": "513",
+      "topic": "Business",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Gap",
+      "mediumTitle": "OpenAI: AI Usage Divide",
+      "longTitle": "OpenAI Report Highlights AI Productivity Gap",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The report emphasizes that the gap is",
+            "about behavior, not just technology, and",
+            "behavior cannot be simply \u0027deployed\u0027",
+            "like software.",
+            "Leading firms prioritize executive",
+            "sponsorship, data readiness, workflow",
+            "standardization, and change management",
+            "to foster AI adoption.",
+            "Frontier firms generate twice as many AI",
+            "messages per employee as median firms,",
+            "and seven times more through custom",
+            "GPTs.",
+            "The window to bridge the AI gap is",
+            "closing, requiring proactive",
+            "organizational action.",
+            "The OpenAI report analyzed data from",
+            "over one million business customers to",
+            "understand AI adoption patterns."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-10T15:30:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/openai-report-reveals-a-6x-productivity-gap-between-ai-power-users-and"
+    },
+    {
+      "id": "515",
+      "topic": "AI Ops",
+      "source": "VentureBeat AI",
+      "shortTitle": "Hud Sensor",
+      "mediumTitle": "AI Code Monitoring",
+      "longTitle": "Hud Launches Runtime Sensor for AI Code",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Drata reduced manual triage time from 3",
+            "hours to under 10 minutes using Hud,",
+            "improving their mean time to resolution",
+            "by 70%.",
+            "Monday.com engineers can now resolve",
+            "\u201Cvoodoo incidents\u201D faster thanks to",
+            "Hud\u2019s ability to quickly identify root",
+            "causes.",
+            "Hud\u2019s sensor tracks every function and",
+            "gathers detailed forensic data,",
+            "including HTTP parameters and database",
+            "queries, when issues occur.",
+            "Hud differs from traditional APMs by",
+            "focusing on function-level data, which",
+            "is crucial for AI agents.",
+            "The launch addresses the \u0027investigation",
+            "tax\u0027 \u2013 the time engineers spend",
+            "correlating data from multiple sources",
+            "to diagnose issues."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-10T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/how-huds-runtime-sensor-cut-triage-time-from-3-hours-to-10-minutes"
+    },
+    {
+      "id": "514",
+      "topic": "Hardware",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI PCB",
+      "mediumTitle": "Quilter AI Cuts PCB Design Time",
+      "longTitle": "AI Breakthrough Dramatically Speeds Hardware Development",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Quilter\u2019s AI designed a fully",
+            "functional, two-board Linux computer",
+            "with 843 components in just one week.",
+            "This project, dubbed \u201CProject Speedrun,\u201D",
+            "required only 38.5 hours of human",
+            "effort, compared to the traditional 428",
+            "hours.",
+            "Tony Fadell, the iPod/iPhone engineer,",
+            "is a backer of Quilter and highlighted",
+            "the continued manual nature of PCB",
+            "design even at companies like Apple.",
+            "Human cleanup is still required, but the",
+            "overall time from schematic to",
+            "fabricated boards was reduced from 11",
+            "weeks to one week.",
+            "Quilter\u2019s AI \u201Cplays a game\u201D against the",
+            "laws of physics, learning through",
+            "iterative decision-making and feedback",
+            "on electromagnetic, thermal, and",
+            "manufacturing constraints."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-10T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/quilters-ai-just-designed-an-843-part-linux-computer-that-booted-on-the"
+    },
+    {
+      "id": "527",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Meta AI Shift",
+      "mediumTitle": "Meta Considers Paid AI Access",
+      "longTitle": "Meta Weighs Charging for \u0027Avocado\u0027 AI Model",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta is currently exploring options for",
+            "distributing its new AI model,",
+            "\u0027Avocado\u0027.",
+            "The company is weighing the possibility",
+            "of implementing a paid access system for",
+            "users wanting to utilize \u0027Avocado\u0027.",
+            "This consideration marks a potential",
+            "departure from CEO Mark Zuckerberg\u2019s",
+            "previous statements.",
+            "Zuckerberg had previously indicated a",
+            "strong preference for an \u0027open source\u0027",
+            "approach to AI development and",
+            "distribution.",
+            "The shift is being evaluated internally",
+            "as Meta assesses the best path forward",
+            "for its AI initiatives.",
+            "Bloomberg News was the first to report",
+            "on Meta\u2019s internal discussions regarding",
+            "the \u0027Avocado\u0027 model."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-10T14:46:12.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/841809/meta-avocado-ai-model-charge-open-source-mark-zuckerberg"
+    },
+    {
+      "id": "518",
+      "topic": "Ethics, Safety",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Suicide",
+      "mediumTitle": "AI Chatbots: Mental Health",
+      "longTitle": "AI Chatbots Fail to Provide Suicide Help",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Timely access to suicide prevention",
+            "resources is critical and can be",
+            "life-saving for individuals in crisis.",
+            "The primary concern is the potential",
+            "danger of relying on AI for immediate",
+            "mental health support when it may fail",
+            "to provide crucial information.",
+            "The article focuses on the concerning",
+            "inability of current AI chatbots to",
+            "consistently provide accurate suicide",
+            "hotline numbers.",
+            "The technology is not yet adequately",
+            "equipped to handle sensitive mental",
+            "health situations effectively.",
+            "The study highlights a gap in the",
+            "capabilities of current AI systems",
+            "regarding emergency contact information.",
+            "The article serves as a cautionary tale",
+            "about the limitations of AI in mental",
+            "health contexts."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-10T12:32:15.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/report/841610/ai-chatbot-suicide-safety-failure"
+    },
+    {
+      "id": "519",
+      "topic": "AI glasses fall under **Hardware** and **Vision**. \n\nI\u0027ll prioritize **Hardware** as the primary category since it\u0027s about the physical device.",
+      "source": "The Verge AI",
+      "shortTitle": "AI Glasses?",
+      "mediumTitle": "Naming Wearable Tech",
+      "longTitle": "The Search for a Name: AI Glasses \u0026 Beyond",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The core issue is finding a name that",
+            "accurately reflects the advancements and",
+            "capabilities of this new tech.",
+            "Even the company developing these",
+            "devices is grappling with how to define",
+            "them.",
+            "The discussion implies that current",
+            "labels are inadequate for describing the",
+            "devices\u0027 potential.",
+            "The lack of a clear name suggests a",
+            "broader challenge in categorizing this",
+            "new type of wearable technology.",
+            "The search for a suitable name indicates",
+            "the technology is moving beyond simple",
+            "\u0022smart\u0022 features.",
+            "The devices are described as",
+            "\u0022glasses-shaped face computers\u0022 to",
+            "convey their functionality.",
+            "The debate over terminology arose during",
+            "a Project Aura demonstration at Google."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-10T12:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/gadgets/841536/smart-glasses-ai-glasses-xr-ar-headsets-terminology-wearables"
+    },
+    {
+      "id": "520",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI CRO",
+      "mediumTitle": "Slack CEO to OpenAI",
+      "longTitle": "Denise Dresser Appointed OpenAI\u0027s CRO",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI announced on Tuesday the",
+            "appointment of Denise Dresser as its",
+            "Chief Revenue Officer (CRO).",
+            "In her new role, Dresser will be",
+            "responsible for leading and implementing",
+            "OpenAI\u2019s global revenue strategy.",
+            "A key focus of her position will be to",
+            "facilitate the integration of OpenAI\u2019s",
+            "AI technologies into the daily workflows",
+            "of a wider range of businesses.",
+            "Dresser currently serves as the CEO of",
+            "Slack, a prominent communication",
+            "platform.",
+            "Before becoming CEO of Slack, Dresser",
+            "spent 12 years at Salesforce.",
+            "Dresser\u2019s experience at both Slack and",
+            "Salesforce positions her well to",
+            "understand business needs."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-10T11:00:35.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/841540/openai-slack-ceo-denise-dresser-chief-revenue-officer"
+    },
+    {
+      "id": "523",
+      "topic": "Vision, Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Figma AI",
+      "mediumTitle": "Figma Adds AI Tools",
+      "longTitle": "Figma Launches AI Image Editing",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Figma has introduced three new",
+            "AI-powered tools directly within its",
+            "Design and Draw platforms.",
+            "These AI-powered features are now",
+            "available to Figma users within both",
+            "Figma Design and Figma Draw.",
+            "The first new feature allows users to",
+            "remove objects from images, simplifying",
+            "the editing process.",
+            "Secondly, Figma now offers the ability",
+            "to isolate objects within an image for",
+            "greater control.",
+            "The new tools also include the",
+            "capability to extend images beyond their",
+            "original borders.",
+            "This functionality enables the quick and",
+            "easy elimination of unwanted elements",
+            "within a design."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-10T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/841431/figma-ai-editing-tools-erase-isolate-object"
+    },
+    {
+      "id": "522",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "RSL License",
+      "mediumTitle": "AI Content Licensing",
+      "longTitle": "New Standard for AI Data Usage",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The RSL standard allows publishers to",
+            "receive compensation for the use of",
+            "their content by AI companies.",
+            "RSL provides a standardized mechanism",
+            "for publishers to explicitly grant or",
+            "deny access to web crawlers.",
+            "The standard addresses concerns about AI",
+            "companies profiting from content without",
+            "adequate remuneration or attribution.",
+            "AI crawlers that adhere to the RSL",
+            "standard are expected to respect the",
+            "licensing rules set by publishers.",
+            "RSL represents a significant step",
+            "towards defining a framework for content",
+            "licensing in the age of large language",
+            "models.",
+            "RSL allows publishers to set specific",
+            "licensing terms and rules for web",
+            "crawlers."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-10T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/841222/rsl-licensing-ai-spec-launch"
+    },
+    {
+      "id": "524",
+      "topic": "Generative AI, NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Adobe \u0026 ChatGPT",
+      "mediumTitle": "Adobe Apps in ChatGPT",
+      "longTitle": "Adobe Integrates Tools into ChatGPT Platform",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Adobe is integrating its applications \u2013",
+            "Photoshop, Acrobat, and Adobe Express \u2013",
+            "directly into ChatGPT.",
+            "This allows ChatGPT users to edit photos",
+            "and PDFs, and create designs without",
+            "leaving the ChatGPT interface.",
+            "Users can simply describe the desired",
+            "edits or creations, and the Adobe apps",
+            "will execute them within ChatGPT.",
+            "Importantly, access to these Adobe apps",
+            "through ChatGPT is being offered for",
+            "free.",
+            "The article does not specify any usage",
+            "limitations associated with this free",
+            "access.",
+            "The article also doesn\u0027t mention any",
+            "potential future changes to the free",
+            "access model."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-10T09:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/841369/chatgpt-apps-adobe-photoshop-acrobat-express"
+    },
+    {
+      "id": "516",
+      "topic": "Hardware",
+      "source": "VentureBeat AI",
+      "shortTitle": "TPU vs GPU",
+      "mediumTitle": "Google Challenges Nvidia",
+      "longTitle": "Google\u0027s TPUs Emerge as AI Rival",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google\u2019s Tensor Processing Units (TPUs)",
+            "are emerging as a significant challenger",
+            "to Nvidia\u0027s long-held dominance in the",
+            "AI hardware market.",
+            "Models like Google\u2019s Gemini 3 and",
+            "Anthropic\u2019s Claude 4.5 Opus were trained",
+            "on Google\u2019s TPUv7, demonstrating a",
+            "viable alternative to Nvidia\u0027s GPUs.",
+            "TPUv7 offers better",
+            "throughput-per-dollar and a lower total",
+            "cost of ownership (TCO) compared to",
+            "Nvidia\u0027s offerings.",
+            "The cost advantage of TPUs has",
+            "reportedly influenced Nvidia, with",
+            "OpenAI negotiating a discount on Nvidia",
+            "hardware.",
+            "TPUv7 now natively supports PyTorch, a",
+            "popular AI framework, simplifying the",
+            "transition for developers familiar with",
+            "this tool."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-10T09:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/how-googles-tpus-are-reshaping-the-economics-of-large-scale-ai"
+    },
+    {
+      "id": "501",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Mistral AI News",
+      "mediumTitle": "Mistral Releases Devstral 2",
+      "longTitle": "Mistral AI Launches New Coding Models \u0026 CLI Agent",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Mistral AI released Devstral 2, a new",
+            "pair of coding models alongside Mistral",
+            "Vibe, a command-line interface (CLI)",
+            "agent.",
+            "Devstral 2 is designed for software",
+            "development and boasts a 256K token",
+            "context window.",
+            "Devstral 2 uses a modified MIT license",
+            "restricting use for companies with over",
+            "$20 million in monthly revenue without a",
+            "commercial license.",
+            "Mistral emphasizes efficiency over",
+            "scale, stating Devstral 2 is smaller",
+            "than DeepSeek V3.2 and Kimi K2 while",
+            "matching or exceeding their performance.",
+            "Human evaluations show Devstral 2",
+            "beating DeepSeek V3.2 in 42.8% of tasks,",
+            "but losing to Claude Sonnet 4.5 in",
+            "53.1%."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-09T20:44:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/mistral-launches-powerful-devstral-2-coding-model-including-open-source"
     }
   ]
 }
