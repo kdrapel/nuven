@@ -106,7 +106,7 @@
         }
       ],
       "publishedAt": "2025-12-13T07:00:36.000Z",
-      "ranking": 5.809610870883083,
+      "ranking": 5.433373173581221,
       "articleUrl": "https://www.marktechpost.com/2025/12/12/nanbeige4-3b-thinking-how-a-23t-token-pipeline-pushes-3b-models-past-30b-class-reasoning/"
     },
     {
@@ -141,7 +141,7 @@
         }
       ],
       "publishedAt": "2025-12-12T14:11:14.000Z",
-      "ranking": 4.591042888080378,
+      "ranking": 3.981392124314085,
       "articleUrl": "https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones"
     },
     {
@@ -178,7 +178,7 @@
         }
       ],
       "publishedAt": "2025-12-12T06:00:00.000Z",
-      "ranking": 3.0302239933547526,
+      "ranking": 2.306976969809197,
       "articleUrl": "https://venturebeat.com/ai/ai2s-new-olmo-3-1-extends-reinforcement-learning-training-for-stronger"
     },
     {
@@ -215,7 +215,7 @@
         }
       ],
       "publishedAt": "2025-12-12T01:00:00.000Z",
-      "ranking": 2.131175842408446,
+      "ranking": 1.338554700308216,
       "articleUrl": "https://venturebeat.com/ai/googles-new-framework-helps-ai-agents-spend-their-compute-and-tool-budget"
     },
     {
@@ -250,7 +250,7 @@
         }
       ],
       "publishedAt": "2025-12-12T00:26:00.000Z",
-      "ranking": 1.672340029094161,
+      "ranking": 0.8718564864550578,
       "articleUrl": "https://venturebeat.com/ai/gpt-5-2-first-impressions-a-powerful-update-especially-for-business-tasks"
     },
     {
@@ -285,7 +285,7 @@
         }
       ],
       "publishedAt": "2025-12-11T19:03:24.000Z",
-      "ranking": 1.6576853334573993,
+      "ranking": 0.782601483810752,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/842992/disney-openai-sora-ai-slop-partnership"
     },
     {
@@ -319,7 +319,7 @@
         }
       ],
       "publishedAt": "2025-12-11T17:30:15.000Z",
-      "ranking": 0.9562849541549969,
+      "ranking": 0.05966043614054861,
       "articleUrl": "https://www.theverge.com/news/842848/new-york-law-ai-advertisements-sag-aftra-labor"
     },
     {
@@ -356,42 +356,8 @@
         }
       ],
       "publishedAt": "2025-12-11T19:16:00.000Z",
-      "ranking": 0.35128323094247715,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/openais-gpt-5-2-is-here-what-enterprises-need-to-know"
-    },
-    {
-      "id": "530",
-      "topic": "Business",
-      "source": "VentureBeat AI",
-      "shortTitle": "Marble AI",
-      "mediumTitle": "AI for Accounting",
-      "longTitle": "Marble Secures $9M to Boost Tax Efficiency",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Marble secured $9 million in seed",
-            "funding led by Susa Ventures, with",
-            "participation from MXV Capital and",
-            "Konrad Capital.",
-            "Marble aims to enable accountants to",
-            "shift from repetitive tasks to",
-            "higher-value advisory work, addressing",
-            "unmet demand for strategic services.",
-            "Data security is a top priority for",
-            "Marble, focusing on building secure",
-            "systems from the ground up due to the",
-            "sensitive nature of financial",
-            "information.",
-            "Ultimately, Marble hopes to reshape the",
-            "accounting industry, allowing firms to",
-            "focus on strategic planning and client",
-            "relationships."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T15:00:00.000Z",
-      "ranking": 0.12754379740567234,
-      "articleUrl": "https://venturebeat.com/ai/marble-enters-the-race-to-bring-ai-to-tax-work-armed-with-usd9-million-and-a"
     },
     {
       "id": "538",
@@ -463,6 +429,40 @@
       "publishedAt": "2025-12-11T18:46:11.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/842978/amazon-prime-video-ai-fallout-recap"
+    },
+    {
+      "id": "530",
+      "topic": "Business",
+      "source": "VentureBeat AI",
+      "shortTitle": "Marble AI",
+      "mediumTitle": "AI for Accounting",
+      "longTitle": "Marble Secures $9M to Boost Tax Efficiency",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Marble secured $9 million in seed",
+            "funding led by Susa Ventures, with",
+            "participation from MXV Capital and",
+            "Konrad Capital.",
+            "Marble aims to enable accountants to",
+            "shift from repetitive tasks to",
+            "higher-value advisory work, addressing",
+            "unmet demand for strategic services.",
+            "Data security is a top priority for",
+            "Marble, focusing on building secure",
+            "systems from the ground up due to the",
+            "sensitive nature of financial",
+            "information.",
+            "Ultimately, Marble hopes to reshape the",
+            "accounting industry, allowing firms to",
+            "focus on strategic planning and client",
+            "relationships."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/marble-enters-the-race-to-bring-ai-to-tax-work-armed-with-usd9-million-and-a"
     },
     {
       "id": "542",
@@ -1220,6 +1220,41 @@
       "articleUrl": "https://www.theverge.com/news/841431/figma-ai-editing-tools-erase-isolate-object"
     },
     {
+      "id": "524",
+      "topic": "Generative AI, NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Adobe \u0026 ChatGPT",
+      "mediumTitle": "Adobe Apps in ChatGPT",
+      "longTitle": "Adobe Integrates Tools into ChatGPT Platform",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Adobe is integrating its applications \u2013",
+            "Photoshop, Acrobat, and Adobe Express \u2013",
+            "directly into ChatGPT.",
+            "This allows ChatGPT users to edit photos",
+            "and PDFs, and create designs without",
+            "leaving the ChatGPT interface.",
+            "Users can simply describe the desired",
+            "edits or creations, and the Adobe apps",
+            "will execute them within ChatGPT.",
+            "Importantly, access to these Adobe apps",
+            "through ChatGPT is being offered for",
+            "free.",
+            "The article does not specify any usage",
+            "limitations associated with this free",
+            "access.",
+            "The article also doesn\u0027t mention any",
+            "potential future changes to the free",
+            "access model."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-10T09:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/841369/chatgpt-apps-adobe-photoshop-acrobat-express"
+    },
+    {
       "id": "516",
       "topic": "Hardware",
       "source": "VentureBeat AI",
@@ -1255,41 +1290,6 @@
       "publishedAt": "2025-12-10T09:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/how-googles-tpus-are-reshaping-the-economics-of-large-scale-ai"
-    },
-    {
-      "id": "524",
-      "topic": "Generative AI, NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Adobe \u0026 ChatGPT",
-      "mediumTitle": "Adobe Apps in ChatGPT",
-      "longTitle": "Adobe Integrates Tools into ChatGPT Platform",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Adobe is integrating its applications \u2013",
-            "Photoshop, Acrobat, and Adobe Express \u2013",
-            "directly into ChatGPT.",
-            "This allows ChatGPT users to edit photos",
-            "and PDFs, and create designs without",
-            "leaving the ChatGPT interface.",
-            "Users can simply describe the desired",
-            "edits or creations, and the Adobe apps",
-            "will execute them within ChatGPT.",
-            "Importantly, access to these Adobe apps",
-            "through ChatGPT is being offered for",
-            "free.",
-            "The article does not specify any usage",
-            "limitations associated with this free",
-            "access.",
-            "The article also doesn\u0027t mention any",
-            "potential future changes to the free",
-            "access model."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-10T09:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/841369/chatgpt-apps-adobe-photoshop-acrobat-express"
     }
   ]
 }
