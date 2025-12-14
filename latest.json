@@ -106,7 +106,7 @@
         }
       ],
       "publishedAt": "2025-12-13T07:00:36.000Z",
-      "ranking": 5.000281182491755,
+      "ranking": 4.513363178620225,
       "articleUrl": "https://www.marktechpost.com/2025/12/12/nanbeige4-3b-thinking-how-a-23t-token-pipeline-pushes-3b-models-past-30b-class-reasoning/"
     },
     {
@@ -141,7 +141,7 @@
         }
       ],
       "publishedAt": "2025-12-12T14:11:14.000Z",
-      "ranking": 3.314170190934357,
+      "ranking": 2.5940095990577143,
       "articleUrl": "https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones"
     },
     {
@@ -178,7 +178,7 @@
         }
       ],
       "publishedAt": "2025-12-12T06:00:00.000Z",
-      "ranking": 1.5258098911515594,
+      "ranking": 0.6921360069130396,
       "articleUrl": "https://venturebeat.com/ai/ai2s-new-olmo-3-1-extends-reinforcement-learning-training-for-stronger"
     },
     {
@@ -215,7 +215,7 @@
         }
       ],
       "publishedAt": "2025-12-12T01:00:00.000Z",
-      "ranking": 0.4878004414778445,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/googles-new-framework-helps-ai-agents-spend-their-compute-and-tool-budget"
     },
     {
@@ -250,7 +250,7 @@
         }
       ],
       "publishedAt": "2025-12-12T00:26:00.000Z",
-      "ranking": 0.01321567994684969,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/gpt-5-2-first-impressions-a-powerful-update-especially-for-business-tasks"
     },
     {
@@ -715,6 +715,41 @@
       "articleUrl": "https://venturebeat.com/ai/nous-research-just-released-nomos-1-an-open-source-ai-that-ranks-second-on"
     },
     {
+      "id": "540",
+      "topic": "NLP, Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Cohere Rerank 4",
+      "mediumTitle": "Cohere Releases Rerank 4",
+      "longTitle": "Cohere\u0027s Rerank 4 Improves Search Relevance",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Rerank 4 is the first reranking model",
+            "with self-learning capabilities.",
+            "Benchmarks show Rerank 4 often",
+            "outperforms competitors like Qwen",
+            "Reranker 8B and MongoDB\u2019s Voyage Rerank",
+            "2.5.",
+            "Users can customize the model without",
+            "additional annotated data by providing",
+            "preferences regarding content types.",
+            "Cohere has released Rerank 4, the latest",
+            "version of its search model, building",
+            "upon Rerank 3.5.",
+            "Self-learning consistently improved",
+            "retrieval quality in healthcare",
+            "datasets.",
+            "Rerank 4 addresses limitations of",
+            "bi-encoder embeddings by using a",
+            "cross-encoder architecture."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/coheres-rerank-4-quadruples-the-context-window-to-cut-agent-errors-and-boost"
+    },
+    {
       "id": "531",
       "topic": "Business",
       "source": "VentureBeat AI",
@@ -749,41 +784,6 @@
       "publishedAt": "2025-12-11T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/creating-a-glass-box-how-netsuite-is-engineering-trust-into-ai"
-    },
-    {
-      "id": "540",
-      "topic": "NLP, Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Cohere Rerank 4",
-      "mediumTitle": "Cohere Releases Rerank 4",
-      "longTitle": "Cohere\u0027s Rerank 4 Improves Search Relevance",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Rerank 4 is the first reranking model",
-            "with self-learning capabilities.",
-            "Benchmarks show Rerank 4 often",
-            "outperforms competitors like Qwen",
-            "Reranker 8B and MongoDB\u2019s Voyage Rerank",
-            "2.5.",
-            "Users can customize the model without",
-            "additional annotated data by providing",
-            "preferences regarding content types.",
-            "Cohere has released Rerank 4, the latest",
-            "version of its search model, building",
-            "upon Rerank 3.5.",
-            "Self-learning consistently improved",
-            "retrieval quality in healthcare",
-            "datasets.",
-            "Rerank 4 addresses limitations of",
-            "bi-encoder embeddings by using a",
-            "cross-encoder architecture."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/coheres-rerank-4-quadruples-the-context-window-to-cut-agent-errors-and-boost"
     },
     {
       "id": "528",
