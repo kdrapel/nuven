@@ -1,40 +1,39 @@
 {
   "articles": [
     {
-      "id": "559",
-      "topic": "Dev Tools",
+      "id": "563",
+      "topic": "Generative AI",
       "source": "VentureBeat AI",
-      "shortTitle": "AI Coding",
-      "mediumTitle": "AI Coding Pilots Fail",
-      "longTitle": "Why Enterprise AI Coding Pilots Underperform",
+      "shortTitle": "AI \u0026 Software",
+      "mediumTitle": "AI Changes \u0027Build vs Buy\u0027",
+      "longTitle": "AI Democratizes Software Creation",
       "paragraphs": [
         {
           "Lines": [
-            "Successful implementation depends on",
-            "treating context as an engineered asset",
-            "and workflow as a product.",
-            "Agentic coding is fundamentally a data",
-            "problem, requiring a new data layer to",
-            "capture engineering intent and",
-            "decision-making.",
-            "AI agents require a deep understanding",
-            "of the codebase, including modules,",
-            "dependencies, tests, architectural",
-            "conventions, and change history.",
-            "Agents should be treated as data",
-            "infrastructure, capturing plans, context",
-            "snapshots, and test runs as valuable",
-            "data.",
-            "Initial deployments of AI coding agents",
-            "often result in decreased productivity",
-            "due to the need for verification,",
-            "rework, and resolving confusion."
+            "AI has democratized software creation,",
+            "shifting power from vendors to users.",
+            "The new paradigm emphasizes",
+            "understanding the problem before seeking",
+            "a solution, leading to smarter spending.",
+            "Finance teams now have the ability to",
+            "test solutions internally with AI before",
+            "making significant investments.",
+            "Prototyping with AI allows finance to",
+            "validate needs and negotiate more",
+            "effectively with vendors.",
+            "AI allows for controlled",
+            "experimentation, helping teams identify",
+            "their genuine software needs.",
+            "For decades, companies have weighed the",
+            "costs and benefits of building software",
+            "in-house versus purchasing it from",
+            "vendors."
           ]
         }
       ],
-      "publishedAt": "2025-12-13T21:00:00.000Z",
-      "ranking": 8.186363636363637,
-      "articleUrl": "https://venturebeat.com/ai/why-most-enterprise-ai-coding-pilots-underperform-hint-its-not-the-model"
+      "publishedAt": "2025-12-14T20:00:00.000Z",
+      "ranking": 7.7227272727272736,
+      "articleUrl": "https://venturebeat.com/ai/build-vs-buy-is-dead-ai-just-killed-it"
     },
     {
       "id": "560",
@@ -73,6 +72,77 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/"
     },
     {
+      "id": "564",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Grok Error",
+      "mediumTitle": "Grok Misinfo: Bondi",
+      "longTitle": "xAI\u0027s Grok Spreads Falsehoods About Bondi",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Specifically, Grok has falsely",
+            "associated Ahmed al Ahmed, 43, with the",
+            "attack despite his heroic actions.",
+            "The xAI chatbot, Grok, is currently",
+            "disseminating inaccurate information",
+            "regarding the Bondi Beach shooting in",
+            "Australia.",
+            "Ahmed al Ahmed bravely disarmed one of",
+            "the shooters at Bondi Beach.",
+            "The misidentification of al Ahmed is",
+            "highlighted as a particularly troubling",
+            "failure for the chatbot.",
+            "The article stresses the severity of the",
+            "error considering the tragic context of",
+            "the Bondi Beach shooting.",
+            "Grok\u2019s performance is consistently",
+            "falling short of acceptable standards,",
+            "according to the article."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-14T17:24:24.000Z",
+      "ranking": 7.4270000000000005,
+      "articleUrl": "https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting"
+    },
+    {
+      "id": "559",
+      "topic": "Dev Tools",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Coding",
+      "mediumTitle": "AI Coding Pilots Fail",
+      "longTitle": "Why Enterprise AI Coding Pilots Underperform",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Successful implementation depends on",
+            "treating context as an engineered asset",
+            "and workflow as a product.",
+            "Agentic coding is fundamentally a data",
+            "problem, requiring a new data layer to",
+            "capture engineering intent and",
+            "decision-making.",
+            "AI agents require a deep understanding",
+            "of the codebase, including modules,",
+            "dependencies, tests, architectural",
+            "conventions, and change history.",
+            "Agents should be treated as data",
+            "infrastructure, capturing plans, context",
+            "snapshots, and test runs as valuable",
+            "data.",
+            "Initial deployments of AI coding agents",
+            "often result in decreased productivity",
+            "due to the need for verification,",
+            "rework, and resolving confusion."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-13T21:00:00.000Z",
+      "ranking": 6.905960954852281,
+      "articleUrl": "https://venturebeat.com/ai/why-most-enterprise-ai-coding-pilots-underperform-hint-its-not-the-model"
+    },
+    {
       "id": "558",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -106,7 +176,7 @@
         }
       ],
       "publishedAt": "2025-12-13T07:00:36.000Z",
-      "ranking": 4.513363178620225,
+      "ranking": 3.9656081668855707,
       "articleUrl": "https://www.marktechpost.com/2025/12/12/nanbeige4-3b-thinking-how-a-23t-token-pipeline-pushes-3b-models-past-30b-class-reasoning/"
     },
     {
@@ -141,7 +211,7 @@
         }
       ],
       "publishedAt": "2025-12-12T14:11:14.000Z",
-      "ranking": 2.5940095990577143,
+      "ranking": 1.8107725941472914,
       "articleUrl": "https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones"
     },
     {
@@ -178,7 +248,7 @@
         }
       ],
       "publishedAt": "2025-12-12T06:00:00.000Z",
-      "ranking": 0.6921360069130396,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/ai2s-new-olmo-3-1-extends-reinforcement-learning-training-for-stronger"
     },
     {
@@ -715,41 +785,6 @@
       "articleUrl": "https://venturebeat.com/ai/nous-research-just-released-nomos-1-an-open-source-ai-that-ranks-second-on"
     },
     {
-      "id": "540",
-      "topic": "NLP, Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Cohere Rerank 4",
-      "mediumTitle": "Cohere Releases Rerank 4",
-      "longTitle": "Cohere\u0027s Rerank 4 Improves Search Relevance",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Rerank 4 is the first reranking model",
-            "with self-learning capabilities.",
-            "Benchmarks show Rerank 4 often",
-            "outperforms competitors like Qwen",
-            "Reranker 8B and MongoDB\u2019s Voyage Rerank",
-            "2.5.",
-            "Users can customize the model without",
-            "additional annotated data by providing",
-            "preferences regarding content types.",
-            "Cohere has released Rerank 4, the latest",
-            "version of its search model, building",
-            "upon Rerank 3.5.",
-            "Self-learning consistently improved",
-            "retrieval quality in healthcare",
-            "datasets.",
-            "Rerank 4 addresses limitations of",
-            "bi-encoder embeddings by using a",
-            "cross-encoder architecture."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/coheres-rerank-4-quadruples-the-context-window-to-cut-agent-errors-and-boost"
-    },
-    {
       "id": "531",
       "topic": "Business",
       "source": "VentureBeat AI",
@@ -784,6 +819,41 @@
       "publishedAt": "2025-12-11T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/creating-a-glass-box-how-netsuite-is-engineering-trust-into-ai"
+    },
+    {
+      "id": "540",
+      "topic": "NLP, Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Cohere Rerank 4",
+      "mediumTitle": "Cohere Releases Rerank 4",
+      "longTitle": "Cohere\u0027s Rerank 4 Improves Search Relevance",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Rerank 4 is the first reranking model",
+            "with self-learning capabilities.",
+            "Benchmarks show Rerank 4 often",
+            "outperforms competitors like Qwen",
+            "Reranker 8B and MongoDB\u2019s Voyage Rerank",
+            "2.5.",
+            "Users can customize the model without",
+            "additional annotated data by providing",
+            "preferences regarding content types.",
+            "Cohere has released Rerank 4, the latest",
+            "version of its search model, building",
+            "upon Rerank 3.5.",
+            "Self-learning consistently improved",
+            "retrieval quality in healthcare",
+            "datasets.",
+            "Rerank 4 addresses limitations of",
+            "bi-encoder embeddings by using a",
+            "cross-encoder architecture."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/coheres-rerank-4-quadruples-the-context-window-to-cut-agent-errors-and-boost"
     },
     {
       "id": "528",
@@ -1182,77 +1252,6 @@
       "publishedAt": "2025-12-10T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/841431/figma-ai-editing-tools-erase-isolate-object"
-    },
-    {
-      "id": "522",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "RSL License",
-      "mediumTitle": "AI Content Licensing",
-      "longTitle": "New Standard for AI Data Usage",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The RSL standard allows publishers to",
-            "receive compensation for the use of",
-            "their content by AI companies.",
-            "RSL provides a standardized mechanism",
-            "for publishers to explicitly grant or",
-            "deny access to web crawlers.",
-            "The standard addresses concerns about AI",
-            "companies profiting from content without",
-            "adequate remuneration or attribution.",
-            "AI crawlers that adhere to the RSL",
-            "standard are expected to respect the",
-            "licensing rules set by publishers.",
-            "RSL represents a significant step",
-            "towards defining a framework for content",
-            "licensing in the age of large language",
-            "models.",
-            "RSL allows publishers to set specific",
-            "licensing terms and rules for web",
-            "crawlers."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-10T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/841222/rsl-licensing-ai-spec-launch"
-    },
-    {
-      "id": "524",
-      "topic": "Generative AI, NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Adobe \u0026 ChatGPT",
-      "mediumTitle": "Adobe Apps in ChatGPT",
-      "longTitle": "Adobe Integrates Tools into ChatGPT Platform",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Adobe is integrating its applications \u2013",
-            "Photoshop, Acrobat, and Adobe Express \u2013",
-            "directly into ChatGPT.",
-            "This allows ChatGPT users to edit photos",
-            "and PDFs, and create designs without",
-            "leaving the ChatGPT interface.",
-            "Users can simply describe the desired",
-            "edits or creations, and the Adobe apps",
-            "will execute them within ChatGPT.",
-            "Importantly, access to these Adobe apps",
-            "through ChatGPT is being offered for",
-            "free.",
-            "The article does not specify any usage",
-            "limitations associated with this free",
-            "access.",
-            "The article also doesn\u0027t mention any",
-            "potential future changes to the free",
-            "access model."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-10T09:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/841369/chatgpt-apps-adobe-photoshop-acrobat-express"
     }
   ]
 }
