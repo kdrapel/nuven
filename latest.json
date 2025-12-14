@@ -37,6 +37,42 @@
       "articleUrl": "https://venturebeat.com/ai/why-most-enterprise-ai-coding-pilots-underperform-hint-its-not-the-model"
     },
     {
+      "id": "560",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Sparse Models",
+      "mediumTitle": "OpenAI Releases Sparse Transformers",
+      "longTitle": "OpenAI Shares Tools \u0026 Models for Sparse Transformers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has released \u0060circuit-sparsity\u0060,",
+            "a set of open tools and models related",
+            "to their research on weight-sparse",
+            "transformers.",
+            "Instead, sparsity is an integral part of",
+            "the training process itself.",
+            "Sparsity, meaning the intentional",
+            "removal of weights, is not applied after",
+            "training.",
+            "These models are GPT-2 style,",
+            "decoder-only transformers.",
+            "The release includes the models and",
+            "circuits detailed in the paper",
+            "\u201CWeight-sparse transformers have",
+            "interpretable circuits.\u201D",
+            "They were specifically trained on Python",
+            "code.",
+            "These tools can be found on both Hugging",
+            "Face and GitHub."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-14T04:01:30.000Z",
+      "ranking": 7.5600000000000005,
+      "articleUrl": "https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/"
+    },
+    {
       "id": "558",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -70,7 +106,7 @@
         }
       ],
       "publishedAt": "2025-12-13T07:00:36.000Z",
-      "ranking": 6.905,
+      "ranking": 5.809610870883083,
       "articleUrl": "https://www.marktechpost.com/2025/12/12/nanbeige4-3b-thinking-how-a-23t-token-pipeline-pushes-3b-models-past-30b-class-reasoning/"
     },
     {
@@ -105,7 +141,7 @@
         }
       ],
       "publishedAt": "2025-12-12T14:11:14.000Z",
-      "ranking": 5.146561789929989,
+      "ranking": 4.591042888080378,
       "articleUrl": "https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones"
     },
     {
@@ -142,7 +178,7 @@
         }
       ],
       "publishedAt": "2025-12-12T06:00:00.000Z",
-      "ranking": 3.6996221052881566,
+      "ranking": 3.0302239933547526,
       "articleUrl": "https://venturebeat.com/ai/ai2s-new-olmo-3-1-extends-reinforcement-learning-training-for-stronger"
     },
     {
@@ -179,43 +215,8 @@
         }
       ],
       "publishedAt": "2025-12-12T01:00:00.000Z",
-      "ranking": 2.8701201552066697,
+      "ranking": 2.131175842408446,
       "articleUrl": "https://venturebeat.com/ai/googles-new-framework-helps-ai-agents-spend-their-compute-and-tool-budget"
-    },
-    {
-      "id": "548",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Disney \u0026 OpenAI",
-      "mediumTitle": "Disney Partners with OpenAI",
-      "longTitle": "Disney and OpenAI Announce $1 Billion AI Deal",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Disney and OpenAI have entered into a $1",
-            "billion partnership to explore the",
-            "potential of generative AI.",
-            "The collaboration centers around Disney",
-            "granting OpenAI access to its vast",
-            "library of characters and content.",
-            "Sora users will gain the ability to",
-            "create video clips featuring hundreds of",
-            "Disney-owned characters.",
-            "Specifically, the deal focuses on",
-            "integrating Disney properties with",
-            "OpenAI\u2019s Sora, its AI video generator.",
-            "OpenAI will leverage Disney\u2019s",
-            "intellectual property to enhance the",
-            "capabilities of its generative AI tools.",
-            "The financial investment of $1 billion",
-            "underscores the importance both",
-            "companies place on this collaboration."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T19:03:24.000Z",
-      "ranking": 2.4792976586049633,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/842992/disney-openai-sora-ai-slop-partnership"
     },
     {
       "id": "546",
@@ -249,8 +250,43 @@
         }
       ],
       "publishedAt": "2025-12-12T00:26:00.000Z",
-      "ranking": 2.41916629517005,
+      "ranking": 1.672340029094161,
       "articleUrl": "https://venturebeat.com/ai/gpt-5-2-first-impressions-a-powerful-update-especially-for-business-tasks"
+    },
+    {
+      "id": "548",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Disney \u0026 OpenAI",
+      "mediumTitle": "Disney Partners with OpenAI",
+      "longTitle": "Disney and OpenAI Announce $1 Billion AI Deal",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Disney and OpenAI have entered into a $1",
+            "billion partnership to explore the",
+            "potential of generative AI.",
+            "The collaboration centers around Disney",
+            "granting OpenAI access to its vast",
+            "library of characters and content.",
+            "Sora users will gain the ability to",
+            "create video clips featuring hundreds of",
+            "Disney-owned characters.",
+            "Specifically, the deal focuses on",
+            "integrating Disney properties with",
+            "OpenAI\u2019s Sora, its AI video generator.",
+            "OpenAI will leverage Disney\u2019s",
+            "intellectual property to enhance the",
+            "capabilities of its generative AI tools.",
+            "The financial investment of $1 billion",
+            "underscores the importance both",
+            "companies place on this collaboration."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T19:03:24.000Z",
+      "ranking": 1.6576853334573993,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/842992/disney-openai-sora-ai-slop-partnership"
     },
     {
       "id": "541",
@@ -283,7 +319,7 @@
         }
       ],
       "publishedAt": "2025-12-11T17:30:15.000Z",
-      "ranking": 1.7994915652270702,
+      "ranking": 0.9562849541549969,
       "articleUrl": "https://www.theverge.com/news/842848/new-york-law-ai-advertisements-sag-aftra-labor"
     },
     {
@@ -320,7 +356,7 @@
         }
       ],
       "publishedAt": "2025-12-11T19:16:00.000Z",
-      "ranking": 1.1699745805102282,
+      "ranking": 0.35128323094247715,
       "articleUrl": "https://venturebeat.com/ai/openais-gpt-5-2-is-here-what-enterprises-need-to-know"
     },
     {
@@ -354,7 +390,7 @@
         }
       ],
       "publishedAt": "2025-12-11T15:00:00.000Z",
-      "ranking": 1.0055817887873602,
+      "ranking": 0.12754379740567234,
       "articleUrl": "https://venturebeat.com/ai/marble-enters-the-race-to-bring-ai-to-tax-work-armed-with-usd9-million-and-a"
     },
     {
@@ -390,8 +426,43 @@
         }
       ],
       "publishedAt": "2025-12-11T18:56:31.000Z",
-      "ranking": 0.7635430271521173,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/12/11/the-machine-learning-divide-marktechposts-latest-ml-global-impact-report-reveals-geographic-asymmetry-between-ml-tool-origins-and-research-adoption/"
+    },
+    {
+      "id": "550",
+      "topic": "NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Prime Recap Fail",
+      "mediumTitle": "Amazon Pulls AI Recaps",
+      "longTitle": "Amazon Removes AI Video Recaps After Errors",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The errors in the *Fallout* recap",
+            "related to key plot points and character",
+            "details.",
+            "Criticism arose quickly after the",
+            "release of the *Fallout* recap,",
+            "highlighting substantial inaccuracies.",
+            "Amazon responded to the feedback by",
+            "removing the recaps from all shows in",
+            "the initial test group.",
+            "The future of the \u201CVideo Recaps\u201D feature",
+            "depends on Amazon\u2019s success in resolving",
+            "these issues.",
+            "The removal suggests Amazon recognizes",
+            "the potential for AI to misrepresent",
+            "content.",
+            "Amazon Prime Video launched an",
+            "experimental AI-powered video recap",
+            "feature recently."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T18:46:11.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/842978/amazon-prime-video-ai-fallout-recap"
     },
     {
       "id": "542",
@@ -427,44 +498,8 @@
         }
       ],
       "publishedAt": "2025-12-11T14:10:36.000Z",
-      "ranking": 0.7480008769067643,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/842000/google-disco-browser-ai-experiment"
-    },
-    {
-      "id": "534",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Disney vs Google",
-      "mediumTitle": "Disney Accuses Google of Copyright Issues",
-      "longTitle": "Disney Demands Google Stop AI Copyright Infringement",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Disney formally accused Google of",
-            "large-scale copyright infringement this",
-            "week.",
-            "The letter requests an immediate halt to",
-            "the alleged infringement.",
-            "Disney contends that Google\u2019s AI",
-            "unlawfully utilizes their copyrighted",
-            "works in its generated content.",
-            "The accusation is based on Google\u2019s AI",
-            "models creating content that is",
-            "substantially similar to Disney\u2019s",
-            "copyrighted properties.",
-            "The core issue revolves around the",
-            "training data used by Google\u2019s AI and",
-            "the resulting outputs.",
-            "Disney\u2019s cease-and-desist letter",
-            "specifically mentions outputs resembling",
-            "characters from *Frozen*, *Deadpool*,",
-            "and *Star Wars*."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T13:02:06.000Z",
-      "ranking": 0.725176469626672,
-      "articleUrl": "https://www.theverge.com/news/842573/disney-google-copyright-infringement-cease-and-desist"
     },
     {
       "id": "543",
@@ -499,114 +534,44 @@
         }
       ],
       "publishedAt": "2025-12-11T14:10:19.000Z",
-      "ranking": 0.4819851172027123,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/842657/openai-chatgpt-adult-mode-debut-q1-2026"
     },
     {
-      "id": "536",
-      "topic": "Ethics, Safety, Policy",
+      "id": "534",
+      "topic": "Ethics",
       "source": "The Verge AI",
-      "shortTitle": "AI Warning",
-      "mediumTitle": "US States Probe AI Firms",
-      "longTitle": "AI Chatbots Face Legal Scrutiny",
+      "shortTitle": "Disney vs Google",
+      "mediumTitle": "Disney Accuses Google of Copyright Issues",
+      "longTitle": "Disney Demands Google Stop AI Copyright Infringement",
       "paragraphs": [
         {
           "Lines": [
-            "A coalition of US state attorneys",
-            "general (AGs) has issued warnings to",
-            "Google, Meta, OpenAI, and other AI",
-            "companies regarding potential legal",
-            "violations stemming from their chatbot",
-            "technologies.",
-            "The AGs are demanding increased",
-            "accountability and safety measures for",
-            "generative AI technologies.",
-            "Specifically, they\u2019ve requested detailed",
-            "information about the safeguards these",
-            "companies have in place to protect",
-            "consumers.",
-            "The core concern revolves around the",
-            "possibility that these chatbots are",
-            "breaking existing state laws.",
-            "The demand for information suggests",
-            "concerns about areas like data privacy",
-            "and consumer protection."
+            "Disney formally accused Google of",
+            "large-scale copyright infringement this",
+            "week.",
+            "The letter requests an immediate halt to",
+            "the alleged infringement.",
+            "Disney contends that Google\u2019s AI",
+            "unlawfully utilizes their copyrighted",
+            "works in its generated content.",
+            "The accusation is based on Google\u2019s AI",
+            "models creating content that is",
+            "substantially similar to Disney\u2019s",
+            "copyrighted properties.",
+            "The core issue revolves around the",
+            "training data used by Google\u2019s AI and",
+            "the resulting outputs.",
+            "Disney\u2019s cease-and-desist letter",
+            "specifically mentions outputs resembling",
+            "characters from *Frozen*, *Deadpool*,",
+            "and *Star Wars*."
           ]
         }
       ],
-      "publishedAt": "2025-12-11T12:21:17.000Z",
-      "ranking": 0.29490054895110873,
-      "articleUrl": "https://www.theverge.com/news/842512/google-meta-openai-state-attorneys-general-ai-letter"
-    },
-    {
-      "id": "537",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Disney \u0026 OpenAI",
-      "mediumTitle": "Disney Licenses Characters",
-      "longTitle": "OpenAI \u0026 Disney AI Partnership",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI and Disney have entered into a",
-            "three-year licensing agreement for",
-            "character usage.",
-            "The characters will be integrated into",
-            "OpenAI\u2019s Sora video generation model.",
-            "The agreement grants OpenAI rights to",
-            "utilize over 200 characters from",
-            "Disney\u2019s extensive portfolio.",
-            "However, the deal is described as a",
-            "\u201Cbillion-dollar\u201D agreement.",
-            "These characters span Disney, Marvel,",
-            "Pixar, and Star Wars franchises.",
-            "Users will be able to create",
-            "\u201Cuser-prompted social videos\u201D featuring",
-            "these iconic characters.",
-            "The collaboration aims to leverage",
-            "Sora\u2019s capabilities to create new",
-            "AI-generated video content."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T10:32:21.000Z",
-      "ranking": 0.2690019358525326,
-      "articleUrl": "https://www.theverge.com/news/842348/disney-openai-sora-chatgpt-images"
-    },
-    {
-      "id": "550",
-      "topic": "NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Prime Recap Fail",
-      "mediumTitle": "Amazon Pulls AI Recaps",
-      "longTitle": "Amazon Removes AI Video Recaps After Errors",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The errors in the *Fallout* recap",
-            "related to key plot points and character",
-            "details.",
-            "Criticism arose quickly after the",
-            "release of the *Fallout* recap,",
-            "highlighting substantial inaccuracies.",
-            "Amazon responded to the feedback by",
-            "removing the recaps from all shows in",
-            "the initial test group.",
-            "The future of the \u201CVideo Recaps\u201D feature",
-            "depends on Amazon\u2019s success in resolving",
-            "these issues.",
-            "The removal suggests Amazon recognizes",
-            "the potential for AI to misrepresent",
-            "content.",
-            "Amazon Prime Video launched an",
-            "experimental AI-powered video recap",
-            "feature recently."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T18:46:11.000Z",
-      "ranking": 0.26429774680072704,
-      "articleUrl": "https://www.theverge.com/news/842978/amazon-prime-video-ai-fallout-recap"
+      "publishedAt": "2025-12-11T13:02:06.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/842573/disney-google-copyright-infringement-cease-and-desist"
     },
     {
       "id": "535",
@@ -641,8 +606,79 @@
         }
       ],
       "publishedAt": "2025-12-11T12:29:05.000Z",
-      "ranking": 0.2491098851767326,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/842494/openai-chatgpt-wrongful-death-suzanne-adams-delusions"
+    },
+    {
+      "id": "536",
+      "topic": "Ethics, Safety, Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Warning",
+      "mediumTitle": "US States Probe AI Firms",
+      "longTitle": "AI Chatbots Face Legal Scrutiny",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A coalition of US state attorneys",
+            "general (AGs) has issued warnings to",
+            "Google, Meta, OpenAI, and other AI",
+            "companies regarding potential legal",
+            "violations stemming from their chatbot",
+            "technologies.",
+            "The AGs are demanding increased",
+            "accountability and safety measures for",
+            "generative AI technologies.",
+            "Specifically, they\u2019ve requested detailed",
+            "information about the safeguards these",
+            "companies have in place to protect",
+            "consumers.",
+            "The core concern revolves around the",
+            "possibility that these chatbots are",
+            "breaking existing state laws.",
+            "The demand for information suggests",
+            "concerns about areas like data privacy",
+            "and consumer protection."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T12:21:17.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/842512/google-meta-openai-state-attorneys-general-ai-letter"
+    },
+    {
+      "id": "537",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Disney \u0026 OpenAI",
+      "mediumTitle": "Disney Licenses Characters",
+      "longTitle": "OpenAI \u0026 Disney AI Partnership",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI and Disney have entered into a",
+            "three-year licensing agreement for",
+            "character usage.",
+            "The characters will be integrated into",
+            "OpenAI\u2019s Sora video generation model.",
+            "The agreement grants OpenAI rights to",
+            "utilize over 200 characters from",
+            "Disney\u2019s extensive portfolio.",
+            "However, the deal is described as a",
+            "\u201Cbillion-dollar\u201D agreement.",
+            "These characters span Disney, Marvel,",
+            "Pixar, and Star Wars franchises.",
+            "Users will be able to create",
+            "\u201Cuser-prompted social videos\u201D featuring",
+            "these iconic characters.",
+            "The collaboration aims to leverage",
+            "Sora\u2019s capabilities to create new",
+            "AI-generated video content."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T10:32:21.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/842348/disney-openai-sora-chatgpt-images"
     },
     {
       "id": "539",
@@ -679,41 +715,6 @@
       "articleUrl": "https://venturebeat.com/ai/nous-research-just-released-nomos-1-an-open-source-ai-that-ranks-second-on"
     },
     {
-      "id": "540",
-      "topic": "NLP, Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Cohere Rerank 4",
-      "mediumTitle": "Cohere Releases Rerank 4",
-      "longTitle": "Cohere\u0027s Rerank 4 Improves Search Relevance",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Rerank 4 is the first reranking model",
-            "with self-learning capabilities.",
-            "Benchmarks show Rerank 4 often",
-            "outperforms competitors like Qwen",
-            "Reranker 8B and MongoDB\u2019s Voyage Rerank",
-            "2.5.",
-            "Users can customize the model without",
-            "additional annotated data by providing",
-            "preferences regarding content types.",
-            "Cohere has released Rerank 4, the latest",
-            "version of its search model, building",
-            "upon Rerank 3.5.",
-            "Self-learning consistently improved",
-            "retrieval quality in healthcare",
-            "datasets.",
-            "Rerank 4 addresses limitations of",
-            "bi-encoder embeddings by using a",
-            "cross-encoder architecture."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/coheres-rerank-4-quadruples-the-context-window-to-cut-agent-errors-and-boost"
-    },
-    {
       "id": "531",
       "topic": "Business",
       "source": "VentureBeat AI",
@@ -748,6 +749,41 @@
       "publishedAt": "2025-12-11T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/creating-a-glass-box-how-netsuite-is-engineering-trust-into-ai"
+    },
+    {
+      "id": "540",
+      "topic": "NLP, Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Cohere Rerank 4",
+      "mediumTitle": "Cohere Releases Rerank 4",
+      "longTitle": "Cohere\u0027s Rerank 4 Improves Search Relevance",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Rerank 4 is the first reranking model",
+            "with self-learning capabilities.",
+            "Benchmarks show Rerank 4 often",
+            "outperforms competitors like Qwen",
+            "Reranker 8B and MongoDB\u2019s Voyage Rerank",
+            "2.5.",
+            "Users can customize the model without",
+            "additional annotated data by providing",
+            "preferences regarding content types.",
+            "Cohere has released Rerank 4, the latest",
+            "version of its search model, building",
+            "upon Rerank 3.5.",
+            "Self-learning consistently improved",
+            "retrieval quality in healthcare",
+            "datasets.",
+            "Rerank 4 addresses limitations of",
+            "bi-encoder embeddings by using a",
+            "cross-encoder architecture."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/coheres-rerank-4-quadruples-the-context-window-to-cut-agent-errors-and-boost"
     },
     {
       "id": "528",
@@ -895,42 +931,6 @@
       "articleUrl": "https://venturebeat.com/ai/openai-report-reveals-a-6x-productivity-gap-between-ai-power-users-and"
     },
     {
-      "id": "515",
-      "topic": "AI Ops",
-      "source": "VentureBeat AI",
-      "shortTitle": "Hud Sensor",
-      "mediumTitle": "AI Code Monitoring",
-      "longTitle": "Hud Launches Runtime Sensor for AI Code",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Drata reduced manual triage time from 3",
-            "hours to under 10 minutes using Hud,",
-            "improving their mean time to resolution",
-            "by 70%.",
-            "Monday.com engineers can now resolve",
-            "\u201Cvoodoo incidents\u201D faster thanks to",
-            "Hud\u2019s ability to quickly identify root",
-            "causes.",
-            "Hud\u2019s sensor tracks every function and",
-            "gathers detailed forensic data,",
-            "including HTTP parameters and database",
-            "queries, when issues occur.",
-            "Hud differs from traditional APMs by",
-            "focusing on function-level data, which",
-            "is crucial for AI agents.",
-            "The launch addresses the \u0027investigation",
-            "tax\u0027 \u2013 the time engineers spend",
-            "correlating data from multiple sources",
-            "to diagnose issues."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-10T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/how-huds-runtime-sensor-cut-triage-time-from-3-hours-to-10-minutes"
-    },
-    {
       "id": "514",
       "topic": "Hardware",
       "source": "VentureBeat AI",
@@ -966,6 +966,42 @@
       "publishedAt": "2025-12-10T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/quilters-ai-just-designed-an-843-part-linux-computer-that-booted-on-the"
+    },
+    {
+      "id": "515",
+      "topic": "AI Ops",
+      "source": "VentureBeat AI",
+      "shortTitle": "Hud Sensor",
+      "mediumTitle": "AI Code Monitoring",
+      "longTitle": "Hud Launches Runtime Sensor for AI Code",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Drata reduced manual triage time from 3",
+            "hours to under 10 minutes using Hud,",
+            "improving their mean time to resolution",
+            "by 70%.",
+            "Monday.com engineers can now resolve",
+            "\u201Cvoodoo incidents\u201D faster thanks to",
+            "Hud\u2019s ability to quickly identify root",
+            "causes.",
+            "Hud\u2019s sensor tracks every function and",
+            "gathers detailed forensic data,",
+            "including HTTP parameters and database",
+            "queries, when issues occur.",
+            "Hud differs from traditional APMs by",
+            "focusing on function-level data, which",
+            "is crucial for AI agents.",
+            "The launch addresses the \u0027investigation",
+            "tax\u0027 \u2013 the time engineers spend",
+            "correlating data from multiple sources",
+            "to diagnose issues."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-10T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/how-huds-runtime-sensor-cut-triage-time-from-3-hours-to-10-minutes"
     },
     {
       "id": "527",
@@ -1184,41 +1220,6 @@
       "articleUrl": "https://www.theverge.com/news/841431/figma-ai-editing-tools-erase-isolate-object"
     },
     {
-      "id": "524",
-      "topic": "Generative AI, NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Adobe \u0026 ChatGPT",
-      "mediumTitle": "Adobe Apps in ChatGPT",
-      "longTitle": "Adobe Integrates Tools into ChatGPT Platform",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Adobe is integrating its applications \u2013",
-            "Photoshop, Acrobat, and Adobe Express \u2013",
-            "directly into ChatGPT.",
-            "This allows ChatGPT users to edit photos",
-            "and PDFs, and create designs without",
-            "leaving the ChatGPT interface.",
-            "Users can simply describe the desired",
-            "edits or creations, and the Adobe apps",
-            "will execute them within ChatGPT.",
-            "Importantly, access to these Adobe apps",
-            "through ChatGPT is being offered for",
-            "free.",
-            "The article does not specify any usage",
-            "limitations associated with this free",
-            "access.",
-            "The article also doesn\u0027t mention any",
-            "potential future changes to the free",
-            "access model."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-10T09:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/841369/chatgpt-apps-adobe-photoshop-acrobat-express"
-    },
-    {
       "id": "516",
       "topic": "Hardware",
       "source": "VentureBeat AI",
@@ -1254,6 +1255,41 @@
       "publishedAt": "2025-12-10T09:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/how-googles-tpus-are-reshaping-the-economics-of-large-scale-ai"
+    },
+    {
+      "id": "524",
+      "topic": "Generative AI, NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Adobe \u0026 ChatGPT",
+      "mediumTitle": "Adobe Apps in ChatGPT",
+      "longTitle": "Adobe Integrates Tools into ChatGPT Platform",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Adobe is integrating its applications \u2013",
+            "Photoshop, Acrobat, and Adobe Express \u2013",
+            "directly into ChatGPT.",
+            "This allows ChatGPT users to edit photos",
+            "and PDFs, and create designs without",
+            "leaving the ChatGPT interface.",
+            "Users can simply describe the desired",
+            "edits or creations, and the Adobe apps",
+            "will execute them within ChatGPT.",
+            "Importantly, access to these Adobe apps",
+            "through ChatGPT is being offered for",
+            "free.",
+            "The article does not specify any usage",
+            "limitations associated with this free",
+            "access.",
+            "The article also doesn\u0027t mention any",
+            "potential future changes to the free",
+            "access model."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-10T09:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/841369/chatgpt-apps-adobe-photoshop-acrobat-express"
     }
   ]
 }
