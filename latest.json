@@ -103,7 +103,7 @@
         }
       ],
       "publishedAt": "2025-12-14T04:01:30.000Z",
-      "ranking": 6.189353695582952,
+      "ranking": 5.770648797316166,
       "articleUrl": "https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/"
     },
     {
@@ -139,7 +139,7 @@
         }
       ],
       "publishedAt": "2025-12-13T21:00:00.000Z",
-      "ranking": 6.044664910418019,
+      "ranking": 5.528242089237076,
       "articleUrl": "https://venturebeat.com/ai/why-most-enterprise-ai-coding-pilots-underperform-hint-its-not-the-model"
     },
     {
@@ -176,7 +176,7 @@
         }
       ],
       "publishedAt": "2025-12-13T07:00:36.000Z",
-      "ranking": 2.717365522107589,
+      "ranking": 2.0063414732177396,
       "articleUrl": "https://www.marktechpost.com/2025/12/12/nanbeige4-3b-thinking-how-a-23t-token-pipeline-pushes-3b-models-past-30b-class-reasoning/"
     },
     {
@@ -211,7 +211,7 @@
         }
       ],
       "publishedAt": "2025-12-12T14:11:14.000Z",
-      "ranking": 0.09723211565336332,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones"
     },
     {
@@ -1001,6 +1001,42 @@
       "articleUrl": "https://venturebeat.com/ai/openai-report-reveals-a-6x-productivity-gap-between-ai-power-users-and"
     },
     {
+      "id": "515",
+      "topic": "AI Ops",
+      "source": "VentureBeat AI",
+      "shortTitle": "Hud Sensor",
+      "mediumTitle": "AI Code Monitoring",
+      "longTitle": "Hud Launches Runtime Sensor for AI Code",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Drata reduced manual triage time from 3",
+            "hours to under 10 minutes using Hud,",
+            "improving their mean time to resolution",
+            "by 70%.",
+            "Monday.com engineers can now resolve",
+            "\u201Cvoodoo incidents\u201D faster thanks to",
+            "Hud\u2019s ability to quickly identify root",
+            "causes.",
+            "Hud\u2019s sensor tracks every function and",
+            "gathers detailed forensic data,",
+            "including HTTP parameters and database",
+            "queries, when issues occur.",
+            "Hud differs from traditional APMs by",
+            "focusing on function-level data, which",
+            "is crucial for AI agents.",
+            "The launch addresses the \u0027investigation",
+            "tax\u0027 \u2013 the time engineers spend",
+            "correlating data from multiple sources",
+            "to diagnose issues."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-10T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/how-huds-runtime-sensor-cut-triage-time-from-3-hours-to-10-minutes"
+    },
+    {
       "id": "514",
       "topic": "Hardware",
       "source": "VentureBeat AI",
@@ -1036,42 +1072,6 @@
       "publishedAt": "2025-12-10T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/quilters-ai-just-designed-an-843-part-linux-computer-that-booted-on-the"
-    },
-    {
-      "id": "515",
-      "topic": "AI Ops",
-      "source": "VentureBeat AI",
-      "shortTitle": "Hud Sensor",
-      "mediumTitle": "AI Code Monitoring",
-      "longTitle": "Hud Launches Runtime Sensor for AI Code",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Drata reduced manual triage time from 3",
-            "hours to under 10 minutes using Hud,",
-            "improving their mean time to resolution",
-            "by 70%.",
-            "Monday.com engineers can now resolve",
-            "\u201Cvoodoo incidents\u201D faster thanks to",
-            "Hud\u2019s ability to quickly identify root",
-            "causes.",
-            "Hud\u2019s sensor tracks every function and",
-            "gathers detailed forensic data,",
-            "including HTTP parameters and database",
-            "queries, when issues occur.",
-            "Hud differs from traditional APMs by",
-            "focusing on function-level data, which",
-            "is crucial for AI agents.",
-            "The launch addresses the \u0027investigation",
-            "tax\u0027 \u2013 the time engineers spend",
-            "correlating data from multiple sources",
-            "to diagnose issues."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-10T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/how-huds-runtime-sensor-cut-triage-time-from-3-hours-to-10-minutes"
     },
     {
       "id": "527",
