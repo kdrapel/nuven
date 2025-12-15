@@ -38,6 +38,43 @@
       "articleUrl": "https://venturebeat.com/ai/why-agentic-ai-needs-a-new-category-of-customer-data"
     },
     {
+      "id": "573",
+      "topic": "Large Models, Training Tricks",
+      "source": "VentureBeat AI",
+      "shortTitle": "Motif AI",
+      "mediumTitle": "Motif\u0027s LLM Insights",
+      "longTitle": "Motif Technologies LLM Training Recipe",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Investing early in data alignment,",
+            "robust infrastructure, and training",
+            "stability is critical for building",
+            "proprietary LLMs.",
+            "Memory optimization often dictates the",
+            "feasibility of advanced training stages,",
+            "making low-level engineering crucial.",
+            "Synthetic reasoning data is only",
+            "effective if its structure aligns with",
+            "the target model\u2019s reasoning style,",
+            "emphasizing the importance of data",
+            "validation.",
+            "Reinforcement learning (RL) fine-tuning",
+            "is prone to failure without robust data",
+            "filtering and reuse, highlighting the",
+            "need for stability.",
+            "Motif Technologies is a Korean AI",
+            "startup that recently released",
+            "Motif-2-12.7B-Reasoning, a 12.7 billion",
+            "parameter open-weight model."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-15T21:16:00.000Z",
+      "ranking": 7.621428571428571,
+      "articleUrl": "https://venturebeat.com/ai/korean-ai-startup-motif-reveals-4-big-lessons-for-training-enterprise-llms"
+    },
+    {
       "id": "572",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -71,6 +108,79 @@
       "publishedAt": "2025-12-15T10:00:00.000Z",
       "ranking": 7.389999999999999,
       "articleUrl": "https://www.theverge.com/report/844454/musicians-tired-of-ai-clones"
+    },
+    {
+      "id": "574",
+      "topic": "Large Models, NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "Ai2 Bolmo",
+      "mediumTitle": "Ai2 Releases Bolmo Models",
+      "longTitle": "Allen Institute for AI Unveils Bolmo Language Models",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The Allen Institute for AI (Ai2) has",
+            "introduced Bolmo, a new family of",
+            "open-source, byte-level language models",
+            "(Bolmo 7B and Bolmo 1B).",
+            "These models are designed for",
+            "enterprises needing robust handling of",
+            "noisy, low-resource, or multilingual",
+            "text, and aim to make tokenizer-free",
+            "modeling practical at scale.",
+            "Byte-level models operate directly on",
+            "UTF-8 bytes, eliminating the need for a",
+            "predefined vocabulary and tokenizer,",
+            "which improves handling of misspellings,",
+            "rare languages, and unconventional text.",
+            "Bolmo 7B outperformed character-focused",
+            "benchmarks (CUTE, EXECUTE) and the base",
+            "Olmo 3 model, demonstrating strong",
+            "results in coding, math, multiple-choice",
+            "QA, and character-level understanding."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-15T06:00:00.000Z",
+      "ranking": 7.265384615384614,
+      "articleUrl": "https://venturebeat.com/ai/bolmos-architecture-unlocks-efficient-byte-level-lm-training-without"
+    },
+    {
+      "id": "575",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "US Tech Force",
+      "mediumTitle": "Trump Launches Tech Initiative",
+      "longTitle": "US Tech Force to Modernize Government",
+      "paragraphs": [
+        {
+          "Lines": [
+            "President Donald Trump is the driving",
+            "force behind the new US Tech Force",
+            "initiative.",
+            "The program\u0027s core goal is to bring",
+            "technological expertise into various",
+            "federal agencies.",
+            "Approximately 1,000 specialists are",
+            "expected to be recruited through this",
+            "program.",
+            "Amazon is one of the major technology",
+            "companies being targeted for talent",
+            "acquisition.",
+            "Apple is also included among the",
+            "companies from which the US Tech Force",
+            "will draw its personnel.",
+            "Google is a key partner in providing",
+            "technology professionals for the",
+            "initiative.",
+            "Meta, formerly known as Facebook, is",
+            "also contributing to the talent pool."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-15T15:18:48.000Z",
+      "ranking": 7.1375,
+      "articleUrl": "https://www.theverge.com/news/844804/trump-tech-force-usds-apple-google-microsoft"
     },
     {
       "id": "565",
@@ -215,7 +325,7 @@
         }
       ],
       "publishedAt": "2025-12-14T20:00:00.000Z",
-      "ranking": 6.707260716504481,
+      "ranking": 6.342583609831433,
       "articleUrl": "https://venturebeat.com/ai/build-vs-buy-is-dead-ai-just-killed-it"
     },
     {
@@ -284,7 +394,7 @@
         }
       ],
       "publishedAt": "2025-12-14T17:24:24.000Z",
-      "ranking": 6.182081487381811,
+      "ranking": 5.781294039044776,
       "articleUrl": "https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting"
     },
     {
@@ -320,7 +430,7 @@
         }
       ],
       "publishedAt": "2025-12-14T04:01:30.000Z",
-      "ranking": 4.759971362610731,
+      "ranking": 4.172853625736129,
       "articleUrl": "https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/"
     },
     {
@@ -356,7 +466,7 @@
         }
       ],
       "publishedAt": "2025-12-13T21:00:00.000Z",
-      "ranking": 4.3210623681734575,
+      "ranking": 3.636126450040435,
       "articleUrl": "https://venturebeat.com/ai/why-most-enterprise-ai-coding-pilots-underperform-hint-its-not-the-model"
     },
     {
@@ -393,7 +503,7 @@
         }
       ],
       "publishedAt": "2025-12-13T07:00:36.000Z",
-      "ranking": 0.4078354804794504,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/12/12/nanbeige4-3b-thinking-how-a-23t-token-pipeline-pushes-3b-models-past-30b-class-reasoning/"
     },
     {
@@ -1002,41 +1112,6 @@
       "articleUrl": "https://venturebeat.com/ai/nous-research-just-released-nomos-1-an-open-source-ai-that-ranks-second-on"
     },
     {
-      "id": "540",
-      "topic": "NLP, Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Cohere Rerank 4",
-      "mediumTitle": "Cohere Releases Rerank 4",
-      "longTitle": "Cohere\u0027s Rerank 4 Improves Search Relevance",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Rerank 4 is the first reranking model",
-            "with self-learning capabilities.",
-            "Benchmarks show Rerank 4 often",
-            "outperforms competitors like Qwen",
-            "Reranker 8B and MongoDB\u2019s Voyage Rerank",
-            "2.5.",
-            "Users can customize the model without",
-            "additional annotated data by providing",
-            "preferences regarding content types.",
-            "Cohere has released Rerank 4, the latest",
-            "version of its search model, building",
-            "upon Rerank 3.5.",
-            "Self-learning consistently improved",
-            "retrieval quality in healthcare",
-            "datasets.",
-            "Rerank 4 addresses limitations of",
-            "bi-encoder embeddings by using a",
-            "cross-encoder architecture."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/coheres-rerank-4-quadruples-the-context-window-to-cut-agent-errors-and-boost"
-    },
-    {
       "id": "531",
       "topic": "Business",
       "source": "VentureBeat AI",
@@ -1071,6 +1146,41 @@
       "publishedAt": "2025-12-11T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/creating-a-glass-box-how-netsuite-is-engineering-trust-into-ai"
+    },
+    {
+      "id": "540",
+      "topic": "NLP, Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Cohere Rerank 4",
+      "mediumTitle": "Cohere Releases Rerank 4",
+      "longTitle": "Cohere\u0027s Rerank 4 Improves Search Relevance",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Rerank 4 is the first reranking model",
+            "with self-learning capabilities.",
+            "Benchmarks show Rerank 4 often",
+            "outperforms competitors like Qwen",
+            "Reranker 8B and MongoDB\u2019s Voyage Rerank",
+            "2.5.",
+            "Users can customize the model without",
+            "additional annotated data by providing",
+            "preferences regarding content types.",
+            "Cohere has released Rerank 4, the latest",
+            "version of its search model, building",
+            "upon Rerank 3.5.",
+            "Self-learning consistently improved",
+            "retrieval quality in healthcare",
+            "datasets.",
+            "Rerank 4 addresses limitations of",
+            "bi-encoder embeddings by using a",
+            "cross-encoder architecture."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-11T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/coheres-rerank-4-quadruples-the-context-window-to-cut-agent-errors-and-boost"
     },
     {
       "id": "528",
@@ -1181,77 +1291,6 @@
       "publishedAt": "2025-12-10T16:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/the-ai-that-scored-95-until-consultants-learned-it-was-ai"
-    },
-    {
-      "id": "513",
-      "topic": "Business",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Gap",
-      "mediumTitle": "OpenAI: AI Usage Divide",
-      "longTitle": "OpenAI Report Highlights AI Productivity Gap",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The report emphasizes that the gap is",
-            "about behavior, not just technology, and",
-            "behavior cannot be simply \u0027deployed\u0027",
-            "like software.",
-            "Leading firms prioritize executive",
-            "sponsorship, data readiness, workflow",
-            "standardization, and change management",
-            "to foster AI adoption.",
-            "Frontier firms generate twice as many AI",
-            "messages per employee as median firms,",
-            "and seven times more through custom",
-            "GPTs.",
-            "The window to bridge the AI gap is",
-            "closing, requiring proactive",
-            "organizational action.",
-            "The OpenAI report analyzed data from",
-            "over one million business customers to",
-            "understand AI adoption patterns."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-10T15:30:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/openai-report-reveals-a-6x-productivity-gap-between-ai-power-users-and"
-    },
-    {
-      "id": "515",
-      "topic": "AI Ops",
-      "source": "VentureBeat AI",
-      "shortTitle": "Hud Sensor",
-      "mediumTitle": "AI Code Monitoring",
-      "longTitle": "Hud Launches Runtime Sensor for AI Code",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Drata reduced manual triage time from 3",
-            "hours to under 10 minutes using Hud,",
-            "improving their mean time to resolution",
-            "by 70%.",
-            "Monday.com engineers can now resolve",
-            "\u201Cvoodoo incidents\u201D faster thanks to",
-            "Hud\u2019s ability to quickly identify root",
-            "causes.",
-            "Hud\u2019s sensor tracks every function and",
-            "gathers detailed forensic data,",
-            "including HTTP parameters and database",
-            "queries, when issues occur.",
-            "Hud differs from traditional APMs by",
-            "focusing on function-level data, which",
-            "is crucial for AI agents.",
-            "The launch addresses the \u0027investigation",
-            "tax\u0027 \u2013 the time engineers spend",
-            "correlating data from multiple sources",
-            "to diagnose issues."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-10T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/how-huds-runtime-sensor-cut-triage-time-from-3-hours-to-10-minutes"
     }
   ]
 }
