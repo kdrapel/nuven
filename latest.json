@@ -36,42 +36,6 @@
       "articleUrl": "https://venturebeat.com/ai/build-vs-buy-is-dead-ai-just-killed-it"
     },
     {
-      "id": "560",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Sparse Models",
-      "mediumTitle": "OpenAI Releases Sparse Transformers",
-      "longTitle": "OpenAI Shares Tools \u0026 Models for Sparse Transformers",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has released \u0060circuit-sparsity\u0060,",
-            "a set of open tools and models related",
-            "to their research on weight-sparse",
-            "transformers.",
-            "Instead, sparsity is an integral part of",
-            "the training process itself.",
-            "Sparsity, meaning the intentional",
-            "removal of weights, is not applied after",
-            "training.",
-            "These models are GPT-2 style,",
-            "decoder-only transformers.",
-            "The release includes the models and",
-            "circuits detailed in the paper",
-            "\u201CWeight-sparse transformers have",
-            "interpretable circuits.\u201D",
-            "They were specifically trained on Python",
-            "code.",
-            "These tools can be found on both Hugging",
-            "Face and GitHub."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-14T04:01:30.000Z",
-      "ranking": 7.5600000000000005,
-      "articleUrl": "https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/"
-    },
-    {
       "id": "564",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -107,6 +71,42 @@
       "articleUrl": "https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting"
     },
     {
+      "id": "560",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Sparse Models",
+      "mediumTitle": "OpenAI Releases Sparse Transformers",
+      "longTitle": "OpenAI Shares Tools \u0026 Models for Sparse Transformers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has released \u0060circuit-sparsity\u0060,",
+            "a set of open tools and models related",
+            "to their research on weight-sparse",
+            "transformers.",
+            "Instead, sparsity is an integral part of",
+            "the training process itself.",
+            "Sparsity, meaning the intentional",
+            "removal of weights, is not applied after",
+            "training.",
+            "These models are GPT-2 style,",
+            "decoder-only transformers.",
+            "The release includes the models and",
+            "circuits detailed in the paper",
+            "\u201CWeight-sparse transformers have",
+            "interpretable circuits.\u201D",
+            "They were specifically trained on Python",
+            "code.",
+            "These tools can be found on both Hugging",
+            "Face and GitHub."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-14T04:01:30.000Z",
+      "ranking": 6.551790219712766,
+      "articleUrl": "https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/"
+    },
+    {
       "id": "559",
       "topic": "Dev Tools",
       "source": "VentureBeat AI",
@@ -139,7 +139,7 @@
         }
       ],
       "publishedAt": "2025-12-13T21:00:00.000Z",
-      "ranking": 6.905960954852281,
+      "ranking": 6.504660857193825,
       "articleUrl": "https://venturebeat.com/ai/why-most-enterprise-ai-coding-pilots-underperform-hint-its-not-the-model"
     },
     {
@@ -176,7 +176,7 @@
         }
       ],
       "publishedAt": "2025-12-13T07:00:36.000Z",
-      "ranking": 3.9656081668855707,
+      "ranking": 3.3716470708983484,
       "articleUrl": "https://www.marktechpost.com/2025/12/12/nanbeige4-3b-thinking-how-a-23t-token-pipeline-pushes-3b-models-past-30b-class-reasoning/"
     },
     {
@@ -211,7 +211,7 @@
         }
       ],
       "publishedAt": "2025-12-12T14:11:14.000Z",
-      "ranking": 1.8107725941472914,
+      "ranking": 0.9851393639621939,
       "articleUrl": "https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones"
     },
     {
