@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "585",
+      "topic": "Vision, Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "GPT Image 1.5",
+      "mediumTitle": "OpenAI Updates Image Gen",
+      "longTitle": "OpenAI Releases GPT Image 1.5 Update",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has released a significant update",
+            "to its image generation capabilities",
+            "with the introduction of GPT Image 1.5,",
+            "its new flagship model.",
+            "Specifically, GPT Image 1.5 demonstrates",
+            "a heightened ability to accurately",
+            "follow user instructions when creating",
+            "images.",
+            "Furthermore, the generation speed has",
+            "been substantially increased, with",
+            "OpenAI claiming results are produced up",
+            "to four times faster than with previous",
+            "models.",
+            "It also offers enhanced photo editing",
+            "functionality, allowing for more precise",
+            "modifications to existing images.",
+            "The new features are available to users",
+            "starting Tuesday, providing immediate",
+            "access to the improvements."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T14:15:36.000Z",
+      "ranking": 7.779999999999999,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-model-gpt-image-1-5"
+    },
+    {
       "id": "581",
       "topic": "Large Models, Business",
       "source": "VentureBeat AI",
@@ -73,43 +109,6 @@
       "publishedAt": "2025-12-16T15:00:00.000Z",
       "ranking": 7.630769230769231,
       "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
-    },
-    {
-      "id": "573",
-      "topic": "Large Models, Training Tricks",
-      "source": "VentureBeat AI",
-      "shortTitle": "Motif AI",
-      "mediumTitle": "Motif\u0027s LLM Insights",
-      "longTitle": "Motif Technologies LLM Training Recipe",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Investing early in data alignment,",
-            "robust infrastructure, and training",
-            "stability is critical for building",
-            "proprietary LLMs.",
-            "Memory optimization often dictates the",
-            "feasibility of advanced training stages,",
-            "making low-level engineering crucial.",
-            "Synthetic reasoning data is only",
-            "effective if its structure aligns with",
-            "the target model\u2019s reasoning style,",
-            "emphasizing the importance of data",
-            "validation.",
-            "Reinforcement learning (RL) fine-tuning",
-            "is prone to failure without robust data",
-            "filtering and reuse, highlighting the",
-            "need for stability.",
-            "Motif Technologies is a Korean AI",
-            "startup that recently released",
-            "Motif-2-12.7B-Reasoning, a 12.7 billion",
-            "parameter open-weight model."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T21:16:00.000Z",
-      "ranking": 7.621428571428571,
-      "articleUrl": "https://venturebeat.com/ai/korean-ai-startup-motif-reveals-4-big-lessons-for-training-enterprise-llms"
     },
     {
       "id": "580",
@@ -221,41 +220,41 @@
       "articleUrl": "https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast"
     },
     {
-      "id": "568",
-      "topic": "NLP",
+      "id": "573",
+      "topic": "Large Models, Training Tricks",
       "source": "VentureBeat AI",
-      "shortTitle": "AI \u0026 Data",
-      "mediumTitle": "Agentic AI Needs Memory",
-      "longTitle": "Conversational Memory: The Key to AI",
+      "shortTitle": "Motif AI",
+      "mediumTitle": "Motif\u0027s LLM Insights",
+      "longTitle": "Motif Technologies LLM Training Recipe",
       "paragraphs": [
         {
           "Lines": [
-            "Agentic AI requires a \u0027conversational",
-            "memory\u0027 \u2013 a real-time understanding of",
-            "the interaction and customer history.",
-            "The future of agentic AI depends on an",
-            "infrastructural shift towards",
-            "foundational conversational memory.",
-            "Organizations that prioritize",
-            "conversational memory as core",
-            "infrastructure gain a competitive",
-            "advantage.",
-            "Companies solving the infrastructure",
-            "problem will outperform those simply",
-            "integrating AI into existing systems.",
-            "Existing systems suffer from latency,",
-            "data fragmentation, and loss of",
-            "conversational nuance, hindering AI\u0027s",
-            "capabilities.",
-            "Agentic automation, allowing AI to make",
-            "nuanced decisions, is unlocked by a",
-            "robust conversational memory."
+            "Investing early in data alignment,",
+            "robust infrastructure, and training",
+            "stability is critical for building",
+            "proprietary LLMs.",
+            "Memory optimization often dictates the",
+            "feasibility of advanced training stages,",
+            "making low-level engineering crucial.",
+            "Synthetic reasoning data is only",
+            "effective if its structure aligns with",
+            "the target model\u2019s reasoning style,",
+            "emphasizing the importance of data",
+            "validation.",
+            "Reinforcement learning (RL) fine-tuning",
+            "is prone to failure without robust data",
+            "filtering and reuse, highlighting the",
+            "need for stability.",
+            "Motif Technologies is a Korean AI",
+            "startup that recently released",
+            "Motif-2-12.7B-Reasoning, a 12.7 billion",
+            "parameter open-weight model."
           ]
         }
       ],
-      "publishedAt": "2025-12-15T06:00:00.000Z",
-      "ranking": 5.7325753977727185,
-      "articleUrl": "https://venturebeat.com/ai/why-agentic-ai-needs-a-new-category-of-customer-data"
+      "publishedAt": "2025-12-15T21:16:00.000Z",
+      "ranking": 6.365075512772575,
+      "articleUrl": "https://venturebeat.com/ai/korean-ai-startup-motif-reveals-4-big-lessons-for-training-enterprise-llms"
     },
     {
       "id": "575",
@@ -291,8 +290,45 @@
         }
       ],
       "publishedAt": "2025-12-15T15:18:48.000Z",
-      "ranking": 5.685148274114784,
+      "ranking": 5.263538541129851,
       "articleUrl": "https://www.theverge.com/news/844804/trump-tech-force-usds-apple-google-microsoft"
+    },
+    {
+      "id": "568",
+      "topic": "NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI \u0026 Data",
+      "mediumTitle": "Agentic AI Needs Memory",
+      "longTitle": "Conversational Memory: The Key to AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Agentic AI requires a \u0027conversational",
+            "memory\u0027 \u2013 a real-time understanding of",
+            "the interaction and customer history.",
+            "The future of agentic AI depends on an",
+            "infrastructural shift towards",
+            "foundational conversational memory.",
+            "Organizations that prioritize",
+            "conversational memory as core",
+            "infrastructure gain a competitive",
+            "advantage.",
+            "Companies solving the infrastructure",
+            "problem will outperform those simply",
+            "integrating AI into existing systems.",
+            "Existing systems suffer from latency,",
+            "data fragmentation, and loss of",
+            "conversational nuance, hindering AI\u0027s",
+            "capabilities.",
+            "Agentic automation, allowing AI to make",
+            "nuanced decisions, is unlocked by a",
+            "robust conversational memory."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-15T06:00:00.000Z",
+      "ranking": 5.183845207340448,
+      "articleUrl": "https://venturebeat.com/ai/why-agentic-ai-needs-a-new-category-of-customer-data"
     },
     {
       "id": "572",
@@ -326,7 +362,7 @@
         }
       ],
       "publishedAt": "2025-12-15T10:00:00.000Z",
-      "ranking": 5.355027983632567,
+      "ranking": 4.860894983956948,
       "articleUrl": "https://www.theverge.com/report/844454/musicians-tired-of-ai-clones"
     },
     {
@@ -363,8 +399,42 @@
         }
       ],
       "publishedAt": "2025-12-15T12:01:53.000Z",
-      "ranking": 5.279349339505311,
+      "ranking": 4.812943369096688,
       "articleUrl": "https://www.theverge.com/news/844640/merriam-webster-ai-slop-word-of-the-year-2025"
+    },
+    {
+      "id": "567",
+      "topic": "Security",
+      "source": "VentureBeat AI",
+      "shortTitle": "Tokenization",
+      "mediumTitle": "Data Security via Tokenization",
+      "longTitle": "Tokenization: A Modern Data Security Approach",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Securing data \u0027at birth\u0027 (upon creation)",
+            "is more effective than securing it only",
+            "when stored, according to Raghu.",
+            "Vaultless tokenization dynamically",
+            "generates tokens using algorithms and",
+            "cryptographic techniques, eliminating a",
+            "central vault.",
+            "Tokenization separates data value from",
+            "its inherent risk, presenting it as a",
+            "leading data security method.",
+            "Tokens map back to the original data,",
+            "which is securely stored in a digital",
+            "vault, preserving data format and",
+            "usability.",
+            "Databolt integrates seamlessly with",
+            "existing data warehouses and operates",
+            "within the customer\u2019s environment."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-15T16:00:00.000Z",
+      "ranking": 4.386886315216275,
+      "articleUrl": "https://venturebeat.com/ai/tokenization-takes-the-lead-in-the-fight-for-data-security"
     },
     {
       "id": "565",
@@ -400,42 +470,8 @@
         }
       ],
       "publishedAt": "2025-12-15T08:12:41.000Z",
-      "ranking": 4.831849139339301,
+      "ranking": 4.313302850926401,
       "articleUrl": "https://www.theverge.com/news/844538/kindle-app-ask-this-book-ai-ios"
-    },
-    {
-      "id": "567",
-      "topic": "Security",
-      "source": "VentureBeat AI",
-      "shortTitle": "Tokenization",
-      "mediumTitle": "Data Security via Tokenization",
-      "longTitle": "Tokenization: A Modern Data Security Approach",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Securing data \u0027at birth\u0027 (upon creation)",
-            "is more effective than securing it only",
-            "when stored, according to Raghu.",
-            "Vaultless tokenization dynamically",
-            "generates tokens using algorithms and",
-            "cryptographic techniques, eliminating a",
-            "central vault.",
-            "Tokenization separates data value from",
-            "its inherent risk, presenting it as a",
-            "leading data security method.",
-            "Tokens map back to the original data,",
-            "which is securely stored in a digital",
-            "vault, preserving data format and",
-            "usability.",
-            "Databolt integrates seamlessly with",
-            "existing data warehouses and operates",
-            "within the customer\u2019s environment."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T16:00:00.000Z",
-      "ranking": 4.799123533540463,
-      "articleUrl": "https://venturebeat.com/ai/tokenization-takes-the-lead-in-the-fight-for-data-security"
     },
     {
       "id": "574",
@@ -470,7 +506,7 @@
         }
       ],
       "publishedAt": "2025-12-15T06:00:00.000Z",
-      "ranking": 4.72712665161124,
+      "ranking": 4.178396464997325,
       "articleUrl": "https://venturebeat.com/ai/bolmos-architecture-unlocks-efficient-byte-level-lm-training-without"
     },
     {
@@ -507,7 +543,7 @@
         }
       ],
       "publishedAt": "2025-12-15T08:00:00.000Z",
-      "ranking": 4.480329442009294,
+      "ranking": 3.9588978467436893,
       "articleUrl": "https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies"
     },
     {
@@ -542,7 +578,7 @@
         }
       ],
       "publishedAt": "2025-12-14T20:00:00.000Z",
-      "ranking": 3.68319825036504,
+      "ranking": 2.9979750434821826,
       "articleUrl": "https://venturebeat.com/ai/build-vs-buy-is-dead-ai-just-killed-it"
     },
     {
@@ -577,7 +613,7 @@
         }
       ],
       "publishedAt": "2025-12-14T17:24:24.000Z",
-      "ranking": 2.941442318972423,
+      "ranking": 2.2208219202595387,
       "articleUrl": "https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting"
     },
     {
@@ -613,7 +649,7 @@
         }
       ],
       "publishedAt": "2025-12-14T04:01:30.000Z",
-      "ranking": 0.4017908921780915,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/"
     },
     {
@@ -1116,183 +1152,6 @@
       "publishedAt": "2025-12-11T14:10:19.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/842657/openai-chatgpt-adult-mode-debut-q1-2026"
-    },
-    {
-      "id": "534",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Disney vs Google",
-      "mediumTitle": "Disney Accuses Google of Copyright Issues",
-      "longTitle": "Disney Demands Google Stop AI Copyright Infringement",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Disney formally accused Google of",
-            "large-scale copyright infringement this",
-            "week.",
-            "The letter requests an immediate halt to",
-            "the alleged infringement.",
-            "Disney contends that Google\u2019s AI",
-            "unlawfully utilizes their copyrighted",
-            "works in its generated content.",
-            "The accusation is based on Google\u2019s AI",
-            "models creating content that is",
-            "substantially similar to Disney\u2019s",
-            "copyrighted properties.",
-            "The core issue revolves around the",
-            "training data used by Google\u2019s AI and",
-            "the resulting outputs.",
-            "Disney\u2019s cease-and-desist letter",
-            "specifically mentions outputs resembling",
-            "characters from *Frozen*, *Deadpool*,",
-            "and *Star Wars*."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T13:02:06.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/842573/disney-google-copyright-infringement-cease-and-desist"
-    },
-    {
-      "id": "535",
-      "topic": "Ethics, Safety",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI Lawsuit",
-      "mediumTitle": "ChatGPT Linked to Deaths",
-      "longTitle": "OpenAI Sued Over Fatal Incidents",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI is being sued for wrongful death",
-            "in a California court.",
-            "Suzanne Adams, 83, was murdered in her",
-            "Connecticut home in August.",
-            "Her son, 56, died by suicide following",
-            "the death of his mother.",
-            "The son believed his mother was not his",
-            "biological mother due to interactions",
-            "with ChatGPT.",
-            "He also believed his mother was part of",
-            "a conspiracy against him, according to",
-            "the lawsuit.",
-            "The complaint alleges ChatGPT acted",
-            "negligently in its responses to the son.",
-            "ChatGPT\u2019s responses reportedly",
-            "contributed to the son\u2019s distorted",
-            "reality.",
-            "The lawsuit suggests ChatGPT\u2019s actions",
-            "led to violent actions."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T12:29:05.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/842494/openai-chatgpt-wrongful-death-suzanne-adams-delusions"
-    },
-    {
-      "id": "536",
-      "topic": "Ethics, Safety, Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI Warning",
-      "mediumTitle": "US States Probe AI Firms",
-      "longTitle": "AI Chatbots Face Legal Scrutiny",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A coalition of US state attorneys",
-            "general (AGs) has issued warnings to",
-            "Google, Meta, OpenAI, and other AI",
-            "companies regarding potential legal",
-            "violations stemming from their chatbot",
-            "technologies.",
-            "The AGs are demanding increased",
-            "accountability and safety measures for",
-            "generative AI technologies.",
-            "Specifically, they\u2019ve requested detailed",
-            "information about the safeguards these",
-            "companies have in place to protect",
-            "consumers.",
-            "The core concern revolves around the",
-            "possibility that these chatbots are",
-            "breaking existing state laws.",
-            "The demand for information suggests",
-            "concerns about areas like data privacy",
-            "and consumer protection."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T12:21:17.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/842512/google-meta-openai-state-attorneys-general-ai-letter"
-    },
-    {
-      "id": "537",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Disney \u0026 OpenAI",
-      "mediumTitle": "Disney Licenses Characters",
-      "longTitle": "OpenAI \u0026 Disney AI Partnership",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI and Disney have entered into a",
-            "three-year licensing agreement for",
-            "character usage.",
-            "The characters will be integrated into",
-            "OpenAI\u2019s Sora video generation model.",
-            "The agreement grants OpenAI rights to",
-            "utilize over 200 characters from",
-            "Disney\u2019s extensive portfolio.",
-            "However, the deal is described as a",
-            "\u201Cbillion-dollar\u201D agreement.",
-            "These characters span Disney, Marvel,",
-            "Pixar, and Star Wars franchises.",
-            "Users will be able to create",
-            "\u201Cuser-prompted social videos\u201D featuring",
-            "these iconic characters.",
-            "The collaboration aims to leverage",
-            "Sora\u2019s capabilities to create new",
-            "AI-generated video content."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T10:32:21.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/842348/disney-openai-sora-chatgpt-images"
-    },
-    {
-      "id": "539",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Nomos 1 AI",
-      "mediumTitle": "AI Achieves High Math Score",
-      "longTitle": "Nous Research\u0027s Nomos 1 Excels in Putnam Competition",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Nous Research has released Nomos 1, an",
-            "open-source AI system specifically",
-            "designed for mathematical reasoning.",
-            "The code and submissions for Nomos 1 are",
-            "publicly available on Hugging Face and",
-            "GitHub.",
-            "The base Qwen3 model achieved a score of",
-            "only 24 points on the Putnam exam before",
-            "Nous Research\u2019s specialized training.",
-            "Nomos 1 is designed to run on",
-            "consumer-grade hardware, making it more",
-            "accessible to researchers and",
-            "developers.",
-            "The 2024 William Lowell Putnam",
-            "Mathematical Competition is known for",
-            "its difficulty and is a prestigious",
-            "undergraduate math contest."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T10:30:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/nous-research-just-released-nomos-1-an-open-source-ai-that-ranks-second-on"
     }
   ]
 }
