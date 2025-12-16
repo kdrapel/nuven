@@ -1,43 +1,6 @@
 {
   "articles": [
     {
-      "id": "568",
-      "topic": "NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI \u0026 Data",
-      "mediumTitle": "Agentic AI Needs Memory",
-      "longTitle": "Conversational Memory: The Key to AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Agentic AI requires a \u0027conversational",
-            "memory\u0027 \u2013 a real-time understanding of",
-            "the interaction and customer history.",
-            "The future of agentic AI depends on an",
-            "infrastructural shift towards",
-            "foundational conversational memory.",
-            "Organizations that prioritize",
-            "conversational memory as core",
-            "infrastructure gain a competitive",
-            "advantage.",
-            "Companies solving the infrastructure",
-            "problem will outperform those simply",
-            "integrating AI into existing systems.",
-            "Existing systems suffer from latency,",
-            "data fragmentation, and loss of",
-            "conversational nuance, hindering AI\u0027s",
-            "capabilities.",
-            "Agentic automation, allowing AI to make",
-            "nuanced decisions, is unlocked by a",
-            "robust conversational memory."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T06:00:00.000Z",
-      "ranking": 8.270833333333334,
-      "articleUrl": "https://venturebeat.com/ai/why-agentic-ai-needs-a-new-category-of-customer-data"
-    },
-    {
       "id": "573",
       "topic": "Large Models, Training Tricks",
       "source": "VentureBeat AI",
@@ -108,42 +71,6 @@
       "publishedAt": "2025-12-15T10:00:00.000Z",
       "ranking": 7.389999999999999,
       "articleUrl": "https://www.theverge.com/report/844454/musicians-tired-of-ai-clones"
-    },
-    {
-      "id": "574",
-      "topic": "Large Models, NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "Ai2 Bolmo",
-      "mediumTitle": "Ai2 Releases Bolmo Models",
-      "longTitle": "Allen Institute for AI Unveils Bolmo Language Models",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The Allen Institute for AI (Ai2) has",
-            "introduced Bolmo, a new family of",
-            "open-source, byte-level language models",
-            "(Bolmo 7B and Bolmo 1B).",
-            "These models are designed for",
-            "enterprises needing robust handling of",
-            "noisy, low-resource, or multilingual",
-            "text, and aim to make tokenizer-free",
-            "modeling practical at scale.",
-            "Byte-level models operate directly on",
-            "UTF-8 bytes, eliminating the need for a",
-            "predefined vocabulary and tokenizer,",
-            "which improves handling of misspellings,",
-            "rare languages, and unconventional text.",
-            "Bolmo 7B outperformed character-focused",
-            "benchmarks (CUTE, EXECUTE) and the base",
-            "Olmo 3 model, demonstrating strong",
-            "results in coding, math, multiple-choice",
-            "QA, and character-level understanding."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T06:00:00.000Z",
-      "ranking": 7.265384615384614,
-      "articleUrl": "https://venturebeat.com/ai/bolmos-architecture-unlocks-efficient-byte-level-lm-training-without"
     },
     {
       "id": "575",
@@ -220,6 +147,43 @@
       "articleUrl": "https://www.theverge.com/news/844538/kindle-app-ask-this-book-ai-ios"
     },
     {
+      "id": "568",
+      "topic": "NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI \u0026 Data",
+      "mediumTitle": "Agentic AI Needs Memory",
+      "longTitle": "Conversational Memory: The Key to AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Agentic AI requires a \u0027conversational",
+            "memory\u0027 \u2013 a real-time understanding of",
+            "the interaction and customer history.",
+            "The future of agentic AI depends on an",
+            "infrastructural shift towards",
+            "foundational conversational memory.",
+            "Organizations that prioritize",
+            "conversational memory as core",
+            "infrastructure gain a competitive",
+            "advantage.",
+            "Companies solving the infrastructure",
+            "problem will outperform those simply",
+            "integrating AI into existing systems.",
+            "Existing systems suffer from latency,",
+            "data fragmentation, and loss of",
+            "conversational nuance, hindering AI\u0027s",
+            "capabilities.",
+            "Agentic automation, allowing AI to make",
+            "nuanced decisions, is unlocked by a",
+            "robust conversational memory."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-15T06:00:00.000Z",
+      "ranking": 7.0841574153687485,
+      "articleUrl": "https://venturebeat.com/ai/why-agentic-ai-needs-a-new-category-of-customer-data"
+    },
+    {
       "id": "570",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -257,43 +221,6 @@
       "articleUrl": "https://www.theverge.com/news/844640/merriam-webster-ai-slop-word-of-the-year-2025"
     },
     {
-      "id": "566",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Mercor",
-      "mediumTitle": "Mercor: AI Staffing",
-      "longTitle": "Mercor Automates Overseas Tech Talent Search",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Initial interviews with candidates are",
-            "also conducted using language model",
-            "technology.",
-            "Language models are used by Mercor to",
-            "analyze resumes and identify qualified",
-            "candidates.",
-            "A key aspect of Mercor\u0027s approach is its",
-            "use of automation to streamline the",
-            "hiring process.",
-            "This innovative recruitment method is a",
-            "central component of Mercor\u2019s business",
-            "model.",
-            "Brendan Foody co-founded Mercor with two",
-            "high school friends in 2023.",
-            "The initial goal of Mercor was to",
-            "provide startups with access to a global",
-            "pool of software engineering expertise.",
-            "The company aims to make it easier and",
-            "more efficient for startups to find",
-            "skilled engineers."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T08:00:00.000Z",
-      "ranking": 6.76,
-      "articleUrl": "https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies"
-    },
-    {
       "id": "567",
       "topic": "Security",
       "source": "VentureBeat AI",
@@ -328,6 +255,79 @@
       "articleUrl": "https://venturebeat.com/ai/tokenization-takes-the-lead-in-the-fight-for-data-security"
     },
     {
+      "id": "574",
+      "topic": "Large Models, NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "Ai2 Bolmo",
+      "mediumTitle": "Ai2 Releases Bolmo Models",
+      "longTitle": "Allen Institute for AI Unveils Bolmo Language Models",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The Allen Institute for AI (Ai2) has",
+            "introduced Bolmo, a new family of",
+            "open-source, byte-level language models",
+            "(Bolmo 7B and Bolmo 1B).",
+            "These models are designed for",
+            "enterprises needing robust handling of",
+            "noisy, low-resource, or multilingual",
+            "text, and aim to make tokenizer-free",
+            "modeling practical at scale.",
+            "Byte-level models operate directly on",
+            "UTF-8 bytes, eliminating the need for a",
+            "predefined vocabulary and tokenizer,",
+            "which improves handling of misspellings,",
+            "rare languages, and unconventional text.",
+            "Bolmo 7B outperformed character-focused",
+            "benchmarks (CUTE, EXECUTE) and the base",
+            "Olmo 3 model, demonstrating strong",
+            "results in coding, math, multiple-choice",
+            "QA, and character-level understanding."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-15T06:00:00.000Z",
+      "ranking": 6.078708682423863,
+      "articleUrl": "https://venturebeat.com/ai/bolmos-architecture-unlocks-efficient-byte-level-lm-training-without"
+    },
+    {
+      "id": "566",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Mercor",
+      "mediumTitle": "Mercor: AI Staffing",
+      "longTitle": "Mercor Automates Overseas Tech Talent Search",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Initial interviews with candidates are",
+            "also conducted using language model",
+            "technology.",
+            "Language models are used by Mercor to",
+            "analyze resumes and identify qualified",
+            "candidates.",
+            "A key aspect of Mercor\u0027s approach is its",
+            "use of automation to streamline the",
+            "hiring process.",
+            "This innovative recruitment method is a",
+            "central component of Mercor\u2019s business",
+            "model.",
+            "Brendan Foody co-founded Mercor with two",
+            "high school friends in 2023.",
+            "The initial goal of Mercor was to",
+            "provide startups with access to a global",
+            "pool of software engineering expertise.",
+            "The company aims to make it easier and",
+            "more efficient for startups to find",
+            "skilled engineers."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-15T08:00:00.000Z",
+      "ranking": 5.747937379600193,
+      "articleUrl": "https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies"
+    },
+    {
       "id": "563",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -359,7 +359,7 @@
         }
       ],
       "publishedAt": "2025-12-14T20:00:00.000Z",
-      "ranking": 5.925135499644201,
+      "ranking": 5.454650912176509,
       "articleUrl": "https://venturebeat.com/ai/build-vs-buy-is-dead-ai-just-killed-it"
     },
     {
@@ -394,7 +394,7 @@
         }
       ],
       "publishedAt": "2025-12-14T17:24:24.000Z",
-      "ranking": 5.327982745416783,
+      "ranking": 4.821781392562542,
       "articleUrl": "https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting"
     },
     {
@@ -430,7 +430,7 @@
         }
       ],
       "publishedAt": "2025-12-14T04:01:30.000Z",
-      "ranking": 3.5344874358364926,
+      "ranking": 2.843986629901032,
       "articleUrl": "https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/"
     },
     {
@@ -466,7 +466,7 @@
         }
       ],
       "publishedAt": "2025-12-13T21:00:00.000Z",
-      "ranking": 2.9006116291359314,
+      "ranking": 2.113358773810903,
       "articleUrl": "https://venturebeat.com/ai/why-most-enterprise-ai-coding-pilots-underperform-hint-its-not-the-model"
     },
     {
