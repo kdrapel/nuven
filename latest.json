@@ -1,6 +1,43 @@
 {
   "articles": [
     {
+      "id": "581",
+      "topic": "Large Models, Business",
+      "source": "VentureBeat AI",
+      "shortTitle": "SAP Joule",
+      "mediumTitle": "SAP\u0027s Grounded AI for Consulting",
+      "longTitle": "SAP Joule: AI Grounded in Institutional Knowledge",
+      "paragraphs": [
+        {
+          "Lines": [
+            "SAP Joule is deeply integrated with and",
+            "continuously updated by SAP\u2019s knowledge",
+            "base, encompassing terabytes of",
+            "documentation and expertise.",
+            "Future development plans include",
+            "incorporating each customer\u2019s specific",
+            "system data and internal documentation",
+            "for tailored guidance.",
+            "SAP aims to move Joule from being",
+            "\u201CSAP-aware\u201D to \u201Ccustomer-aware,\u201D",
+            "adapting to the consultant\u2019s specific",
+            "role.",
+            "Security and data privacy are",
+            "prioritized, with Joule operating within",
+            "SAP\u2019s AI Foundation and adhering to GDPR",
+            "and EU regulations.",
+            "Traditional \u201Cblack box\u201D AI models pose a",
+            "risk of providing inaccurate guidance,",
+            "which is unacceptable in complex SAP",
+            "transformation projects."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T06:00:00.000Z",
+      "ranking": 7.663636363636364,
+      "articleUrl": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded"
+    },
+    {
       "id": "577",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -75,6 +112,42 @@
       "articleUrl": "https://venturebeat.com/ai/korean-ai-startup-motif-reveals-4-big-lessons-for-training-enterprise-llms"
     },
     {
+      "id": "580",
+      "topic": "Generative AI, Vision",
+      "source": "VentureBeat AI",
+      "shortTitle": "GPT Image 1.5",
+      "mediumTitle": "ChatGPT Gets Image Boost",
+      "longTitle": "OpenAI Updates Image Generation with GPT 5.2",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has updated its image generation",
+            "capabilities within ChatGPT, releasing",
+            "\u201CGPT Image 1.5\u201D powered by GPT 5.2.",
+            "This update positions OpenAI to compete",
+            "with other advanced image generation",
+            "models like Google\u2019s Nano Banana Pro.",
+            "The update aims to improve precision and",
+            "consistency, particularly for enterprise",
+            "and brand use cases.",
+            "The model now better maintains",
+            "consistency in lighting, composition,",
+            "and appearance during image",
+            "modifications.",
+            "The new model demonstrates improved",
+            "ability to handle complex editing",
+            "requests with greater accuracy.",
+            "The AI image generation landscape is",
+            "rapidly evolving, with a growing focus",
+            "on attracting enterprise users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T06:00:00.000Z",
+      "ranking": 7.08,
+      "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
+    },
+    {
       "id": "576",
       "topic": "Dev Tools",
       "source": "VentureBeat AI",
@@ -112,6 +185,42 @@
       "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
     },
     {
+      "id": "582",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "Betting Boom",
+      "mediumTitle": "Gambling Expands Beyond Sports",
+      "longTitle": "Everything is a Bet: New Gambling Trends",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The core argument centers on the idea",
+            "that almost anything with a measurable",
+            "outcome can become a betting",
+            "opportunity.",
+            "These platforms are turning uncertainty",
+            "into an opportunity for betting,",
+            "regardless of how trivial the subject.",
+            "Wagering now extends to predictions",
+            "about specific and seemingly",
+            "unpredictable events.",
+            "The expansion of betting markets is",
+            "fueled by platforms that specialize in",
+            "these unconventional wagers.",
+            "The trend suggests a growing acceptance",
+            "of quantifying and betting on previously",
+            "unpredictable outcomes.",
+            "The article, titled \u0022Everything is",
+            "Gambling Now,\u0022 examines the dramatic",
+            "growth of betting markets."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T12:29:32.000Z",
+      "ranking": 6.475,
+      "articleUrl": "https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast"
+    },
+    {
       "id": "568",
       "topic": "NLP",
       "source": "VentureBeat AI",
@@ -145,7 +254,7 @@
         }
       ],
       "publishedAt": "2025-12-15T06:00:00.000Z",
-      "ranking": 6.242502581602698,
+      "ranking": 5.7325753977727185,
       "articleUrl": "https://venturebeat.com/ai/why-agentic-ai-needs-a-new-category-of-customer-data"
     },
     {
@@ -182,7 +291,7 @@
         }
       ],
       "publishedAt": "2025-12-15T15:18:48.000Z",
-      "ranking": 6.063915518267242,
+      "ranking": 5.685148274114784,
       "articleUrl": "https://www.theverge.com/news/844804/trump-tech-force-usds-apple-google-microsoft"
     },
     {
@@ -217,7 +326,7 @@
         }
       ],
       "publishedAt": "2025-12-15T10:00:00.000Z",
-      "ranking": 5.80862305336907,
+      "ranking": 5.355027983632567,
       "articleUrl": "https://www.theverge.com/report/844454/musicians-tired-of-ai-clones"
     },
     {
@@ -254,7 +363,7 @@
         }
       ],
       "publishedAt": "2025-12-15T12:01:53.000Z",
-      "ranking": 5.704336301715523,
+      "ranking": 5.279349339505311,
       "articleUrl": "https://www.theverge.com/news/844640/merriam-webster-ai-slop-word-of-the-year-2025"
     },
     {
@@ -291,8 +400,42 @@
         }
       ],
       "publishedAt": "2025-12-15T08:12:41.000Z",
-      "ranking": 5.3106332711928825,
+      "ranking": 4.831849139339301,
       "articleUrl": "https://www.theverge.com/news/844538/kindle-app-ask-this-book-ai-ios"
+    },
+    {
+      "id": "567",
+      "topic": "Security",
+      "source": "VentureBeat AI",
+      "shortTitle": "Tokenization",
+      "mediumTitle": "Data Security via Tokenization",
+      "longTitle": "Tokenization: A Modern Data Security Approach",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Securing data \u0027at birth\u0027 (upon creation)",
+            "is more effective than securing it only",
+            "when stored, according to Raghu.",
+            "Vaultless tokenization dynamically",
+            "generates tokens using algorithms and",
+            "cryptographic techniques, eliminating a",
+            "central vault.",
+            "Tokenization separates data value from",
+            "its inherent risk, presenting it as a",
+            "leading data security method.",
+            "Tokens map back to the original data,",
+            "which is securely stored in a digital",
+            "vault, preserving data format and",
+            "usability.",
+            "Databolt integrates seamlessly with",
+            "existing data warehouses and operates",
+            "within the customer\u2019s environment."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-15T16:00:00.000Z",
+      "ranking": 4.799123533540463,
+      "articleUrl": "https://venturebeat.com/ai/tokenization-takes-the-lead-in-the-fight-for-data-security"
     },
     {
       "id": "574",
@@ -327,42 +470,8 @@
         }
       ],
       "publishedAt": "2025-12-15T06:00:00.000Z",
-      "ranking": 5.2370538414306065,
+      "ranking": 4.72712665161124,
       "articleUrl": "https://venturebeat.com/ai/bolmos-architecture-unlocks-efficient-byte-level-lm-training-without"
-    },
-    {
-      "id": "567",
-      "topic": "Security",
-      "source": "VentureBeat AI",
-      "shortTitle": "Tokenization",
-      "mediumTitle": "Data Security via Tokenization",
-      "longTitle": "Tokenization: A Modern Data Security Approach",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Securing data \u0027at birth\u0027 (upon creation)",
-            "is more effective than securing it only",
-            "when stored, according to Raghu.",
-            "Vaultless tokenization dynamically",
-            "generates tokens using algorithms and",
-            "cryptographic techniques, eliminating a",
-            "central vault.",
-            "Tokenization separates data value from",
-            "its inherent risk, presenting it as a",
-            "leading data security method.",
-            "Tokens map back to the original data,",
-            "which is securely stored in a digital",
-            "vault, preserving data format and",
-            "usability.",
-            "Databolt integrates seamlessly with",
-            "existing data warehouses and operates",
-            "within the customer\u2019s environment."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T16:00:00.000Z",
-      "ranking": 5.168220429740384,
-      "articleUrl": "https://venturebeat.com/ai/tokenization-takes-the-lead-in-the-fight-for-data-security"
     },
     {
       "id": "566",
@@ -398,7 +507,7 @@
         }
       ],
       "publishedAt": "2025-12-15T08:00:00.000Z",
-      "ranking": 4.962090571140352,
+      "ranking": 4.480329442009294,
       "articleUrl": "https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies"
     },
     {
@@ -433,7 +542,7 @@
         }
       ],
       "publishedAt": "2025-12-14T20:00:00.000Z",
-      "ranking": 4.333955771248128,
+      "ranking": 3.68319825036504,
       "articleUrl": "https://venturebeat.com/ai/build-vs-buy-is-dead-ai-just-killed-it"
     },
     {
@@ -468,7 +577,7 @@
         }
       ],
       "publishedAt": "2025-12-14T17:24:24.000Z",
-      "ranking": 3.628721827188105,
+      "ranking": 2.941442318972423,
       "articleUrl": "https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting"
     },
     {
@@ -504,7 +613,7 @@
         }
       ],
       "publishedAt": "2025-12-14T04:01:30.000Z",
-      "ranking": 1.2775247908633398,
+      "ranking": 0.4017908921780915,
       "articleUrl": "https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/"
     },
     {
@@ -540,7 +649,7 @@
         }
       ],
       "publishedAt": "2025-12-13T21:00:00.000Z",
-      "ranking": 0.3508712043950206,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/why-most-enterprise-ai-coding-pilots-underperform-hint-its-not-the-model"
     },
     {
@@ -1184,77 +1293,6 @@
       "publishedAt": "2025-12-11T10:30:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/nous-research-just-released-nomos-1-an-open-source-ai-that-ranks-second-on"
-    },
-    {
-      "id": "531",
-      "topic": "Business",
-      "source": "VentureBeat AI",
-      "shortTitle": "NetSuite AI",
-      "mediumTitle": "NetSuite\u0027s Trustworthy AI",
-      "longTitle": "Oracle NetSuite Launches AI-Driven Platform",
-      "paragraphs": [
-        {
-          "Lines": [
-            "NetSuite Next is Oracle NetSuite\u2019s",
-            "largest product release in nearly three",
-            "decades, focusing on trustworthy AI.",
-            "Critical processes, like those impacting",
-            "the general ledger, require 100%",
-            "accuracy and human review.",
-            "The platform aims for a \u201Cglass-box\u201D",
-            "approach where AI decisions are visible",
-            "and operate within defined guardrails.",
-            "NetSuite is designing AI systems for",
-            "accountability, enabling users to trace",
-            "the reasoning behind AI-driven",
-            "decisions.",
-            "NetSuite believes that transparent and",
-            "governable AI will be a key",
-            "differentiator in the market.",
-            "Auditing is extended to AI, with every",
-            "action and code snippet recorded within",
-            "the existing audit framework."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/creating-a-glass-box-how-netsuite-is-engineering-trust-into-ai"
-    },
-    {
-      "id": "540",
-      "topic": "NLP, Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Cohere Rerank 4",
-      "mediumTitle": "Cohere Releases Rerank 4",
-      "longTitle": "Cohere\u0027s Rerank 4 Improves Search Relevance",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Rerank 4 is the first reranking model",
-            "with self-learning capabilities.",
-            "Benchmarks show Rerank 4 often",
-            "outperforms competitors like Qwen",
-            "Reranker 8B and MongoDB\u2019s Voyage Rerank",
-            "2.5.",
-            "Users can customize the model without",
-            "additional annotated data by providing",
-            "preferences regarding content types.",
-            "Cohere has released Rerank 4, the latest",
-            "version of its search model, building",
-            "upon Rerank 3.5.",
-            "Self-learning consistently improved",
-            "retrieval quality in healthcare",
-            "datasets.",
-            "Rerank 4 addresses limitations of",
-            "bi-encoder embeddings by using a",
-            "cross-encoder architecture."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/coheres-rerank-4-quadruples-the-context-window-to-cut-agent-errors-and-boost"
     }
   ]
 }
