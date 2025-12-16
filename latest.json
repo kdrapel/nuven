@@ -1,6 +1,43 @@
 {
   "articles": [
     {
+      "id": "577",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Zoom AI",
+      "mediumTitle": "Zoom Leads AI Benchmark",
+      "longTitle": "Zoom\u0027s Federated AI Approach Excels",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Zoom\u2019s leading score of 48.1% on the",
+            "\u0027Humanity\u0027s Last Exam\u0027 (HLE) benchmark",
+            "surpassed Google\u2019s Gemini 3 Pro\u2019s 45.8%.",
+            "The \u0027Humanity\u0027s Last Exam\u0027 is designed",
+            "to be exceptionally difficult, requiring",
+            "genuine understanding and complex",
+            "reasoning, unlike earlier, easily",
+            "\u0027gamed\u0027 benchmarks.",
+            "Zoom did not build its own large",
+            "language model (LLM) but instead",
+            "developed a system to intelligently",
+            "combine outputs from existing models.",
+            "The \u0027Z-scorer\u0027 is Zoom\u2019s proprietary",
+            "software used to select, combine, and",
+            "refine the outputs from different AI",
+            "models.",
+            "The real test will be whether AI",
+            "Companion 3.0 delivers tangible benefits",
+            "like accurate summaries and time",
+            "savings."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T15:00:00.000Z",
+      "ranking": 7.630769230769231,
+      "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
+    },
+    {
       "id": "573",
       "topic": "Large Models, Training Tricks",
       "source": "VentureBeat AI",
@@ -38,41 +75,41 @@
       "articleUrl": "https://venturebeat.com/ai/korean-ai-startup-motif-reveals-4-big-lessons-for-training-enterprise-llms"
     },
     {
-      "id": "575",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "US Tech Force",
-      "mediumTitle": "Trump Launches Tech Initiative",
-      "longTitle": "US Tech Force to Modernize Government",
+      "id": "576",
+      "topic": "Dev Tools",
+      "source": "VentureBeat AI",
+      "shortTitle": "Zenflow",
+      "mediumTitle": "Zencoder Launches Zenflow",
+      "longTitle": "Zenflow: AI Orchestration for Developers",
       "paragraphs": [
         {
           "Lines": [
-            "President Donald Trump is the driving",
-            "force behind the new US Tech Force",
-            "initiative.",
-            "The program\u0027s core goal is to bring",
-            "technological expertise into various",
-            "federal agencies.",
-            "Approximately 1,000 specialists are",
-            "expected to be recruited through this",
-            "program.",
-            "Amazon is one of the major technology",
-            "companies being targeted for talent",
-            "acquisition.",
-            "Apple is also included among the",
-            "companies from which the US Tech Force",
-            "will draw its personnel.",
-            "Google is a key partner in providing",
-            "technology professionals for the",
-            "initiative.",
-            "Meta, formerly known as Facebook, is",
-            "also contributing to the talent pool."
+            "Multi-agent verification uses different",
+            "AI models, like Claude and OpenAI, to",
+            "critique each other\u2019s work, improving",
+            "code quality.",
+            "Zencoder launched Zenflow to address the",
+            "gap between the promised 10x",
+            "productivity boosts from AI coding and",
+            "the actual 20% improvements observed.",
+            "Zencoder is addressing the issue of",
+            "AI-generated \u0027slop\u0027 \u2013 code that appears",
+            "correct but fails in practice \u2013 through",
+            "robust verification.",
+            "Zencoder argues that adopting",
+            "orchestration tools now is crucial to",
+            "achieve the expected productivity gains",
+            "from AI.",
+            "Developers can get stuck in \u0027death",
+            "loops\u0027 trying to fix poorly understood",
+            "AI-generated code, a problem Zenflow",
+            "aims to solve."
           ]
         }
       ],
-      "publishedAt": "2025-12-15T15:18:48.000Z",
-      "ranking": 7.1375,
-      "articleUrl": "https://www.theverge.com/news/844804/trump-tech-force-usds-apple-google-microsoft"
+      "publishedAt": "2025-12-16T15:00:00.000Z",
+      "ranking": 6.935714285714286,
+      "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
     },
     {
       "id": "568",
@@ -108,8 +145,45 @@
         }
       ],
       "publishedAt": "2025-12-15T06:00:00.000Z",
-      "ranking": 6.6941718512509745,
+      "ranking": 6.242502581602698,
       "articleUrl": "https://venturebeat.com/ai/why-agentic-ai-needs-a-new-category-of-customer-data"
+    },
+    {
+      "id": "575",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "US Tech Force",
+      "mediumTitle": "Trump Launches Tech Initiative",
+      "longTitle": "US Tech Force to Modernize Government",
+      "paragraphs": [
+        {
+          "Lines": [
+            "President Donald Trump is the driving",
+            "force behind the new US Tech Force",
+            "initiative.",
+            "The program\u0027s core goal is to bring",
+            "technological expertise into various",
+            "federal agencies.",
+            "Approximately 1,000 specialists are",
+            "expected to be recruited through this",
+            "program.",
+            "Amazon is one of the major technology",
+            "companies being targeted for talent",
+            "acquisition.",
+            "Apple is also included among the",
+            "companies from which the US Tech Force",
+            "will draw its personnel.",
+            "Google is a key partner in providing",
+            "technology professionals for the",
+            "initiative.",
+            "Meta, formerly known as Facebook, is",
+            "also contributing to the talent pool."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-15T15:18:48.000Z",
+      "ranking": 6.063915518267242,
+      "articleUrl": "https://www.theverge.com/news/844804/trump-tech-force-usds-apple-google-microsoft"
     },
     {
       "id": "572",
@@ -143,42 +217,8 @@
         }
       ],
       "publishedAt": "2025-12-15T10:00:00.000Z",
-      "ranking": 6.204111341080482,
+      "ranking": 5.80862305336907,
       "articleUrl": "https://www.theverge.com/report/844454/musicians-tired-of-ai-clones"
-    },
-    {
-      "id": "567",
-      "topic": "Security",
-      "source": "VentureBeat AI",
-      "shortTitle": "Tokenization",
-      "mediumTitle": "Data Security via Tokenization",
-      "longTitle": "Tokenization: A Modern Data Security Approach",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Securing data \u0027at birth\u0027 (upon creation)",
-            "is more effective than securing it only",
-            "when stored, according to Raghu.",
-            "Vaultless tokenization dynamically",
-            "generates tokens using algorithms and",
-            "cryptographic techniques, eliminating a",
-            "central vault.",
-            "Tokenization separates data value from",
-            "its inherent risk, presenting it as a",
-            "leading data security method.",
-            "Tokens map back to the original data,",
-            "which is securely stored in a digital",
-            "vault, preserving data format and",
-            "usability.",
-            "Databolt integrates seamlessly with",
-            "existing data warehouses and operates",
-            "within the customer\u2019s environment."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T16:00:00.000Z",
-      "ranking": 6.183333333333333,
-      "articleUrl": "https://venturebeat.com/ai/tokenization-takes-the-lead-in-the-fight-for-data-security"
     },
     {
       "id": "570",
@@ -214,7 +254,7 @@
         }
       ],
       "publishedAt": "2025-12-15T12:01:53.000Z",
-      "ranking": 6.071293228173404,
+      "ranking": 5.704336301715523,
       "articleUrl": "https://www.theverge.com/news/844640/merriam-webster-ai-slop-word-of-the-year-2025"
     },
     {
@@ -251,7 +291,7 @@
         }
       ],
       "publishedAt": "2025-12-15T08:12:41.000Z",
-      "ranking": 5.731243038887094,
+      "ranking": 5.3106332711928825,
       "articleUrl": "https://www.theverge.com/news/844538/kindle-app-ask-this-book-ai-ios"
     },
     {
@@ -287,8 +327,42 @@
         }
       ],
       "publishedAt": "2025-12-15T06:00:00.000Z",
-      "ranking": 5.688723111729459,
+      "ranking": 5.2370538414306065,
       "articleUrl": "https://venturebeat.com/ai/bolmos-architecture-unlocks-efficient-byte-level-lm-training-without"
+    },
+    {
+      "id": "567",
+      "topic": "Security",
+      "source": "VentureBeat AI",
+      "shortTitle": "Tokenization",
+      "mediumTitle": "Data Security via Tokenization",
+      "longTitle": "Tokenization: A Modern Data Security Approach",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Securing data \u0027at birth\u0027 (upon creation)",
+            "is more effective than securing it only",
+            "when stored, according to Raghu.",
+            "Vaultless tokenization dynamically",
+            "generates tokens using algorithms and",
+            "cryptographic techniques, eliminating a",
+            "central vault.",
+            "Tokenization separates data value from",
+            "its inherent risk, presenting it as a",
+            "leading data security method.",
+            "Tokens map back to the original data,",
+            "which is securely stored in a digital",
+            "vault, preserving data format and",
+            "usability.",
+            "Databolt integrates seamlessly with",
+            "existing data warehouses and operates",
+            "within the customer\u2019s environment."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-15T16:00:00.000Z",
+      "ranking": 5.168220429740384,
+      "articleUrl": "https://venturebeat.com/ai/tokenization-takes-the-lead-in-the-fight-for-data-security"
     },
     {
       "id": "566",
@@ -324,7 +398,7 @@
         }
       ],
       "publishedAt": "2025-12-15T08:00:00.000Z",
-      "ranking": 5.385669352492595,
+      "ranking": 4.962090571140352,
       "articleUrl": "https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies"
     },
     {
@@ -359,7 +433,7 @@
         }
       ],
       "publishedAt": "2025-12-14T20:00:00.000Z",
-      "ranking": 4.926077562829192,
+      "ranking": 4.333955771248128,
       "articleUrl": "https://venturebeat.com/ai/build-vs-buy-is-dead-ai-just-killed-it"
     },
     {
@@ -394,7 +468,7 @@
         }
       ],
       "publishedAt": "2025-12-14T17:24:24.000Z",
-      "ranking": 4.25726762435859,
+      "ranking": 3.628721827188105,
       "articleUrl": "https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting"
     },
     {
@@ -430,7 +504,7 @@
         }
       ],
       "publishedAt": "2025-12-14T04:01:30.000Z",
-      "ranking": 2.0940193953224453,
+      "ranking": 1.2775247908633398,
       "articleUrl": "https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/"
     },
     {
@@ -466,7 +540,7 @@
         }
       ],
       "publishedAt": "2025-12-13T21:00:00.000Z",
-      "ranking": 1.2660336656351383,
+      "ranking": 0.3508712043950206,
       "articleUrl": "https://venturebeat.com/ai/why-most-enterprise-ai-coding-pilots-underperform-hint-its-not-the-model"
     },
     {
@@ -1112,41 +1186,6 @@
       "articleUrl": "https://venturebeat.com/ai/nous-research-just-released-nomos-1-an-open-source-ai-that-ranks-second-on"
     },
     {
-      "id": "540",
-      "topic": "NLP, Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Cohere Rerank 4",
-      "mediumTitle": "Cohere Releases Rerank 4",
-      "longTitle": "Cohere\u0027s Rerank 4 Improves Search Relevance",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Rerank 4 is the first reranking model",
-            "with self-learning capabilities.",
-            "Benchmarks show Rerank 4 often",
-            "outperforms competitors like Qwen",
-            "Reranker 8B and MongoDB\u2019s Voyage Rerank",
-            "2.5.",
-            "Users can customize the model without",
-            "additional annotated data by providing",
-            "preferences regarding content types.",
-            "Cohere has released Rerank 4, the latest",
-            "version of its search model, building",
-            "upon Rerank 3.5.",
-            "Self-learning consistently improved",
-            "retrieval quality in healthcare",
-            "datasets.",
-            "Rerank 4 addresses limitations of",
-            "bi-encoder embeddings by using a",
-            "cross-encoder architecture."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/coheres-rerank-4-quadruples-the-context-window-to-cut-agent-errors-and-boost"
-    },
-    {
       "id": "531",
       "topic": "Business",
       "source": "VentureBeat AI",
@@ -1183,114 +1222,39 @@
       "articleUrl": "https://venturebeat.com/ai/creating-a-glass-box-how-netsuite-is-engineering-trust-into-ai"
     },
     {
-      "id": "528",
-      "topic": "Model Eval",
+      "id": "540",
+      "topic": "NLP, Large Models",
       "source": "VentureBeat AI",
-      "shortTitle": "LLM Factuality",
-      "mediumTitle": "Google\u0027s FACTS Benchmark",
-      "longTitle": "Evaluating LLM Factuality with FACTS",
+      "shortTitle": "Cohere Rerank 4",
+      "mediumTitle": "Cohere Releases Rerank 4",
+      "longTitle": "Cohere\u0027s Rerank 4 Improves Search Relevance",
       "paragraphs": [
         {
           "Lines": [
-            "The overall message is that LLMs are not",
-            "yet infallible and systems should be",
-            "designed anticipating a significant",
-            "error rate.",
-            "The Multimodal benchmark yielded the",
-            "lowest scores (under 50%), indicating",
-            "LLMs struggle with unsupervised data",
-            "extraction from visual sources.",
-            "Gemini 3 Pro achieved 83.8% on Search",
-            "tasks but only 76.4% on Parametric",
-            "tasks, highlighting the need for",
-            "external knowledge sources.",
-            "Deploying AI to automatically process",
-            "visual data without human review carries",
-            "a high risk of errors, according to the",
-            "benchmark results.",
-            "Existing LLM benchmarks often prioritize",
-            "task completion over factual",
-            "correctness, which is crucial for",
-            "sensitive applications."
+            "Rerank 4 is the first reranking model",
+            "with self-learning capabilities.",
+            "Benchmarks show Rerank 4 often",
+            "outperforms competitors like Qwen",
+            "Reranker 8B and MongoDB\u2019s Voyage Rerank",
+            "2.5.",
+            "Users can customize the model without",
+            "additional annotated data by providing",
+            "preferences regarding content types.",
+            "Cohere has released Rerank 4, the latest",
+            "version of its search model, building",
+            "upon Rerank 3.5.",
+            "Self-learning consistently improved",
+            "retrieval quality in healthcare",
+            "datasets.",
+            "Rerank 4 addresses limitations of",
+            "bi-encoder embeddings by using a",
+            "cross-encoder architecture."
           ]
         }
       ],
-      "publishedAt": "2025-12-11T00:00:00.000Z",
+      "publishedAt": "2025-12-11T06:00:00.000Z",
       "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/the-70-factuality-ceiling-why-googles-new-facts-benchmark-is-a-wake-up-call"
-    },
-    {
-      "id": "529",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Spotify AI",
-      "mediumTitle": "Spotify Tests AI Playlists",
-      "longTitle": "Spotify\u0027s \u0027Prompted Playlists\u0027 Beta",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Spotify is currently testing a new beta",
-            "feature that leverages artificial",
-            "intelligence to create personalized",
-            "playlists.",
-            "This feature allows users to directly",
-            "influence the algorithmic selection of",
-            "their music.",
-            "The system\u2019s AI component is responsible",
-            "for understanding and translating the",
-            "text prompts into musical selections.",
-            "Users are no longer solely reliant on",
-            "Spotify\u2019s pre-determined algorithmic",
-            "choices.",
-            "This represents a shift towards greater",
-            "user agency in playlist creation on",
-            "Spotify.",
-            "\u2018Discover Weekly\u2019 already provides",
-            "algorithmic playlists, but lacks the",
-            "direct prompt-based control of the new",
-            "feature."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-10T18:11:57.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/842053/spotify-ai-prompted-playlists"
-    },
-    {
-      "id": "500",
-      "topic": "Business",
-      "source": "VentureBeat AI",
-      "shortTitle": "SAP \u0026 AI",
-      "mediumTitle": "SAP\u0027s AI Co-Pilot Test",
-      "longTitle": "SAP Consultant Acceptance of AI Joule",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The experiment highlighted a significant",
-            "bias against AI-generated work among",
-            "experienced SAP consultants.",
-            "Only through individual validation did",
-            "the team aware of the AI\u2019s origin",
-            "recognize the 95% accuracy of the",
-            "responses.",
-            "Joule is designed to amplify consultant",
-            "expertise, not replace it.",
-            "SAP envisions a future of \u0027agentic AI\u0027",
-            "that proactively interprets business",
-            "processes and handles tasks",
-            "autonomously.",
-            "SAP believes careful communication about",
-            "AI\u2019s capabilities is crucial for",
-            "successful adoption.",
-            "SAP believes its process knowledge and",
-            "data will drive significant advancements",
-            "in AI-driven problem-solving."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-10T16:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/the-ai-that-scored-95-until-consultants-learned-it-was-ai"
+      "articleUrl": "https://venturebeat.com/ai/coheres-rerank-4-quadruples-the-context-window-to-cut-agent-errors-and-boost"
     }
   ]
 }
