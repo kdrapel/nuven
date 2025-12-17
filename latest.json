@@ -1,79 +1,6 @@
 {
   "articles": [
     {
-      "id": "585",
-      "topic": "Vision, Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "GPT Image 1.5",
-      "mediumTitle": "OpenAI Updates Image Gen",
-      "longTitle": "OpenAI Releases GPT Image 1.5 Update",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has released a significant update",
-            "to its image generation capabilities",
-            "with the introduction of GPT Image 1.5,",
-            "its new flagship model.",
-            "Specifically, GPT Image 1.5 demonstrates",
-            "a heightened ability to accurately",
-            "follow user instructions when creating",
-            "images.",
-            "Furthermore, the generation speed has",
-            "been substantially increased, with",
-            "OpenAI claiming results are produced up",
-            "to four times faster than with previous",
-            "models.",
-            "It also offers enhanced photo editing",
-            "functionality, allowing for more precise",
-            "modifications to existing images.",
-            "The new features are available to users",
-            "starting Tuesday, providing immediate",
-            "access to the improvements."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T14:15:36.000Z",
-      "ranking": 7.779999999999999,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-model-gpt-image-1-5"
-    },
-    {
-      "id": "577",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Zoom AI",
-      "mediumTitle": "Zoom Leads AI Benchmark",
-      "longTitle": "Zoom\u0027s Federated AI Approach Excels",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Zoom\u2019s leading score of 48.1% on the",
-            "\u0027Humanity\u0027s Last Exam\u0027 (HLE) benchmark",
-            "surpassed Google\u2019s Gemini 3 Pro\u2019s 45.8%.",
-            "The \u0027Humanity\u0027s Last Exam\u0027 is designed",
-            "to be exceptionally difficult, requiring",
-            "genuine understanding and complex",
-            "reasoning, unlike earlier, easily",
-            "\u0027gamed\u0027 benchmarks.",
-            "Zoom did not build its own large",
-            "language model (LLM) but instead",
-            "developed a system to intelligently",
-            "combine outputs from existing models.",
-            "The \u0027Z-scorer\u0027 is Zoom\u2019s proprietary",
-            "software used to select, combine, and",
-            "refine the outputs from different AI",
-            "models.",
-            "The real test will be whether AI",
-            "Companion 3.0 delivers tangible benefits",
-            "like accurate summaries and time",
-            "savings."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 7.630769230769231,
-      "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
-    },
-    {
       "id": "589",
       "topic": "Training Tricks",
       "source": "Marktechpost AI",
@@ -110,6 +37,152 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
     },
     {
+      "id": "592",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "Tesla Warning",
+      "mediumTitle": "Tesla Faces CA Sales Ban",
+      "longTitle": "Tesla\u0027s Autopilot Marketing Under Scrutiny",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The terms \u201CAutopilot\u201D and \u201CFull",
+            "Self-Driving\u201D imply a level of autonomy",
+            "the technology doesn\u2019t currently",
+            "achieve, according to the DMV.",
+            "A suspension or revocation of Tesla\u2019s",
+            "California license would significantly",
+            "impact the company\u2019s sales.",
+            "The DMV aims to ensure consumers",
+            "understand the limitations of the",
+            "technology and maintain full driver",
+            "attention.",
+            "California represents a substantial",
+            "market share for electric vehicles,",
+            "making this a critical issue for Tesla.",
+            "An administrative law judge supported",
+            "the DMV\u2019s assessment that Tesla\u2019s",
+            "marketing was deceptive.",
+            "The California Department of Motor",
+            "Vehicles (DMV) issued the warning to",
+            "Tesla regarding its marketing practices."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-17T07:48:33.000Z",
+      "ranking": 7.02,
+      "articleUrl": "https://www.theverge.com/news/846152/tesla-autopilot-marketing-deceptive-california-dmv"
+    },
+    {
+      "id": "590",
+      "topic": "Training Tricks",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Training",
+      "mediumTitle": "Patronus AI: New AI Training",
+      "longTitle": "Patronus AI Unveils Generative Simulators",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Patronus AI, backed by $20 million in",
+            "investment, is addressing the 63%",
+            "failure rate of AI agents on complex",
+            "tasks.",
+            "A core component of the system is a",
+            "\u0027curriculum adjuster\u0027 that dynamically",
+            "modifies training difficulty to keep",
+            "agents challenged.",
+            "ORSI creates a constantly evolving",
+            "environment, making it harder for AI to",
+            "exploit loopholes in the training",
+            "process.",
+            "The \u0027Generative Simulators\u0027 architecture",
+            "is designed to provide a more realistic",
+            "and effective training process for AI",
+            "agents.",
+            "Competition in this space is growing,",
+            "with offerings from Microsoft, NVIDIA,",
+            "and Meta."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-17T15:00:00.000Z",
+      "ranking": 6.995454545454546,
+      "articleUrl": "https://venturebeat.com/technology/ai-agents-fail-63-of-the-time-on-complex-tasks-patronus-ai-says-its-new"
+    },
+    {
+      "id": "585",
+      "topic": "Vision, Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "GPT Image 1.5",
+      "mediumTitle": "OpenAI Updates Image Gen",
+      "longTitle": "OpenAI Releases GPT Image 1.5 Update",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has released a significant update",
+            "to its image generation capabilities",
+            "with the introduction of GPT Image 1.5,",
+            "its new flagship model.",
+            "Specifically, GPT Image 1.5 demonstrates",
+            "a heightened ability to accurately",
+            "follow user instructions when creating",
+            "images.",
+            "Furthermore, the generation speed has",
+            "been substantially increased, with",
+            "OpenAI claiming results are produced up",
+            "to four times faster than with previous",
+            "models.",
+            "It also offers enhanced photo editing",
+            "functionality, allowing for more precise",
+            "modifications to existing images.",
+            "The new features are available to users",
+            "starting Tuesday, providing immediate",
+            "access to the improvements."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T14:15:36.000Z",
+      "ranking": 6.612716789929333,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-model-gpt-image-1-5"
+    },
+    {
+      "id": "577",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Zoom AI",
+      "mediumTitle": "Zoom Leads AI Benchmark",
+      "longTitle": "Zoom\u0027s Federated AI Approach Excels",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Zoom\u2019s leading score of 48.1% on the",
+            "\u0027Humanity\u0027s Last Exam\u0027 (HLE) benchmark",
+            "surpassed Google\u2019s Gemini 3 Pro\u2019s 45.8%.",
+            "The \u0027Humanity\u0027s Last Exam\u0027 is designed",
+            "to be exceptionally difficult, requiring",
+            "genuine understanding and complex",
+            "reasoning, unlike earlier, easily",
+            "\u0027gamed\u0027 benchmarks.",
+            "Zoom did not build its own large",
+            "language model (LLM) but instead",
+            "developed a system to intelligently",
+            "combine outputs from existing models.",
+            "The \u0027Z-scorer\u0027 is Zoom\u2019s proprietary",
+            "software used to select, combine, and",
+            "refine the outputs from different AI",
+            "models.",
+            "The real test will be whether AI",
+            "Companion 3.0 delivers tangible benefits",
+            "like accurate summaries and time",
+            "savings."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T15:00:00.000Z",
+      "ranking": 6.529160532457126,
+      "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
+    },
+    {
       "id": "576",
       "topic": "Dev Tools",
       "source": "VentureBeat AI",
@@ -143,44 +216,8 @@
         }
       ],
       "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 6.935714285714286,
+      "ranking": 5.834105584338489,
       "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
-    },
-    {
-      "id": "582",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "Betting Boom",
-      "mediumTitle": "Gambling Expands Beyond Sports",
-      "longTitle": "Everything is a Bet: New Gambling Trends",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The core argument centers on the idea",
-            "that almost anything with a measurable",
-            "outcome can become a betting",
-            "opportunity.",
-            "These platforms are turning uncertainty",
-            "into an opportunity for betting,",
-            "regardless of how trivial the subject.",
-            "Wagering now extends to predictions",
-            "about specific and seemingly",
-            "unpredictable events.",
-            "The expansion of betting markets is",
-            "fueled by platforms that specialize in",
-            "these unconventional wagers.",
-            "The trend suggests a growing acceptance",
-            "of quantifying and betting on previously",
-            "unpredictable outcomes.",
-            "The article, titled \u0022Everything is",
-            "Gambling Now,\u0022 examines the dramatic",
-            "growth of betting markets."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T12:29:32.000Z",
-      "ranking": 6.475,
-      "articleUrl": "https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast"
     },
     {
       "id": "581",
@@ -216,8 +253,44 @@
         }
       ],
       "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 6.0833381102692465,
+      "ranking": 5.634221043005153,
       "articleUrl": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded"
+    },
+    {
+      "id": "582",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "Betting Boom",
+      "mediumTitle": "Gambling Expands Beyond Sports",
+      "longTitle": "Everything is a Bet: New Gambling Trends",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The core argument centers on the idea",
+            "that almost anything with a measurable",
+            "outcome can become a betting",
+            "opportunity.",
+            "These platforms are turning uncertainty",
+            "into an opportunity for betting,",
+            "regardless of how trivial the subject.",
+            "Wagering now extends to predictions",
+            "about specific and seemingly",
+            "unpredictable events.",
+            "The expansion of betting markets is",
+            "fueled by platforms that specialize in",
+            "these unconventional wagers.",
+            "The trend suggests a growing acceptance",
+            "of quantifying and betting on previously",
+            "unpredictable outcomes.",
+            "The article, titled \u0022Everything is",
+            "Gambling Now,\u0022 examines the dramatic",
+            "growth of betting markets."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T12:29:32.000Z",
+      "ranking": 5.143131136233954,
+      "articleUrl": "https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast"
     },
     {
       "id": "580",
@@ -252,7 +325,7 @@
         }
       ],
       "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 5.499701743504684,
+      "ranking": 5.050584670827932,
       "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
     },
     {
@@ -289,7 +362,7 @@
         }
       ],
       "publishedAt": "2025-12-15T21:16:00.000Z",
-      "ranking": 4.993826366389447,
+      "ranking": 4.422823728619065,
       "articleUrl": "https://venturebeat.com/ai/korean-ai-startup-motif-reveals-4-big-lessons-for-training-enterprise-llms"
     },
     {
@@ -326,7 +399,7 @@
         }
       ],
       "publishedAt": "2025-12-15T15:18:48.000Z",
-      "ranking": 3.64417605710507,
+      "ranking": 2.9900865419210527,
       "articleUrl": "https://www.theverge.com/news/844804/trump-tech-force-usds-apple-google-microsoft"
     },
     {
@@ -363,7 +436,7 @@
         }
       ],
       "publishedAt": "2025-12-15T06:00:00.000Z",
-      "ranking": 3.1763367729838494,
+      "ranking": 2.3922669930734077,
       "articleUrl": "https://venturebeat.com/ai/why-agentic-ai-needs-a-new-category-of-customer-data"
     },
     {
@@ -400,7 +473,7 @@
         }
       ],
       "publishedAt": "2025-12-15T12:01:53.000Z",
-      "ranking": 3.05680134795694,
+      "ranking": 2.356907814083918,
       "articleUrl": "https://www.theverge.com/news/844640/merriam-webster-ai-slop-word-of-the-year-2025"
     },
     {
@@ -435,7 +508,7 @@
         }
       ],
       "publishedAt": "2025-12-15T10:00:00.000Z",
-      "ranking": 3.020092033157118,
+      "ranking": 2.2918476962314847,
       "articleUrl": "https://www.theverge.com/report/844454/musicians-tired-of-ai-clones"
     },
     {
@@ -469,7 +542,7 @@
         }
       ],
       "publishedAt": "2025-12-15T16:00:00.000Z",
-      "ranking": 2.796141603364572,
+      "ranking": 2.1516354411663343,
       "articleUrl": "https://venturebeat.com/ai/tokenization-takes-the-lead-in-the-fight-for-data-security"
     },
     {
@@ -506,7 +579,7 @@
         }
       ],
       "publishedAt": "2025-12-15T08:12:41.000Z",
-      "ranking": 2.397957075859379,
+      "ranking": 1.644750233969857,
       "articleUrl": "https://www.theverge.com/news/844538/kindle-app-ask-this-book-ai-ios"
     },
     {
@@ -542,7 +615,7 @@
         }
       ],
       "publishedAt": "2025-12-15T06:00:00.000Z",
-      "ranking": 2.170888021189093,
+      "ranking": 1.3868182335645454,
       "articleUrl": "https://venturebeat.com/ai/bolmos-architecture-unlocks-efficient-byte-level-lm-training-without"
     },
     {
@@ -579,7 +652,7 @@
         }
       ],
       "publishedAt": "2025-12-15T08:00:00.000Z",
-      "ranking": 2.034742148805102,
+      "ranking": 1.2785850847702767,
       "articleUrl": "https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies"
     },
     {
@@ -614,7 +687,7 @@
         }
       ],
       "publishedAt": "2025-12-14T20:00:00.000Z",
-      "ranking": 0.573703589880453,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/build-vs-buy-is-dead-ai-just-killed-it"
     },
     {
@@ -1047,111 +1120,6 @@
       "publishedAt": "2025-12-11T18:46:11.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/842978/amazon-prime-video-ai-fallout-recap"
-    },
-    {
-      "id": "541",
-      "topic": "Policy, Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "NY AI Ads",
-      "mediumTitle": "New York Requires AI Ad Disclosure",
-      "longTitle": "New York State Mandates Disclosure of AI-Generated Ads",
-      "paragraphs": [
-        {
-          "Lines": [
-            "New York State has enacted a",
-            "first-of-its-kind law in the United",
-            "States regarding the use of artificial",
-            "intelligence in advertising.",
-            "Advertisers are now legally obligated to",
-            "disclose when an advertisement features",
-            "an AI-generated person.",
-            "New York is the first state in the US to",
-            "implement such a comprehensive law",
-            "concerning AI-generated advertising.",
-            "The law specifically targets",
-            "advertisements that utilize AI to create",
-            "images or videos of individuals.",
-            "The legislation addresses the growing",
-            "concern of realistic AI-generated",
-            "content being used to mislead the",
-            "public."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T17:30:15.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/842848/new-york-law-ai-advertisements-sag-aftra-labor"
-    },
-    {
-      "id": "530",
-      "topic": "Business",
-      "source": "VentureBeat AI",
-      "shortTitle": "Marble AI",
-      "mediumTitle": "AI for Accounting",
-      "longTitle": "Marble Secures $9M to Boost Tax Efficiency",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Marble secured $9 million in seed",
-            "funding led by Susa Ventures, with",
-            "participation from MXV Capital and",
-            "Konrad Capital.",
-            "Marble aims to enable accountants to",
-            "shift from repetitive tasks to",
-            "higher-value advisory work, addressing",
-            "unmet demand for strategic services.",
-            "Data security is a top priority for",
-            "Marble, focusing on building secure",
-            "systems from the ground up due to the",
-            "sensitive nature of financial",
-            "information.",
-            "Ultimately, Marble hopes to reshape the",
-            "accounting industry, allowing firms to",
-            "focus on strategic planning and client",
-            "relationships."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/marble-enters-the-race-to-bring-ai-to-tax-work-armed-with-usd9-million-and-a"
-    },
-    {
-      "id": "542",
-      "topic": "NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Chrome Apps",
-      "mediumTitle": "Chrome Develops AI Apps",
-      "longTitle": "Google Chrome: AI-Powered Web Apps",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Crucially, these opened tabs are then",
-            "compiled into a custom-built",
-            "application.",
-            "The system differs from traditional",
-            "browsing by automatically opening",
-            "related tabs based on a user\u2019s input.",
-            "The core idea is to streamline the",
-            "often-tedious process of researching a",
-            "topic across multiple websites.",
-            "The browser automatically handles",
-            "opening and navigating numerous tabs for",
-            "the user.",
-            "Google\u2019s Chrome team is actively",
-            "developing this experimental new browser",
-            "functionality.",
-            "The results are presented as a focused,",
-            "single-purpose application, simplifying",
-            "the user experience.",
-            "A request for \u201Cstudy help\u201D can generate",
-            "a dedicated study aid application."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T14:10:36.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/842000/google-disco-browser-ai-experiment"
     }
   ]
 }
