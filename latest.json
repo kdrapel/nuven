@@ -37,6 +37,43 @@
       "articleUrl": "https://www.theverge.com/news/845831/ai-chips-data-center-power-water"
     },
     {
+      "id": "601",
+      "topic": "Safety, Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Toy Risks",
+      "mediumTitle": "Senators Warn of AI Toys",
+      "longTitle": "AI-Powered Toys Raise Safety Concerns",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Disturbingly, the letter also mentions",
+            "instances of the toys discussing sexual",
+            "fetish content with children.",
+            "The senators\u2019 letter highlights that",
+            "some toys engaged in conversations about",
+            "locating knives within the home.",
+            "Furthermore, the toys reportedly",
+            "provided instructions on how to light a",
+            "match, posing a physical safety risk.",
+            "Senators Blackburn and Blumenthal are",
+            "specifically worried about the potential",
+            "for these toys to provide children with",
+            "dangerous information.",
+            "The senators are seeking accountability",
+            "for the lack of adequate safeguards to",
+            "prevent these occurrences.",
+            "The senators aim to ensure that children",
+            "are protected from harmful or",
+            "inappropriate content when interacting",
+            "with these technologies."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-17T15:03:31.000Z",
+      "ranking": 8.022727272727273,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/846573/ai-toys-built-on-openais-chatgpt-inappropriate-content-senators-letter"
+    },
+    {
       "id": "589",
       "topic": "Training Tricks",
       "source": "Marktechpost AI",
@@ -71,6 +108,41 @@
       "publishedAt": "2025-12-17T05:36:13.000Z",
       "ranking": 7.5249999999999995,
       "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
+    },
+    {
+      "id": "598",
+      "topic": "Large Models, NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "Gemini 3 Flash",
+      "mediumTitle": "Google\u0027s New Enterprise AI",
+      "longTitle": "Gemini 3 Flash: Fast, Cheap, Powerful",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has released Gemini 3 Flash, a",
+            "new large language model specifically",
+            "designed for enterprise applications.",
+            "Gemini 3 Flash costs $0.50 per 1 million",
+            "input tokens and $3.00 per 1 million",
+            "output tokens.",
+            "It delivers performance comparable to",
+            "Gemini 3 Pro but at a lower cost and",
+            "with faster processing speeds.",
+            "This is compared to Gemini 2.5 Pro\u2019s",
+            "pricing of $1.25/$10.00 for the same",
+            "token amounts.",
+            "Gemini 3 Flash achieved a score of 78%",
+            "on the SWE-Bench Verified benchmark,",
+            "surpassing Gemini 2.5 and 3 Pro.",
+            "Gemini 3 Flash currently leads in",
+            "knowledge accuracy on the AA-Omniscience",
+            "benchmark."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-17T20:24:00.000Z",
+      "ranking": 7.425000000000001,
+      "articleUrl": "https://venturebeat.com/technology/gemini-3-flash-arrives-with-reduced-costs-and-latency-a-powerful-combo-for"
     },
     {
       "id": "597",
@@ -108,6 +180,41 @@
       "publishedAt": "2025-12-17T18:48:13.000Z",
       "ranking": 7.375,
       "articleUrl": "https://www.marktechpost.com/2025/12/17/meta-ai-releases-sam-audio-a-state-of-the-art-unified-model-that-uses-intuitive-and-multimodal-prompts-for-audio-separation/"
+    },
+    {
+      "id": "599",
+      "topic": "Energy",
+      "source": "The Verge AI",
+      "shortTitle": "Data Center Probe",
+      "mediumTitle": "Senators Investigate Energy Costs",
+      "longTitle": "Data Centers \u0026 Electricity Prices Under Scrutiny",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The senators are seeking to understand",
+            "how data center energy consumption",
+            "contributes to rising costs.",
+            "The senators want to know if consumers",
+            "are unfairly bearing the burden of these",
+            "rising costs.",
+            "Democratic senators are concerned about",
+            "the substantial energy demands of these",
+            "data centers.",
+            "The investigation will focus on energy",
+            "usage data, contracts with utility",
+            "companies, and mitigation strategies.",
+            "The investigation is a direct response",
+            "to the growing national concern over",
+            "increasing electricity prices.",
+            "On Tuesday, a letter was sent to the",
+            "tech companies and developers requesting",
+            "detailed information."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-17T17:12:16.000Z",
+      "ranking": 7.155,
+      "articleUrl": "https://www.theverge.com/news/846696/electricity-cost-ai-data-center-democrat-investigation"
     },
     {
       "id": "592",
@@ -251,7 +358,7 @@
         }
       ],
       "publishedAt": "2025-12-16T14:15:36.000Z",
-      "ranking": 6.224475089922292,
+      "ranking": 5.78133700452367,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-model-gpt-image-1-5"
     },
     {
@@ -288,7 +395,7 @@
         }
       ],
       "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 6.15120471041753,
+      "ranking": 5.718336217629309,
       "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
     },
     {
@@ -325,7 +432,7 @@
         }
       ],
       "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 5.456149761415002,
+      "ranking": 5.023281268576096,
       "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
     },
     {
@@ -362,7 +469,7 @@
         }
       ],
       "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 5.131166699101893,
+      "ranking": 4.57339775215457,
       "articleUrl": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded"
     },
     {
@@ -398,7 +505,7 @@
         }
       ],
       "publishedAt": "2025-12-16T12:29:32.000Z",
-      "ranking": 4.730317614396384,
+      "ranking": 4.262646610547101,
       "articleUrl": "https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast"
     },
     {
@@ -434,7 +541,7 @@
         }
       ],
       "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 4.547530327011358,
+      "ranking": 3.9897613779015852,
       "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
     },
     {
@@ -471,7 +578,7 @@
         }
       ],
       "publishedAt": "2025-12-15T21:16:00.000Z",
-      "ranking": 3.7983774869194744,
+      "ranking": 3.1194088389146817,
       "articleUrl": "https://venturebeat.com/ai/korean-ai-startup-motif-reveals-4-big-lessons-for-training-enterprise-llms"
     },
     {
@@ -508,7 +615,7 @@
         }
       ],
       "publishedAt": "2025-12-15T15:18:48.000Z",
-      "ranking": 2.2828899448124433,
+      "ranking": 1.521301960058043,
       "articleUrl": "https://www.theverge.com/news/844804/trump-tech-force-usds-apple-google-microsoft"
     },
     {
@@ -545,8 +652,77 @@
         }
       ],
       "publishedAt": "2025-12-15T12:01:53.000Z",
-      "ranking": 1.604092745169421,
+      "ranking": 0.7969584997171477,
       "articleUrl": "https://www.theverge.com/news/844640/merriam-webster-ai-slop-word-of-the-year-2025"
+    },
+    {
+      "id": "567",
+      "topic": "Security",
+      "source": "VentureBeat AI",
+      "shortTitle": "Tokenization",
+      "mediumTitle": "Data Security via Tokenization",
+      "longTitle": "Tokenization: A Modern Data Security Approach",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Securing data \u0027at birth\u0027 (upon creation)",
+            "is more effective than securing it only",
+            "when stored, according to Raghu.",
+            "Vaultless tokenization dynamically",
+            "generates tokens using algorithms and",
+            "cryptographic techniques, eliminating a",
+            "central vault.",
+            "Tokenization separates data value from",
+            "its inherent risk, presenting it as a",
+            "leading data security method.",
+            "Tokens map back to the original data,",
+            "which is securely stored in a digital",
+            "vault, preserving data format and",
+            "usability.",
+            "Databolt integrates seamlessly with",
+            "existing data warehouses and operates",
+            "within the customer\u2019s environment."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-15T16:00:00.000Z",
+      "ranking": 0.7019248775617664,
+      "articleUrl": "https://venturebeat.com/ai/tokenization-takes-the-lead-in-the-fight-for-data-security"
+    },
+    {
+      "id": "572",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Voice Clones",
+      "mediumTitle": "AI Music Clones Anger Industry",
+      "longTitle": "Music Industry Reacts to AI Voice Replication",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The music industry is facing growing",
+            "frustration and anger over the",
+            "increasing prevalence of AI-generated",
+            "clones of artists\u2019 voices and styles.",
+            "The unauthorized replication of vocal",
+            "characteristics is the central concern.",
+            "The potential for misuse of these AI",
+            "clones is a significant source of alarm.",
+            "Industry professionals are using very",
+            "strong language to convey their",
+            "disapproval of this practice.",
+            "The surge in these issues began in 2023,",
+            "marking a clear turning point in the",
+            "problem\u2019s severity.",
+            "While AI fakes have existed previously,",
+            "the article emphasizes a recent",
+            "escalation in boldness from those",
+            "exploiting the technology."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-15T10:00:00.000Z",
+      "ranking": 0.6754711403183569,
+      "articleUrl": "https://www.theverge.com/report/844454/musicians-tired-of-ai-clones"
     },
     {
       "id": "568",
@@ -582,77 +758,8 @@
         }
       ],
       "publishedAt": "2025-12-15T06:00:00.000Z",
-      "ranking": 1.5556165941127524,
+      "ranking": 0.6647797569023375,
       "articleUrl": "https://venturebeat.com/ai/why-agentic-ai-needs-a-new-category-of-customer-data"
-    },
-    {
-      "id": "572",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Voice Clones",
-      "mediumTitle": "AI Music Clones Anger Industry",
-      "longTitle": "Music Industry Reacts to AI Voice Replication",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The music industry is facing growing",
-            "frustration and anger over the",
-            "increasing prevalence of AI-generated",
-            "clones of artists\u2019 voices and styles.",
-            "The unauthorized replication of vocal",
-            "characteristics is the central concern.",
-            "The potential for misuse of these AI",
-            "clones is a significant source of alarm.",
-            "Industry professionals are using very",
-            "strong language to convey their",
-            "disapproval of this practice.",
-            "The surge in these issues began in 2023,",
-            "marking a clear turning point in the",
-            "problem\u2019s severity.",
-            "While AI fakes have existed previously,",
-            "the article emphasizes a recent",
-            "escalation in boldness from those",
-            "exploiting the technology."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T10:00:00.000Z",
-      "ranking": 1.5107966515610256,
-      "articleUrl": "https://www.theverge.com/report/844454/musicians-tired-of-ai-clones"
-    },
-    {
-      "id": "567",
-      "topic": "Security",
-      "source": "VentureBeat AI",
-      "shortTitle": "Tokenization",
-      "mediumTitle": "Data Security via Tokenization",
-      "longTitle": "Tokenization: A Modern Data Security Approach",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Securing data \u0027at birth\u0027 (upon creation)",
-            "is more effective than securing it only",
-            "when stored, according to Raghu.",
-            "Vaultless tokenization dynamically",
-            "generates tokens using algorithms and",
-            "cryptographic techniques, eliminating a",
-            "central vault.",
-            "Tokenization separates data value from",
-            "its inherent risk, presenting it as a",
-            "leading data security method.",
-            "Tokens map back to the original data,",
-            "which is securely stored in a digital",
-            "vault, preserving data format and",
-            "usability.",
-            "Databolt integrates seamlessly with",
-            "existing data warehouses and operates",
-            "within the customer\u2019s environment."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T16:00:00.000Z",
-      "ranking": 1.4539834087531718,
-      "articleUrl": "https://venturebeat.com/ai/tokenization-takes-the-lead-in-the-fight-for-data-security"
     },
     {
       "id": "565",
@@ -688,44 +795,8 @@
         }
       ],
       "publishedAt": "2025-12-15T08:12:41.000Z",
-      "ranking": 0.8388377918942469,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/844538/kindle-app-ask-this-book-ai-ios"
-    },
-    {
-      "id": "574",
-      "topic": "Large Models, NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "Ai2 Bolmo",
-      "mediumTitle": "Ai2 Releases Bolmo Models",
-      "longTitle": "Allen Institute for AI Unveils Bolmo Language Models",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The Allen Institute for AI (Ai2) has",
-            "introduced Bolmo, a new family of",
-            "open-source, byte-level language models",
-            "(Bolmo 7B and Bolmo 1B).",
-            "These models are designed for",
-            "enterprises needing robust handling of",
-            "noisy, low-resource, or multilingual",
-            "text, and aim to make tokenizer-free",
-            "modeling practical at scale.",
-            "Byte-level models operate directly on",
-            "UTF-8 bytes, eliminating the need for a",
-            "predefined vocabulary and tokenizer,",
-            "which improves handling of misspellings,",
-            "rare languages, and unconventional text.",
-            "Bolmo 7B outperformed character-focused",
-            "benchmarks (CUTE, EXECUTE) and the base",
-            "Olmo 3 model, demonstrating strong",
-            "results in coding, math, multiple-choice",
-            "QA, and character-level understanding."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T06:00:00.000Z",
-      "ranking": 0.5501678506102108,
-      "articleUrl": "https://venturebeat.com/ai/bolmos-architecture-unlocks-efficient-byte-level-lm-training-without"
     },
     {
       "id": "566",
@@ -761,8 +832,44 @@
         }
       ],
       "publishedAt": "2025-12-15T08:00:00.000Z",
-      "ranking": 0.4697343725718772,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies"
+    },
+    {
+      "id": "574",
+      "topic": "Large Models, NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "Ai2 Bolmo",
+      "mediumTitle": "Ai2 Releases Bolmo Models",
+      "longTitle": "Allen Institute for AI Unveils Bolmo Language Models",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The Allen Institute for AI (Ai2) has",
+            "introduced Bolmo, a new family of",
+            "open-source, byte-level language models",
+            "(Bolmo 7B and Bolmo 1B).",
+            "These models are designed for",
+            "enterprises needing robust handling of",
+            "noisy, low-resource, or multilingual",
+            "text, and aim to make tokenizer-free",
+            "modeling practical at scale.",
+            "Byte-level models operate directly on",
+            "UTF-8 bytes, eliminating the need for a",
+            "predefined vocabulary and tokenizer,",
+            "which improves handling of misspellings,",
+            "rare languages, and unconventional text.",
+            "Bolmo 7B outperformed character-focused",
+            "benchmarks (CUTE, EXECUTE) and the base",
+            "Olmo 3 model, demonstrating strong",
+            "results in coding, math, multiple-choice",
+            "QA, and character-level understanding."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-15T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/bolmos-architecture-unlocks-efficient-byte-level-lm-training-without"
     },
     {
       "id": "563",
@@ -977,115 +1084,6 @@
       "publishedAt": "2025-12-12T14:11:14.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones"
-    },
-    {
-      "id": "554",
-      "topic": "Large Models, Training Tricks",
-      "source": "VentureBeat AI",
-      "shortTitle": "Ai2 Olmo 3.1",
-      "mediumTitle": "Allen AI Updates Olmo LLMs",
-      "longTitle": "Allen Institute for AI Releases Olmo 3.1 Updates",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The Allen Institute for AI (Ai2) has",
-            "released Olmo 3.1, an updated version of",
-            "its Olmo 3 family of large language",
-            "models (LLMs).",
-            "This update focuses on improving",
-            "performance, efficiency, transparency,",
-            "and control for enterprise and research",
-            "use.",
-            "This resulted in gains of 5\u002B points on",
-            "AIME, 4\u002B points on ZebraLogic, 4\u002B points",
-            "on IFEval, and 20\u002B points on IFBench,",
-            "alongside improved coding and complex",
-            "task performance.",
-            "Benchmark tests demonstrate Olmo 3.1\u0027s",
-            "improved performance.",
-            "Olmo 3.1 Think 32B was improved by",
-            "extending the reinforcement learning",
-            "(RL) training run by 21 days on 224",
-            "GPUs, utilizing the Dolci-Think-RL",
-            "dataset."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-12T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/ai2s-new-olmo-3-1-extends-reinforcement-learning-training-for-stronger"
-    },
-    {
-      "id": "555",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Budgeting",
-      "mediumTitle": "Efficient AI Agents",
-      "longTitle": "Google Improves AI Resource Use",
-      "paragraphs": [
-        {
-          "Lines": [
-            "BATS achieved better cost-performance",
-            "trade-offs, achieving higher accuracy at",
-            "a lower cost.",
-            "BATS achieved 24.6% accuracy on",
-            "BrowseComp versus 12.6% for ReAct.",
-            "BATS achieved 27.0% on HLE-Search versus",
-            "20.5% for ReAct.",
-            "On BrowseComp, BATS cost approximately",
-            "23 cents versus over 50 cents for a",
-            "parallel scaling baseline.",
-            "Budget Tracker continued to scale with",
-            "increased budgets, unlike standard ReAct",
-            "approaches which plateaued.",
-            "These techniques are crucial for",
-            "deploying effective AI agents in",
-            "enterprise settings.",
-            "Google researchers have developed new",
-            "techniques to help AI agents use their",
-            "computational and tool-use budgets more",
-            "efficiently."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-12T01:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/googles-new-framework-helps-ai-agents-spend-their-compute-and-tool-budget"
-    },
-    {
-      "id": "546",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "GPT-5.2 Out",
-      "mediumTitle": "OpenAI Releases GPT-5.2",
-      "longTitle": "GPT-5.2: Advanced Reasoning \u0026 Coding",
-      "paragraphs": [
-        {
-          "Lines": [
-            "GPT-5.2\u0027s release indicates a",
-            "significant advancement in complex",
-            "reasoning, coding, and autonomous task",
-            "handling.",
-            "Developers are impressed by the model\u2019s",
-            "ability to generate complex code",
-            "structures from single prompts.",
-            "Box observed a reduction in complex",
-            "extraction task time from 46 to 12",
-            "seconds with GPT-5.2.",
-            "Reasoning accuracy in the Media \u0026",
-            "Entertainment vertical increased from",
-            "76% to 81% using GPT-5.2.",
-            "GPT-5.2\u2019s extended autonomy allows it to",
-            "maintain focus on tasks for hours.",
-            "Initial reactions suggest GPT-5.2 is",
-            "particularly beneficial for business",
-            "applications."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-12T00:26:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/gpt-5-2-first-impressions-a-powerful-update-especially-for-business-tasks"
     }
   ]
 }
