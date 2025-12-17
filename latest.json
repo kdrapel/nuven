@@ -37,43 +37,6 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-model-gpt-image-1-5"
     },
     {
-      "id": "581",
-      "topic": "Large Models, Business",
-      "source": "VentureBeat AI",
-      "shortTitle": "SAP Joule",
-      "mediumTitle": "SAP\u0027s Grounded AI for Consulting",
-      "longTitle": "SAP Joule: AI Grounded in Institutional Knowledge",
-      "paragraphs": [
-        {
-          "Lines": [
-            "SAP Joule is deeply integrated with and",
-            "continuously updated by SAP\u2019s knowledge",
-            "base, encompassing terabytes of",
-            "documentation and expertise.",
-            "Future development plans include",
-            "incorporating each customer\u2019s specific",
-            "system data and internal documentation",
-            "for tailored guidance.",
-            "SAP aims to move Joule from being",
-            "\u201CSAP-aware\u201D to \u201Ccustomer-aware,\u201D",
-            "adapting to the consultant\u2019s specific",
-            "role.",
-            "Security and data privacy are",
-            "prioritized, with Joule operating within",
-            "SAP\u2019s AI Foundation and adhering to GDPR",
-            "and EU regulations.",
-            "Traditional \u201Cblack box\u201D AI models pose a",
-            "risk of providing inaccurate guidance,",
-            "which is unacceptable in complex SAP",
-            "transformation projects."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 7.663636363636364,
-      "articleUrl": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded"
-    },
-    {
       "id": "577",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -111,40 +74,40 @@
       "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
     },
     {
-      "id": "580",
-      "topic": "Generative AI, Vision",
-      "source": "VentureBeat AI",
-      "shortTitle": "GPT Image 1.5",
-      "mediumTitle": "ChatGPT Gets Image Boost",
-      "longTitle": "OpenAI Updates Image Generation with GPT 5.2",
+      "id": "589",
+      "topic": "Training Tricks",
+      "source": "Marktechpost AI",
+      "shortTitle": "Tinker API",
+      "mediumTitle": "Thinking Machines Tinker GA",
+      "longTitle": "Tinker API Now Generally Available",
       "paragraphs": [
         {
           "Lines": [
-            "OpenAI has updated its image generation",
-            "capabilities within ChatGPT, releasing",
-            "\u201CGPT Image 1.5\u201D powered by GPT 5.2.",
-            "This update positions OpenAI to compete",
-            "with other advanced image generation",
-            "models like Google\u2019s Nano Banana Pro.",
-            "The update aims to improve precision and",
-            "consistency, particularly for enterprise",
-            "and brand use cases.",
-            "The model now better maintains",
-            "consistency in lighting, composition,",
-            "and appearance during image",
-            "modifications.",
-            "The new model demonstrates improved",
-            "ability to handle complex editing",
-            "requests with greater accuracy.",
-            "The AI image generation landscape is",
-            "rapidly evolving, with a growing focus",
-            "on attracting enterprise users."
+            "Thinking Machines Lab announced the",
+            "general availability of its Tinker",
+            "training API on an unspecified date.",
+            "By using Tinker, developers avoid the",
+            "complexities of building and maintaining",
+            "their own distributed training",
+            "infrastructure.",
+            "The Kimi K2 Thinking model provides",
+            "advanced reasoning abilities within the",
+            "Tinker environment.",
+            "Qwen3-VL vision language models enable",
+            "Tinker to process and understand image",
+            "inputs.",
+            "OpenAI-compatible sampling allows for",
+            "easier integration with tools and",
+            "techniques familiar to many developers.",
+            "This release is targeted towards AI",
+            "engineers seeking a streamlined solution",
+            "for model fine-tuning."
           ]
         }
       ],
-      "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 7.08,
-      "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
+      "publishedAt": "2025-12-17T05:36:13.000Z",
+      "ranking": 7.5249999999999995,
+      "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
     },
     {
       "id": "576",
@@ -184,6 +147,43 @@
       "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
     },
     {
+      "id": "581",
+      "topic": "Large Models, Business",
+      "source": "VentureBeat AI",
+      "shortTitle": "SAP Joule",
+      "mediumTitle": "SAP\u0027s Grounded AI for Consulting",
+      "longTitle": "SAP Joule: AI Grounded in Institutional Knowledge",
+      "paragraphs": [
+        {
+          "Lines": [
+            "SAP Joule is deeply integrated with and",
+            "continuously updated by SAP\u2019s knowledge",
+            "base, encompassing terabytes of",
+            "documentation and expertise.",
+            "Future development plans include",
+            "incorporating each customer\u2019s specific",
+            "system data and internal documentation",
+            "for tailored guidance.",
+            "SAP aims to move Joule from being",
+            "\u201CSAP-aware\u201D to \u201Ccustomer-aware,\u201D",
+            "adapting to the consultant\u2019s specific",
+            "role.",
+            "Security and data privacy are",
+            "prioritized, with Joule operating within",
+            "SAP\u2019s AI Foundation and adhering to GDPR",
+            "and EU regulations.",
+            "Traditional \u201Cblack box\u201D AI models pose a",
+            "risk of providing inaccurate guidance,",
+            "which is unacceptable in complex SAP",
+            "transformation projects."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T06:00:00.000Z",
+      "ranking": 6.475311503539027,
+      "articleUrl": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded"
+    },
+    {
       "id": "582",
       "topic": "Policy",
       "source": "The Verge AI",
@@ -220,6 +220,42 @@
       "articleUrl": "https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast"
     },
     {
+      "id": "580",
+      "topic": "Generative AI, Vision",
+      "source": "VentureBeat AI",
+      "shortTitle": "GPT Image 1.5",
+      "mediumTitle": "ChatGPT Gets Image Boost",
+      "longTitle": "OpenAI Updates Image Generation with GPT 5.2",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has updated its image generation",
+            "capabilities within ChatGPT, releasing",
+            "\u201CGPT Image 1.5\u201D powered by GPT 5.2.",
+            "This update positions OpenAI to compete",
+            "with other advanced image generation",
+            "models like Google\u2019s Nano Banana Pro.",
+            "The update aims to improve precision and",
+            "consistency, particularly for enterprise",
+            "and brand use cases.",
+            "The model now better maintains",
+            "consistency in lighting, composition,",
+            "and appearance during image",
+            "modifications.",
+            "The new model demonstrates improved",
+            "ability to handle complex editing",
+            "requests with greater accuracy.",
+            "The AI image generation landscape is",
+            "rapidly evolving, with a growing focus",
+            "on attracting enterprise users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T06:00:00.000Z",
+      "ranking": 5.891675133102136,
+      "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
+    },
+    {
       "id": "573",
       "topic": "Large Models, Training Tricks",
       "source": "VentureBeat AI",
@@ -253,7 +289,7 @@
         }
       ],
       "publishedAt": "2025-12-15T21:16:00.000Z",
-      "ranking": 5.965394327123944,
+      "ranking": 5.507335731643108,
       "articleUrl": "https://venturebeat.com/ai/korean-ai-startup-motif-reveals-4-big-lessons-for-training-enterprise-llms"
     },
     {
@@ -290,7 +326,7 @@
         }
       ],
       "publishedAt": "2025-12-15T15:18:48.000Z",
-      "ranking": 4.781503713123623,
+      "ranking": 4.24053399152144,
       "articleUrl": "https://www.theverge.com/news/844804/trump-tech-force-usds-apple-google-microsoft"
     },
     {
@@ -327,43 +363,8 @@
         }
       ],
       "publishedAt": "2025-12-15T06:00:00.000Z",
-      "ranking": 4.572977190365437,
+      "ranking": 3.9023021558821016,
       "articleUrl": "https://venturebeat.com/ai/why-agentic-ai-needs-a-new-category-of-customer-data"
-    },
-    {
-      "id": "572",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Voice Clones",
-      "mediumTitle": "AI Music Clones Anger Industry",
-      "longTitle": "Music Industry Reacts to AI Voice Replication",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The music industry is facing growing",
-            "frustration and anger over the",
-            "increasing prevalence of AI-generated",
-            "clones of artists\u2019 voices and styles.",
-            "The unauthorized replication of vocal",
-            "characteristics is the central concern.",
-            "The potential for misuse of these AI",
-            "clones is a significant source of alarm.",
-            "Industry professionals are using very",
-            "strong language to convey their",
-            "disapproval of this practice.",
-            "The surge in these issues began in 2023,",
-            "marking a clear turning point in the",
-            "problem\u2019s severity.",
-            "While AI fakes have existed previously,",
-            "the article emphasizes a recent",
-            "escalation in boldness from those",
-            "exploiting the technology."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T10:00:00.000Z",
-      "ranking": 4.30535976009233,
-      "articleUrl": "https://www.theverge.com/report/844454/musicians-tired-of-ai-clones"
     },
     {
       "id": "570",
@@ -399,8 +400,43 @@
         }
       ],
       "publishedAt": "2025-12-15T12:01:53.000Z",
-      "ranking": 4.285508749163092,
+      "ranking": 3.6988319138229917,
       "articleUrl": "https://www.theverge.com/news/844640/merriam-webster-ai-slop-word-of-the-year-2025"
+    },
+    {
+      "id": "572",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Voice Clones",
+      "mediumTitle": "AI Music Clones Anger Industry",
+      "longTitle": "Music Industry Reacts to AI Voice Replication",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The music industry is facing growing",
+            "frustration and anger over the",
+            "increasing prevalence of AI-generated",
+            "clones of artists\u2019 voices and styles.",
+            "The unauthorized replication of vocal",
+            "characteristics is the central concern.",
+            "The potential for misuse of these AI",
+            "clones is a significant source of alarm.",
+            "Industry professionals are using very",
+            "strong language to convey their",
+            "disapproval of this practice.",
+            "The surge in these issues began in 2023,",
+            "marking a clear turning point in the",
+            "problem\u2019s severity.",
+            "While AI fakes have existed previously,",
+            "the article emphasizes a recent",
+            "escalation in boldness from those",
+            "exploiting the technology."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-15T10:00:00.000Z",
+      "ranking": 3.6903920834156803,
+      "articleUrl": "https://www.theverge.com/report/844454/musicians-tired-of-ai-clones"
     },
     {
       "id": "567",
@@ -433,7 +469,7 @@
         }
       ],
       "publishedAt": "2025-12-15T16:00:00.000Z",
-      "ranking": 3.914350279277075,
+      "ranking": 3.3829436557067214,
       "articleUrl": "https://venturebeat.com/ai/tokenization-takes-the-lead-in-the-fight-for-data-security"
     },
     {
@@ -470,7 +506,7 @@
         }
       ],
       "publishedAt": "2025-12-15T08:12:41.000Z",
-      "ranking": 3.7330254126378883,
+      "ranking": 3.093148038744216,
       "articleUrl": "https://www.theverge.com/news/844538/kindle-app-ask-this-book-ai-ios"
     },
     {
@@ -506,7 +542,7 @@
         }
       ],
       "publishedAt": "2025-12-15T06:00:00.000Z",
-      "ranking": 3.5675284453169276,
+      "ranking": 2.896853407331756,
       "articleUrl": "https://venturebeat.com/ai/bolmos-architecture-unlocks-efficient-byte-level-lm-training-without"
     },
     {
@@ -543,7 +579,7 @@
         }
       ],
       "publishedAt": "2025-12-15T08:00:00.000Z",
-      "ranking": 3.375696224770457,
+      "ranking": 2.7328748674673458,
       "articleUrl": "https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies"
     },
     {
@@ -578,7 +614,7 @@
         }
       ],
       "publishedAt": "2025-12-14T20:00:00.000Z",
-      "ranking": 2.248774965807426,
+      "ranking": 1.438832305684171,
       "articleUrl": "https://venturebeat.com/ai/build-vs-buy-is-dead-ai-just-killed-it"
     },
     {
@@ -613,7 +649,7 @@
         }
       ],
       "publishedAt": "2025-12-14T17:24:24.000Z",
-      "ranking": 1.435747759761834,
+      "ranking": 0.5896882094823539,
       "articleUrl": "https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting"
     },
     {
@@ -1116,42 +1152,6 @@
       "publishedAt": "2025-12-11T14:10:36.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/842000/google-disco-browser-ai-experiment"
-    },
-    {
-      "id": "543",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "ChatGPT Adult",
-      "mediumTitle": "ChatGPT to Get Adult Mode",
-      "longTitle": "OpenAI Plans \u0027Adult Mode\u0027 for ChatGPT",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI is planning to introduce an",
-            "\u0027adult mode\u0027 within its ChatGPT chatbot.",
-            "The expected launch timeframe for this",
-            "feature is the first quarter of 2026.",
-            "The announcement provides a specific",
-            "timeline for the feature\u2019s release.",
-            "This development was announced by Fidji",
-            "Simo, OpenAI\u0027s CEO of Applications.",
-            "This moves the feature from speculation",
-            "to a concrete plan within OpenAI\u2019s",
-            "development roadmap.",
-            "Sam Altman, OpenAI\u2019s CEO, previously",
-            "hinted at the possibility of adult",
-            "content integration within ChatGPT.",
-            "This move follows similar offerings from",
-            "competitors like Grok, which already",
-            "includes NSFW content.",
-            "The announcement occurred during a",
-            "briefing regarding GPT-5.2."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T14:10:19.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/842657/openai-chatgpt-adult-mode-debut-q1-2026"
     }
   ]
 }
