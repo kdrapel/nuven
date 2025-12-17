@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "595",
+      "topic": "Environment",
+      "source": "The Verge AI",
+      "shortTitle": "AI Impact",
+      "mediumTitle": "AI\u0027s Growing Footprint",
+      "longTitle": "AI Systems\u0027 Environmental Costs Rise",
+      "paragraphs": [
+        {
+          "Lines": [
+            "New estimates indicate a significant and",
+            "rapidly increasing environmental impact",
+            "from Artificial Intelligence (AI).",
+            "AI\u2019s carbon pollution reached levels",
+            "comparable to that of New York City in",
+            "2025.",
+            "AI consumed as much water as the global",
+            "population does through bottled water",
+            "consumption in 2025.",
+            "The study acknowledges that these",
+            "figures likely underestimate the true",
+            "environmental cost.",
+            "The article highlights the substantial",
+            "resource demands \u2013 both in terms of",
+            "energy and water \u2013 associated with the",
+            "operation of AI systems.",
+            "The findings raise concerns about the",
+            "sustainability of rapidly developing AI",
+            "technologies."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-17T12:00:00.000Z",
+      "ranking": 8.245,
+      "articleUrl": "https://www.theverge.com/news/845831/ai-chips-data-center-power-water"
+    },
+    {
       "id": "589",
       "topic": "Training Tricks",
       "source": "Marktechpost AI",
@@ -35,6 +71,43 @@
       "publishedAt": "2025-12-17T05:36:13.000Z",
       "ranking": 7.5249999999999995,
       "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
+    },
+    {
+      "id": "597",
+      "topic": "Speech",
+      "source": "Marktechpost AI",
+      "shortTitle": "SAM Audio",
+      "mediumTitle": "Meta\u0027s New Audio Tool",
+      "longTitle": "SAM Audio: Sound Separation with AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta AI has released SAM Audio to tackle",
+            "the problem of separating individual",
+            "sounds from mixed audio recordings.",
+            "SAM Audio distinguishes itself by being",
+            "a unified model, capable of separating",
+            "sounds based on intuitive text prompts.",
+            "By functioning as a prompt-driven tool,",
+            "SAM Audio simplifies the audio editing",
+            "workflow.",
+            "This eliminates the time-consuming",
+            "process of creating and training",
+            "specialized models for each desired",
+            "sound separation task.",
+            "Traditional audio separation techniques",
+            "often require training a unique model",
+            "for each type of sound you want to",
+            "isolate.",
+            "The Segment Anything platform serves as",
+            "the central hub for both downloading and",
+            "testing the capabilities of SAM Audio."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-17T18:48:13.000Z",
+      "ranking": 7.375,
+      "articleUrl": "https://www.marktechpost.com/2025/12/17/meta-ai-releases-sam-audio-a-state-of-the-art-unified-model-that-uses-intuitive-and-multimodal-prompts-for-audio-separation/"
     },
     {
       "id": "592",
@@ -110,6 +183,42 @@
       "articleUrl": "https://venturebeat.com/technology/ai-agents-fail-63-of-the-time-on-complex-tasks-patronus-ai-says-its-new"
     },
     {
+      "id": "593",
+      "topic": "Security",
+      "source": "VentureBeat AI",
+      "shortTitle": "Edge AI Risk",
+      "mediumTitle": "Securing AI at the Edge",
+      "longTitle": "SMBs \u0026 the Rise of Edge AI Security",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Companies are often connecting devices",
+            "and deploying AI before establishing",
+            "robust security policies.",
+            "SMBs that proactively modernize their",
+            "connectivity and security will be best",
+            "positioned to scale AI successfully.",
+            "Future AI systems will not only run at",
+            "the edge but also actively secure it",
+            "through dynamic optimization and anomaly",
+            "detection.",
+            "Unmonitored devices, inconsistent access",
+            "controls, and unsegmented data flows are",
+            "key vulnerabilities at the edge.",
+            "SIM-based identity verification and",
+            "secure mobile connectivity are becoming",
+            "crucial security components.",
+            "SMBs are leveraging AI for applications",
+            "like smart assistants, predictive",
+            "inventory, and on-site analytics."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-17T09:00:00.000Z",
+      "ranking": 6.366666666666666,
+      "articleUrl": "https://venturebeat.com/ai/ai-is-moving-to-the-edge-and-network-security-needs-to-catch-up"
+    },
+    {
       "id": "585",
       "topic": "Vision, Generative AI",
       "source": "The Verge AI",
@@ -142,7 +251,7 @@
         }
       ],
       "publishedAt": "2025-12-16T14:15:36.000Z",
-      "ranking": 6.612716789929333,
+      "ranking": 6.224475089922292,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-model-gpt-image-1-5"
     },
     {
@@ -179,7 +288,7 @@
         }
       ],
       "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 6.529160532457126,
+      "ranking": 6.15120471041753,
       "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
     },
     {
@@ -216,7 +325,7 @@
         }
       ],
       "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 5.834105584338489,
+      "ranking": 5.456149761415002,
       "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
     },
     {
@@ -253,7 +362,7 @@
         }
       ],
       "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 5.634221043005153,
+      "ranking": 5.131166699101893,
       "articleUrl": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded"
     },
     {
@@ -289,7 +398,7 @@
         }
       ],
       "publishedAt": "2025-12-16T12:29:32.000Z",
-      "ranking": 5.143131136233954,
+      "ranking": 4.730317614396384,
       "articleUrl": "https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast"
     },
     {
@@ -325,7 +434,7 @@
         }
       ],
       "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 5.050584670827932,
+      "ranking": 4.547530327011358,
       "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
     },
     {
@@ -362,7 +471,7 @@
         }
       ],
       "publishedAt": "2025-12-15T21:16:00.000Z",
-      "ranking": 4.422823728619065,
+      "ranking": 3.7983774869194744,
       "articleUrl": "https://venturebeat.com/ai/korean-ai-startup-motif-reveals-4-big-lessons-for-training-enterprise-llms"
     },
     {
@@ -399,45 +508,8 @@
         }
       ],
       "publishedAt": "2025-12-15T15:18:48.000Z",
-      "ranking": 2.9900865419210527,
+      "ranking": 2.2828899448124433,
       "articleUrl": "https://www.theverge.com/news/844804/trump-tech-force-usds-apple-google-microsoft"
-    },
-    {
-      "id": "568",
-      "topic": "NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI \u0026 Data",
-      "mediumTitle": "Agentic AI Needs Memory",
-      "longTitle": "Conversational Memory: The Key to AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Agentic AI requires a \u0027conversational",
-            "memory\u0027 \u2013 a real-time understanding of",
-            "the interaction and customer history.",
-            "The future of agentic AI depends on an",
-            "infrastructural shift towards",
-            "foundational conversational memory.",
-            "Organizations that prioritize",
-            "conversational memory as core",
-            "infrastructure gain a competitive",
-            "advantage.",
-            "Companies solving the infrastructure",
-            "problem will outperform those simply",
-            "integrating AI into existing systems.",
-            "Existing systems suffer from latency,",
-            "data fragmentation, and loss of",
-            "conversational nuance, hindering AI\u0027s",
-            "capabilities.",
-            "Agentic automation, allowing AI to make",
-            "nuanced decisions, is unlocked by a",
-            "robust conversational memory."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T06:00:00.000Z",
-      "ranking": 2.3922669930734077,
-      "articleUrl": "https://venturebeat.com/ai/why-agentic-ai-needs-a-new-category-of-customer-data"
     },
     {
       "id": "570",
@@ -473,8 +545,45 @@
         }
       ],
       "publishedAt": "2025-12-15T12:01:53.000Z",
-      "ranking": 2.356907814083918,
+      "ranking": 1.604092745169421,
       "articleUrl": "https://www.theverge.com/news/844640/merriam-webster-ai-slop-word-of-the-year-2025"
+    },
+    {
+      "id": "568",
+      "topic": "NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI \u0026 Data",
+      "mediumTitle": "Agentic AI Needs Memory",
+      "longTitle": "Conversational Memory: The Key to AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Agentic AI requires a \u0027conversational",
+            "memory\u0027 \u2013 a real-time understanding of",
+            "the interaction and customer history.",
+            "The future of agentic AI depends on an",
+            "infrastructural shift towards",
+            "foundational conversational memory.",
+            "Organizations that prioritize",
+            "conversational memory as core",
+            "infrastructure gain a competitive",
+            "advantage.",
+            "Companies solving the infrastructure",
+            "problem will outperform those simply",
+            "integrating AI into existing systems.",
+            "Existing systems suffer from latency,",
+            "data fragmentation, and loss of",
+            "conversational nuance, hindering AI\u0027s",
+            "capabilities.",
+            "Agentic automation, allowing AI to make",
+            "nuanced decisions, is unlocked by a",
+            "robust conversational memory."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-15T06:00:00.000Z",
+      "ranking": 1.5556165941127524,
+      "articleUrl": "https://venturebeat.com/ai/why-agentic-ai-needs-a-new-category-of-customer-data"
     },
     {
       "id": "572",
@@ -508,7 +617,7 @@
         }
       ],
       "publishedAt": "2025-12-15T10:00:00.000Z",
-      "ranking": 2.2918476962314847,
+      "ranking": 1.5107966515610256,
       "articleUrl": "https://www.theverge.com/report/844454/musicians-tired-of-ai-clones"
     },
     {
@@ -542,7 +651,7 @@
         }
       ],
       "publishedAt": "2025-12-15T16:00:00.000Z",
-      "ranking": 2.1516354411663343,
+      "ranking": 1.4539834087531718,
       "articleUrl": "https://venturebeat.com/ai/tokenization-takes-the-lead-in-the-fight-for-data-security"
     },
     {
@@ -579,7 +688,7 @@
         }
       ],
       "publishedAt": "2025-12-15T08:12:41.000Z",
-      "ranking": 1.644750233969857,
+      "ranking": 0.8388377918942469,
       "articleUrl": "https://www.theverge.com/news/844538/kindle-app-ask-this-book-ai-ios"
     },
     {
@@ -615,7 +724,7 @@
         }
       ],
       "publishedAt": "2025-12-15T06:00:00.000Z",
-      "ranking": 1.3868182335645454,
+      "ranking": 0.5501678506102108,
       "articleUrl": "https://venturebeat.com/ai/bolmos-architecture-unlocks-efficient-byte-level-lm-training-without"
     },
     {
@@ -652,7 +761,7 @@
         }
       ],
       "publishedAt": "2025-12-15T08:00:00.000Z",
-      "ranking": 1.2785850847702767,
+      "ranking": 0.4697343725718772,
       "articleUrl": "https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies"
     },
     {
@@ -977,149 +1086,6 @@
       "publishedAt": "2025-12-12T00:26:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/gpt-5-2-first-impressions-a-powerful-update-especially-for-business-tasks"
-    },
-    {
-      "id": "533",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "GPT-5.2",
-      "mediumTitle": "OpenAI Releases GPT-5.2",
-      "longTitle": "OpenAI Launches GPT-5.2 Model Family",
-      "paragraphs": [
-        {
-          "Lines": [
-            "GPT-5.2 Thinking outperforms industry",
-            "professionals on 70.9% of tasks, as",
-            "measured by the GDPval benchmark.",
-            "In coding benchmarks, GPT-5.2 achieves a",
-            "state-of-the-art score of 55.6% on",
-            "SWE-bench Pro.",
-            "OpenAI describes GPT-5.2 as its \u201Cmost",
-            "capable model series yet for",
-            "professional knowledge work,\u201D focusing",
-            "on reasoning, coding, and agentic",
-            "workflows.",
-            "GPT-5.2 exhibits a 38% reduction in",
-            "\u201Challucinations\u201D compared to GPT-5.1.",
-            "GPT-5.2 demonstrates strong performance",
-            "on science (93.2% on GPQA Diamond), math",
-            "(40.3% on FrontierMath), and general",
-            "reasoning (90.5% on ARC-AGI-1).",
-            "The release of GPT-5.2 followed an",
-            "internal \u201CCode Red\u201D directive at OpenAI",
-            "to enhance ChatGPT\u2019s performance."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T19:16:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/openais-gpt-5-2-is-here-what-enterprises-need-to-know"
-    },
-    {
-      "id": "548",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Disney \u0026 OpenAI",
-      "mediumTitle": "Disney Partners with OpenAI",
-      "longTitle": "Disney and OpenAI Announce $1 Billion AI Deal",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Disney and OpenAI have entered into a $1",
-            "billion partnership to explore the",
-            "potential of generative AI.",
-            "The collaboration centers around Disney",
-            "granting OpenAI access to its vast",
-            "library of characters and content.",
-            "Sora users will gain the ability to",
-            "create video clips featuring hundreds of",
-            "Disney-owned characters.",
-            "Specifically, the deal focuses on",
-            "integrating Disney properties with",
-            "OpenAI\u2019s Sora, its AI video generator.",
-            "OpenAI will leverage Disney\u2019s",
-            "intellectual property to enhance the",
-            "capabilities of its generative AI tools.",
-            "The financial investment of $1 billion",
-            "underscores the importance both",
-            "companies place on this collaboration."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T19:03:24.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/842992/disney-openai-sora-ai-slop-partnership"
-    },
-    {
-      "id": "538",
-      "topic": "Learning",
-      "source": "Marktechpost AI",
-      "shortTitle": "ML Impact",
-      "mediumTitle": "ML Global Impact Report",
-      "longTitle": "Marktechpost\u0027s ML Global Impact Report 2025",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The report identifies a significant",
-            "geographic asymmetry in machine",
-            "learning.",
-            "This asymmetry exists between the",
-            "locations where ML tools are developed",
-            "and where they are adopted.",
-            "The analysis focuses specifically on the",
-            "utilization of machine learning",
-            "research.",
-            "The report\u2019s findings are limited to the",
-            "articles analyzed from the specified",
-            "timeframe.",
-            "The scope of the report is also",
-            "constrained by the publications included",
-            "\u2013 those within the Nature family of",
-            "journals.",
-            "The ML Global Impact Report 2025 is",
-            "available for review at",
-            "AIResearchTrends.com."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T18:56:31.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/12/11/the-machine-learning-divide-marktechposts-latest-ml-global-impact-report-reveals-geographic-asymmetry-between-ml-tool-origins-and-research-adoption/"
-    },
-    {
-      "id": "550",
-      "topic": "NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Prime Recap Fail",
-      "mediumTitle": "Amazon Pulls AI Recaps",
-      "longTitle": "Amazon Removes AI Video Recaps After Errors",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The errors in the *Fallout* recap",
-            "related to key plot points and character",
-            "details.",
-            "Criticism arose quickly after the",
-            "release of the *Fallout* recap,",
-            "highlighting substantial inaccuracies.",
-            "Amazon responded to the feedback by",
-            "removing the recaps from all shows in",
-            "the initial test group.",
-            "The future of the \u201CVideo Recaps\u201D feature",
-            "depends on Amazon\u2019s success in resolving",
-            "these issues.",
-            "The removal suggests Amazon recognizes",
-            "the potential for AI to misrepresent",
-            "content.",
-            "Amazon Prime Video launched an",
-            "experimental AI-powered video recap",
-            "feature recently."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-11T18:46:11.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/842978/amazon-prime-video-ai-fallout-recap"
     }
   ]
 }
