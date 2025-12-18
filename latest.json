@@ -74,42 +74,6 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/846573/ai-toys-built-on-openais-chatgpt-inappropriate-content-senators-letter"
     },
     {
-      "id": "589",
-      "topic": "Training Tricks",
-      "source": "Marktechpost AI",
-      "shortTitle": "Tinker API",
-      "mediumTitle": "Thinking Machines Tinker GA",
-      "longTitle": "Tinker API Now Generally Available",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Thinking Machines Lab announced the",
-            "general availability of its Tinker",
-            "training API on an unspecified date.",
-            "By using Tinker, developers avoid the",
-            "complexities of building and maintaining",
-            "their own distributed training",
-            "infrastructure.",
-            "The Kimi K2 Thinking model provides",
-            "advanced reasoning abilities within the",
-            "Tinker environment.",
-            "Qwen3-VL vision language models enable",
-            "Tinker to process and understand image",
-            "inputs.",
-            "OpenAI-compatible sampling allows for",
-            "easier integration with tools and",
-            "techniques familiar to many developers.",
-            "This release is targeted towards AI",
-            "engineers seeking a streamlined solution",
-            "for model fine-tuning."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-17T05:36:13.000Z",
-      "ranking": 7.5249999999999995,
-      "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
-    },
-    {
       "id": "598",
       "topic": "Large Models, NLP",
       "source": "VentureBeat AI",
@@ -217,43 +181,6 @@
       "articleUrl": "https://www.theverge.com/news/846696/electricity-cost-ai-data-center-democrat-investigation"
     },
     {
-      "id": "592",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "Tesla Warning",
-      "mediumTitle": "Tesla Faces CA Sales Ban",
-      "longTitle": "Tesla\u0027s Autopilot Marketing Under Scrutiny",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The terms \u201CAutopilot\u201D and \u201CFull",
-            "Self-Driving\u201D imply a level of autonomy",
-            "the technology doesn\u2019t currently",
-            "achieve, according to the DMV.",
-            "A suspension or revocation of Tesla\u2019s",
-            "California license would significantly",
-            "impact the company\u2019s sales.",
-            "The DMV aims to ensure consumers",
-            "understand the limitations of the",
-            "technology and maintain full driver",
-            "attention.",
-            "California represents a substantial",
-            "market share for electric vehicles,",
-            "making this a critical issue for Tesla.",
-            "An administrative law judge supported",
-            "the DMV\u2019s assessment that Tesla\u2019s",
-            "marketing was deceptive.",
-            "The California Department of Motor",
-            "Vehicles (DMV) issued the warning to",
-            "Tesla regarding its marketing practices."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-17T07:48:33.000Z",
-      "ranking": 7.02,
-      "articleUrl": "https://www.theverge.com/news/846152/tesla-autopilot-marketing-deceptive-california-dmv"
-    },
-    {
       "id": "590",
       "topic": "Training Tricks",
       "source": "VentureBeat AI",
@@ -326,6 +253,79 @@
       "articleUrl": "https://venturebeat.com/ai/ai-is-moving-to-the-edge-and-network-security-needs-to-catch-up"
     },
     {
+      "id": "589",
+      "topic": "Training Tricks",
+      "source": "Marktechpost AI",
+      "shortTitle": "Tinker API",
+      "mediumTitle": "Thinking Machines Tinker GA",
+      "longTitle": "Tinker API Now Generally Available",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Thinking Machines Lab announced the",
+            "general availability of its Tinker",
+            "training API on an unspecified date.",
+            "By using Tinker, developers avoid the",
+            "complexities of building and maintaining",
+            "their own distributed training",
+            "infrastructure.",
+            "The Kimi K2 Thinking model provides",
+            "advanced reasoning abilities within the",
+            "Tinker environment.",
+            "Qwen3-VL vision language models enable",
+            "Tinker to process and understand image",
+            "inputs.",
+            "OpenAI-compatible sampling allows for",
+            "easier integration with tools and",
+            "techniques familiar to many developers.",
+            "This release is targeted towards AI",
+            "engineers seeking a streamlined solution",
+            "for model fine-tuning."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-17T05:36:13.000Z",
+      "ranking": 6.299167531189575,
+      "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
+    },
+    {
+      "id": "592",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "Tesla Warning",
+      "mediumTitle": "Tesla Faces CA Sales Ban",
+      "longTitle": "Tesla\u0027s Autopilot Marketing Under Scrutiny",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The terms \u201CAutopilot\u201D and \u201CFull",
+            "Self-Driving\u201D imply a level of autonomy",
+            "the technology doesn\u2019t currently",
+            "achieve, according to the DMV.",
+            "A suspension or revocation of Tesla\u2019s",
+            "California license would significantly",
+            "impact the company\u2019s sales.",
+            "The DMV aims to ensure consumers",
+            "understand the limitations of the",
+            "technology and maintain full driver",
+            "attention.",
+            "California represents a substantial",
+            "market share for electric vehicles,",
+            "making this a critical issue for Tesla.",
+            "An administrative law judge supported",
+            "the DMV\u2019s assessment that Tesla\u2019s",
+            "marketing was deceptive.",
+            "The California Department of Motor",
+            "Vehicles (DMV) issued the warning to",
+            "Tesla regarding its marketing practices."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-17T07:48:33.000Z",
+      "ranking": 5.989216584344547,
+      "articleUrl": "https://www.theverge.com/news/846152/tesla-autopilot-marketing-deceptive-california-dmv"
+    },
+    {
       "id": "585",
       "topic": "Vision, Generative AI",
       "source": "The Verge AI",
@@ -358,7 +358,7 @@
         }
       ],
       "publishedAt": "2025-12-16T14:15:36.000Z",
-      "ranking": 5.2861441332654735,
+      "ranking": 4.729771549641911,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-model-gpt-image-1-5"
     },
     {
@@ -395,7 +395,7 @@
         }
       ],
       "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 5.233346337076087,
+      "ranking": 4.687290317742314,
       "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
     },
     {
@@ -432,7 +432,7 @@
         }
       ],
       "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 4.538291387501502,
+      "ranking": 3.9922353674768547,
       "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
     },
     {
@@ -469,7 +469,7 @@
         }
       ],
       "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 3.9643174397839087,
+      "ranking": 3.2927896943361006,
       "articleUrl": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded"
     },
     {
@@ -505,7 +505,7 @@
         }
       ],
       "publishedAt": "2025-12-16T12:29:32.000Z",
-      "ranking": 3.7430799264616854,
+      "ranking": 3.1620622165681715,
       "articleUrl": "https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast"
     },
     {
@@ -541,7 +541,7 @@
         }
       ],
       "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 3.380681065845095,
+      "ranking": 2.709153320246452,
       "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
     },
     {
@@ -578,8 +578,42 @@
         }
       ],
       "publishedAt": "2025-12-15T21:16:00.000Z",
-      "ranking": 2.3899148489909656,
+      "ranking": 1.5966330583695,
       "articleUrl": "https://venturebeat.com/ai/korean-ai-startup-motif-reveals-4-big-lessons-for-training-enterprise-llms"
+    },
+    {
+      "id": "567",
+      "topic": "Security",
+      "source": "VentureBeat AI",
+      "shortTitle": "Tokenization",
+      "mediumTitle": "Data Security via Tokenization",
+      "longTitle": "Tokenization: A Modern Data Security Approach",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Securing data \u0027at birth\u0027 (upon creation)",
+            "is more effective than securing it only",
+            "when stored, according to Raghu.",
+            "Vaultless tokenization dynamically",
+            "generates tokens using algorithms and",
+            "cryptographic techniques, eliminating a",
+            "central vault.",
+            "Tokenization separates data value from",
+            "its inherent risk, presenting it as a",
+            "leading data security method.",
+            "Tokens map back to the original data,",
+            "which is securely stored in a digital",
+            "vault, preserving data format and",
+            "usability.",
+            "Databolt integrates seamlessly with",
+            "existing data warehouses and operates",
+            "within the customer\u2019s environment."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-15T16:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/tokenization-takes-the-lead-in-the-fight-for-data-security"
     },
     {
       "id": "575",
@@ -615,42 +649,8 @@
         }
       ],
       "publishedAt": "2025-12-15T15:18:48.000Z",
-      "ranking": 0.7097244480724347,
-      "articleUrl": "https://www.theverge.com/news/844804/trump-tech-force-usds-apple-google-microsoft"
-    },
-    {
-      "id": "567",
-      "topic": "Security",
-      "source": "VentureBeat AI",
-      "shortTitle": "Tokenization",
-      "mediumTitle": "Data Security via Tokenization",
-      "longTitle": "Tokenization: A Modern Data Security Approach",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Securing data \u0027at birth\u0027 (upon creation)",
-            "is more effective than securing it only",
-            "when stored, according to Raghu.",
-            "Vaultless tokenization dynamically",
-            "generates tokens using algorithms and",
-            "cryptographic techniques, eliminating a",
-            "central vault.",
-            "Tokenization separates data value from",
-            "its inherent risk, presenting it as a",
-            "leading data security method.",
-            "Tokens map back to the original data,",
-            "which is securely stored in a digital",
-            "vault, preserving data format and",
-            "usability.",
-            "Databolt integrates seamlessly with",
-            "existing data warehouses and operates",
-            "within the customer\u2019s environment."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T16:00:00.000Z",
       "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/tokenization-takes-the-lead-in-the-fight-for-data-security"
+      "articleUrl": "https://www.theverge.com/news/844804/trump-tech-force-usds-apple-google-microsoft"
     },
     {
       "id": "570",
@@ -799,6 +799,42 @@
       "articleUrl": "https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies"
     },
     {
+      "id": "574",
+      "topic": "Large Models, NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "Ai2 Bolmo",
+      "mediumTitle": "Ai2 Releases Bolmo Models",
+      "longTitle": "Allen Institute for AI Unveils Bolmo Language Models",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The Allen Institute for AI (Ai2) has",
+            "introduced Bolmo, a new family of",
+            "open-source, byte-level language models",
+            "(Bolmo 7B and Bolmo 1B).",
+            "These models are designed for",
+            "enterprises needing robust handling of",
+            "noisy, low-resource, or multilingual",
+            "text, and aim to make tokenizer-free",
+            "modeling practical at scale.",
+            "Byte-level models operate directly on",
+            "UTF-8 bytes, eliminating the need for a",
+            "predefined vocabulary and tokenizer,",
+            "which improves handling of misspellings,",
+            "rare languages, and unconventional text.",
+            "Bolmo 7B outperformed character-focused",
+            "benchmarks (CUTE, EXECUTE) and the base",
+            "Olmo 3 model, demonstrating strong",
+            "results in coding, math, multiple-choice",
+            "QA, and character-level understanding."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-15T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/bolmos-architecture-unlocks-efficient-byte-level-lm-training-without"
+    },
+    {
       "id": "568",
       "topic": "NLP",
       "source": "VentureBeat AI",
@@ -834,42 +870,6 @@
       "publishedAt": "2025-12-15T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/why-agentic-ai-needs-a-new-category-of-customer-data"
-    },
-    {
-      "id": "574",
-      "topic": "Large Models, NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "Ai2 Bolmo",
-      "mediumTitle": "Ai2 Releases Bolmo Models",
-      "longTitle": "Allen Institute for AI Unveils Bolmo Language Models",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The Allen Institute for AI (Ai2) has",
-            "introduced Bolmo, a new family of",
-            "open-source, byte-level language models",
-            "(Bolmo 7B and Bolmo 1B).",
-            "These models are designed for",
-            "enterprises needing robust handling of",
-            "noisy, low-resource, or multilingual",
-            "text, and aim to make tokenizer-free",
-            "modeling practical at scale.",
-            "Byte-level models operate directly on",
-            "UTF-8 bytes, eliminating the need for a",
-            "predefined vocabulary and tokenizer,",
-            "which improves handling of misspellings,",
-            "rare languages, and unconventional text.",
-            "Bolmo 7B outperformed character-focused",
-            "benchmarks (CUTE, EXECUTE) and the base",
-            "Olmo 3 model, demonstrating strong",
-            "results in coding, math, multiple-choice",
-            "QA, and character-level understanding."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/bolmos-architecture-unlocks-efficient-byte-level-lm-training-without"
     },
     {
       "id": "563",
