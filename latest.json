@@ -358,7 +358,7 @@
         }
       ],
       "publishedAt": "2025-12-16T14:15:36.000Z",
-      "ranking": 5.78133700452367,
+      "ranking": 5.2861441332654735,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-model-gpt-image-1-5"
     },
     {
@@ -395,7 +395,7 @@
         }
       ],
       "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 5.718336217629309,
+      "ranking": 5.233346337076087,
       "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
     },
     {
@@ -432,7 +432,7 @@
         }
       ],
       "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 5.023281268576096,
+      "ranking": 4.538291387501502,
       "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
     },
     {
@@ -469,7 +469,7 @@
         }
       ],
       "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 4.57339775215457,
+      "ranking": 3.9643174397839087,
       "articleUrl": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded"
     },
     {
@@ -505,7 +505,7 @@
         }
       ],
       "publishedAt": "2025-12-16T12:29:32.000Z",
-      "ranking": 4.262646610547101,
+      "ranking": 3.7430799264616854,
       "articleUrl": "https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast"
     },
     {
@@ -541,7 +541,7 @@
         }
       ],
       "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 3.9897613779015852,
+      "ranking": 3.380681065845095,
       "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
     },
     {
@@ -578,7 +578,7 @@
         }
       ],
       "publishedAt": "2025-12-15T21:16:00.000Z",
-      "ranking": 3.1194088389146817,
+      "ranking": 2.3899148489909656,
       "articleUrl": "https://venturebeat.com/ai/korean-ai-startup-motif-reveals-4-big-lessons-for-training-enterprise-llms"
     },
     {
@@ -615,8 +615,42 @@
         }
       ],
       "publishedAt": "2025-12-15T15:18:48.000Z",
-      "ranking": 1.521301960058043,
+      "ranking": 0.7097244480724347,
       "articleUrl": "https://www.theverge.com/news/844804/trump-tech-force-usds-apple-google-microsoft"
+    },
+    {
+      "id": "567",
+      "topic": "Security",
+      "source": "VentureBeat AI",
+      "shortTitle": "Tokenization",
+      "mediumTitle": "Data Security via Tokenization",
+      "longTitle": "Tokenization: A Modern Data Security Approach",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Securing data \u0027at birth\u0027 (upon creation)",
+            "is more effective than securing it only",
+            "when stored, according to Raghu.",
+            "Vaultless tokenization dynamically",
+            "generates tokens using algorithms and",
+            "cryptographic techniques, eliminating a",
+            "central vault.",
+            "Tokenization separates data value from",
+            "its inherent risk, presenting it as a",
+            "leading data security method.",
+            "Tokens map back to the original data,",
+            "which is securely stored in a digital",
+            "vault, preserving data format and",
+            "usability.",
+            "Databolt integrates seamlessly with",
+            "existing data warehouses and operates",
+            "within the customer\u2019s environment."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-15T16:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/tokenization-takes-the-lead-in-the-fight-for-data-security"
     },
     {
       "id": "570",
@@ -652,42 +686,8 @@
         }
       ],
       "publishedAt": "2025-12-15T12:01:53.000Z",
-      "ranking": 0.7969584997171477,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/844640/merriam-webster-ai-slop-word-of-the-year-2025"
-    },
-    {
-      "id": "567",
-      "topic": "Security",
-      "source": "VentureBeat AI",
-      "shortTitle": "Tokenization",
-      "mediumTitle": "Data Security via Tokenization",
-      "longTitle": "Tokenization: A Modern Data Security Approach",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Securing data \u0027at birth\u0027 (upon creation)",
-            "is more effective than securing it only",
-            "when stored, according to Raghu.",
-            "Vaultless tokenization dynamically",
-            "generates tokens using algorithms and",
-            "cryptographic techniques, eliminating a",
-            "central vault.",
-            "Tokenization separates data value from",
-            "its inherent risk, presenting it as a",
-            "leading data security method.",
-            "Tokens map back to the original data,",
-            "which is securely stored in a digital",
-            "vault, preserving data format and",
-            "usability.",
-            "Databolt integrates seamlessly with",
-            "existing data warehouses and operates",
-            "within the customer\u2019s environment."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T16:00:00.000Z",
-      "ranking": 0.7019248775617664,
-      "articleUrl": "https://venturebeat.com/ai/tokenization-takes-the-lead-in-the-fight-for-data-security"
     },
     {
       "id": "572",
@@ -721,45 +721,8 @@
         }
       ],
       "publishedAt": "2025-12-15T10:00:00.000Z",
-      "ranking": 0.6754711403183569,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/report/844454/musicians-tired-of-ai-clones"
-    },
-    {
-      "id": "568",
-      "topic": "NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI \u0026 Data",
-      "mediumTitle": "Agentic AI Needs Memory",
-      "longTitle": "Conversational Memory: The Key to AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Agentic AI requires a \u0027conversational",
-            "memory\u0027 \u2013 a real-time understanding of",
-            "the interaction and customer history.",
-            "The future of agentic AI depends on an",
-            "infrastructural shift towards",
-            "foundational conversational memory.",
-            "Organizations that prioritize",
-            "conversational memory as core",
-            "infrastructure gain a competitive",
-            "advantage.",
-            "Companies solving the infrastructure",
-            "problem will outperform those simply",
-            "integrating AI into existing systems.",
-            "Existing systems suffer from latency,",
-            "data fragmentation, and loss of",
-            "conversational nuance, hindering AI\u0027s",
-            "capabilities.",
-            "Agentic automation, allowing AI to make",
-            "nuanced decisions, is unlocked by a",
-            "robust conversational memory."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T06:00:00.000Z",
-      "ranking": 0.6647797569023375,
-      "articleUrl": "https://venturebeat.com/ai/why-agentic-ai-needs-a-new-category-of-customer-data"
     },
     {
       "id": "565",
@@ -834,6 +797,43 @@
       "publishedAt": "2025-12-15T08:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies"
+    },
+    {
+      "id": "568",
+      "topic": "NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI \u0026 Data",
+      "mediumTitle": "Agentic AI Needs Memory",
+      "longTitle": "Conversational Memory: The Key to AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Agentic AI requires a \u0027conversational",
+            "memory\u0027 \u2013 a real-time understanding of",
+            "the interaction and customer history.",
+            "The future of agentic AI depends on an",
+            "infrastructural shift towards",
+            "foundational conversational memory.",
+            "Organizations that prioritize",
+            "conversational memory as core",
+            "infrastructure gain a competitive",
+            "advantage.",
+            "Companies solving the infrastructure",
+            "problem will outperform those simply",
+            "integrating AI into existing systems.",
+            "Existing systems suffer from latency,",
+            "data fragmentation, and loss of",
+            "conversational nuance, hindering AI\u0027s",
+            "capabilities.",
+            "Agentic automation, allowing AI to make",
+            "nuanced decisions, is unlocked by a",
+            "robust conversational memory."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-15T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/why-agentic-ai-needs-a-new-category-of-customer-data"
     },
     {
       "id": "574",
