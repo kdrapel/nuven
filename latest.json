@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "id": "595",
-      "topic": "Environment",
-      "source": "The Verge AI",
-      "shortTitle": "AI Impact",
-      "mediumTitle": "AI\u0027s Growing Footprint",
-      "longTitle": "AI Systems\u0027 Environmental Costs Rise",
-      "paragraphs": [
-        {
-          "Lines": [
-            "New estimates indicate a significant and",
-            "rapidly increasing environmental impact",
-            "from Artificial Intelligence (AI).",
-            "AI\u2019s carbon pollution reached levels",
-            "comparable to that of New York City in",
-            "2025.",
-            "AI consumed as much water as the global",
-            "population does through bottled water",
-            "consumption in 2025.",
-            "The study acknowledges that these",
-            "figures likely underestimate the true",
-            "environmental cost.",
-            "The article highlights the substantial",
-            "resource demands \u2013 both in terms of",
-            "energy and water \u2013 associated with the",
-            "operation of AI systems.",
-            "The findings raise concerns about the",
-            "sustainability of rapidly developing AI",
-            "technologies."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-17T12:00:00.000Z",
-      "ranking": 8.245,
-      "articleUrl": "https://www.theverge.com/news/845831/ai-chips-data-center-power-water"
-    },
-    {
       "id": "601",
       "topic": "Safety, Ethics",
       "source": "The Verge AI",
@@ -146,6 +110,42 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/17/meta-ai-releases-sam-audio-a-state-of-the-art-unified-model-that-uses-intuitive-and-multimodal-prompts-for-audio-separation/"
     },
     {
+      "id": "595",
+      "topic": "Environment",
+      "source": "The Verge AI",
+      "shortTitle": "AI Impact",
+      "mediumTitle": "AI\u0027s Growing Footprint",
+      "longTitle": "AI Systems\u0027 Environmental Costs Rise",
+      "paragraphs": [
+        {
+          "Lines": [
+            "New estimates indicate a significant and",
+            "rapidly increasing environmental impact",
+            "from Artificial Intelligence (AI).",
+            "AI\u2019s carbon pollution reached levels",
+            "comparable to that of New York City in",
+            "2025.",
+            "AI consumed as much water as the global",
+            "population does through bottled water",
+            "consumption in 2025.",
+            "The study acknowledges that these",
+            "figures likely underestimate the true",
+            "environmental cost.",
+            "The article highlights the substantial",
+            "resource demands \u2013 both in terms of",
+            "energy and water \u2013 associated with the",
+            "operation of AI systems.",
+            "The findings raise concerns about the",
+            "sustainability of rapidly developing AI",
+            "technologies."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-17T12:00:00.000Z",
+      "ranking": 7.2321338812974565,
+      "articleUrl": "https://www.theverge.com/news/845831/ai-chips-data-center-power-water"
+    },
+    {
       "id": "599",
       "topic": "Energy",
       "source": "The Verge AI",
@@ -217,42 +217,6 @@
       "articleUrl": "https://venturebeat.com/technology/ai-agents-fail-63-of-the-time-on-complex-tasks-patronus-ai-says-its-new"
     },
     {
-      "id": "593",
-      "topic": "Security",
-      "source": "VentureBeat AI",
-      "shortTitle": "Edge AI Risk",
-      "mediumTitle": "Securing AI at the Edge",
-      "longTitle": "SMBs \u0026 the Rise of Edge AI Security",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Companies are often connecting devices",
-            "and deploying AI before establishing",
-            "robust security policies.",
-            "SMBs that proactively modernize their",
-            "connectivity and security will be best",
-            "positioned to scale AI successfully.",
-            "Future AI systems will not only run at",
-            "the edge but also actively secure it",
-            "through dynamic optimization and anomaly",
-            "detection.",
-            "Unmonitored devices, inconsistent access",
-            "controls, and unsegmented data flows are",
-            "key vulnerabilities at the edge.",
-            "SIM-based identity verification and",
-            "secure mobile connectivity are becoming",
-            "crucial security components.",
-            "SMBs are leveraging AI for applications",
-            "like smart assistants, predictive",
-            "inventory, and on-site analytics."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-17T09:00:00.000Z",
-      "ranking": 6.366666666666666,
-      "articleUrl": "https://venturebeat.com/ai/ai-is-moving-to-the-edge-and-network-security-needs-to-catch-up"
-    },
-    {
       "id": "589",
       "topic": "Training Tricks",
       "source": "Marktechpost AI",
@@ -285,7 +249,7 @@
         }
       ],
       "publishedAt": "2025-12-17T05:36:13.000Z",
-      "ranking": 6.299167531189575,
+      "ranking": 5.904652082965821,
       "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
     },
     {
@@ -322,8 +286,44 @@
         }
       ],
       "publishedAt": "2025-12-17T07:48:33.000Z",
-      "ranking": 5.989216584344547,
+      "ranking": 5.625166413939966,
       "articleUrl": "https://www.theverge.com/news/846152/tesla-autopilot-marketing-deceptive-california-dmv"
+    },
+    {
+      "id": "593",
+      "topic": "Security",
+      "source": "VentureBeat AI",
+      "shortTitle": "Edge AI Risk",
+      "mediumTitle": "Securing AI at the Edge",
+      "longTitle": "SMBs \u0026 the Rise of Edge AI Security",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Companies are often connecting devices",
+            "and deploying AI before establishing",
+            "robust security policies.",
+            "SMBs that proactively modernize their",
+            "connectivity and security will be best",
+            "positioned to scale AI successfully.",
+            "Future AI systems will not only run at",
+            "the edge but also actively secure it",
+            "through dynamic optimization and anomaly",
+            "detection.",
+            "Unmonitored devices, inconsistent access",
+            "controls, and unsegmented data flows are",
+            "key vulnerabilities at the edge.",
+            "SIM-based identity verification and",
+            "secure mobile connectivity are becoming",
+            "crucial security components.",
+            "SMBs are leveraging AI for applications",
+            "like smart assistants, predictive",
+            "inventory, and on-site analytics."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-17T09:00:00.000Z",
+      "ranking": 5.086572021893918,
+      "articleUrl": "https://venturebeat.com/ai/ai-is-moving-to-the-edge-and-network-security-needs-to-catch-up"
     },
     {
       "id": "585",
@@ -358,7 +358,7 @@
         }
       ],
       "publishedAt": "2025-12-16T14:15:36.000Z",
-      "ranking": 4.729771549641911,
+      "ranking": 4.123315192914394,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-model-gpt-image-1-5"
     },
     {
@@ -395,7 +395,7 @@
         }
       ],
       "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 4.687290317742314,
+      "ranking": 4.09105556084784,
       "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
     },
     {
@@ -432,7 +432,7 @@
         }
       ],
       "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 3.9922353674768547,
+      "ranking": 3.3960006106843372,
       "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
     },
     {
@@ -469,7 +469,7 @@
         }
       ],
       "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 3.2927896943361006,
+      "ranking": 2.572238171111742,
       "articleUrl": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded"
     },
     {
@@ -505,7 +505,7 @@
         }
       ],
       "publishedAt": "2025-12-16T12:29:32.000Z",
-      "ranking": 3.1620622165681715,
+      "ranking": 2.531187589965854,
       "articleUrl": "https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast"
     },
     {
@@ -541,7 +541,7 @@
         }
       ],
       "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 2.709153320246452,
+      "ranking": 1.9886017964962592,
       "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
     },
     {
@@ -578,7 +578,7 @@
         }
       ],
       "publishedAt": "2025-12-15T21:16:00.000Z",
-      "ranking": 1.5966330583695,
+      "ranking": 0.7554482288276327,
       "articleUrl": "https://venturebeat.com/ai/korean-ai-startup-motif-reveals-4-big-lessons-for-training-enterprise-llms"
     },
     {
@@ -799,42 +799,6 @@
       "articleUrl": "https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies"
     },
     {
-      "id": "574",
-      "topic": "Large Models, NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "Ai2 Bolmo",
-      "mediumTitle": "Ai2 Releases Bolmo Models",
-      "longTitle": "Allen Institute for AI Unveils Bolmo Language Models",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The Allen Institute for AI (Ai2) has",
-            "introduced Bolmo, a new family of",
-            "open-source, byte-level language models",
-            "(Bolmo 7B and Bolmo 1B).",
-            "These models are designed for",
-            "enterprises needing robust handling of",
-            "noisy, low-resource, or multilingual",
-            "text, and aim to make tokenizer-free",
-            "modeling practical at scale.",
-            "Byte-level models operate directly on",
-            "UTF-8 bytes, eliminating the need for a",
-            "predefined vocabulary and tokenizer,",
-            "which improves handling of misspellings,",
-            "rare languages, and unconventional text.",
-            "Bolmo 7B outperformed character-focused",
-            "benchmarks (CUTE, EXECUTE) and the base",
-            "Olmo 3 model, demonstrating strong",
-            "results in coding, math, multiple-choice",
-            "QA, and character-level understanding."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/bolmos-architecture-unlocks-efficient-byte-level-lm-training-without"
-    },
-    {
       "id": "568",
       "topic": "NLP",
       "source": "VentureBeat AI",
@@ -870,6 +834,42 @@
       "publishedAt": "2025-12-15T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/why-agentic-ai-needs-a-new-category-of-customer-data"
+    },
+    {
+      "id": "574",
+      "topic": "Large Models, NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "Ai2 Bolmo",
+      "mediumTitle": "Ai2 Releases Bolmo Models",
+      "longTitle": "Allen Institute for AI Unveils Bolmo Language Models",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The Allen Institute for AI (Ai2) has",
+            "introduced Bolmo, a new family of",
+            "open-source, byte-level language models",
+            "(Bolmo 7B and Bolmo 1B).",
+            "These models are designed for",
+            "enterprises needing robust handling of",
+            "noisy, low-resource, or multilingual",
+            "text, and aim to make tokenizer-free",
+            "modeling practical at scale.",
+            "Byte-level models operate directly on",
+            "UTF-8 bytes, eliminating the need for a",
+            "predefined vocabulary and tokenizer,",
+            "which improves handling of misspellings,",
+            "rare languages, and unconventional text.",
+            "Bolmo 7B outperformed character-focused",
+            "benchmarks (CUTE, EXECUTE) and the base",
+            "Olmo 3 model, demonstrating strong",
+            "results in coding, math, multiple-choice",
+            "QA, and character-level understanding."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-15T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/bolmos-architecture-unlocks-efficient-byte-level-lm-training-without"
     },
     {
       "id": "563",
