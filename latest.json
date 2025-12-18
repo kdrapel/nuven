@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "609",
+      "topic": "Security",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini AI Check",
+      "mediumTitle": "Gemini Can Verify AI Videos",
+      "longTitle": "Google\u0027s Gemini Checks for Google AI Origins",
+      "paragraphs": [
+        {
+          "Lines": [
+            "If SynthID is detected within the video,",
+            "Gemini confirms that it was generated",
+            "using Google AI.",
+            "Conversely, if SynthID is not found,",
+            "Gemini indicates it cannot detect Google",
+            "AI involvement.",
+            "Google has added a new capability to its",
+            "Gemini application focused on",
+            "AI-generated content verification.",
+            "SynthID is Google\u2019s proprietary digital",
+            "watermark used to identify content",
+            "created by its AI models.",
+            "The feature is designed to help users",
+            "determine the origin of videos and",
+            "whether they were created or altered by",
+            "Google AI.",
+            "This new feature aims to address growing",
+            "concerns about the authenticity of",
+            "online video content."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-18T16:31:22.000Z",
+      "ranking": 7.54,
+      "articleUrl": "https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos"
+    },
+    {
       "id": "606",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -34,41 +70,6 @@
       "publishedAt": "2025-12-18T18:00:00.000Z",
       "ranking": 7.5,
       "articleUrl": "https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard"
-    },
-    {
-      "id": "598",
-      "topic": "Large Models, NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "Gemini 3 Flash",
-      "mediumTitle": "Google\u0027s New Enterprise AI",
-      "longTitle": "Gemini 3 Flash: Fast, Cheap, Powerful",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has released Gemini 3 Flash, a",
-            "new large language model specifically",
-            "designed for enterprise applications.",
-            "Gemini 3 Flash costs $0.50 per 1 million",
-            "input tokens and $3.00 per 1 million",
-            "output tokens.",
-            "It delivers performance comparable to",
-            "Gemini 3 Pro but at a lower cost and",
-            "with faster processing speeds.",
-            "This is compared to Gemini 2.5 Pro\u2019s",
-            "pricing of $1.25/$10.00 for the same",
-            "token amounts.",
-            "Gemini 3 Flash achieved a score of 78%",
-            "on the SWE-Bench Verified benchmark,",
-            "surpassing Gemini 2.5 and 3 Pro.",
-            "Gemini 3 Flash currently leads in",
-            "knowledge accuracy on the AA-Omniscience",
-            "benchmark."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-17T20:24:00.000Z",
-      "ranking": 7.425000000000001,
-      "articleUrl": "https://venturebeat.com/technology/gemini-3-flash-arrives-with-reduced-costs-and-latency-a-powerful-combo-for"
     },
     {
       "id": "605",
@@ -108,6 +109,42 @@
       "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
     },
     {
+      "id": "608",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "LG Copilot",
+      "mediumTitle": "LG to Allow Copilot Removal",
+      "longTitle": "LG Responds to User Concerns About Copilot",
+      "paragraphs": [
+        {
+          "Lines": [
+            "LG initially installed the Microsoft",
+            "Copilot shortcut on its TVs without",
+            "obtaining explicit consent from users.",
+            "This lack of user consent was a primary",
+            "driver of the negative reaction and",
+            "subsequent calls for a removal option.",
+            "The Verge reported on LG\u2019s confirmation",
+            "that they will address the issue.",
+            "LG\u2019s decision demonstrates a",
+            "responsiveness to consumer concerns",
+            "regarding pre-installed software.",
+            "The company\u2019s statement emphasizes its",
+            "commitment to respecting user",
+            "preferences.",
+            "Currently, the specific implementation",
+            "details for the shortcut removal remain",
+            "unknown.",
+            "It is unclear whether all LG television",
+            "models will receive the update."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-18T16:31:51.000Z",
+      "ranking": 6.43,
+      "articleUrl": "https://www.theverge.com/news/847685/lg-copilot-web-app-delete"
+    },
+    {
       "id": "601",
       "topic": "Safety, Ethics",
       "source": "The Verge AI",
@@ -141,8 +178,43 @@
         }
       ],
       "publishedAt": "2025-12-17T15:03:31.000Z",
-      "ranking": 6.5494495042911645,
+      "ranking": 6.1189279541788295,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/846573/ai-toys-built-on-openais-chatgpt-inappropriate-content-senators-letter"
+    },
+    {
+      "id": "598",
+      "topic": "Large Models, NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "Gemini 3 Flash",
+      "mediumTitle": "Google\u0027s New Enterprise AI",
+      "longTitle": "Gemini 3 Flash: Fast, Cheap, Powerful",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has released Gemini 3 Flash, a",
+            "new large language model specifically",
+            "designed for enterprise applications.",
+            "Gemini 3 Flash costs $0.50 per 1 million",
+            "input tokens and $3.00 per 1 million",
+            "output tokens.",
+            "It delivers performance comparable to",
+            "Gemini 3 Pro but at a lower cost and",
+            "with faster processing speeds.",
+            "This is compared to Gemini 2.5 Pro\u2019s",
+            "pricing of $1.25/$10.00 for the same",
+            "token amounts.",
+            "Gemini 3 Flash achieved a score of 78%",
+            "on the SWE-Bench Verified benchmark,",
+            "surpassing Gemini 2.5 and 3 Pro.",
+            "Gemini 3 Flash currently leads in",
+            "knowledge accuracy on the AA-Omniscience",
+            "benchmark."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-17T20:24:00.000Z",
+      "ranking": 6.085831504003095,
+      "articleUrl": "https://venturebeat.com/technology/gemini-3-flash-arrives-with-reduced-costs-and-latency-a-powerful-combo-for"
     },
     {
       "id": "595",
@@ -177,7 +249,7 @@
         }
       ],
       "publishedAt": "2025-12-17T12:00:00.000Z",
-      "ranking": 6.446105646840637,
+      "ranking": 5.973274359083957,
       "articleUrl": "https://www.theverge.com/news/845831/ai-chips-data-center-power-water"
     },
     {
@@ -214,7 +286,7 @@
         }
       ],
       "publishedAt": "2025-12-17T18:48:13.000Z",
-      "ranking": 6.256175773062317,
+      "ranking": 5.877458727632478,
       "articleUrl": "https://www.marktechpost.com/2025/12/17/meta-ai-releases-sam-audio-a-state-of-the-art-unified-model-that-uses-intuitive-and-multimodal-prompts-for-audio-separation/"
     },
     {
@@ -249,7 +321,7 @@
         }
       ],
       "publishedAt": "2025-12-17T17:12:16.000Z",
-      "ranking": 5.890776757865097,
+      "ranking": 5.489938464945987,
       "articleUrl": "https://www.theverge.com/news/846696/electricity-cost-ai-data-center-democrat-investigation"
     },
     {
@@ -285,7 +357,7 @@
         }
       ],
       "publishedAt": "2025-12-17T15:00:00.000Z",
-      "ranking": 5.516242350123045,
+      "ranking": 5.0849100115363175,
       "articleUrl": "https://venturebeat.com/technology/ai-agents-fail-63-of-the-time-on-complex-tasks-patronus-ai-says-its-new"
     },
     {
@@ -321,7 +393,7 @@
         }
       ],
       "publishedAt": "2025-12-17T05:36:13.000Z",
-      "ranking": 4.940155847389911,
+      "ranking": 4.37884336589406,
       "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
     },
     {
@@ -358,7 +430,7 @@
         }
       ],
       "publishedAt": "2025-12-17T07:48:33.000Z",
-      "ranking": 4.722208149355881,
+      "ranking": 4.191405081612113,
       "articleUrl": "https://www.theverge.com/news/846152/tesla-autopilot-marketing-deceptive-california-dmv"
     },
     {
@@ -394,7 +466,7 @@
         }
       ],
       "publishedAt": "2025-12-17T09:00:00.000Z",
-      "ranking": 4.2168396118800695,
+      "ranking": 3.702509311445887,
       "articleUrl": "https://venturebeat.com/ai/ai-is-moving-to-the-edge-and-network-security-needs-to-catch-up"
     },
     {
@@ -430,7 +502,7 @@
         }
       ],
       "publishedAt": "2025-12-16T14:15:36.000Z",
-      "ranking": 2.7307115156508095,
+      "ranking": 1.9571510861112262,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-model-gpt-image-1-5"
     },
     {
@@ -467,7 +539,7 @@
         }
       ],
       "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 2.7190988800912272,
+      "ranking": 1.9557748552470287,
       "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
     },
     {
@@ -504,7 +576,7 @@
         }
       ],
       "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 2.0240439271101858,
+      "ranking": 1.2607199020031858,
       "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
     },
     {
@@ -540,7 +612,7 @@
         }
       ],
       "publishedAt": "2025-12-16T12:29:32.000Z",
-      "ranking": 1.0892605282859211,
+      "ranking": 0.29124586068227387,
       "articleUrl": "https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast"
     },
     {
@@ -577,7 +649,7 @@
         }
       ],
       "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 0.9491693429221719,
+      "ranking": 0.06134778907605387,
       "articleUrl": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded"
     },
     {
@@ -613,7 +685,7 @@
         }
       ],
       "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 0.3655329717940381,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
     },
     {
@@ -1048,42 +1120,6 @@
       "publishedAt": "2025-12-14T04:01:30.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/"
-    },
-    {
-      "id": "559",
-      "topic": "Dev Tools",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Coding",
-      "mediumTitle": "AI Coding Pilots Fail",
-      "longTitle": "Why Enterprise AI Coding Pilots Underperform",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Successful implementation depends on",
-            "treating context as an engineered asset",
-            "and workflow as a product.",
-            "Agentic coding is fundamentally a data",
-            "problem, requiring a new data layer to",
-            "capture engineering intent and",
-            "decision-making.",
-            "AI agents require a deep understanding",
-            "of the codebase, including modules,",
-            "dependencies, tests, architectural",
-            "conventions, and change history.",
-            "Agents should be treated as data",
-            "infrastructure, capturing plans, context",
-            "snapshots, and test runs as valuable",
-            "data.",
-            "Initial deployments of AI coding agents",
-            "often result in decreased productivity",
-            "due to the need for verification,",
-            "rework, and resolving confusion."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-13T21:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/why-most-enterprise-ai-coding-pilots-underperform-hint-its-not-the-model"
     }
   ]
 }
