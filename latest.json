@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "606",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Skills",
+      "mediumTitle": "Anthropic Launches AI Skills",
+      "longTitle": "Anthropic\u0027s Open Standard Challenges OpenAI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Anthropic\u2019s \u0027Agent Skills\u0027 directly",
+            "challenges OpenAI in the enterprise AI",
+            "market by offering an open standard.",
+            "Anthropic believes that fostering",
+            "ecosystem growth through an open",
+            "standard is more valuable than",
+            "proprietary lock-in.",
+            "Internal research shows a 50%",
+            "productivity boost for engineers using",
+            "Claude with skills, enabling 27% new",
+            "tasks.",
+            "OpenAI has already adopted a similar",
+            "architecture within ChatGPT and its",
+            "Codex CLI tool, indicating the success",
+            "of Anthropic\u2019s strategy.",
+            "The system uses \u0027progressive disclosure\u0027",
+            "to manage AI memory by loading details",
+            "only when necessary."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-18T18:00:00.000Z",
+      "ranking": 7.5,
+      "articleUrl": "https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard"
+    },
+    {
       "id": "598",
       "topic": "Large Models, NLP",
       "source": "VentureBeat AI",
@@ -36,76 +71,41 @@
       "articleUrl": "https://venturebeat.com/technology/gemini-3-flash-arrives-with-reduced-costs-and-latency-a-powerful-combo-for"
     },
     {
-      "id": "597",
-      "topic": "Speech",
-      "source": "Marktechpost AI",
-      "shortTitle": "SAM Audio",
-      "mediumTitle": "Meta\u0027s New Audio Tool",
-      "longTitle": "SAM Audio: Sound Separation with AI",
+      "id": "605",
+      "topic": "Vision",
+      "source": "VentureBeat AI",
+      "shortTitle": "Palona AI",
+      "mediumTitle": "Palona AI Shifts Focus",
+      "longTitle": "Palona AI Targets Hospitality",
       "paragraphs": [
         {
           "Lines": [
-            "Meta AI has released SAM Audio to tackle",
-            "the problem of separating individual",
-            "sounds from mixed audio recordings.",
-            "SAM Audio distinguishes itself by being",
-            "a unified model, capable of separating",
-            "sounds based on intuitive text prompts.",
-            "By functioning as a prompt-driven tool,",
-            "SAM Audio simplifies the audio editing",
-            "workflow.",
-            "This eliminates the time-consuming",
-            "process of creating and training",
-            "specialized models for each desired",
-            "sound separation task.",
-            "Traditional audio separation techniques",
-            "often require training a unique model",
-            "for each type of sound you want to",
-            "isolate.",
-            "The Segment Anything platform serves as",
-            "the central hub for both downloading and",
-            "testing the capabilities of SAM Audio."
+            "Palona aims to create specialized",
+            "\u201Coperating systems\u201D for specific",
+            "domains.",
+            "Palona built \u201CMuffin,\u201D a proprietary",
+            "memory management system with four",
+            "layers, to improve accuracy and",
+            "personalization in restaurant",
+            "interactions.",
+            "Palona developed a patent-pending",
+            "orchestration layer to avoid being",
+            "locked into a single LLM vendor.",
+            "Palona Vision and Palona Workflow",
+            "together function as an automated",
+            "\u201Cdigital GM\u201D for restaurant operations.",
+            "Palona uses a framework called \u201CGRACE\u201D",
+            "to ensure AI reliability and prevent",
+            "hallucinations.",
+            "Palona AI was founded by former",
+            "engineering leaders from Google and",
+            "Meta."
           ]
         }
       ],
-      "publishedAt": "2025-12-17T18:48:13.000Z",
-      "ranking": 7.375,
-      "articleUrl": "https://www.marktechpost.com/2025/12/17/meta-ai-releases-sam-audio-a-state-of-the-art-unified-model-that-uses-intuitive-and-multimodal-prompts-for-audio-separation/"
-    },
-    {
-      "id": "599",
-      "topic": "Energy",
-      "source": "The Verge AI",
-      "shortTitle": "Data Center Probe",
-      "mediumTitle": "Senators Investigate Energy Costs",
-      "longTitle": "Data Centers \u0026 Electricity Prices Under Scrutiny",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The senators are seeking to understand",
-            "how data center energy consumption",
-            "contributes to rising costs.",
-            "The senators want to know if consumers",
-            "are unfairly bearing the burden of these",
-            "rising costs.",
-            "Democratic senators are concerned about",
-            "the substantial energy demands of these",
-            "data centers.",
-            "The investigation will focus on energy",
-            "usage data, contracts with utility",
-            "companies, and mitigation strategies.",
-            "The investigation is a direct response",
-            "to the growing national concern over",
-            "increasing electricity prices.",
-            "On Tuesday, a letter was sent to the",
-            "tech companies and developers requesting",
-            "detailed information."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-17T17:12:16.000Z",
-      "ranking": 7.155,
-      "articleUrl": "https://www.theverge.com/news/846696/electricity-cost-ai-data-center-democrat-investigation"
+      "publishedAt": "2025-12-18T19:10:00.000Z",
+      "ranking": 7.262499999999999,
+      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
     },
     {
       "id": "601",
@@ -141,7 +141,7 @@
         }
       ],
       "publishedAt": "2025-12-17T15:03:31.000Z",
-      "ranking": 6.925250560497849,
+      "ranking": 6.5494495042911645,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/846573/ai-toys-built-on-openais-chatgpt-inappropriate-content-senators-letter"
     },
     {
@@ -177,8 +177,80 @@
         }
       ],
       "publishedAt": "2025-12-17T12:00:00.000Z",
-      "ranking": 6.8642637059839355,
+      "ranking": 6.446105646840637,
       "articleUrl": "https://www.theverge.com/news/845831/ai-chips-data-center-power-water"
+    },
+    {
+      "id": "597",
+      "topic": "Speech",
+      "source": "Marktechpost AI",
+      "shortTitle": "SAM Audio",
+      "mediumTitle": "Meta\u0027s New Audio Tool",
+      "longTitle": "SAM Audio: Sound Separation with AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta AI has released SAM Audio to tackle",
+            "the problem of separating individual",
+            "sounds from mixed audio recordings.",
+            "SAM Audio distinguishes itself by being",
+            "a unified model, capable of separating",
+            "sounds based on intuitive text prompts.",
+            "By functioning as a prompt-driven tool,",
+            "SAM Audio simplifies the audio editing",
+            "workflow.",
+            "This eliminates the time-consuming",
+            "process of creating and training",
+            "specialized models for each desired",
+            "sound separation task.",
+            "Traditional audio separation techniques",
+            "often require training a unique model",
+            "for each type of sound you want to",
+            "isolate.",
+            "The Segment Anything platform serves as",
+            "the central hub for both downloading and",
+            "testing the capabilities of SAM Audio."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-17T18:48:13.000Z",
+      "ranking": 6.256175773062317,
+      "articleUrl": "https://www.marktechpost.com/2025/12/17/meta-ai-releases-sam-audio-a-state-of-the-art-unified-model-that-uses-intuitive-and-multimodal-prompts-for-audio-separation/"
+    },
+    {
+      "id": "599",
+      "topic": "Energy",
+      "source": "The Verge AI",
+      "shortTitle": "Data Center Probe",
+      "mediumTitle": "Senators Investigate Energy Costs",
+      "longTitle": "Data Centers \u0026 Electricity Prices Under Scrutiny",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The senators are seeking to understand",
+            "how data center energy consumption",
+            "contributes to rising costs.",
+            "The senators want to know if consumers",
+            "are unfairly bearing the burden of these",
+            "rising costs.",
+            "Democratic senators are concerned about",
+            "the substantial energy demands of these",
+            "data centers.",
+            "The investigation will focus on energy",
+            "usage data, contracts with utility",
+            "companies, and mitigation strategies.",
+            "The investigation is a direct response",
+            "to the growing national concern over",
+            "increasing electricity prices.",
+            "On Tuesday, a letter was sent to the",
+            "tech companies and developers requesting",
+            "detailed information."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-17T17:12:16.000Z",
+      "ranking": 5.890776757865097,
+      "articleUrl": "https://www.theverge.com/news/846696/electricity-cost-ai-data-center-democrat-investigation"
     },
     {
       "id": "590",
@@ -213,7 +285,7 @@
         }
       ],
       "publishedAt": "2025-12-17T15:00:00.000Z",
-      "ranking": 5.892855088020988,
+      "ranking": 5.516242350123045,
       "articleUrl": "https://venturebeat.com/technology/ai-agents-fail-63-of-the-time-on-complex-tasks-patronus-ai-says-its-new"
     },
     {
@@ -249,7 +321,7 @@
         }
       ],
       "publishedAt": "2025-12-17T05:36:13.000Z",
-      "ranking": 5.446894013296181,
+      "ranking": 4.940155847389911,
       "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
     },
     {
@@ -286,7 +358,7 @@
         }
       ],
       "publishedAt": "2025-12-17T07:48:33.000Z",
-      "ranking": 5.198402807251333,
+      "ranking": 4.722208149355881,
       "articleUrl": "https://www.theverge.com/news/846152/tesla-autopilot-marketing-deceptive-california-dmv"
     },
     {
@@ -322,7 +394,7 @@
         }
       ],
       "publishedAt": "2025-12-17T09:00:00.000Z",
-      "ranking": 4.676543074487453,
+      "ranking": 4.2168396118800695,
       "articleUrl": "https://venturebeat.com/ai/ai-is-moving-to-the-edge-and-network-security-needs-to-catch-up"
     },
     {
@@ -358,7 +430,7 @@
         }
       ],
       "publishedAt": "2025-12-16T14:15:36.000Z",
-      "ranking": 3.4499348059759196,
+      "ranking": 2.7307115156508095,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-model-gpt-image-1-5"
     },
     {
@@ -395,7 +467,7 @@
         }
       ],
       "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 3.4280743219121295,
+      "ranking": 2.7190988800912272,
       "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
     },
     {
@@ -432,7 +504,7 @@
         }
       ],
       "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 2.7330193708778783,
+      "ranking": 2.0240439271101858,
       "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
     },
     {
@@ -468,7 +540,7 @@
         }
       ],
       "publishedAt": "2025-12-16T12:29:32.000Z",
-      "ranking": 1.832964792553554,
+      "ranking": 1.0892605282859211,
       "articleUrl": "https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast"
     },
     {
@@ -505,7 +577,7 @@
         }
       ],
       "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 1.782780780621568,
+      "ranking": 0.9491693429221719,
       "articleUrl": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded"
     },
     {
@@ -541,7 +613,7 @@
         }
       ],
       "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 1.1991444107878602,
+      "ranking": 0.3655329717940381,
       "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
     },
     {
@@ -1012,78 +1084,6 @@
       "publishedAt": "2025-12-13T21:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/why-most-enterprise-ai-coding-pilots-underperform-hint-its-not-the-model"
-    },
-    {
-      "id": "558",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Nanbeige4-3B",
-      "mediumTitle": "Small LLM, Big Reasoning",
-      "longTitle": "Nanbeige4-3B: Reasoning with 3B Parameters",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This is accomplished by refining the",
-            "training process, rather than simply",
-            "scaling up the model size.",
-            "The goal is to achieve reasoning",
-            "capabilities similar to models that are",
-            "ten times larger.",
-            "The training process leveraged a very",
-            "large dataset of 23 trillion tokens.",
-            "Data quality is a key focus in the",
-            "training methodology.",
-            "A carefully designed curriculum guides",
-            "the model\u0027s learning process.",
-            "Reinforcement learning is also utilized",
-            "to enhance performance.",
-            "Distillation techniques are employed to",
-            "transfer knowledge efficiently.",
-            "Nanbeige4-3B is a language model with 3",
-            "billion parameters.",
-            "The released checkpoints represent the",
-            "culmination of this research effort."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-13T07:00:36.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/12/12/nanbeige4-3b-thinking-how-a-23t-token-pipeline-pushes-3b-models-past-30b-class-reasoning/"
-    },
-    {
-      "id": "551",
-      "topic": "Speech, NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Translate Beta",
-      "mediumTitle": "Google Translate Expands",
-      "longTitle": "Real-time Translation for All Headphones",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google Translate has expanded its",
-            "real-time speech translation capability,",
-            "previously exclusive to Pixel Buds, to",
-            "work with *any* headphones.",
-            "This feature is rolling out today in",
-            "beta on Android, making it available to",
-            "a wider range of users.",
-            "The real-time translation supports over",
-            "70 languages, facilitating communication",
-            "across diverse linguistic backgrounds.",
-            "Unlike Apple\u2019s comparable functionality",
-            "which is limited to AirPods, Google\u2019s",
-            "implementation doesn\u2019t require specific",
-            "hardware.",
-            "The feature functions with any",
-            "compatible headphones connected to an",
-            "Android phone running the Google",
-            "Translate app."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-12T14:11:14.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones"
     }
   ]
 }
