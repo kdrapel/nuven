@@ -145,6 +145,41 @@
       "articleUrl": "https://www.theverge.com/news/847685/lg-copilot-web-app-delete"
     },
     {
+      "id": "610",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Minors",
+      "mediumTitle": "AI Platforms Address Underage Use",
+      "longTitle": "OpenAI \u0026 Anthropic Tighten Rules for Young Users",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Anthropic\u2019s strategy is more",
+            "restrictive, aiming to completely remove",
+            "underage users.",
+            "The companies are working on detection",
+            "and enforcement mechanisms, but the",
+            "methods are currently unspecified.",
+            "OpenAI\u2019s changes indicate a move towards",
+            "a more defined approach to handling",
+            "younger users on ChatGPT.",
+            "The announcements from both companies",
+            "signal a proactive approach to",
+            "responsible AI development.",
+            "Both OpenAI and Anthropic are responding",
+            "to concerns about the use of their AI",
+            "platforms by minors.",
+            "This represents a growing trend of AI",
+            "companies addressing the unique",
+            "challenges posed by younger users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-18T17:55:59.000Z",
+      "ranking": 5.5299999999999985,
+      "articleUrl": "https://www.theverge.com/news/847780/openai-anthropic-teen-safety-chatgpt-claude"
+    },
+    {
       "id": "598",
       "topic": "Large Models, NLP",
       "source": "VentureBeat AI",
@@ -176,7 +211,7 @@
         }
       ],
       "publishedAt": "2025-12-17T20:24:00.000Z",
-      "ranking": 5.673443347306481,
+      "ranking": 5.205438071764077,
       "articleUrl": "https://venturebeat.com/technology/gemini-3-flash-arrives-with-reduced-costs-and-latency-a-powerful-combo-for"
     },
     {
@@ -213,79 +248,8 @@
         }
       ],
       "publishedAt": "2025-12-17T15:03:31.000Z",
-      "ranking": 5.632544002591008,
+      "ranking": 5.090491244628179,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/846573/ai-toys-built-on-openais-chatgpt-inappropriate-content-senators-letter"
-    },
-    {
-      "id": "610",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Minors",
-      "mediumTitle": "AI Platforms Address Underage Use",
-      "longTitle": "OpenAI \u0026 Anthropic Tighten Rules for Young Users",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Anthropic\u2019s strategy is more",
-            "restrictive, aiming to completely remove",
-            "underage users.",
-            "The companies are working on detection",
-            "and enforcement mechanisms, but the",
-            "methods are currently unspecified.",
-            "OpenAI\u2019s changes indicate a move towards",
-            "a more defined approach to handling",
-            "younger users on ChatGPT.",
-            "The announcements from both companies",
-            "signal a proactive approach to",
-            "responsible AI development.",
-            "Both OpenAI and Anthropic are responding",
-            "to concerns about the use of their AI",
-            "platforms by minors.",
-            "This represents a growing trend of AI",
-            "companies addressing the unique",
-            "challenges posed by younger users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-18T17:55:59.000Z",
-      "ranking": 5.5299999999999985,
-      "articleUrl": "https://www.theverge.com/news/847780/openai-anthropic-teen-safety-chatgpt-claude"
-    },
-    {
-      "id": "595",
-      "topic": "Environment",
-      "source": "The Verge AI",
-      "shortTitle": "AI Impact",
-      "mediumTitle": "AI\u0027s Growing Footprint",
-      "longTitle": "AI Systems\u0027 Environmental Costs Rise",
-      "paragraphs": [
-        {
-          "Lines": [
-            "New estimates indicate a significant and",
-            "rapidly increasing environmental impact",
-            "from Artificial Intelligence (AI).",
-            "AI\u2019s carbon pollution reached levels",
-            "comparable to that of New York City in",
-            "2025.",
-            "AI consumed as much water as the global",
-            "population does through bottled water",
-            "consumption in 2025.",
-            "The study acknowledges that these",
-            "figures likely underestimate the true",
-            "environmental cost.",
-            "The article highlights the substantial",
-            "resource demands \u2013 both in terms of",
-            "energy and water \u2013 associated with the",
-            "operation of AI systems.",
-            "The findings raise concerns about the",
-            "sustainability of rapidly developing AI",
-            "technologies."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-17T12:00:00.000Z",
-      "ranking": 5.4445180372425375,
-      "articleUrl": "https://www.theverge.com/news/845831/ai-chips-data-center-power-water"
     },
     {
       "id": "597",
@@ -321,8 +285,44 @@
         }
       ],
       "publishedAt": "2025-12-17T18:48:13.000Z",
-      "ranking": 5.442954855387905,
+      "ranking": 4.952819378212849,
       "articleUrl": "https://www.marktechpost.com/2025/12/17/meta-ai-releases-sam-audio-a-state-of-the-art-unified-model-that-uses-intuitive-and-multimodal-prompts-for-audio-separation/"
+    },
+    {
+      "id": "595",
+      "topic": "Environment",
+      "source": "The Verge AI",
+      "shortTitle": "AI Impact",
+      "mediumTitle": "AI\u0027s Growing Footprint",
+      "longTitle": "AI Systems\u0027 Environmental Costs Rise",
+      "paragraphs": [
+        {
+          "Lines": [
+            "New estimates indicate a significant and",
+            "rapidly increasing environmental impact",
+            "from Artificial Intelligence (AI).",
+            "AI\u2019s carbon pollution reached levels",
+            "comparable to that of New York City in",
+            "2025.",
+            "AI consumed as much water as the global",
+            "population does through bottled water",
+            "consumption in 2025.",
+            "The study acknowledges that these",
+            "figures likely underestimate the true",
+            "environmental cost.",
+            "The article highlights the substantial",
+            "resource demands \u2013 both in terms of",
+            "energy and water \u2013 associated with the",
+            "operation of AI systems.",
+            "The findings raise concerns about the",
+            "sustainability of rapidly developing AI",
+            "technologies."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-17T12:00:00.000Z",
+      "ranking": 4.860064439343473,
+      "articleUrl": "https://www.theverge.com/news/845831/ai-chips-data-center-power-water"
     },
     {
       "id": "599",
@@ -356,7 +356,7 @@
         }
       ],
       "publishedAt": "2025-12-17T17:12:16.000Z",
-      "ranking": 5.0332808585115565,
+      "ranking": 4.520976213384507,
       "articleUrl": "https://www.theverge.com/news/846696/electricity-cost-ai-data-center-democrat-investigation"
     },
     {
@@ -392,7 +392,7 @@
         }
       ],
       "publishedAt": "2025-12-17T15:00:00.000Z",
-      "ranking": 4.59771357815538,
+      "ranking": 4.05484883538333,
       "articleUrl": "https://venturebeat.com/technology/ai-agents-fail-63-of-the-time-on-complex-tasks-patronus-ai-says-its-new"
     },
     {
@@ -428,7 +428,7 @@
         }
       ],
       "publishedAt": "2025-12-17T05:36:13.000Z",
-      "ranking": 3.7614765419156444,
+      "ranking": 3.08835015086085,
       "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
     },
     {
@@ -465,7 +465,7 @@
         }
       ],
       "publishedAt": "2025-12-17T07:48:33.000Z",
-      "ranking": 3.6045924557389943,
+      "ranking": 2.962041565756194,
       "articleUrl": "https://www.theverge.com/news/846152/tesla-autopilot-marketing-deceptive-california-dmv"
     },
     {
@@ -501,7 +501,7 @@
         }
       ],
       "publishedAt": "2025-12-17T09:00:00.000Z",
-      "ranking": 3.1321936490163127,
+      "ranking": 2.5061512195327933,
       "articleUrl": "https://venturebeat.com/ai/ai-is-moving-to-the-edge-and-network-security-needs-to-catch-up"
     },
     {
@@ -538,7 +538,7 @@
         }
       ],
       "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 1.1361000947252977,
+      "ranking": 0.26052461037373487,
       "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
     },
     {
@@ -574,7 +574,7 @@
         }
       ],
       "publishedAt": "2025-12-16T14:15:36.000Z",
-      "ranking": 1.1272248772692697,
+      "ranking": 0.24139081251721883,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-model-gpt-image-1-5"
     },
     {
@@ -611,7 +611,7 @@
         }
       ],
       "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 0.44104513495769204,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
     },
     {
@@ -651,42 +651,6 @@
       "articleUrl": "https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast"
     },
     {
-      "id": "580",
-      "topic": "Generative AI, Vision",
-      "source": "VentureBeat AI",
-      "shortTitle": "GPT Image 1.5",
-      "mediumTitle": "ChatGPT Gets Image Boost",
-      "longTitle": "OpenAI Updates Image Generation with GPT 5.2",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has updated its image generation",
-            "capabilities within ChatGPT, releasing",
-            "\u201CGPT Image 1.5\u201D powered by GPT 5.2.",
-            "This update positions OpenAI to compete",
-            "with other advanced image generation",
-            "models like Google\u2019s Nano Banana Pro.",
-            "The update aims to improve precision and",
-            "consistency, particularly for enterprise",
-            "and brand use cases.",
-            "The model now better maintains",
-            "consistency in lighting, composition,",
-            "and appearance during image",
-            "modifications.",
-            "The new model demonstrates improved",
-            "ability to handle complex editing",
-            "requests with greater accuracy.",
-            "The AI image generation landscape is",
-            "rapidly evolving, with a growing focus",
-            "on attracting enterprise users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
-    },
-    {
       "id": "581",
       "topic": "Large Models, Business",
       "source": "VentureBeat AI",
@@ -722,6 +686,42 @@
       "publishedAt": "2025-12-16T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded"
+    },
+    {
+      "id": "580",
+      "topic": "Generative AI, Vision",
+      "source": "VentureBeat AI",
+      "shortTitle": "GPT Image 1.5",
+      "mediumTitle": "ChatGPT Gets Image Boost",
+      "longTitle": "OpenAI Updates Image Generation with GPT 5.2",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has updated its image generation",
+            "capabilities within ChatGPT, releasing",
+            "\u201CGPT Image 1.5\u201D powered by GPT 5.2.",
+            "This update positions OpenAI to compete",
+            "with other advanced image generation",
+            "models like Google\u2019s Nano Banana Pro.",
+            "The update aims to improve precision and",
+            "consistency, particularly for enterprise",
+            "and brand use cases.",
+            "The model now better maintains",
+            "consistency in lighting, composition,",
+            "and appearance during image",
+            "modifications.",
+            "The new model demonstrates improved",
+            "ability to handle complex editing",
+            "requests with greater accuracy.",
+            "The AI image generation landscape is",
+            "rapidly evolving, with a growing focus",
+            "on attracting enterprise users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
     },
     {
       "id": "573",
