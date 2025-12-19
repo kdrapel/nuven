@@ -72,6 +72,76 @@
       "articleUrl": "https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard"
     },
     {
+      "id": "614",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "T5Gemma 2",
+      "mediumTitle": "Google Releases T5Gemma 2",
+      "longTitle": "Google\u0027s New Open-Source T5Gemma 2 Models",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has released T5Gemma 2, a new",
+            "family of open-source encoder-decoder",
+            "Transformer checkpoints.",
+            "The release includes only pretrained",
+            "models, without any post-trained or",
+            "instruction-tuned checkpoints.",
+            "A key feature of T5Gemma 2 is its",
+            "multimodal input capability.",
+            "The models support a large context",
+            "window of 128,000 tokens.",
+            "This approach allows developers to",
+            "further train and adapt the models for",
+            "specific downstream tasks.",
+            "The models are built by modifying the",
+            "Gemma 3 pretrained weights to fit an",
+            "encoder-decoder structure.",
+            "Multimodal functionality is achieved",
+            "through integration with SigLIP."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-19T14:12:51.000Z",
+      "ranking": 7.365,
+      "articleUrl": "https://www.marktechpost.com/2025/12/19/google-introduces-t5gemma-2-encoder-decoder-models-with-multimodal-inputs-via-siglip-and-128k-context/"
+    },
+    {
+      "id": "612",
+      "topic": "Vision, NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "Palona AI",
+      "mediumTitle": "Palona AI Pivots to Hospitality",
+      "longTitle": "Palona AI Focuses on Restaurant Automation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Palona AI\u2019s new strategy centers around",
+            "building specialized operating systems",
+            "for specific industries, rather than",
+            "general-purpose AI.",
+            "The system aims to function as an",
+            "automated \u201Cdigital GM\u201D for restaurant",
+            "operations, improving efficiency and",
+            "customer experience.",
+            "The system is designed to execute",
+            "workflows, remember customers, and",
+            "proactively identify potential issues.",
+            "A key lesson learned was the need for",
+            "model flexibility, avoiding reliance on",
+            "a single AI provider.",
+            "Palona developed a patented layer to",
+            "avoid vendor lock-in with AI models,",
+            "utilizing both proprietary and",
+            "open-source options like Gemini."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-18T19:10:00.000Z",
+      "ranking": 7.354166666666667,
+      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
+    },
+    {
       "id": "605",
       "topic": "Vision",
       "source": "VentureBeat AI",
@@ -211,7 +281,7 @@
         }
       ],
       "publishedAt": "2025-12-17T20:24:00.000Z",
-      "ranking": 4.67782377939395,
+      "ranking": 4.093398536771284,
       "articleUrl": "https://venturebeat.com/technology/gemini-3-flash-arrives-with-reduced-costs-and-latency-a-powerful-combo-for"
     },
     {
@@ -248,7 +318,7 @@
         }
       ],
       "publishedAt": "2025-12-17T15:03:31.000Z",
-      "ranking": 4.488257155799432,
+      "ranking": 3.8291384991276196,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/846573/ai-toys-built-on-openais-chatgpt-inappropriate-content-senators-letter"
     },
     {
@@ -285,7 +355,7 @@
         }
       ],
       "publishedAt": "2025-12-17T18:48:13.000Z",
-      "ranking": 4.402903363131777,
+      "ranking": 3.7961543887850477,
       "articleUrl": "https://www.marktechpost.com/2025/12/17/meta-ai-releases-sam-audio-a-state-of-the-art-unified-model-that-uses-intuitive-and-multimodal-prompts-for-audio-separation/"
     },
     {
@@ -321,7 +391,7 @@
         }
       ],
       "publishedAt": "2025-12-17T12:00:00.000Z",
-      "ranking": 4.215101215456012,
+      "ranking": 3.513211263291937,
       "articleUrl": "https://www.theverge.com/news/845831/ai-chips-data-center-power-water"
     },
     {
@@ -356,7 +426,7 @@
         }
       ],
       "publishedAt": "2025-12-17T17:12:16.000Z",
-      "ranking": 3.94871966124669,
+      "ranking": 3.3196081076534707,
       "articleUrl": "https://www.theverge.com/news/846696/electricity-cost-ai-data-center-democrat-investigation"
     },
     {
@@ -392,7 +462,7 @@
         }
       ],
       "publishedAt": "2025-12-17T15:00:00.000Z",
-      "ranking": 3.451795947093754,
+      "ranking": 2.791857674872224,
       "articleUrl": "https://venturebeat.com/technology/ai-agents-fail-63-of-the-time-on-complex-tasks-patronus-ai-says-its-new"
     },
     {
@@ -428,7 +498,7 @@
         }
       ],
       "publishedAt": "2025-12-17T05:36:13.000Z",
-      "ranking": 2.3540286579253795,
+      "ranking": 1.562692275844034,
       "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
     },
     {
@@ -465,7 +535,7 @@
         }
       ],
       "publishedAt": "2025-12-17T07:48:33.000Z",
-      "ranking": 2.2585319298972593,
+      "ranking": 1.498037801824358,
       "articleUrl": "https://www.theverge.com/news/846152/tesla-autopilot-marketing-deceptive-california-dmv"
     },
     {
@@ -501,7 +571,7 @@
         }
       ],
       "publishedAt": "2025-12-17T09:00:00.000Z",
-      "ranking": 1.8192776585493249,
+      "ranking": 1.0754360161771626,
       "articleUrl": "https://venturebeat.com/ai/ai-is-moving-to-the-edge-and-network-security-needs-to-catch-up"
     },
     {
@@ -1049,76 +1119,6 @@
       "publishedAt": "2025-12-15T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/why-agentic-ai-needs-a-new-category-of-customer-data"
-    },
-    {
-      "id": "563",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI \u0026 Software",
-      "mediumTitle": "AI Changes \u0027Build vs Buy\u0027",
-      "longTitle": "AI Democratizes Software Creation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AI has democratized software creation,",
-            "shifting power from vendors to users.",
-            "The new paradigm emphasizes",
-            "understanding the problem before seeking",
-            "a solution, leading to smarter spending.",
-            "Finance teams now have the ability to",
-            "test solutions internally with AI before",
-            "making significant investments.",
-            "Prototyping with AI allows finance to",
-            "validate needs and negotiate more",
-            "effectively with vendors.",
-            "AI allows for controlled",
-            "experimentation, helping teams identify",
-            "their genuine software needs.",
-            "For decades, companies have weighed the",
-            "costs and benefits of building software",
-            "in-house versus purchasing it from",
-            "vendors."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-14T20:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/build-vs-buy-is-dead-ai-just-killed-it"
-    },
-    {
-      "id": "564",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Grok Error",
-      "mediumTitle": "Grok Misinfo: Bondi",
-      "longTitle": "xAI\u0027s Grok Spreads Falsehoods About Bondi",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Specifically, Grok has falsely",
-            "associated Ahmed al Ahmed, 43, with the",
-            "attack despite his heroic actions.",
-            "The xAI chatbot, Grok, is currently",
-            "disseminating inaccurate information",
-            "regarding the Bondi Beach shooting in",
-            "Australia.",
-            "Ahmed al Ahmed bravely disarmed one of",
-            "the shooters at Bondi Beach.",
-            "The misidentification of al Ahmed is",
-            "highlighted as a particularly troubling",
-            "failure for the chatbot.",
-            "The article stresses the severity of the",
-            "error considering the tragic context of",
-            "the Bondi Beach shooting.",
-            "Grok\u2019s performance is consistently",
-            "falling short of acceptable standards,",
-            "according to the article."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-14T17:24:24.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting"
     }
   ]
 }
