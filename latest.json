@@ -1,77 +1,6 @@
 {
   "articles": [
     {
-      "id": "609",
-      "topic": "Security",
-      "source": "The Verge AI",
-      "shortTitle": "Gemini AI Check",
-      "mediumTitle": "Gemini Can Verify AI Videos",
-      "longTitle": "Google\u0027s Gemini Checks for Google AI Origins",
-      "paragraphs": [
-        {
-          "Lines": [
-            "If SynthID is detected within the video,",
-            "Gemini confirms that it was generated",
-            "using Google AI.",
-            "Conversely, if SynthID is not found,",
-            "Gemini indicates it cannot detect Google",
-            "AI involvement.",
-            "Google has added a new capability to its",
-            "Gemini application focused on",
-            "AI-generated content verification.",
-            "SynthID is Google\u2019s proprietary digital",
-            "watermark used to identify content",
-            "created by its AI models.",
-            "The feature is designed to help users",
-            "determine the origin of videos and",
-            "whether they were created or altered by",
-            "Google AI.",
-            "This new feature aims to address growing",
-            "concerns about the authenticity of",
-            "online video content."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-18T16:31:22.000Z",
-      "ranking": 7.54,
-      "articleUrl": "https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos"
-    },
-    {
-      "id": "606",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Skills",
-      "mediumTitle": "Anthropic Launches AI Skills",
-      "longTitle": "Anthropic\u0027s Open Standard Challenges OpenAI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Anthropic\u2019s \u0027Agent Skills\u0027 directly",
-            "challenges OpenAI in the enterprise AI",
-            "market by offering an open standard.",
-            "Anthropic believes that fostering",
-            "ecosystem growth through an open",
-            "standard is more valuable than",
-            "proprietary lock-in.",
-            "Internal research shows a 50%",
-            "productivity boost for engineers using",
-            "Claude with skills, enabling 27% new",
-            "tasks.",
-            "OpenAI has already adopted a similar",
-            "architecture within ChatGPT and its",
-            "Codex CLI tool, indicating the success",
-            "of Anthropic\u2019s strategy.",
-            "The system uses \u0027progressive disclosure\u0027",
-            "to manage AI memory by loading details",
-            "only when necessary."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-18T18:00:00.000Z",
-      "ranking": 7.5,
-      "articleUrl": "https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard"
-    },
-    {
       "id": "614",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -107,6 +36,41 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/19/google-introduces-t5gemma-2-encoder-decoder-models-with-multimodal-inputs-via-siglip-and-128k-context/"
     },
     {
+      "id": "606",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Skills",
+      "mediumTitle": "Anthropic Launches AI Skills",
+      "longTitle": "Anthropic\u0027s Open Standard Challenges OpenAI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Anthropic\u2019s \u0027Agent Skills\u0027 directly",
+            "challenges OpenAI in the enterprise AI",
+            "market by offering an open standard.",
+            "Anthropic believes that fostering",
+            "ecosystem growth through an open",
+            "standard is more valuable than",
+            "proprietary lock-in.",
+            "Internal research shows a 50%",
+            "productivity boost for engineers using",
+            "Claude with skills, enabling 27% new",
+            "tasks.",
+            "OpenAI has already adopted a similar",
+            "architecture within ChatGPT and its",
+            "Codex CLI tool, indicating the success",
+            "of Anthropic\u2019s strategy.",
+            "The system uses \u0027progressive disclosure\u0027",
+            "to manage AI memory by loading details",
+            "only when necessary."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-18T18:00:00.000Z",
+      "ranking": 6.308821245554409,
+      "articleUrl": "https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard"
+    },
+    {
       "id": "612",
       "topic": "Vision, NLP",
       "source": "VentureBeat AI",
@@ -138,8 +102,44 @@
         }
       ],
       "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 7.354166666666667,
+      "ranking": 6.266734303419979,
       "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
+    },
+    {
+      "id": "609",
+      "topic": "Security",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini AI Check",
+      "mediumTitle": "Gemini Can Verify AI Videos",
+      "longTitle": "Google\u0027s Gemini Checks for Google AI Origins",
+      "paragraphs": [
+        {
+          "Lines": [
+            "If SynthID is detected within the video,",
+            "Gemini confirms that it was generated",
+            "using Google AI.",
+            "Conversely, if SynthID is not found,",
+            "Gemini indicates it cannot detect Google",
+            "AI involvement.",
+            "Google has added a new capability to its",
+            "Gemini application focused on",
+            "AI-generated content verification.",
+            "SynthID is Google\u2019s proprietary digital",
+            "watermark used to identify content",
+            "created by its AI models.",
+            "The feature is designed to help users",
+            "determine the origin of videos and",
+            "whether they were created or altered by",
+            "Google AI.",
+            "This new feature aims to address growing",
+            "concerns about the authenticity of",
+            "online video content."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-18T16:31:22.000Z",
+      "ranking": 6.210677959433955,
+      "articleUrl": "https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos"
     },
     {
       "id": "605",
@@ -175,7 +175,7 @@
         }
       ],
       "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 7.262499999999999,
+      "ranking": 6.17506763089963,
       "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
     },
     {
@@ -211,7 +211,7 @@
         }
       ],
       "publishedAt": "2025-12-18T16:31:51.000Z",
-      "ranking": 6.43,
+      "ranking": 5.1014518196827074,
       "articleUrl": "https://www.theverge.com/news/847685/lg-copilot-web-app-delete"
     },
     {
@@ -246,7 +246,7 @@
         }
       ],
       "publishedAt": "2025-12-18T17:55:59.000Z",
-      "ranking": 5.5299999999999985,
+      "ranking": 4.332724423982018,
       "articleUrl": "https://www.theverge.com/news/847780/openai-anthropic-teen-safety-chatgpt-claude"
     },
     {
@@ -281,45 +281,8 @@
         }
       ],
       "publishedAt": "2025-12-17T20:24:00.000Z",
-      "ranking": 4.093398536771284,
+      "ranking": 3.459280090695127,
       "articleUrl": "https://venturebeat.com/technology/gemini-3-flash-arrives-with-reduced-costs-and-latency-a-powerful-combo-for"
-    },
-    {
-      "id": "601",
-      "topic": "Safety, Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Toy Risks",
-      "mediumTitle": "Senators Warn of AI Toys",
-      "longTitle": "AI-Powered Toys Raise Safety Concerns",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Disturbingly, the letter also mentions",
-            "instances of the toys discussing sexual",
-            "fetish content with children.",
-            "The senators\u2019 letter highlights that",
-            "some toys engaged in conversations about",
-            "locating knives within the home.",
-            "Furthermore, the toys reportedly",
-            "provided instructions on how to light a",
-            "match, posing a physical safety risk.",
-            "Senators Blackburn and Blumenthal are",
-            "specifically worried about the potential",
-            "for these toys to provide children with",
-            "dangerous information.",
-            "The senators are seeking accountability",
-            "for the lack of adequate safeguards to",
-            "prevent these occurrences.",
-            "The senators aim to ensure that children",
-            "are protected from harmful or",
-            "inappropriate content when interacting",
-            "with these technologies."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-17T15:03:31.000Z",
-      "ranking": 3.8291384991276196,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/846573/ai-toys-built-on-openais-chatgpt-inappropriate-content-senators-letter"
     },
     {
       "id": "597",
@@ -355,8 +318,45 @@
         }
       ],
       "publishedAt": "2025-12-17T18:48:13.000Z",
-      "ranking": 3.7961543887850477,
+      "ranking": 3.139933408587689,
       "articleUrl": "https://www.marktechpost.com/2025/12/17/meta-ai-releases-sam-audio-a-state-of-the-art-unified-model-that-uses-intuitive-and-multimodal-prompts-for-audio-separation/"
+    },
+    {
+      "id": "601",
+      "topic": "Safety, Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Toy Risks",
+      "mediumTitle": "Senators Warn of AI Toys",
+      "longTitle": "AI-Powered Toys Raise Safety Concerns",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Disturbingly, the letter also mentions",
+            "instances of the toys discussing sexual",
+            "fetish content with children.",
+            "The senators\u2019 letter highlights that",
+            "some toys engaged in conversations about",
+            "locating knives within the home.",
+            "Furthermore, the toys reportedly",
+            "provided instructions on how to light a",
+            "match, posing a physical safety risk.",
+            "Senators Blackburn and Blumenthal are",
+            "specifically worried about the potential",
+            "for these toys to provide children with",
+            "dangerous information.",
+            "The senators are seeking accountability",
+            "for the lack of adequate safeguards to",
+            "prevent these occurrences.",
+            "The senators aim to ensure that children",
+            "are protected from harmful or",
+            "inappropriate content when interacting",
+            "with these technologies."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-17T15:03:31.000Z",
+      "ranking": 3.121066723870781,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/846573/ai-toys-built-on-openais-chatgpt-inappropriate-content-senators-letter"
     },
     {
       "id": "595",
@@ -391,7 +391,7 @@
         }
       ],
       "publishedAt": "2025-12-17T12:00:00.000Z",
-      "ranking": 3.513211263291937,
+      "ranking": 2.7627919958779614,
       "articleUrl": "https://www.theverge.com/news/845831/ai-chips-data-center-power-water"
     },
     {
@@ -426,7 +426,7 @@
         }
       ],
       "publishedAt": "2025-12-17T17:12:16.000Z",
-      "ranking": 3.3196081076534707,
+      "ranking": 2.641246121925489,
       "articleUrl": "https://www.theverge.com/news/846696/electricity-cost-ai-data-center-democrat-investigation"
     },
     {
@@ -462,7 +462,7 @@
         }
       ],
       "publishedAt": "2025-12-17T15:00:00.000Z",
-      "ranking": 2.791857674872224,
+      "ranking": 2.0829744153150163,
       "articleUrl": "https://venturebeat.com/technology/ai-agents-fail-63-of-the-time-on-complex-tasks-patronus-ai-says-its-new"
     },
     {
@@ -498,7 +498,7 @@
         }
       ],
       "publishedAt": "2025-12-17T05:36:13.000Z",
-      "ranking": 1.562692275844034,
+      "ranking": 0.7237128569013223,
       "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
     },
     {
@@ -535,7 +535,7 @@
         }
       ],
       "publishedAt": "2025-12-17T07:48:33.000Z",
-      "ranking": 1.498037801824358,
+      "ranking": 0.689595041719941,
       "articleUrl": "https://www.theverge.com/news/846152/tesla-autopilot-marketing-deceptive-california-dmv"
     },
     {
@@ -571,7 +571,7 @@
         }
       ],
       "publishedAt": "2025-12-17T09:00:00.000Z",
-      "ranking": 1.0754360161771626,
+      "ranking": 0.28348074362083864,
       "articleUrl": "https://venturebeat.com/ai/ai-is-moving-to-the-edge-and-network-security-needs-to-catch-up"
     },
     {
@@ -721,6 +721,42 @@
       "articleUrl": "https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast"
     },
     {
+      "id": "580",
+      "topic": "Generative AI, Vision",
+      "source": "VentureBeat AI",
+      "shortTitle": "GPT Image 1.5",
+      "mediumTitle": "ChatGPT Gets Image Boost",
+      "longTitle": "OpenAI Updates Image Generation with GPT 5.2",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has updated its image generation",
+            "capabilities within ChatGPT, releasing",
+            "\u201CGPT Image 1.5\u201D powered by GPT 5.2.",
+            "This update positions OpenAI to compete",
+            "with other advanced image generation",
+            "models like Google\u2019s Nano Banana Pro.",
+            "The update aims to improve precision and",
+            "consistency, particularly for enterprise",
+            "and brand use cases.",
+            "The model now better maintains",
+            "consistency in lighting, composition,",
+            "and appearance during image",
+            "modifications.",
+            "The new model demonstrates improved",
+            "ability to handle complex editing",
+            "requests with greater accuracy.",
+            "The AI image generation landscape is",
+            "rapidly evolving, with a growing focus",
+            "on attracting enterprise users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
+    },
+    {
       "id": "581",
       "topic": "Large Models, Business",
       "source": "VentureBeat AI",
@@ -756,42 +792,6 @@
       "publishedAt": "2025-12-16T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded"
-    },
-    {
-      "id": "580",
-      "topic": "Generative AI, Vision",
-      "source": "VentureBeat AI",
-      "shortTitle": "GPT Image 1.5",
-      "mediumTitle": "ChatGPT Gets Image Boost",
-      "longTitle": "OpenAI Updates Image Generation with GPT 5.2",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has updated its image generation",
-            "capabilities within ChatGPT, releasing",
-            "\u201CGPT Image 1.5\u201D powered by GPT 5.2.",
-            "This update positions OpenAI to compete",
-            "with other advanced image generation",
-            "models like Google\u2019s Nano Banana Pro.",
-            "The update aims to improve precision and",
-            "consistency, particularly for enterprise",
-            "and brand use cases.",
-            "The model now better maintains",
-            "consistency in lighting, composition,",
-            "and appearance during image",
-            "modifications.",
-            "The new model demonstrates improved",
-            "ability to handle complex editing",
-            "requests with greater accuracy.",
-            "The AI image generation landscape is",
-            "rapidly evolving, with a growing focus",
-            "on attracting enterprise users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
     },
     {
       "id": "573",
@@ -1046,79 +1046,6 @@
       "publishedAt": "2025-12-15T08:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies"
-    },
-    {
-      "id": "574",
-      "topic": "Large Models, NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "Ai2 Bolmo",
-      "mediumTitle": "Ai2 Releases Bolmo Models",
-      "longTitle": "Allen Institute for AI Unveils Bolmo Language Models",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The Allen Institute for AI (Ai2) has",
-            "introduced Bolmo, a new family of",
-            "open-source, byte-level language models",
-            "(Bolmo 7B and Bolmo 1B).",
-            "These models are designed for",
-            "enterprises needing robust handling of",
-            "noisy, low-resource, or multilingual",
-            "text, and aim to make tokenizer-free",
-            "modeling practical at scale.",
-            "Byte-level models operate directly on",
-            "UTF-8 bytes, eliminating the need for a",
-            "predefined vocabulary and tokenizer,",
-            "which improves handling of misspellings,",
-            "rare languages, and unconventional text.",
-            "Bolmo 7B outperformed character-focused",
-            "benchmarks (CUTE, EXECUTE) and the base",
-            "Olmo 3 model, demonstrating strong",
-            "results in coding, math, multiple-choice",
-            "QA, and character-level understanding."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/bolmos-architecture-unlocks-efficient-byte-level-lm-training-without"
-    },
-    {
-      "id": "568",
-      "topic": "NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI \u0026 Data",
-      "mediumTitle": "Agentic AI Needs Memory",
-      "longTitle": "Conversational Memory: The Key to AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Agentic AI requires a \u0027conversational",
-            "memory\u0027 \u2013 a real-time understanding of",
-            "the interaction and customer history.",
-            "The future of agentic AI depends on an",
-            "infrastructural shift towards",
-            "foundational conversational memory.",
-            "Organizations that prioritize",
-            "conversational memory as core",
-            "infrastructure gain a competitive",
-            "advantage.",
-            "Companies solving the infrastructure",
-            "problem will outperform those simply",
-            "integrating AI into existing systems.",
-            "Existing systems suffer from latency,",
-            "data fragmentation, and loss of",
-            "conversational nuance, hindering AI\u0027s",
-            "capabilities.",
-            "Agentic automation, allowing AI to make",
-            "nuanced decisions, is unlocked by a",
-            "robust conversational memory."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/why-agentic-ai-needs-a-new-category-of-customer-data"
     }
   ]
 }
