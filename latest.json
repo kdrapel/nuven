@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "618",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "Google vs SerpApi",
+      "mediumTitle": "Google Sues Web Scraper",
+      "longTitle": "Google Files Copyright Lawsuit Against SerpApi",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The lawsuit asserts that SerpApi\u2019s",
+            "activity violates the Copyright Act.",
+            "Google claims SerpApi circumvents normal",
+            "usage restrictions and protective",
+            "measures designed to prevent scraping.",
+            "Google contends that its search results",
+            "are copyrightable material.",
+            "Google has filed a lawsuit against",
+            "SerpApi, a company specializing in web",
+            "scraping.",
+            "SerpApi doesn\u2019t just provide access to",
+            "results, but copies them wholesale,",
+            "according to the complaint.",
+            "Google\u2019s action signals its intent to",
+            "defend its intellectual property rights.",
+            "The core issue is SerpApi\u2019s automated",
+            "extraction of data from Google Search",
+            "results pages (SERPs)."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-19T16:48:37.000Z",
+      "ranking": 7.829166666666668,
+      "articleUrl": "https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi"
+    },
+    {
       "id": "614",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -36,6 +71,43 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/19/google-introduces-t5gemma-2-encoder-decoder-models-with-multimodal-inputs-via-siglip-and-128k-context/"
     },
     {
+      "id": "619",
+      "topic": "NLP",
+      "source": "Marktechpost AI",
+      "shortTitle": "Mistral OCR 3",
+      "mediumTitle": "Mistral AI Launches OCR",
+      "longTitle": "Mistral AI Releases New OCR Service",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Mistral AI has released Mistral OCR 3, a",
+            "new optical character recognition (OCR)",
+            "service.",
+            "The pricing for Mistral OCR 3 is set at",
+            "$2 per 1,000 pages processed.",
+            "A core feature of Mistral OCR 3 is its",
+            "ability to maintain the original",
+            "document structure during extraction.",
+            "The service is specifically designed to",
+            "enhance Mistral AI\u0027s Document AI",
+            "capabilities.",
+            "Mistral OCR 3 specializes in extracting",
+            "both text and images from various",
+            "document types.",
+            "This service is intended for",
+            "applications that require structured",
+            "document AI at a large scale.",
+            "PDFs are specifically mentioned as a",
+            "document type supported by the new OCR",
+            "service."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-19T20:26:34.000Z",
+      "ranking": 7.199999999999999,
+      "articleUrl": "https://www.marktechpost.com/2025/12/19/mistral-ai-releases-ocr-3-a-smaller-optical-character-recognition-ocr-model-for-structured-document-ai-at-scale/"
+    },
+    {
       "id": "606",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -67,7 +139,7 @@
         }
       ],
       "publishedAt": "2025-12-18T18:00:00.000Z",
-      "ranking": 6.308821245554409,
+      "ranking": 5.914298667433448,
       "articleUrl": "https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard"
     },
     {
@@ -102,44 +174,8 @@
         }
       ],
       "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 6.266734303419979,
+      "ranking": 5.8885290166493505,
       "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
-    },
-    {
-      "id": "609",
-      "topic": "Security",
-      "source": "The Verge AI",
-      "shortTitle": "Gemini AI Check",
-      "mediumTitle": "Gemini Can Verify AI Videos",
-      "longTitle": "Google\u0027s Gemini Checks for Google AI Origins",
-      "paragraphs": [
-        {
-          "Lines": [
-            "If SynthID is detected within the video,",
-            "Gemini confirms that it was generated",
-            "using Google AI.",
-            "Conversely, if SynthID is not found,",
-            "Gemini indicates it cannot detect Google",
-            "AI involvement.",
-            "Google has added a new capability to its",
-            "Gemini application focused on",
-            "AI-generated content verification.",
-            "SynthID is Google\u2019s proprietary digital",
-            "watermark used to identify content",
-            "created by its AI models.",
-            "The feature is designed to help users",
-            "determine the origin of videos and",
-            "whether they were created or altered by",
-            "Google AI.",
-            "This new feature aims to address growing",
-            "concerns about the authenticity of",
-            "online video content."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-18T16:31:22.000Z",
-      "ranking": 6.210677959433955,
-      "articleUrl": "https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos"
     },
     {
       "id": "605",
@@ -175,8 +211,44 @@
         }
       ],
       "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 6.17506763089963,
+      "ranking": 5.796862346375999,
       "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
+    },
+    {
+      "id": "609",
+      "topic": "Security",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini AI Check",
+      "mediumTitle": "Gemini Can Verify AI Videos",
+      "longTitle": "Google\u0027s Gemini Checks for Google AI Origins",
+      "paragraphs": [
+        {
+          "Lines": [
+            "If SynthID is detected within the video,",
+            "Gemini confirms that it was generated",
+            "using Google AI.",
+            "Conversely, if SynthID is not found,",
+            "Gemini indicates it cannot detect Google",
+            "AI involvement.",
+            "Google has added a new capability to its",
+            "Gemini application focused on",
+            "AI-generated content verification.",
+            "SynthID is Google\u2019s proprietary digital",
+            "watermark used to identify content",
+            "created by its AI models.",
+            "The feature is designed to help users",
+            "determine the origin of videos and",
+            "whether they were created or altered by",
+            "Google AI.",
+            "This new feature aims to address growing",
+            "concerns about the authenticity of",
+            "online video content."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-18T16:31:22.000Z",
+      "ranking": 5.795494582643626,
+      "articleUrl": "https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos"
     },
     {
       "id": "608",
@@ -211,7 +283,7 @@
         }
       ],
       "publishedAt": "2025-12-18T16:31:51.000Z",
-      "ranking": 5.1014518196827074,
+      "ranking": 4.68638111211212,
       "articleUrl": "https://www.theverge.com/news/847685/lg-copilot-web-app-delete"
     },
     {
@@ -246,7 +318,7 @@
         }
       ],
       "publishedAt": "2025-12-18T17:55:59.000Z",
-      "ranking": 4.332724423982018,
+      "ranking": 3.9372654823423128,
       "articleUrl": "https://www.theverge.com/news/847780/openai-anthropic-teen-safety-chatgpt-claude"
     },
     {
@@ -281,7 +353,7 @@
         }
       ],
       "publishedAt": "2025-12-17T20:24:00.000Z",
-      "ranking": 3.459280090695127,
+      "ranking": 2.7626544796130945,
       "articleUrl": "https://venturebeat.com/technology/gemini-3-flash-arrives-with-reduced-costs-and-latency-a-powerful-combo-for"
     },
     {
@@ -318,7 +390,7 @@
         }
       ],
       "publishedAt": "2025-12-17T18:48:13.000Z",
-      "ranking": 3.139933408587689,
+      "ranking": 2.4209803001153336,
       "articleUrl": "https://www.marktechpost.com/2025/12/17/meta-ai-releases-sam-audio-a-state-of-the-art-unified-model-that-uses-intuitive-and-multimodal-prompts-for-audio-separation/"
     },
     {
@@ -355,7 +427,7 @@
         }
       ],
       "publishedAt": "2025-12-17T15:03:31.000Z",
-      "ranking": 3.121066723870781,
+      "ranking": 2.349735114108417,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/846573/ai-toys-built-on-openais-chatgpt-inappropriate-content-senators-letter"
     },
     {
@@ -391,7 +463,7 @@
         }
       ],
       "publishedAt": "2025-12-17T12:00:00.000Z",
-      "ranking": 2.7627919958779614,
+      "ranking": 1.9486818893797402,
       "articleUrl": "https://www.theverge.com/news/845831/ai-chips-data-center-power-water"
     },
     {
@@ -426,7 +498,7 @@
         }
       ],
       "publishedAt": "2025-12-17T17:12:16.000Z",
-      "ranking": 2.641246121925489,
+      "ranking": 1.8999266661091685,
       "articleUrl": "https://www.theverge.com/news/846696/electricity-cost-ai-data-center-democrat-investigation"
     },
     {
@@ -462,44 +534,44 @@
         }
       ],
       "publishedAt": "2025-12-17T15:00:00.000Z",
-      "ranking": 2.0829744153150163,
+      "ranking": 1.310823050372722,
       "articleUrl": "https://venturebeat.com/technology/ai-agents-fail-63-of-the-time-on-complex-tasks-patronus-ai-says-its-new"
     },
     {
-      "id": "589",
-      "topic": "Training Tricks",
-      "source": "Marktechpost AI",
-      "shortTitle": "Tinker API",
-      "mediumTitle": "Thinking Machines Tinker GA",
-      "longTitle": "Tinker API Now Generally Available",
+      "id": "593",
+      "topic": "Security",
+      "source": "VentureBeat AI",
+      "shortTitle": "Edge AI Risk",
+      "mediumTitle": "Securing AI at the Edge",
+      "longTitle": "SMBs \u0026 the Rise of Edge AI Security",
       "paragraphs": [
         {
           "Lines": [
-            "Thinking Machines Lab announced the",
-            "general availability of its Tinker",
-            "training API on an unspecified date.",
-            "By using Tinker, developers avoid the",
-            "complexities of building and maintaining",
-            "their own distributed training",
-            "infrastructure.",
-            "The Kimi K2 Thinking model provides",
-            "advanced reasoning abilities within the",
-            "Tinker environment.",
-            "Qwen3-VL vision language models enable",
-            "Tinker to process and understand image",
-            "inputs.",
-            "OpenAI-compatible sampling allows for",
-            "easier integration with tools and",
-            "techniques familiar to many developers.",
-            "This release is targeted towards AI",
-            "engineers seeking a streamlined solution",
-            "for model fine-tuning."
+            "Companies are often connecting devices",
+            "and deploying AI before establishing",
+            "robust security policies.",
+            "SMBs that proactively modernize their",
+            "connectivity and security will be best",
+            "positioned to scale AI successfully.",
+            "Future AI systems will not only run at",
+            "the edge but also actively secure it",
+            "through dynamic optimization and anomaly",
+            "detection.",
+            "Unmonitored devices, inconsistent access",
+            "controls, and unsegmented data flows are",
+            "key vulnerabilities at the edge.",
+            "SIM-based identity verification and",
+            "secure mobile connectivity are becoming",
+            "crucial security components.",
+            "SMBs are leveraging AI for applications",
+            "like smart assistants, predictive",
+            "inventory, and on-site analytics."
           ]
         }
       ],
-      "publishedAt": "2025-12-17T05:36:13.000Z",
-      "ranking": 0.7237128569013223,
-      "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
+      "publishedAt": "2025-12-17T09:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/ai-is-moving-to-the-edge-and-network-security-needs-to-catch-up"
     },
     {
       "id": "592",
@@ -535,44 +607,44 @@
         }
       ],
       "publishedAt": "2025-12-17T07:48:33.000Z",
-      "ranking": 0.689595041719941,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/846152/tesla-autopilot-marketing-deceptive-california-dmv"
     },
     {
-      "id": "593",
-      "topic": "Security",
-      "source": "VentureBeat AI",
-      "shortTitle": "Edge AI Risk",
-      "mediumTitle": "Securing AI at the Edge",
-      "longTitle": "SMBs \u0026 the Rise of Edge AI Security",
+      "id": "589",
+      "topic": "Training Tricks",
+      "source": "Marktechpost AI",
+      "shortTitle": "Tinker API",
+      "mediumTitle": "Thinking Machines Tinker GA",
+      "longTitle": "Tinker API Now Generally Available",
       "paragraphs": [
         {
           "Lines": [
-            "Companies are often connecting devices",
-            "and deploying AI before establishing",
-            "robust security policies.",
-            "SMBs that proactively modernize their",
-            "connectivity and security will be best",
-            "positioned to scale AI successfully.",
-            "Future AI systems will not only run at",
-            "the edge but also actively secure it",
-            "through dynamic optimization and anomaly",
-            "detection.",
-            "Unmonitored devices, inconsistent access",
-            "controls, and unsegmented data flows are",
-            "key vulnerabilities at the edge.",
-            "SIM-based identity verification and",
-            "secure mobile connectivity are becoming",
-            "crucial security components.",
-            "SMBs are leveraging AI for applications",
-            "like smart assistants, predictive",
-            "inventory, and on-site analytics."
+            "Thinking Machines Lab announced the",
+            "general availability of its Tinker",
+            "training API on an unspecified date.",
+            "By using Tinker, developers avoid the",
+            "complexities of building and maintaining",
+            "their own distributed training",
+            "infrastructure.",
+            "The Kimi K2 Thinking model provides",
+            "advanced reasoning abilities within the",
+            "Tinker environment.",
+            "Qwen3-VL vision language models enable",
+            "Tinker to process and understand image",
+            "inputs.",
+            "OpenAI-compatible sampling allows for",
+            "easier integration with tools and",
+            "techniques familiar to many developers.",
+            "This release is targeted towards AI",
+            "engineers seeking a streamlined solution",
+            "for model fine-tuning."
           ]
         }
       ],
-      "publishedAt": "2025-12-17T09:00:00.000Z",
-      "ranking": 0.28348074362083864,
-      "articleUrl": "https://venturebeat.com/ai/ai-is-moving-to-the-edge-and-network-security-needs-to-catch-up"
+      "publishedAt": "2025-12-17T05:36:13.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
     },
     {
       "id": "576",
@@ -937,115 +1009,6 @@
       "publishedAt": "2025-12-15T12:01:53.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/844640/merriam-webster-ai-slop-word-of-the-year-2025"
-    },
-    {
-      "id": "572",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Voice Clones",
-      "mediumTitle": "AI Music Clones Anger Industry",
-      "longTitle": "Music Industry Reacts to AI Voice Replication",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The music industry is facing growing",
-            "frustration and anger over the",
-            "increasing prevalence of AI-generated",
-            "clones of artists\u2019 voices and styles.",
-            "The unauthorized replication of vocal",
-            "characteristics is the central concern.",
-            "The potential for misuse of these AI",
-            "clones is a significant source of alarm.",
-            "Industry professionals are using very",
-            "strong language to convey their",
-            "disapproval of this practice.",
-            "The surge in these issues began in 2023,",
-            "marking a clear turning point in the",
-            "problem\u2019s severity.",
-            "While AI fakes have existed previously,",
-            "the article emphasizes a recent",
-            "escalation in boldness from those",
-            "exploiting the technology."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/report/844454/musicians-tired-of-ai-clones"
-    },
-    {
-      "id": "565",
-      "topic": "NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Kindle AI",
-      "mediumTitle": "Kindle\u0027s \u0027Ask this Book\u0027",
-      "longTitle": "Amazon Adds AI Q\u0026A to Kindle App",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Readers can now ask questions about the",
-            "book they are reading and receive",
-            "answers generated by AI.",
-            "Amazon has explicitly stated that",
-            "authors currently have no control over",
-            "whether their books are included in this",
-            "AI functionality.",
-            "There is no option for authors to",
-            "disable or opt-out of the AI",
-            "question-answering system for their",
-            "published works.",
-            "Amazon has integrated a new AI feature",
-            "directly into the Kindle application.",
-            "The AI is designed to understand and",
-            "respond to inquiries related to key",
-            "elements of the story.",
-            "This includes details about the",
-            "storyline, the individuals within the",
-            "narrative, and the locations where the",
-            "story unfolds."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T08:12:41.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/844538/kindle-app-ask-this-book-ai-ios"
-    },
-    {
-      "id": "566",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Mercor",
-      "mediumTitle": "Mercor: AI Staffing",
-      "longTitle": "Mercor Automates Overseas Tech Talent Search",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Initial interviews with candidates are",
-            "also conducted using language model",
-            "technology.",
-            "Language models are used by Mercor to",
-            "analyze resumes and identify qualified",
-            "candidates.",
-            "A key aspect of Mercor\u0027s approach is its",
-            "use of automation to streamline the",
-            "hiring process.",
-            "This innovative recruitment method is a",
-            "central component of Mercor\u2019s business",
-            "model.",
-            "Brendan Foody co-founded Mercor with two",
-            "high school friends in 2023.",
-            "The initial goal of Mercor was to",
-            "provide startups with access to a global",
-            "pool of software engineering expertise.",
-            "The company aims to make it easier and",
-            "more efficient for startups to find",
-            "skilled engineers."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T08:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies"
     }
   ]
 }
