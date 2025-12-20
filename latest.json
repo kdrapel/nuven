@@ -108,39 +108,40 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/19/mistral-ai-releases-ocr-3-a-smaller-optical-character-recognition-ocr-model-for-structured-document-ai-at-scale/"
     },
     {
-      "id": "606",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Skills",
-      "mediumTitle": "Anthropic Launches AI Skills",
-      "longTitle": "Anthropic\u0027s Open Standard Challenges OpenAI",
+      "id": "620",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini Delay",
+      "mediumTitle": "Google Delays Gemini Rollout",
+      "longTitle": "Gemini Assistant Upgrade Pushed to 2026",
       "paragraphs": [
         {
           "Lines": [
-            "Anthropic\u2019s \u0027Agent Skills\u0027 directly",
-            "challenges OpenAI in the enterprise AI",
-            "market by offering an open standard.",
-            "Anthropic believes that fostering",
-            "ecosystem growth through an open",
-            "standard is more valuable than",
-            "proprietary lock-in.",
-            "Internal research shows a 50%",
-            "productivity boost for engineers using",
-            "Claude with skills, enabling 27% new",
-            "tasks.",
-            "OpenAI has already adopted a similar",
-            "architecture within ChatGPT and its",
-            "Codex CLI tool, indicating the success",
-            "of Anthropic\u2019s strategy.",
-            "The system uses \u0027progressive disclosure\u0027",
-            "to manage AI memory by loading details",
-            "only when necessary."
+            "The original plan was to fully replace",
+            "Google Assistant with Gemini on Android",
+            "devices by the end of 2025.",
+            "This delay means the transition to",
+            "Gemini as the primary assistant on",
+            "Android phones will take longer than",
+            "initially anticipated.",
+            "The company\u2019s statement indicated a",
+            "continuation of efforts to upgrade",
+            "Assistant users to Gemini on mobile",
+            "devices.",
+            "Google made the announcement regarding",
+            "the adjusted timeline on Friday.",
+            "This represents a shift in the initial",
+            "timeline for integrating Gemini into",
+            "Android phones.",
+            "The specific reasons for the delay were",
+            "not explicitly stated in the",
+            "announcement."
           ]
         }
       ],
-      "publishedAt": "2025-12-18T18:00:00.000Z",
-      "ranking": 5.4690623513384296,
-      "articleUrl": "https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard"
+      "publishedAt": "2025-12-19T18:39:14.000Z",
+      "ranking": 5.5062500000000005,
+      "articleUrl": "https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026"
     },
     {
       "id": "612",
@@ -174,8 +175,43 @@
         }
       ],
       "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 5.459418305761495,
+      "ranking": 4.9678199543442325,
       "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
+    },
+    {
+      "id": "606",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Skills",
+      "mediumTitle": "Anthropic Launches AI Skills",
+      "longTitle": "Anthropic\u0027s Open Standard Challenges OpenAI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Anthropic\u2019s \u0027Agent Skills\u0027 directly",
+            "challenges OpenAI in the enterprise AI",
+            "market by offering an open standard.",
+            "Anthropic believes that fostering",
+            "ecosystem growth through an open",
+            "standard is more valuable than",
+            "proprietary lock-in.",
+            "Internal research shows a 50%",
+            "productivity boost for engineers using",
+            "Claude with skills, enabling 27% new",
+            "tasks.",
+            "OpenAI has already adopted a similar",
+            "architecture within ChatGPT and its",
+            "Codex CLI tool, indicating the success",
+            "of Anthropic\u2019s strategy.",
+            "The system uses \u0027progressive disclosure\u0027",
+            "to manage AI memory by loading details",
+            "only when necessary."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-18T18:00:00.000Z",
+      "ranking": 4.961103250116158,
+      "articleUrl": "https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard"
     },
     {
       "id": "605",
@@ -211,7 +247,7 @@
         }
       ],
       "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 5.367751634901605,
+      "ranking": 4.876153276463603,
       "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
     },
     {
@@ -247,7 +283,7 @@
         }
       ],
       "publishedAt": "2025-12-18T16:31:22.000Z",
-      "ranking": 5.329840179329575,
+      "ranking": 4.801165267605478,
       "articleUrl": "https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos"
     },
     {
@@ -283,7 +319,7 @@
         }
       ],
       "publishedAt": "2025-12-18T16:31:51.000Z",
-      "ranking": 4.220838052740781,
+      "ranking": 3.692276106901666,
       "articleUrl": "https://www.theverge.com/news/847685/lg-copilot-web-app-delete"
     },
     {
@@ -318,7 +354,7 @@
         }
       ],
       "publishedAt": "2025-12-18T17:55:59.000Z",
-      "ranking": 3.4911038113787956,
+      "ranking": 2.98220638853548,
       "articleUrl": "https://www.theverge.com/news/847780/openai-anthropic-teen-safety-chatgpt-claude"
     },
     {
@@ -353,7 +389,7 @@
         }
       ],
       "publishedAt": "2025-12-17T20:24:00.000Z",
-      "ranking": 2.0188640737685013,
+      "ranking": 1.2079983525461948,
       "articleUrl": "https://venturebeat.com/technology/gemini-3-flash-arrives-with-reduced-costs-and-latency-a-powerful-combo-for"
     },
     {
@@ -390,7 +426,7 @@
         }
       ],
       "publishedAt": "2025-12-17T18:48:13.000Z",
-      "ranking": 1.655124695999401,
+      "ranking": 0.8218720533777537,
       "articleUrl": "https://www.marktechpost.com/2025/12/17/meta-ai-releases-sam-audio-a-state-of-the-art-unified-model-that-uses-intuitive-and-multimodal-prompts-for-audio-separation/"
     },
     {
@@ -427,7 +463,7 @@
         }
       ],
       "publishedAt": "2025-12-17T15:03:31.000Z",
-      "ranking": 1.5321163209929862,
+      "ranking": 0.6463457579042471,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/846573/ai-toys-built-on-openais-chatgpt-inappropriate-content-senators-letter"
     },
     {
@@ -462,7 +498,7 @@
         }
       ],
       "publishedAt": "2025-12-17T17:12:16.000Z",
-      "ranking": 1.1119674745906654,
+      "ranking": 0.25628895537415186,
       "articleUrl": "https://www.theverge.com/news/846696/electricity-cost-ai-data-center-democrat-investigation"
     },
     {
@@ -498,7 +534,7 @@
         }
       ],
       "publishedAt": "2025-12-17T12:00:00.000Z",
-      "ranking": 1.0887871313196706,
+      "ranking": 0.16012420266497251,
       "articleUrl": "https://www.theverge.com/news/845831/ai-chips-data-center-power-water"
     },
     {
@@ -534,7 +570,7 @@
         }
       ],
       "publishedAt": "2025-12-17T15:00:00.000Z",
-      "ranking": 0.4923941406112817,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/technology/ai-agents-fail-63-of-the-time-on-complex-tasks-patronus-ai-says-its-new"
     },
     {
@@ -647,43 +683,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
     },
     {
-      "id": "576",
-      "topic": "Dev Tools",
-      "source": "VentureBeat AI",
-      "shortTitle": "Zenflow",
-      "mediumTitle": "Zencoder Launches Zenflow",
-      "longTitle": "Zenflow: AI Orchestration for Developers",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Multi-agent verification uses different",
-            "AI models, like Claude and OpenAI, to",
-            "critique each other\u2019s work, improving",
-            "code quality.",
-            "Zencoder launched Zenflow to address the",
-            "gap between the promised 10x",
-            "productivity boosts from AI coding and",
-            "the actual 20% improvements observed.",
-            "Zencoder is addressing the issue of",
-            "AI-generated \u0027slop\u0027 \u2013 code that appears",
-            "correct but fails in practice \u2013 through",
-            "robust verification.",
-            "Zencoder argues that adopting",
-            "orchestration tools now is crucial to",
-            "achieve the expected productivity gains",
-            "from AI.",
-            "Developers can get stuck in \u0027death",
-            "loops\u0027 trying to fix poorly understood",
-            "AI-generated code, a problem Zenflow",
-            "aims to solve."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
-    },
-    {
       "id": "577",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -719,6 +718,43 @@
       "publishedAt": "2025-12-16T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
+    },
+    {
+      "id": "576",
+      "topic": "Dev Tools",
+      "source": "VentureBeat AI",
+      "shortTitle": "Zenflow",
+      "mediumTitle": "Zencoder Launches Zenflow",
+      "longTitle": "Zenflow: AI Orchestration for Developers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Multi-agent verification uses different",
+            "AI models, like Claude and OpenAI, to",
+            "critique each other\u2019s work, improving",
+            "code quality.",
+            "Zencoder launched Zenflow to address the",
+            "gap between the promised 10x",
+            "productivity boosts from AI coding and",
+            "the actual 20% improvements observed.",
+            "Zencoder is addressing the issue of",
+            "AI-generated \u0027slop\u0027 \u2013 code that appears",
+            "correct but fails in practice \u2013 through",
+            "robust verification.",
+            "Zencoder argues that adopting",
+            "orchestration tools now is crucial to",
+            "achieve the expected productivity gains",
+            "from AI.",
+            "Developers can get stuck in \u0027death",
+            "loops\u0027 trying to fix poorly understood",
+            "AI-generated code, a problem Zenflow",
+            "aims to solve."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
     },
     {
       "id": "585",
@@ -793,42 +829,6 @@
       "articleUrl": "https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast"
     },
     {
-      "id": "580",
-      "topic": "Generative AI, Vision",
-      "source": "VentureBeat AI",
-      "shortTitle": "GPT Image 1.5",
-      "mediumTitle": "ChatGPT Gets Image Boost",
-      "longTitle": "OpenAI Updates Image Generation with GPT 5.2",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has updated its image generation",
-            "capabilities within ChatGPT, releasing",
-            "\u201CGPT Image 1.5\u201D powered by GPT 5.2.",
-            "This update positions OpenAI to compete",
-            "with other advanced image generation",
-            "models like Google\u2019s Nano Banana Pro.",
-            "The update aims to improve precision and",
-            "consistency, particularly for enterprise",
-            "and brand use cases.",
-            "The model now better maintains",
-            "consistency in lighting, composition,",
-            "and appearance during image",
-            "modifications.",
-            "The new model demonstrates improved",
-            "ability to handle complex editing",
-            "requests with greater accuracy.",
-            "The AI image generation landscape is",
-            "rapidly evolving, with a growing focus",
-            "on attracting enterprise users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
-    },
-    {
       "id": "581",
       "topic": "Large Models, Business",
       "source": "VentureBeat AI",
@@ -864,6 +864,42 @@
       "publishedAt": "2025-12-16T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded"
+    },
+    {
+      "id": "580",
+      "topic": "Generative AI, Vision",
+      "source": "VentureBeat AI",
+      "shortTitle": "GPT Image 1.5",
+      "mediumTitle": "ChatGPT Gets Image Boost",
+      "longTitle": "OpenAI Updates Image Generation with GPT 5.2",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has updated its image generation",
+            "capabilities within ChatGPT, releasing",
+            "\u201CGPT Image 1.5\u201D powered by GPT 5.2.",
+            "This update positions OpenAI to compete",
+            "with other advanced image generation",
+            "models like Google\u2019s Nano Banana Pro.",
+            "The update aims to improve precision and",
+            "consistency, particularly for enterprise",
+            "and brand use cases.",
+            "The model now better maintains",
+            "consistency in lighting, composition,",
+            "and appearance during image",
+            "modifications.",
+            "The new model demonstrates improved",
+            "ability to handle complex editing",
+            "requests with greater accuracy.",
+            "The AI image generation landscape is",
+            "rapidly evolving, with a growing focus",
+            "on attracting enterprise users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
     },
     {
       "id": "573",
