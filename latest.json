@@ -175,7 +175,7 @@
         }
       ],
       "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 4.9678199543442325,
+      "ranking": 4.432711751912514,
       "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
     },
     {
@@ -210,7 +210,7 @@
         }
       ],
       "publishedAt": "2025-12-18T18:00:00.000Z",
-      "ranking": 4.961103250116158,
+      "ranking": 4.410007249142007,
       "articleUrl": "https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard"
     },
     {
@@ -247,7 +247,7 @@
         }
       ],
       "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 4.876153276463603,
+      "ranking": 4.3410450734276536,
       "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
     },
     {
@@ -283,7 +283,7 @@
         }
       ],
       "publishedAt": "2025-12-18T16:31:22.000Z",
-      "ranking": 4.801165267605478,
+      "ranking": 4.22982566806977,
       "articleUrl": "https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos"
     },
     {
@@ -319,7 +319,7 @@
         }
       ],
       "publishedAt": "2025-12-18T16:31:51.000Z",
-      "ranking": 3.692276106901666,
+      "ranking": 3.121046899207276,
       "articleUrl": "https://www.theverge.com/news/847685/lg-copilot-web-app-delete"
     },
     {
@@ -354,7 +354,7 @@
         }
       ],
       "publishedAt": "2025-12-18T17:55:59.000Z",
-      "ranking": 2.98220638853548,
+      "ranking": 2.430192993215779,
       "articleUrl": "https://www.theverge.com/news/847780/openai-anthropic-teen-safety-chatgpt-claude"
     },
     {
@@ -389,7 +389,7 @@
         }
       ],
       "publishedAt": "2025-12-17T20:24:00.000Z",
-      "ranking": 1.2079983525461948,
+      "ranking": 0.3608996727737752,
       "articleUrl": "https://venturebeat.com/technology/gemini-3-flash-arrives-with-reduced-costs-and-latency-a-powerful-combo-for"
     },
     {
@@ -426,8 +426,43 @@
         }
       ],
       "publishedAt": "2025-12-17T18:48:13.000Z",
-      "ranking": 0.8218720533777537,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/12/17/meta-ai-releases-sam-audio-a-state-of-the-art-unified-model-that-uses-intuitive-and-multimodal-prompts-for-audio-separation/"
+    },
+    {
+      "id": "599",
+      "topic": "Energy",
+      "source": "The Verge AI",
+      "shortTitle": "Data Center Probe",
+      "mediumTitle": "Senators Investigate Energy Costs",
+      "longTitle": "Data Centers \u0026 Electricity Prices Under Scrutiny",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The senators are seeking to understand",
+            "how data center energy consumption",
+            "contributes to rising costs.",
+            "The senators want to know if consumers",
+            "are unfairly bearing the burden of these",
+            "rising costs.",
+            "Democratic senators are concerned about",
+            "the substantial energy demands of these",
+            "data centers.",
+            "The investigation will focus on energy",
+            "usage data, contracts with utility",
+            "companies, and mitigation strategies.",
+            "The investigation is a direct response",
+            "to the growing national concern over",
+            "increasing electricity prices.",
+            "On Tuesday, a letter was sent to the",
+            "tech companies and developers requesting",
+            "detailed information."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-17T17:12:16.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/846696/electricity-cost-ai-data-center-democrat-investigation"
     },
     {
       "id": "601",
@@ -463,79 +498,8 @@
         }
       ],
       "publishedAt": "2025-12-17T15:03:31.000Z",
-      "ranking": 0.6463457579042471,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/846573/ai-toys-built-on-openais-chatgpt-inappropriate-content-senators-letter"
-    },
-    {
-      "id": "599",
-      "topic": "Energy",
-      "source": "The Verge AI",
-      "shortTitle": "Data Center Probe",
-      "mediumTitle": "Senators Investigate Energy Costs",
-      "longTitle": "Data Centers \u0026 Electricity Prices Under Scrutiny",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The senators are seeking to understand",
-            "how data center energy consumption",
-            "contributes to rising costs.",
-            "The senators want to know if consumers",
-            "are unfairly bearing the burden of these",
-            "rising costs.",
-            "Democratic senators are concerned about",
-            "the substantial energy demands of these",
-            "data centers.",
-            "The investigation will focus on energy",
-            "usage data, contracts with utility",
-            "companies, and mitigation strategies.",
-            "The investigation is a direct response",
-            "to the growing national concern over",
-            "increasing electricity prices.",
-            "On Tuesday, a letter was sent to the",
-            "tech companies and developers requesting",
-            "detailed information."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-17T17:12:16.000Z",
-      "ranking": 0.25628895537415186,
-      "articleUrl": "https://www.theverge.com/news/846696/electricity-cost-ai-data-center-democrat-investigation"
-    },
-    {
-      "id": "595",
-      "topic": "Environment",
-      "source": "The Verge AI",
-      "shortTitle": "AI Impact",
-      "mediumTitle": "AI\u0027s Growing Footprint",
-      "longTitle": "AI Systems\u0027 Environmental Costs Rise",
-      "paragraphs": [
-        {
-          "Lines": [
-            "New estimates indicate a significant and",
-            "rapidly increasing environmental impact",
-            "from Artificial Intelligence (AI).",
-            "AI\u2019s carbon pollution reached levels",
-            "comparable to that of New York City in",
-            "2025.",
-            "AI consumed as much water as the global",
-            "population does through bottled water",
-            "consumption in 2025.",
-            "The study acknowledges that these",
-            "figures likely underestimate the true",
-            "environmental cost.",
-            "The article highlights the substantial",
-            "resource demands \u2013 both in terms of",
-            "energy and water \u2013 associated with the",
-            "operation of AI systems.",
-            "The findings raise concerns about the",
-            "sustainability of rapidly developing AI",
-            "technologies."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-17T12:00:00.000Z",
-      "ranking": 0.16012420266497251,
-      "articleUrl": "https://www.theverge.com/news/845831/ai-chips-data-center-power-water"
     },
     {
       "id": "590",
@@ -572,6 +536,42 @@
       "publishedAt": "2025-12-17T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/technology/ai-agents-fail-63-of-the-time-on-complex-tasks-patronus-ai-says-its-new"
+    },
+    {
+      "id": "595",
+      "topic": "Environment",
+      "source": "The Verge AI",
+      "shortTitle": "AI Impact",
+      "mediumTitle": "AI\u0027s Growing Footprint",
+      "longTitle": "AI Systems\u0027 Environmental Costs Rise",
+      "paragraphs": [
+        {
+          "Lines": [
+            "New estimates indicate a significant and",
+            "rapidly increasing environmental impact",
+            "from Artificial Intelligence (AI).",
+            "AI\u2019s carbon pollution reached levels",
+            "comparable to that of New York City in",
+            "2025.",
+            "AI consumed as much water as the global",
+            "population does through bottled water",
+            "consumption in 2025.",
+            "The study acknowledges that these",
+            "figures likely underestimate the true",
+            "environmental cost.",
+            "The article highlights the substantial",
+            "resource demands \u2013 both in terms of",
+            "energy and water \u2013 associated with the",
+            "operation of AI systems.",
+            "The findings raise concerns about the",
+            "sustainability of rapidly developing AI",
+            "technologies."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-17T12:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/845831/ai-chips-data-center-power-water"
     },
     {
       "id": "593",
@@ -683,43 +683,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
     },
     {
-      "id": "577",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Zoom AI",
-      "mediumTitle": "Zoom Leads AI Benchmark",
-      "longTitle": "Zoom\u0027s Federated AI Approach Excels",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Zoom\u2019s leading score of 48.1% on the",
-            "\u0027Humanity\u0027s Last Exam\u0027 (HLE) benchmark",
-            "surpassed Google\u2019s Gemini 3 Pro\u2019s 45.8%.",
-            "The \u0027Humanity\u0027s Last Exam\u0027 is designed",
-            "to be exceptionally difficult, requiring",
-            "genuine understanding and complex",
-            "reasoning, unlike earlier, easily",
-            "\u0027gamed\u0027 benchmarks.",
-            "Zoom did not build its own large",
-            "language model (LLM) but instead",
-            "developed a system to intelligently",
-            "combine outputs from existing models.",
-            "The \u0027Z-scorer\u0027 is Zoom\u2019s proprietary",
-            "software used to select, combine, and",
-            "refine the outputs from different AI",
-            "models.",
-            "The real test will be whether AI",
-            "Companion 3.0 delivers tangible benefits",
-            "like accurate summaries and time",
-            "savings."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
-    },
-    {
       "id": "576",
       "topic": "Dev Tools",
       "source": "VentureBeat AI",
@@ -755,6 +718,43 @@
       "publishedAt": "2025-12-16T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
+    },
+    {
+      "id": "577",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Zoom AI",
+      "mediumTitle": "Zoom Leads AI Benchmark",
+      "longTitle": "Zoom\u0027s Federated AI Approach Excels",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Zoom\u2019s leading score of 48.1% on the",
+            "\u0027Humanity\u0027s Last Exam\u0027 (HLE) benchmark",
+            "surpassed Google\u2019s Gemini 3 Pro\u2019s 45.8%.",
+            "The \u0027Humanity\u0027s Last Exam\u0027 is designed",
+            "to be exceptionally difficult, requiring",
+            "genuine understanding and complex",
+            "reasoning, unlike earlier, easily",
+            "\u0027gamed\u0027 benchmarks.",
+            "Zoom did not build its own large",
+            "language model (LLM) but instead",
+            "developed a system to intelligently",
+            "combine outputs from existing models.",
+            "The \u0027Z-scorer\u0027 is Zoom\u2019s proprietary",
+            "software used to select, combine, and",
+            "refine the outputs from different AI",
+            "models.",
+            "The real test will be whether AI",
+            "Companion 3.0 delivers tangible benefits",
+            "like accurate summaries and time",
+            "savings."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
     },
     {
       "id": "585",
@@ -829,6 +829,42 @@
       "articleUrl": "https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast"
     },
     {
+      "id": "580",
+      "topic": "Generative AI, Vision",
+      "source": "VentureBeat AI",
+      "shortTitle": "GPT Image 1.5",
+      "mediumTitle": "ChatGPT Gets Image Boost",
+      "longTitle": "OpenAI Updates Image Generation with GPT 5.2",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has updated its image generation",
+            "capabilities within ChatGPT, releasing",
+            "\u201CGPT Image 1.5\u201D powered by GPT 5.2.",
+            "This update positions OpenAI to compete",
+            "with other advanced image generation",
+            "models like Google\u2019s Nano Banana Pro.",
+            "The update aims to improve precision and",
+            "consistency, particularly for enterprise",
+            "and brand use cases.",
+            "The model now better maintains",
+            "consistency in lighting, composition,",
+            "and appearance during image",
+            "modifications.",
+            "The new model demonstrates improved",
+            "ability to handle complex editing",
+            "requests with greater accuracy.",
+            "The AI image generation landscape is",
+            "rapidly evolving, with a growing focus",
+            "on attracting enterprise users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
+    },
+    {
       "id": "581",
       "topic": "Large Models, Business",
       "source": "VentureBeat AI",
@@ -864,42 +900,6 @@
       "publishedAt": "2025-12-16T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded"
-    },
-    {
-      "id": "580",
-      "topic": "Generative AI, Vision",
-      "source": "VentureBeat AI",
-      "shortTitle": "GPT Image 1.5",
-      "mediumTitle": "ChatGPT Gets Image Boost",
-      "longTitle": "OpenAI Updates Image Generation with GPT 5.2",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has updated its image generation",
-            "capabilities within ChatGPT, releasing",
-            "\u201CGPT Image 1.5\u201D powered by GPT 5.2.",
-            "This update positions OpenAI to compete",
-            "with other advanced image generation",
-            "models like Google\u2019s Nano Banana Pro.",
-            "The update aims to improve precision and",
-            "consistency, particularly for enterprise",
-            "and brand use cases.",
-            "The model now better maintains",
-            "consistency in lighting, composition,",
-            "and appearance during image",
-            "modifications.",
-            "The new model demonstrates improved",
-            "ability to handle complex editing",
-            "requests with greater accuracy.",
-            "The AI image generation landscape is",
-            "rapidly evolving, with a growing focus",
-            "on attracting enterprise users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
     },
     {
       "id": "573",
