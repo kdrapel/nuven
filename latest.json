@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "625",
+      "topic": "Security",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Agents",
+      "mediumTitle": "AI Agent Risks \u0026 Governance",
+      "longTitle": "Governing AI Agents for Reliable Systems",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Responsible AI agent adoption requires a",
+            "\u0027human-in-the-loop\u0027 approach,",
+            "particularly for critical systems.",
+            "A lack of clear ownership and",
+            "accountability makes it difficult to",
+            "address issues when AI agents act",
+            "unexpectedly or cause errors.",
+            "Unchecked autonomy of AI agents can",
+            "create substantial challenges for Site",
+            "Reliability Engineering (SRE) teams",
+            "responsible for system stability.",
+            "The absence of explainability hinders",
+            "the ability to understand why an AI",
+            "agent made a particular decision,",
+            "complicating debugging and",
+            "trust-building.",
+            "More than half of organizations are",
+            "currently deploying AI agents to",
+            "automate tasks and improve efficiency."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-21T20:00:00.000Z",
+      "ranking": 7.996153846153846,
+      "articleUrl": "https://venturebeat.com/ai/agent-autonomy-without-guardrails-is-an-sre-nightmare"
+    },
+    {
       "id": "624",
       "topic": "Model Eval, Safety",
       "source": "Marktechpost AI",
@@ -68,43 +104,8 @@
         }
       ],
       "publishedAt": "2025-12-20T20:00:00.000Z",
-      "ranking": 6.653075648048462,
+      "ranking": 6.287233407630117,
       "articleUrl": "https://venturebeat.com/ai/hiring-specialists-made-sense-before-ai-now-generalists-win"
-    },
-    {
-      "id": "618",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "Google vs SerpApi",
-      "mediumTitle": "Google Sues Web Scraper",
-      "longTitle": "Google Files Copyright Lawsuit Against SerpApi",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The lawsuit asserts that SerpApi\u2019s",
-            "activity violates the Copyright Act.",
-            "Google claims SerpApi circumvents normal",
-            "usage restrictions and protective",
-            "measures designed to prevent scraping.",
-            "Google contends that its search results",
-            "are copyrightable material.",
-            "Google has filed a lawsuit against",
-            "SerpApi, a company specializing in web",
-            "scraping.",
-            "SerpApi doesn\u2019t just provide access to",
-            "results, but copies them wholesale,",
-            "according to the complaint.",
-            "Google\u2019s action signals its intent to",
-            "defend its intellectual property rights.",
-            "The core issue is SerpApi\u2019s automated",
-            "extraction of data from Google Search",
-            "results pages (SERPs)."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-19T16:48:37.000Z",
-      "ranking": 3.2484164219852127,
-      "articleUrl": "https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi"
     },
     {
       "id": "619",
@@ -140,8 +141,43 @@
         }
       ],
       "publishedAt": "2025-12-19T20:26:34.000Z",
-      "ranking": 3.244218845202826,
+      "ranking": 2.5492904174775086,
       "articleUrl": "https://www.marktechpost.com/2025/12/19/mistral-ai-releases-ocr-3-a-smaller-optical-character-recognition-ocr-model-for-structured-document-ai-at-scale/"
+    },
+    {
+      "id": "618",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "Google vs SerpApi",
+      "mediumTitle": "Google Sues Web Scraper",
+      "longTitle": "Google Files Copyright Lawsuit Against SerpApi",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The lawsuit asserts that SerpApi\u2019s",
+            "activity violates the Copyright Act.",
+            "Google claims SerpApi circumvents normal",
+            "usage restrictions and protective",
+            "measures designed to prevent scraping.",
+            "Google contends that its search results",
+            "are copyrightable material.",
+            "Google has filed a lawsuit against",
+            "SerpApi, a company specializing in web",
+            "scraping.",
+            "SerpApi doesn\u2019t just provide access to",
+            "results, but copies them wholesale,",
+            "according to the complaint.",
+            "Google\u2019s action signals its intent to",
+            "defend its intellectual property rights.",
+            "The core issue is SerpApi\u2019s automated",
+            "extraction of data from Google Search",
+            "results pages (SERPs)."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-19T16:48:37.000Z",
+      "ranking": 2.502743219517682,
+      "articleUrl": "https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi"
     },
     {
       "id": "614",
@@ -175,7 +211,7 @@
         }
       ],
       "publishedAt": "2025-12-19T14:12:51.000Z",
-      "ranking": 2.309517420188943,
+      "ranking": 1.5275774610627764,
       "articleUrl": "https://www.marktechpost.com/2025/12/19/google-introduces-t5gemma-2-encoder-decoder-models-with-multimodal-inputs-via-siglip-and-128k-context/"
     },
     {
@@ -211,8 +247,43 @@
         }
       ],
       "publishedAt": "2025-12-19T18:39:14.000Z",
-      "ranking": 1.2484167832162134,
+      "ranking": 0.5284981150165713,
       "articleUrl": "https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026"
+    },
+    {
+      "id": "612",
+      "topic": "Vision, NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "Palona AI",
+      "mediumTitle": "Palona AI Pivots to Hospitality",
+      "longTitle": "Palona AI Focuses on Restaurant Automation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Palona AI\u2019s new strategy centers around",
+            "building specialized operating systems",
+            "for specific industries, rather than",
+            "general-purpose AI.",
+            "The system aims to function as an",
+            "automated \u201Cdigital GM\u201D for restaurant",
+            "operations, improving efficiency and",
+            "customer experience.",
+            "The system is designed to execute",
+            "workflows, remember customers, and",
+            "proactively identify potential issues.",
+            "A key lesson learned was the need for",
+            "model flexibility, avoiding reliance on",
+            "a single AI provider.",
+            "Palona developed a patented layer to",
+            "avoid vendor lock-in with AI models,",
+            "utilizing both proprietary and",
+            "open-source options like Gemini."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-18T19:10:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
     },
     {
       "id": "605",
@@ -244,41 +315,6 @@
             "Palona AI was founded by former",
             "engineering leaders from Google and",
             "Meta."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
-    },
-    {
-      "id": "612",
-      "topic": "Vision, NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "Palona AI",
-      "mediumTitle": "Palona AI Pivots to Hospitality",
-      "longTitle": "Palona AI Focuses on Restaurant Automation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Palona AI\u2019s new strategy centers around",
-            "building specialized operating systems",
-            "for specific industries, rather than",
-            "general-purpose AI.",
-            "The system aims to function as an",
-            "automated \u201Cdigital GM\u201D for restaurant",
-            "operations, improving efficiency and",
-            "customer experience.",
-            "The system is designed to execute",
-            "workflows, remember customers, and",
-            "proactively identify potential issues.",
-            "A key lesson learned was the need for",
-            "model flexibility, avoiding reliance on",
-            "a single AI provider.",
-            "Palona developed a patented layer to",
-            "avoid vendor lock-in with AI models,",
-            "utilizing both proprietary and",
-            "open-source options like Gemini."
           ]
         }
       ],
@@ -900,43 +936,6 @@
       "articleUrl": "https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast"
     },
     {
-      "id": "581",
-      "topic": "Large Models, Business",
-      "source": "VentureBeat AI",
-      "shortTitle": "SAP Joule",
-      "mediumTitle": "SAP\u0027s Grounded AI for Consulting",
-      "longTitle": "SAP Joule: AI Grounded in Institutional Knowledge",
-      "paragraphs": [
-        {
-          "Lines": [
-            "SAP Joule is deeply integrated with and",
-            "continuously updated by SAP\u2019s knowledge",
-            "base, encompassing terabytes of",
-            "documentation and expertise.",
-            "Future development plans include",
-            "incorporating each customer\u2019s specific",
-            "system data and internal documentation",
-            "for tailored guidance.",
-            "SAP aims to move Joule from being",
-            "\u201CSAP-aware\u201D to \u201Ccustomer-aware,\u201D",
-            "adapting to the consultant\u2019s specific",
-            "role.",
-            "Security and data privacy are",
-            "prioritized, with Joule operating within",
-            "SAP\u2019s AI Foundation and adhering to GDPR",
-            "and EU regulations.",
-            "Traditional \u201Cblack box\u201D AI models pose a",
-            "risk of providing inaccurate guidance,",
-            "which is unacceptable in complex SAP",
-            "transformation projects."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded"
-    },
-    {
       "id": "580",
       "topic": "Generative AI, Vision",
       "source": "VentureBeat AI",
@@ -973,41 +972,41 @@
       "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
     },
     {
-      "id": "573",
-      "topic": "Large Models, Training Tricks",
+      "id": "581",
+      "topic": "Large Models, Business",
       "source": "VentureBeat AI",
-      "shortTitle": "Motif AI",
-      "mediumTitle": "Motif\u0027s LLM Insights",
-      "longTitle": "Motif Technologies LLM Training Recipe",
+      "shortTitle": "SAP Joule",
+      "mediumTitle": "SAP\u0027s Grounded AI for Consulting",
+      "longTitle": "SAP Joule: AI Grounded in Institutional Knowledge",
       "paragraphs": [
         {
           "Lines": [
-            "Investing early in data alignment,",
-            "robust infrastructure, and training",
-            "stability is critical for building",
-            "proprietary LLMs.",
-            "Memory optimization often dictates the",
-            "feasibility of advanced training stages,",
-            "making low-level engineering crucial.",
-            "Synthetic reasoning data is only",
-            "effective if its structure aligns with",
-            "the target model\u2019s reasoning style,",
-            "emphasizing the importance of data",
-            "validation.",
-            "Reinforcement learning (RL) fine-tuning",
-            "is prone to failure without robust data",
-            "filtering and reuse, highlighting the",
-            "need for stability.",
-            "Motif Technologies is a Korean AI",
-            "startup that recently released",
-            "Motif-2-12.7B-Reasoning, a 12.7 billion",
-            "parameter open-weight model."
+            "SAP Joule is deeply integrated with and",
+            "continuously updated by SAP\u2019s knowledge",
+            "base, encompassing terabytes of",
+            "documentation and expertise.",
+            "Future development plans include",
+            "incorporating each customer\u2019s specific",
+            "system data and internal documentation",
+            "for tailored guidance.",
+            "SAP aims to move Joule from being",
+            "\u201CSAP-aware\u201D to \u201Ccustomer-aware,\u201D",
+            "adapting to the consultant\u2019s specific",
+            "role.",
+            "Security and data privacy are",
+            "prioritized, with Joule operating within",
+            "SAP\u2019s AI Foundation and adhering to GDPR",
+            "and EU regulations.",
+            "Traditional \u201Cblack box\u201D AI models pose a",
+            "risk of providing inaccurate guidance,",
+            "which is unacceptable in complex SAP",
+            "transformation projects."
           ]
         }
       ],
-      "publishedAt": "2025-12-15T21:16:00.000Z",
+      "publishedAt": "2025-12-16T06:00:00.000Z",
       "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/korean-ai-startup-motif-reveals-4-big-lessons-for-training-enterprise-llms"
+      "articleUrl": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded"
     }
   ]
 }
