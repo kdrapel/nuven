@@ -37,6 +37,41 @@
       "articleUrl": "https://venturebeat.com/ai/hiring-specialists-made-sense-before-ai-now-generalists-win"
     },
     {
+      "id": "624",
+      "topic": "Model Eval, Safety",
+      "source": "Marktechpost AI",
+      "shortTitle": "Bloom AI",
+      "mediumTitle": "Anthropic\u0027s Bloom Framework",
+      "longTitle": "Bloom: Open-Source AI Behavior Evaluation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Bloom focuses on evaluations related to",
+            "AI safety and alignment.",
+            "Anthropic has released Bloom as an",
+            "open-source agentic framework.",
+            "A key motivation behind Bloom is to",
+            "address the significant cost associated",
+            "with designing behavioral evaluations.",
+            "Bloom then automatically constructs",
+            "evaluations to measure how often and how",
+            "strongly that behavior appears.",
+            "The framework is specifically designed",
+            "for automating behavioral evaluations of",
+            "advanced AI models.",
+            "The system accepts a behavior defined by",
+            "a researcher as input.",
+            "The framework also aims to reduce the",
+            "continuous maintenance required for",
+            "these evaluations."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-21T13:55:35.000Z",
+      "ranking": 7.322727272727273,
+      "articleUrl": "https://www.marktechpost.com/2025/12/21/anthropic-ai-releases-bloom-an-open-source-agentic-framework-for-automated-behavioral-evaluations-of-frontier-ai-models/"
+    },
+    {
       "id": "618",
       "topic": "Policy",
       "source": "The Verge AI",
@@ -68,7 +103,7 @@
         }
       ],
       "publishedAt": "2025-12-19T16:48:37.000Z",
-      "ranking": 4.5633121970942865,
+      "ranking": 3.930023104725306,
       "articleUrl": "https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi"
     },
     {
@@ -105,7 +140,7 @@
         }
       ],
       "publishedAt": "2025-12-19T20:26:34.000Z",
-      "ranking": 4.4582821046377195,
+      "ranking": 3.875683764956221,
       "articleUrl": "https://www.marktechpost.com/2025/12/19/mistral-ai-releases-ocr-3-a-smaller-optical-character-recognition-ocr-model-for-structured-document-ai-at-scale/"
     },
     {
@@ -140,7 +175,7 @@
         }
       ],
       "publishedAt": "2025-12-19T14:12:51.000Z",
-      "ranking": 3.696477168719441,
+      "ranking": 3.0269599206104267,
       "articleUrl": "https://www.marktechpost.com/2025/12/19/google-introduces-t5gemma-2-encoder-decoder-models-with-multimodal-inputs-via-siglip-and-128k-context/"
     },
     {
@@ -176,7 +211,7 @@
         }
       ],
       "publishedAt": "2025-12-19T18:39:14.000Z",
-      "ranking": 2.5121369073600164,
+      "ranking": 1.9045749431782024,
       "articleUrl": "https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026"
     },
     {
@@ -211,7 +246,7 @@
         }
       ],
       "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 0.01556784377603293,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
     },
     {
@@ -973,77 +1008,6 @@
       "publishedAt": "2025-12-15T21:16:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/korean-ai-startup-motif-reveals-4-big-lessons-for-training-enterprise-llms"
-    },
-    {
-      "id": "567",
-      "topic": "Security",
-      "source": "VentureBeat AI",
-      "shortTitle": "Tokenization",
-      "mediumTitle": "Data Security via Tokenization",
-      "longTitle": "Tokenization: A Modern Data Security Approach",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Securing data \u0027at birth\u0027 (upon creation)",
-            "is more effective than securing it only",
-            "when stored, according to Raghu.",
-            "Vaultless tokenization dynamically",
-            "generates tokens using algorithms and",
-            "cryptographic techniques, eliminating a",
-            "central vault.",
-            "Tokenization separates data value from",
-            "its inherent risk, presenting it as a",
-            "leading data security method.",
-            "Tokens map back to the original data,",
-            "which is securely stored in a digital",
-            "vault, preserving data format and",
-            "usability.",
-            "Databolt integrates seamlessly with",
-            "existing data warehouses and operates",
-            "within the customer\u2019s environment."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T16:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/tokenization-takes-the-lead-in-the-fight-for-data-security"
-    },
-    {
-      "id": "575",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "US Tech Force",
-      "mediumTitle": "Trump Launches Tech Initiative",
-      "longTitle": "US Tech Force to Modernize Government",
-      "paragraphs": [
-        {
-          "Lines": [
-            "President Donald Trump is the driving",
-            "force behind the new US Tech Force",
-            "initiative.",
-            "The program\u0027s core goal is to bring",
-            "technological expertise into various",
-            "federal agencies.",
-            "Approximately 1,000 specialists are",
-            "expected to be recruited through this",
-            "program.",
-            "Amazon is one of the major technology",
-            "companies being targeted for talent",
-            "acquisition.",
-            "Apple is also included among the",
-            "companies from which the US Tech Force",
-            "will draw its personnel.",
-            "Google is a key partner in providing",
-            "technology professionals for the",
-            "initiative.",
-            "Meta, formerly known as Facebook, is",
-            "also contributing to the talent pool."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-15T15:18:48.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/844804/trump-tech-force-usds-apple-google-microsoft"
     }
   ]
 }
