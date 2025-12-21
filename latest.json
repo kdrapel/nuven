@@ -68,7 +68,7 @@
         }
       ],
       "publishedAt": "2025-12-19T16:48:37.000Z",
-      "ranking": 5.138767462634943,
+      "ranking": 4.5633121970942865,
       "articleUrl": "https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi"
     },
     {
@@ -105,7 +105,7 @@
         }
       ],
       "publishedAt": "2025-12-19T20:26:34.000Z",
-      "ranking": 4.983208113550214,
+      "ranking": 4.4582821046377195,
       "articleUrl": "https://www.marktechpost.com/2025/12/19/mistral-ai-releases-ocr-3-a-smaller-optical-character-recognition-ocr-model-for-structured-document-ai-at-scale/"
     },
     {
@@ -140,7 +140,7 @@
         }
       ],
       "publishedAt": "2025-12-19T14:12:51.000Z",
-      "ranking": 4.30804517723519,
+      "ranking": 3.696477168719441,
       "articleUrl": "https://www.marktechpost.com/2025/12/19/google-introduces-t5gemma-2-encoder-decoder-models-with-multimodal-inputs-via-siglip-and-128k-context/"
     },
     {
@@ -176,7 +176,7 @@
         }
       ],
       "publishedAt": "2025-12-19T18:39:14.000Z",
-      "ranking": 3.0619469825889807,
+      "ranking": 2.5121369073600164,
       "articleUrl": "https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026"
     },
     {
@@ -211,7 +211,7 @@
         }
       ],
       "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 0.892092772644629,
+      "ranking": 0.01556784377603293,
       "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
     },
     {
@@ -248,7 +248,7 @@
         }
       ],
       "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 0.8004260957802956,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
     },
     {
@@ -283,44 +283,8 @@
         }
       ],
       "publishedAt": "2025-12-18T18:00:00.000Z",
-      "ranking": 0.7884182222377012,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard"
-    },
-    {
-      "id": "609",
-      "topic": "Security",
-      "source": "The Verge AI",
-      "shortTitle": "Gemini AI Check",
-      "mediumTitle": "Gemini Can Verify AI Videos",
-      "longTitle": "Google\u0027s Gemini Checks for Google AI Origins",
-      "paragraphs": [
-        {
-          "Lines": [
-            "If SynthID is detected within the video,",
-            "Gemini confirms that it was generated",
-            "using Google AI.",
-            "Conversely, if SynthID is not found,",
-            "Gemini indicates it cannot detect Google",
-            "AI involvement.",
-            "Google has added a new capability to its",
-            "Gemini application focused on",
-            "AI-generated content verification.",
-            "SynthID is Google\u2019s proprietary digital",
-            "watermark used to identify content",
-            "created by its AI models.",
-            "The feature is designed to help users",
-            "determine the origin of videos and",
-            "whether they were created or altered by",
-            "Google AI.",
-            "This new feature aims to address growing",
-            "concerns about the authenticity of",
-            "online video content."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-18T16:31:22.000Z",
-      "ranking": 0.5057131625440272,
-      "articleUrl": "https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos"
     },
     {
       "id": "610",
@@ -392,6 +356,42 @@
       "publishedAt": "2025-12-18T16:31:51.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/847685/lg-copilot-web-app-delete"
+    },
+    {
+      "id": "609",
+      "topic": "Security",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini AI Check",
+      "mediumTitle": "Gemini Can Verify AI Videos",
+      "longTitle": "Google\u0027s Gemini Checks for Google AI Origins",
+      "paragraphs": [
+        {
+          "Lines": [
+            "If SynthID is detected within the video,",
+            "Gemini confirms that it was generated",
+            "using Google AI.",
+            "Conversely, if SynthID is not found,",
+            "Gemini indicates it cannot detect Google",
+            "AI involvement.",
+            "Google has added a new capability to its",
+            "Gemini application focused on",
+            "AI-generated content verification.",
+            "SynthID is Google\u2019s proprietary digital",
+            "watermark used to identify content",
+            "created by its AI models.",
+            "The feature is designed to help users",
+            "determine the origin of videos and",
+            "whether they were created or altered by",
+            "Google AI.",
+            "This new feature aims to address growing",
+            "concerns about the authenticity of",
+            "online video content."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-18T16:31:22.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos"
     },
     {
       "id": "598",
