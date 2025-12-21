@@ -68,7 +68,7 @@
         }
       ],
       "publishedAt": "2025-12-19T16:48:37.000Z",
-      "ranking": 6.119510290152683,
+      "ranking": 5.654711884078628,
       "articleUrl": "https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi"
     },
     {
@@ -105,7 +105,7 @@
         }
       ],
       "publishedAt": "2025-12-19T20:26:34.000Z",
-      "ranking": 5.863238269255889,
+      "ranking": 5.449011820816403,
       "articleUrl": "https://www.marktechpost.com/2025/12/19/mistral-ai-releases-ocr-3-a-smaller-optical-character-recognition-ocr-model-for-structured-document-ai-at-scale/"
     },
     {
@@ -140,7 +140,7 @@
         }
       ],
       "publishedAt": "2025-12-19T14:12:51.000Z",
-      "ranking": 5.360766357732393,
+      "ranking": 4.859824679920994,
       "articleUrl": "https://www.marktechpost.com/2025/12/19/google-introduces-t5gemma-2-encoder-decoder-models-with-multimodal-inputs-via-siglip-and-128k-context/"
     },
     {
@@ -176,7 +176,7 @@
         }
       ],
       "publishedAt": "2025-12-19T18:39:14.000Z",
-      "ranking": 3.991575001171042,
+      "ranking": 3.5524434454056095,
       "articleUrl": "https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026"
     },
     {
@@ -211,7 +211,7 @@
         }
       ],
       "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 2.4729145162514152,
+      "ranking": 1.706791949399003,
       "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
     },
     {
@@ -246,7 +246,7 @@
         }
       ],
       "publishedAt": "2025-12-18T18:00:00.000Z",
-      "ranking": 2.4015863398612316,
+      "ranking": 1.619221345180792,
       "articleUrl": "https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard"
     },
     {
@@ -283,7 +283,7 @@
         }
       ],
       "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 2.3812478321860713,
+      "ranking": 1.6151252675331458,
       "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
     },
     {
@@ -319,7 +319,7 @@
         }
       ],
       "publishedAt": "2025-12-18T16:31:22.000Z",
-      "ranking": 2.1598379239410574,
+      "ranking": 1.3569069245607883,
       "articleUrl": "https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos"
     },
     {
@@ -355,7 +355,7 @@
         }
       ],
       "publishedAt": "2025-12-18T16:31:51.000Z",
-      "ranking": 1.0513948882405995,
+      "ranking": 0.2485760396754113,
       "articleUrl": "https://www.theverge.com/news/847685/lg-copilot-web-app-delete"
     },
     {
@@ -390,7 +390,7 @@
         }
       ],
       "publishedAt": "2025-12-18T17:55:59.000Z",
-      "ranking": 0.4189820022309876,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/847780/openai-anthropic-teen-safety-chatgpt-claude"
     },
     {
@@ -719,43 +719,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
     },
     {
-      "id": "576",
-      "topic": "Dev Tools",
-      "source": "VentureBeat AI",
-      "shortTitle": "Zenflow",
-      "mediumTitle": "Zencoder Launches Zenflow",
-      "longTitle": "Zenflow: AI Orchestration for Developers",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Multi-agent verification uses different",
-            "AI models, like Claude and OpenAI, to",
-            "critique each other\u2019s work, improving",
-            "code quality.",
-            "Zencoder launched Zenflow to address the",
-            "gap between the promised 10x",
-            "productivity boosts from AI coding and",
-            "the actual 20% improvements observed.",
-            "Zencoder is addressing the issue of",
-            "AI-generated \u0027slop\u0027 \u2013 code that appears",
-            "correct but fails in practice \u2013 through",
-            "robust verification.",
-            "Zencoder argues that adopting",
-            "orchestration tools now is crucial to",
-            "achieve the expected productivity gains",
-            "from AI.",
-            "Developers can get stuck in \u0027death",
-            "loops\u0027 trying to fix poorly understood",
-            "AI-generated code, a problem Zenflow",
-            "aims to solve."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
-    },
-    {
       "id": "577",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -791,6 +754,43 @@
       "publishedAt": "2025-12-16T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
+    },
+    {
+      "id": "576",
+      "topic": "Dev Tools",
+      "source": "VentureBeat AI",
+      "shortTitle": "Zenflow",
+      "mediumTitle": "Zencoder Launches Zenflow",
+      "longTitle": "Zenflow: AI Orchestration for Developers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Multi-agent verification uses different",
+            "AI models, like Claude and OpenAI, to",
+            "critique each other\u2019s work, improving",
+            "code quality.",
+            "Zencoder launched Zenflow to address the",
+            "gap between the promised 10x",
+            "productivity boosts from AI coding and",
+            "the actual 20% improvements observed.",
+            "Zencoder is addressing the issue of",
+            "AI-generated \u0027slop\u0027 \u2013 code that appears",
+            "correct but fails in practice \u2013 through",
+            "robust verification.",
+            "Zencoder argues that adopting",
+            "orchestration tools now is crucial to",
+            "achieve the expected productivity gains",
+            "from AI.",
+            "Developers can get stuck in \u0027death",
+            "loops\u0027 trying to fix poorly understood",
+            "AI-generated code, a problem Zenflow",
+            "aims to solve."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
     },
     {
       "id": "585",
