@@ -37,41 +37,6 @@
       "articleUrl": "https://venturebeat.com/ai/agent-autonomy-without-guardrails-is-an-sre-nightmare"
     },
     {
-      "id": "624",
-      "topic": "Model Eval, Safety",
-      "source": "Marktechpost AI",
-      "shortTitle": "Bloom AI",
-      "mediumTitle": "Anthropic\u0027s Bloom Framework",
-      "longTitle": "Bloom: Open-Source AI Behavior Evaluation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Bloom focuses on evaluations related to",
-            "AI safety and alignment.",
-            "Anthropic has released Bloom as an",
-            "open-source agentic framework.",
-            "A key motivation behind Bloom is to",
-            "address the significant cost associated",
-            "with designing behavioral evaluations.",
-            "Bloom then automatically constructs",
-            "evaluations to measure how often and how",
-            "strongly that behavior appears.",
-            "The framework is specifically designed",
-            "for automating behavioral evaluations of",
-            "advanced AI models.",
-            "The system accepts a behavior defined by",
-            "a researcher as input.",
-            "The framework also aims to reduce the",
-            "continuous maintenance required for",
-            "these evaluations."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-21T13:55:35.000Z",
-      "ranking": 7.322727272727273,
-      "articleUrl": "https://www.marktechpost.com/2025/12/21/anthropic-ai-releases-bloom-an-open-source-agentic-framework-for-automated-behavioral-evaluations-of-frontier-ai-models/"
-    },
-    {
       "id": "626",
       "topic": "Dev Tools",
       "source": "Marktechpost AI",
@@ -107,6 +72,41 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/"
     },
     {
+      "id": "624",
+      "topic": "Model Eval, Safety",
+      "source": "Marktechpost AI",
+      "shortTitle": "Bloom AI",
+      "mediumTitle": "Anthropic\u0027s Bloom Framework",
+      "longTitle": "Bloom: Open-Source AI Behavior Evaluation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Bloom focuses on evaluations related to",
+            "AI safety and alignment.",
+            "Anthropic has released Bloom as an",
+            "open-source agentic framework.",
+            "A key motivation behind Bloom is to",
+            "address the significant cost associated",
+            "with designing behavioral evaluations.",
+            "Bloom then automatically constructs",
+            "evaluations to measure how often and how",
+            "strongly that behavior appears.",
+            "The framework is specifically designed",
+            "for automating behavioral evaluations of",
+            "advanced AI models.",
+            "The system accepts a behavior defined by",
+            "a researcher as input.",
+            "The framework also aims to reduce the",
+            "continuous maintenance required for",
+            "these evaluations."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-21T13:55:35.000Z",
+      "ranking": 6.125570604584074,
+      "articleUrl": "https://www.marktechpost.com/2025/12/21/anthropic-ai-releases-bloom-an-open-source-agentic-framework-for-automated-behavioral-evaluations-of-frontier-ai-models/"
+    },
+    {
       "id": "621",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -139,7 +139,7 @@
         }
       ],
       "publishedAt": "2025-12-20T20:00:00.000Z",
-      "ranking": 4.8624900336717936,
+      "ranking": 4.27828371248038,
       "articleUrl": "https://venturebeat.com/ai/hiring-specialists-made-sense-before-ai-now-generalists-win"
     },
     {
@@ -176,7 +176,7 @@
         }
       ],
       "publishedAt": "2025-12-19T20:26:34.000Z",
-      "ranking": 0.14314618767773712,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/12/19/mistral-ai-releases-ocr-3-a-smaller-optical-character-recognition-ocr-model-for-structured-document-ai-at-scale/"
     },
     {
@@ -825,43 +825,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
     },
     {
-      "id": "577",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Zoom AI",
-      "mediumTitle": "Zoom Leads AI Benchmark",
-      "longTitle": "Zoom\u0027s Federated AI Approach Excels",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Zoom\u2019s leading score of 48.1% on the",
-            "\u0027Humanity\u0027s Last Exam\u0027 (HLE) benchmark",
-            "surpassed Google\u2019s Gemini 3 Pro\u2019s 45.8%.",
-            "The \u0027Humanity\u0027s Last Exam\u0027 is designed",
-            "to be exceptionally difficult, requiring",
-            "genuine understanding and complex",
-            "reasoning, unlike earlier, easily",
-            "\u0027gamed\u0027 benchmarks.",
-            "Zoom did not build its own large",
-            "language model (LLM) but instead",
-            "developed a system to intelligently",
-            "combine outputs from existing models.",
-            "The \u0027Z-scorer\u0027 is Zoom\u2019s proprietary",
-            "software used to select, combine, and",
-            "refine the outputs from different AI",
-            "models.",
-            "The real test will be whether AI",
-            "Companion 3.0 delivers tangible benefits",
-            "like accurate summaries and time",
-            "savings."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
-    },
-    {
       "id": "576",
       "topic": "Dev Tools",
       "source": "VentureBeat AI",
@@ -897,6 +860,43 @@
       "publishedAt": "2025-12-16T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
+    },
+    {
+      "id": "577",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Zoom AI",
+      "mediumTitle": "Zoom Leads AI Benchmark",
+      "longTitle": "Zoom\u0027s Federated AI Approach Excels",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Zoom\u2019s leading score of 48.1% on the",
+            "\u0027Humanity\u0027s Last Exam\u0027 (HLE) benchmark",
+            "surpassed Google\u2019s Gemini 3 Pro\u2019s 45.8%.",
+            "The \u0027Humanity\u0027s Last Exam\u0027 is designed",
+            "to be exceptionally difficult, requiring",
+            "genuine understanding and complex",
+            "reasoning, unlike earlier, easily",
+            "\u0027gamed\u0027 benchmarks.",
+            "Zoom did not build its own large",
+            "language model (LLM) but instead",
+            "developed a system to intelligently",
+            "combine outputs from existing models.",
+            "The \u0027Z-scorer\u0027 is Zoom\u2019s proprietary",
+            "software used to select, combine, and",
+            "refine the outputs from different AI",
+            "models.",
+            "The real test will be whether AI",
+            "Companion 3.0 delivers tangible benefits",
+            "like accurate summaries and time",
+            "savings."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
     },
     {
       "id": "585",
