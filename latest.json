@@ -72,6 +72,41 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/21/anthropic-ai-releases-bloom-an-open-source-agentic-framework-for-automated-behavioral-evaluations-of-frontier-ai-models/"
     },
     {
+      "id": "626",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "A2UI",
+      "mediumTitle": "Google Open-Sources A2UI",
+      "longTitle": "Google\u0027s A2UI Enables Agent-Driven Interfaces",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has open-sourced A2UI",
+            "(Agent-to-User Interface) to the public.",
+            "A2UI addresses the challenge of",
+            "presenting secure, interactive",
+            "interfaces from remote agents.",
+            "A2UI provides a protocol specifically",
+            "designed for agent-driven interfaces.",
+            "The system utilizes a declarative JSON",
+            "format for defining the user interface.",
+            "Client applications are responsible for",
+            "rendering the interface using their own",
+            "components.",
+            "This approach allows for interfaces to",
+            "be presented even across different trust",
+            "boundaries.",
+            "Developers can leverage A2UI to build",
+            "more sophisticated and secure agent",
+            "applications."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-22T11:01:40.000Z",
+      "ranking": 7.039999999999999,
+      "articleUrl": "https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/"
+    },
+    {
       "id": "621",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -104,7 +139,7 @@
         }
       ],
       "publishedAt": "2025-12-20T20:00:00.000Z",
-      "ranking": 5.392882343187264,
+      "ranking": 4.8624900336717936,
       "articleUrl": "https://venturebeat.com/ai/hiring-specialists-made-sense-before-ai-now-generalists-win"
     },
     {
@@ -141,43 +176,8 @@
         }
       ],
       "publishedAt": "2025-12-19T20:26:34.000Z",
-      "ranking": 1.0006326032129875,
+      "ranking": 0.14314618767773712,
       "articleUrl": "https://www.marktechpost.com/2025/12/19/mistral-ai-releases-ocr-3-a-smaller-optical-character-recognition-ocr-model-for-structured-document-ai-at-scale/"
-    },
-    {
-      "id": "618",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "Google vs SerpApi",
-      "mediumTitle": "Google Sues Web Scraper",
-      "longTitle": "Google Files Copyright Lawsuit Against SerpApi",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The lawsuit asserts that SerpApi\u2019s",
-            "activity violates the Copyright Act.",
-            "Google claims SerpApi circumvents normal",
-            "usage restrictions and protective",
-            "measures designed to prevent scraping.",
-            "Google contends that its search results",
-            "are copyrightable material.",
-            "Google has filed a lawsuit against",
-            "SerpApi, a company specializing in web",
-            "scraping.",
-            "SerpApi doesn\u2019t just provide access to",
-            "results, but copies them wholesale,",
-            "according to the complaint.",
-            "Google\u2019s action signals its intent to",
-            "defend its intellectual property rights.",
-            "The core issue is SerpApi\u2019s automated",
-            "extraction of data from Google Search",
-            "results pages (SERPs)."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-19T16:48:37.000Z",
-      "ranking": 0.8531919612107757,
-      "articleUrl": "https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi"
     },
     {
       "id": "620",
@@ -214,6 +214,41 @@
       "publishedAt": "2025-12-19T18:39:14.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026"
+    },
+    {
+      "id": "618",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "Google vs SerpApi",
+      "mediumTitle": "Google Sues Web Scraper",
+      "longTitle": "Google Files Copyright Lawsuit Against SerpApi",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The lawsuit asserts that SerpApi\u2019s",
+            "activity violates the Copyright Act.",
+            "Google claims SerpApi circumvents normal",
+            "usage restrictions and protective",
+            "measures designed to prevent scraping.",
+            "Google contends that its search results",
+            "are copyrightable material.",
+            "Google has filed a lawsuit against",
+            "SerpApi, a company specializing in web",
+            "scraping.",
+            "SerpApi doesn\u2019t just provide access to",
+            "results, but copies them wholesale,",
+            "according to the complaint.",
+            "Google\u2019s action signals its intent to",
+            "defend its intellectual property rights.",
+            "The core issue is SerpApi\u2019s automated",
+            "extraction of data from Google Search",
+            "results pages (SERPs)."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-19T16:48:37.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi"
     },
     {
       "id": "614",
@@ -790,43 +825,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
     },
     {
-      "id": "576",
-      "topic": "Dev Tools",
-      "source": "VentureBeat AI",
-      "shortTitle": "Zenflow",
-      "mediumTitle": "Zencoder Launches Zenflow",
-      "longTitle": "Zenflow: AI Orchestration for Developers",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Multi-agent verification uses different",
-            "AI models, like Claude and OpenAI, to",
-            "critique each other\u2019s work, improving",
-            "code quality.",
-            "Zencoder launched Zenflow to address the",
-            "gap between the promised 10x",
-            "productivity boosts from AI coding and",
-            "the actual 20% improvements observed.",
-            "Zencoder is addressing the issue of",
-            "AI-generated \u0027slop\u0027 \u2013 code that appears",
-            "correct but fails in practice \u2013 through",
-            "robust verification.",
-            "Zencoder argues that adopting",
-            "orchestration tools now is crucial to",
-            "achieve the expected productivity gains",
-            "from AI.",
-            "Developers can get stuck in \u0027death",
-            "loops\u0027 trying to fix poorly understood",
-            "AI-generated code, a problem Zenflow",
-            "aims to solve."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
-    },
-    {
       "id": "577",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -862,6 +860,43 @@
       "publishedAt": "2025-12-16T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
+    },
+    {
+      "id": "576",
+      "topic": "Dev Tools",
+      "source": "VentureBeat AI",
+      "shortTitle": "Zenflow",
+      "mediumTitle": "Zencoder Launches Zenflow",
+      "longTitle": "Zenflow: AI Orchestration for Developers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Multi-agent verification uses different",
+            "AI models, like Claude and OpenAI, to",
+            "critique each other\u2019s work, improving",
+            "code quality.",
+            "Zencoder launched Zenflow to address the",
+            "gap between the promised 10x",
+            "productivity boosts from AI coding and",
+            "the actual 20% improvements observed.",
+            "Zencoder is addressing the issue of",
+            "AI-generated \u0027slop\u0027 \u2013 code that appears",
+            "correct but fails in practice \u2013 through",
+            "robust verification.",
+            "Zencoder argues that adopting",
+            "orchestration tools now is crucial to",
+            "achieve the expected productivity gains",
+            "from AI.",
+            "Developers can get stuck in \u0027death",
+            "loops\u0027 trying to fix poorly understood",
+            "AI-generated code, a problem Zenflow",
+            "aims to solve."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
     },
     {
       "id": "585",
@@ -934,42 +969,6 @@
       "publishedAt": "2025-12-16T12:29:32.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast"
-    },
-    {
-      "id": "580",
-      "topic": "Generative AI, Vision",
-      "source": "VentureBeat AI",
-      "shortTitle": "GPT Image 1.5",
-      "mediumTitle": "ChatGPT Gets Image Boost",
-      "longTitle": "OpenAI Updates Image Generation with GPT 5.2",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has updated its image generation",
-            "capabilities within ChatGPT, releasing",
-            "\u201CGPT Image 1.5\u201D powered by GPT 5.2.",
-            "This update positions OpenAI to compete",
-            "with other advanced image generation",
-            "models like Google\u2019s Nano Banana Pro.",
-            "The update aims to improve precision and",
-            "consistency, particularly for enterprise",
-            "and brand use cases.",
-            "The model now better maintains",
-            "consistency in lighting, composition,",
-            "and appearance during image",
-            "modifications.",
-            "The new model demonstrates improved",
-            "ability to handle complex editing",
-            "requests with greater accuracy.",
-            "The AI image generation landscape is",
-            "rapidly evolving, with a growing focus",
-            "on attracting enterprise users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
     },
     {
       "id": "581",
