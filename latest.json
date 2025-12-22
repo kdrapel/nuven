@@ -104,7 +104,7 @@
         }
       ],
       "publishedAt": "2025-12-20T20:00:00.000Z",
-      "ranking": 6.287233407630117,
+      "ranking": 5.870592179858944,
       "articleUrl": "https://venturebeat.com/ai/hiring-specialists-made-sense-before-ai-now-generalists-win"
     },
     {
@@ -141,7 +141,7 @@
         }
       ],
       "publishedAt": "2025-12-19T20:26:34.000Z",
-      "ranking": 2.5492904174775086,
+      "ranking": 1.8075170233023554,
       "articleUrl": "https://www.marktechpost.com/2025/12/19/mistral-ai-releases-ocr-3-a-smaller-optical-character-recognition-ocr-model-for-structured-document-ai-at-scale/"
     },
     {
@@ -176,7 +176,7 @@
         }
       ],
       "publishedAt": "2025-12-19T16:48:37.000Z",
-      "ranking": 2.502743219517682,
+      "ranking": 1.7108347720178587,
       "articleUrl": "https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi"
     },
     {
@@ -211,7 +211,7 @@
         }
       ],
       "publishedAt": "2025-12-19T14:12:51.000Z",
-      "ranking": 1.5275774610627764,
+      "ranking": 0.6998379968361759,
       "articleUrl": "https://www.marktechpost.com/2025/12/19/google-introduces-t5gemma-2-encoder-decoder-models-with-multimodal-inputs-via-siglip-and-128k-context/"
     },
     {
@@ -247,7 +247,7 @@
         }
       ],
       "publishedAt": "2025-12-19T18:39:14.000Z",
-      "ranking": 0.5284981150165713,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026"
     },
     {
@@ -936,42 +936,6 @@
       "articleUrl": "https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast"
     },
     {
-      "id": "580",
-      "topic": "Generative AI, Vision",
-      "source": "VentureBeat AI",
-      "shortTitle": "GPT Image 1.5",
-      "mediumTitle": "ChatGPT Gets Image Boost",
-      "longTitle": "OpenAI Updates Image Generation with GPT 5.2",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has updated its image generation",
-            "capabilities within ChatGPT, releasing",
-            "\u201CGPT Image 1.5\u201D powered by GPT 5.2.",
-            "This update positions OpenAI to compete",
-            "with other advanced image generation",
-            "models like Google\u2019s Nano Banana Pro.",
-            "The update aims to improve precision and",
-            "consistency, particularly for enterprise",
-            "and brand use cases.",
-            "The model now better maintains",
-            "consistency in lighting, composition,",
-            "and appearance during image",
-            "modifications.",
-            "The new model demonstrates improved",
-            "ability to handle complex editing",
-            "requests with greater accuracy.",
-            "The AI image generation landscape is",
-            "rapidly evolving, with a growing focus",
-            "on attracting enterprise users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
-    },
-    {
       "id": "581",
       "topic": "Large Models, Business",
       "source": "VentureBeat AI",
@@ -1007,6 +971,42 @@
       "publishedAt": "2025-12-16T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded"
+    },
+    {
+      "id": "580",
+      "topic": "Generative AI, Vision",
+      "source": "VentureBeat AI",
+      "shortTitle": "GPT Image 1.5",
+      "mediumTitle": "ChatGPT Gets Image Boost",
+      "longTitle": "OpenAI Updates Image Generation with GPT 5.2",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has updated its image generation",
+            "capabilities within ChatGPT, releasing",
+            "\u201CGPT Image 1.5\u201D powered by GPT 5.2.",
+            "This update positions OpenAI to compete",
+            "with other advanced image generation",
+            "models like Google\u2019s Nano Banana Pro.",
+            "The update aims to improve precision and",
+            "consistency, particularly for enterprise",
+            "and brand use cases.",
+            "The model now better maintains",
+            "consistency in lighting, composition,",
+            "and appearance during image",
+            "modifications.",
+            "The new model demonstrates improved",
+            "ability to handle complex editing",
+            "requests with greater accuracy.",
+            "The AI image generation landscape is",
+            "rapidly evolving, with a growing focus",
+            "on attracting enterprise users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
     }
   ]
 }
