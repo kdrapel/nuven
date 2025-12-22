@@ -1,6 +1,43 @@
 {
   "articles": [
     {
+      "id": "629",
+      "topic": "Vision, NLP, Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "Meta PE-AV",
+      "mediumTitle": "Meta Open-Sources PE-AV",
+      "longTitle": "Meta AI Releases Perception Encoder",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta AI has open-sourced Perception",
+            "Encoder Audiovisual (PE-AV), a new",
+            "family of encoders.",
+            "PE-AV is designed to understand both",
+            "audio and video content jointly.",
+            "The model utilizes large-scale",
+            "contrastive training to achieve its",
+            "unified representation.",
+            "The training data consists of",
+            "approximately 100 million audio-video",
+            "pairs.",
+            "Each audio-video pair is accompanied by",
+            "a corresponding text caption.",
+            "The unified embedding space allows for a",
+            "more comprehensive understanding of",
+            "multimodal data.",
+            "SAM Audio is one of the features powered",
+            "by the PE-AV model.",
+            "Large-scale multimodal retrieval is",
+            "another capability enabled by PE-AV."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-22T21:32:12.000Z",
+      "ranking": 7.328,
+      "articleUrl": "https://www.marktechpost.com/2025/12/22/meta-ai-open-sourced-perception-encoder-audiovisual-pe-av-the-audiovisual-encoder-powering-sam-audio-and-large-scale-multimodal-retrieval/"
+    },
+    {
       "id": "626",
       "topic": "Dev Tools",
       "source": "Marktechpost AI",
@@ -68,8 +105,44 @@
         }
       ],
       "publishedAt": "2025-12-21T20:00:00.000Z",
-      "ranking": 6.980934377967776,
+      "ranking": 6.615007133149384,
       "articleUrl": "https://venturebeat.com/ai/agent-autonomy-without-guardrails-is-an-sre-nightmare"
+    },
+    {
+      "id": "628",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Indie Awards",
+      "mediumTitle": "AI Use Costs Game Awards",
+      "longTitle": "Indie Game Awards Revoked Over AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The Indie Game Awards have retracted the",
+            "\u201CGame of the Year\u201D and \u201CDebut Game\u201D",
+            "awards previously given to *Clair",
+            "Obscur: Expedition 33*, developed by",
+            "Sandfall Interactive.",
+            "The retraction stems from the",
+            "developer\u2019s use of generative AI tools",
+            "during the game\u2019s development process.",
+            "The awards were initially presented last",
+            "week, but the Indie Game Awards",
+            "organization subsequently announced the",
+            "decision to rescind them after",
+            "discovering the AI usage.",
+            "The use of AI was deemed a violation of",
+            "the awards\u2019 criteria.",
+            "The specific details regarding *how*",
+            "generative AI was utilized haven\u2019t been",
+            "extensively detailed in this brief",
+            "report."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-22T14:47:58.000Z",
+      "ranking": 6.585,
+      "articleUrl": "https://www.theverge.com/news/849144/indie-game-awards-game-of-the-year-expedition-33-generative-ai-chantey-modretro"
     },
     {
       "id": "624",
@@ -103,7 +176,7 @@
         }
       ],
       "publishedAt": "2025-12-21T13:55:35.000Z",
-      "ranking": 5.733493562801952,
+      "ranking": 5.282717466543067,
       "articleUrl": "https://www.marktechpost.com/2025/12/21/anthropic-ai-releases-bloom-an-open-source-agentic-framework-for-automated-behavioral-evaluations-of-frontier-ai-models/"
     },
     {
@@ -139,7 +212,7 @@
         }
       ],
       "publishedAt": "2025-12-20T20:00:00.000Z",
-      "ranking": 3.6374756604682172,
+      "ranking": 2.936266435043348,
       "articleUrl": "https://venturebeat.com/ai/hiring-specialists-made-sense-before-ai-now-generalists-win"
     },
     {
@@ -286,41 +359,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/19/google-introduces-t5gemma-2-encoder-decoder-models-with-multimodal-inputs-via-siglip-and-128k-context/"
     },
     {
-      "id": "612",
-      "topic": "Vision, NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "Palona AI",
-      "mediumTitle": "Palona AI Pivots to Hospitality",
-      "longTitle": "Palona AI Focuses on Restaurant Automation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Palona AI\u2019s new strategy centers around",
-            "building specialized operating systems",
-            "for specific industries, rather than",
-            "general-purpose AI.",
-            "The system aims to function as an",
-            "automated \u201Cdigital GM\u201D for restaurant",
-            "operations, improving efficiency and",
-            "customer experience.",
-            "The system is designed to execute",
-            "workflows, remember customers, and",
-            "proactively identify potential issues.",
-            "A key lesson learned was the need for",
-            "model flexibility, avoiding reliance on",
-            "a single AI provider.",
-            "Palona developed a patented layer to",
-            "avoid vendor lock-in with AI models,",
-            "utilizing both proprietary and",
-            "open-source options like Gemini."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
-    },
-    {
       "id": "605",
       "topic": "Vision",
       "source": "VentureBeat AI",
@@ -350,6 +388,41 @@
             "Palona AI was founded by former",
             "engineering leaders from Google and",
             "Meta."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-18T19:10:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
+    },
+    {
+      "id": "612",
+      "topic": "Vision, NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "Palona AI",
+      "mediumTitle": "Palona AI Pivots to Hospitality",
+      "longTitle": "Palona AI Focuses on Restaurant Automation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Palona AI\u2019s new strategy centers around",
+            "building specialized operating systems",
+            "for specific industries, rather than",
+            "general-purpose AI.",
+            "The system aims to function as an",
+            "automated \u201Cdigital GM\u201D for restaurant",
+            "operations, improving efficiency and",
+            "customer experience.",
+            "The system is designed to execute",
+            "workflows, remember customers, and",
+            "proactively identify potential issues.",
+            "A key lesson learned was the need for",
+            "model flexibility, avoiding reliance on",
+            "a single AI provider.",
+            "Palona developed a patented layer to",
+            "avoid vendor lock-in with AI models,",
+            "utilizing both proprietary and",
+            "open-source options like Gemini."
           ]
         }
       ],
@@ -825,43 +898,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
     },
     {
-      "id": "577",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Zoom AI",
-      "mediumTitle": "Zoom Leads AI Benchmark",
-      "longTitle": "Zoom\u0027s Federated AI Approach Excels",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Zoom\u2019s leading score of 48.1% on the",
-            "\u0027Humanity\u0027s Last Exam\u0027 (HLE) benchmark",
-            "surpassed Google\u2019s Gemini 3 Pro\u2019s 45.8%.",
-            "The \u0027Humanity\u0027s Last Exam\u0027 is designed",
-            "to be exceptionally difficult, requiring",
-            "genuine understanding and complex",
-            "reasoning, unlike earlier, easily",
-            "\u0027gamed\u0027 benchmarks.",
-            "Zoom did not build its own large",
-            "language model (LLM) but instead",
-            "developed a system to intelligently",
-            "combine outputs from existing models.",
-            "The \u0027Z-scorer\u0027 is Zoom\u2019s proprietary",
-            "software used to select, combine, and",
-            "refine the outputs from different AI",
-            "models.",
-            "The real test will be whether AI",
-            "Companion 3.0 delivers tangible benefits",
-            "like accurate summaries and time",
-            "savings."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
-    },
-    {
       "id": "576",
       "topic": "Dev Tools",
       "source": "VentureBeat AI",
@@ -897,6 +933,43 @@
       "publishedAt": "2025-12-16T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
+    },
+    {
+      "id": "577",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Zoom AI",
+      "mediumTitle": "Zoom Leads AI Benchmark",
+      "longTitle": "Zoom\u0027s Federated AI Approach Excels",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Zoom\u2019s leading score of 48.1% on the",
+            "\u0027Humanity\u0027s Last Exam\u0027 (HLE) benchmark",
+            "surpassed Google\u2019s Gemini 3 Pro\u2019s 45.8%.",
+            "The \u0027Humanity\u0027s Last Exam\u0027 is designed",
+            "to be exceptionally difficult, requiring",
+            "genuine understanding and complex",
+            "reasoning, unlike earlier, easily",
+            "\u0027gamed\u0027 benchmarks.",
+            "Zoom did not build its own large",
+            "language model (LLM) but instead",
+            "developed a system to intelligently",
+            "combine outputs from existing models.",
+            "The \u0027Z-scorer\u0027 is Zoom\u2019s proprietary",
+            "software used to select, combine, and",
+            "refine the outputs from different AI",
+            "models.",
+            "The real test will be whether AI",
+            "Companion 3.0 delivers tangible benefits",
+            "like accurate summaries and time",
+            "savings."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
     },
     {
       "id": "585",
