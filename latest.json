@@ -104,7 +104,7 @@
         }
       ],
       "publishedAt": "2025-12-20T20:00:00.000Z",
-      "ranking": 5.870592179858944,
+      "ranking": 5.392882343187264,
       "articleUrl": "https://venturebeat.com/ai/hiring-specialists-made-sense-before-ai-now-generalists-win"
     },
     {
@@ -141,7 +141,7 @@
         }
       ],
       "publishedAt": "2025-12-19T20:26:34.000Z",
-      "ranking": 1.8075170233023554,
+      "ranking": 1.0006326032129875,
       "articleUrl": "https://www.marktechpost.com/2025/12/19/mistral-ai-releases-ocr-3-a-smaller-optical-character-recognition-ocr-model-for-structured-document-ai-at-scale/"
     },
     {
@@ -176,43 +176,8 @@
         }
       ],
       "publishedAt": "2025-12-19T16:48:37.000Z",
-      "ranking": 1.7108347720178587,
+      "ranking": 0.8531919612107757,
       "articleUrl": "https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi"
-    },
-    {
-      "id": "614",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "T5Gemma 2",
-      "mediumTitle": "Google Releases T5Gemma 2",
-      "longTitle": "Google\u0027s New Open-Source T5Gemma 2 Models",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has released T5Gemma 2, a new",
-            "family of open-source encoder-decoder",
-            "Transformer checkpoints.",
-            "The release includes only pretrained",
-            "models, without any post-trained or",
-            "instruction-tuned checkpoints.",
-            "A key feature of T5Gemma 2 is its",
-            "multimodal input capability.",
-            "The models support a large context",
-            "window of 128,000 tokens.",
-            "This approach allows developers to",
-            "further train and adapt the models for",
-            "specific downstream tasks.",
-            "The models are built by modifying the",
-            "Gemma 3 pretrained weights to fit an",
-            "encoder-decoder structure.",
-            "Multimodal functionality is achieved",
-            "through integration with SigLIP."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-19T14:12:51.000Z",
-      "ranking": 0.6998379968361759,
-      "articleUrl": "https://www.marktechpost.com/2025/12/19/google-introduces-t5gemma-2-encoder-decoder-models-with-multimodal-inputs-via-siglip-and-128k-context/"
     },
     {
       "id": "620",
@@ -249,6 +214,41 @@
       "publishedAt": "2025-12-19T18:39:14.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026"
+    },
+    {
+      "id": "614",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "T5Gemma 2",
+      "mediumTitle": "Google Releases T5Gemma 2",
+      "longTitle": "Google\u0027s New Open-Source T5Gemma 2 Models",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has released T5Gemma 2, a new",
+            "family of open-source encoder-decoder",
+            "Transformer checkpoints.",
+            "The release includes only pretrained",
+            "models, without any post-trained or",
+            "instruction-tuned checkpoints.",
+            "A key feature of T5Gemma 2 is its",
+            "multimodal input capability.",
+            "The models support a large context",
+            "window of 128,000 tokens.",
+            "This approach allows developers to",
+            "further train and adapt the models for",
+            "specific downstream tasks.",
+            "The models are built by modifying the",
+            "Gemma 3 pretrained weights to fit an",
+            "encoder-decoder structure.",
+            "Multimodal functionality is achieved",
+            "through integration with SigLIP."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-19T14:12:51.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.marktechpost.com/2025/12/19/google-introduces-t5gemma-2-encoder-decoder-models-with-multimodal-inputs-via-siglip-and-128k-context/"
     },
     {
       "id": "612",
@@ -936,6 +936,42 @@
       "articleUrl": "https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast"
     },
     {
+      "id": "580",
+      "topic": "Generative AI, Vision",
+      "source": "VentureBeat AI",
+      "shortTitle": "GPT Image 1.5",
+      "mediumTitle": "ChatGPT Gets Image Boost",
+      "longTitle": "OpenAI Updates Image Generation with GPT 5.2",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI has updated its image generation",
+            "capabilities within ChatGPT, releasing",
+            "\u201CGPT Image 1.5\u201D powered by GPT 5.2.",
+            "This update positions OpenAI to compete",
+            "with other advanced image generation",
+            "models like Google\u2019s Nano Banana Pro.",
+            "The update aims to improve precision and",
+            "consistency, particularly for enterprise",
+            "and brand use cases.",
+            "The model now better maintains",
+            "consistency in lighting, composition,",
+            "and appearance during image",
+            "modifications.",
+            "The new model demonstrates improved",
+            "ability to handle complex editing",
+            "requests with greater accuracy.",
+            "The AI image generation landscape is",
+            "rapidly evolving, with a growing focus",
+            "on attracting enterprise users."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T06:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
+    },
+    {
       "id": "581",
       "topic": "Large Models, Business",
       "source": "VentureBeat AI",
@@ -971,42 +1007,6 @@
       "publishedAt": "2025-12-16T06:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded"
-    },
-    {
-      "id": "580",
-      "topic": "Generative AI, Vision",
-      "source": "VentureBeat AI",
-      "shortTitle": "GPT Image 1.5",
-      "mediumTitle": "ChatGPT Gets Image Boost",
-      "longTitle": "OpenAI Updates Image Generation with GPT 5.2",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has updated its image generation",
-            "capabilities within ChatGPT, releasing",
-            "\u201CGPT Image 1.5\u201D powered by GPT 5.2.",
-            "This update positions OpenAI to compete",
-            "with other advanced image generation",
-            "models like Google\u2019s Nano Banana Pro.",
-            "The update aims to improve precision and",
-            "consistency, particularly for enterprise",
-            "and brand use cases.",
-            "The model now better maintains",
-            "consistency in lighting, composition,",
-            "and appearance during image",
-            "modifications.",
-            "The new model demonstrates improved",
-            "ability to handle complex editing",
-            "requests with greater accuracy.",
-            "The AI image generation landscape is",
-            "rapidly evolving, with a growing focus",
-            "on attracting enterprise users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/openais-gpt-image-1-5-challenges-google-at-enterprise-grade-visuals"
     }
   ]
 }
