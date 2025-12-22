@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "id": "625",
-      "topic": "Security",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Agents",
-      "mediumTitle": "AI Agent Risks \u0026 Governance",
-      "longTitle": "Governing AI Agents for Reliable Systems",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Responsible AI agent adoption requires a",
-            "\u0027human-in-the-loop\u0027 approach,",
-            "particularly for critical systems.",
-            "A lack of clear ownership and",
-            "accountability makes it difficult to",
-            "address issues when AI agents act",
-            "unexpectedly or cause errors.",
-            "Unchecked autonomy of AI agents can",
-            "create substantial challenges for Site",
-            "Reliability Engineering (SRE) teams",
-            "responsible for system stability.",
-            "The absence of explainability hinders",
-            "the ability to understand why an AI",
-            "agent made a particular decision,",
-            "complicating debugging and",
-            "trust-building.",
-            "More than half of organizations are",
-            "currently deploying AI agents to",
-            "automate tasks and improve efficiency."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-21T20:00:00.000Z",
-      "ranking": 7.996153846153846,
-      "articleUrl": "https://venturebeat.com/ai/agent-autonomy-without-guardrails-is-an-sre-nightmare"
-    },
-    {
       "id": "626",
       "topic": "Dev Tools",
       "source": "Marktechpost AI",
@@ -72,6 +36,42 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/"
     },
     {
+      "id": "625",
+      "topic": "Security",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Agents",
+      "mediumTitle": "AI Agent Risks \u0026 Governance",
+      "longTitle": "Governing AI Agents for Reliable Systems",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Responsible AI agent adoption requires a",
+            "\u0027human-in-the-loop\u0027 approach,",
+            "particularly for critical systems.",
+            "A lack of clear ownership and",
+            "accountability makes it difficult to",
+            "address issues when AI agents act",
+            "unexpectedly or cause errors.",
+            "Unchecked autonomy of AI agents can",
+            "create substantial challenges for Site",
+            "Reliability Engineering (SRE) teams",
+            "responsible for system stability.",
+            "The absence of explainability hinders",
+            "the ability to understand why an AI",
+            "agent made a particular decision,",
+            "complicating debugging and",
+            "trust-building.",
+            "More than half of organizations are",
+            "currently deploying AI agents to",
+            "automate tasks and improve efficiency."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-21T20:00:00.000Z",
+      "ranking": 6.980934377967776,
+      "articleUrl": "https://venturebeat.com/ai/agent-autonomy-without-guardrails-is-an-sre-nightmare"
+    },
+    {
       "id": "624",
       "topic": "Model Eval, Safety",
       "source": "Marktechpost AI",
@@ -103,7 +103,7 @@
         }
       ],
       "publishedAt": "2025-12-21T13:55:35.000Z",
-      "ranking": 6.125570604584074,
+      "ranking": 5.733493562801952,
       "articleUrl": "https://www.marktechpost.com/2025/12/21/anthropic-ai-releases-bloom-an-open-source-agentic-framework-for-automated-behavioral-evaluations-of-frontier-ai-models/"
     },
     {
@@ -139,7 +139,7 @@
         }
       ],
       "publishedAt": "2025-12-20T20:00:00.000Z",
-      "ranking": 4.27828371248038,
+      "ranking": 3.6374756604682172,
       "articleUrl": "https://venturebeat.com/ai/hiring-specialists-made-sense-before-ai-now-generalists-win"
     },
     {
@@ -825,43 +825,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
     },
     {
-      "id": "576",
-      "topic": "Dev Tools",
-      "source": "VentureBeat AI",
-      "shortTitle": "Zenflow",
-      "mediumTitle": "Zencoder Launches Zenflow",
-      "longTitle": "Zenflow: AI Orchestration for Developers",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Multi-agent verification uses different",
-            "AI models, like Claude and OpenAI, to",
-            "critique each other\u2019s work, improving",
-            "code quality.",
-            "Zencoder launched Zenflow to address the",
-            "gap between the promised 10x",
-            "productivity boosts from AI coding and",
-            "the actual 20% improvements observed.",
-            "Zencoder is addressing the issue of",
-            "AI-generated \u0027slop\u0027 \u2013 code that appears",
-            "correct but fails in practice \u2013 through",
-            "robust verification.",
-            "Zencoder argues that adopting",
-            "orchestration tools now is crucial to",
-            "achieve the expected productivity gains",
-            "from AI.",
-            "Developers can get stuck in \u0027death",
-            "loops\u0027 trying to fix poorly understood",
-            "AI-generated code, a problem Zenflow",
-            "aims to solve."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
-    },
-    {
       "id": "577",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -897,6 +860,43 @@
       "publishedAt": "2025-12-16T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
+    },
+    {
+      "id": "576",
+      "topic": "Dev Tools",
+      "source": "VentureBeat AI",
+      "shortTitle": "Zenflow",
+      "mediumTitle": "Zencoder Launches Zenflow",
+      "longTitle": "Zenflow: AI Orchestration for Developers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Multi-agent verification uses different",
+            "AI models, like Claude and OpenAI, to",
+            "critique each other\u2019s work, improving",
+            "code quality.",
+            "Zencoder launched Zenflow to address the",
+            "gap between the promised 10x",
+            "productivity boosts from AI coding and",
+            "the actual 20% improvements observed.",
+            "Zencoder is addressing the issue of",
+            "AI-generated \u0027slop\u0027 \u2013 code that appears",
+            "correct but fails in practice \u2013 through",
+            "robust verification.",
+            "Zencoder argues that adopting",
+            "orchestration tools now is crucial to",
+            "achieve the expected productivity gains",
+            "from AI.",
+            "Developers can get stuck in \u0027death",
+            "loops\u0027 trying to fix poorly understood",
+            "AI-generated code, a problem Zenflow",
+            "aims to solve."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
     },
     {
       "id": "585",
@@ -969,43 +969,6 @@
       "publishedAt": "2025-12-16T12:29:32.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast"
-    },
-    {
-      "id": "581",
-      "topic": "Large Models, Business",
-      "source": "VentureBeat AI",
-      "shortTitle": "SAP Joule",
-      "mediumTitle": "SAP\u0027s Grounded AI for Consulting",
-      "longTitle": "SAP Joule: AI Grounded in Institutional Knowledge",
-      "paragraphs": [
-        {
-          "Lines": [
-            "SAP Joule is deeply integrated with and",
-            "continuously updated by SAP\u2019s knowledge",
-            "base, encompassing terabytes of",
-            "documentation and expertise.",
-            "Future development plans include",
-            "incorporating each customer\u2019s specific",
-            "system data and internal documentation",
-            "for tailored guidance.",
-            "SAP aims to move Joule from being",
-            "\u201CSAP-aware\u201D to \u201Ccustomer-aware,\u201D",
-            "adapting to the consultant\u2019s specific",
-            "role.",
-            "Security and data privacy are",
-            "prioritized, with Joule operating within",
-            "SAP\u2019s AI Foundation and adhering to GDPR",
-            "and EU regulations.",
-            "Traditional \u201Cblack box\u201D AI models pose a",
-            "risk of providing inaccurate guidance,",
-            "which is unacceptable in complex SAP",
-            "transformation projects."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T06:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded"
     }
   ]
 }
