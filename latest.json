@@ -73,42 +73,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/"
     },
     {
-      "id": "625",
-      "topic": "Security",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Agents",
-      "mediumTitle": "AI Agent Risks \u0026 Governance",
-      "longTitle": "Governing AI Agents for Reliable Systems",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Responsible AI agent adoption requires a",
-            "\u0027human-in-the-loop\u0027 approach,",
-            "particularly for critical systems.",
-            "A lack of clear ownership and",
-            "accountability makes it difficult to",
-            "address issues when AI agents act",
-            "unexpectedly or cause errors.",
-            "Unchecked autonomy of AI agents can",
-            "create substantial challenges for Site",
-            "Reliability Engineering (SRE) teams",
-            "responsible for system stability.",
-            "The absence of explainability hinders",
-            "the ability to understand why an AI",
-            "agent made a particular decision,",
-            "complicating debugging and",
-            "trust-building.",
-            "More than half of organizations are",
-            "currently deploying AI agents to",
-            "automate tasks and improve efficiency."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-21T20:00:00.000Z",
-      "ranking": 6.615007133149384,
-      "articleUrl": "https://venturebeat.com/ai/agent-autonomy-without-guardrails-is-an-sre-nightmare"
-    },
-    {
       "id": "628",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -145,6 +109,78 @@
       "articleUrl": "https://www.theverge.com/news/849144/indie-game-awards-game-of-the-year-expedition-33-generative-ai-chantey-modretro"
     },
     {
+      "id": "630",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT Review",
+      "mediumTitle": "ChatGPT\u0027s 2023 Year in Review",
+      "longTitle": "ChatGPT Launches Personalized \u0027Year in Review\u0027",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The data included in the \u0027Year in",
+            "Review\u0027 covers the period of 2023.",
+            "The feature is currently being rolled",
+            "out to ChatGPT users.",
+            "The statistics provided will focus on",
+            "the number of messages exchanged between",
+            "the user and ChatGPT.",
+            "In addition to data, users will receive",
+            "a unique, AI-generated image in a pixel",
+            "art style.",
+            "ChatGPT is launching a new feature that",
+            "provides a summary of user activity over",
+            "the past year.",
+            "The pixel art image is intended to be a",
+            "visual representation of the user\u2019s",
+            "interactions with ChatGPT.",
+            "The personalized image aims to offer a",
+            "creative and engaging way to reflect on",
+            "the year\u2019s conversations."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-22T18:12:11.000Z",
+      "ranking": 6.550000000000001,
+      "articleUrl": "https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped"
+    },
+    {
+      "id": "625",
+      "topic": "Security",
+      "source": "VentureBeat AI",
+      "shortTitle": "AI Agents",
+      "mediumTitle": "AI Agent Risks \u0026 Governance",
+      "longTitle": "Governing AI Agents for Reliable Systems",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Responsible AI agent adoption requires a",
+            "\u0027human-in-the-loop\u0027 approach,",
+            "particularly for critical systems.",
+            "A lack of clear ownership and",
+            "accountability makes it difficult to",
+            "address issues when AI agents act",
+            "unexpectedly or cause errors.",
+            "Unchecked autonomy of AI agents can",
+            "create substantial challenges for Site",
+            "Reliability Engineering (SRE) teams",
+            "responsible for system stability.",
+            "The absence of explainability hinders",
+            "the ability to understand why an AI",
+            "agent made a particular decision,",
+            "complicating debugging and",
+            "trust-building.",
+            "More than half of organizations are",
+            "currently deploying AI agents to",
+            "automate tasks and improve efficiency."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-21T20:00:00.000Z",
+      "ranking": 6.193205010099806,
+      "articleUrl": "https://venturebeat.com/ai/agent-autonomy-without-guardrails-is-an-sre-nightmare"
+    },
+    {
       "id": "624",
       "topic": "Model Eval, Safety",
       "source": "Marktechpost AI",
@@ -176,7 +212,7 @@
         }
       ],
       "publishedAt": "2025-12-21T13:55:35.000Z",
-      "ranking": 5.282717466543067,
+      "ranking": 4.776129097661816,
       "articleUrl": "https://www.marktechpost.com/2025/12/21/anthropic-ai-releases-bloom-an-open-source-agentic-framework-for-automated-behavioral-evaluations-of-frontier-ai-models/"
     },
     {
@@ -212,7 +248,7 @@
         }
       ],
       "publishedAt": "2025-12-20T20:00:00.000Z",
-      "ranking": 2.936266435043348,
+      "ranking": 2.1794296881348814,
       "articleUrl": "https://venturebeat.com/ai/hiring-specialists-made-sense-before-ai-now-generalists-win"
     },
     {
@@ -359,6 +395,41 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/19/google-introduces-t5gemma-2-encoder-decoder-models-with-multimodal-inputs-via-siglip-and-128k-context/"
     },
     {
+      "id": "612",
+      "topic": "Vision, NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "Palona AI",
+      "mediumTitle": "Palona AI Pivots to Hospitality",
+      "longTitle": "Palona AI Focuses on Restaurant Automation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Palona AI\u2019s new strategy centers around",
+            "building specialized operating systems",
+            "for specific industries, rather than",
+            "general-purpose AI.",
+            "The system aims to function as an",
+            "automated \u201Cdigital GM\u201D for restaurant",
+            "operations, improving efficiency and",
+            "customer experience.",
+            "The system is designed to execute",
+            "workflows, remember customers, and",
+            "proactively identify potential issues.",
+            "A key lesson learned was the need for",
+            "model flexibility, avoiding reliance on",
+            "a single AI provider.",
+            "Palona developed a patented layer to",
+            "avoid vendor lock-in with AI models,",
+            "utilizing both proprietary and",
+            "open-source options like Gemini."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-18T19:10:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
+    },
+    {
       "id": "605",
       "topic": "Vision",
       "source": "VentureBeat AI",
@@ -388,41 +459,6 @@
             "Palona AI was founded by former",
             "engineering leaders from Google and",
             "Meta."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
-    },
-    {
-      "id": "612",
-      "topic": "Vision, NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "Palona AI",
-      "mediumTitle": "Palona AI Pivots to Hospitality",
-      "longTitle": "Palona AI Focuses on Restaurant Automation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Palona AI\u2019s new strategy centers around",
-            "building specialized operating systems",
-            "for specific industries, rather than",
-            "general-purpose AI.",
-            "The system aims to function as an",
-            "automated \u201Cdigital GM\u201D for restaurant",
-            "operations, improving efficiency and",
-            "customer experience.",
-            "The system is designed to execute",
-            "workflows, remember customers, and",
-            "proactively identify potential issues.",
-            "A key lesson learned was the need for",
-            "model flexibility, avoiding reliance on",
-            "a single AI provider.",
-            "Palona developed a patented layer to",
-            "avoid vendor lock-in with AI models,",
-            "utilizing both proprietary and",
-            "open-source options like Gemini."
           ]
         }
       ],
@@ -1006,42 +1042,6 @@
       "publishedAt": "2025-12-16T14:15:36.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-model-gpt-image-1-5"
-    },
-    {
-      "id": "582",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "Betting Boom",
-      "mediumTitle": "Gambling Expands Beyond Sports",
-      "longTitle": "Everything is a Bet: New Gambling Trends",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The core argument centers on the idea",
-            "that almost anything with a measurable",
-            "outcome can become a betting",
-            "opportunity.",
-            "These platforms are turning uncertainty",
-            "into an opportunity for betting,",
-            "regardless of how trivial the subject.",
-            "Wagering now extends to predictions",
-            "about specific and seemingly",
-            "unpredictable events.",
-            "The expansion of betting markets is",
-            "fueled by platforms that specialize in",
-            "these unconventional wagers.",
-            "The trend suggests a growing acceptance",
-            "of quantifying and betting on previously",
-            "unpredictable outcomes.",
-            "The article, titled \u0022Everything is",
-            "Gambling Now,\u0022 examines the dramatic",
-            "growth of betting markets."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T12:29:32.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast"
     }
   ]
 }
