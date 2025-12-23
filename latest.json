@@ -38,43 +38,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/22/google-deepmind-researchers-release-gemma-scope-2-as-a-full-stack-interpretability-suite-for-gemma-3-models/"
     },
     {
-      "id": "629",
-      "topic": "Vision, NLP, Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Meta PE-AV",
-      "mediumTitle": "Meta Open-Sources PE-AV",
-      "longTitle": "Meta AI Releases Perception Encoder",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta AI has open-sourced Perception",
-            "Encoder Audiovisual (PE-AV), a new",
-            "family of encoders.",
-            "PE-AV is designed to understand both",
-            "audio and video content jointly.",
-            "The model utilizes large-scale",
-            "contrastive training to achieve its",
-            "unified representation.",
-            "The training data consists of",
-            "approximately 100 million audio-video",
-            "pairs.",
-            "Each audio-video pair is accompanied by",
-            "a corresponding text caption.",
-            "The unified embedding space allows for a",
-            "more comprehensive understanding of",
-            "multimodal data.",
-            "SAM Audio is one of the features powered",
-            "by the PE-AV model.",
-            "Large-scale multimodal retrieval is",
-            "another capability enabled by PE-AV."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-22T21:32:12.000Z",
-      "ranking": 7.328,
-      "articleUrl": "https://www.marktechpost.com/2025/12/22/meta-ai-open-sourced-perception-encoder-audiovisual-pe-av-the-audiovisual-encoder-powering-sam-audio-and-large-scale-multimodal-retrieval/"
-    },
-    {
       "id": "632",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -111,6 +74,43 @@
       "articleUrl": "https://www.theverge.com/tech/845958/ai-smart-home-broken"
     },
     {
+      "id": "629",
+      "topic": "Vision, NLP, Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "Meta PE-AV",
+      "mediumTitle": "Meta Open-Sources PE-AV",
+      "longTitle": "Meta AI Releases Perception Encoder",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta AI has open-sourced Perception",
+            "Encoder Audiovisual (PE-AV), a new",
+            "family of encoders.",
+            "PE-AV is designed to understand both",
+            "audio and video content jointly.",
+            "The model utilizes large-scale",
+            "contrastive training to achieve its",
+            "unified representation.",
+            "The training data consists of",
+            "approximately 100 million audio-video",
+            "pairs.",
+            "Each audio-video pair is accompanied by",
+            "a corresponding text caption.",
+            "The unified embedding space allows for a",
+            "more comprehensive understanding of",
+            "multimodal data.",
+            "SAM Audio is one of the features powered",
+            "by the PE-AV model.",
+            "Large-scale multimodal retrieval is",
+            "another capability enabled by PE-AV."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-22T21:32:12.000Z",
+      "ranking": 6.094778953975568,
+      "articleUrl": "https://www.marktechpost.com/2025/12/22/meta-ai-open-sourced-perception-encoder-audiovisual-pe-av-the-audiovisual-encoder-powering-sam-audio-and-large-scale-multimodal-retrieval/"
+    },
+    {
       "id": "630",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -143,43 +143,8 @@
         }
       ],
       "publishedAt": "2025-12-22T18:12:11.000Z",
-      "ranking": 5.377662687155027,
+      "ranking": 4.988986332508123,
       "articleUrl": "https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped"
-    },
-    {
-      "id": "626",
-      "topic": "Dev Tools",
-      "source": "Marktechpost AI",
-      "shortTitle": "A2UI",
-      "mediumTitle": "Google Open-Sources A2UI",
-      "longTitle": "Google\u0027s A2UI Enables Agent-Driven Interfaces",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has open-sourced A2UI",
-            "(Agent-to-User Interface) to the public.",
-            "A2UI addresses the challenge of",
-            "presenting secure, interactive",
-            "interfaces from remote agents.",
-            "A2UI provides a protocol specifically",
-            "designed for agent-driven interfaces.",
-            "The system utilizes a declarative JSON",
-            "format for defining the user interface.",
-            "Client applications are responsible for",
-            "rendering the interface using their own",
-            "components.",
-            "This approach allows for interfaces to",
-            "be presented even across different trust",
-            "boundaries.",
-            "Developers can leverage A2UI to build",
-            "more sophisticated and secure agent",
-            "applications."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-22T11:01:40.000Z",
-      "ranking": 5.130863170901637,
-      "articleUrl": "https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/"
     },
     {
       "id": "628",
@@ -214,8 +179,43 @@
         }
       ],
       "publishedAt": "2025-12-22T14:47:58.000Z",
-      "ranking": 5.085446927556637,
+      "ranking": 4.649500076662143,
       "articleUrl": "https://www.theverge.com/news/849144/indie-game-awards-game-of-the-year-expedition-33-generative-ai-chantey-modretro"
+    },
+    {
+      "id": "626",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "A2UI",
+      "mediumTitle": "Google Open-Sources A2UI",
+      "longTitle": "Google\u0027s A2UI Enables Agent-Driven Interfaces",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has open-sourced A2UI",
+            "(Agent-to-User Interface) to the public.",
+            "A2UI addresses the challenge of",
+            "presenting secure, interactive",
+            "interfaces from remote agents.",
+            "A2UI provides a protocol specifically",
+            "designed for agent-driven interfaces.",
+            "The system utilizes a declarative JSON",
+            "format for defining the user interface.",
+            "Client applications are responsible for",
+            "rendering the interface using their own",
+            "components.",
+            "This approach allows for interfaces to",
+            "be presented even across different trust",
+            "boundaries.",
+            "Developers can leverage A2UI to build",
+            "more sophisticated and secure agent",
+            "applications."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-22T11:01:40.000Z",
+      "ranking": 4.642534129921861,
+      "articleUrl": "https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/"
     },
     {
       "id": "625",
@@ -250,7 +250,7 @@
         }
       ],
       "publishedAt": "2025-12-21T20:00:00.000Z",
-      "ranking": 3.9646015204905902,
+      "ranking": 3.267561625083874,
       "articleUrl": "https://venturebeat.com/ai/agent-autonomy-without-guardrails-is-an-sre-nightmare"
     },
     {
@@ -285,7 +285,7 @@
         }
       ],
       "publishedAt": "2025-12-21T13:55:35.000Z",
-      "ranking": 2.2108788650510007,
+      "ranking": 1.4294866049786403,
       "articleUrl": "https://www.marktechpost.com/2025/12/21/anthropic-ai-releases-bloom-an-open-source-agentic-framework-for-automated-behavioral-evaluations-of-frontier-ai-models/"
     },
     {
@@ -1007,43 +1007,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
     },
     {
-      "id": "576",
-      "topic": "Dev Tools",
-      "source": "VentureBeat AI",
-      "shortTitle": "Zenflow",
-      "mediumTitle": "Zencoder Launches Zenflow",
-      "longTitle": "Zenflow: AI Orchestration for Developers",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Multi-agent verification uses different",
-            "AI models, like Claude and OpenAI, to",
-            "critique each other\u2019s work, improving",
-            "code quality.",
-            "Zencoder launched Zenflow to address the",
-            "gap between the promised 10x",
-            "productivity boosts from AI coding and",
-            "the actual 20% improvements observed.",
-            "Zencoder is addressing the issue of",
-            "AI-generated \u0027slop\u0027 \u2013 code that appears",
-            "correct but fails in practice \u2013 through",
-            "robust verification.",
-            "Zencoder argues that adopting",
-            "orchestration tools now is crucial to",
-            "achieve the expected productivity gains",
-            "from AI.",
-            "Developers can get stuck in \u0027death",
-            "loops\u0027 trying to fix poorly understood",
-            "AI-generated code, a problem Zenflow",
-            "aims to solve."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
-    },
-    {
       "id": "577",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -1079,6 +1042,43 @@
       "publishedAt": "2025-12-16T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
+    },
+    {
+      "id": "576",
+      "topic": "Dev Tools",
+      "source": "VentureBeat AI",
+      "shortTitle": "Zenflow",
+      "mediumTitle": "Zencoder Launches Zenflow",
+      "longTitle": "Zenflow: AI Orchestration for Developers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Multi-agent verification uses different",
+            "AI models, like Claude and OpenAI, to",
+            "critique each other\u2019s work, improving",
+            "code quality.",
+            "Zencoder launched Zenflow to address the",
+            "gap between the promised 10x",
+            "productivity boosts from AI coding and",
+            "the actual 20% improvements observed.",
+            "Zencoder is addressing the issue of",
+            "AI-generated \u0027slop\u0027 \u2013 code that appears",
+            "correct but fails in practice \u2013 through",
+            "robust verification.",
+            "Zencoder argues that adopting",
+            "orchestration tools now is crucial to",
+            "achieve the expected productivity gains",
+            "from AI.",
+            "Developers can get stuck in \u0027death",
+            "loops\u0027 trying to fix poorly understood",
+            "AI-generated code, a problem Zenflow",
+            "aims to solve."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
     }
   ]
 }
