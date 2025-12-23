@@ -1,6 +1,43 @@
 {
   "articles": [
     {
+      "id": "631",
+      "topic": "Model Eval, Safety",
+      "source": "Marktechpost AI",
+      "shortTitle": "Gemma Scope 2",
+      "mediumTitle": "Gemma Scope 2 Released",
+      "longTitle": "Google DeepMind Releases Gemma Scope 2 Tools",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google DeepMind researchers developed",
+            "and released Gemma Scope 2.",
+            "The tools provide a way to trace outputs",
+            "back to the model\u0027s internal features.",
+            "Gemma Scope 2 aims to improve the",
+            "understanding of how these AI models",
+            "function internally.",
+            "AI safety teams can use the tools to",
+            "analyze model behavior.",
+            "Alignment teams can leverage the suite",
+            "to ensure models behave as intended.",
+            "The release intends to enhance control",
+            "over these AI systems.",
+            "This tracing is possible across all",
+            "layers of the Gemma 3 models.",
+            "The suite is specifically designed for",
+            "the Gemma 3 family of language models.",
+            "Being open-source, Gemma Scope 2 is",
+            "freely available for use and",
+            "modification."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-23T05:39:48.000Z",
+      "ranking": 7.499999999999999,
+      "articleUrl": "https://www.marktechpost.com/2025/12/22/google-deepmind-researchers-release-gemma-scope-2-as-a-full-stack-interpretability-suite-for-gemma-3-models/"
+    },
+    {
       "id": "629",
       "topic": "Vision, NLP, Generative AI",
       "source": "Marktechpost AI",
@@ -177,7 +214,7 @@
         }
       ],
       "publishedAt": "2025-12-21T20:00:00.000Z",
-      "ranking": 6.193205010099806,
+      "ranking": 5.72070784245089,
       "articleUrl": "https://venturebeat.com/ai/agent-autonomy-without-guardrails-is-an-sre-nightmare"
     },
     {
@@ -212,7 +249,7 @@
         }
       ],
       "publishedAt": "2025-12-21T13:55:35.000Z",
-      "ranking": 4.776129097661816,
+      "ranking": 4.219755941548694,
       "articleUrl": "https://www.marktechpost.com/2025/12/21/anthropic-ai-releases-bloom-an-open-source-agentic-framework-for-automated-behavioral-evaluations-of-frontier-ai-models/"
     },
     {
@@ -248,7 +285,7 @@
         }
       ],
       "publishedAt": "2025-12-20T20:00:00.000Z",
-      "ranking": 2.1794296881348814,
+      "ranking": 1.3754948146036758,
       "articleUrl": "https://venturebeat.com/ai/hiring-specialists-made-sense-before-ai-now-generalists-win"
     },
     {
