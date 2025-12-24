@@ -1,43 +1,6 @@
 {
   "articles": [
     {
-      "id": "631",
-      "topic": "Model Eval, Safety",
-      "source": "Marktechpost AI",
-      "shortTitle": "Gemma Scope 2",
-      "mediumTitle": "Gemma Scope 2 Released",
-      "longTitle": "Google DeepMind Releases Gemma Scope 2 Tools",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google DeepMind researchers developed",
-            "and released Gemma Scope 2.",
-            "The tools provide a way to trace outputs",
-            "back to the model\u0027s internal features.",
-            "Gemma Scope 2 aims to improve the",
-            "understanding of how these AI models",
-            "function internally.",
-            "AI safety teams can use the tools to",
-            "analyze model behavior.",
-            "Alignment teams can leverage the suite",
-            "to ensure models behave as intended.",
-            "The release intends to enhance control",
-            "over these AI systems.",
-            "This tracing is possible across all",
-            "layers of the Gemma 3 models.",
-            "The suite is specifically designed for",
-            "the Gemma 3 family of language models.",
-            "Being open-source, Gemma Scope 2 is",
-            "freely available for use and",
-            "modification."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-23T05:39:48.000Z",
-      "ranking": 7.499999999999999,
-      "articleUrl": "https://www.marktechpost.com/2025/12/22/google-deepmind-researchers-release-gemma-scope-2-as-a-full-stack-interpretability-suite-for-gemma-3-models/"
-    },
-    {
       "id": "632",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -74,6 +37,43 @@
       "articleUrl": "https://www.theverge.com/tech/845958/ai-smart-home-broken"
     },
     {
+      "id": "631",
+      "topic": "Model Eval, Safety",
+      "source": "Marktechpost AI",
+      "shortTitle": "Gemma Scope 2",
+      "mediumTitle": "Gemma Scope 2 Released",
+      "longTitle": "Google DeepMind Releases Gemma Scope 2 Tools",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google DeepMind researchers developed",
+            "and released Gemma Scope 2.",
+            "The tools provide a way to trace outputs",
+            "back to the model\u0027s internal features.",
+            "Gemma Scope 2 aims to improve the",
+            "understanding of how these AI models",
+            "function internally.",
+            "AI safety teams can use the tools to",
+            "analyze model behavior.",
+            "Alignment teams can leverage the suite",
+            "to ensure models behave as intended.",
+            "The release intends to enhance control",
+            "over these AI systems.",
+            "This tracing is possible across all",
+            "layers of the Gemma 3 models.",
+            "The suite is specifically designed for",
+            "the Gemma 3 family of language models.",
+            "Being open-source, Gemma Scope 2 is",
+            "freely available for use and",
+            "modification."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-23T05:39:48.000Z",
+      "ranking": 6.277538973447444,
+      "articleUrl": "https://www.marktechpost.com/2025/12/22/google-deepmind-researchers-release-gemma-scope-2-as-a-full-stack-interpretability-suite-for-gemma-3-models/"
+    },
+    {
       "id": "629",
       "topic": "Vision, NLP, Generative AI",
       "source": "Marktechpost AI",
@@ -107,7 +107,7 @@
         }
       ],
       "publishedAt": "2025-12-22T21:32:12.000Z",
-      "ranking": 5.699335981433366,
+      "ranking": 5.242111002138699,
       "articleUrl": "https://www.marktechpost.com/2025/12/22/meta-ai-open-sourced-perception-encoder-audiovisual-pe-av-the-audiovisual-encoder-powering-sam-audio-and-large-scale-multimodal-retrieval/"
     },
     {
@@ -143,7 +143,7 @@
         }
       ],
       "publishedAt": "2025-12-22T18:12:11.000Z",
-      "ranking": 4.547515536700152,
+      "ranking": 4.043600694870477,
       "articleUrl": "https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped"
     },
     {
@@ -179,7 +179,7 @@
         }
       ],
       "publishedAt": "2025-12-22T14:47:58.000Z",
-      "ranking": 4.161034953560231,
+      "ranking": 3.609449843186497,
       "articleUrl": "https://www.theverge.com/news/849144/indie-game-awards-game-of-the-year-expedition-33-generative-ai-chantey-modretro"
     },
     {
@@ -214,7 +214,7 @@
         }
       ],
       "publishedAt": "2025-12-22T11:01:40.000Z",
-      "ranking": 4.101992864635221,
+      "ranking": 3.4975825770338016,
       "articleUrl": "https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/"
     },
     {
@@ -250,7 +250,7 @@
         }
       ],
       "publishedAt": "2025-12-21T20:00:00.000Z",
-      "ranking": 2.5195288825428364,
+      "ranking": 1.7046426741527831,
       "articleUrl": "https://venturebeat.com/ai/agent-autonomy-without-guardrails-is-an-sre-nightmare"
     },
     {
@@ -285,7 +285,7 @@
         }
       ],
       "publishedAt": "2025-12-21T13:55:35.000Z",
-      "ranking": 0.5975943213912505,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/12/21/anthropic-ai-releases-bloom-an-open-source-agentic-framework-for-automated-behavioral-evaluations-of-frontier-ai-models/"
     },
     {
