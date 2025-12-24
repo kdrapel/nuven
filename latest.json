@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "id": "632",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Alexa Issues",
-      "mediumTitle": "Alexa Plus Update Fails",
-      "longTitle": "Smart Home Routines Broken by Alexa Plus",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The core problem appears to be the new",
-            "AI\u0027s difficulty in consistently and",
-            "accurately executing pre-programmed",
-            "tasks.",
-            "A previously reliable routine \u2013 brewing",
-            "coffee with an Alexa-enabled Bosch",
-            "coffee machine \u2013 is now failing.",
-            "The article focuses on problems arising",
-            "with smart home device functionality",
-            "after an upgrade to Amazon\u0027s Alexa Plus.",
-            "Despite its advanced capabilities, the",
-            "AI is struggling with basic automation",
-            "commands.",
-            "The coffee machine, through Alexa Plus,",
-            "refused the request, offering varied",
-            "explanations with each attempt.",
-            "This indicates a potential issue with",
-            "the reliability of established smart",
-            "home routines post-AI assistant update."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-23T09:30:00.000Z",
-      "ranking": 6.905,
-      "articleUrl": "https://www.theverge.com/tech/845958/ai-smart-home-broken"
-    },
-    {
       "id": "631",
       "topic": "Model Eval, Safety",
       "source": "Marktechpost AI",
@@ -70,8 +34,44 @@
         }
       ],
       "publishedAt": "2025-12-23T05:39:48.000Z",
-      "ranking": 6.277538973447444,
+      "ranking": 5.880613840767995,
       "articleUrl": "https://www.marktechpost.com/2025/12/22/google-deepmind-researchers-release-gemma-scope-2-as-a-full-stack-interpretability-suite-for-gemma-3-models/"
+    },
+    {
+      "id": "632",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Alexa Issues",
+      "mediumTitle": "Alexa Plus Update Fails",
+      "longTitle": "Smart Home Routines Broken by Alexa Plus",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The core problem appears to be the new",
+            "AI\u0027s difficulty in consistently and",
+            "accurately executing pre-programmed",
+            "tasks.",
+            "A previously reliable routine \u2013 brewing",
+            "coffee with an Alexa-enabled Bosch",
+            "coffee machine \u2013 is now failing.",
+            "The article focuses on problems arising",
+            "with smart home device functionality",
+            "after an upgrade to Amazon\u0027s Alexa Plus.",
+            "Despite its advanced capabilities, the",
+            "AI is struggling with basic automation",
+            "commands.",
+            "The coffee machine, through Alexa Plus,",
+            "refused the request, offering varied",
+            "explanations with each attempt.",
+            "This indicates a potential issue with",
+            "the reliability of established smart",
+            "home routines post-AI assistant update."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-23T09:30:00.000Z",
+      "ranking": 5.66692071201994,
+      "articleUrl": "https://www.theverge.com/tech/845958/ai-smart-home-broken"
     },
     {
       "id": "629",
@@ -107,7 +107,7 @@
         }
       ],
       "publishedAt": "2025-12-22T21:32:12.000Z",
-      "ranking": 5.242111002138699,
+      "ranking": 4.732155918559126,
       "articleUrl": "https://www.marktechpost.com/2025/12/22/meta-ai-open-sourced-perception-encoder-audiovisual-pe-av-the-audiovisual-encoder-powering-sam-audio-and-large-scale-multimodal-retrieval/"
     },
     {
@@ -143,7 +143,7 @@
         }
       ],
       "publishedAt": "2025-12-22T18:12:11.000Z",
-      "ranking": 4.043600694870477,
+      "ranking": 3.4872801845470667,
       "articleUrl": "https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped"
     },
     {
@@ -179,7 +179,7 @@
         }
       ],
       "publishedAt": "2025-12-22T14:47:58.000Z",
-      "ranking": 3.609449843186497,
+      "ranking": 3.0057903142158007,
       "articleUrl": "https://www.theverge.com/news/849144/indie-game-awards-game-of-the-year-expedition-33-generative-ai-chantey-modretro"
     },
     {
@@ -214,7 +214,7 @@
         }
       ],
       "publishedAt": "2025-12-22T11:01:40.000Z",
-      "ranking": 3.4975825770338016,
+      "ranking": 2.841464939495368,
       "articleUrl": "https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/"
     },
     {
@@ -250,7 +250,7 @@
         }
       ],
       "publishedAt": "2025-12-21T20:00:00.000Z",
-      "ranking": 1.7046426741527831,
+      "ranking": 0.8395116564962439,
       "articleUrl": "https://venturebeat.com/ai/agent-autonomy-without-guardrails-is-an-sre-nightmare"
     },
     {
@@ -468,6 +468,41 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/19/google-introduces-t5gemma-2-encoder-decoder-models-with-multimodal-inputs-via-siglip-and-128k-context/"
     },
     {
+      "id": "612",
+      "topic": "Vision, NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "Palona AI",
+      "mediumTitle": "Palona AI Pivots to Hospitality",
+      "longTitle": "Palona AI Focuses on Restaurant Automation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Palona AI\u2019s new strategy centers around",
+            "building specialized operating systems",
+            "for specific industries, rather than",
+            "general-purpose AI.",
+            "The system aims to function as an",
+            "automated \u201Cdigital GM\u201D for restaurant",
+            "operations, improving efficiency and",
+            "customer experience.",
+            "The system is designed to execute",
+            "workflows, remember customers, and",
+            "proactively identify potential issues.",
+            "A key lesson learned was the need for",
+            "model flexibility, avoiding reliance on",
+            "a single AI provider.",
+            "Palona developed a patented layer to",
+            "avoid vendor lock-in with AI models,",
+            "utilizing both proprietary and",
+            "open-source options like Gemini."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-18T19:10:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
+    },
+    {
       "id": "605",
       "topic": "Vision",
       "source": "VentureBeat AI",
@@ -497,41 +532,6 @@
             "Palona AI was founded by former",
             "engineering leaders from Google and",
             "Meta."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
-    },
-    {
-      "id": "612",
-      "topic": "Vision, NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "Palona AI",
-      "mediumTitle": "Palona AI Pivots to Hospitality",
-      "longTitle": "Palona AI Focuses on Restaurant Automation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Palona AI\u2019s new strategy centers around",
-            "building specialized operating systems",
-            "for specific industries, rather than",
-            "general-purpose AI.",
-            "The system aims to function as an",
-            "automated \u201Cdigital GM\u201D for restaurant",
-            "operations, improving efficiency and",
-            "customer experience.",
-            "The system is designed to execute",
-            "workflows, remember customers, and",
-            "proactively identify potential issues.",
-            "A key lesson learned was the need for",
-            "model flexibility, avoiding reliance on",
-            "a single AI provider.",
-            "Palona developed a patented layer to",
-            "avoid vendor lock-in with AI models,",
-            "utilizing both proprietary and",
-            "open-source options like Gemini."
           ]
         }
       ],
@@ -1007,43 +1007,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
     },
     {
-      "id": "577",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Zoom AI",
-      "mediumTitle": "Zoom Leads AI Benchmark",
-      "longTitle": "Zoom\u0027s Federated AI Approach Excels",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Zoom\u2019s leading score of 48.1% on the",
-            "\u0027Humanity\u0027s Last Exam\u0027 (HLE) benchmark",
-            "surpassed Google\u2019s Gemini 3 Pro\u2019s 45.8%.",
-            "The \u0027Humanity\u0027s Last Exam\u0027 is designed",
-            "to be exceptionally difficult, requiring",
-            "genuine understanding and complex",
-            "reasoning, unlike earlier, easily",
-            "\u0027gamed\u0027 benchmarks.",
-            "Zoom did not build its own large",
-            "language model (LLM) but instead",
-            "developed a system to intelligently",
-            "combine outputs from existing models.",
-            "The \u0027Z-scorer\u0027 is Zoom\u2019s proprietary",
-            "software used to select, combine, and",
-            "refine the outputs from different AI",
-            "models.",
-            "The real test will be whether AI",
-            "Companion 3.0 delivers tangible benefits",
-            "like accurate summaries and time",
-            "savings."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
-    },
-    {
       "id": "576",
       "topic": "Dev Tools",
       "source": "VentureBeat AI",
@@ -1079,6 +1042,43 @@
       "publishedAt": "2025-12-16T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against"
+    },
+    {
+      "id": "577",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Zoom AI",
+      "mediumTitle": "Zoom Leads AI Benchmark",
+      "longTitle": "Zoom\u0027s Federated AI Approach Excels",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Zoom\u2019s leading score of 48.1% on the",
+            "\u0027Humanity\u0027s Last Exam\u0027 (HLE) benchmark",
+            "surpassed Google\u2019s Gemini 3 Pro\u2019s 45.8%.",
+            "The \u0027Humanity\u0027s Last Exam\u0027 is designed",
+            "to be exceptionally difficult, requiring",
+            "genuine understanding and complex",
+            "reasoning, unlike earlier, easily",
+            "\u0027gamed\u0027 benchmarks.",
+            "Zoom did not build its own large",
+            "language model (LLM) but instead",
+            "developed a system to intelligently",
+            "combine outputs from existing models.",
+            "The \u0027Z-scorer\u0027 is Zoom\u2019s proprietary",
+            "software used to select, combine, and",
+            "refine the outputs from different AI",
+            "models.",
+            "The real test will be whether AI",
+            "Companion 3.0 delivers tangible benefits",
+            "like accurate summaries and time",
+            "savings."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-16T15:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
     }
   ]
 }
