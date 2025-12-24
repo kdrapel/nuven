@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "636",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Agentic AI",
+      "mediumTitle": "Agentic AI: Reality Gap",
+      "longTitle": "Agentic AI Struggles in Real-World Use",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The core issue is that agentic AI often",
+            "performs well in demonstrations but",
+            "struggles in practical, real-world",
+            "scenarios.",
+            "A key finding is that agentic AI",
+            "currently excels at *appearing* capable,",
+            "but lacks consistent reliability.",
+            "The study emphasizes the importance of",
+            "addressing tool use, planning, and",
+            "generalization for successful real-world",
+            "deployment.",
+            "The research highlights the need for",
+            "increased robustness in agentic AI",
+            "systems.",
+            "Agentic AI is being explored for",
+            "applications in scientific discovery,",
+            "software development, and clinical",
+            "research."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-24T21:57:23.000Z",
+      "ranking": 7.06,
+      "articleUrl": "https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/"
+    },
+    {
       "id": "631",
       "topic": "Model Eval, Safety",
       "source": "Marktechpost AI",
@@ -34,7 +69,7 @@
         }
       ],
       "publishedAt": "2025-12-23T05:39:48.000Z",
-      "ranking": 4.921126025626342,
+      "ranking": 4.357655405455438,
       "articleUrl": "https://www.marktechpost.com/2025/12/22/google-deepmind-researchers-release-gemma-scope-2-as-a-full-stack-interpretability-suite-for-gemma-3-models/"
     },
     {
@@ -70,7 +105,7 @@
         }
       ],
       "publishedAt": "2025-12-23T09:30:00.000Z",
-      "ranking": 4.814007771580972,
+      "ranking": 4.3038605115380655,
       "articleUrl": "https://www.theverge.com/tech/845958/ai-smart-home-broken"
     },
     {
@@ -107,7 +142,7 @@
         }
       ],
       "publishedAt": "2025-12-22T21:32:12.000Z",
-      "ranking": 3.5469252572406025,
+      "ranking": 2.8705091082786955,
       "articleUrl": "https://www.marktechpost.com/2025/12/22/meta-ai-open-sourced-perception-encoder-audiovisual-pe-av-the-audiovisual-encoder-powering-sam-audio-and-large-scale-multimodal-retrieval/"
     },
     {
@@ -143,7 +178,7 @@
         }
       ],
       "publishedAt": "2025-12-22T18:12:11.000Z",
-      "ranking": 2.2094484049648973,
+      "ranking": 1.4867010359637263,
       "articleUrl": "https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped"
     },
     {
@@ -179,7 +214,7 @@
         }
       ],
       "publishedAt": "2025-12-22T14:47:58.000Z",
-      "ranking": 1.6334129542132718,
+      "ranking": 0.863361490020611,
       "articleUrl": "https://www.theverge.com/news/849144/indie-game-awards-game-of-the-year-expedition-33-generative-ai-chantey-modretro"
     },
     {
@@ -214,7 +249,7 @@
         }
       ],
       "publishedAt": "2025-12-22T11:01:40.000Z",
-      "ranking": 1.3643181447925308,
+      "ranking": 0.5418472741872558,
       "articleUrl": "https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/"
     },
     {
@@ -1005,43 +1040,6 @@
       "publishedAt": "2025-12-17T05:36:13.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
-    },
-    {
-      "id": "577",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Zoom AI",
-      "mediumTitle": "Zoom Leads AI Benchmark",
-      "longTitle": "Zoom\u0027s Federated AI Approach Excels",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Zoom\u2019s leading score of 48.1% on the",
-            "\u0027Humanity\u0027s Last Exam\u0027 (HLE) benchmark",
-            "surpassed Google\u2019s Gemini 3 Pro\u2019s 45.8%.",
-            "The \u0027Humanity\u0027s Last Exam\u0027 is designed",
-            "to be exceptionally difficult, requiring",
-            "genuine understanding and complex",
-            "reasoning, unlike earlier, easily",
-            "\u0027gamed\u0027 benchmarks.",
-            "Zoom did not build its own large",
-            "language model (LLM) but instead",
-            "developed a system to intelligently",
-            "combine outputs from existing models.",
-            "The \u0027Z-scorer\u0027 is Zoom\u2019s proprietary",
-            "software used to select, combine, and",
-            "refine the outputs from different AI",
-            "models.",
-            "The real test will be whether AI",
-            "Companion 3.0 delivers tangible benefits",
-            "like accurate summaries and time",
-            "savings."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-16T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors"
     }
   ]
 }
