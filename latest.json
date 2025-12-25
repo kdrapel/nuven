@@ -104,7 +104,7 @@
         }
       ],
       "publishedAt": "2025-12-23T09:30:00.000Z",
-      "ranking": 1.7078414321235815,
+      "ranking": 0.9210849800677314,
       "articleUrl": "https://www.theverge.com/tech/845958/ai-smart-home-broken"
     },
     {
@@ -141,7 +141,7 @@
         }
       ],
       "publishedAt": "2025-12-23T05:39:48.000Z",
-      "ranking": 1.548406228301201,
+      "ranking": 0.7084235521583171,
       "articleUrl": "https://www.marktechpost.com/2025/12/22/google-deepmind-researchers-release-gemma-scope-2-as-a-full-stack-interpretability-suite-for-gemma-3-models/"
     },
     {
@@ -1040,42 +1040,6 @@
       "publishedAt": "2025-12-17T07:48:33.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/846152/tesla-autopilot-marketing-deceptive-california-dmv"
-    },
-    {
-      "id": "589",
-      "topic": "Training Tricks",
-      "source": "Marktechpost AI",
-      "shortTitle": "Tinker API",
-      "mediumTitle": "Thinking Machines Tinker GA",
-      "longTitle": "Tinker API Now Generally Available",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Thinking Machines Lab announced the",
-            "general availability of its Tinker",
-            "training API on an unspecified date.",
-            "By using Tinker, developers avoid the",
-            "complexities of building and maintaining",
-            "their own distributed training",
-            "infrastructure.",
-            "The Kimi K2 Thinking model provides",
-            "advanced reasoning abilities within the",
-            "Tinker environment.",
-            "Qwen3-VL vision language models enable",
-            "Tinker to process and understand image",
-            "inputs.",
-            "OpenAI-compatible sampling allows for",
-            "easier integration with tools and",
-            "techniques familiar to many developers.",
-            "This release is targeted towards AI",
-            "engineers seeking a streamlined solution",
-            "for model fine-tuning."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-17T05:36:13.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/12/16/thinking-machines-lab-makes-tinker-generally-available-adds-kimi-k2-thinking-and-qwen3-vl-vision-input/"
     }
   ]
 }
