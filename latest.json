@@ -36,6 +36,42 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/"
     },
     {
+      "id": "638",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "MiniMax M2.1",
+      "mediumTitle": "MiniMax Releases M2.1 Model",
+      "longTitle": "MiniMax Launches Enhanced M2.1 Agent \u0026 Code Model",
+      "paragraphs": [
+        {
+          "Lines": [
+            "M2.1 also features API integration",
+            "capabilities, allowing it to connect",
+            "with other services.",
+            "M2.1 builds upon the efficiency of M2",
+            "with a range of new capabilities.",
+            "Improved tools for structured coding are",
+            "included in the M2.1 release.",
+            "The new model now supports multiple",
+            "coding languages, expanding its",
+            "versatility.",
+            "The original M2 model operated at",
+            "approximately 8% of the cost of Claude",
+            "Sonnet.",
+            "MiniMax has announced the release of",
+            "M2.1, the next iteration of its M2",
+            "model.",
+            "Despite its lower cost, M2 offered",
+            "faster performance compared to Claude",
+            "Sonnet."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-25T15:35:14.000Z",
+      "ranking": 6.92,
+      "articleUrl": "https://www.marktechpost.com/2025/12/25/minimax-releases-m2-1-an-enhanced-m2-version-with-features-like-multi-coding-language-support-api-integration-and-improved-tools-for-structured-coding/"
+    },
+    {
       "id": "632",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -68,7 +104,7 @@
         }
       ],
       "publishedAt": "2025-12-23T09:30:00.000Z",
-      "ranking": 2.4421268078288882,
+      "ranking": 1.7078414321235815,
       "articleUrl": "https://www.theverge.com/tech/845958/ai-smart-home-broken"
     },
     {
@@ -105,7 +141,7 @@
         }
       ],
       "publishedAt": "2025-12-23T05:39:48.000Z",
-      "ranking": 2.336141603693825,
+      "ranking": 1.548406228301201,
       "articleUrl": "https://www.marktechpost.com/2025/12/22/google-deepmind-researchers-release-gemma-scope-2-as-a-full-stack-interpretability-suite-for-gemma-3-models/"
     },
     {
@@ -142,7 +178,7 @@
         }
       ],
       "publishedAt": "2025-12-22T21:32:12.000Z",
-      "ranking": 0.5105558939552521,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/12/22/meta-ai-open-sourced-perception-encoder-audiovisual-pe-av-the-audiovisual-encoder-powering-sam-audio-and-large-scale-multimodal-retrieval/"
     },
     {
@@ -503,41 +539,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/19/google-introduces-t5gemma-2-encoder-decoder-models-with-multimodal-inputs-via-siglip-and-128k-context/"
     },
     {
-      "id": "612",
-      "topic": "Vision, NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "Palona AI",
-      "mediumTitle": "Palona AI Pivots to Hospitality",
-      "longTitle": "Palona AI Focuses on Restaurant Automation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Palona AI\u2019s new strategy centers around",
-            "building specialized operating systems",
-            "for specific industries, rather than",
-            "general-purpose AI.",
-            "The system aims to function as an",
-            "automated \u201Cdigital GM\u201D for restaurant",
-            "operations, improving efficiency and",
-            "customer experience.",
-            "The system is designed to execute",
-            "workflows, remember customers, and",
-            "proactively identify potential issues.",
-            "A key lesson learned was the need for",
-            "model flexibility, avoiding reliance on",
-            "a single AI provider.",
-            "Palona developed a patented layer to",
-            "avoid vendor lock-in with AI models,",
-            "utilizing both proprietary and",
-            "open-source options like Gemini."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
-    },
-    {
       "id": "605",
       "topic": "Vision",
       "source": "VentureBeat AI",
@@ -567,6 +568,41 @@
             "Palona AI was founded by former",
             "engineering leaders from Google and",
             "Meta."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-18T19:10:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
+    },
+    {
+      "id": "612",
+      "topic": "Vision, NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "Palona AI",
+      "mediumTitle": "Palona AI Pivots to Hospitality",
+      "longTitle": "Palona AI Focuses on Restaurant Automation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Palona AI\u2019s new strategy centers around",
+            "building specialized operating systems",
+            "for specific industries, rather than",
+            "general-purpose AI.",
+            "The system aims to function as an",
+            "automated \u201Cdigital GM\u201D for restaurant",
+            "operations, improving efficiency and",
+            "customer experience.",
+            "The system is designed to execute",
+            "workflows, remember customers, and",
+            "proactively identify potential issues.",
+            "A key lesson learned was the need for",
+            "model flexibility, avoiding reliance on",
+            "a single AI provider.",
+            "Palona developed a patented layer to",
+            "avoid vendor lock-in with AI models,",
+            "utilizing both proprietary and",
+            "open-source options like Gemini."
           ]
         }
       ],
