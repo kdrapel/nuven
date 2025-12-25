@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "id": "636",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Agentic AI",
-      "mediumTitle": "Agentic AI: Reality Gap",
-      "longTitle": "Agentic AI Struggles in Real-World Use",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The core issue is that agentic AI often",
-            "performs well in demonstrations but",
-            "struggles in practical, real-world",
-            "scenarios.",
-            "A key finding is that agentic AI",
-            "currently excels at *appearing* capable,",
-            "but lacks consistent reliability.",
-            "The study emphasizes the importance of",
-            "addressing tool use, planning, and",
-            "generalization for successful real-world",
-            "deployment.",
-            "The research highlights the need for",
-            "increased robustness in agentic AI",
-            "systems.",
-            "Agentic AI is being explored for",
-            "applications in scientific discovery,",
-            "software development, and clinical",
-            "research."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-24T21:57:23.000Z",
-      "ranking": 7.06,
-      "articleUrl": "https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/"
-    },
-    {
       "id": "638",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -72,6 +37,41 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/25/minimax-releases-m2-1-an-enhanced-m2-version-with-features-like-multi-coding-language-support-api-integration-and-improved-tools-for-structured-coding/"
     },
     {
+      "id": "636",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Agentic AI",
+      "mediumTitle": "Agentic AI: Reality Gap",
+      "longTitle": "Agentic AI Struggles in Real-World Use",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The core issue is that agentic AI often",
+            "performs well in demonstrations but",
+            "struggles in practical, real-world",
+            "scenarios.",
+            "A key finding is that agentic AI",
+            "currently excels at *appearing* capable,",
+            "but lacks consistent reliability.",
+            "The study emphasizes the importance of",
+            "addressing tool use, planning, and",
+            "generalization for successful real-world",
+            "deployment.",
+            "The research highlights the need for",
+            "increased robustness in agentic AI",
+            "systems.",
+            "Agentic AI is being explored for",
+            "applications in scientific discovery,",
+            "software development, and clinical",
+            "research."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-24T21:57:23.000Z",
+      "ranking": 5.864554239912422,
+      "articleUrl": "https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/"
+    },
+    {
       "id": "632",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -104,7 +104,7 @@
         }
       ],
       "publishedAt": "2025-12-23T09:30:00.000Z",
-      "ranking": 0.9210849800677314,
+      "ranking": 0.08046744592380684,
       "articleUrl": "https://www.theverge.com/tech/845958/ai-smart-home-broken"
     },
     {
@@ -141,7 +141,7 @@
         }
       ],
       "publishedAt": "2025-12-23T05:39:48.000Z",
-      "ranking": 0.7084235521583171,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/12/22/google-deepmind-researchers-release-gemma-scope-2-as-a-full-stack-interpretability-suite-for-gemma-3-models/"
     },
     {
@@ -539,6 +539,41 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/19/google-introduces-t5gemma-2-encoder-decoder-models-with-multimodal-inputs-via-siglip-and-128k-context/"
     },
     {
+      "id": "612",
+      "topic": "Vision, NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "Palona AI",
+      "mediumTitle": "Palona AI Pivots to Hospitality",
+      "longTitle": "Palona AI Focuses on Restaurant Automation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Palona AI\u2019s new strategy centers around",
+            "building specialized operating systems",
+            "for specific industries, rather than",
+            "general-purpose AI.",
+            "The system aims to function as an",
+            "automated \u201Cdigital GM\u201D for restaurant",
+            "operations, improving efficiency and",
+            "customer experience.",
+            "The system is designed to execute",
+            "workflows, remember customers, and",
+            "proactively identify potential issues.",
+            "A key lesson learned was the need for",
+            "model flexibility, avoiding reliance on",
+            "a single AI provider.",
+            "Palona developed a patented layer to",
+            "avoid vendor lock-in with AI models,",
+            "utilizing both proprietary and",
+            "open-source options like Gemini."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-18T19:10:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
+    },
+    {
       "id": "605",
       "topic": "Vision",
       "source": "VentureBeat AI",
@@ -568,41 +603,6 @@
             "Palona AI was founded by former",
             "engineering leaders from Google and",
             "Meta."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
-    },
-    {
-      "id": "612",
-      "topic": "Vision, NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "Palona AI",
-      "mediumTitle": "Palona AI Pivots to Hospitality",
-      "longTitle": "Palona AI Focuses on Restaurant Automation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Palona AI\u2019s new strategy centers around",
-            "building specialized operating systems",
-            "for specific industries, rather than",
-            "general-purpose AI.",
-            "The system aims to function as an",
-            "automated \u201Cdigital GM\u201D for restaurant",
-            "operations, improving efficiency and",
-            "customer experience.",
-            "The system is designed to execute",
-            "workflows, remember customers, and",
-            "proactively identify potential issues.",
-            "A key lesson learned was the need for",
-            "model flexibility, avoiding reliance on",
-            "a single AI provider.",
-            "Palona developed a patented layer to",
-            "avoid vendor lock-in with AI models,",
-            "utilizing both proprietary and",
-            "open-source options like Gemini."
           ]
         }
       ],
