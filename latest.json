@@ -36,6 +36,42 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/"
     },
     {
+      "id": "632",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Alexa Issues",
+      "mediumTitle": "Alexa Plus Update Fails",
+      "longTitle": "Smart Home Routines Broken by Alexa Plus",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The core problem appears to be the new",
+            "AI\u0027s difficulty in consistently and",
+            "accurately executing pre-programmed",
+            "tasks.",
+            "A previously reliable routine \u2013 brewing",
+            "coffee with an Alexa-enabled Bosch",
+            "coffee machine \u2013 is now failing.",
+            "The article focuses on problems arising",
+            "with smart home device functionality",
+            "after an upgrade to Amazon\u0027s Alexa Plus.",
+            "Despite its advanced capabilities, the",
+            "AI is struggling with basic automation",
+            "commands.",
+            "The coffee machine, through Alexa Plus,",
+            "refused the request, offering varied",
+            "explanations with each attempt.",
+            "This indicates a potential issue with",
+            "the reliability of established smart",
+            "home routines post-AI assistant update."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-23T09:30:00.000Z",
+      "ranking": 3.118343313403366,
+      "articleUrl": "https://www.theverge.com/tech/845958/ai-smart-home-broken"
+    },
+    {
       "id": "631",
       "topic": "Model Eval, Safety",
       "source": "Marktechpost AI",
@@ -69,44 +105,8 @@
         }
       ],
       "publishedAt": "2025-12-23T05:39:48.000Z",
-      "ranking": 3.739911570770715,
+      "ranking": 3.0656295798657753,
       "articleUrl": "https://www.marktechpost.com/2025/12/22/google-deepmind-researchers-release-gemma-scope-2-as-a-full-stack-interpretability-suite-for-gemma-3-models/"
-    },
-    {
-      "id": "632",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Alexa Issues",
-      "mediumTitle": "Alexa Plus Update Fails",
-      "longTitle": "Smart Home Routines Broken by Alexa Plus",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The core problem appears to be the new",
-            "AI\u0027s difficulty in consistently and",
-            "accurately executing pre-programmed",
-            "tasks.",
-            "A previously reliable routine \u2013 brewing",
-            "coffee with an Alexa-enabled Bosch",
-            "coffee machine \u2013 is now failing.",
-            "The article focuses on problems arising",
-            "with smart home device functionality",
-            "after an upgrade to Amazon\u0027s Alexa Plus.",
-            "Despite its advanced capabilities, the",
-            "AI is struggling with basic automation",
-            "commands.",
-            "The coffee machine, through Alexa Plus,",
-            "refused the request, offering varied",
-            "explanations with each attempt.",
-            "This indicates a potential issue with",
-            "the reliability of established smart",
-            "home routines post-AI assistant update."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-23T09:30:00.000Z",
-      "ranking": 3.7393276632379413,
-      "articleUrl": "https://www.theverge.com/tech/845958/ai-smart-home-broken"
     },
     {
       "id": "629",
@@ -142,7 +142,7 @@
         }
       ],
       "publishedAt": "2025-12-22T21:32:12.000Z",
-      "ranking": 2.1400560090685143,
+      "ranking": 1.3528812653593798,
       "articleUrl": "https://www.marktechpost.com/2025/12/22/meta-ai-open-sourced-perception-encoder-audiovisual-pe-av-the-audiovisual-encoder-powering-sam-audio-and-large-scale-multimodal-retrieval/"
     },
     {
@@ -178,7 +178,7 @@
         }
       ],
       "publishedAt": "2025-12-22T18:12:11.000Z",
-      "ranking": 0.7100138665632514,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped"
     },
     {
@@ -214,7 +214,7 @@
         }
       ],
       "publishedAt": "2025-12-22T14:47:58.000Z",
-      "ranking": 0.03946941585070096,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/849144/indie-game-awards-game-of-the-year-expedition-33-generative-ai-chantey-modretro"
     },
     {
