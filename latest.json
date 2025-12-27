@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "642",
+      "topic": "Energy",
+      "source": "The Verge AI",
+      "shortTitle": "Wind Farm Lawsuit",
+      "mediumTitle": "Dominion Sues Over Wind Halt",
+      "longTitle": "Dominion Energy Challenges Offshore Wind Pause",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The lawsuit directly challenges the",
+            "administration\u2019s decision to halt the",
+            "leasing process for offshore wind energy",
+            "development.",
+            "The Trump administration\u2019s action",
+            "impacts both ongoing and future planned",
+            "offshore wind energy projects across the",
+            "United States.",
+            "The lawsuit seeks to overturn the",
+            "administration\u2019s decision and allow the",
+            "leasing process to continue.",
+            "The outcome of this lawsuit could have",
+            "significant implications for the future",
+            "of offshore wind development in the US.",
+            "The Coastal Virginia Offshore Wind",
+            "project represents a substantial",
+            "investment in renewable energy",
+            "infrastructure."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-26T18:14:47.000Z",
+      "ranking": 7.13,
+      "articleUrl": "https://www.theverge.com/news/850461/offshore-wind-trump-lawsuit-dominion-energy-ai-data-center"
+    },
+    {
       "id": "638",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -33,7 +68,7 @@
         }
       ],
       "publishedAt": "2025-12-25T15:35:14.000Z",
-      "ranking": 5.073433706914203,
+      "ranking": 4.592271089509582,
       "articleUrl": "https://www.marktechpost.com/2025/12/25/minimax-releases-m2-1-an-enhanced-m2-version-with-features-like-multi-coding-language-support-api-integration-and-improved-tools-for-structured-coding/"
     },
     {
@@ -68,7 +103,7 @@
         }
       ],
       "publishedAt": "2025-12-24T21:57:23.000Z",
-      "ranking": 2.6772479667491993,
+      "ranking": 1.9510090618071816,
       "articleUrl": "https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/"
     },
     {
@@ -539,41 +574,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/19/google-introduces-t5gemma-2-encoder-decoder-models-with-multimodal-inputs-via-siglip-and-128k-context/"
     },
     {
-      "id": "612",
-      "topic": "Vision, NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "Palona AI",
-      "mediumTitle": "Palona AI Pivots to Hospitality",
-      "longTitle": "Palona AI Focuses on Restaurant Automation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Palona AI\u2019s new strategy centers around",
-            "building specialized operating systems",
-            "for specific industries, rather than",
-            "general-purpose AI.",
-            "The system aims to function as an",
-            "automated \u201Cdigital GM\u201D for restaurant",
-            "operations, improving efficiency and",
-            "customer experience.",
-            "The system is designed to execute",
-            "workflows, remember customers, and",
-            "proactively identify potential issues.",
-            "A key lesson learned was the need for",
-            "model flexibility, avoiding reliance on",
-            "a single AI provider.",
-            "Palona developed a patented layer to",
-            "avoid vendor lock-in with AI models,",
-            "utilizing both proprietary and",
-            "open-source options like Gemini."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
-    },
-    {
       "id": "605",
       "topic": "Vision",
       "source": "VentureBeat AI",
@@ -603,6 +603,41 @@
             "Palona AI was founded by former",
             "engineering leaders from Google and",
             "Meta."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-18T19:10:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
+    },
+    {
+      "id": "612",
+      "topic": "Vision, NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "Palona AI",
+      "mediumTitle": "Palona AI Pivots to Hospitality",
+      "longTitle": "Palona AI Focuses on Restaurant Automation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Palona AI\u2019s new strategy centers around",
+            "building specialized operating systems",
+            "for specific industries, rather than",
+            "general-purpose AI.",
+            "The system aims to function as an",
+            "automated \u201Cdigital GM\u201D for restaurant",
+            "operations, improving efficiency and",
+            "customer experience.",
+            "The system is designed to execute",
+            "workflows, remember customers, and",
+            "proactively identify potential issues.",
+            "A key lesson learned was the need for",
+            "model flexibility, avoiding reliance on",
+            "a single AI provider.",
+            "Palona developed a patented layer to",
+            "avoid vendor lock-in with AI models,",
+            "utilizing both proprietary and",
+            "open-source options like Gemini."
           ]
         }
       ],
@@ -967,42 +1002,6 @@
       "publishedAt": "2025-12-17T12:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/845831/ai-chips-data-center-power-water"
-    },
-    {
-      "id": "593",
-      "topic": "Security",
-      "source": "VentureBeat AI",
-      "shortTitle": "Edge AI Risk",
-      "mediumTitle": "Securing AI at the Edge",
-      "longTitle": "SMBs \u0026 the Rise of Edge AI Security",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Companies are often connecting devices",
-            "and deploying AI before establishing",
-            "robust security policies.",
-            "SMBs that proactively modernize their",
-            "connectivity and security will be best",
-            "positioned to scale AI successfully.",
-            "Future AI systems will not only run at",
-            "the edge but also actively secure it",
-            "through dynamic optimization and anomaly",
-            "detection.",
-            "Unmonitored devices, inconsistent access",
-            "controls, and unsegmented data flows are",
-            "key vulnerabilities at the edge.",
-            "SIM-based identity verification and",
-            "secure mobile connectivity are becoming",
-            "crucial security components.",
-            "SMBs are leveraging AI for applications",
-            "like smart assistants, predictive",
-            "inventory, and on-site analytics."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-17T09:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/ai-is-moving-to-the-edge-and-network-security-needs-to-catch-up"
     }
   ]
 }
