@@ -1,6 +1,43 @@
 {
   "articles": [
     {
+      "id": "646",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "HY-Motion 1.0",
+      "mediumTitle": "Tencent Releases 3D Motion AI",
+      "longTitle": "Tencent\u0027s HY-Motion 1.0 Generates 3D Human Motion",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Users can input natural language prompts",
+            "to guide the motion generation process.",
+            "The output motions are formatted for a",
+            "unified SMPL-H skeleton, ensuring",
+            "compatibility with various 3D",
+            "applications.",
+            "The specified duration allows for",
+            "control over the length of the generated",
+            "motion clip.",
+            "The foundation of HY-Motion 1.0 is the",
+            "Diffusion Transformer (DiT)",
+            "architecture, known for its",
+            "effectiveness in generative tasks.",
+            "Flow Matching techniques are also",
+            "integrated into the motion domain,",
+            "enhancing the quality and realism of the",
+            "generated motions.",
+            "Tencent\u0027s Hunyuan\u2019s 3D Digital Human",
+            "team is responsible for the development",
+            "and release of HY-Motion 1.0."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-31T11:00:52.000Z",
+      "ranking": 7.6,
+      "articleUrl": "https://www.marktechpost.com/2025/12/31/tencent-released-tencent-hy-motion-1-0-a-billion-parameter-text-to-motion-model-built-on-the-diffusion-transformer-dit-architecture-and-flow-matching/"
+    },
+    {
       "id": "644",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -34,7 +71,7 @@
         }
       ],
       "publishedAt": "2025-12-30T09:52:25.000Z",
-      "ranking": 7.433,
+      "ranking": 6.228157364224574,
       "articleUrl": "https://www.marktechpost.com/2025/12/30/meet-llmrouter-an-intelligent-routing-system-designed-to-optimize-llm-inference-by-dynamically-selecting-the-most-suitable-model-for-each-query/"
     },
     {
