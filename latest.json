@@ -34,7 +34,7 @@
         }
       ],
       "publishedAt": "2025-12-31T11:00:52.000Z",
-      "ranking": 1.9193036819471647,
+      "ranking": 1.0979790912844267,
       "articleUrl": "https://www.marktechpost.com/2025/12/31/tencent-released-tencent-hy-motion-1-0-a-billion-parameter-text-to-motion-model-built-on-the-diffusion-transformer-dit-architecture-and-flow-matching/"
     },
     {
@@ -719,6 +719,41 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/19/google-introduces-t5gemma-2-encoder-decoder-models-with-multimodal-inputs-via-siglip-and-128k-context/"
     },
     {
+      "id": "612",
+      "topic": "Vision, NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "Palona AI",
+      "mediumTitle": "Palona AI Pivots to Hospitality",
+      "longTitle": "Palona AI Focuses on Restaurant Automation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Palona AI\u2019s new strategy centers around",
+            "building specialized operating systems",
+            "for specific industries, rather than",
+            "general-purpose AI.",
+            "The system aims to function as an",
+            "automated \u201Cdigital GM\u201D for restaurant",
+            "operations, improving efficiency and",
+            "customer experience.",
+            "The system is designed to execute",
+            "workflows, remember customers, and",
+            "proactively identify potential issues.",
+            "A key lesson learned was the need for",
+            "model flexibility, avoiding reliance on",
+            "a single AI provider.",
+            "Palona developed a patented layer to",
+            "avoid vendor lock-in with AI models,",
+            "utilizing both proprietary and",
+            "open-source options like Gemini."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-18T19:10:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
+    },
+    {
       "id": "605",
       "topic": "Vision",
       "source": "VentureBeat AI",
@@ -748,41 +783,6 @@
             "Palona AI was founded by former",
             "engineering leaders from Google and",
             "Meta."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
-    },
-    {
-      "id": "612",
-      "topic": "Vision, NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "Palona AI",
-      "mediumTitle": "Palona AI Pivots to Hospitality",
-      "longTitle": "Palona AI Focuses on Restaurant Automation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Palona AI\u2019s new strategy centers around",
-            "building specialized operating systems",
-            "for specific industries, rather than",
-            "general-purpose AI.",
-            "The system aims to function as an",
-            "automated \u201Cdigital GM\u201D for restaurant",
-            "operations, improving efficiency and",
-            "customer experience.",
-            "The system is designed to execute",
-            "workflows, remember customers, and",
-            "proactively identify potential issues.",
-            "A key lesson learned was the need for",
-            "model flexibility, avoiding reliance on",
-            "a single AI provider.",
-            "Palona developed a patented layer to",
-            "avoid vendor lock-in with AI models,",
-            "utilizing both proprietary and",
-            "open-source options like Gemini."
           ]
         }
       ],
@@ -1038,43 +1038,6 @@
       "publishedAt": "2025-12-17T17:12:16.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/846696/electricity-cost-ai-data-center-democrat-investigation"
-    },
-    {
-      "id": "601",
-      "topic": "Safety, Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Toy Risks",
-      "mediumTitle": "Senators Warn of AI Toys",
-      "longTitle": "AI-Powered Toys Raise Safety Concerns",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Disturbingly, the letter also mentions",
-            "instances of the toys discussing sexual",
-            "fetish content with children.",
-            "The senators\u2019 letter highlights that",
-            "some toys engaged in conversations about",
-            "locating knives within the home.",
-            "Furthermore, the toys reportedly",
-            "provided instructions on how to light a",
-            "match, posing a physical safety risk.",
-            "Senators Blackburn and Blumenthal are",
-            "specifically worried about the potential",
-            "for these toys to provide children with",
-            "dangerous information.",
-            "The senators are seeking accountability",
-            "for the lack of adequate safeguards to",
-            "prevent these occurrences.",
-            "The senators aim to ensure that children",
-            "are protected from harmful or",
-            "inappropriate content when interacting",
-            "with these technologies."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-17T15:03:31.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/846573/ai-toys-built-on-openais-chatgpt-inappropriate-content-senators-letter"
     }
   ]
 }
