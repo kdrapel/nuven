@@ -1,6 +1,43 @@
 {
   "articles": [
     {
+      "id": "652",
+      "topic": "NLP, Speech",
+      "source": "The Verge AI",
+      "shortTitle": "SwitchBot AI",
+      "mediumTitle": "SwitchBot MindClip Recorder",
+      "longTitle": "SwitchBot Launches AI Voice Recorder",
+      "paragraphs": [
+        {
+          "Lines": [
+            "SwitchBot has announced the AI MindClip,",
+            "a new clip-on voice recorder.",
+            "The AI MindClip records daily",
+            "conversations and work meetings.",
+            "It captures and organizes spoken",
+            "information through the use of",
+            "artificial intelligence.",
+            "The AI then converts these recordings",
+            "into concise summaries.",
+            "The device is designed to function as a",
+            "\u0027second brain\u0027 for its user.",
+            "It also generates actionable to-do lists",
+            "from the recorded content.",
+            "Users benefit from a searchable personal",
+            "audio database.",
+            "The unveiling of the AI MindClip took",
+            "place at CES.",
+            "SwitchBot aims to help users better",
+            "manage and recall information with this",
+            "device."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-04T12:45:00.000Z",
+      "ranking": 7.385,
+      "articleUrl": "https://www.theverge.com/tech/853109/switchbot-ai-mindclip-audio-recorder-ces-announcement"
+    },
+    {
       "id": "650",
       "topic": "Training Tricks",
       "source": "Marktechpost AI",
@@ -967,78 +1004,6 @@
       "publishedAt": "2025-12-18T16:31:22.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos"
-    },
-    {
-      "id": "598",
-      "topic": "Large Models, NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "Gemini 3 Flash",
-      "mediumTitle": "Google\u0027s New Enterprise AI",
-      "longTitle": "Gemini 3 Flash: Fast, Cheap, Powerful",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has released Gemini 3 Flash, a",
-            "new large language model specifically",
-            "designed for enterprise applications.",
-            "Gemini 3 Flash costs $0.50 per 1 million",
-            "input tokens and $3.00 per 1 million",
-            "output tokens.",
-            "It delivers performance comparable to",
-            "Gemini 3 Pro but at a lower cost and",
-            "with faster processing speeds.",
-            "This is compared to Gemini 2.5 Pro\u2019s",
-            "pricing of $1.25/$10.00 for the same",
-            "token amounts.",
-            "Gemini 3 Flash achieved a score of 78%",
-            "on the SWE-Bench Verified benchmark,",
-            "surpassing Gemini 2.5 and 3 Pro.",
-            "Gemini 3 Flash currently leads in",
-            "knowledge accuracy on the AA-Omniscience",
-            "benchmark."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-17T20:24:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/technology/gemini-3-flash-arrives-with-reduced-costs-and-latency-a-powerful-combo-for"
-    },
-    {
-      "id": "597",
-      "topic": "Speech",
-      "source": "Marktechpost AI",
-      "shortTitle": "SAM Audio",
-      "mediumTitle": "Meta\u0027s New Audio Tool",
-      "longTitle": "SAM Audio: Sound Separation with AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta AI has released SAM Audio to tackle",
-            "the problem of separating individual",
-            "sounds from mixed audio recordings.",
-            "SAM Audio distinguishes itself by being",
-            "a unified model, capable of separating",
-            "sounds based on intuitive text prompts.",
-            "By functioning as a prompt-driven tool,",
-            "SAM Audio simplifies the audio editing",
-            "workflow.",
-            "This eliminates the time-consuming",
-            "process of creating and training",
-            "specialized models for each desired",
-            "sound separation task.",
-            "Traditional audio separation techniques",
-            "often require training a unique model",
-            "for each type of sound you want to",
-            "isolate.",
-            "The Segment Anything platform serves as",
-            "the central hub for both downloading and",
-            "testing the capabilities of SAM Audio."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-17T18:48:13.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/12/17/meta-ai-releases-sam-audio-a-state-of-the-art-unified-model-that-uses-intuitive-and-multimodal-prompts-for-audio-separation/"
     }
   ]
 }
