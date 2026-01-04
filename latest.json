@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "650",
+      "topic": "Training Tricks",
+      "source": "Marktechpost AI",
+      "shortTitle": "LLM Stability",
+      "mediumTitle": "Scaling LLMs with mHC",
+      "longTitle": "New Method Stabilizes Large Language Model Training",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This algorithm constrains the mixing",
+            "behavior within the hyperconnections,",
+            "leading to more stable training.",
+            "The method stabilizes training without",
+            "compromising the benefits of a wider",
+            "residual stream.",
+            "DeepSeek researchers are tackling this",
+            "instability with their new mHC (Manifold",
+            "Constrained Hyper Connections) method.",
+            "The core innovation of mHC is the",
+            "application of a matrix normalization",
+            "algorithm originally created in 1967.",
+            "Scaling large language models (LLMs)",
+            "with hyperconnections has presented",
+            "challenges due to training instability.",
+            "mHC seeks to preserve the richer",
+            "topology offered by hyperconnections",
+            "while simultaneously addressing the",
+            "instability issues."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-04T04:03:22.000Z",
+      "ranking": 6.831818181818181,
+      "articleUrl": "https://www.marktechpost.com/2026/01/03/deepseek-researchers-apply-a-1967-matrix-normalization-algorithm-to-fix-instability-in-hyper-connections/"
+    },
+    {
       "id": "646",
       "topic": "Generative AI",
       "source": "Marktechpost AI",
@@ -1003,41 +1039,6 @@
       "publishedAt": "2025-12-17T18:48:13.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/12/17/meta-ai-releases-sam-audio-a-state-of-the-art-unified-model-that-uses-intuitive-and-multimodal-prompts-for-audio-separation/"
-    },
-    {
-      "id": "599",
-      "topic": "Energy",
-      "source": "The Verge AI",
-      "shortTitle": "Data Center Probe",
-      "mediumTitle": "Senators Investigate Energy Costs",
-      "longTitle": "Data Centers \u0026 Electricity Prices Under Scrutiny",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The senators are seeking to understand",
-            "how data center energy consumption",
-            "contributes to rising costs.",
-            "The senators want to know if consumers",
-            "are unfairly bearing the burden of these",
-            "rising costs.",
-            "Democratic senators are concerned about",
-            "the substantial energy demands of these",
-            "data centers.",
-            "The investigation will focus on energy",
-            "usage data, contracts with utility",
-            "companies, and mitigation strategies.",
-            "The investigation is a direct response",
-            "to the growing national concern over",
-            "increasing electricity prices.",
-            "On Tuesday, a letter was sent to the",
-            "tech companies and developers requesting",
-            "detailed information."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-17T17:12:16.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/846696/electricity-cost-ai-data-center-democrat-investigation"
     }
   ]
 }
