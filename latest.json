@@ -38,6 +38,43 @@
       "articleUrl": "https://www.theverge.com/tech/853109/switchbot-ai-mindclip-audio-recorder-ces-announcement"
     },
     {
+      "id": "656",
+      "topic": "Large Models, Tuning",
+      "source": "Marktechpost AI",
+      "shortTitle": "LLM Pruning",
+      "mediumTitle": "New LLM Pruning Tools",
+      "longTitle": "Princeton Releases LLM Pruning Collection",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Researchers at Zlab Princeton developed",
+            "the LLM-Pruning Collection.",
+            "Pruning algorithms are used to reduce",
+            "the size and computational cost of large",
+            "language models.",
+            "The collection provides a unified",
+            "framework for reproducible research in",
+            "LLM compression.",
+            "Consistent evaluation is crucial for",
+            "fairly comparing the effectiveness of",
+            "different pruning methods.",
+            "The repository is built using JAX, a",
+            "high-performance numerical computation",
+            "library.",
+            "The framework supports evaluation on",
+            "both GPUs and other specialized",
+            "hardware.",
+            "Block-level pruning removes entire",
+            "blocks of weights, while layer-level",
+            "pruning removes entire layers."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-05T08:21:37.000Z",
+      "ranking": 7.329999999999998,
+      "articleUrl": "https://www.marktechpost.com/2026/01/04/llm-pruning-collection-a-jax-based-repo-for-structured-and-unstructured-llm-compression/"
+    },
+    {
       "id": "655",
       "topic": "NLP",
       "source": "Marktechpost AI",
@@ -106,7 +143,7 @@
         }
       ],
       "publishedAt": "2026-01-04T04:03:22.000Z",
-      "ranking": 5.452625900609064,
+      "ranking": 5.032783461465725,
       "articleUrl": "https://www.marktechpost.com/2026/01/03/deepseek-researchers-apply-a-1967-matrix-normalization-algorithm-to-fix-instability-in-hyper-connections/"
     },
     {
@@ -828,6 +865,41 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/19/google-introduces-t5gemma-2-encoder-decoder-models-with-multimodal-inputs-via-siglip-and-128k-context/"
     },
     {
+      "id": "612",
+      "topic": "Vision, NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "Palona AI",
+      "mediumTitle": "Palona AI Pivots to Hospitality",
+      "longTitle": "Palona AI Focuses on Restaurant Automation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Palona AI\u2019s new strategy centers around",
+            "building specialized operating systems",
+            "for specific industries, rather than",
+            "general-purpose AI.",
+            "The system aims to function as an",
+            "automated \u201Cdigital GM\u201D for restaurant",
+            "operations, improving efficiency and",
+            "customer experience.",
+            "The system is designed to execute",
+            "workflows, remember customers, and",
+            "proactively identify potential issues.",
+            "A key lesson learned was the need for",
+            "model flexibility, avoiding reliance on",
+            "a single AI provider.",
+            "Palona developed a patented layer to",
+            "avoid vendor lock-in with AI models,",
+            "utilizing both proprietary and",
+            "open-source options like Gemini."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-18T19:10:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
+    },
+    {
       "id": "605",
       "topic": "Vision",
       "source": "VentureBeat AI",
@@ -857,41 +929,6 @@
             "Palona AI was founded by former",
             "engineering leaders from Google and",
             "Meta."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
-    },
-    {
-      "id": "612",
-      "topic": "Vision, NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "Palona AI",
-      "mediumTitle": "Palona AI Pivots to Hospitality",
-      "longTitle": "Palona AI Focuses on Restaurant Automation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Palona AI\u2019s new strategy centers around",
-            "building specialized operating systems",
-            "for specific industries, rather than",
-            "general-purpose AI.",
-            "The system aims to function as an",
-            "automated \u201Cdigital GM\u201D for restaurant",
-            "operations, improving efficiency and",
-            "customer experience.",
-            "The system is designed to execute",
-            "workflows, remember customers, and",
-            "proactively identify potential issues.",
-            "A key lesson learned was the need for",
-            "model flexibility, avoiding reliance on",
-            "a single AI provider.",
-            "Palona developed a patented layer to",
-            "avoid vendor lock-in with AI models,",
-            "utilizing both proprietary and",
-            "open-source options like Gemini."
           ]
         }
       ],
@@ -1004,42 +1041,6 @@
       "publishedAt": "2025-12-18T16:31:51.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/847685/lg-copilot-web-app-delete"
-    },
-    {
-      "id": "609",
-      "topic": "Security",
-      "source": "The Verge AI",
-      "shortTitle": "Gemini AI Check",
-      "mediumTitle": "Gemini Can Verify AI Videos",
-      "longTitle": "Google\u0027s Gemini Checks for Google AI Origins",
-      "paragraphs": [
-        {
-          "Lines": [
-            "If SynthID is detected within the video,",
-            "Gemini confirms that it was generated",
-            "using Google AI.",
-            "Conversely, if SynthID is not found,",
-            "Gemini indicates it cannot detect Google",
-            "AI involvement.",
-            "Google has added a new capability to its",
-            "Gemini application focused on",
-            "AI-generated content verification.",
-            "SynthID is Google\u2019s proprietary digital",
-            "watermark used to identify content",
-            "created by its AI models.",
-            "The feature is designed to help users",
-            "determine the origin of videos and",
-            "whether they were created or altered by",
-            "Google AI.",
-            "This new feature aims to address growing",
-            "concerns about the authenticity of",
-            "online video content."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-18T16:31:22.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos"
     }
   ]
 }
