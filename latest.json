@@ -74,6 +74,43 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/04/tencent-researchers-release-tencent-hy-mt1-5-a-new-translation-models-featuring-1-8b-and-7b-models-designed-for-seamless-on-device-and-cloud-deployment/"
     },
     {
+      "id": "657",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Alexa Plus",
+      "mediumTitle": "Amazon\u0027s Alexa Plus Released",
+      "longTitle": "Alexa Plus AI Chatbot Now in Early Access",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Alexa Plus, Amazon\u2019s new AI chatbot, is",
+            "now accessible to all users via an early",
+            "access program.",
+            "Interested individuals can sign up and",
+            "begin using the new web interface by",
+            "visiting Alexa.com.",
+            "Alexa Plus is also currently available",
+            "on all newly released Echo devices.",
+            "The rollout began with some users",
+            "experiencing access earlier in the",
+            "month, and has now been officially",
+            "expanded.",
+            "Access is currently limited to the web",
+            "interface and new Echo devices.",
+            "The article does not provide details",
+            "about the specific features or",
+            "functionality of Alexa Plus.",
+            "The availability on new Echo devices",
+            "ensures a seamless experience for new",
+            "hardware purchasers."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-05T11:00:00.000Z",
+      "ranking": 6.529999999999998,
+      "articleUrl": "https://www.theverge.com/tech/853535/alexa-plus-website-now-available"
+    },
+    {
       "id": "652",
       "topic": "NLP, Speech",
       "source": "The Verge AI",
@@ -107,7 +144,7 @@
         }
       ],
       "publishedAt": "2026-01-04T12:45:00.000Z",
-      "ranking": 6.072590130976473,
+      "ranking": 5.662612606075886,
       "articleUrl": "https://www.theverge.com/tech/853109/switchbot-ai-mindclip-audio-recorder-ces-announcement"
     },
     {
@@ -143,7 +180,7 @@
         }
       ],
       "publishedAt": "2026-01-04T04:03:22.000Z",
-      "ranking": 4.558206683785612,
+      "ranking": 4.02738918355598,
       "articleUrl": "https://www.marktechpost.com/2026/01/03/deepseek-researchers-apply-a-1967-matrix-normalization-algorithm-to-fix-instability-in-hyper-connections/"
     },
     {
@@ -935,112 +972,6 @@
       "publishedAt": "2025-12-18T19:10:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
-    },
-    {
-      "id": "606",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Skills",
-      "mediumTitle": "Anthropic Launches AI Skills",
-      "longTitle": "Anthropic\u0027s Open Standard Challenges OpenAI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Anthropic\u2019s \u0027Agent Skills\u0027 directly",
-            "challenges OpenAI in the enterprise AI",
-            "market by offering an open standard.",
-            "Anthropic believes that fostering",
-            "ecosystem growth through an open",
-            "standard is more valuable than",
-            "proprietary lock-in.",
-            "Internal research shows a 50%",
-            "productivity boost for engineers using",
-            "Claude with skills, enabling 27% new",
-            "tasks.",
-            "OpenAI has already adopted a similar",
-            "architecture within ChatGPT and its",
-            "Codex CLI tool, indicating the success",
-            "of Anthropic\u2019s strategy.",
-            "The system uses \u0027progressive disclosure\u0027",
-            "to manage AI memory by loading details",
-            "only when necessary."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-18T18:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard"
-    },
-    {
-      "id": "610",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Minors",
-      "mediumTitle": "AI Platforms Address Underage Use",
-      "longTitle": "OpenAI \u0026 Anthropic Tighten Rules for Young Users",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Anthropic\u2019s strategy is more",
-            "restrictive, aiming to completely remove",
-            "underage users.",
-            "The companies are working on detection",
-            "and enforcement mechanisms, but the",
-            "methods are currently unspecified.",
-            "OpenAI\u2019s changes indicate a move towards",
-            "a more defined approach to handling",
-            "younger users on ChatGPT.",
-            "The announcements from both companies",
-            "signal a proactive approach to",
-            "responsible AI development.",
-            "Both OpenAI and Anthropic are responding",
-            "to concerns about the use of their AI",
-            "platforms by minors.",
-            "This represents a growing trend of AI",
-            "companies addressing the unique",
-            "challenges posed by younger users."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-18T17:55:59.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/847780/openai-anthropic-teen-safety-chatgpt-claude"
-    },
-    {
-      "id": "608",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "LG Copilot",
-      "mediumTitle": "LG to Allow Copilot Removal",
-      "longTitle": "LG Responds to User Concerns About Copilot",
-      "paragraphs": [
-        {
-          "Lines": [
-            "LG initially installed the Microsoft",
-            "Copilot shortcut on its TVs without",
-            "obtaining explicit consent from users.",
-            "This lack of user consent was a primary",
-            "driver of the negative reaction and",
-            "subsequent calls for a removal option.",
-            "The Verge reported on LG\u2019s confirmation",
-            "that they will address the issue.",
-            "LG\u2019s decision demonstrates a",
-            "responsiveness to consumer concerns",
-            "regarding pre-installed software.",
-            "The company\u2019s statement emphasizes its",
-            "commitment to respecting user",
-            "preferences.",
-            "Currently, the specific implementation",
-            "details for the shortcut removal remain",
-            "unknown.",
-            "It is unclear whether all LG television",
-            "models will receive the update."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-18T16:31:51.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/847685/lg-copilot-web-app-delete"
     }
   ]
 }
