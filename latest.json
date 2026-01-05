@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "660",
+      "topic": "Generative AI",
+      "source": "VentureBeat AI",
+      "shortTitle": "Claude Code",
+      "mediumTitle": "Anthropic\u0027s AI Workflow",
+      "longTitle": "Boris Cherny\u0027s Coding System",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The \u0060CLAUDE.md\u0060 file effectively",
+            "transforms the codebase into a",
+            "self-correcting system with each mistake",
+            "becoming a permanent rule.",
+            "Cherny\u2019s workflow allows a single",
+            "developer to achieve the output",
+            "comparable to a small engineering team.",
+            "This workflow represents a shift in",
+            "software engineering, moving AI beyond",
+            "simple autocomplete to a collaborative",
+            "workforce.",
+            "The bottleneck in coding isn\u0027t AI",
+            "generation speed, but the time spent by",
+            "humans correcting errors.",
+            "Boris Cherny, the creator of Claude Code",
+            "at Anthropic, recently shared his coding",
+            "workflow on X, generating considerable",
+            "interest."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-05T08:45:00.000Z",
+      "ranking": 7.554166666666665,
+      "articleUrl": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
+    },
+    {
       "id": "656",
       "topic": "Large Models, Tuning",
       "source": "Marktechpost AI",
@@ -74,6 +109,41 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/04/tencent-researchers-release-tencent-hy-mt1-5-a-new-translation-models-featuring-1-8b-and-7b-models-designed-for-seamless-on-device-and-cloud-deployment/"
     },
     {
+      "id": "661",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Reddit Post",
+      "mediumTitle": "Fake Delivery App Post",
+      "longTitle": "AI-Generated Reddit Confession",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This incident demonstrates the",
+            "increasing ability of AI to create",
+            "believable, but false, content.",
+            "It also highlights the growing",
+            "difficulty in distinguishing genuine",
+            "experiences from AI-generated stories",
+            "online.",
+            "The post\u2019s structure and language",
+            "patterns are consistent with advanced AI",
+            "language models.",
+            "Reddit administrators and independent",
+            "researchers investigated the post\u2019s",
+            "origins.",
+            "Allegations included intentionally",
+            "delaying orders, and viewing drivers as",
+            "\u201Chuman assets.\u201D",
+            "The original post was published by a",
+            "user named \u201CTrowaway_whistleblow.\u201D"
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-05T14:43:02.000Z",
+      "ranking": 7.213636363636363,
+      "articleUrl": "https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam"
+    },
+    {
       "id": "657",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -144,7 +214,7 @@
         }
       ],
       "publishedAt": "2026-01-04T12:45:00.000Z",
-      "ranking": 5.662612606075886,
+      "ranking": 5.193476847644172,
       "articleUrl": "https://www.theverge.com/tech/853109/switchbot-ai-mindclip-audio-recorder-ces-announcement"
     },
     {
@@ -180,7 +250,7 @@
         }
       ],
       "publishedAt": "2026-01-04T04:03:22.000Z",
-      "ranking": 4.02738918355598,
+      "ranking": 3.436552151076263,
       "articleUrl": "https://www.marktechpost.com/2026/01/03/deepseek-researchers-apply-a-1967-matrix-normalization-algorithm-to-fix-instability-in-hyper-connections/"
     },
     {
@@ -900,78 +970,6 @@
       "publishedAt": "2025-12-19T14:12:51.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/12/19/google-introduces-t5gemma-2-encoder-decoder-models-with-multimodal-inputs-via-siglip-and-128k-context/"
-    },
-    {
-      "id": "605",
-      "topic": "Vision",
-      "source": "VentureBeat AI",
-      "shortTitle": "Palona AI",
-      "mediumTitle": "Palona AI Shifts Focus",
-      "longTitle": "Palona AI Targets Hospitality",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Palona aims to create specialized",
-            "\u201Coperating systems\u201D for specific",
-            "domains.",
-            "Palona built \u201CMuffin,\u201D a proprietary",
-            "memory management system with four",
-            "layers, to improve accuracy and",
-            "personalization in restaurant",
-            "interactions.",
-            "Palona developed a patent-pending",
-            "orchestration layer to avoid being",
-            "locked into a single LLM vendor.",
-            "Palona Vision and Palona Workflow",
-            "together function as an automated",
-            "\u201Cdigital GM\u201D for restaurant operations.",
-            "Palona uses a framework called \u201CGRACE\u201D",
-            "to ensure AI reliability and prevent",
-            "hallucinations.",
-            "Palona AI was founded by former",
-            "engineering leaders from Google and",
-            "Meta."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
-    },
-    {
-      "id": "612",
-      "topic": "Vision, NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "Palona AI",
-      "mediumTitle": "Palona AI Pivots to Hospitality",
-      "longTitle": "Palona AI Focuses on Restaurant Automation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Palona AI\u2019s new strategy centers around",
-            "building specialized operating systems",
-            "for specific industries, rather than",
-            "general-purpose AI.",
-            "The system aims to function as an",
-            "automated \u201Cdigital GM\u201D for restaurant",
-            "operations, improving efficiency and",
-            "customer experience.",
-            "The system is designed to execute",
-            "workflows, remember customers, and",
-            "proactively identify potential issues.",
-            "A key lesson learned was the need for",
-            "model flexibility, avoiding reliance on",
-            "a single AI provider.",
-            "Palona developed a patented layer to",
-            "avoid vendor lock-in with AI models,",
-            "utilizing both proprietary and",
-            "open-source options like Gemini."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
     }
   ]
 }
