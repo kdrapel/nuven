@@ -1,43 +1,6 @@
 {
   "articles": [
     {
-      "id": "652",
-      "topic": "NLP, Speech",
-      "source": "The Verge AI",
-      "shortTitle": "SwitchBot AI",
-      "mediumTitle": "SwitchBot MindClip Recorder",
-      "longTitle": "SwitchBot Launches AI Voice Recorder",
-      "paragraphs": [
-        {
-          "Lines": [
-            "SwitchBot has announced the AI MindClip,",
-            "a new clip-on voice recorder.",
-            "The AI MindClip records daily",
-            "conversations and work meetings.",
-            "It captures and organizes spoken",
-            "information through the use of",
-            "artificial intelligence.",
-            "The AI then converts these recordings",
-            "into concise summaries.",
-            "The device is designed to function as a",
-            "\u0027second brain\u0027 for its user.",
-            "It also generates actionable to-do lists",
-            "from the recorded content.",
-            "Users benefit from a searchable personal",
-            "audio database.",
-            "The unveiling of the AI MindClip took",
-            "place at CES.",
-            "SwitchBot aims to help users better",
-            "manage and recall information with this",
-            "device."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-04T12:45:00.000Z",
-      "ranking": 7.385,
-      "articleUrl": "https://www.theverge.com/tech/853109/switchbot-ai-mindclip-audio-recorder-ces-announcement"
-    },
-    {
       "id": "656",
       "topic": "Large Models, Tuning",
       "source": "Marktechpost AI",
@@ -111,6 +74,43 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/04/tencent-researchers-release-tencent-hy-mt1-5-a-new-translation-models-featuring-1-8b-and-7b-models-designed-for-seamless-on-device-and-cloud-deployment/"
     },
     {
+      "id": "652",
+      "topic": "NLP, Speech",
+      "source": "The Verge AI",
+      "shortTitle": "SwitchBot AI",
+      "mediumTitle": "SwitchBot MindClip Recorder",
+      "longTitle": "SwitchBot Launches AI Voice Recorder",
+      "paragraphs": [
+        {
+          "Lines": [
+            "SwitchBot has announced the AI MindClip,",
+            "a new clip-on voice recorder.",
+            "The AI MindClip records daily",
+            "conversations and work meetings.",
+            "It captures and organizes spoken",
+            "information through the use of",
+            "artificial intelligence.",
+            "The AI then converts these recordings",
+            "into concise summaries.",
+            "The device is designed to function as a",
+            "\u0027second brain\u0027 for its user.",
+            "It also generates actionable to-do lists",
+            "from the recorded content.",
+            "Users benefit from a searchable personal",
+            "audio database.",
+            "The unveiling of the AI MindClip took",
+            "place at CES.",
+            "SwitchBot aims to help users better",
+            "manage and recall information with this",
+            "device."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-04T12:45:00.000Z",
+      "ranking": 6.072590130976473,
+      "articleUrl": "https://www.theverge.com/tech/853109/switchbot-ai-mindclip-audio-recorder-ces-announcement"
+    },
+    {
       "id": "650",
       "topic": "Training Tricks",
       "source": "Marktechpost AI",
@@ -143,7 +143,7 @@
         }
       ],
       "publishedAt": "2026-01-04T04:03:22.000Z",
-      "ranking": 5.032783461465725,
+      "ranking": 4.558206683785612,
       "articleUrl": "https://www.marktechpost.com/2026/01/03/deepseek-researchers-apply-a-1967-matrix-normalization-algorithm-to-fix-instability-in-hyper-connections/"
     },
     {
@@ -865,41 +865,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/19/google-introduces-t5gemma-2-encoder-decoder-models-with-multimodal-inputs-via-siglip-and-128k-context/"
     },
     {
-      "id": "612",
-      "topic": "Vision, NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "Palona AI",
-      "mediumTitle": "Palona AI Pivots to Hospitality",
-      "longTitle": "Palona AI Focuses on Restaurant Automation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Palona AI\u2019s new strategy centers around",
-            "building specialized operating systems",
-            "for specific industries, rather than",
-            "general-purpose AI.",
-            "The system aims to function as an",
-            "automated \u201Cdigital GM\u201D for restaurant",
-            "operations, improving efficiency and",
-            "customer experience.",
-            "The system is designed to execute",
-            "workflows, remember customers, and",
-            "proactively identify potential issues.",
-            "A key lesson learned was the need for",
-            "model flexibility, avoiding reliance on",
-            "a single AI provider.",
-            "Palona developed a patented layer to",
-            "avoid vendor lock-in with AI models,",
-            "utilizing both proprietary and",
-            "open-source options like Gemini."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
-    },
-    {
       "id": "605",
       "topic": "Vision",
       "source": "VentureBeat AI",
@@ -929,6 +894,41 @@
             "Palona AI was founded by former",
             "engineering leaders from Google and",
             "Meta."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-18T19:10:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
+    },
+    {
+      "id": "612",
+      "topic": "Vision, NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "Palona AI",
+      "mediumTitle": "Palona AI Pivots to Hospitality",
+      "longTitle": "Palona AI Focuses on Restaurant Automation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Palona AI\u2019s new strategy centers around",
+            "building specialized operating systems",
+            "for specific industries, rather than",
+            "general-purpose AI.",
+            "The system aims to function as an",
+            "automated \u201Cdigital GM\u201D for restaurant",
+            "operations, improving efficiency and",
+            "customer experience.",
+            "The system is designed to execute",
+            "workflows, remember customers, and",
+            "proactively identify potential issues.",
+            "A key lesson learned was the need for",
+            "model flexibility, avoiding reliance on",
+            "a single AI provider.",
+            "Palona developed a patented layer to",
+            "avoid vendor lock-in with AI models,",
+            "utilizing both proprietary and",
+            "open-source options like Gemini."
           ]
         }
       ],
