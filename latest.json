@@ -38,6 +38,42 @@
       "articleUrl": "https://www.theverge.com/tech/853109/switchbot-ai-mindclip-audio-recorder-ces-announcement"
     },
     {
+      "id": "655",
+      "topic": "NLP",
+      "source": "Marktechpost AI",
+      "shortTitle": "HY-MT1.5",
+      "mediumTitle": "Tencent\u0027s New MT Models",
+      "longTitle": "HY-MT1.5 Multilingual Translation Released",
+      "paragraphs": [
+        {
+          "Lines": [
+            "HY-MT1.5 supports translation between a",
+            "total of 33 languages.",
+            "The models are designed for flexible",
+            "deployment, functioning on both mobile",
+            "devices and cloud systems.",
+            "The HY-MT1.5 models are now publicly",
+            "available for use.",
+            "The same training process and evaluation",
+            "metrics are used for both mobile and",
+            "cloud deployments, ensuring consistency.",
+            "The models are also available on Hugging",
+            "Face, a popular platform for machine",
+            "learning models.",
+            "Tencent researchers developed HY-MT1.5",
+            "as a new family of multilingual machine",
+            "translation models.",
+            "Researchers have made the models",
+            "accessible on GitHub, facilitating",
+            "community contributions and development."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-05T07:42:01.000Z",
+      "ranking": 7.229999999999999,
+      "articleUrl": "https://www.marktechpost.com/2026/01/04/tencent-researchers-release-tencent-hy-mt1-5-a-new-translation-models-featuring-1-8b-and-7b-models-designed-for-seamless-on-device-and-cloud-deployment/"
+    },
+    {
       "id": "650",
       "topic": "Training Tricks",
       "source": "Marktechpost AI",
@@ -70,7 +106,7 @@
         }
       ],
       "publishedAt": "2026-01-04T04:03:22.000Z",
-      "ranking": 5.817525300915188,
+      "ranking": 5.452625900609064,
       "articleUrl": "https://www.marktechpost.com/2026/01/03/deepseek-researchers-apply-a-1967-matrix-normalization-algorithm-to-fix-instability-in-hyper-connections/"
     },
     {
@@ -792,41 +828,6 @@
       "articleUrl": "https://www.marktechpost.com/2025/12/19/google-introduces-t5gemma-2-encoder-decoder-models-with-multimodal-inputs-via-siglip-and-128k-context/"
     },
     {
-      "id": "612",
-      "topic": "Vision, NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "Palona AI",
-      "mediumTitle": "Palona AI Pivots to Hospitality",
-      "longTitle": "Palona AI Focuses on Restaurant Automation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Palona AI\u2019s new strategy centers around",
-            "building specialized operating systems",
-            "for specific industries, rather than",
-            "general-purpose AI.",
-            "The system aims to function as an",
-            "automated \u201Cdigital GM\u201D for restaurant",
-            "operations, improving efficiency and",
-            "customer experience.",
-            "The system is designed to execute",
-            "workflows, remember customers, and",
-            "proactively identify potential issues.",
-            "A key lesson learned was the need for",
-            "model flexibility, avoiding reliance on",
-            "a single AI provider.",
-            "Palona developed a patented layer to",
-            "avoid vendor lock-in with AI models,",
-            "utilizing both proprietary and",
-            "open-source options like Gemini."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-18T19:10:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
-    },
-    {
       "id": "605",
       "topic": "Vision",
       "source": "VentureBeat AI",
@@ -856,6 +857,41 @@
             "Palona AI was founded by former",
             "engineering leaders from Google and",
             "Meta."
+          ]
+        }
+      ],
+      "publishedAt": "2025-12-18T19:10:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai"
+    },
+    {
+      "id": "612",
+      "topic": "Vision, NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "Palona AI",
+      "mediumTitle": "Palona AI Pivots to Hospitality",
+      "longTitle": "Palona AI Focuses on Restaurant Automation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Palona AI\u2019s new strategy centers around",
+            "building specialized operating systems",
+            "for specific industries, rather than",
+            "general-purpose AI.",
+            "The system aims to function as an",
+            "automated \u201Cdigital GM\u201D for restaurant",
+            "operations, improving efficiency and",
+            "customer experience.",
+            "The system is designed to execute",
+            "workflows, remember customers, and",
+            "proactively identify potential issues.",
+            "A key lesson learned was the need for",
+            "model flexibility, avoiding reliance on",
+            "a single AI provider.",
+            "Palona developed a patented layer to",
+            "avoid vendor lock-in with AI models,",
+            "utilizing both proprietary and",
+            "open-source options like Gemini."
           ]
         }
       ],
