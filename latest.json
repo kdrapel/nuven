@@ -1,6 +1,116 @@
 {
   "articles": [
     {
+      "id": "666",
+      "topic": "Robotics",
+      "source": "The Verge AI",
+      "shortTitle": "Razer AI Wearable",
+      "mediumTitle": "Razer Project Motoko",
+      "longTitle": "Razer Unveils AI-Powered Headset Concept",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Razer unveiled a concept AI wearable,",
+            "currently known as Project Motoko, at",
+            "CES.",
+            "A key feature of Project Motoko is the",
+            "integration of two camera lenses",
+            "directly into the ear cups.",
+            "These cameras provide a first-person",
+            "view perspective.",
+            "The core functionality revolves around",
+            "these dual, eye-level cameras capturing",
+            "the user\u2019s point of view.",
+            "The device takes the form of wireless",
+            "headphones, closely resembling Razer\u2019s",
+            "Barracuda gaming headset line.",
+            "The device is powered by a Qualcomm",
+            "Snapdragon chip, though the specific",
+            "model hasn\u2019t been disclosed.",
+            "The use of AI suggests potential",
+            "applications beyond simple recording."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-06T10:00:00.000Z",
+      "ranking": 6.975,
+      "articleUrl": "https://www.theverge.com/tech/854756/razer-concept-ai-wearable-headphones-project-motoko"
+    },
+    {
+      "id": "670",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "LFM2.5 Released",
+      "mediumTitle": "Liquid AI Launches LFM2.5",
+      "longTitle": "Liquid AI Releases New Small Foundation Models",
+      "paragraphs": [
+        {
+          "Lines": [
+            "LFM2.5 is specifically designed for",
+            "deployment on devices and at the edge,",
+            "meaning it can run directly on hardware",
+            "without relying on cloud connectivity.",
+            "The LFM2.5-1.2B-Base model provides a",
+            "foundational understanding of language,",
+            "while the LFM2.5-1.2B-Instruct model is",
+            "optimized for following instructions.",
+            "By making the model weights openly",
+            "available, Liquid AI encourages",
+            "community contributions and further",
+            "development.",
+            "The models can be accessed on Hugging",
+            "Face, a popular platform for sharing and",
+            "collaborating on machine learning",
+            "models.",
+            "These models are considered \u0027small\u0027",
+            "foundation models, indicating a focus on",
+            "efficiency and reduced computational",
+            "requirements."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-06T17:41:06.000Z",
+      "ranking": 6.819999999999999,
+      "articleUrl": "https://www.marktechpost.com/2026/01/06/liquid-ai-releases-lfm2-5-a-compact-ai-model-family-for-real-on-device-agents/"
+    },
+    {
+      "id": "665",
+      "topic": "Gaming, Art",
+      "source": "The Verge AI",
+      "shortTitle": "Razer AI",
+      "mediumTitle": "Razer\u0027s Holographic AI",
+      "longTitle": "Razer Develops Desktop AI Companion",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The core functionality builds upon the",
+            "AI coaching aspects of Project Ava.",
+            "The project originated from Razer\u2019s",
+            "previously announced Project Ava AI game",
+            "coach, first demonstrated at CES 2023.",
+            "However, the new version emphasizes a",
+            "companion-focused experience with a",
+            "distinct visual presentation.",
+            "The holographic AI is designed to reside",
+            "in a capsule on a user\u0027s desk.",
+            "The AI companion takes the form of an",
+            "anime-style female character.",
+            "Razer\u2019s design prioritizes compactness",
+            "for convenient desktop integration.",
+            "The company aims to differentiate its",
+            "offering from other holographic displays",
+            "seen at events like CES 2025.",
+            "The development signifies Razer\u2019s",
+            "continued investment in AI-powered",
+            "gaming and lifestyle products."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-06T10:00:00.000Z",
+      "ranking": 6.010000000000001,
+      "articleUrl": "https://www.theverge.com/tech/854705/razer-ai-anime-waifu-hologram-desk"
+    },
+    {
       "id": "661",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -32,7 +142,7 @@
         }
       ],
       "publishedAt": "2026-01-05T14:43:02.000Z",
-      "ranking": 6.083116130347407,
+      "ranking": 5.695036249453694,
       "articleUrl": "https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam"
     },
     {
@@ -67,7 +177,7 @@
         }
       ],
       "publishedAt": "2026-01-05T08:45:00.000Z",
-      "ranking": 5.833101587866722,
+      "ranking": 5.360956126600095,
       "articleUrl": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
     },
     {
@@ -104,7 +214,7 @@
         }
       ],
       "publishedAt": "2026-01-05T08:21:37.000Z",
-      "ranking": 5.566065047899479,
+      "ranking": 5.088429201458738,
       "articleUrl": "https://www.marktechpost.com/2026/01/04/llm-pruning-collection-a-jax-based-repo-for-structured-and-unstructured-llm-compression/"
     },
     {
@@ -140,7 +250,7 @@
         }
       ],
       "publishedAt": "2026-01-05T07:42:01.000Z",
-      "ranking": 5.392261526639921,
+      "ranking": 4.905327627554435,
       "articleUrl": "https://www.marktechpost.com/2026/01/04/tencent-researchers-release-tencent-hy-mt1-5-a-new-translation-models-featuring-1-8b-and-7b-models-designed-for-seamless-on-device-and-cloud-deployment/"
     },
     {
@@ -177,7 +287,7 @@
         }
       ],
       "publishedAt": "2026-01-05T11:00:00.000Z",
-      "ranking": 5.046125911597438,
+      "ranking": 4.6056783600471904,
       "articleUrl": "https://www.theverge.com/tech/853535/alexa-plus-website-now-available"
     },
     {
@@ -214,7 +324,7 @@
         }
       ],
       "publishedAt": "2026-01-04T12:45:00.000Z",
-      "ranking": 2.7830009440620556,
+      "ranking": 2.0290963176583015,
       "articleUrl": "https://www.theverge.com/tech/853109/switchbot-ai-mindclip-audio-recorder-ces-announcement"
     },
     {
@@ -250,7 +360,7 @@
         }
       ],
       "publishedAt": "2026-01-04T04:03:22.000Z",
-      "ranking": 0.5444002840180406,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/03/deepseek-researchers-apply-a-1967-matrix-normalization-algorithm-to-fix-instability-in-hyper-connections/"
     },
     {
@@ -827,149 +937,6 @@
       "publishedAt": "2025-12-20T20:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/ai/hiring-specialists-made-sense-before-ai-now-generalists-win"
-    },
-    {
-      "id": "619",
-      "topic": "NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "Mistral OCR 3",
-      "mediumTitle": "Mistral AI Launches OCR",
-      "longTitle": "Mistral AI Releases New OCR Service",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Mistral AI has released Mistral OCR 3, a",
-            "new optical character recognition (OCR)",
-            "service.",
-            "The pricing for Mistral OCR 3 is set at",
-            "$2 per 1,000 pages processed.",
-            "A core feature of Mistral OCR 3 is its",
-            "ability to maintain the original",
-            "document structure during extraction.",
-            "The service is specifically designed to",
-            "enhance Mistral AI\u0027s Document AI",
-            "capabilities.",
-            "Mistral OCR 3 specializes in extracting",
-            "both text and images from various",
-            "document types.",
-            "This service is intended for",
-            "applications that require structured",
-            "document AI at a large scale.",
-            "PDFs are specifically mentioned as a",
-            "document type supported by the new OCR",
-            "service."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-19T20:26:34.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/12/19/mistral-ai-releases-ocr-3-a-smaller-optical-character-recognition-ocr-model-for-structured-document-ai-at-scale/"
-    },
-    {
-      "id": "620",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "Gemini Delay",
-      "mediumTitle": "Google Delays Gemini Rollout",
-      "longTitle": "Gemini Assistant Upgrade Pushed to 2026",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The original plan was to fully replace",
-            "Google Assistant with Gemini on Android",
-            "devices by the end of 2025.",
-            "This delay means the transition to",
-            "Gemini as the primary assistant on",
-            "Android phones will take longer than",
-            "initially anticipated.",
-            "The company\u2019s statement indicated a",
-            "continuation of efforts to upgrade",
-            "Assistant users to Gemini on mobile",
-            "devices.",
-            "Google made the announcement regarding",
-            "the adjusted timeline on Friday.",
-            "This represents a shift in the initial",
-            "timeline for integrating Gemini into",
-            "Android phones.",
-            "The specific reasons for the delay were",
-            "not explicitly stated in the",
-            "announcement."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-19T18:39:14.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026"
-    },
-    {
-      "id": "618",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "Google vs SerpApi",
-      "mediumTitle": "Google Sues Web Scraper",
-      "longTitle": "Google Files Copyright Lawsuit Against SerpApi",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The lawsuit asserts that SerpApi\u2019s",
-            "activity violates the Copyright Act.",
-            "Google claims SerpApi circumvents normal",
-            "usage restrictions and protective",
-            "measures designed to prevent scraping.",
-            "Google contends that its search results",
-            "are copyrightable material.",
-            "Google has filed a lawsuit against",
-            "SerpApi, a company specializing in web",
-            "scraping.",
-            "SerpApi doesn\u2019t just provide access to",
-            "results, but copies them wholesale,",
-            "according to the complaint.",
-            "Google\u2019s action signals its intent to",
-            "defend its intellectual property rights.",
-            "The core issue is SerpApi\u2019s automated",
-            "extraction of data from Google Search",
-            "results pages (SERPs)."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-19T16:48:37.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi"
-    },
-    {
-      "id": "614",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "T5Gemma 2",
-      "mediumTitle": "Google Releases T5Gemma 2",
-      "longTitle": "Google\u0027s New Open-Source T5Gemma 2 Models",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has released T5Gemma 2, a new",
-            "family of open-source encoder-decoder",
-            "Transformer checkpoints.",
-            "The release includes only pretrained",
-            "models, without any post-trained or",
-            "instruction-tuned checkpoints.",
-            "A key feature of T5Gemma 2 is its",
-            "multimodal input capability.",
-            "The models support a large context",
-            "window of 128,000 tokens.",
-            "This approach allows developers to",
-            "further train and adapt the models for",
-            "specific downstream tasks.",
-            "The models are built by modifying the",
-            "Gemma 3 pretrained weights to fit an",
-            "encoder-decoder structure.",
-            "Multimodal functionality is achieved",
-            "through integration with SigLIP."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-19T14:12:51.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/12/19/google-introduces-t5gemma-2-encoder-decoder-models-with-multimodal-inputs-via-siglip-and-128k-context/"
     }
   ]
 }
