@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "661",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Reddit Post",
+      "mediumTitle": "Fake Delivery App Post",
+      "longTitle": "AI-Generated Reddit Confession",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This incident demonstrates the",
+            "increasing ability of AI to create",
+            "believable, but false, content.",
+            "It also highlights the growing",
+            "difficulty in distinguishing genuine",
+            "experiences from AI-generated stories",
+            "online.",
+            "The post\u2019s structure and language",
+            "patterns are consistent with advanced AI",
+            "language models.",
+            "Reddit administrators and independent",
+            "researchers investigated the post\u2019s",
+            "origins.",
+            "Allegations included intentionally",
+            "delaying orders, and viewing drivers as",
+            "\u201Chuman assets.\u201D",
+            "The original post was published by a",
+            "user named \u201CTrowaway_whistleblow.\u201D"
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-05T14:43:02.000Z",
+      "ranking": 7.213636363636363,
+      "articleUrl": "https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam"
+    },
+    {
       "id": "660",
       "topic": "Generative AI",
       "source": "VentureBeat AI",
@@ -32,7 +67,7 @@
         }
       ],
       "publishedAt": "2026-01-05T08:45:00.000Z",
-      "ranking": 7.554166666666665,
+      "ranking": 6.243615441659954,
       "articleUrl": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
     },
     {
@@ -69,43 +104,44 @@
         }
       ],
       "publishedAt": "2026-01-05T08:21:37.000Z",
-      "ranking": 7.329999999999998,
+      "ranking": 5.982005806260773,
       "articleUrl": "https://www.marktechpost.com/2026/01/04/llm-pruning-collection-a-jax-based-repo-for-structured-and-unstructured-llm-compression/"
     },
     {
-      "id": "661",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Reddit Post",
-      "mediumTitle": "Fake Delivery App Post",
-      "longTitle": "AI-Generated Reddit Confession",
+      "id": "655",
+      "topic": "NLP",
+      "source": "Marktechpost AI",
+      "shortTitle": "HY-MT1.5",
+      "mediumTitle": "Tencent\u0027s New MT Models",
+      "longTitle": "HY-MT1.5 Multilingual Translation Released",
       "paragraphs": [
         {
           "Lines": [
-            "This incident demonstrates the",
-            "increasing ability of AI to create",
-            "believable, but false, content.",
-            "It also highlights the growing",
-            "difficulty in distinguishing genuine",
-            "experiences from AI-generated stories",
-            "online.",
-            "The post\u2019s structure and language",
-            "patterns are consistent with advanced AI",
-            "language models.",
-            "Reddit administrators and independent",
-            "researchers investigated the post\u2019s",
-            "origins.",
-            "Allegations included intentionally",
-            "delaying orders, and viewing drivers as",
-            "\u201Chuman assets.\u201D",
-            "The original post was published by a",
-            "user named \u201CTrowaway_whistleblow.\u201D"
+            "HY-MT1.5 supports translation between a",
+            "total of 33 languages.",
+            "The models are designed for flexible",
+            "deployment, functioning on both mobile",
+            "devices and cloud systems.",
+            "The HY-MT1.5 models are now publicly",
+            "available for use.",
+            "The same training process and evaluation",
+            "metrics are used for both mobile and",
+            "cloud deployments, ensuring consistency.",
+            "The models are also available on Hugging",
+            "Face, a popular platform for machine",
+            "learning models.",
+            "Tencent researchers developed HY-MT1.5",
+            "as a new family of multilingual machine",
+            "translation models.",
+            "Researchers have made the models",
+            "accessible on GitHub, facilitating",
+            "community contributions and development."
           ]
         }
       ],
-      "publishedAt": "2026-01-05T14:43:02.000Z",
-      "ranking": 7.213636363636363,
-      "articleUrl": "https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam"
+      "publishedAt": "2026-01-05T07:42:01.000Z",
+      "ranking": 5.817392819201213,
+      "articleUrl": "https://www.marktechpost.com/2026/01/04/tencent-researchers-release-tencent-hy-mt1-5-a-new-translation-models-featuring-1-8b-and-7b-models-designed-for-seamless-on-device-and-cloud-deployment/"
     },
     {
       "id": "657",
@@ -141,44 +177,8 @@
         }
       ],
       "publishedAt": "2026-01-05T11:00:00.000Z",
-      "ranking": 6.529999999999998,
+      "ranking": 5.425308405440998,
       "articleUrl": "https://www.theverge.com/tech/853535/alexa-plus-website-now-available"
-    },
-    {
-      "id": "655",
-      "topic": "NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "HY-MT1.5",
-      "mediumTitle": "Tencent\u0027s New MT Models",
-      "longTitle": "HY-MT1.5 Multilingual Translation Released",
-      "paragraphs": [
-        {
-          "Lines": [
-            "HY-MT1.5 supports translation between a",
-            "total of 33 languages.",
-            "The models are designed for flexible",
-            "deployment, functioning on both mobile",
-            "devices and cloud systems.",
-            "The HY-MT1.5 models are now publicly",
-            "available for use.",
-            "The same training process and evaluation",
-            "metrics are used for both mobile and",
-            "cloud deployments, ensuring consistency.",
-            "The models are also available on Hugging",
-            "Face, a popular platform for machine",
-            "learning models.",
-            "Tencent researchers developed HY-MT1.5",
-            "as a new family of multilingual machine",
-            "translation models.",
-            "Researchers have made the models",
-            "accessible on GitHub, facilitating",
-            "community contributions and development."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-05T07:42:01.000Z",
-      "ranking": 6.1858685292459485,
-      "articleUrl": "https://www.marktechpost.com/2026/01/04/tencent-researchers-release-tencent-hy-mt1-5-a-new-translation-models-featuring-1-8b-and-7b-models-designed-for-seamless-on-device-and-cloud-deployment/"
     },
     {
       "id": "652",
@@ -214,7 +214,7 @@
         }
       ],
       "publishedAt": "2026-01-04T12:45:00.000Z",
-      "ranking": 4.103748802031234,
+      "ranking": 3.472015814883537,
       "articleUrl": "https://www.theverge.com/tech/853109/switchbot-ai-mindclip-audio-recorder-ces-announcement"
     },
     {
@@ -250,7 +250,7 @@
         }
       ],
       "publishedAt": "2026-01-04T04:03:22.000Z",
-      "ranking": 2.1069864963627056,
+      "ranking": 1.3544779975444392,
       "articleUrl": "https://www.marktechpost.com/2026/01/03/deepseek-researchers-apply-a-1967-matrix-normalization-algorithm-to-fix-instability-in-hyper-connections/"
     },
     {
