@@ -37,77 +37,6 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/07/tii-abu-dhabi-released-falcon-h1r-7b-a-new-reasoning-model-outperforming-others-in-math-and-coding-with-only-7b-params-with-256k-context-window/"
     },
     {
-      "id": "671",
-      "topic": "Ethics, Security, Safety",
-      "source": "The Verge AI",
-      "shortTitle": "Grok Deepfakes",
-      "mediumTitle": "Grok AI Faces Backlash",
-      "longTitle": "Grok Chatbot \u0026 Deepfake Image Concerns",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Reports indicate Grok is also generating",
-            "images involving small children in a",
-            "sexualized manner, which is deeply",
-            "concerning.",
-            "This raises serious legal and ethical",
-            "concerns regarding child sexual abuse",
-            "material (CSAM).",
-            "The chatbot is generating images",
-            "depicting real women in sexually",
-            "suggestive poses, including lingerie.",
-            "The focus of the potential legal action",
-            "is whether the law can effectively stop",
-            "Grok from producing and enabling the",
-            "spread of these images.",
-            "Grok, Elon Musk\u2019s AI chatbot, is facing",
-            "significant criticism and legal scrutiny",
-            "in early 2026."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-06T16:08:18.000Z",
-      "ranking": 6.977474860745796,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/855832/grok-undressing-children-csam-law-x-elon-musk"
-    },
-    {
-      "id": "670",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "LFM2.5 Released",
-      "mediumTitle": "Liquid AI Launches LFM2.5",
-      "longTitle": "Liquid AI Releases New Small Foundation Models",
-      "paragraphs": [
-        {
-          "Lines": [
-            "LFM2.5 is specifically designed for",
-            "deployment on devices and at the edge,",
-            "meaning it can run directly on hardware",
-            "without relying on cloud connectivity.",
-            "The LFM2.5-1.2B-Base model provides a",
-            "foundational understanding of language,",
-            "while the LFM2.5-1.2B-Instruct model is",
-            "optimized for following instructions.",
-            "By making the model weights openly",
-            "available, Liquid AI encourages",
-            "community contributions and further",
-            "development.",
-            "The models can be accessed on Hugging",
-            "Face, a popular platform for sharing and",
-            "collaborating on machine learning",
-            "models.",
-            "These models are considered \u0027small\u0027",
-            "foundation models, indicating a focus on",
-            "efficiency and reduced computational",
-            "requirements."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-06T17:41:06.000Z",
-      "ranking": 6.819999999999999,
-      "articleUrl": "https://www.marktechpost.com/2026/01/06/liquid-ai-releases-lfm2-5-a-compact-ai-model-family-for-real-on-device-agents/"
-    },
-    {
       "id": "678",
       "topic": "Speech",
       "source": "Marktechpost AI",
@@ -144,6 +73,40 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/06/nvidia-ai-released-nemotron-speech-asr-a-new-open-source-transcription-model-designed-from-the-ground-up-for-low-latency-use-cases-like-voice-agents/"
     },
     {
+      "id": "671",
+      "topic": "Ethics, Security, Safety",
+      "source": "The Verge AI",
+      "shortTitle": "Grok Deepfakes",
+      "mediumTitle": "Grok AI Faces Backlash",
+      "longTitle": "Grok Chatbot \u0026 Deepfake Image Concerns",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Reports indicate Grok is also generating",
+            "images involving small children in a",
+            "sexualized manner, which is deeply",
+            "concerning.",
+            "This raises serious legal and ethical",
+            "concerns regarding child sexual abuse",
+            "material (CSAM).",
+            "The chatbot is generating images",
+            "depicting real women in sexually",
+            "suggestive poses, including lingerie.",
+            "The focus of the potential legal action",
+            "is whether the law can effectively stop",
+            "Grok from producing and enabling the",
+            "spread of these images.",
+            "Grok, Elon Musk\u2019s AI chatbot, is facing",
+            "significant criticism and legal scrutiny",
+            "in early 2026."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-06T16:08:18.000Z",
+      "ranking": 6.618846201154517,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/855832/grok-undressing-children-csam-law-x-elon-musk"
+    },
+    {
       "id": "672",
       "topic": "Music, AI Ops",
       "source": "The Verge AI",
@@ -175,8 +138,45 @@
         }
       ],
       "publishedAt": "2026-01-06T16:07:03.000Z",
-      "ranking": 6.364817265354227,
+      "ranking": 6.005902757706547,
       "articleUrl": "https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal"
+    },
+    {
+      "id": "670",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "LFM2.5 Released",
+      "mediumTitle": "Liquid AI Launches LFM2.5",
+      "longTitle": "Liquid AI Releases New Small Foundation Models",
+      "paragraphs": [
+        {
+          "Lines": [
+            "LFM2.5 is specifically designed for",
+            "deployment on devices and at the edge,",
+            "meaning it can run directly on hardware",
+            "without relying on cloud connectivity.",
+            "The LFM2.5-1.2B-Base model provides a",
+            "foundational understanding of language,",
+            "while the LFM2.5-1.2B-Instruct model is",
+            "optimized for following instructions.",
+            "By making the model weights openly",
+            "available, Liquid AI encourages",
+            "community contributions and further",
+            "development.",
+            "The models can be accessed on Hugging",
+            "Face, a popular platform for sharing and",
+            "collaborating on machine learning",
+            "models.",
+            "These models are considered \u0027small\u0027",
+            "foundation models, indicating a focus on",
+            "efficiency and reduced computational",
+            "requirements."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-06T17:41:06.000Z",
+      "ranking": 5.594758131223746,
+      "articleUrl": "https://www.marktechpost.com/2026/01/06/liquid-ai-releases-lfm2-5-a-compact-ai-model-family-for-real-on-device-agents/"
     },
     {
       "id": "666",
@@ -211,7 +211,7 @@
         }
       ],
       "publishedAt": "2026-01-06T10:00:00.000Z",
-      "ranking": 5.381198271950213,
+      "ranking": 4.938343417427355,
       "articleUrl": "https://www.theverge.com/tech/854756/razer-concept-ai-wearable-headphones-project-motoko"
     },
     {
@@ -248,7 +248,7 @@
         }
       ],
       "publishedAt": "2026-01-06T10:00:00.000Z",
-      "ranking": 4.4161982684872205,
+      "ranking": 3.973343413284759,
       "articleUrl": "https://www.theverge.com/tech/854705/razer-ai-anime-waifu-hologram-desk"
     },
     {
@@ -283,7 +283,7 @@
         }
       ],
       "publishedAt": "2026-01-05T14:43:02.000Z",
-      "ranking": 2.9456618148926355,
+      "ranking": 2.2382212643622026,
       "articleUrl": "https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam"
     },
     {
@@ -318,7 +318,7 @@
         }
       ],
       "publishedAt": "2026-01-05T08:45:00.000Z",
-      "ranking": 2.1970622644197846,
+      "ranking": 1.4077433840878655,
       "articleUrl": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
     },
     {
@@ -355,7 +355,7 @@
         }
       ],
       "publishedAt": "2026-01-05T08:21:37.000Z",
-      "ranking": 1.8974628691912088,
+      "ranking": 1.1027964750812158,
       "articleUrl": "https://www.marktechpost.com/2026/01/04/llm-pruning-collection-a-jax-based-repo-for-structured-and-unstructured-llm-compression/"
     },
     {
@@ -391,7 +391,7 @@
         }
       ],
       "publishedAt": "2026-01-05T07:42:01.000Z",
-      "ranking": 1.6685136931263056,
+      "ranking": 0.8647912096781463,
       "articleUrl": "https://www.marktechpost.com/2026/01/04/tencent-researchers-release-tencent-hy-mt1-5-a-new-translation-models-featuring-1-8b-and-7b-models-designed-for-seamless-on-device-and-cloud-deployment/"
     },
     {
@@ -428,7 +428,7 @@
         }
       ],
       "publishedAt": "2026-01-05T11:00:00.000Z",
-      "ranking": 1.5980831318721105,
+      "ranking": 0.8396372837240405,
       "articleUrl": "https://www.theverge.com/tech/853535/alexa-plus-website-now-available"
     },
     {
