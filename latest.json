@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "679",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Falcon-H1R-7B",
+      "mediumTitle": "TII Releases Falcon-H1R-7B",
+      "longTitle": "Abu Dhabi\u0027s TII Launches New Reasoning Model",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The model\u0027s performance is competitive",
+            "with models significantly larger in",
+            "size, ranging from 14 to 47 billion",
+            "parameters.",
+            "Falcon-H1R-7B is a 7 billion parameter",
+            "reasoning model designed for various",
+            "cognitive tasks.",
+            "A key feature of Falcon-H1R-7B is its",
+            "256,000 token context window, allowing",
+            "it to process extensive amounts of text.",
+            "The Technology Innovation Institute",
+            "(TII) in Abu Dhabi is the developer of",
+            "the Falcon-H1R-7B model.",
+            "Benchmarks used to evaluate the model",
+            "included tests in mathematics, coding,",
+            "and general reasoning.",
+            "The release of Falcon-H1R-7B emphasizes",
+            "the creation of efficient models without",
+            "compromising reasoning abilities."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-07T13:12:35.000Z",
+      "ranking": 7.4,
+      "articleUrl": "https://www.marktechpost.com/2026/01/07/tii-abu-dhabi-released-falcon-h1r-7b-a-new-reasoning-model-outperforming-others-in-math-and-coding-with-only-7b-params-with-256k-context-window/"
+    },
+    {
       "id": "671",
       "topic": "Ethics, Security, Safety",
       "source": "The Verge AI",
@@ -31,43 +67,8 @@
         }
       ],
       "publishedAt": "2026-01-06T16:08:18.000Z",
-      "ranking": 7.990909090909089,
+      "ranking": 6.977474860745796,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/855832/grok-undressing-children-csam-law-x-elon-musk"
-    },
-    {
-      "id": "672",
-      "topic": "Music, AI Ops",
-      "source": "The Verge AI",
-      "shortTitle": "UMG \u0026 Nvidia",
-      "mediumTitle": "UMG Partners with Nvidia",
-      "longTitle": "UMG and Nvidia Collaborate on AI Music Tech",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Universal Music Group (UMG) and Nvidia",
-            "have entered into a partnership to",
-            "leverage artificial intelligence within",
-            "UMG\u2019s extensive music catalog.",
-            "A key component of this collaboration is",
-            "the expansion of Nvidia\u2019s Music Flamingo",
-            "AI model.",
-            "This model is designed to analyze music",
-            "in a way that mirrors human",
-            "comprehension.",
-            "Music Flamingo focuses on intricate",
-            "details such as song structure, harmony,",
-            "and emotional progression.",
-            "The partnership aims to utilize AI for",
-            "various applications within UMG\u2019s",
-            "operations.",
-            "The goal is to enhance understanding of",
-            "music using AI technology."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-06T16:07:03.000Z",
-      "ranking": 7.38,
-      "articleUrl": "https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal"
     },
     {
       "id": "670",
@@ -143,6 +144,41 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/06/nvidia-ai-released-nemotron-speech-asr-a-new-open-source-transcription-model-designed-from-the-ground-up-for-low-latency-use-cases-like-voice-agents/"
     },
     {
+      "id": "672",
+      "topic": "Music, AI Ops",
+      "source": "The Verge AI",
+      "shortTitle": "UMG \u0026 Nvidia",
+      "mediumTitle": "UMG Partners with Nvidia",
+      "longTitle": "UMG and Nvidia Collaborate on AI Music Tech",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Universal Music Group (UMG) and Nvidia",
+            "have entered into a partnership to",
+            "leverage artificial intelligence within",
+            "UMG\u2019s extensive music catalog.",
+            "A key component of this collaboration is",
+            "the expansion of Nvidia\u2019s Music Flamingo",
+            "AI model.",
+            "This model is designed to analyze music",
+            "in a way that mirrors human",
+            "comprehension.",
+            "Music Flamingo focuses on intricate",
+            "details such as song structure, harmony,",
+            "and emotional progression.",
+            "The partnership aims to utilize AI for",
+            "various applications within UMG\u2019s",
+            "operations.",
+            "The goal is to enhance understanding of",
+            "music using AI technology."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-06T16:07:03.000Z",
+      "ranking": 6.364817265354227,
+      "articleUrl": "https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal"
+    },
+    {
       "id": "666",
       "topic": "Robotics",
       "source": "The Verge AI",
@@ -175,7 +211,7 @@
         }
       ],
       "publishedAt": "2026-01-06T10:00:00.000Z",
-      "ranking": 5.7750354943879945,
+      "ranking": 5.381198271950213,
       "articleUrl": "https://www.theverge.com/tech/854756/razer-concept-ai-wearable-headphones-project-motoko"
     },
     {
@@ -212,7 +248,7 @@
         }
       ],
       "publishedAt": "2026-01-06T10:00:00.000Z",
-      "ranking": 4.810035491028173,
+      "ranking": 4.4161982684872205,
       "articleUrl": "https://www.theverge.com/tech/854705/razer-ai-anime-waifu-hologram-desk"
     },
     {
@@ -247,7 +283,7 @@
         }
       ],
       "publishedAt": "2026-01-05T14:43:02.000Z",
-      "ranking": 3.6078987388838164,
+      "ranking": 2.9456618148926355,
       "articleUrl": "https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam"
     },
     {
@@ -282,7 +318,7 @@
         }
       ],
       "publishedAt": "2026-01-05T08:45:00.000Z",
-      "ranking": 2.942357796085455,
+      "ranking": 2.1970622644197846,
       "articleUrl": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
     },
     {
@@ -319,7 +355,7 @@
         }
       ],
       "publishedAt": "2026-01-05T08:21:37.000Z",
-      "ranking": 2.64818300003361,
+      "ranking": 1.8974628691912088,
       "articleUrl": "https://www.marktechpost.com/2026/01/04/llm-pruning-collection-a-jax-based-repo-for-structured-and-unstructured-llm-compression/"
     },
     {
@@ -355,7 +391,7 @@
         }
       ],
       "publishedAt": "2026-01-05T07:42:01.000Z",
-      "ranking": 2.4284204455962026,
+      "ranking": 1.6685136931263056,
       "articleUrl": "https://www.marktechpost.com/2026/01/04/tencent-researchers-release-tencent-hy-mt1-5-a-new-translation-models-featuring-1-8b-and-7b-models-designed-for-seamless-on-device-and-cloud-deployment/"
     },
     {
@@ -392,7 +428,7 @@
         }
       ],
       "publishedAt": "2026-01-05T11:00:00.000Z",
-      "ranking": 2.3120605846054056,
+      "ranking": 1.5980831318721105,
       "articleUrl": "https://www.theverge.com/tech/853535/alexa-plus-website-now-available"
     },
     {
@@ -828,42 +864,6 @@
       "publishedAt": "2025-12-22T21:32:12.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/12/22/meta-ai-open-sourced-perception-encoder-audiovisual-pe-av-the-audiovisual-encoder-powering-sam-audio-and-large-scale-multimodal-retrieval/"
-    },
-    {
-      "id": "630",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "ChatGPT Review",
-      "mediumTitle": "ChatGPT\u0027s 2023 Year in Review",
-      "longTitle": "ChatGPT Launches Personalized \u0027Year in Review\u0027",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The data included in the \u0027Year in",
-            "Review\u0027 covers the period of 2023.",
-            "The feature is currently being rolled",
-            "out to ChatGPT users.",
-            "The statistics provided will focus on",
-            "the number of messages exchanged between",
-            "the user and ChatGPT.",
-            "In addition to data, users will receive",
-            "a unique, AI-generated image in a pixel",
-            "art style.",
-            "ChatGPT is launching a new feature that",
-            "provides a summary of user activity over",
-            "the past year.",
-            "The pixel art image is intended to be a",
-            "visual representation of the user\u2019s",
-            "interactions with ChatGPT.",
-            "The personalized image aims to offer a",
-            "creative and engaging way to reflect on",
-            "the year\u2019s conversations."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-22T18:12:11.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped"
     }
   ]
 }
