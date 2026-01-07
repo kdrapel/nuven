@@ -37,6 +37,43 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/07/tii-abu-dhabi-released-falcon-h1r-7b-a-new-reasoning-model-outperforming-others-in-math-and-coding-with-only-7b-params-with-256k-context-window/"
     },
     {
+      "id": "683",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "Beam Pipeline",
+      "mediumTitle": "Unified Batch \u0026 Stream",
+      "longTitle": "Apache Beam: Batch \u0026 Stream Processing",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This tutorial demonstrates building a",
+            "unified Apache Beam pipeline capable of",
+            "handling both batch and stream",
+            "processing using the DirectRunner.",
+            "Minimal code changes are required to",
+            "switch between batch and stream",
+            "processing.",
+            "The core functionality showcases Apache",
+            "Beam\u0027s ability to operate in both batch",
+            "and stream modes.",
+            "Specifically, the mode switch is",
+            "achieved by adjusting only a single",
+            "parameter within the pipeline",
+            "configuration.",
+            "The article provides a coding",
+            "implementation to illustrate the unified",
+            "approach in practice.",
+            "The pipeline consistently manages both",
+            "punctual and delayed events, ensuring",
+            "data accuracy."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-07T22:08:53.000Z",
+      "ranking": 7.272727272727273,
+      "articleUrl": "https://www.marktechpost.com/2026/01/07/a-coding-implementation-to-build-a-unified-apache-beam-pipeline-demonstrating-batch-and-stream-processing-with-event-time-windowing-using-directrunner/"
+    },
+    {
       "id": "678",
       "topic": "Speech",
       "source": "Marktechpost AI",
@@ -103,8 +140,45 @@
         }
       ],
       "publishedAt": "2026-01-06T16:08:18.000Z",
-      "ranking": 6.618846201154517,
+      "ranking": 6.1966698578164925,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/855832/grok-undressing-children-csam-law-x-elon-musk"
+    },
+    {
+      "id": "680",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "NousCoder-14B",
+      "mediumTitle": "Open-Source Coding AI",
+      "longTitle": "Nous Research Releases New AI Model",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The model and training stack are",
+            "available on Hugging Face under an",
+            "Apache 2.0 license.",
+            "The model\u2019s rapid improvement mirrors a",
+            "two-year human learning curve in just",
+            "four days of training.",
+            "The training process utilized 48 of",
+            "Nvidia\u2019s B200 GPUs.",
+            "Despite the rapid progress, humans",
+            "remain more sample-efficient learners.",
+            "The dataset used for training includes a",
+            "significant portion of readily",
+            "available, verifiable competitive",
+            "programming problems.",
+            "Future research will focus on multi-turn",
+            "reinforcement learning and controlling",
+            "response length.",
+            "NousCoder-14B\u2019s release comes as",
+            "Anthropic\u2019s Claude Code gains traction",
+            "as a proprietary AI coding tool."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-07T21:00:00.000Z",
+      "ranking": 6.108333333333333,
+      "articleUrl": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
     },
     {
       "id": "672",
@@ -138,7 +212,7 @@
         }
       ],
       "publishedAt": "2026-01-06T16:07:03.000Z",
-      "ranking": 6.005902757706547,
+      "ranking": 5.583434497293665,
       "articleUrl": "https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal"
     },
     {
@@ -175,7 +249,7 @@
         }
       ],
       "publishedAt": "2026-01-06T17:41:06.000Z",
-      "ranking": 5.594758131223746,
+      "ranking": 5.194253323466817,
       "articleUrl": "https://www.marktechpost.com/2026/01/06/liquid-ai-releases-lfm2-5-a-compact-ai-model-family-for-real-on-device-agents/"
     },
     {
@@ -211,7 +285,7 @@
         }
       ],
       "publishedAt": "2026-01-06T10:00:00.000Z",
-      "ranking": 4.938343417427355,
+      "ranking": 4.43015811877166,
       "articleUrl": "https://www.theverge.com/tech/854756/razer-concept-ai-wearable-headphones-project-motoko"
     },
     {
@@ -248,7 +322,7 @@
         }
       ],
       "publishedAt": "2026-01-06T10:00:00.000Z",
-      "ranking": 3.973343413284759,
+      "ranking": 3.4651580818148946,
       "articleUrl": "https://www.theverge.com/tech/854705/razer-ai-anime-waifu-hologram-desk"
     },
     {
@@ -283,7 +357,7 @@
         }
       ],
       "publishedAt": "2026-01-05T14:43:02.000Z",
-      "ranking": 2.2382212643622026,
+      "ranking": 1.4598499677050158,
       "articleUrl": "https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam"
     },
     {
@@ -318,7 +392,7 @@
         }
       ],
       "publishedAt": "2026-01-05T08:45:00.000Z",
-      "ranking": 1.4077433840878655,
+      "ranking": 0.5457606783856539,
       "articleUrl": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
     },
     {
@@ -355,44 +429,8 @@
         }
       ],
       "publishedAt": "2026-01-05T08:21:37.000Z",
-      "ranking": 1.1027964750812158,
+      "ranking": 0.2353530319890016,
       "articleUrl": "https://www.marktechpost.com/2026/01/04/llm-pruning-collection-a-jax-based-repo-for-structured-and-unstructured-llm-compression/"
-    },
-    {
-      "id": "655",
-      "topic": "NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "HY-MT1.5",
-      "mediumTitle": "Tencent\u0027s New MT Models",
-      "longTitle": "HY-MT1.5 Multilingual Translation Released",
-      "paragraphs": [
-        {
-          "Lines": [
-            "HY-MT1.5 supports translation between a",
-            "total of 33 languages.",
-            "The models are designed for flexible",
-            "deployment, functioning on both mobile",
-            "devices and cloud systems.",
-            "The HY-MT1.5 models are now publicly",
-            "available for use.",
-            "The same training process and evaluation",
-            "metrics are used for both mobile and",
-            "cloud deployments, ensuring consistency.",
-            "The models are also available on Hugging",
-            "Face, a popular platform for machine",
-            "learning models.",
-            "Tencent researchers developed HY-MT1.5",
-            "as a new family of multilingual machine",
-            "translation models.",
-            "Researchers have made the models",
-            "accessible on GitHub, facilitating",
-            "community contributions and development."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-05T07:42:01.000Z",
-      "ranking": 0.8647912096781463,
-      "articleUrl": "https://www.marktechpost.com/2026/01/04/tencent-researchers-release-tencent-hy-mt1-5-a-new-translation-models-featuring-1-8b-and-7b-models-designed-for-seamless-on-device-and-cloud-deployment/"
     },
     {
       "id": "657",
@@ -428,8 +466,44 @@
         }
       ],
       "publishedAt": "2026-01-05T11:00:00.000Z",
-      "ranking": 0.8396372837240405,
+      "ranking": 0.00918099621505064,
       "articleUrl": "https://www.theverge.com/tech/853535/alexa-plus-website-now-available"
+    },
+    {
+      "id": "655",
+      "topic": "NLP",
+      "source": "Marktechpost AI",
+      "shortTitle": "HY-MT1.5",
+      "mediumTitle": "Tencent\u0027s New MT Models",
+      "longTitle": "HY-MT1.5 Multilingual Translation Released",
+      "paragraphs": [
+        {
+          "Lines": [
+            "HY-MT1.5 supports translation between a",
+            "total of 33 languages.",
+            "The models are designed for flexible",
+            "deployment, functioning on both mobile",
+            "devices and cloud systems.",
+            "The HY-MT1.5 models are now publicly",
+            "available for use.",
+            "The same training process and evaluation",
+            "metrics are used for both mobile and",
+            "cloud deployments, ensuring consistency.",
+            "The models are also available on Hugging",
+            "Face, a popular platform for machine",
+            "learning models.",
+            "Tencent researchers developed HY-MT1.5",
+            "as a new family of multilingual machine",
+            "translation models.",
+            "Researchers have made the models",
+            "accessible on GitHub, facilitating",
+            "community contributions and development."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-05T07:42:01.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.marktechpost.com/2026/01/04/tencent-researchers-release-tencent-hy-mt1-5-a-new-translation-models-featuring-1-8b-and-7b-models-designed-for-seamless-on-device-and-cloud-deployment/"
     },
     {
       "id": "652",
@@ -754,116 +828,6 @@
       "publishedAt": "2025-12-24T21:57:23.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/"
-    },
-    {
-      "id": "632",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Alexa Issues",
-      "mediumTitle": "Alexa Plus Update Fails",
-      "longTitle": "Smart Home Routines Broken by Alexa Plus",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The core problem appears to be the new",
-            "AI\u0027s difficulty in consistently and",
-            "accurately executing pre-programmed",
-            "tasks.",
-            "A previously reliable routine \u2013 brewing",
-            "coffee with an Alexa-enabled Bosch",
-            "coffee machine \u2013 is now failing.",
-            "The article focuses on problems arising",
-            "with smart home device functionality",
-            "after an upgrade to Amazon\u0027s Alexa Plus.",
-            "Despite its advanced capabilities, the",
-            "AI is struggling with basic automation",
-            "commands.",
-            "The coffee machine, through Alexa Plus,",
-            "refused the request, offering varied",
-            "explanations with each attempt.",
-            "This indicates a potential issue with",
-            "the reliability of established smart",
-            "home routines post-AI assistant update."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-23T09:30:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/845958/ai-smart-home-broken"
-    },
-    {
-      "id": "631",
-      "topic": "Model Eval, Safety",
-      "source": "Marktechpost AI",
-      "shortTitle": "Gemma Scope 2",
-      "mediumTitle": "Gemma Scope 2 Released",
-      "longTitle": "Google DeepMind Releases Gemma Scope 2 Tools",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google DeepMind researchers developed",
-            "and released Gemma Scope 2.",
-            "The tools provide a way to trace outputs",
-            "back to the model\u0027s internal features.",
-            "Gemma Scope 2 aims to improve the",
-            "understanding of how these AI models",
-            "function internally.",
-            "AI safety teams can use the tools to",
-            "analyze model behavior.",
-            "Alignment teams can leverage the suite",
-            "to ensure models behave as intended.",
-            "The release intends to enhance control",
-            "over these AI systems.",
-            "This tracing is possible across all",
-            "layers of the Gemma 3 models.",
-            "The suite is specifically designed for",
-            "the Gemma 3 family of language models.",
-            "Being open-source, Gemma Scope 2 is",
-            "freely available for use and",
-            "modification."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-23T05:39:48.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/12/22/google-deepmind-researchers-release-gemma-scope-2-as-a-full-stack-interpretability-suite-for-gemma-3-models/"
-    },
-    {
-      "id": "629",
-      "topic": "Vision, NLP, Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Meta PE-AV",
-      "mediumTitle": "Meta Open-Sources PE-AV",
-      "longTitle": "Meta AI Releases Perception Encoder",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta AI has open-sourced Perception",
-            "Encoder Audiovisual (PE-AV), a new",
-            "family of encoders.",
-            "PE-AV is designed to understand both",
-            "audio and video content jointly.",
-            "The model utilizes large-scale",
-            "contrastive training to achieve its",
-            "unified representation.",
-            "The training data consists of",
-            "approximately 100 million audio-video",
-            "pairs.",
-            "Each audio-video pair is accompanied by",
-            "a corresponding text caption.",
-            "The unified embedding space allows for a",
-            "more comprehensive understanding of",
-            "multimodal data.",
-            "SAM Audio is one of the features powered",
-            "by the PE-AV model.",
-            "Large-scale multimodal retrieval is",
-            "another capability enabled by PE-AV."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-22T21:32:12.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/12/22/meta-ai-open-sourced-perception-encoder-audiovisual-pe-av-the-audiovisual-encoder-powering-sam-audio-and-large-scale-multimodal-retrieval/"
     }
   ]
 }
