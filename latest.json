@@ -143,6 +143,42 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/06/liquid-ai-releases-lfm2-5-a-compact-ai-model-family-for-real-on-device-agents/"
     },
     {
+      "id": "678",
+      "topic": "Speech",
+      "source": "Marktechpost AI",
+      "shortTitle": "NVIDIA ASR",
+      "mediumTitle": "Nemotron Speech ASR Released",
+      "longTitle": "NVIDIA Launches Open-Source Speech-to-Text Model",
+      "paragraphs": [
+        {
+          "Lines": [
+            "NVIDIA has released Nemotron Speech ASR,",
+            "a new open-source English speech-to-text",
+            "(ASR) transcription model.",
+            "This model is specifically engineered",
+            "for applications demanding low latency,",
+            "such as voice agents and live",
+            "captioning.",
+            "The model is accessible as the",
+            "checkpoint",
+            "nvidia/nemotron-speech-streaming-en-0.6b",
+            "on the Hugging Face platform.",
+            "Nemotron Speech ASR utilizes a",
+            "cache-aware FastConformer encoder for",
+            "efficient processing.",
+            "An RNNT decoder is also incorporated",
+            "into the model\u0027s architecture.",
+            "The architecture is optimized for both",
+            "streaming and batch processing",
+            "scenarios."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-07T05:12:58.000Z",
+      "ranking": 6.660000000000002,
+      "articleUrl": "https://www.marktechpost.com/2026/01/06/nvidia-ai-released-nemotron-speech-asr-a-new-open-source-transcription-model-designed-from-the-ground-up-for-low-latency-use-cases-like-voice-agents/"
+    },
+    {
       "id": "665",
       "topic": "Gaming, Art",
       "source": "The Verge AI",
@@ -211,7 +247,7 @@
         }
       ],
       "publishedAt": "2026-01-05T14:43:02.000Z",
-      "ranking": 4.7684318462330015,
+      "ranking": 4.213877179826021,
       "articleUrl": "https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam"
     },
     {
@@ -246,7 +282,7 @@
         }
       ],
       "publishedAt": "2026-01-05T08:45:00.000Z",
-      "ranking": 4.269556920992532,
+      "ranking": 3.631328711878436,
       "articleUrl": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
     },
     {
@@ -283,7 +319,7 @@
         }
       ],
       "publishedAt": "2026-01-05T08:21:37.000Z",
-      "ranking": 3.986267165843837,
+      "ranking": 3.342574195597799,
       "articleUrl": "https://www.marktechpost.com/2026/01/04/llm-pruning-collection-a-jax-based-repo-for-structured-and-unstructured-llm-compression/"
     },
     {
@@ -319,7 +355,7 @@
         }
       ],
       "publishedAt": "2026-01-05T07:42:01.000Z",
-      "ranking": 3.7849385896093826,
+      "ranking": 3.1319909714134955,
       "articleUrl": "https://www.marktechpost.com/2026/01/04/tencent-researchers-release-tencent-hy-mt1-5-a-new-translation-models-featuring-1-8b-and-7b-models-designed-for-seamless-on-device-and-cloud-deployment/"
     },
     {
@@ -356,7 +392,7 @@
         }
       ],
       "publishedAt": "2026-01-05T11:00:00.000Z",
-      "ranking": 3.576416660279615,
+      "ranking": 2.9697383833121425,
       "articleUrl": "https://www.theverge.com/tech/853535/alexa-plus-website-now-available"
     },
     {
@@ -393,7 +429,7 @@
         }
       ],
       "publishedAt": "2026-01-04T12:45:00.000Z",
-      "ranking": 0.3853637267578902,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/853109/switchbot-ai-mindclip-audio-recorder-ces-announcement"
     },
     {
@@ -828,77 +864,6 @@
       "publishedAt": "2025-12-22T18:12:11.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped"
-    },
-    {
-      "id": "628",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Indie Awards",
-      "mediumTitle": "AI Use Costs Game Awards",
-      "longTitle": "Indie Game Awards Revoked Over AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The Indie Game Awards have retracted the",
-            "\u201CGame of the Year\u201D and \u201CDebut Game\u201D",
-            "awards previously given to *Clair",
-            "Obscur: Expedition 33*, developed by",
-            "Sandfall Interactive.",
-            "The retraction stems from the",
-            "developer\u2019s use of generative AI tools",
-            "during the game\u2019s development process.",
-            "The awards were initially presented last",
-            "week, but the Indie Game Awards",
-            "organization subsequently announced the",
-            "decision to rescind them after",
-            "discovering the AI usage.",
-            "The use of AI was deemed a violation of",
-            "the awards\u2019 criteria.",
-            "The specific details regarding *how*",
-            "generative AI was utilized haven\u2019t been",
-            "extensively detailed in this brief",
-            "report."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-22T14:47:58.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/849144/indie-game-awards-game-of-the-year-expedition-33-generative-ai-chantey-modretro"
-    },
-    {
-      "id": "626",
-      "topic": "Dev Tools",
-      "source": "Marktechpost AI",
-      "shortTitle": "A2UI",
-      "mediumTitle": "Google Open-Sources A2UI",
-      "longTitle": "Google\u0027s A2UI Enables Agent-Driven Interfaces",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has open-sourced A2UI",
-            "(Agent-to-User Interface) to the public.",
-            "A2UI addresses the challenge of",
-            "presenting secure, interactive",
-            "interfaces from remote agents.",
-            "A2UI provides a protocol specifically",
-            "designed for agent-driven interfaces.",
-            "The system utilizes a declarative JSON",
-            "format for defining the user interface.",
-            "Client applications are responsible for",
-            "rendering the interface using their own",
-            "components.",
-            "This approach allows for interfaces to",
-            "be presented even across different trust",
-            "boundaries.",
-            "Developers can leverage A2UI to build",
-            "more sophisticated and secure agent",
-            "applications."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-22T11:01:40.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/"
     }
   ]
 }
