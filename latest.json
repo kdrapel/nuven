@@ -211,7 +211,7 @@
         }
       ],
       "publishedAt": "2026-01-05T14:43:02.000Z",
-      "ranking": 5.259335172113653,
+      "ranking": 4.7684318462330015,
       "articleUrl": "https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam"
     },
     {
@@ -246,7 +246,7 @@
         }
       ],
       "publishedAt": "2026-01-05T08:45:00.000Z",
-      "ranking": 4.84288337070945,
+      "ranking": 4.269556920992532,
       "articleUrl": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
     },
     {
@@ -283,7 +283,7 @@
         }
       ],
       "publishedAt": "2026-01-05T08:21:37.000Z",
-      "ranking": 4.564976709847587,
+      "ranking": 3.986267165843837,
       "articleUrl": "https://www.marktechpost.com/2026/01/04/llm-pruning-collection-a-jax-based-repo-for-structured-and-unstructured-llm-compression/"
     },
     {
@@ -319,7 +319,7 @@
         }
       ],
       "publishedAt": "2026-01-05T07:42:01.000Z",
-      "ranking": 4.372764479643282,
+      "ranking": 3.7849385896093826,
       "articleUrl": "https://www.marktechpost.com/2026/01/04/tencent-researchers-release-tencent-hy-mt1-5-a-new-translation-models-featuring-1-8b-and-7b-models-designed-for-seamless-on-device-and-cloud-deployment/"
     },
     {
@@ -356,7 +356,7 @@
         }
       ],
       "publishedAt": "2026-01-05T11:00:00.000Z",
-      "ranking": 4.118664657825784,
+      "ranking": 3.576416660279615,
       "articleUrl": "https://www.theverge.com/tech/853535/alexa-plus-website-now-available"
     },
     {
@@ -393,7 +393,7 @@
         }
       ],
       "publishedAt": "2026-01-04T12:45:00.000Z",
-      "ranking": 1.2349430809184048,
+      "ranking": 0.3853637267578902,
       "articleUrl": "https://www.theverge.com/tech/853109/switchbot-ai-mindclip-audio-recorder-ces-announcement"
     },
     {
@@ -899,77 +899,6 @@
       "publishedAt": "2025-12-22T11:01:40.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/"
-    },
-    {
-      "id": "625",
-      "topic": "Security",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Agents",
-      "mediumTitle": "AI Agent Risks \u0026 Governance",
-      "longTitle": "Governing AI Agents for Reliable Systems",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Responsible AI agent adoption requires a",
-            "\u0027human-in-the-loop\u0027 approach,",
-            "particularly for critical systems.",
-            "A lack of clear ownership and",
-            "accountability makes it difficult to",
-            "address issues when AI agents act",
-            "unexpectedly or cause errors.",
-            "Unchecked autonomy of AI agents can",
-            "create substantial challenges for Site",
-            "Reliability Engineering (SRE) teams",
-            "responsible for system stability.",
-            "The absence of explainability hinders",
-            "the ability to understand why an AI",
-            "agent made a particular decision,",
-            "complicating debugging and",
-            "trust-building.",
-            "More than half of organizations are",
-            "currently deploying AI agents to",
-            "automate tasks and improve efficiency."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-21T20:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/ai/agent-autonomy-without-guardrails-is-an-sre-nightmare"
-    },
-    {
-      "id": "624",
-      "topic": "Model Eval, Safety",
-      "source": "Marktechpost AI",
-      "shortTitle": "Bloom AI",
-      "mediumTitle": "Anthropic\u0027s Bloom Framework",
-      "longTitle": "Bloom: Open-Source AI Behavior Evaluation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Bloom focuses on evaluations related to",
-            "AI safety and alignment.",
-            "Anthropic has released Bloom as an",
-            "open-source agentic framework.",
-            "A key motivation behind Bloom is to",
-            "address the significant cost associated",
-            "with designing behavioral evaluations.",
-            "Bloom then automatically constructs",
-            "evaluations to measure how often and how",
-            "strongly that behavior appears.",
-            "The framework is specifically designed",
-            "for automating behavioral evaluations of",
-            "advanced AI models.",
-            "The system accepts a behavior defined by",
-            "a researcher as input.",
-            "The framework also aims to reduce the",
-            "continuous maintenance required for",
-            "these evaluations."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-21T13:55:35.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/12/21/anthropic-ai-releases-bloom-an-open-source-agentic-framework-for-automated-behavioral-evaluations-of-frontier-ai-models/"
     }
   ]
 }
