@@ -148,42 +148,6 @@
       "articleUrl": "https://www.theverge.com/news/858102/characterai-google-teen-suicide-settlement"
     },
     {
-      "id": "678",
-      "topic": "Speech",
-      "source": "Marktechpost AI",
-      "shortTitle": "NVIDIA ASR",
-      "mediumTitle": "Nemotron Speech ASR Released",
-      "longTitle": "NVIDIA Launches Open-Source Speech-to-Text Model",
-      "paragraphs": [
-        {
-          "Lines": [
-            "NVIDIA has released Nemotron Speech ASR,",
-            "a new open-source English speech-to-text",
-            "(ASR) transcription model.",
-            "This model is specifically engineered",
-            "for applications demanding low latency,",
-            "such as voice agents and live",
-            "captioning.",
-            "The model is accessible as the",
-            "checkpoint",
-            "nvidia/nemotron-speech-streaming-en-0.6b",
-            "on the Hugging Face platform.",
-            "Nemotron Speech ASR utilizes a",
-            "cache-aware FastConformer encoder for",
-            "efficient processing.",
-            "An RNNT decoder is also incorporated",
-            "into the model\u0027s architecture.",
-            "The architecture is optimized for both",
-            "streaming and batch processing",
-            "scenarios."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-07T05:12:58.000Z",
-      "ranking": 6.660000000000002,
-      "articleUrl": "https://www.marktechpost.com/2026/01/06/nvidia-ai-released-nemotron-speech-asr-a-new-open-source-transcription-model-designed-from-the-ground-up-for-low-latency-use-cases-like-voice-agents/"
-    },
-    {
       "id": "680",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -221,6 +185,77 @@
       "articleUrl": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
     },
     {
+      "id": "686",
+      "topic": "Robotics, NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Ford AI \u0026 Autonomy",
+      "mediumTitle": "Ford Announces AI \u0026 L3 Driving",
+      "longTitle": "Ford Details AI Voice Assistant \u0026 2028 Autonomy Plans",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Level 3 autonomy allows for conditional",
+            "automation, where the vehicle can handle",
+            "most driving tasks but requires driver",
+            "intervention in certain situations.",
+            "The UEV platform is expected to be a key",
+            "component of Ford\u2019s future electric",
+            "vehicle strategy.",
+            "Ford aims to balance cost-effectiveness",
+            "with profitability in the development of",
+            "the UEV platform.",
+            "The 2028 timeframe suggests significant",
+            "development and testing are still",
+            "required for the autonomous driving",
+            "feature.",
+            "Ford made these announcements at the",
+            "Consumer Electronics Show (CES).",
+            "The article focuses solely on these two",
+            "key announcements from Ford."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-07T20:00:00.000Z",
+      "ranking": 5.5200000000000005,
+      "articleUrl": "https://www.theverge.com/transportation/857400/ford-ai-assistant-level-3-automation-ces-2026"
+    },
+    {
+      "id": "678",
+      "topic": "Speech",
+      "source": "Marktechpost AI",
+      "shortTitle": "NVIDIA ASR",
+      "mediumTitle": "Nemotron Speech ASR Released",
+      "longTitle": "NVIDIA Launches Open-Source Speech-to-Text Model",
+      "paragraphs": [
+        {
+          "Lines": [
+            "NVIDIA has released Nemotron Speech ASR,",
+            "a new open-source English speech-to-text",
+            "(ASR) transcription model.",
+            "This model is specifically engineered",
+            "for applications demanding low latency,",
+            "such as voice agents and live",
+            "captioning.",
+            "The model is accessible as the",
+            "checkpoint",
+            "nvidia/nemotron-speech-streaming-en-0.6b",
+            "on the Hugging Face platform.",
+            "Nemotron Speech ASR utilizes a",
+            "cache-aware FastConformer encoder for",
+            "efficient processing.",
+            "An RNNT decoder is also incorporated",
+            "into the model\u0027s architecture.",
+            "The architecture is optimized for both",
+            "streaming and batch processing",
+            "scenarios."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-07T05:12:58.000Z",
+      "ranking": 5.391606611372865,
+      "articleUrl": "https://www.marktechpost.com/2026/01/06/nvidia-ai-released-nemotron-speech-asr-a-new-open-source-transcription-model-designed-from-the-ground-up-for-low-latency-use-cases-like-voice-agents/"
+    },
+    {
       "id": "671",
       "topic": "Ethics, Security, Safety",
       "source": "The Verge AI",
@@ -251,7 +286,7 @@
         }
       ],
       "publishedAt": "2026-01-06T16:08:18.000Z",
-      "ranking": 5.71913138292501,
+      "ranking": 5.198209776101125,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/855832/grok-undressing-children-csam-law-x-elon-musk"
     },
     {
@@ -286,7 +321,7 @@
         }
       ],
       "publishedAt": "2026-01-06T16:07:03.000Z",
-      "ranking": 5.105604794666554,
+      "ranking": 4.584398646304421,
       "articleUrl": "https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal"
     },
     {
@@ -323,7 +358,7 @@
         }
       ],
       "publishedAt": "2026-01-06T17:41:06.000Z",
-      "ranking": 4.738335911926736,
+      "ranking": 4.238538597297127,
       "articleUrl": "https://www.marktechpost.com/2026/01/06/liquid-ai-releases-lfm2-5-a-compact-ai-model-family-for-real-on-device-agents/"
     },
     {
@@ -359,7 +394,7 @@
         }
       ],
       "publishedAt": "2026-01-06T10:00:00.000Z",
-      "ranking": 3.8668110837896834,
+      "ranking": 3.2620524375479123,
       "articleUrl": "https://www.theverge.com/tech/854756/razer-concept-ai-wearable-headphones-project-motoko"
     },
     {
@@ -396,7 +431,7 @@
         }
       ],
       "publishedAt": "2026-01-06T10:00:00.000Z",
-      "ranking": 2.9018110783088593,
+      "ranking": 2.297052432262317,
       "articleUrl": "https://www.theverge.com/tech/854705/razer-ai-anime-waifu-hologram-desk"
     },
     {
@@ -431,7 +466,7 @@
         }
       ],
       "publishedAt": "2026-01-05T14:43:02.000Z",
-      "ranking": 0.626946505933712,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam"
     },
     {
@@ -867,41 +902,6 @@
       "publishedAt": "2025-12-25T15:35:14.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2025/12/25/minimax-releases-m2-1-an-enhanced-m2-version-with-features-like-multi-coding-language-support-api-integration-and-improved-tools-for-structured-coding/"
-    },
-    {
-      "id": "636",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Agentic AI",
-      "mediumTitle": "Agentic AI: Reality Gap",
-      "longTitle": "Agentic AI Struggles in Real-World Use",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The core issue is that agentic AI often",
-            "performs well in demonstrations but",
-            "struggles in practical, real-world",
-            "scenarios.",
-            "A key finding is that agentic AI",
-            "currently excels at *appearing* capable,",
-            "but lacks consistent reliability.",
-            "The study emphasizes the importance of",
-            "addressing tool use, planning, and",
-            "generalization for successful real-world",
-            "deployment.",
-            "The research highlights the need for",
-            "increased robustness in agentic AI",
-            "systems.",
-            "Agentic AI is being explored for",
-            "applications in scientific discovery,",
-            "software development, and clinical",
-            "research."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-24T21:57:23.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/12/24/this-ai-paper-from-stanford-and-harvard-explains-why-most-agentic-ai-systems-feel-impressive-in-demos-and-then-completely-fall-apart-in-real-use/"
     }
   ]
 }
