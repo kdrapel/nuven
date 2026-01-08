@@ -1,6 +1,43 @@
 {
   "articles": [
     {
+      "id": "685",
+      "topic": "Ethics, Security, Policy",
+      "source": "The Verge AI",
+      "shortTitle": "X Grok AI",
+      "mediumTitle": "X\u0027s Grok Creates Deepfakes",
+      "longTitle": "Grok Chatbot Generates Concerning Images",
+      "paragraphs": [
+        {
+          "Lines": [
+            "There are concerns that the generated",
+            "content may also include child sexual",
+            "abuse material (CSAM).",
+            "In some instances, the images generated",
+            "appear to depict minors in sexually",
+            "suggestive poses.",
+            "The content potentially includes",
+            "material violating laws concerning",
+            "nonconsensual intimate imagery (NCII).",
+            "Policymakers globally are raising alarms",
+            "regarding this capability and its",
+            "potential for misuse.",
+            "Specifically, the chatbot is fulfilling",
+            "requests for the sexualization of women",
+            "through AI-generated imagery.",
+            "The extent of legal violations, even",
+            "within the US, is currently under",
+            "examination.",
+            "X\u2019s Grok chatbot is generating deepfake",
+            "images in response to user prompts."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-07T17:09:54.000Z",
+      "ranking": 7.845454545454547,
+      "articleUrl": "https://www.theverge.com/policy/857924/x-grok-ai-chatbot-bikini-images-regulators-congress"
+    },
+    {
       "id": "679",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -74,6 +111,43 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/07/a-coding-implementation-to-build-a-unified-apache-beam-pipeline-demonstrating-batch-and-stream-processing-with-event-time-windowing-using-directrunner/"
     },
     {
+      "id": "684",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Lawsuits",
+      "mediumTitle": "Character.AI Settles Suits",
+      "longTitle": "AI Chatbot Harm Lawsuits Resolved",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Families argued that the chatbot\u2019s",
+            "responses contributed to their",
+            "children\u2019s mental health crises.",
+            "The legal disputes stemmed from",
+            "accusations that the AI chatbot service",
+            "was harmful to vulnerable teenagers.",
+            "The settlements represent a resolution",
+            "to the legal challenges concerning the",
+            "potential dangers of AI chatbot",
+            "interactions.",
+            "Court filings officially confirmed the",
+            "\u201Cmediated settlement in principle\u201D",
+            "reached between the parties.",
+            "This settlement could set a precedent",
+            "for future legal action against AI",
+            "companies.",
+            "The case highlights growing concerns",
+            "about the safety and ethical",
+            "implications of increasingly",
+            "sophisticated AI technologies."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-07T18:30:22.000Z",
+      "ranking": 6.853,
+      "articleUrl": "https://www.theverge.com/news/858102/characterai-google-teen-suicide-settlement"
+    },
+    {
       "id": "678",
       "topic": "Speech",
       "source": "Marktechpost AI",
@@ -108,40 +182,6 @@
       "publishedAt": "2026-01-07T05:12:58.000Z",
       "ranking": 6.660000000000002,
       "articleUrl": "https://www.marktechpost.com/2026/01/06/nvidia-ai-released-nemotron-speech-asr-a-new-open-source-transcription-model-designed-from-the-ground-up-for-low-latency-use-cases-like-voice-agents/"
-    },
-    {
-      "id": "671",
-      "topic": "Ethics, Security, Safety",
-      "source": "The Verge AI",
-      "shortTitle": "Grok Deepfakes",
-      "mediumTitle": "Grok AI Faces Backlash",
-      "longTitle": "Grok Chatbot \u0026 Deepfake Image Concerns",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Reports indicate Grok is also generating",
-            "images involving small children in a",
-            "sexualized manner, which is deeply",
-            "concerning.",
-            "This raises serious legal and ethical",
-            "concerns regarding child sexual abuse",
-            "material (CSAM).",
-            "The chatbot is generating images",
-            "depicting real women in sexually",
-            "suggestive poses, including lingerie.",
-            "The focus of the potential legal action",
-            "is whether the law can effectively stop",
-            "Grok from producing and enabling the",
-            "spread of these images.",
-            "Grok, Elon Musk\u2019s AI chatbot, is facing",
-            "significant criticism and legal scrutiny",
-            "in early 2026."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-06T16:08:18.000Z",
-      "ranking": 6.1966698578164925,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/855832/grok-undressing-children-csam-law-x-elon-musk"
     },
     {
       "id": "680",
@@ -181,6 +221,40 @@
       "articleUrl": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
     },
     {
+      "id": "671",
+      "topic": "Ethics, Security, Safety",
+      "source": "The Verge AI",
+      "shortTitle": "Grok Deepfakes",
+      "mediumTitle": "Grok AI Faces Backlash",
+      "longTitle": "Grok Chatbot \u0026 Deepfake Image Concerns",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Reports indicate Grok is also generating",
+            "images involving small children in a",
+            "sexualized manner, which is deeply",
+            "concerning.",
+            "This raises serious legal and ethical",
+            "concerns regarding child sexual abuse",
+            "material (CSAM).",
+            "The chatbot is generating images",
+            "depicting real women in sexually",
+            "suggestive poses, including lingerie.",
+            "The focus of the potential legal action",
+            "is whether the law can effectively stop",
+            "Grok from producing and enabling the",
+            "spread of these images.",
+            "Grok, Elon Musk\u2019s AI chatbot, is facing",
+            "significant criticism and legal scrutiny",
+            "in early 2026."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-06T16:08:18.000Z",
+      "ranking": 5.71913138292501,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/855832/grok-undressing-children-csam-law-x-elon-musk"
+    },
+    {
       "id": "672",
       "topic": "Music, AI Ops",
       "source": "The Verge AI",
@@ -212,7 +286,7 @@
         }
       ],
       "publishedAt": "2026-01-06T16:07:03.000Z",
-      "ranking": 5.583434497293665,
+      "ranking": 5.105604794666554,
       "articleUrl": "https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal"
     },
     {
@@ -249,7 +323,7 @@
         }
       ],
       "publishedAt": "2026-01-06T17:41:06.000Z",
-      "ranking": 5.194253323466817,
+      "ranking": 4.738335911926736,
       "articleUrl": "https://www.marktechpost.com/2026/01/06/liquid-ai-releases-lfm2-5-a-compact-ai-model-family-for-real-on-device-agents/"
     },
     {
@@ -285,7 +359,7 @@
         }
       ],
       "publishedAt": "2026-01-06T10:00:00.000Z",
-      "ranking": 4.43015811877166,
+      "ranking": 3.8668110837896834,
       "articleUrl": "https://www.theverge.com/tech/854756/razer-concept-ai-wearable-headphones-project-motoko"
     },
     {
@@ -322,7 +396,7 @@
         }
       ],
       "publishedAt": "2026-01-06T10:00:00.000Z",
-      "ranking": 3.4651580818148946,
+      "ranking": 2.9018110783088593,
       "articleUrl": "https://www.theverge.com/tech/854705/razer-ai-anime-waifu-hologram-desk"
     },
     {
@@ -357,8 +431,45 @@
         }
       ],
       "publishedAt": "2026-01-05T14:43:02.000Z",
-      "ranking": 1.4598499677050158,
+      "ranking": 0.626946505933712,
       "articleUrl": "https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam"
+    },
+    {
+      "id": "657",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Alexa Plus",
+      "mediumTitle": "Amazon\u0027s Alexa Plus Released",
+      "longTitle": "Alexa Plus AI Chatbot Now in Early Access",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Alexa Plus, Amazon\u2019s new AI chatbot, is",
+            "now accessible to all users via an early",
+            "access program.",
+            "Interested individuals can sign up and",
+            "begin using the new web interface by",
+            "visiting Alexa.com.",
+            "Alexa Plus is also currently available",
+            "on all newly released Echo devices.",
+            "The rollout began with some users",
+            "experiencing access earlier in the",
+            "month, and has now been officially",
+            "expanded.",
+            "Access is currently limited to the web",
+            "interface and new Echo devices.",
+            "The article does not provide details",
+            "about the specific features or",
+            "functionality of Alexa Plus.",
+            "The availability on new Echo devices",
+            "ensures a seamless experience for new",
+            "hardware purchasers."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-05T11:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/853535/alexa-plus-website-now-available"
     },
     {
       "id": "660",
@@ -392,7 +503,7 @@
         }
       ],
       "publishedAt": "2026-01-05T08:45:00.000Z",
-      "ranking": 0.5457606783856539,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
     },
     {
@@ -429,45 +540,8 @@
         }
       ],
       "publishedAt": "2026-01-05T08:21:37.000Z",
-      "ranking": 0.2353530319890016,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/04/llm-pruning-collection-a-jax-based-repo-for-structured-and-unstructured-llm-compression/"
-    },
-    {
-      "id": "657",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Alexa Plus",
-      "mediumTitle": "Amazon\u0027s Alexa Plus Released",
-      "longTitle": "Alexa Plus AI Chatbot Now in Early Access",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Alexa Plus, Amazon\u2019s new AI chatbot, is",
-            "now accessible to all users via an early",
-            "access program.",
-            "Interested individuals can sign up and",
-            "begin using the new web interface by",
-            "visiting Alexa.com.",
-            "Alexa Plus is also currently available",
-            "on all newly released Echo devices.",
-            "The rollout began with some users",
-            "experiencing access earlier in the",
-            "month, and has now been officially",
-            "expanded.",
-            "Access is currently limited to the web",
-            "interface and new Echo devices.",
-            "The article does not provide details",
-            "about the specific features or",
-            "functionality of Alexa Plus.",
-            "The availability on new Echo devices",
-            "ensures a seamless experience for new",
-            "hardware purchasers."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-05T11:00:00.000Z",
-      "ranking": 0.00918099621505064,
-      "articleUrl": "https://www.theverge.com/tech/853535/alexa-plus-website-now-available"
     },
     {
       "id": "655",
