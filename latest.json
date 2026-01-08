@@ -38,42 +38,6 @@
       "articleUrl": "https://www.theverge.com/policy/857924/x-grok-ai-chatbot-bikini-images-regulators-congress"
     },
     {
-      "id": "679",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Falcon-H1R-7B",
-      "mediumTitle": "TII Releases Falcon-H1R-7B",
-      "longTitle": "Abu Dhabi\u0027s TII Launches New Reasoning Model",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The model\u0027s performance is competitive",
-            "with models significantly larger in",
-            "size, ranging from 14 to 47 billion",
-            "parameters.",
-            "Falcon-H1R-7B is a 7 billion parameter",
-            "reasoning model designed for various",
-            "cognitive tasks.",
-            "A key feature of Falcon-H1R-7B is its",
-            "256,000 token context window, allowing",
-            "it to process extensive amounts of text.",
-            "The Technology Innovation Institute",
-            "(TII) in Abu Dhabi is the developer of",
-            "the Falcon-H1R-7B model.",
-            "Benchmarks used to evaluate the model",
-            "included tests in mathematics, coding,",
-            "and general reasoning.",
-            "The release of Falcon-H1R-7B emphasizes",
-            "the creation of efficient models without",
-            "compromising reasoning abilities."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-07T13:12:35.000Z",
-      "ranking": 7.4,
-      "articleUrl": "https://www.marktechpost.com/2026/01/07/tii-abu-dhabi-released-falcon-h1r-7b-a-new-reasoning-model-outperforming-others-in-math-and-coding-with-only-7b-params-with-256k-context-window/"
-    },
-    {
       "id": "683",
       "topic": "Dev Tools",
       "source": "Marktechpost AI",
@@ -146,6 +110,42 @@
       "publishedAt": "2026-01-07T18:30:22.000Z",
       "ranking": 6.853,
       "articleUrl": "https://www.theverge.com/news/858102/characterai-google-teen-suicide-settlement"
+    },
+    {
+      "id": "679",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Falcon-H1R-7B",
+      "mediumTitle": "TII Releases Falcon-H1R-7B",
+      "longTitle": "Abu Dhabi\u0027s TII Launches New Reasoning Model",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The model\u0027s performance is competitive",
+            "with models significantly larger in",
+            "size, ranging from 14 to 47 billion",
+            "parameters.",
+            "Falcon-H1R-7B is a 7 billion parameter",
+            "reasoning model designed for various",
+            "cognitive tasks.",
+            "A key feature of Falcon-H1R-7B is its",
+            "256,000 token context window, allowing",
+            "it to process extensive amounts of text.",
+            "The Technology Innovation Institute",
+            "(TII) in Abu Dhabi is the developer of",
+            "the Falcon-H1R-7B model.",
+            "Benchmarks used to evaluate the model",
+            "included tests in mathematics, coding,",
+            "and general reasoning.",
+            "The release of Falcon-H1R-7B emphasizes",
+            "the creation of efficient models without",
+            "compromising reasoning abilities."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-07T13:12:35.000Z",
+      "ranking": 6.125642931415881,
+      "articleUrl": "https://www.marktechpost.com/2026/01/07/tii-abu-dhabi-released-falcon-h1r-7b-a-new-reasoning-model-outperforming-others-in-math-and-coding-with-only-7b-params-with-256k-context-window/"
     },
     {
       "id": "680",
@@ -252,7 +252,7 @@
         }
       ],
       "publishedAt": "2026-01-07T05:12:58.000Z",
-      "ranking": 4.986934132860275,
+      "ranking": 4.522726882704902,
       "articleUrl": "https://www.marktechpost.com/2026/01/06/nvidia-ai-released-nemotron-speech-asr-a-new-open-source-transcription-model-designed-from-the-ground-up-for-low-latency-use-cases-like-voice-agents/"
     },
     {
@@ -286,7 +286,7 @@
         }
       ],
       "publishedAt": "2026-01-06T16:08:18.000Z",
-      "ranking": 4.611275850039563,
+      "ranking": 3.9634663117635407,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/855832/grok-undressing-children-csam-law-x-elon-musk"
     },
     {
@@ -321,7 +321,7 @@
         }
       ],
       "publishedAt": "2026-01-06T16:07:03.000Z",
-      "ranking": 3.9971743715676618,
+      "ranking": 3.3490723466421253,
       "articleUrl": "https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal"
     },
     {
@@ -358,7 +358,7 @@
         }
       ],
       "publishedAt": "2026-01-06T17:41:06.000Z",
-      "ranking": 3.673160145628938,
+      "ranking": 3.047064655270443,
       "articleUrl": "https://www.marktechpost.com/2026/01/06/liquid-ai-releases-lfm2-5-a-compact-ai-model-family-for-real-on-device-agents/"
     },
     {
@@ -394,7 +394,7 @@
         }
       ],
       "publishedAt": "2026-01-06T10:00:00.000Z",
-      "ranking": 2.5895702220988213,
+      "ranking": 1.8555830404779527,
       "articleUrl": "https://www.theverge.com/tech/854756/razer-concept-ai-wearable-headphones-project-motoko"
     },
     {
@@ -431,7 +431,7 @@
         }
       ],
       "publishedAt": "2026-01-06T10:00:00.000Z",
-      "ranking": 1.6245702164368847,
+      "ranking": 0.890583034391943,
       "articleUrl": "https://www.theverge.com/tech/854705/razer-ai-anime-waifu-hologram-desk"
     },
     {
