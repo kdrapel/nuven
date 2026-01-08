@@ -38,43 +38,6 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/08/stanford-researchers-build-sleepfm-clinical-a-multimodal-sleep-foundation-ai-model-for-130-disease-prediction/"
     },
     {
-      "id": "683",
-      "topic": "Dev Tools",
-      "source": "Marktechpost AI",
-      "shortTitle": "Beam Pipeline",
-      "mediumTitle": "Unified Batch \u0026 Stream",
-      "longTitle": "Apache Beam: Batch \u0026 Stream Processing",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This tutorial demonstrates building a",
-            "unified Apache Beam pipeline capable of",
-            "handling both batch and stream",
-            "processing using the DirectRunner.",
-            "Minimal code changes are required to",
-            "switch between batch and stream",
-            "processing.",
-            "The core functionality showcases Apache",
-            "Beam\u0027s ability to operate in both batch",
-            "and stream modes.",
-            "Specifically, the mode switch is",
-            "achieved by adjusting only a single",
-            "parameter within the pipeline",
-            "configuration.",
-            "The article provides a coding",
-            "implementation to illustrate the unified",
-            "approach in practice.",
-            "The pipeline consistently manages both",
-            "punctual and delayed events, ensuring",
-            "data accuracy."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-07T22:08:53.000Z",
-      "ranking": 7.272727272727273,
-      "articleUrl": "https://www.marktechpost.com/2026/01/07/a-coding-implementation-to-build-a-unified-apache-beam-pipeline-demonstrating-batch-and-stream-processing-with-event-time-windowing-using-directrunner/"
-    },
-    {
       "id": "690",
       "topic": "Business",
       "source": "The Verge AI",
@@ -143,81 +106,45 @@
         }
       ],
       "publishedAt": "2026-01-07T17:09:54.000Z",
-      "ranking": 6.5696960276721885,
+      "ranking": 6.164599948334422,
       "articleUrl": "https://www.theverge.com/policy/857924/x-grok-ai-chatbot-bikini-images-regulators-congress"
     },
     {
-      "id": "680",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "NousCoder-14B",
-      "mediumTitle": "Open-Source Coding AI",
-      "longTitle": "Nous Research Releases New AI Model",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The model and training stack are",
-            "available on Hugging Face under an",
-            "Apache 2.0 license.",
-            "The model\u2019s rapid improvement mirrors a",
-            "two-year human learning curve in just",
-            "four days of training.",
-            "The training process utilized 48 of",
-            "Nvidia\u2019s B200 GPUs.",
-            "Despite the rapid progress, humans",
-            "remain more sample-efficient learners.",
-            "The dataset used for training includes a",
-            "significant portion of readily",
-            "available, verifiable competitive",
-            "programming problems.",
-            "Future research will focus on multi-turn",
-            "reinforcement learning and controlling",
-            "response length.",
-            "NousCoder-14B\u2019s release comes as",
-            "Anthropic\u2019s Claude Code gains traction",
-            "as a proprietary AI coding tool."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-07T21:00:00.000Z",
-      "ranking": 6.108333333333333,
-      "articleUrl": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
-    },
-    {
-      "id": "679",
-      "topic": "Large Models",
+      "id": "683",
+      "topic": "Dev Tools",
       "source": "Marktechpost AI",
-      "shortTitle": "Falcon-H1R-7B",
-      "mediumTitle": "TII Releases Falcon-H1R-7B",
-      "longTitle": "Abu Dhabi\u0027s TII Launches New Reasoning Model",
+      "shortTitle": "Beam Pipeline",
+      "mediumTitle": "Unified Batch \u0026 Stream",
+      "longTitle": "Apache Beam: Batch \u0026 Stream Processing",
       "paragraphs": [
         {
           "Lines": [
-            "The model\u0027s performance is competitive",
-            "with models significantly larger in",
-            "size, ranging from 14 to 47 billion",
-            "parameters.",
-            "Falcon-H1R-7B is a 7 billion parameter",
-            "reasoning model designed for various",
-            "cognitive tasks.",
-            "A key feature of Falcon-H1R-7B is its",
-            "256,000 token context window, allowing",
-            "it to process extensive amounts of text.",
-            "The Technology Innovation Institute",
-            "(TII) in Abu Dhabi is the developer of",
-            "the Falcon-H1R-7B model.",
-            "Benchmarks used to evaluate the model",
-            "included tests in mathematics, coding,",
-            "and general reasoning.",
-            "The release of Falcon-H1R-7B emphasizes",
-            "the creation of efficient models without",
-            "compromising reasoning abilities."
+            "This tutorial demonstrates building a",
+            "unified Apache Beam pipeline capable of",
+            "handling both batch and stream",
+            "processing using the DirectRunner.",
+            "Minimal code changes are required to",
+            "switch between batch and stream",
+            "processing.",
+            "The core functionality showcases Apache",
+            "Beam\u0027s ability to operate in both batch",
+            "and stream modes.",
+            "Specifically, the mode switch is",
+            "achieved by adjusting only a single",
+            "parameter within the pipeline",
+            "configuration.",
+            "The article provides a coding",
+            "implementation to illustrate the unified",
+            "approach in practice.",
+            "The pipeline consistently manages both",
+            "punctual and delayed events, ensuring",
+            "data accuracy."
           ]
         }
       ],
-      "publishedAt": "2026-01-07T13:12:35.000Z",
-      "ranking": 5.724792555588062,
-      "articleUrl": "https://www.marktechpost.com/2026/01/07/tii-abu-dhabi-released-falcon-h1r-7b-a-new-reasoning-model-outperforming-others-in-math-and-coding-with-only-7b-params-with-256k-context-window/"
+      "publishedAt": "2026-01-07T22:08:53.000Z",
+      "ranking": 6.0871319634340715,
+      "articleUrl": "https://www.marktechpost.com/2026/01/07/a-coding-implementation-to-build-a-unified-apache-beam-pipeline-demonstrating-batch-and-stream-processing-with-event-time-windowing-using-directrunner/"
     },
     {
       "id": "684",
@@ -253,8 +180,81 @@
         }
       ],
       "publishedAt": "2026-01-07T18:30:22.000Z",
-      "ranking": 5.700350441068575,
+      "ranking": 5.313916255872837,
       "articleUrl": "https://www.theverge.com/news/858102/characterai-google-teen-suicide-settlement"
+    },
+    {
+      "id": "679",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Falcon-H1R-7B",
+      "mediumTitle": "TII Releases Falcon-H1R-7B",
+      "longTitle": "Abu Dhabi\u0027s TII Launches New Reasoning Model",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The model\u0027s performance is competitive",
+            "with models significantly larger in",
+            "size, ranging from 14 to 47 billion",
+            "parameters.",
+            "Falcon-H1R-7B is a 7 billion parameter",
+            "reasoning model designed for various",
+            "cognitive tasks.",
+            "A key feature of Falcon-H1R-7B is its",
+            "256,000 token context window, allowing",
+            "it to process extensive amounts of text.",
+            "The Technology Innovation Institute",
+            "(TII) in Abu Dhabi is the developer of",
+            "the Falcon-H1R-7B model.",
+            "Benchmarks used to evaluate the model",
+            "included tests in mathematics, coding,",
+            "and general reasoning.",
+            "The release of Falcon-H1R-7B emphasizes",
+            "the creation of efficient models without",
+            "compromising reasoning abilities."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-07T13:12:35.000Z",
+      "ranking": 5.264657805737354,
+      "articleUrl": "https://www.marktechpost.com/2026/01/07/tii-abu-dhabi-released-falcon-h1r-7b-a-new-reasoning-model-outperforming-others-in-math-and-coding-with-only-7b-params-with-256k-context-window/"
+    },
+    {
+      "id": "680",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "NousCoder-14B",
+      "mediumTitle": "Open-Source Coding AI",
+      "longTitle": "Nous Research Releases New AI Model",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The model and training stack are",
+            "available on Hugging Face under an",
+            "Apache 2.0 license.",
+            "The model\u2019s rapid improvement mirrors a",
+            "two-year human learning curve in just",
+            "four days of training.",
+            "The training process utilized 48 of",
+            "Nvidia\u2019s B200 GPUs.",
+            "Despite the rapid progress, humans",
+            "remain more sample-efficient learners.",
+            "The dataset used for training includes a",
+            "significant portion of readily",
+            "available, verifiable competitive",
+            "programming problems.",
+            "Future research will focus on multi-turn",
+            "reinforcement learning and controlling",
+            "response length.",
+            "NousCoder-14B\u2019s release comes as",
+            "Anthropic\u2019s Claude Code gains traction",
+            "as a proprietary AI coding tool."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-07T21:00:00.000Z",
+      "ranking": 4.816278030967619,
+      "articleUrl": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
     },
     {
       "id": "686",
@@ -288,7 +288,7 @@
         }
       ],
       "publishedAt": "2026-01-07T20:00:00.000Z",
-      "ranking": 4.497130759595942,
+      "ranking": 4.1314843378554045,
       "articleUrl": "https://www.theverge.com/transportation/857400/ford-ai-assistant-level-3-automation-ces-2026"
     },
     {
@@ -324,7 +324,7 @@
         }
       ],
       "publishedAt": "2026-01-07T05:12:58.000Z",
-      "ranking": 4.011681992625006,
+      "ranking": 3.4403141027874145,
       "articleUrl": "https://www.marktechpost.com/2026/01/06/nvidia-ai-released-nemotron-speech-asr-a-new-open-source-transcription-model-designed-from-the-ground-up-for-low-latency-use-cases-like-voice-agents/"
     },
     {
@@ -358,7 +358,7 @@
         }
       ],
       "publishedAt": "2026-01-06T16:08:18.000Z",
-      "ranking": 3.272140111339195,
+      "ranking": 2.518791716829531,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/855832/grok-undressing-children-csam-law-x-elon-musk"
     },
     {
@@ -393,7 +393,7 @@
         }
       ],
       "publishedAt": "2026-01-06T16:07:03.000Z",
-      "ranking": 2.657458951076296,
+      "ranking": 1.9038206570207077,
       "articleUrl": "https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal"
     },
     {
@@ -430,7 +430,7 @@
         }
       ],
       "publishedAt": "2026-01-06T17:41:06.000Z",
-      "ranking": 2.3770597428473446,
+      "ranking": 1.6452335979795407,
       "articleUrl": "https://www.marktechpost.com/2026/01/06/liquid-ai-releases-lfm2-5-a-compact-ai-model-family-for-real-on-device-agents/"
     },
     {
@@ -466,7 +466,7 @@
         }
       ],
       "publishedAt": "2026-01-06T10:00:00.000Z",
-      "ranking": 1.079637967421851,
+      "ranking": 0.24087315064041714,
       "articleUrl": "https://www.theverge.com/tech/854756/razer-concept-ai-wearable-headphones-project-motoko"
     },
     {
@@ -503,7 +503,7 @@
         }
       ],
       "publishedAt": "2026-01-06T10:00:00.000Z",
-      "ranking": 0.11463795845160618,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/854705/razer-ai-anime-waifu-hologram-desk"
     },
     {
