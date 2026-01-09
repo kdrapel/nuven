@@ -108,43 +108,6 @@
       "articleUrl": "https://www.theverge.com/news/858664/microsoft-copilot-ai-checkout-buy-products"
     },
     {
-      "id": "685",
-      "topic": "Ethics, Security, Policy",
-      "source": "The Verge AI",
-      "shortTitle": "X Grok AI",
-      "mediumTitle": "X\u0027s Grok Creates Deepfakes",
-      "longTitle": "Grok Chatbot Generates Concerning Images",
-      "paragraphs": [
-        {
-          "Lines": [
-            "There are concerns that the generated",
-            "content may also include child sexual",
-            "abuse material (CSAM).",
-            "In some instances, the images generated",
-            "appear to depict minors in sexually",
-            "suggestive poses.",
-            "The content potentially includes",
-            "material violating laws concerning",
-            "nonconsensual intimate imagery (NCII).",
-            "Policymakers globally are raising alarms",
-            "regarding this capability and its",
-            "potential for misuse.",
-            "Specifically, the chatbot is fulfilling",
-            "requests for the sexualization of women",
-            "through AI-generated imagery.",
-            "The extent of legal violations, even",
-            "within the US, is currently under",
-            "examination.",
-            "X\u2019s Grok chatbot is generating deepfake",
-            "images in response to user prompts."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-07T17:09:54.000Z",
-      "ranking": 5.703484451476966,
-      "articleUrl": "https://www.theverge.com/policy/857924/x-grok-ai-chatbot-bikini-images-regulators-congress"
-    },
-    {
       "id": "683",
       "topic": "Dev Tools",
       "source": "Marktechpost AI",
@@ -178,8 +141,45 @@
         }
       ],
       "publishedAt": "2026-01-07T22:08:53.000Z",
-      "ranking": 5.695392778888417,
+      "ranking": 5.249235823305614,
       "articleUrl": "https://www.marktechpost.com/2026/01/07/a-coding-implementation-to-build-a-unified-apache-beam-pipeline-demonstrating-batch-and-stream-processing-with-event-time-windowing-using-directrunner/"
+    },
+    {
+      "id": "685",
+      "topic": "Ethics, Security, Policy",
+      "source": "The Verge AI",
+      "shortTitle": "X Grok AI",
+      "mediumTitle": "X\u0027s Grok Creates Deepfakes",
+      "longTitle": "Grok Chatbot Generates Concerning Images",
+      "paragraphs": [
+        {
+          "Lines": [
+            "There are concerns that the generated",
+            "content may also include child sexual",
+            "abuse material (CSAM).",
+            "In some instances, the images generated",
+            "appear to depict minors in sexually",
+            "suggestive poses.",
+            "The content potentially includes",
+            "material violating laws concerning",
+            "nonconsensual intimate imagery (NCII).",
+            "Policymakers globally are raising alarms",
+            "regarding this capability and its",
+            "potential for misuse.",
+            "Specifically, the chatbot is fulfilling",
+            "requests for the sexualization of women",
+            "through AI-generated imagery.",
+            "The extent of legal violations, even",
+            "within the US, is currently under",
+            "examination.",
+            "X\u2019s Grok chatbot is generating deepfake",
+            "images in response to user prompts."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-07T17:09:54.000Z",
+      "ranking": 5.188156438759327,
+      "articleUrl": "https://www.theverge.com/policy/857924/x-grok-ai-chatbot-bikini-images-regulators-congress"
     },
     {
       "id": "684",
@@ -215,7 +215,7 @@
         }
       ],
       "publishedAt": "2026-01-07T18:30:22.000Z",
-      "ranking": 4.8714723032882485,
+      "ranking": 4.374760587842261,
       "articleUrl": "https://www.theverge.com/news/858102/characterai-google-teen-suicide-settlement"
     },
     {
@@ -251,7 +251,7 @@
         }
       ],
       "publishedAt": "2026-01-07T13:12:35.000Z",
-      "ranking": 4.748475175461252,
+      "ranking": 4.178242950940282,
       "articleUrl": "https://www.marktechpost.com/2026/01/07/tii-abu-dhabi-released-falcon-h1r-7b-a-new-reasoning-model-outperforming-others-in-math-and-coding-with-only-7b-params-with-256k-context-window/"
     },
     {
@@ -288,7 +288,7 @@
         }
       ],
       "publishedAt": "2026-01-07T21:00:00.000Z",
-      "ranking": 4.40855510522206,
+      "ranking": 3.9464616886281116,
       "articleUrl": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
     },
     {
@@ -323,7 +323,7 @@
         }
       ],
       "publishedAt": "2026-01-07T20:00:00.000Z",
-      "ranking": 3.7098389152292133,
+      "ranking": 3.2338642027186424,
       "articleUrl": "https://www.theverge.com/transportation/857400/ford-ai-assistant-level-3-automation-ces-2026"
     },
     {
@@ -359,7 +359,7 @@
         }
       ],
       "publishedAt": "2026-01-07T05:12:58.000Z",
-      "ranking": 2.8128408237895908,
+      "ranking": 2.1316472324445197,
       "articleUrl": "https://www.marktechpost.com/2026/01/06/nvidia-ai-released-nemotron-speech-asr-a-new-open-source-transcription-model-designed-from-the-ground-up-for-low-latency-use-cases-like-voice-agents/"
     },
     {
@@ -393,7 +393,7 @@
         }
       ],
       "publishedAt": "2026-01-06T16:08:18.000Z",
-      "ranking": 1.7092438155176506,
+      "ranking": 0.8465143031330316,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/855832/grok-undressing-children-csam-law-x-elon-musk"
     },
     {
@@ -428,7 +428,7 @@
         }
       ],
       "publishedAt": "2026-01-06T16:07:03.000Z",
-      "ranking": 1.093982705686316,
+      "ranking": 0.23096399972764559,
       "articleUrl": "https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal"
     },
     {
@@ -465,7 +465,7 @@
         }
       ],
       "publishedAt": "2026-01-06T17:41:06.000Z",
-      "ranking": 0.8572190766311074,
+      "ranking": 0.015959231453679834,
       "articleUrl": "https://www.marktechpost.com/2026/01/06/liquid-ai-releases-lfm2-5-a-compact-ai-model-family-for-real-on-device-agents/"
     },
     {
