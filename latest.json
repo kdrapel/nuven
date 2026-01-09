@@ -1,43 +1,6 @@
 {
   "articles": [
     {
-      "id": "692",
-      "topic": "Health, Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Sleep AI",
-      "mediumTitle": "AI Predicts Disease From Sleep",
-      "longTitle": "Stanford AI Model Forecasts Health Risks",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Stanford Medicine researchers have",
-            "developed SleepFM Clinical, a new",
-            "multimodal AI foundation model focused",
-            "on sleep analysis and disease",
-            "prediction.",
-            "The model utilizes clinical",
-            "polysomnography data \u2013 comprehensive",
-            "sleep studies \u2013 to predict the risk of",
-            "developing over 130 different diseases",
-            "based on a single night\u2019s sleep data.",
-            "This allows the model to forecast",
-            "long-term disease risks with increased",
-            "accuracy.",
-            "The core capability of SleepFM Clinical",
-            "lies in its ability to learn from the",
-            "complex data captured during",
-            "polysomnography.",
-            "This represents a significant step",
-            "towards leveraging sleep data for",
-            "proactive healthcare."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-08T16:22:38.000Z",
-      "ranking": 7.584999999999999,
-      "articleUrl": "https://www.marktechpost.com/2026/01/08/stanford-researchers-build-sleepfm-clinical-a-multimodal-sleep-foundation-ai-model-for-130-disease-prediction/"
-    },
-    {
       "id": "695",
       "topic": "News",
       "source": "Marktechpost AI",
@@ -112,6 +75,153 @@
       "articleUrl": "https://www.theverge.com/news/859309/grok-undressing-limit-access-gaslighting"
     },
     {
+      "id": "696",
+      "topic": "Energy",
+      "source": "The Verge AI",
+      "shortTitle": "Meta \u0026 Nuclear",
+      "mediumTitle": "Meta Powers AI with Nuclear",
+      "longTitle": "Meta Invests in Nuclear Energy for AI Data Centers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta is actively expanding its reliance",
+            "on nuclear power to meet the substantial",
+            "energy demands of its growing artificial",
+            "intelligence (AI) data center",
+            "infrastructure.",
+            "The company has entered into agreements",
+            "with three nuclear power providers:",
+            "TerraPower, Oklo, and Vistra.",
+            "The partnerships represent a significant",
+            "step towards powering Meta\u2019s data",
+            "centers with carbon-free energy.",
+            "This move addresses the increasing",
+            "energy consumption associated with AI",
+            "development and deployment.",
+            "The agreements collectively aim to",
+            "provide Meta with 6.6 gigawatts of",
+            "energy.",
+            "TerraPower, a company supported by Bill",
+            "Gates, is a key partner in this",
+            "initiative."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-09T14:53:21.000Z",
+      "ranking": 7.279999999999999,
+      "articleUrl": "https://www.theverge.com/news/859751/meta-nuclear-energy-plant-agreements-ai-data-centers"
+    },
+    {
+      "id": "699",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "AI Engineer",
+      "mediumTitle": "Meta \u0026 Harvard Release CCA",
+      "longTitle": "New Open-Source AI Software Engineer Released",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta and Harvard researchers have",
+            "jointly developed and released the",
+            "Confucius Code Agent (CCA), an",
+            "open-source AI software engineer.",
+            "The CCA is built upon the Confucius SDK,",
+            "providing a foundation for its",
+            "functionality.",
+            "This AI is specifically designed to",
+            "function effectively within large-scale",
+            "software repositories.",
+            "CCA is intended to handle extended",
+            "software engineering tasks, suggesting a",
+            "broad range of applications.",
+            "The research focuses on maximizing the",
+            "potential of mid-sized language models,",
+            "a cost-effective approach.",
+            "Innovation is concentrated on the",
+            "agent\u0027s framework, often called a",
+            "\u0027scaffold\u0027."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-09T16:47:26.000Z",
+      "ranking": 6.879166666666666,
+      "articleUrl": "https://www.marktechpost.com/2026/01/09/meta-and-harvard-researchers-introduce-the-confucius-code-agent-cca-a-software-engineering-agent-that-can-operate-at-large-scale-codebases/"
+    },
+    {
+      "id": "697",
+      "topic": "Gaming",
+      "source": "The Verge AI",
+      "shortTitle": "BG3 \u0026 AI",
+      "mediumTitle": "Larian Rejects AI Art",
+      "longTitle": "Baldur\u0027s Gate 3 Devs Oppose AI in Core Roles",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Vincke specifically stated that",
+            "AI-generated art would not be",
+            "incorporated into their projects.",
+            "The studio believes that AI is",
+            "unsuitable for the nuanced and original",
+            "work required for concept art and",
+            "narrative development.",
+            "Larian Studios, the developer of",
+            "*Baldur\u0027s Gate 3*, has publicly stated",
+            "its firm stance against utilizing",
+            "generative AI for core creative tasks.",
+            "The studio views human creativity and",
+            "artistic vision as fundamentally",
+            "important.",
+            "The developers were emphatic about",
+            "protecting the roles of human artists",
+            "and writers.",
+            "Recent discussions and reports regarding",
+            "the studio\u2019s AI usage prompted the",
+            "Reddit AMA session."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-09T13:20:15.000Z",
+      "ranking": 6.445454545454544,
+      "articleUrl": "https://www.theverge.com/games/859551/baldurs-gate-3-larian-studios-gen-ai-concept-art-reddit-ama"
+    },
+    {
+      "id": "692",
+      "topic": "Health, Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Sleep AI",
+      "mediumTitle": "AI Predicts Disease From Sleep",
+      "longTitle": "Stanford AI Model Forecasts Health Risks",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Stanford Medicine researchers have",
+            "developed SleepFM Clinical, a new",
+            "multimodal AI foundation model focused",
+            "on sleep analysis and disease",
+            "prediction.",
+            "The model utilizes clinical",
+            "polysomnography data \u2013 comprehensive",
+            "sleep studies \u2013 to predict the risk of",
+            "developing over 130 different diseases",
+            "based on a single night\u2019s sleep data.",
+            "This allows the model to forecast",
+            "long-term disease risks with increased",
+            "accuracy.",
+            "The core capability of SleepFM Clinical",
+            "lies in its ability to learn from the",
+            "complex data captured during",
+            "polysomnography.",
+            "This represents a significant step",
+            "towards leveraging sleep data for",
+            "proactive healthcare."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-08T16:22:38.000Z",
+      "ranking": 6.22811589557,
+      "articleUrl": "https://www.marktechpost.com/2026/01/08/stanford-researchers-build-sleepfm-clinical-a-multimodal-sleep-foundation-ai-model-for-130-disease-prediction/"
+    },
+    {
       "id": "693",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -143,7 +253,7 @@
         }
       ],
       "publishedAt": "2026-01-08T19:23:00.000Z",
-      "ranking": 7.27,
+      "ranking": 6.189233804128382,
       "articleUrl": "https://www.theverge.com/news/859107/uk-prime-minister-x-ai-grok-deepfakes"
     },
     {
@@ -178,7 +288,7 @@
         }
       ],
       "publishedAt": "2026-01-08T13:04:19.000Z",
-      "ranking": 5.554816147100159,
+      "ranking": 5.143302032207893,
       "articleUrl": "https://www.theverge.com/news/858664/microsoft-copilot-ai-checkout-buy-products"
     },
     {
@@ -215,7 +325,7 @@
         }
       ],
       "publishedAt": "2026-01-07T22:08:53.000Z",
-      "ranking": 4.19098844814154,
+      "ranking": 3.569403063546773,
       "articleUrl": "https://www.marktechpost.com/2026/01/07/a-coding-implementation-to-build-a-unified-apache-beam-pipeline-demonstrating-batch-and-stream-processing-with-event-time-windowing-using-directrunner/"
     },
     {
@@ -252,7 +362,7 @@
         }
       ],
       "publishedAt": "2026-01-07T17:09:54.000Z",
-      "ranking": 3.9916320109414745,
+      "ranking": 3.2999042480656344,
       "articleUrl": "https://www.theverge.com/policy/857924/x-grok-ai-chatbot-bikini-images-regulators-congress"
     },
     {
@@ -289,44 +399,8 @@
         }
       ],
       "publishedAt": "2026-01-07T18:30:22.000Z",
-      "ranking": 3.2154512625934104,
+      "ranking": 2.5426012100984385,
       "articleUrl": "https://www.theverge.com/news/858102/characterai-google-teen-suicide-settlement"
-    },
-    {
-      "id": "679",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Falcon-H1R-7B",
-      "mediumTitle": "TII Releases Falcon-H1R-7B",
-      "longTitle": "Abu Dhabi\u0027s TII Launches New Reasoning Model",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The model\u0027s performance is competitive",
-            "with models significantly larger in",
-            "size, ranging from 14 to 47 billion",
-            "parameters.",
-            "Falcon-H1R-7B is a 7 billion parameter",
-            "reasoning model designed for various",
-            "cognitive tasks.",
-            "A key feature of Falcon-H1R-7B is its",
-            "256,000 token context window, allowing",
-            "it to process extensive amounts of text.",
-            "The Technology Innovation Institute",
-            "(TII) in Abu Dhabi is the developer of",
-            "the Falcon-H1R-7B model.",
-            "Benchmarks used to evaluate the model",
-            "included tests in mathematics, coding,",
-            "and general reasoning.",
-            "The release of Falcon-H1R-7B emphasizes",
-            "the creation of efficient models without",
-            "compromising reasoning abilities."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-07T13:12:35.000Z",
-      "ranking": 2.8719617463822704,
-      "articleUrl": "https://www.marktechpost.com/2026/01/07/tii-abu-dhabi-released-falcon-h1r-7b-a-new-reasoning-model-outperforming-others-in-math-and-coding-with-only-7b-params-with-256k-context-window/"
     },
     {
       "id": "680",
@@ -362,8 +436,44 @@
         }
       ],
       "publishedAt": "2026-01-07T21:00:00.000Z",
-      "ranking": 2.8563564071542973,
+      "ranking": 2.218610775283353,
       "articleUrl": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
+    },
+    {
+      "id": "679",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Falcon-H1R-7B",
+      "mediumTitle": "TII Releases Falcon-H1R-7B",
+      "longTitle": "Abu Dhabi\u0027s TII Launches New Reasoning Model",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The model\u0027s performance is competitive",
+            "with models significantly larger in",
+            "size, ranging from 14 to 47 billion",
+            "parameters.",
+            "Falcon-H1R-7B is a 7 billion parameter",
+            "reasoning model designed for various",
+            "cognitive tasks.",
+            "A key feature of Falcon-H1R-7B is its",
+            "256,000 token context window, allowing",
+            "it to process extensive amounts of text.",
+            "The Technology Innovation Institute",
+            "(TII) in Abu Dhabi is the developer of",
+            "the Falcon-H1R-7B model.",
+            "Benchmarks used to evaluate the model",
+            "included tests in mathematics, coding,",
+            "and general reasoning.",
+            "The release of Falcon-H1R-7B emphasizes",
+            "the creation of efficient models without",
+            "compromising reasoning abilities."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-07T13:12:35.000Z",
+      "ranking": 2.124558787299784,
+      "articleUrl": "https://www.marktechpost.com/2026/01/07/tii-abu-dhabi-released-falcon-h1r-7b-a-new-reasoning-model-outperforming-others-in-math-and-coding-with-only-7b-params-with-256k-context-window/"
     },
     {
       "id": "686",
@@ -397,7 +507,7 @@
         }
       ],
       "publishedAt": "2026-01-07T20:00:00.000Z",
-      "ranking": 2.116009333928425,
+      "ranking": 1.4641881506767707,
       "articleUrl": "https://www.theverge.com/transportation/857400/ford-ai-assistant-level-3-automation-ces-2026"
     },
     {
@@ -433,7 +543,7 @@
         }
       ],
       "publishedAt": "2026-01-07T05:12:58.000Z",
-      "ranking": 0.6035475649977613,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/06/nvidia-ai-released-nemotron-speech-asr-a-new-open-source-transcription-model-designed-from-the-ground-up-for-low-latency-use-cases-like-voice-agents/"
     },
     {
@@ -867,43 +977,6 @@
       "publishedAt": "2026-01-04T04:03:22.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/03/deepseek-researchers-apply-a-1967-matrix-normalization-algorithm-to-fix-instability-in-hyper-connections/"
-    },
-    {
-      "id": "646",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "HY-Motion 1.0",
-      "mediumTitle": "Tencent Releases 3D Motion AI",
-      "longTitle": "Tencent\u0027s HY-Motion 1.0 Generates 3D Human Motion",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Users can input natural language prompts",
-            "to guide the motion generation process.",
-            "The output motions are formatted for a",
-            "unified SMPL-H skeleton, ensuring",
-            "compatibility with various 3D",
-            "applications.",
-            "The specified duration allows for",
-            "control over the length of the generated",
-            "motion clip.",
-            "The foundation of HY-Motion 1.0 is the",
-            "Diffusion Transformer (DiT)",
-            "architecture, known for its",
-            "effectiveness in generative tasks.",
-            "Flow Matching techniques are also",
-            "integrated into the motion domain,",
-            "enhancing the quality and realism of the",
-            "generated motions.",
-            "Tencent\u0027s Hunyuan\u2019s 3D Digital Human",
-            "team is responsible for the development",
-            "and release of HY-Motion 1.0."
-          ]
-        }
-      ],
-      "publishedAt": "2025-12-31T11:00:52.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2025/12/31/tencent-released-tencent-hy-motion-1-0-a-billion-parameter-text-to-motion-model-built-on-the-diffusion-transformer-dit-architecture-and-flow-matching/"
     }
   ]
 }
