@@ -253,7 +253,7 @@
         }
       ],
       "publishedAt": "2026-01-08T19:23:00.000Z",
-      "ranking": 5.388538018148283,
+      "ranking": 4.907428650072496,
       "articleUrl": "https://www.theverge.com/news/859107/uk-prime-minister-x-ai-grok-deepfakes"
     },
     {
@@ -290,7 +290,7 @@
         }
       ],
       "publishedAt": "2026-01-08T16:22:38.000Z",
-      "ranking": 5.344234772962556,
+      "ranking": 4.82169070234124,
       "articleUrl": "https://www.marktechpost.com/2026/01/08/stanford-researchers-build-sleepfm-clinical-a-multimodal-sleep-foundation-ai-model-for-130-disease-prediction/"
     },
     {
@@ -325,7 +325,7 @@
         }
       ],
       "publishedAt": "2026-01-08T13:04:19.000Z",
-      "ranking": 4.167957020182225,
+      "ranking": 3.599854686091539,
       "articleUrl": "https://www.theverge.com/news/858664/microsoft-copilot-ai-checkout-buy-products"
     },
     {
@@ -362,7 +362,7 @@
         }
       ],
       "publishedAt": "2026-01-07T22:08:53.000Z",
-      "ranking": 2.1810830893103095,
+      "ranking": 1.4072774831731492,
       "articleUrl": "https://www.marktechpost.com/2026/01/07/a-coding-implementation-to-build-a-unified-apache-beam-pipeline-demonstrating-batch-and-stream-processing-with-event-time-windowing-using-directrunner/"
     },
     {
@@ -399,7 +399,7 @@
         }
       ],
       "publishedAt": "2026-01-07T17:09:54.000Z",
-      "ranking": 1.7736928063577997,
+      "ranking": 0.9312033039082905,
       "articleUrl": "https://www.theverge.com/policy/857924/x-grok-ai-chatbot-bikini-images-regulators-congress"
     },
     {
@@ -436,7 +436,7 @@
         }
       ],
       "publishedAt": "2026-01-07T18:30:22.000Z",
-      "ranking": 1.053501098620032,
+      "ranking": 0.22949678699263298,
       "articleUrl": "https://www.theverge.com/news/858102/characterai-google-teen-suicide-settlement"
     },
     {
@@ -473,8 +473,43 @@
         }
       ],
       "publishedAt": "2026-01-07T21:00:00.000Z",
-      "ranking": 0.7985217420995863,
+      "ranking": 0.008891921636662303,
       "articleUrl": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
+    },
+    {
+      "id": "686",
+      "topic": "Robotics, NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Ford AI \u0026 Autonomy",
+      "mediumTitle": "Ford Announces AI \u0026 L3 Driving",
+      "longTitle": "Ford Details AI Voice Assistant \u0026 2028 Autonomy Plans",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Level 3 autonomy allows for conditional",
+            "automation, where the vehicle can handle",
+            "most driving tasks but requires driver",
+            "intervention in certain situations.",
+            "The UEV platform is expected to be a key",
+            "component of Ford\u2019s future electric",
+            "vehicle strategy.",
+            "Ford aims to balance cost-effectiveness",
+            "with profitability in the development of",
+            "the UEV platform.",
+            "The 2028 timeframe suggests significant",
+            "development and testing are still",
+            "required for the autonomous driving",
+            "feature.",
+            "Ford made these announcements at the",
+            "Consumer Electronics Show (CES).",
+            "The article focuses solely on these two",
+            "key announcements from Ford."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-07T20:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/transportation/857400/ford-ai-assistant-level-3-automation-ces-2026"
     },
     {
       "id": "679",
@@ -509,43 +544,8 @@
         }
       ],
       "publishedAt": "2026-01-07T13:12:35.000Z",
-      "ranking": 0.4888966125659664,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/07/tii-abu-dhabi-released-falcon-h1r-7b-a-new-reasoning-model-outperforming-others-in-math-and-coding-with-only-7b-params-with-256k-context-window/"
-    },
-    {
-      "id": "686",
-      "topic": "Robotics, NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Ford AI \u0026 Autonomy",
-      "mediumTitle": "Ford Announces AI \u0026 L3 Driving",
-      "longTitle": "Ford Details AI Voice Assistant \u0026 2028 Autonomy Plans",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Level 3 autonomy allows for conditional",
-            "automation, where the vehicle can handle",
-            "most driving tasks but requires driver",
-            "intervention in certain situations.",
-            "The UEV platform is expected to be a key",
-            "component of Ford\u2019s future electric",
-            "vehicle strategy.",
-            "Ford aims to balance cost-effectiveness",
-            "with profitability in the development of",
-            "the UEV platform.",
-            "The 2028 timeframe suggests significant",
-            "development and testing are still",
-            "required for the autonomous driving",
-            "feature.",
-            "Ford made these announcements at the",
-            "Consumer Electronics Show (CES).",
-            "The article focuses solely on these two",
-            "key announcements from Ford."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-07T20:00:00.000Z",
-      "ranking": 0.01642626190004215,
-      "articleUrl": "https://www.theverge.com/transportation/857400/ford-ai-assistant-level-3-automation-ces-2026"
     },
     {
       "id": "678",
