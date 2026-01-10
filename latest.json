@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "id": "699",
-      "topic": "Dev Tools",
-      "source": "Marktechpost AI",
-      "shortTitle": "AI Engineer",
-      "mediumTitle": "Meta \u0026 Harvard Release CCA",
-      "longTitle": "New Open-Source AI Software Engineer Released",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta and Harvard researchers have",
-            "jointly developed and released the",
-            "Confucius Code Agent (CCA), an",
-            "open-source AI software engineer.",
-            "The CCA is built upon the Confucius SDK,",
-            "providing a foundation for its",
-            "functionality.",
-            "This AI is specifically designed to",
-            "function effectively within large-scale",
-            "software repositories.",
-            "CCA is intended to handle extended",
-            "software engineering tasks, suggesting a",
-            "broad range of applications.",
-            "The research focuses on maximizing the",
-            "potential of mid-sized language models,",
-            "a cost-effective approach.",
-            "Innovation is concentrated on the",
-            "agent\u0027s framework, often called a",
-            "\u0027scaffold\u0027."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-09T16:47:26.000Z",
-      "ranking": 6.879166666666666,
-      "articleUrl": "https://www.marktechpost.com/2026/01/09/meta-and-harvard-researchers-introduce-the-confucius-code-agent-cca-a-software-engineering-agent-that-can-operate-at-large-scale-codebases/"
-    },
-    {
       "id": "695",
       "topic": "News",
       "source": "Marktechpost AI",
@@ -70,7 +34,7 @@
         }
       ],
       "publishedAt": "2026-01-09T15:50:15.000Z",
-      "ranking": 6.535846627172976,
+      "ranking": 6.167923090092566,
       "articleUrl": "https://www.marktechpost.com/2026/01/09/how-to-build-portable-in-database-feature-engineering-pipelines-with-ibis-using-lazy-python-apis-and-duckdb-execution/"
     },
     {
@@ -107,7 +71,7 @@
         }
       ],
       "publishedAt": "2026-01-09T14:53:21.000Z",
-      "ranking": 6.158725246492322,
+      "ranking": 5.777618307448832,
       "articleUrl": "https://www.theverge.com/news/859751/meta-nuclear-energy-plant-agreements-ai-data-centers"
     },
     {
@@ -144,8 +108,44 @@
         }
       ],
       "publishedAt": "2026-01-09T15:13:32.000Z",
-      "ranking": 6.1491214700649515,
+      "ranking": 5.772690728572612,
       "articleUrl": "https://www.theverge.com/news/859715/x-grok-ai-deepfakes"
+    },
+    {
+      "id": "699",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "AI Engineer",
+      "mediumTitle": "Meta \u0026 Harvard Release CCA",
+      "longTitle": "New Open-Source AI Software Engineer Released",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta and Harvard researchers have",
+            "jointly developed and released the",
+            "Confucius Code Agent (CCA), an",
+            "open-source AI software engineer.",
+            "The CCA is built upon the Confucius SDK,",
+            "providing a foundation for its",
+            "functionality.",
+            "This AI is specifically designed to",
+            "function effectively within large-scale",
+            "software repositories.",
+            "CCA is intended to handle extended",
+            "software engineering tasks, suggesting a",
+            "broad range of applications.",
+            "The research focuses on maximizing the",
+            "potential of mid-sized language models,",
+            "a cost-effective approach.",
+            "Innovation is concentrated on the",
+            "agent\u0027s framework, often called a",
+            "\u0027scaffold\u0027."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-09T16:47:26.000Z",
+      "ranking": 5.564722128168941,
+      "articleUrl": "https://www.marktechpost.com/2026/01/09/meta-and-harvard-researchers-introduce-the-confucius-code-agent-cca-a-software-engineering-agent-that-can-operate-at-large-scale-codebases/"
     },
     {
       "id": "694",
@@ -181,7 +181,7 @@
         }
       ],
       "publishedAt": "2026-01-09T09:09:54.000Z",
-      "ranking": 5.8417284212111245,
+      "ranking": 5.381048784427261,
       "articleUrl": "https://www.theverge.com/news/859309/grok-undressing-limit-access-gaslighting"
     },
     {
@@ -218,7 +218,7 @@
         }
       ],
       "publishedAt": "2026-01-09T13:20:15.000Z",
-      "ranking": 5.183077809656924,
+      "ranking": 4.780400857634151,
       "articleUrl": "https://www.theverge.com/games/859551/baldurs-gate-3-larian-studios-gen-ai-concept-art-reddit-ama"
     },
     {
@@ -253,7 +253,7 @@
         }
       ],
       "publishedAt": "2026-01-08T19:23:00.000Z",
-      "ranking": 3.766942453792676,
+      "ranking": 3.1146813478581024,
       "articleUrl": "https://www.theverge.com/news/859107/uk-prime-minister-x-ai-grok-deepfakes"
     },
     {
@@ -290,7 +290,7 @@
         }
       ],
       "publishedAt": "2026-01-08T16:22:38.000Z",
-      "ranking": 3.5973891499250024,
+      "ranking": 2.9033395474339008,
       "articleUrl": "https://www.marktechpost.com/2026/01/08/stanford-researchers-build-sleepfm-clinical-a-multimodal-sleep-foundation-ai-model-for-130-disease-prediction/"
     },
     {
@@ -325,7 +325,7 @@
         }
       ],
       "publishedAt": "2026-01-08T13:04:19.000Z",
-      "ranking": 2.283396519455433,
+      "ranking": 1.543399646798731,
       "articleUrl": "https://www.theverge.com/news/858664/microsoft-copilot-ai-checkout-buy-products"
     },
     {
@@ -690,42 +690,6 @@
       "articleUrl": "https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal"
     },
     {
-      "id": "666",
-      "topic": "Robotics",
-      "source": "The Verge AI",
-      "shortTitle": "Razer AI Wearable",
-      "mediumTitle": "Razer Project Motoko",
-      "longTitle": "Razer Unveils AI-Powered Headset Concept",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Razer unveiled a concept AI wearable,",
-            "currently known as Project Motoko, at",
-            "CES.",
-            "A key feature of Project Motoko is the",
-            "integration of two camera lenses",
-            "directly into the ear cups.",
-            "These cameras provide a first-person",
-            "view perspective.",
-            "The core functionality revolves around",
-            "these dual, eye-level cameras capturing",
-            "the user\u2019s point of view.",
-            "The device takes the form of wireless",
-            "headphones, closely resembling Razer\u2019s",
-            "Barracuda gaming headset line.",
-            "The device is powered by a Qualcomm",
-            "Snapdragon chip, though the specific",
-            "model hasn\u2019t been disclosed.",
-            "The use of AI suggests potential",
-            "applications beyond simple recording."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-06T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/854756/razer-concept-ai-wearable-headphones-project-motoko"
-    },
-    {
       "id": "665",
       "topic": "Gaming, Art",
       "source": "The Verge AI",
@@ -761,6 +725,42 @@
       "publishedAt": "2026-01-06T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/854705/razer-ai-anime-waifu-hologram-desk"
+    },
+    {
+      "id": "666",
+      "topic": "Robotics",
+      "source": "The Verge AI",
+      "shortTitle": "Razer AI Wearable",
+      "mediumTitle": "Razer Project Motoko",
+      "longTitle": "Razer Unveils AI-Powered Headset Concept",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Razer unveiled a concept AI wearable,",
+            "currently known as Project Motoko, at",
+            "CES.",
+            "A key feature of Project Motoko is the",
+            "integration of two camera lenses",
+            "directly into the ear cups.",
+            "These cameras provide a first-person",
+            "view perspective.",
+            "The core functionality revolves around",
+            "these dual, eye-level cameras capturing",
+            "the user\u2019s point of view.",
+            "The device takes the form of wireless",
+            "headphones, closely resembling Razer\u2019s",
+            "Barracuda gaming headset line.",
+            "The device is powered by a Qualcomm",
+            "Snapdragon chip, though the specific",
+            "model hasn\u2019t been disclosed.",
+            "The use of AI suggests potential",
+            "applications beyond simple recording."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-06T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/854756/razer-concept-ai-wearable-headphones-project-motoko"
     },
     {
       "id": "661",
