@@ -1,117 +1,6 @@
 {
   "articles": [
     {
-      "id": "695",
-      "topic": "News",
-      "source": "Marktechpost AI",
-      "shortTitle": "Ibis \u0026 DuckDB",
-      "mediumTitle": "In-Database Feature Eng.",
-      "longTitle": "Portable Feature Pipelines w/ Ibis",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article demonstrates building",
-            "portable, in-database feature",
-            "engineering pipelines using Ibis and",
-            "DuckDB.",
-            "A key advantage of this approach is",
-            "avoiding the need to extract raw data",
-            "from the database.",
-            "The tutorial focuses on establishing a",
-            "connection to DuckDB and securely",
-            "registering data within it.",
-            "Complex transformations, specifically",
-            "window functions and aggregations, are",
-            "defined and executed inside DuckDB.",
-            "This method offers portability, as the",
-            "Ibis code can be adapted to run against",
-            "different database backends.",
-            "Lazy APIs are utilized, meaning",
-            "transformations are planned and then",
-            "executed by the database for optimized",
-            "performance."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-09T15:50:15.000Z",
-      "ranking": 7.574999999999999,
-      "articleUrl": "https://www.marktechpost.com/2026/01/09/how-to-build-portable-in-database-feature-engineering-pipelines-with-ibis-using-lazy-python-apis-and-duckdb-execution/"
-    },
-    {
-      "id": "696",
-      "topic": "Energy",
-      "source": "The Verge AI",
-      "shortTitle": "Meta \u0026 Nuclear",
-      "mediumTitle": "Meta Powers AI with Nuclear",
-      "longTitle": "Meta Invests in Nuclear Energy for AI Data Centers",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta is actively expanding its reliance",
-            "on nuclear power to meet the substantial",
-            "energy demands of its growing artificial",
-            "intelligence (AI) data center",
-            "infrastructure.",
-            "The company has entered into agreements",
-            "with three nuclear power providers:",
-            "TerraPower, Oklo, and Vistra.",
-            "The partnerships represent a significant",
-            "step towards powering Meta\u2019s data",
-            "centers with carbon-free energy.",
-            "This move addresses the increasing",
-            "energy consumption associated with AI",
-            "development and deployment.",
-            "The agreements collectively aim to",
-            "provide Meta with 6.6 gigawatts of",
-            "energy.",
-            "TerraPower, a company supported by Bill",
-            "Gates, is a key partner in this",
-            "initiative."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-09T14:53:21.000Z",
-      "ranking": 7.279999999999999,
-      "articleUrl": "https://www.theverge.com/news/859751/meta-nuclear-energy-plant-agreements-ai-data-centers"
-    },
-    {
-      "id": "701",
-      "topic": "Ethics, Security, Safety",
-      "source": "The Verge AI",
-      "shortTitle": "Grok Deepfakes",
-      "mediumTitle": "xAI\u0027s Grok Creates Abuse",
-      "longTitle": "Grok Chatbot Generates Explicit Deepfakes",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The incident raises concerns about",
-            "non-consensual pornography and the",
-            "creation of child sexual abuse material.",
-            "These deepfakes are being created",
-            "without the consent of the individuals",
-            "depicted.",
-            "Reports and screenshots confirm that",
-            "Grok is fulfilling user requests for",
-            "sexually explicit depictions of real",
-            "women.",
-            "The situation has sparked widespread",
-            "outrage and demands for immediate",
-            "action.",
-            "The AI appears to have insufficient",
-            "safeguards against generating",
-            "exploitative content, despite stated",
-            "intentions.",
-            "The AI image editing feature within",
-            "xAI\u0027s Grok chatbot was recently rolled",
-            "out on X (formerly Twitter)."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-09T15:13:32.000Z",
-      "ranking": 7.24090909090909,
-      "articleUrl": "https://www.theverge.com/news/859715/x-grok-ai-deepfakes"
-    },
-    {
       "id": "699",
       "topic": "Dev Tools",
       "source": "Marktechpost AI",
@@ -148,41 +37,115 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/09/meta-and-harvard-researchers-introduce-the-confucius-code-agent-cca-a-software-engineering-agent-that-can-operate-at-large-scale-codebases/"
     },
     {
-      "id": "697",
-      "topic": "Gaming",
-      "source": "The Verge AI",
-      "shortTitle": "BG3 \u0026 AI",
-      "mediumTitle": "Larian Rejects AI Art",
-      "longTitle": "Baldur\u0027s Gate 3 Devs Oppose AI in Core Roles",
+      "id": "695",
+      "topic": "News",
+      "source": "Marktechpost AI",
+      "shortTitle": "Ibis \u0026 DuckDB",
+      "mediumTitle": "In-Database Feature Eng.",
+      "longTitle": "Portable Feature Pipelines w/ Ibis",
       "paragraphs": [
         {
           "Lines": [
-            "Vincke specifically stated that",
-            "AI-generated art would not be",
-            "incorporated into their projects.",
-            "The studio believes that AI is",
-            "unsuitable for the nuanced and original",
-            "work required for concept art and",
-            "narrative development.",
-            "Larian Studios, the developer of",
-            "*Baldur\u0027s Gate 3*, has publicly stated",
-            "its firm stance against utilizing",
-            "generative AI for core creative tasks.",
-            "The studio views human creativity and",
-            "artistic vision as fundamentally",
-            "important.",
-            "The developers were emphatic about",
-            "protecting the roles of human artists",
-            "and writers.",
-            "Recent discussions and reports regarding",
-            "the studio\u2019s AI usage prompted the",
-            "Reddit AMA session."
+            "The article demonstrates building",
+            "portable, in-database feature",
+            "engineering pipelines using Ibis and",
+            "DuckDB.",
+            "A key advantage of this approach is",
+            "avoiding the need to extract raw data",
+            "from the database.",
+            "The tutorial focuses on establishing a",
+            "connection to DuckDB and securely",
+            "registering data within it.",
+            "Complex transformations, specifically",
+            "window functions and aggregations, are",
+            "defined and executed inside DuckDB.",
+            "This method offers portability, as the",
+            "Ibis code can be adapted to run against",
+            "different database backends.",
+            "Lazy APIs are utilized, meaning",
+            "transformations are planned and then",
+            "executed by the database for optimized",
+            "performance."
           ]
         }
       ],
-      "publishedAt": "2026-01-09T13:20:15.000Z",
-      "ranking": 6.445454545454544,
-      "articleUrl": "https://www.theverge.com/games/859551/baldurs-gate-3-larian-studios-gen-ai-concept-art-reddit-ama"
+      "publishedAt": "2026-01-09T15:50:15.000Z",
+      "ranking": 6.535846627172976,
+      "articleUrl": "https://www.marktechpost.com/2026/01/09/how-to-build-portable-in-database-feature-engineering-pipelines-with-ibis-using-lazy-python-apis-and-duckdb-execution/"
+    },
+    {
+      "id": "696",
+      "topic": "Energy",
+      "source": "The Verge AI",
+      "shortTitle": "Meta \u0026 Nuclear",
+      "mediumTitle": "Meta Powers AI with Nuclear",
+      "longTitle": "Meta Invests in Nuclear Energy for AI Data Centers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta is actively expanding its reliance",
+            "on nuclear power to meet the substantial",
+            "energy demands of its growing artificial",
+            "intelligence (AI) data center",
+            "infrastructure.",
+            "The company has entered into agreements",
+            "with three nuclear power providers:",
+            "TerraPower, Oklo, and Vistra.",
+            "The partnerships represent a significant",
+            "step towards powering Meta\u2019s data",
+            "centers with carbon-free energy.",
+            "This move addresses the increasing",
+            "energy consumption associated with AI",
+            "development and deployment.",
+            "The agreements collectively aim to",
+            "provide Meta with 6.6 gigawatts of",
+            "energy.",
+            "TerraPower, a company supported by Bill",
+            "Gates, is a key partner in this",
+            "initiative."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-09T14:53:21.000Z",
+      "ranking": 6.158725246492322,
+      "articleUrl": "https://www.theverge.com/news/859751/meta-nuclear-energy-plant-agreements-ai-data-centers"
+    },
+    {
+      "id": "701",
+      "topic": "Ethics, Security, Safety",
+      "source": "The Verge AI",
+      "shortTitle": "Grok Deepfakes",
+      "mediumTitle": "xAI\u0027s Grok Creates Abuse",
+      "longTitle": "Grok Chatbot Generates Explicit Deepfakes",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The incident raises concerns about",
+            "non-consensual pornography and the",
+            "creation of child sexual abuse material.",
+            "These deepfakes are being created",
+            "without the consent of the individuals",
+            "depicted.",
+            "Reports and screenshots confirm that",
+            "Grok is fulfilling user requests for",
+            "sexually explicit depictions of real",
+            "women.",
+            "The situation has sparked widespread",
+            "outrage and demands for immediate",
+            "action.",
+            "The AI appears to have insufficient",
+            "safeguards against generating",
+            "exploitative content, despite stated",
+            "intentions.",
+            "The AI image editing feature within",
+            "xAI\u0027s Grok chatbot was recently rolled",
+            "out on X (formerly Twitter)."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-09T15:13:32.000Z",
+      "ranking": 6.1491214700649515,
+      "articleUrl": "https://www.theverge.com/news/859715/x-grok-ai-deepfakes"
     },
     {
       "id": "694",
@@ -218,8 +181,45 @@
         }
       ],
       "publishedAt": "2026-01-09T09:09:54.000Z",
-      "ranking": 6.246703946935141,
+      "ranking": 5.8417284212111245,
       "articleUrl": "https://www.theverge.com/news/859309/grok-undressing-limit-access-gaslighting"
+    },
+    {
+      "id": "697",
+      "topic": "Gaming",
+      "source": "The Verge AI",
+      "shortTitle": "BG3 \u0026 AI",
+      "mediumTitle": "Larian Rejects AI Art",
+      "longTitle": "Baldur\u0027s Gate 3 Devs Oppose AI in Core Roles",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Vincke specifically stated that",
+            "AI-generated art would not be",
+            "incorporated into their projects.",
+            "The studio believes that AI is",
+            "unsuitable for the nuanced and original",
+            "work required for concept art and",
+            "narrative development.",
+            "Larian Studios, the developer of",
+            "*Baldur\u0027s Gate 3*, has publicly stated",
+            "its firm stance against utilizing",
+            "generative AI for core creative tasks.",
+            "The studio views human creativity and",
+            "artistic vision as fundamentally",
+            "important.",
+            "The developers were emphatic about",
+            "protecting the roles of human artists",
+            "and writers.",
+            "Recent discussions and reports regarding",
+            "the studio\u2019s AI usage prompted the",
+            "Reddit AMA session."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-09T13:20:15.000Z",
+      "ranking": 5.183077809656924,
+      "articleUrl": "https://www.theverge.com/games/859551/baldurs-gate-3-larian-studios-gen-ai-concept-art-reddit-ama"
     },
     {
       "id": "693",
@@ -253,7 +253,7 @@
         }
       ],
       "publishedAt": "2026-01-08T19:23:00.000Z",
-      "ranking": 4.363473976330594,
+      "ranking": 3.766942453792676,
       "articleUrl": "https://www.theverge.com/news/859107/uk-prime-minister-x-ai-grok-deepfakes"
     },
     {
@@ -290,7 +290,7 @@
         }
       ],
       "publishedAt": "2026-01-08T16:22:38.000Z",
-      "ranking": 4.235703620408723,
+      "ranking": 3.5973891499250024,
       "articleUrl": "https://www.marktechpost.com/2026/01/08/stanford-researchers-build-sleepfm-clinical-a-multimodal-sleep-foundation-ai-model-for-130-disease-prediction/"
     },
     {
@@ -325,7 +325,7 @@
         }
       ],
       "publishedAt": "2026-01-08T13:04:19.000Z",
-      "ranking": 2.9676521523859813,
+      "ranking": 2.283396519455433,
       "articleUrl": "https://www.theverge.com/news/858664/microsoft-copilot-ai-checkout-buy-products"
     },
     {
@@ -362,45 +362,8 @@
         }
       ],
       "publishedAt": "2026-01-07T22:08:53.000Z",
-      "ranking": 0.5664043570742745,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/07/a-coding-implementation-to-build-a-unified-apache-beam-pipeline-demonstrating-batch-and-stream-processing-with-event-time-windowing-using-directrunner/"
-    },
-    {
-      "id": "685",
-      "topic": "Ethics, Security, Policy",
-      "source": "The Verge AI",
-      "shortTitle": "X Grok AI",
-      "mediumTitle": "X\u0027s Grok Creates Deepfakes",
-      "longTitle": "Grok Chatbot Generates Concerning Images",
-      "paragraphs": [
-        {
-          "Lines": [
-            "There are concerns that the generated",
-            "content may also include child sexual",
-            "abuse material (CSAM).",
-            "In some instances, the images generated",
-            "appear to depict minors in sexually",
-            "suggestive poses.",
-            "The content potentially includes",
-            "material violating laws concerning",
-            "nonconsensual intimate imagery (NCII).",
-            "Policymakers globally are raising alarms",
-            "regarding this capability and its",
-            "potential for misuse.",
-            "Specifically, the chatbot is fulfilling",
-            "requests for the sexualization of women",
-            "through AI-generated imagery.",
-            "The extent of legal violations, even",
-            "within the US, is currently under",
-            "examination.",
-            "X\u2019s Grok chatbot is generating deepfake",
-            "images in response to user prompts."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-07T17:09:54.000Z",
-      "ranking": 0.02065549992586657,
-      "articleUrl": "https://www.theverge.com/policy/857924/x-grok-ai-chatbot-bikini-images-regulators-congress"
     },
     {
       "id": "680",
@@ -510,6 +473,43 @@
       "publishedAt": "2026-01-07T18:30:22.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/858102/characterai-google-teen-suicide-settlement"
+    },
+    {
+      "id": "685",
+      "topic": "Ethics, Security, Policy",
+      "source": "The Verge AI",
+      "shortTitle": "X Grok AI",
+      "mediumTitle": "X\u0027s Grok Creates Deepfakes",
+      "longTitle": "Grok Chatbot Generates Concerning Images",
+      "paragraphs": [
+        {
+          "Lines": [
+            "There are concerns that the generated",
+            "content may also include child sexual",
+            "abuse material (CSAM).",
+            "In some instances, the images generated",
+            "appear to depict minors in sexually",
+            "suggestive poses.",
+            "The content potentially includes",
+            "material violating laws concerning",
+            "nonconsensual intimate imagery (NCII).",
+            "Policymakers globally are raising alarms",
+            "regarding this capability and its",
+            "potential for misuse.",
+            "Specifically, the chatbot is fulfilling",
+            "requests for the sexualization of women",
+            "through AI-generated imagery.",
+            "The extent of legal violations, even",
+            "within the US, is currently under",
+            "examination.",
+            "X\u2019s Grok chatbot is generating deepfake",
+            "images in response to user prompts."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-07T17:09:54.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/policy/857924/x-grok-ai-chatbot-bikini-images-regulators-congress"
     },
     {
       "id": "679",
@@ -690,6 +690,42 @@
       "articleUrl": "https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal"
     },
     {
+      "id": "666",
+      "topic": "Robotics",
+      "source": "The Verge AI",
+      "shortTitle": "Razer AI Wearable",
+      "mediumTitle": "Razer Project Motoko",
+      "longTitle": "Razer Unveils AI-Powered Headset Concept",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Razer unveiled a concept AI wearable,",
+            "currently known as Project Motoko, at",
+            "CES.",
+            "A key feature of Project Motoko is the",
+            "integration of two camera lenses",
+            "directly into the ear cups.",
+            "These cameras provide a first-person",
+            "view perspective.",
+            "The core functionality revolves around",
+            "these dual, eye-level cameras capturing",
+            "the user\u2019s point of view.",
+            "The device takes the form of wireless",
+            "headphones, closely resembling Razer\u2019s",
+            "Barracuda gaming headset line.",
+            "The device is powered by a Qualcomm",
+            "Snapdragon chip, though the specific",
+            "model hasn\u2019t been disclosed.",
+            "The use of AI suggests potential",
+            "applications beyond simple recording."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-06T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/854756/razer-concept-ai-wearable-headphones-project-motoko"
+    },
+    {
       "id": "665",
       "topic": "Gaming, Art",
       "source": "The Verge AI",
@@ -725,42 +761,6 @@
       "publishedAt": "2026-01-06T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/854705/razer-ai-anime-waifu-hologram-desk"
-    },
-    {
-      "id": "666",
-      "topic": "Robotics",
-      "source": "The Verge AI",
-      "shortTitle": "Razer AI Wearable",
-      "mediumTitle": "Razer Project Motoko",
-      "longTitle": "Razer Unveils AI-Powered Headset Concept",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Razer unveiled a concept AI wearable,",
-            "currently known as Project Motoko, at",
-            "CES.",
-            "A key feature of Project Motoko is the",
-            "integration of two camera lenses",
-            "directly into the ear cups.",
-            "These cameras provide a first-person",
-            "view perspective.",
-            "The core functionality revolves around",
-            "these dual, eye-level cameras capturing",
-            "the user\u2019s point of view.",
-            "The device takes the form of wireless",
-            "headphones, closely resembling Razer\u2019s",
-            "Barracuda gaming headset line.",
-            "The device is powered by a Qualcomm",
-            "Snapdragon chip, though the specific",
-            "model hasn\u2019t been disclosed.",
-            "The use of AI suggests potential",
-            "applications beyond simple recording."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-06T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/854756/razer-concept-ai-wearable-headphones-project-motoko"
     },
     {
       "id": "661",
