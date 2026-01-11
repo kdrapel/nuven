@@ -34,7 +34,7 @@
         }
       ],
       "publishedAt": "2026-01-09T15:50:15.000Z",
-      "ranking": 5.268131908919827,
+      "ranking": 4.732129685592528,
       "articleUrl": "https://www.marktechpost.com/2026/01/09/how-to-build-portable-in-database-feature-engineering-pipelines-with-ibis-using-lazy-python-apis-and-duckdb-execution/"
     },
     {
@@ -71,7 +71,7 @@
         }
       ],
       "publishedAt": "2026-01-09T15:13:32.000Z",
-      "ranking": 4.855936600810393,
+      "ranking": 4.311405662917171,
       "articleUrl": "https://www.theverge.com/news/859715/x-grok-ai-deepfakes"
     },
     {
@@ -108,7 +108,7 @@
         }
       ],
       "publishedAt": "2026-01-09T14:53:21.000Z",
-      "ranking": 4.851539599233616,
+      "ranking": 4.302320420099776,
       "articleUrl": "https://www.theverge.com/news/859751/meta-nuclear-energy-plant-agreements-ai-data-centers"
     },
     {
@@ -144,7 +144,7 @@
         }
       ],
       "publishedAt": "2026-01-09T16:47:26.000Z",
-      "ranking": 4.6913491371553135,
+      "ranking": 4.168629551753817,
       "articleUrl": "https://www.marktechpost.com/2026/01/09/meta-and-harvard-researchers-introduce-the-confucius-code-agent-cca-a-software-engineering-agent-that-can-operate-at-large-scale-codebases/"
     },
     {
@@ -181,7 +181,7 @@
         }
       ],
       "publishedAt": "2026-01-09T09:09:54.000Z",
-      "ranking": 4.296298562899365,
+      "ranking": 3.6673018602011025,
       "articleUrl": "https://www.theverge.com/news/859309/grok-undressing-limit-access-gaslighting"
     },
     {
@@ -218,7 +218,7 @@
         }
       ],
       "publishedAt": "2026-01-09T13:20:15.000Z",
-      "ranking": 3.8113106003909993,
+      "ranking": 3.2404658922079608,
       "articleUrl": "https://www.theverge.com/games/859551/baldurs-gate-3-larian-studios-gen-ai-concept-art-reddit-ama"
     },
     {
@@ -253,7 +253,7 @@
         }
       ],
       "publishedAt": "2026-01-08T19:23:00.000Z",
-      "ranking": 1.6479090547628834,
+      "ranking": 0.8268377156137436,
       "articleUrl": "https://www.theverge.com/news/859107/uk-prime-minister-x-ai-grok-deepfakes"
     },
     {
@@ -290,7 +290,7 @@
         }
       ],
       "publishedAt": "2026-01-08T16:22:38.000Z",
-      "ranking": 1.3532391034781188,
+      "ranking": 0.49027169230331324,
       "articleUrl": "https://www.marktechpost.com/2026/01/08/stanford-researchers-build-sleepfm-clinical-a-multimodal-sleep-foundation-ai-model-for-130-disease-prediction/"
     },
     {
@@ -690,6 +690,42 @@
       "articleUrl": "https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal"
     },
     {
+      "id": "666",
+      "topic": "Robotics",
+      "source": "The Verge AI",
+      "shortTitle": "Razer AI Wearable",
+      "mediumTitle": "Razer Project Motoko",
+      "longTitle": "Razer Unveils AI-Powered Headset Concept",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Razer unveiled a concept AI wearable,",
+            "currently known as Project Motoko, at",
+            "CES.",
+            "A key feature of Project Motoko is the",
+            "integration of two camera lenses",
+            "directly into the ear cups.",
+            "These cameras provide a first-person",
+            "view perspective.",
+            "The core functionality revolves around",
+            "these dual, eye-level cameras capturing",
+            "the user\u2019s point of view.",
+            "The device takes the form of wireless",
+            "headphones, closely resembling Razer\u2019s",
+            "Barracuda gaming headset line.",
+            "The device is powered by a Qualcomm",
+            "Snapdragon chip, though the specific",
+            "model hasn\u2019t been disclosed.",
+            "The use of AI suggests potential",
+            "applications beyond simple recording."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-06T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/854756/razer-concept-ai-wearable-headphones-project-motoko"
+    },
+    {
       "id": "665",
       "topic": "Gaming, Art",
       "source": "The Verge AI",
@@ -725,42 +761,6 @@
       "publishedAt": "2026-01-06T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/854705/razer-ai-anime-waifu-hologram-desk"
-    },
-    {
-      "id": "666",
-      "topic": "Robotics",
-      "source": "The Verge AI",
-      "shortTitle": "Razer AI Wearable",
-      "mediumTitle": "Razer Project Motoko",
-      "longTitle": "Razer Unveils AI-Powered Headset Concept",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Razer unveiled a concept AI wearable,",
-            "currently known as Project Motoko, at",
-            "CES.",
-            "A key feature of Project Motoko is the",
-            "integration of two camera lenses",
-            "directly into the ear cups.",
-            "These cameras provide a first-person",
-            "view perspective.",
-            "The core functionality revolves around",
-            "these dual, eye-level cameras capturing",
-            "the user\u2019s point of view.",
-            "The device takes the form of wireless",
-            "headphones, closely resembling Razer\u2019s",
-            "Barracuda gaming headset line.",
-            "The device is powered by a Qualcomm",
-            "Snapdragon chip, though the specific",
-            "model hasn\u2019t been disclosed.",
-            "The use of AI suggests potential",
-            "applications beyond simple recording."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-06T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/854756/razer-concept-ai-wearable-headphones-project-motoko"
     },
     {
       "id": "661",
