@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "707",
+      "topic": "Ethics, Security, Policy",
+      "source": "The Verge AI",
+      "shortTitle": "Deepfake Law",
+      "mediumTitle": "UK Criminalizes Deepfakes",
+      "longTitle": "UK Law Targets Non-Consensual Deepfake Images",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The UK is enacting legislation to",
+            "criminalize the creation of",
+            "non-consensual intimate deepfake images.",
+            "Specifically, the Act now makes it a",
+            "criminal offense to create these",
+            "deepfake images.",
+            "It also criminalizes the act of",
+            "requesting the creation of such images.",
+            "These images are created without the",
+            "consent of the individuals depicted.",
+            "The legal basis for this new law is the",
+            "Data Protection Act, which was passed in",
+            "the previous year.",
+            "The law aims to address the harm caused",
+            "by the creation and distribution of",
+            "realistic, fabricated intimate images.",
+            "The legislation also acknowledges the",
+            "associated risks of abuse and harm",
+            "stemming from deepfakes."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-12T16:03:49.000Z",
+      "ranking": 7.618181818181817,
+      "articleUrl": "https://www.theverge.com/news/860881/uk-ai-x-grok-law-criminalizing-deepfake-nudes-ai"
+    },
+    {
       "id": "703",
       "topic": "Security",
       "source": "Marktechpost AI",
@@ -33,7 +69,7 @@
         }
       ],
       "publishedAt": "2026-01-11T16:47:06.000Z",
-      "ranking": 6.035473902768162,
+      "ranking": 5.623022110544537,
       "articleUrl": "https://www.marktechpost.com/2026/01/11/a-coding-guide-to-demonstrate-targeted-data-poisoning-attacks-in-deep-learning-by-label-flipping-on-cifar-10-with-pytorch/"
     },
     {
@@ -869,41 +905,6 @@
       "publishedAt": "2026-01-05T11:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/853535/alexa-plus-website-now-available"
-    },
-    {
-      "id": "660",
-      "topic": "Generative AI",
-      "source": "VentureBeat AI",
-      "shortTitle": "Claude Code",
-      "mediumTitle": "Anthropic\u0027s AI Workflow",
-      "longTitle": "Boris Cherny\u0027s Coding System",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The \u0060CLAUDE.md\u0060 file effectively",
-            "transforms the codebase into a",
-            "self-correcting system with each mistake",
-            "becoming a permanent rule.",
-            "Cherny\u2019s workflow allows a single",
-            "developer to achieve the output",
-            "comparable to a small engineering team.",
-            "This workflow represents a shift in",
-            "software engineering, moving AI beyond",
-            "simple autocomplete to a collaborative",
-            "workforce.",
-            "The bottleneck in coding isn\u0027t AI",
-            "generation speed, but the time spent by",
-            "humans correcting errors.",
-            "Boris Cherny, the creator of Claude Code",
-            "at Anthropic, recently shared his coding",
-            "workflow on X, generating considerable",
-            "interest."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-05T08:45:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
     }
   ]
 }
