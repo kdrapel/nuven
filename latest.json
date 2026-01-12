@@ -33,7 +33,7 @@
         }
       ],
       "publishedAt": "2026-01-11T16:47:06.000Z",
-      "ranking": 7.349999999999999,
+      "ranking": 6.035473902768162,
       "articleUrl": "https://www.marktechpost.com/2026/01/11/a-coding-guide-to-demonstrate-targeted-data-poisoning-attacks-in-deep-learning-by-label-flipping-on-cifar-10-with-pytorch/"
     },
     {
@@ -726,42 +726,6 @@
       "articleUrl": "https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal"
     },
     {
-      "id": "666",
-      "topic": "Robotics",
-      "source": "The Verge AI",
-      "shortTitle": "Razer AI Wearable",
-      "mediumTitle": "Razer Project Motoko",
-      "longTitle": "Razer Unveils AI-Powered Headset Concept",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Razer unveiled a concept AI wearable,",
-            "currently known as Project Motoko, at",
-            "CES.",
-            "A key feature of Project Motoko is the",
-            "integration of two camera lenses",
-            "directly into the ear cups.",
-            "These cameras provide a first-person",
-            "view perspective.",
-            "The core functionality revolves around",
-            "these dual, eye-level cameras capturing",
-            "the user\u2019s point of view.",
-            "The device takes the form of wireless",
-            "headphones, closely resembling Razer\u2019s",
-            "Barracuda gaming headset line.",
-            "The device is powered by a Qualcomm",
-            "Snapdragon chip, though the specific",
-            "model hasn\u2019t been disclosed.",
-            "The use of AI suggests potential",
-            "applications beyond simple recording."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-06T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/854756/razer-concept-ai-wearable-headphones-project-motoko"
-    },
-    {
       "id": "665",
       "topic": "Gaming, Art",
       "source": "The Verge AI",
@@ -797,6 +761,42 @@
       "publishedAt": "2026-01-06T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/854705/razer-ai-anime-waifu-hologram-desk"
+    },
+    {
+      "id": "666",
+      "topic": "Robotics",
+      "source": "The Verge AI",
+      "shortTitle": "Razer AI Wearable",
+      "mediumTitle": "Razer Project Motoko",
+      "longTitle": "Razer Unveils AI-Powered Headset Concept",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Razer unveiled a concept AI wearable,",
+            "currently known as Project Motoko, at",
+            "CES.",
+            "A key feature of Project Motoko is the",
+            "integration of two camera lenses",
+            "directly into the ear cups.",
+            "These cameras provide a first-person",
+            "view perspective.",
+            "The core functionality revolves around",
+            "these dual, eye-level cameras capturing",
+            "the user\u2019s point of view.",
+            "The device takes the form of wireless",
+            "headphones, closely resembling Razer\u2019s",
+            "Barracuda gaming headset line.",
+            "The device is powered by a Qualcomm",
+            "Snapdragon chip, though the specific",
+            "model hasn\u2019t been disclosed.",
+            "The use of AI suggests potential",
+            "applications beyond simple recording."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-06T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/854756/razer-concept-ai-wearable-headphones-project-motoko"
     },
     {
       "id": "661",
@@ -904,43 +904,6 @@
       "publishedAt": "2026-01-05T08:45:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are"
-    },
-    {
-      "id": "656",
-      "topic": "Large Models, Tuning",
-      "source": "Marktechpost AI",
-      "shortTitle": "LLM Pruning",
-      "mediumTitle": "New LLM Pruning Tools",
-      "longTitle": "Princeton Releases LLM Pruning Collection",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Researchers at Zlab Princeton developed",
-            "the LLM-Pruning Collection.",
-            "Pruning algorithms are used to reduce",
-            "the size and computational cost of large",
-            "language models.",
-            "The collection provides a unified",
-            "framework for reproducible research in",
-            "LLM compression.",
-            "Consistent evaluation is crucial for",
-            "fairly comparing the effectiveness of",
-            "different pruning methods.",
-            "The repository is built using JAX, a",
-            "high-performance numerical computation",
-            "library.",
-            "The framework supports evaluation on",
-            "both GPUs and other specialized",
-            "hardware.",
-            "Block-level pruning removes entire",
-            "blocks of weights, while layer-level",
-            "pruning removes entire layers."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-05T08:21:37.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/04/llm-pruning-collection-a-jax-based-repo-for-structured-and-unstructured-llm-compression/"
     }
   ]
 }
