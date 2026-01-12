@@ -726,6 +726,42 @@
       "articleUrl": "https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal"
     },
     {
+      "id": "666",
+      "topic": "Robotics",
+      "source": "The Verge AI",
+      "shortTitle": "Razer AI Wearable",
+      "mediumTitle": "Razer Project Motoko",
+      "longTitle": "Razer Unveils AI-Powered Headset Concept",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Razer unveiled a concept AI wearable,",
+            "currently known as Project Motoko, at",
+            "CES.",
+            "A key feature of Project Motoko is the",
+            "integration of two camera lenses",
+            "directly into the ear cups.",
+            "These cameras provide a first-person",
+            "view perspective.",
+            "The core functionality revolves around",
+            "these dual, eye-level cameras capturing",
+            "the user\u2019s point of view.",
+            "The device takes the form of wireless",
+            "headphones, closely resembling Razer\u2019s",
+            "Barracuda gaming headset line.",
+            "The device is powered by a Qualcomm",
+            "Snapdragon chip, though the specific",
+            "model hasn\u2019t been disclosed.",
+            "The use of AI suggests potential",
+            "applications beyond simple recording."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-06T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/854756/razer-concept-ai-wearable-headphones-project-motoko"
+    },
+    {
       "id": "665",
       "topic": "Gaming, Art",
       "source": "The Verge AI",
@@ -761,42 +797,6 @@
       "publishedAt": "2026-01-06T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/854705/razer-ai-anime-waifu-hologram-desk"
-    },
-    {
-      "id": "666",
-      "topic": "Robotics",
-      "source": "The Verge AI",
-      "shortTitle": "Razer AI Wearable",
-      "mediumTitle": "Razer Project Motoko",
-      "longTitle": "Razer Unveils AI-Powered Headset Concept",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Razer unveiled a concept AI wearable,",
-            "currently known as Project Motoko, at",
-            "CES.",
-            "A key feature of Project Motoko is the",
-            "integration of two camera lenses",
-            "directly into the ear cups.",
-            "These cameras provide a first-person",
-            "view perspective.",
-            "The core functionality revolves around",
-            "these dual, eye-level cameras capturing",
-            "the user\u2019s point of view.",
-            "The device takes the form of wireless",
-            "headphones, closely resembling Razer\u2019s",
-            "Barracuda gaming headset line.",
-            "The device is powered by a Qualcomm",
-            "Snapdragon chip, though the specific",
-            "model hasn\u2019t been disclosed.",
-            "The use of AI suggests potential",
-            "applications beyond simple recording."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-06T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/854756/razer-concept-ai-wearable-headphones-project-motoko"
     },
     {
       "id": "661",
@@ -941,42 +941,6 @@
       "publishedAt": "2026-01-05T08:21:37.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/04/llm-pruning-collection-a-jax-based-repo-for-structured-and-unstructured-llm-compression/"
-    },
-    {
-      "id": "655",
-      "topic": "NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "HY-MT1.5",
-      "mediumTitle": "Tencent\u0027s New MT Models",
-      "longTitle": "HY-MT1.5 Multilingual Translation Released",
-      "paragraphs": [
-        {
-          "Lines": [
-            "HY-MT1.5 supports translation between a",
-            "total of 33 languages.",
-            "The models are designed for flexible",
-            "deployment, functioning on both mobile",
-            "devices and cloud systems.",
-            "The HY-MT1.5 models are now publicly",
-            "available for use.",
-            "The same training process and evaluation",
-            "metrics are used for both mobile and",
-            "cloud deployments, ensuring consistency.",
-            "The models are also available on Hugging",
-            "Face, a popular platform for machine",
-            "learning models.",
-            "Tencent researchers developed HY-MT1.5",
-            "as a new family of multilingual machine",
-            "translation models.",
-            "Researchers have made the models",
-            "accessible on GitHub, facilitating",
-            "community contributions and development."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-05T07:42:01.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/04/tencent-researchers-release-tencent-hy-mt1-5-a-new-translation-models-featuring-1-8b-and-7b-models-designed-for-seamless-on-device-and-cloud-deployment/"
     }
   ]
 }
