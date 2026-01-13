@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "715",
+      "topic": "Robotics",
+      "source": "The Verge AI",
+      "shortTitle": "Meta Layoffs",
+      "mediumTitle": "Meta Restructures XR Division",
+      "longTitle": "Meta Cuts 10% of Reality Labs Staff",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta has confirmed layoffs impacting",
+            "approximately 10 percent of its Reality",
+            "Labs division.",
+            "The company is moving to allocate more",
+            "resources towards the development of",
+            "wearable technology.",
+            "The restructuring accompanies a",
+            "strategic shift in Meta\u2019s investment",
+            "priorities.",
+            "The layoffs within Reality Labs are",
+            "directly linked to this reallocation of",
+            "investment.",
+            "This division is responsible for the",
+            "development of Meta\u2019s extended reality",
+            "(XR) products and services \u2013",
+            "encompassing virtual reality (VR) and",
+            "augmented reality (AR).",
+            "Meta is lessening its focus on the",
+            "Metaverse in favor of wearable devices."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-13T12:56:55.000Z",
+      "ranking": 8.01818181818182,
+      "articleUrl": "https://www.theverge.com/news/861295/meta-reality-labs-layoffs-shift-to-wearables"
+    },
+    {
       "id": "711",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -68,7 +104,7 @@
         }
       ],
       "publishedAt": "2026-01-12T16:03:49.000Z",
-      "ranking": 6.598548687370494,
+      "ranking": 6.230177239587781,
       "articleUrl": "https://www.theverge.com/news/860881/uk-ai-x-grok-law-criminalizing-deepfake-nudes-ai"
     },
     {
@@ -105,7 +141,7 @@
         }
       ],
       "publishedAt": "2026-01-12T12:30:00.000Z",
-      "ranking": 5.329283745008957,
+      "ranking": 4.91091263236709,
       "articleUrl": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
     },
     {
@@ -141,7 +177,7 @@
         }
       ],
       "publishedAt": "2026-01-11T16:47:06.000Z",
-      "ranking": 3.430743744372497,
+      "ranking": 2.735759322672984,
       "articleUrl": "https://www.marktechpost.com/2026/01/11/a-coding-guide-to-demonstrate-targeted-data-poisoning-attacks-in-deep-learning-by-label-flipping-on-cifar-10-with-pytorch/"
     },
     {
@@ -832,79 +868,6 @@
       "publishedAt": "2026-01-06T16:07:03.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal"
-    },
-    {
-      "id": "665",
-      "topic": "Gaming, Art",
-      "source": "The Verge AI",
-      "shortTitle": "Razer AI",
-      "mediumTitle": "Razer\u0027s Holographic AI",
-      "longTitle": "Razer Develops Desktop AI Companion",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The core functionality builds upon the",
-            "AI coaching aspects of Project Ava.",
-            "The project originated from Razer\u2019s",
-            "previously announced Project Ava AI game",
-            "coach, first demonstrated at CES 2023.",
-            "However, the new version emphasizes a",
-            "companion-focused experience with a",
-            "distinct visual presentation.",
-            "The holographic AI is designed to reside",
-            "in a capsule on a user\u0027s desk.",
-            "The AI companion takes the form of an",
-            "anime-style female character.",
-            "Razer\u2019s design prioritizes compactness",
-            "for convenient desktop integration.",
-            "The company aims to differentiate its",
-            "offering from other holographic displays",
-            "seen at events like CES 2025.",
-            "The development signifies Razer\u2019s",
-            "continued investment in AI-powered",
-            "gaming and lifestyle products."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-06T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/854705/razer-ai-anime-waifu-hologram-desk"
-    },
-    {
-      "id": "666",
-      "topic": "Robotics",
-      "source": "The Verge AI",
-      "shortTitle": "Razer AI Wearable",
-      "mediumTitle": "Razer Project Motoko",
-      "longTitle": "Razer Unveils AI-Powered Headset Concept",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Razer unveiled a concept AI wearable,",
-            "currently known as Project Motoko, at",
-            "CES.",
-            "A key feature of Project Motoko is the",
-            "integration of two camera lenses",
-            "directly into the ear cups.",
-            "These cameras provide a first-person",
-            "view perspective.",
-            "The core functionality revolves around",
-            "these dual, eye-level cameras capturing",
-            "the user\u2019s point of view.",
-            "The device takes the form of wireless",
-            "headphones, closely resembling Razer\u2019s",
-            "Barracuda gaming headset line.",
-            "The device is powered by a Qualcomm",
-            "Snapdragon chip, though the specific",
-            "model hasn\u2019t been disclosed.",
-            "The use of AI suggests potential",
-            "applications beyond simple recording."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-06T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/854756/razer-concept-ai-wearable-headphones-project-motoko"
     }
   ]
 }
