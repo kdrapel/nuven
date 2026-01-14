@@ -1,40 +1,40 @@
 {
   "articles": [
     {
-      "id": "715",
-      "topic": "Robotics",
+      "id": "721",
+      "topic": "Security",
       "source": "The Verge AI",
-      "shortTitle": "Meta Layoffs",
-      "mediumTitle": "Meta Restructures XR Division",
-      "longTitle": "Meta Cuts 10% of Reality Labs Staff",
+      "shortTitle": "AI Police Error",
+      "mediumTitle": "AI Hallucination Leads to Ban",
+      "longTitle": "UK Police Admit AI Intelligence Flaw",
       "paragraphs": [
         {
           "Lines": [
-            "Meta has confirmed layoffs impacting",
-            "approximately 10 percent of its Reality",
-            "Labs division.",
-            "The company is moving to allocate more",
-            "resources towards the development of",
-            "wearable technology.",
-            "The restructuring accompanies a",
-            "strategic shift in Meta\u2019s investment",
-            "priorities.",
-            "The layoffs within Reality Labs are",
-            "directly linked to this reallocation of",
-            "investment.",
-            "This division is responsible for the",
-            "development of Meta\u2019s extended reality",
-            "(XR) products and services \u2013",
-            "encompassing virtual reality (VR) and",
-            "augmented reality (AR).",
-            "Meta is lessening its focus on the",
-            "Metaverse in favor of wearable devices."
+            "The error directly contributed to",
+            "Israeli football fans being prohibited",
+            "from attending a West Ham United match",
+            "last year.",
+            "Copilot \u201Challucinated\u201D the match,",
+            "fabricating details that were then",
+            "included in the intelligence assessment.",
+            "The inaccurate information was used to",
+            "justify the ban, raising concerns about",
+            "the reliability of AI-generated",
+            "intelligence in policing.",
+            "The incident highlights the risks",
+            "associated with relying on large",
+            "language models (LLMs) like Copilot",
+            "without thorough verification.",
+            "The incident underscores the potential",
+            "for \u201Challucinations\u201D \u2013 the generation of",
+            "false or misleading information \u2013",
+            "inherent in current AI technology."
           ]
         }
       ],
-      "publishedAt": "2026-01-13T12:56:55.000Z",
-      "ranking": 8.01818181818182,
-      "articleUrl": "https://www.theverge.com/news/861295/meta-reality-labs-layoffs-shift-to-wearables"
+      "publishedAt": "2026-01-14T09:00:50.000Z",
+      "ranking": 7.15,
+      "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
     },
     {
       "id": "719",
@@ -71,41 +71,6 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/13/google-ai-releases-medgemma-1-5-the-latest-update-to-their-open-medical-ai-models-for-developers/"
     },
     {
-      "id": "711",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "Slackbot AI",
-      "mediumTitle": "Salesforce Revamps Slackbot",
-      "longTitle": "Salesforce Launches AI-Powered Slackbot",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The launch is a critical test for",
-            "Salesforce to demonstrate AI\u2019s ability",
-            "to enhance its core business.",
-            "The upgraded Slackbot can draft",
-            "documents, schedule meetings, and take",
-            "action on behalf of employees by",
-            "accessing Salesforce records, Google",
-            "Drive, and Slack conversations.",
-            "Two-thirds of Salesforce employees tried",
-            "the new Slackbot, and 80% continue to",
-            "use it regularly.",
-            "Slackbot can analyze customer feedback,",
-            "correlate it with dashboard data, and",
-            "identify potential customers within",
-            "Salesforce.",
-            "Salesforce\u2019s overhaul transforms",
-            "Slackbot from a simple notification tool",
-            "into a powerful AI agent."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-13T14:00:00.000Z",
-      "ranking": 6.796874999999999,
-      "articleUrl": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
-    },
-    {
       "id": "717",
       "topic": "Ethics, Policy, Security",
       "source": "The Verge AI",
@@ -140,6 +105,77 @@
       "articleUrl": "https://www.theverge.com/news/861531/defiance-act-senate-passage-deepfakes-grok"
     },
     {
+      "id": "715",
+      "topic": "Robotics",
+      "source": "The Verge AI",
+      "shortTitle": "Meta Layoffs",
+      "mediumTitle": "Meta Restructures XR Division",
+      "longTitle": "Meta Cuts 10% of Reality Labs Staff",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta has confirmed layoffs impacting",
+            "approximately 10 percent of its Reality",
+            "Labs division.",
+            "The company is moving to allocate more",
+            "resources towards the development of",
+            "wearable technology.",
+            "The restructuring accompanies a",
+            "strategic shift in Meta\u2019s investment",
+            "priorities.",
+            "The layoffs within Reality Labs are",
+            "directly linked to this reallocation of",
+            "investment.",
+            "This division is responsible for the",
+            "development of Meta\u2019s extended reality",
+            "(XR) products and services \u2013",
+            "encompassing virtual reality (VR) and",
+            "augmented reality (AR).",
+            "Meta is lessening its focus on the",
+            "Metaverse in favor of wearable devices."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-13T12:56:55.000Z",
+      "ranking": 6.7137240412363575,
+      "articleUrl": "https://www.theverge.com/news/861295/meta-reality-labs-layoffs-shift-to-wearables"
+    },
+    {
+      "id": "711",
+      "topic": "Large Models",
+      "source": "VentureBeat AI",
+      "shortTitle": "Slackbot AI",
+      "mediumTitle": "Salesforce Revamps Slackbot",
+      "longTitle": "Salesforce Launches AI-Powered Slackbot",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The launch is a critical test for",
+            "Salesforce to demonstrate AI\u2019s ability",
+            "to enhance its core business.",
+            "The upgraded Slackbot can draft",
+            "documents, schedule meetings, and take",
+            "action on behalf of employees by",
+            "accessing Salesforce records, Google",
+            "Drive, and Slack conversations.",
+            "Two-thirds of Salesforce employees tried",
+            "the new Slackbot, and 80% continue to",
+            "use it regularly.",
+            "Slackbot can analyze customer feedback,",
+            "correlate it with dashboard data, and",
+            "identify potential customers within",
+            "Salesforce.",
+            "Salesforce\u2019s overhaul transforms",
+            "Slackbot from a simple notification tool",
+            "into a powerful AI agent."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-13T14:00:00.000Z",
+      "ranking": 5.590566535066965,
+      "articleUrl": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+    },
+    {
       "id": "707",
       "topic": "Ethics, Security, Policy",
       "source": "The Verge AI",
@@ -172,7 +208,7 @@
         }
       ],
       "publishedAt": "2026-01-12T16:03:49.000Z",
-      "ranking": 4.217169061615223,
+      "ranking": 3.5686818061591223,
       "articleUrl": "https://www.theverge.com/news/860881/uk-ai-x-grok-law-criminalizing-deepfake-nudes-ai"
     },
     {
@@ -209,7 +245,7 @@
         }
       ],
       "publishedAt": "2026-01-12T12:30:00.000Z",
-      "ranking": 2.7001097248334136,
+      "ranking": 2.0016862832380085,
       "articleUrl": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
     },
     {
@@ -901,41 +937,6 @@
       "publishedAt": "2026-01-06T16:08:18.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/855832/grok-undressing-children-csam-law-x-elon-musk"
-    },
-    {
-      "id": "672",
-      "topic": "Music, AI Ops",
-      "source": "The Verge AI",
-      "shortTitle": "UMG \u0026 Nvidia",
-      "mediumTitle": "UMG Partners with Nvidia",
-      "longTitle": "UMG and Nvidia Collaborate on AI Music Tech",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Universal Music Group (UMG) and Nvidia",
-            "have entered into a partnership to",
-            "leverage artificial intelligence within",
-            "UMG\u2019s extensive music catalog.",
-            "A key component of this collaboration is",
-            "the expansion of Nvidia\u2019s Music Flamingo",
-            "AI model.",
-            "This model is designed to analyze music",
-            "in a way that mirrors human",
-            "comprehension.",
-            "Music Flamingo focuses on intricate",
-            "details such as song structure, harmony,",
-            "and emotional progression.",
-            "The partnership aims to utilize AI for",
-            "various applications within UMG\u2019s",
-            "operations.",
-            "The goal is to enhance understanding of",
-            "music using AI technology."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-06T16:07:03.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal"
     }
   ]
 }
