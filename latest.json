@@ -38,6 +38,80 @@
       "articleUrl": "https://www.theverge.com/news/861894/grok-still-undressing-in-uk"
     },
     {
+      "id": "729",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Engram Module",
+      "mediumTitle": "Engram Boosts LLMs",
+      "longTitle": "New Module Improves LLM Efficiency",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Engram addresses limitations in current",
+            "LLMs related to knowledge lookup and",
+            "computational efficiency.",
+            "Engram adds a \u0027conditional memory axis\u0027",
+            "that functions in conjunction with MoE.",
+            "Engram specifically targets the gap in",
+            "existing architectures regarding",
+            "efficient knowledge retrieval.",
+            "These architectures repeatedly",
+            "re-compute local patterns, leading to",
+            "wasted computational resources.",
+            "The goal is to reduce the need for",
+            "redundant computations and improve",
+            "overall performance.",
+            "DeepSeek AI researchers are responsible",
+            "for the development of the Engram",
+            "module.",
+            "This new module provides a native",
+            "mechanism for knowledge lookup within",
+            "the LLM."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-15T08:54:13.000Z",
+      "ranking": 7.654999999999999,
+      "articleUrl": "https://www.marktechpost.com/2026/01/14/deepseek-ai-researchers-introduce-engram-a-conditional-memory-axis-for-sparse-llms/"
+    },
+    {
+      "id": "728",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Wiki Revenue",
+      "mediumTitle": "Wikipedia Secures Funding",
+      "longTitle": "Microsoft, Meta \u0026 Amazon Pay for Wiki Access",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft, Meta, and Amazon are now",
+            "contributing financially to the",
+            "Wikimedia Foundation.",
+            "These partnerships are designed to",
+            "ensure Wikipedia remains freely",
+            "accessible to the general public.",
+            "Wikimedia Enterprise provides large",
+            "organizations with high-quality access",
+            "to Wikipedia data.",
+            "The initiative seeks to create a stable",
+            "financial foundation for the Wikimedia",
+            "Foundation\u2019s long-term sustainability.",
+            "The Wikimedia Foundation is a non-profit",
+            "organization responsible for operating",
+            "Wikipedia.",
+            "The financial terms of the agreements",
+            "with Microsoft, Meta, and Amazon have",
+            "not been publicly revealed.",
+            "The announcement coincided with",
+            "Wikipedia\u2019s 25th anniversary."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-15T04:30:00.000Z",
+      "ranking": 7,
+      "articleUrl": "https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation"
+    },
+    {
       "id": "725",
       "topic": "Music, Ethics",
       "source": "The Verge AI",
@@ -70,7 +144,7 @@
         }
       ],
       "publishedAt": "2026-01-14T11:52:20.000Z",
-      "ranking": 7.7250000000000005,
+      "ranking": 6.68728183336136,
       "articleUrl": "https://www.theverge.com/news/861794/bandcamp-ban-ai-music"
     },
     {
@@ -106,7 +180,7 @@
         }
       ],
       "publishedAt": "2026-01-14T12:00:00.000Z",
-      "ranking": 7.355000000000001,
+      "ranking": 6.328100582687478,
       "articleUrl": "https://www.theverge.com/news/861576/google-gemini-ai-personal-intelligence-gmail-search-youtube-photos"
     },
     {
@@ -141,7 +215,7 @@
         }
       ],
       "publishedAt": "2026-01-14T09:00:50.000Z",
-      "ranking": 7.24,
+      "ranking": 5.945452675734627,
       "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
     },
     {
@@ -177,7 +251,7 @@
         }
       ],
       "publishedAt": "2026-01-14T09:00:50.000Z",
-      "ranking": 7.15,
+      "ranking": 5.855452672437167,
       "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
     },
     {
@@ -211,7 +285,7 @@
         }
       ],
       "publishedAt": "2026-01-14T08:30:39.000Z",
-      "ranking": 7.109090909090909,
+      "ranking": 5.766406943050575,
       "articleUrl": "https://www.marktechpost.com/2026/01/13/google-ai-releases-medgemma-1-5-the-latest-update-to-their-open-medical-ai-models-for-developers/"
     },
     {
@@ -247,7 +321,7 @@
         }
       ],
       "publishedAt": "2026-01-13T12:56:55.000Z",
-      "ranking": 4.7490679355648755,
+      "ranking": 4.1221572068492325,
       "articleUrl": "https://www.theverge.com/news/861295/meta-reality-labs-layoffs-shift-to-wearables"
     },
     {
@@ -281,7 +355,7 @@
         }
       ],
       "publishedAt": "2026-01-13T16:53:10.000Z",
-      "ranking": 4.022242284177715,
+      "ranking": 3.4497234899573397,
       "articleUrl": "https://www.theverge.com/news/861531/defiance-act-senate-passage-deepfakes-grok"
     },
     {
@@ -316,7 +390,7 @@
         }
       ],
       "publishedAt": "2026-01-13T14:00:00.000Z",
-      "ranking": 3.684257287729495,
+      "ranking": 3.0718702648562393,
       "articleUrl": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
     },
     {
@@ -352,7 +426,7 @@
         }
       ],
       "publishedAt": "2026-01-12T16:03:49.000Z",
-      "ranking": 0.4450117623579315,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/860881/uk-ai-x-grok-law-criminalizing-deepfake-nudes-ai"
     },
     {
@@ -938,42 +1012,6 @@
       "publishedAt": "2026-01-07T17:09:54.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/policy/857924/x-grok-ai-chatbot-bikini-images-regulators-congress"
-    },
-    {
-      "id": "679",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Falcon-H1R-7B",
-      "mediumTitle": "TII Releases Falcon-H1R-7B",
-      "longTitle": "Abu Dhabi\u0027s TII Launches New Reasoning Model",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The model\u0027s performance is competitive",
-            "with models significantly larger in",
-            "size, ranging from 14 to 47 billion",
-            "parameters.",
-            "Falcon-H1R-7B is a 7 billion parameter",
-            "reasoning model designed for various",
-            "cognitive tasks.",
-            "A key feature of Falcon-H1R-7B is its",
-            "256,000 token context window, allowing",
-            "it to process extensive amounts of text.",
-            "The Technology Innovation Institute",
-            "(TII) in Abu Dhabi is the developer of",
-            "the Falcon-H1R-7B model.",
-            "Benchmarks used to evaluate the model",
-            "included tests in mathematics, coding,",
-            "and general reasoning.",
-            "The release of Falcon-H1R-7B emphasizes",
-            "the creation of efficient models without",
-            "compromising reasoning abilities."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-07T13:12:35.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/07/tii-abu-dhabi-released-falcon-h1r-7b-a-new-reasoning-model-outperforming-others-in-math-and-coding-with-only-7b-params-with-256k-context-window/"
     }
   ]
 }
