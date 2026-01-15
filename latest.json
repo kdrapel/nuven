@@ -1,43 +1,6 @@
 {
   "articles": [
     {
-      "id": "723",
-      "topic": "Ethics, Security",
-      "source": "The Verge AI",
-      "shortTitle": "X \u0026 Deepfakes",
-      "mediumTitle": "Grok Deepfake Concerns",
-      "longTitle": "X Faces Criticism Over Deepfake Issues",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The deepfakes created using Grok are",
-            "non-consensual and sexually explicit,",
-            "specifically targeting women.",
-            "It took less than a minute to bypass the",
-            "latest restrictions designed to prevent",
-            "the chatbot from \u201Cundressing\u201D women in",
-            "generated images.",
-            "Users are readily able to generate",
-            "harmful and exploitative content despite",
-            "X\u2019s stated intentions.",
-            "X has attempted to implement",
-            "restrictions to prevent Grok from",
-            "generating harmful images, but these",
-            "have proven ineffective.",
-            "X acknowledges the problem of deepfake",
-            "abuse but has yet to demonstrate a",
-            "viable solution.",
-            "X, formerly known as Twitter, is under",
-            "Elon Musk\u2019s ownership and is grappling",
-            "with the fallout from deepfake abuse."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-14T13:47:01.000Z",
-      "ranking": 8,
-      "articleUrl": "https://www.theverge.com/news/861894/grok-still-undressing-in-uk"
-    },
-    {
       "id": "729",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -73,6 +36,43 @@
       "publishedAt": "2026-01-15T08:54:13.000Z",
       "ranking": 7.654999999999999,
       "articleUrl": "https://www.marktechpost.com/2026/01/14/deepseek-ai-researchers-introduce-engram-a-conditional-memory-axis-for-sparse-llms/"
+    },
+    {
+      "id": "730",
+      "topic": "Ethics, Security, Policy",
+      "source": "The Verge AI",
+      "shortTitle": "Deepfake Apps",
+      "mediumTitle": "X \u0026 Grok App Store Demand",
+      "longTitle": "Advocates Urge Apple \u0026 Google Action",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Advocacy groups argue the deepfakes",
+            "represent a clear violation of existing",
+            "app store policies.",
+            "Despite the alleged policy breaches,",
+            "both X and Grok remain available for",
+            "download.",
+            "X, formerly known as Twitter, is the",
+            "platform hosting the problematic",
+            "deepfakes.",
+            "The groups are urging decisive action",
+            "from Apple and Google to address the",
+            "issue.",
+            "xAI\u2019s Grok is also named in the demand",
+            "for removal from the app stores.",
+            "They believe removing the apps would",
+            "demonstrate stronger leadership in",
+            "content moderation.",
+            "The coalition includes women\u2019s",
+            "organizations and tech watchdogs",
+            "concerned about online safety."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-15T08:51:24.000Z",
+      "ranking": 7.38,
+      "articleUrl": "https://www.theverge.com/news/862460/apple-google-app-stores-ditch-grok-x-open-letters"
     },
     {
       "id": "728",
@@ -112,6 +112,43 @@
       "articleUrl": "https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation"
     },
     {
+      "id": "723",
+      "topic": "Ethics, Security",
+      "source": "The Verge AI",
+      "shortTitle": "X \u0026 Deepfakes",
+      "mediumTitle": "Grok Deepfake Concerns",
+      "longTitle": "X Faces Criticism Over Deepfake Issues",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The deepfakes created using Grok are",
+            "non-consensual and sexually explicit,",
+            "specifically targeting women.",
+            "It took less than a minute to bypass the",
+            "latest restrictions designed to prevent",
+            "the chatbot from \u201Cundressing\u201D women in",
+            "generated images.",
+            "Users are readily able to generate",
+            "harmful and exploitative content despite",
+            "X\u2019s stated intentions.",
+            "X has attempted to implement",
+            "restrictions to prevent Grok from",
+            "generating harmful images, but these",
+            "have proven ineffective.",
+            "X acknowledges the problem of deepfake",
+            "abuse but has yet to demonstrate a",
+            "viable solution.",
+            "X, formerly known as Twitter, is under",
+            "Elon Musk\u2019s ownership and is grappling",
+            "with the fallout from deepfake abuse."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-14T13:47:01.000Z",
+      "ranking": 6.774885762283625,
+      "articleUrl": "https://www.theverge.com/news/861894/grok-still-undressing-in-uk"
+    },
+    {
       "id": "725",
       "topic": "Music, Ethics",
       "source": "The Verge AI",
@@ -144,7 +181,7 @@
         }
       ],
       "publishedAt": "2026-01-14T11:52:20.000Z",
-      "ranking": 6.68728183336136,
+      "ranking": 6.317241096221517,
       "articleUrl": "https://www.theverge.com/news/861794/bandcamp-ban-ai-music"
     },
     {
@@ -180,7 +217,7 @@
         }
       ],
       "publishedAt": "2026-01-14T12:00:00.000Z",
-      "ranking": 6.328100582687478,
+      "ranking": 5.959846662551676,
       "articleUrl": "https://www.theverge.com/news/861576/google-gemini-ai-personal-intelligence-gmail-search-youtube-photos"
     },
     {
@@ -215,7 +252,7 @@
         }
       ],
       "publishedAt": "2026-01-14T09:00:50.000Z",
-      "ranking": 5.945452675734627,
+      "ranking": 5.535441566347662,
       "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
     },
     {
@@ -251,7 +288,7 @@
         }
       ],
       "publishedAt": "2026-01-14T09:00:50.000Z",
-      "ranking": 5.855452672437167,
+      "ranking": 5.445441557731389,
       "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
     },
     {
@@ -285,7 +322,7 @@
         }
       ],
       "publishedAt": "2026-01-14T08:30:39.000Z",
-      "ranking": 5.766406943050575,
+      "ranking": 5.349361197613677,
       "articleUrl": "https://www.marktechpost.com/2026/01/13/google-ai-releases-medgemma-1-5-the-latest-update-to-their-open-medical-ai-models-for-developers/"
     },
     {
@@ -321,7 +358,7 @@
         }
       ],
       "publishedAt": "2026-01-13T12:56:55.000Z",
-      "ranking": 4.1221572068492325,
+      "ranking": 3.4315571982134996,
       "articleUrl": "https://www.theverge.com/news/861295/meta-reality-labs-layoffs-shift-to-wearables"
     },
     {
@@ -355,7 +392,7 @@
         }
       ],
       "publishedAt": "2026-01-13T16:53:10.000Z",
-      "ranking": 3.4497234899573397,
+      "ranking": 2.814184704369029,
       "articleUrl": "https://www.theverge.com/news/861531/defiance-act-senate-passage-deepfakes-grok"
     },
     {
@@ -390,7 +427,7 @@
         }
       ],
       "publishedAt": "2026-01-13T14:00:00.000Z",
-      "ranking": 3.0718702648562393,
+      "ranking": 2.3959726695608863,
       "articleUrl": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
     },
     {
