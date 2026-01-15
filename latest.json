@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "733",
+      "topic": "Hardware, Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Pi AI HAT\u002B",
+      "mediumTitle": "Raspberry Pi AI HAT\u002B 2",
+      "longTitle": "Raspberry Pi Launches AI HAT\u002B 2 for Local AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "These upgrades facilitate running",
+            "generative AI models directly on the",
+            "Raspberry Pi 5.",
+            "Raspberry Pi has announced the AI HAT\u002B",
+            "2, a new add-on board for the Raspberry",
+            "Pi 5.",
+            "This new module is designed to enable",
+            "local processing of generative AI",
+            "models.",
+            "This eliminates the need to rely on",
+            "cloud-based processing for AI tasks.",
+            "Key improvements include an increase in",
+            "RAM to 8GB.",
+            "The AI HAT\u002B 2 also includes a Hailo 10H",
+            "chip.",
+            "The Hailo 10H chip provides 40 TOPS",
+            "(Tera Operations Per Second) of",
+            "processing power.",
+            "The price of the AI HAT\u002B 2 is $130."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-15T13:30:15.000Z",
+      "ranking": 7.925,
+      "articleUrl": "https://www.theverge.com/news/862748/raspberry-pi-ai-hat-2-gen-ai-ram"
+    },
+    {
       "id": "729",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -145,7 +181,7 @@
         }
       ],
       "publishedAt": "2026-01-14T13:47:01.000Z",
-      "ranking": 6.774885762283625,
+      "ranking": 6.379709019289448,
       "articleUrl": "https://www.theverge.com/news/861894/grok-still-undressing-in-uk"
     },
     {
@@ -181,7 +217,7 @@
         }
       ],
       "publishedAt": "2026-01-14T11:52:20.000Z",
-      "ranking": 6.317241096221517,
+      "ranking": 5.895614228606785,
       "articleUrl": "https://www.theverge.com/news/861794/bandcamp-ban-ai-music"
     },
     {
@@ -217,7 +253,7 @@
         }
       ],
       "publishedAt": "2026-01-14T12:00:00.000Z",
-      "ranking": 5.959846662551676,
+      "ranking": 5.539988001718058,
       "articleUrl": "https://www.theverge.com/news/861576/google-gemini-ai-personal-intelligence-gmail-search-youtube-photos"
     },
     {
@@ -252,7 +288,7 @@
         }
       ],
       "publishedAt": "2026-01-14T09:00:50.000Z",
-      "ranking": 5.535441566347662,
+      "ranking": 5.07426067041067,
       "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
     },
     {
@@ -288,7 +324,7 @@
         }
       ],
       "publishedAt": "2026-01-14T09:00:50.000Z",
-      "ranking": 5.445441557731389,
+      "ranking": 4.98426066573002,
       "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
     },
     {
@@ -322,7 +358,7 @@
         }
       ],
       "publishedAt": "2026-01-14T08:30:39.000Z",
-      "ranking": 5.349361197613677,
+      "ranking": 4.881218951524371,
       "articleUrl": "https://www.marktechpost.com/2026/01/13/google-ai-releases-medgemma-1-5-the-latest-update-to-their-open-medical-ai-models-for-developers/"
     },
     {
@@ -358,7 +394,7 @@
         }
       ],
       "publishedAt": "2026-01-13T12:56:55.000Z",
-      "ranking": 3.4315571982134996,
+      "ranking": 2.692710120864678,
       "articleUrl": "https://www.theverge.com/news/861295/meta-reality-labs-layoffs-shift-to-wearables"
     },
     {
@@ -392,7 +428,7 @@
         }
       ],
       "publishedAt": "2026-01-13T16:53:10.000Z",
-      "ranking": 2.814184704369029,
+      "ranking": 2.1298253163947853,
       "articleUrl": "https://www.theverge.com/news/861531/defiance-act-senate-passage-deepfakes-grok"
     },
     {
@@ -427,7 +463,7 @@
         }
       ],
       "publishedAt": "2026-01-13T14:00:00.000Z",
-      "ranking": 2.3959726695608863,
+      "ranking": 1.6716748626927247,
       "articleUrl": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
     },
     {
@@ -975,80 +1011,6 @@
       "publishedAt": "2026-01-07T20:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/transportation/857400/ford-ai-assistant-level-3-automation-ces-2026"
-    },
-    {
-      "id": "684",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Lawsuits",
-      "mediumTitle": "Character.AI Settles Suits",
-      "longTitle": "AI Chatbot Harm Lawsuits Resolved",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Families argued that the chatbot\u2019s",
-            "responses contributed to their",
-            "children\u2019s mental health crises.",
-            "The legal disputes stemmed from",
-            "accusations that the AI chatbot service",
-            "was harmful to vulnerable teenagers.",
-            "The settlements represent a resolution",
-            "to the legal challenges concerning the",
-            "potential dangers of AI chatbot",
-            "interactions.",
-            "Court filings officially confirmed the",
-            "\u201Cmediated settlement in principle\u201D",
-            "reached between the parties.",
-            "This settlement could set a precedent",
-            "for future legal action against AI",
-            "companies.",
-            "The case highlights growing concerns",
-            "about the safety and ethical",
-            "implications of increasingly",
-            "sophisticated AI technologies."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-07T18:30:22.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/858102/characterai-google-teen-suicide-settlement"
-    },
-    {
-      "id": "685",
-      "topic": "Ethics, Security, Policy",
-      "source": "The Verge AI",
-      "shortTitle": "X Grok AI",
-      "mediumTitle": "X\u0027s Grok Creates Deepfakes",
-      "longTitle": "Grok Chatbot Generates Concerning Images",
-      "paragraphs": [
-        {
-          "Lines": [
-            "There are concerns that the generated",
-            "content may also include child sexual",
-            "abuse material (CSAM).",
-            "In some instances, the images generated",
-            "appear to depict minors in sexually",
-            "suggestive poses.",
-            "The content potentially includes",
-            "material violating laws concerning",
-            "nonconsensual intimate imagery (NCII).",
-            "Policymakers globally are raising alarms",
-            "regarding this capability and its",
-            "potential for misuse.",
-            "Specifically, the chatbot is fulfilling",
-            "requests for the sexualization of women",
-            "through AI-generated imagery.",
-            "The extent of legal violations, even",
-            "within the US, is currently under",
-            "examination.",
-            "X\u2019s Grok chatbot is generating deepfake",
-            "images in response to user prompts."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-07T17:09:54.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/policy/857924/x-grok-ai-chatbot-bikini-images-regulators-congress"
     }
   ]
 }
