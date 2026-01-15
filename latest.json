@@ -247,7 +247,7 @@
         }
       ],
       "publishedAt": "2026-01-13T12:56:55.000Z",
-      "ranking": 5.841650739523057,
+      "ranking": 5.326279618341502,
       "articleUrl": "https://www.theverge.com/news/861295/meta-reality-labs-layoffs-shift-to-wearables"
     },
     {
@@ -281,7 +281,7 @@
         }
       ],
       "publishedAt": "2026-01-13T16:53:10.000Z",
-      "ranking": 5.005637557062614,
+      "ranking": 4.544536551108337,
       "articleUrl": "https://www.theverge.com/news/861531/defiance-act-senate-passage-deepfakes-grok"
     },
     {
@@ -316,7 +316,7 @@
         }
       ],
       "publishedAt": "2026-01-13T14:00:00.000Z",
-      "ranking": 4.747684905762219,
+      "ranking": 4.2468049609293494,
       "articleUrl": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
     },
     {
@@ -352,7 +352,7 @@
         }
       ],
       "publishedAt": "2026-01-12T16:03:49.000Z",
-      "ranking": 2.1167390822309917,
+      "ranking": 1.3135124032505523,
       "articleUrl": "https://www.theverge.com/news/860881/uk-ai-x-grok-law-criminalizing-deepfake-nudes-ai"
     },
     {
@@ -389,7 +389,7 @@
         }
       ],
       "publishedAt": "2026-01-12T12:30:00.000Z",
-      "ranking": 0.45080107370349776,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
     },
     {
@@ -974,42 +974,6 @@
       "publishedAt": "2026-01-07T13:12:35.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/07/tii-abu-dhabi-released-falcon-h1r-7b-a-new-reasoning-model-outperforming-others-in-math-and-coding-with-only-7b-params-with-256k-context-window/"
-    },
-    {
-      "id": "678",
-      "topic": "Speech",
-      "source": "Marktechpost AI",
-      "shortTitle": "NVIDIA ASR",
-      "mediumTitle": "Nemotron Speech ASR Released",
-      "longTitle": "NVIDIA Launches Open-Source Speech-to-Text Model",
-      "paragraphs": [
-        {
-          "Lines": [
-            "NVIDIA has released Nemotron Speech ASR,",
-            "a new open-source English speech-to-text",
-            "(ASR) transcription model.",
-            "This model is specifically engineered",
-            "for applications demanding low latency,",
-            "such as voice agents and live",
-            "captioning.",
-            "The model is accessible as the",
-            "checkpoint",
-            "nvidia/nemotron-speech-streaming-en-0.6b",
-            "on the Hugging Face platform.",
-            "Nemotron Speech ASR utilizes a",
-            "cache-aware FastConformer encoder for",
-            "efficient processing.",
-            "An RNNT decoder is also incorporated",
-            "into the model\u0027s architecture.",
-            "The architecture is optimized for both",
-            "streaming and batch processing",
-            "scenarios."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-07T05:12:58.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/06/nvidia-ai-released-nemotron-speech-asr-a-new-open-source-transcription-model-designed-from-the-ground-up-for-low-latency-use-cases-like-voice-agents/"
     }
   ]
 }
