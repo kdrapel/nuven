@@ -37,78 +37,6 @@
       "articleUrl": "https://www.theverge.com/news/863097/ashley-st-clair-elon-musk-grok-undressing-lawsuit"
     },
     {
-      "id": "733",
-      "topic": "Hardware, Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Pi AI HAT\u002B",
-      "mediumTitle": "Raspberry Pi AI HAT\u002B 2",
-      "longTitle": "Raspberry Pi Launches AI HAT\u002B 2 for Local AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "These upgrades facilitate running",
-            "generative AI models directly on the",
-            "Raspberry Pi 5.",
-            "Raspberry Pi has announced the AI HAT\u002B",
-            "2, a new add-on board for the Raspberry",
-            "Pi 5.",
-            "This new module is designed to enable",
-            "local processing of generative AI",
-            "models.",
-            "This eliminates the need to rely on",
-            "cloud-based processing for AI tasks.",
-            "Key improvements include an increase in",
-            "RAM to 8GB.",
-            "The AI HAT\u002B 2 also includes a Hailo 10H",
-            "chip.",
-            "The Hailo 10H chip provides 40 TOPS",
-            "(Tera Operations Per Second) of",
-            "processing power.",
-            "The price of the AI HAT\u002B 2 is $130."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-15T13:30:15.000Z",
-      "ranking": 7.925,
-      "articleUrl": "https://www.theverge.com/news/862748/raspberry-pi-ai-hat-2-gen-ai-ram"
-    },
-    {
-      "id": "734",
-      "topic": "Large Models",
-      "source": "The Verge AI",
-      "shortTitle": "Apple \u0026 AI",
-      "mediumTitle": "Apple\u0027s AI Shift",
-      "longTitle": "Apple Partners with Google on AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "To address these shortcomings, Apple is",
-            "now partnering with Google to integrate",
-            "Gemini models into Siri.",
-            "This partnership represents a",
-            "significant shift, as Apple will be",
-            "using a competitor\u0027s AI technology.",
-            "Apple experienced a challenging year in",
-            "AI, particularly with the underwhelming",
-            "launch of Apple Intelligence.",
-            "The article suggests Apple\u2019s primary",
-            "challenge now is effectively integrating",
-            "Gemini into its ecosystem.",
-            "The initial Apple Intelligence rollout",
-            "was described as \u0027embarrassing,\u0027",
-            "indicating significant issues or",
-            "shortcomings.",
-            "The integration of Gemini models aims to",
-            "improve Siri\u0027s capabilities and overall",
-            "AI performance."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-15T15:00:00.000Z",
-      "ranking": 7.872727272727272,
-      "articleUrl": "https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini"
-    },
-    {
       "id": "735",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -182,6 +110,115 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/15/google-ai-releases-translategemma-a-new-family-of-open-translation-models-built-on-gemma-3-with-support-for-55-languages/"
     },
     {
+      "id": "738",
+      "topic": "NLP",
+      "source": "VentureBeat AI",
+      "shortTitle": "Listen Labs",
+      "mediumTitle": "AI Research Funding",
+      "longTitle": "Listen Labs Secures $69M Series B",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft reduced its research time from",
+            "4-6 weeks to just days using Listen Labs",
+            "for its 50th anniversary customer",
+            "stories.",
+            "The platform delivers actionable",
+            "insights in hours, a significant",
+            "improvement over the weeks required by",
+            "conventional methods.",
+            "The platform identified a product flaw \u2013",
+            "a scratchy liner in Chubbies shorts \u2013",
+            "leading to a successful redesign.",
+            "Listen Labs envisions a future where AI",
+            "automates both coding and user research",
+            "for continuous product improvement.",
+            "The company is valued at $500 million",
+            "following the $69 million Series B",
+            "funding round.",
+            "Listen Labs recently gained attention",
+            "for a unique hiring campaign involving",
+            "AI tokens and a coding challenge."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-16T15:01:00.000Z",
+      "ranking": 6.838461538461539,
+      "articleUrl": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+    },
+    {
+      "id": "734",
+      "topic": "Large Models",
+      "source": "The Verge AI",
+      "shortTitle": "Apple \u0026 AI",
+      "mediumTitle": "Apple\u0027s AI Shift",
+      "longTitle": "Apple Partners with Google on AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "To address these shortcomings, Apple is",
+            "now partnering with Google to integrate",
+            "Gemini models into Siri.",
+            "This partnership represents a",
+            "significant shift, as Apple will be",
+            "using a competitor\u0027s AI technology.",
+            "Apple experienced a challenging year in",
+            "AI, particularly with the underwhelming",
+            "launch of Apple Intelligence.",
+            "The article suggests Apple\u2019s primary",
+            "challenge now is effectively integrating",
+            "Gemini into its ecosystem.",
+            "The initial Apple Intelligence rollout",
+            "was described as \u0027embarrassing,\u0027",
+            "indicating significant issues or",
+            "shortcomings.",
+            "The integration of Gemini models aims to",
+            "improve Siri\u0027s capabilities and overall",
+            "AI performance."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-15T15:00:00.000Z",
+      "ranking": 6.757933034272343,
+      "articleUrl": "https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini"
+    },
+    {
+      "id": "733",
+      "topic": "Hardware, Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Pi AI HAT\u002B",
+      "mediumTitle": "Raspberry Pi AI HAT\u002B 2",
+      "longTitle": "Raspberry Pi Launches AI HAT\u002B 2 for Local AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "These upgrades facilitate running",
+            "generative AI models directly on the",
+            "Raspberry Pi 5.",
+            "Raspberry Pi has announced the AI HAT\u002B",
+            "2, a new add-on board for the Raspberry",
+            "Pi 5.",
+            "This new module is designed to enable",
+            "local processing of generative AI",
+            "models.",
+            "This eliminates the need to rely on",
+            "cloud-based processing for AI tasks.",
+            "Key improvements include an increase in",
+            "RAM to 8GB.",
+            "The AI HAT\u002B 2 also includes a Hailo 10H",
+            "chip.",
+            "The Hailo 10H chip provides 40 TOPS",
+            "(Tera Operations Per Second) of",
+            "processing power.",
+            "The price of the AI HAT\u002B 2 is $130."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-15T13:30:15.000Z",
+      "ranking": 6.674708018970452,
+      "articleUrl": "https://www.theverge.com/news/862748/raspberry-pi-ai-hat-2-gen-ai-ram"
+    },
+    {
       "id": "729",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -215,7 +252,7 @@
         }
       ],
       "publishedAt": "2026-01-15T08:54:13.000Z",
-      "ranking": 6.345719574408515,
+      "ranking": 5.939281515908286,
       "articleUrl": "https://www.marktechpost.com/2026/01/14/deepseek-ai-researchers-introduce-engram-a-conditional-memory-axis-for-sparse-llms/"
     },
     {
@@ -252,7 +289,7 @@
         }
       ],
       "publishedAt": "2026-01-15T08:51:24.000Z",
-      "ranking": 6.066239444043113,
+      "ranking": 5.6591534866498545,
       "articleUrl": "https://www.theverge.com/news/862460/apple-google-app-stores-ditch-grok-x-open-letters"
     },
     {
@@ -289,7 +326,7 @@
         }
       ],
       "publishedAt": "2026-01-15T04:30:00.000Z",
-      "ranking": 5.237155027792186,
+      "ranking": 4.76994109640471,
       "articleUrl": "https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation"
     },
     {
@@ -326,7 +363,7 @@
         }
       ],
       "publishedAt": "2026-01-14T13:47:01.000Z",
-      "ranking": 4.232889356410119,
+      "ranking": 3.562569081554644,
       "articleUrl": "https://www.theverge.com/news/861894/grok-still-undressing-in-uk"
     },
     {
@@ -362,7 +399,7 @@
         }
       ],
       "publishedAt": "2026-01-14T11:52:20.000Z",
-      "ranking": 3.642393984739744,
+      "ranking": 2.945693853608131,
       "articleUrl": "https://www.theverge.com/news/861794/bandcamp-ban-ai-music"
     },
     {
@@ -398,7 +435,7 @@
         }
       ],
       "publishedAt": "2026-01-14T12:00:00.000Z",
-      "ranking": 3.293880695178512,
+      "ranking": 2.598944071541733,
       "articleUrl": "https://www.theverge.com/news/861576/google-gemini-ai-personal-intelligence-gmail-search-youtube-photos"
     },
     {
@@ -433,7 +470,7 @@
         }
       ],
       "publishedAt": "2026-01-14T09:00:50.000Z",
-      "ranking": 2.661926987604951,
+      "ranking": 1.925777932869324,
       "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
     },
     {
@@ -469,7 +506,7 @@
         }
       ],
       "publishedAt": "2026-01-14T09:00:50.000Z",
-      "ranking": 2.5719269812652668,
+      "ranking": 1.835777926172332,
       "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
     },
     {
@@ -503,7 +540,7 @@
         }
       ],
       "publishedAt": "2026-01-14T08:30:39.000Z",
-      "ranking": 2.440881920008196,
+      "ranking": 1.6977900061659756,
       "articleUrl": "https://www.marktechpost.com/2026/01/13/google-ai-releases-medgemma-1-5-the-latest-update-to-their-open-medical-ai-models-for-developers/"
     },
     {
@@ -1012,41 +1049,6 @@
       "publishedAt": "2026-01-08T16:22:38.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/08/stanford-researchers-build-sleepfm-clinical-a-multimodal-sleep-foundation-ai-model-for-130-disease-prediction/"
-    },
-    {
-      "id": "690",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Copilot Buys",
-      "mediumTitle": "Copilot Adds Shopping",
-      "longTitle": "Microsoft Copilot Integrates Direct Purchasing",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft is integrating direct",
-            "purchasing capabilities into its Copilot",
-            "AI chatbot.",
-            "This new feature enables users to",
-            "complete purchases *within* the Copilot",
-            "interface during conversational",
-            "interactions.",
-            "Specifically, when a user asks Copilot",
-            "for product recommendations \u2013 such as",
-            "suggestions for sneakers \u2013 the chatbot",
-            "will now display a \u0022buy\u0022 option",
-            "alongside the recommended items.",
-            "This allows users to proceed to checkout",
-            "and purchase the selected product",
-            "directly from within the Copilot",
-            "application.",
-            "The integration streamlines the shopping",
-            "experience."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-08T13:04:19.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/858664/microsoft-copilot-ai-checkout-buy-products"
     }
   ]
 }
