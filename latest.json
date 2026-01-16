@@ -146,80 +146,6 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/15/nvidia-ai-open-sourced-kvzap-a-sota-kv-cache-pruning-method-that-delivers-near-lossless-2x-4x-compression/"
     },
     {
-      "id": "729",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Engram Module",
-      "mediumTitle": "Engram Boosts LLMs",
-      "longTitle": "New Module Improves LLM Efficiency",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Engram addresses limitations in current",
-            "LLMs related to knowledge lookup and",
-            "computational efficiency.",
-            "Engram adds a \u0027conditional memory axis\u0027",
-            "that functions in conjunction with MoE.",
-            "Engram specifically targets the gap in",
-            "existing architectures regarding",
-            "efficient knowledge retrieval.",
-            "These architectures repeatedly",
-            "re-compute local patterns, leading to",
-            "wasted computational resources.",
-            "The goal is to reduce the need for",
-            "redundant computations and improve",
-            "overall performance.",
-            "DeepSeek AI researchers are responsible",
-            "for the development of the Engram",
-            "module.",
-            "This new module provides a native",
-            "mechanism for knowledge lookup within",
-            "the LLM."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-15T08:54:13.000Z",
-      "ranking": 7.654999999999999,
-      "articleUrl": "https://www.marktechpost.com/2026/01/14/deepseek-ai-researchers-introduce-engram-a-conditional-memory-axis-for-sparse-llms/"
-    },
-    {
-      "id": "730",
-      "topic": "Ethics, Security, Policy",
-      "source": "The Verge AI",
-      "shortTitle": "Deepfake Apps",
-      "mediumTitle": "X \u0026 Grok App Store Demand",
-      "longTitle": "Advocates Urge Apple \u0026 Google Action",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Advocacy groups argue the deepfakes",
-            "represent a clear violation of existing",
-            "app store policies.",
-            "Despite the alleged policy breaches,",
-            "both X and Grok remain available for",
-            "download.",
-            "X, formerly known as Twitter, is the",
-            "platform hosting the problematic",
-            "deepfakes.",
-            "The groups are urging decisive action",
-            "from Apple and Google to address the",
-            "issue.",
-            "xAI\u2019s Grok is also named in the demand",
-            "for removal from the app stores.",
-            "They believe removing the apps would",
-            "demonstrate stronger leadership in",
-            "content moderation.",
-            "The coalition includes women\u2019s",
-            "organizations and tech watchdogs",
-            "concerned about online safety."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-15T08:51:24.000Z",
-      "ranking": 7.38,
-      "articleUrl": "https://www.theverge.com/news/862460/apple-google-app-stores-ditch-grok-x-open-letters"
-    },
-    {
       "id": "737",
       "topic": "NLP",
       "source": "Marktechpost AI",
@@ -256,6 +182,80 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/15/google-ai-releases-translategemma-a-new-family-of-open-translation-models-built-on-gemma-3-with-support-for-55-languages/"
     },
     {
+      "id": "729",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Engram Module",
+      "mediumTitle": "Engram Boosts LLMs",
+      "longTitle": "New Module Improves LLM Efficiency",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Engram addresses limitations in current",
+            "LLMs related to knowledge lookup and",
+            "computational efficiency.",
+            "Engram adds a \u0027conditional memory axis\u0027",
+            "that functions in conjunction with MoE.",
+            "Engram specifically targets the gap in",
+            "existing architectures regarding",
+            "efficient knowledge retrieval.",
+            "These architectures repeatedly",
+            "re-compute local patterns, leading to",
+            "wasted computational resources.",
+            "The goal is to reduce the need for",
+            "redundant computations and improve",
+            "overall performance.",
+            "DeepSeek AI researchers are responsible",
+            "for the development of the Engram",
+            "module.",
+            "This new module provides a native",
+            "mechanism for knowledge lookup within",
+            "the LLM."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-15T08:54:13.000Z",
+      "ranking": 6.345719574408515,
+      "articleUrl": "https://www.marktechpost.com/2026/01/14/deepseek-ai-researchers-introduce-engram-a-conditional-memory-axis-for-sparse-llms/"
+    },
+    {
+      "id": "730",
+      "topic": "Ethics, Security, Policy",
+      "source": "The Verge AI",
+      "shortTitle": "Deepfake Apps",
+      "mediumTitle": "X \u0026 Grok App Store Demand",
+      "longTitle": "Advocates Urge Apple \u0026 Google Action",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Advocacy groups argue the deepfakes",
+            "represent a clear violation of existing",
+            "app store policies.",
+            "Despite the alleged policy breaches,",
+            "both X and Grok remain available for",
+            "download.",
+            "X, formerly known as Twitter, is the",
+            "platform hosting the problematic",
+            "deepfakes.",
+            "The groups are urging decisive action",
+            "from Apple and Google to address the",
+            "issue.",
+            "xAI\u2019s Grok is also named in the demand",
+            "for removal from the app stores.",
+            "They believe removing the apps would",
+            "demonstrate stronger leadership in",
+            "content moderation.",
+            "The coalition includes women\u2019s",
+            "organizations and tech watchdogs",
+            "concerned about online safety."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-15T08:51:24.000Z",
+      "ranking": 6.066239444043113,
+      "articleUrl": "https://www.theverge.com/news/862460/apple-google-app-stores-ditch-grok-x-open-letters"
+    },
+    {
       "id": "728",
       "topic": "Business",
       "source": "The Verge AI",
@@ -289,7 +289,7 @@
         }
       ],
       "publishedAt": "2026-01-15T04:30:00.000Z",
-      "ranking": 5.655030328340021,
+      "ranking": 5.237155027792186,
       "articleUrl": "https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation"
     },
     {
@@ -326,7 +326,7 @@
         }
       ],
       "publishedAt": "2026-01-14T13:47:01.000Z",
-      "ranking": 4.856786060628377,
+      "ranking": 4.232889356410119,
       "articleUrl": "https://www.theverge.com/news/861894/grok-still-undressing-in-uk"
     },
     {
@@ -362,7 +362,7 @@
         }
       ],
       "publishedAt": "2026-01-14T11:52:20.000Z",
-      "ranking": 4.29304915595452,
+      "ranking": 3.642393984739744,
       "articleUrl": "https://www.theverge.com/news/861794/bandcamp-ban-ai-music"
     },
     {
@@ -398,7 +398,7 @@
         }
       ],
       "publishedAt": "2026-01-14T12:00:00.000Z",
-      "ranking": 3.9427470475712463,
+      "ranking": 3.293880695178512,
       "articleUrl": "https://www.theverge.com/news/861576/google-gemini-ai-personal-intelligence-gmail-search-youtube-photos"
     },
     {
@@ -433,7 +433,7 @@
         }
       ],
       "publishedAt": "2026-01-14T09:00:50.000Z",
-      "ranking": 3.352597264552655,
+      "ranking": 2.661926987604951,
       "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
     },
     {
@@ -469,7 +469,7 @@
         }
       ],
       "publishedAt": "2026-01-14T09:00:50.000Z",
-      "ranking": 3.2625972579987446,
+      "ranking": 2.5719269812652668,
       "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
     },
     {
@@ -503,44 +503,8 @@
         }
       ],
       "publishedAt": "2026-01-14T08:30:39.000Z",
-      "ranking": 3.1385946995586695,
+      "ranking": 2.440881920008196,
       "articleUrl": "https://www.marktechpost.com/2026/01/13/google-ai-releases-medgemma-1-5-the-latest-update-to-their-open-medical-ai-models-for-developers/"
-    },
-    {
-      "id": "715",
-      "topic": "Robotics",
-      "source": "The Verge AI",
-      "shortTitle": "Meta Layoffs",
-      "mediumTitle": "Meta Restructures XR Division",
-      "longTitle": "Meta Cuts 10% of Reality Labs Staff",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta has confirmed layoffs impacting",
-            "approximately 10 percent of its Reality",
-            "Labs division.",
-            "The company is moving to allocate more",
-            "resources towards the development of",
-            "wearable technology.",
-            "The restructuring accompanies a",
-            "strategic shift in Meta\u2019s investment",
-            "priorities.",
-            "The layoffs within Reality Labs are",
-            "directly linked to this reallocation of",
-            "investment.",
-            "This division is responsible for the",
-            "development of Meta\u2019s extended reality",
-            "(XR) products and services \u2013",
-            "encompassing virtual reality (VR) and",
-            "augmented reality (AR).",
-            "Meta is lessening its focus on the",
-            "Metaverse in favor of wearable devices."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-13T12:56:55.000Z",
-      "ranking": 0.13498570004090915,
-      "articleUrl": "https://www.theverge.com/news/861295/meta-reality-labs-layoffs-shift-to-wearables"
     },
     {
       "id": "717",
@@ -610,6 +574,42 @@
       "publishedAt": "2026-01-13T14:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+    },
+    {
+      "id": "715",
+      "topic": "Robotics",
+      "source": "The Verge AI",
+      "shortTitle": "Meta Layoffs",
+      "mediumTitle": "Meta Restructures XR Division",
+      "longTitle": "Meta Cuts 10% of Reality Labs Staff",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta has confirmed layoffs impacting",
+            "approximately 10 percent of its Reality",
+            "Labs division.",
+            "The company is moving to allocate more",
+            "resources towards the development of",
+            "wearable technology.",
+            "The restructuring accompanies a",
+            "strategic shift in Meta\u2019s investment",
+            "priorities.",
+            "The layoffs within Reality Labs are",
+            "directly linked to this reallocation of",
+            "investment.",
+            "This division is responsible for the",
+            "development of Meta\u2019s extended reality",
+            "(XR) products and services \u2013",
+            "encompassing virtual reality (VR) and",
+            "augmented reality (AR).",
+            "Meta is lessening its focus on the",
+            "Metaverse in favor of wearable devices."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-13T12:56:55.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/861295/meta-reality-labs-layoffs-shift-to-wearables"
     },
     {
       "id": "707",
