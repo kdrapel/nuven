@@ -38,43 +38,6 @@
       "articleUrl": "https://www.theverge.com/news/863425/x-twitter-outage-january-16th-2026"
     },
     {
-      "id": "735",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "KVzap",
-      "mediumTitle": "NVIDIA\u0027s KV Cache Pruning",
-      "longTitle": "KVzap: Reducing LLM Memory Footprint",
-      "paragraphs": [
-        {
-          "Lines": [
-            "NVIDIA AI has open-sourced KVzap to",
-            "address the increasing KV cache size in",
-            "transformer decoders.",
-            "Pruning the KV cache makes large",
-            "language models more practical for",
-            "real-world applications.",
-            "The substantial memory footprint of the",
-            "KV cache hinders the deployment of LLMs",
-            "with extended context windows.",
-            "KVzap delivers near-lossless",
-            "compression, meaning minimal performance",
-            "impact from the size reduction.",
-            "The KV cache size is a significant issue",
-            "for deploying large models like",
-            "Llama1-65B.",
-            "The KV cache stores keys and values in",
-            "the shape (2, L, H, T, D) for each layer",
-            "and head.",
-            "This new method is designed to tackle",
-            "the bottleneck of KV cache size."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-15T22:12:26.000Z",
-      "ranking": 7.805000000000001,
-      "articleUrl": "https://www.marktechpost.com/2026/01/15/nvidia-ai-open-sourced-kvzap-a-sota-kv-cache-pruning-method-that-delivers-near-lossless-2x-4x-compression/"
-    },
-    {
       "id": "741",
       "topic": "Business",
       "source": "The Verge AI",
@@ -109,42 +72,6 @@
       "publishedAt": "2026-01-16T14:00:00.000Z",
       "ranking": 7.14,
       "articleUrl": "https://www.theverge.com/news/863428/openai-chatgpt-shopping-ads-test"
-    },
-    {
-      "id": "736",
-      "topic": "Ethics \u0026 Security",
-      "source": "The Verge AI",
-      "shortTitle": "St. Clair vs X",
-      "mediumTitle": "X Sued Over AI Image",
-      "longTitle": "Ashley St. Clair Sues X Over Deepfake",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Ashley St. Clair is suing X (formerly",
-            "Twitter) over the alleged creation of a",
-            "deepfake image.",
-            "St. Clair alleges the AI virtually",
-            "removed her clothing, resulting in a",
-            "depiction of her in a bikini without her",
-            "permission.",
-            "The lawsuit specifically names Grok, X\u2019s",
-            "AI chatbot, as the tool used to generate",
-            "the image.",
-            "The image in question is described as a",
-            "sexually explicit, digitally altered",
-            "depiction of St. Clair.",
-            "The core argument of the lawsuit is that",
-            "X enabled the AI to create and",
-            "disseminate the harmful image.",
-            "The lawsuit seeks to hold X accountable",
-            "for the exploitation and harm caused by",
-            "its AI chatbot."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-15T19:33:29.000Z",
-      "ranking": 6.9306608523709405,
-      "articleUrl": "https://www.theverge.com/news/863097/ashley-st-clair-elon-musk-grok-undressing-lawsuit"
     },
     {
       "id": "737",
@@ -220,6 +147,79 @@
       "articleUrl": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
     },
     {
+      "id": "735",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "KVzap",
+      "mediumTitle": "NVIDIA\u0027s KV Cache Pruning",
+      "longTitle": "KVzap: Reducing LLM Memory Footprint",
+      "paragraphs": [
+        {
+          "Lines": [
+            "NVIDIA AI has open-sourced KVzap to",
+            "address the increasing KV cache size in",
+            "transformer decoders.",
+            "Pruning the KV cache makes large",
+            "language models more practical for",
+            "real-world applications.",
+            "The substantial memory footprint of the",
+            "KV cache hinders the deployment of LLMs",
+            "with extended context windows.",
+            "KVzap delivers near-lossless",
+            "compression, meaning minimal performance",
+            "impact from the size reduction.",
+            "The KV cache size is a significant issue",
+            "for deploying large models like",
+            "Llama1-65B.",
+            "The KV cache stores keys and values in",
+            "the shape (2, L, H, T, D) for each layer",
+            "and head.",
+            "This new method is designed to tackle",
+            "the bottleneck of KV cache size."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-15T22:12:26.000Z",
+      "ranking": 6.621748187396611,
+      "articleUrl": "https://www.marktechpost.com/2026/01/15/nvidia-ai-open-sourced-kvzap-a-sota-kv-cache-pruning-method-that-delivers-near-lossless-2x-4x-compression/"
+    },
+    {
+      "id": "736",
+      "topic": "Ethics \u0026 Security",
+      "source": "The Verge AI",
+      "shortTitle": "St. Clair vs X",
+      "mediumTitle": "X Sued Over AI Image",
+      "longTitle": "Ashley St. Clair Sues X Over Deepfake",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Ashley St. Clair is suing X (formerly",
+            "Twitter) over the alleged creation of a",
+            "deepfake image.",
+            "St. Clair alleges the AI virtually",
+            "removed her clothing, resulting in a",
+            "depiction of her in a bikini without her",
+            "permission.",
+            "The lawsuit specifically names Grok, X\u2019s",
+            "AI chatbot, as the tool used to generate",
+            "the image.",
+            "The image in question is described as a",
+            "sexually explicit, digitally altered",
+            "depiction of St. Clair.",
+            "The core argument of the lawsuit is that",
+            "X enabled the AI to create and",
+            "disseminate the harmful image.",
+            "The lawsuit seeks to hold X accountable",
+            "for the exploitation and harm caused by",
+            "its AI chatbot."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-15T19:33:29.000Z",
+      "ranking": 6.562604656939939,
+      "articleUrl": "https://www.theverge.com/news/863097/ashley-st-clair-elon-musk-grok-undressing-lawsuit"
+    },
+    {
       "id": "739",
       "topic": "NLP, Generative AI",
       "source": "The Verge AI",
@@ -287,7 +287,7 @@
         }
       ],
       "publishedAt": "2026-01-15T15:00:00.000Z",
-      "ranking": 6.376685046927997,
+      "ranking": 5.945975851685882,
       "articleUrl": "https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini"
     },
     {
@@ -323,7 +323,7 @@
         }
       ],
       "publishedAt": "2026-01-15T13:30:15.000Z",
-      "ranking": 6.272606882925309,
+      "ranking": 5.821336627184831,
       "articleUrl": "https://www.theverge.com/news/862748/raspberry-pi-ai-hat-2-gen-ai-ram"
     },
     {
@@ -360,7 +360,7 @@
         }
       ],
       "publishedAt": "2026-01-15T08:54:13.000Z",
-      "ranking": 5.473044846730273,
+      "ranking": 4.958537398841081,
       "articleUrl": "https://www.marktechpost.com/2026/01/14/deepseek-ai-researchers-introduce-engram-a-conditional-memory-axis-for-sparse-llms/"
     },
     {
@@ -397,7 +397,7 @@
         }
       ],
       "publishedAt": "2026-01-15T08:51:24.000Z",
-      "ranking": 5.1922623739955185,
+      "ranking": 4.677109647457944,
       "articleUrl": "https://www.theverge.com/news/862460/apple-google-app-stores-ditch-grok-x-open-letters"
     },
     {
@@ -434,7 +434,7 @@
         }
       ],
       "publishedAt": "2026-01-15T04:30:00.000Z",
-      "ranking": 4.242314463100678,
+      "ranking": 3.667276932687372,
       "articleUrl": "https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation"
     },
     {
@@ -471,7 +471,7 @@
         }
       ],
       "publishedAt": "2026-01-14T13:47:01.000Z",
-      "ranking": 2.829783868102761,
+      "ranking": 2.0524613972331274,
       "articleUrl": "https://www.theverge.com/news/861894/grok-still-undressing-in-uk"
     },
     {
@@ -507,7 +507,7 @@
         }
       ],
       "publishedAt": "2026-01-14T11:52:20.000Z",
-      "ranking": 2.186262276037434,
+      "ranking": 1.3826666396321494,
       "articleUrl": "https://www.theverge.com/news/861794/bandcamp-ban-ai-music"
     },
     {
@@ -543,7 +543,7 @@
         }
       ],
       "publishedAt": "2026-01-14T12:00:00.000Z",
-      "ranking": 1.8412938080685075,
+      "ranking": 1.0394545577229142,
       "articleUrl": "https://www.theverge.com/news/861576/google-gemini-ai-personal-intelligence-gmail-search-youtube-photos"
     },
     {
@@ -578,7 +578,7 @@
         }
       ],
       "publishedAt": "2026-01-14T09:00:50.000Z",
-      "ranking": 1.1264988229158845,
+      "ranking": 0.2836138142722504,
       "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
     },
     {
@@ -614,7 +614,7 @@
         }
       ],
       "publishedAt": "2026-01-14T09:00:50.000Z",
-      "ranking": 1.0364988150289074,
+      "ranking": 0.19361380745872037,
       "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
     },
     {
@@ -648,7 +648,7 @@
         }
       ],
       "publishedAt": "2026-01-14T08:30:39.000Z",
-      "ranking": 0.8914978873388142,
+      "ranking": 0.041698101742036364,
       "articleUrl": "https://www.marktechpost.com/2026/01/13/google-ai-releases-medgemma-1-5-the-latest-update-to-their-open-medical-ai-models-for-developers/"
     },
     {
@@ -974,80 +974,6 @@
       "publishedAt": "2026-01-09T15:13:32.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/859715/x-grok-ai-deepfakes"
-    },
-    {
-      "id": "696",
-      "topic": "Energy",
-      "source": "The Verge AI",
-      "shortTitle": "Meta \u0026 Nuclear",
-      "mediumTitle": "Meta Powers AI with Nuclear",
-      "longTitle": "Meta Invests in Nuclear Energy for AI Data Centers",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta is actively expanding its reliance",
-            "on nuclear power to meet the substantial",
-            "energy demands of its growing artificial",
-            "intelligence (AI) data center",
-            "infrastructure.",
-            "The company has entered into agreements",
-            "with three nuclear power providers:",
-            "TerraPower, Oklo, and Vistra.",
-            "The partnerships represent a significant",
-            "step towards powering Meta\u2019s data",
-            "centers with carbon-free energy.",
-            "This move addresses the increasing",
-            "energy consumption associated with AI",
-            "development and deployment.",
-            "The agreements collectively aim to",
-            "provide Meta with 6.6 gigawatts of",
-            "energy.",
-            "TerraPower, a company supported by Bill",
-            "Gates, is a key partner in this",
-            "initiative."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-09T14:53:21.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/859751/meta-nuclear-energy-plant-agreements-ai-data-centers"
-    },
-    {
-      "id": "697",
-      "topic": "Gaming",
-      "source": "The Verge AI",
-      "shortTitle": "BG3 \u0026 AI",
-      "mediumTitle": "Larian Rejects AI Art",
-      "longTitle": "Baldur\u0027s Gate 3 Devs Oppose AI in Core Roles",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Vincke specifically stated that",
-            "AI-generated art would not be",
-            "incorporated into their projects.",
-            "The studio believes that AI is",
-            "unsuitable for the nuanced and original",
-            "work required for concept art and",
-            "narrative development.",
-            "Larian Studios, the developer of",
-            "*Baldur\u0027s Gate 3*, has publicly stated",
-            "its firm stance against utilizing",
-            "generative AI for core creative tasks.",
-            "The studio views human creativity and",
-            "artistic vision as fundamentally",
-            "important.",
-            "The developers were emphatic about",
-            "protecting the roles of human artists",
-            "and writers.",
-            "Recent discussions and reports regarding",
-            "the studio\u2019s AI usage prompted the",
-            "Reddit AMA session."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-09T13:20:15.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/games/859551/baldurs-gate-3-larian-studios-gen-ai-concept-art-reddit-ama"
     }
   ]
 }
