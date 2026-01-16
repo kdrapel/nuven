@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "736",
+      "topic": "Ethics \u0026 Security",
+      "source": "The Verge AI",
+      "shortTitle": "St. Clair vs X",
+      "mediumTitle": "X Sued Over AI Image",
+      "longTitle": "Ashley St. Clair Sues X Over Deepfake",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Ashley St. Clair is suing X (formerly",
+            "Twitter) over the alleged creation of a",
+            "deepfake image.",
+            "St. Clair alleges the AI virtually",
+            "removed her clothing, resulting in a",
+            "depiction of her in a bikini without her",
+            "permission.",
+            "The lawsuit specifically names Grok, X\u2019s",
+            "AI chatbot, as the tool used to generate",
+            "the image.",
+            "The image in question is described as a",
+            "sexually explicit, digitally altered",
+            "depiction of St. Clair.",
+            "The core argument of the lawsuit is that",
+            "X enabled the AI to create and",
+            "disseminate the harmful image.",
+            "The lawsuit seeks to hold X accountable",
+            "for the exploitation and harm caused by",
+            "its AI chatbot."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-15T19:33:29.000Z",
+      "ranking": 7.998181818181819,
+      "articleUrl": "https://www.theverge.com/news/863097/ashley-st-clair-elon-musk-grok-undressing-lawsuit"
+    },
+    {
       "id": "733",
       "topic": "Hardware, Generative AI",
       "source": "The Verge AI",
@@ -254,7 +290,7 @@
         }
       ],
       "publishedAt": "2026-01-14T13:47:01.000Z",
-      "ranking": 5.928509692137069,
+      "ranking": 5.416406445157963,
       "articleUrl": "https://www.theverge.com/news/861894/grok-still-undressing-in-uk"
     },
     {
@@ -290,7 +326,7 @@
         }
       ],
       "publishedAt": "2026-01-14T11:52:20.000Z",
-      "ranking": 5.417916485421443,
+      "ranking": 4.87903959997195,
       "articleUrl": "https://www.theverge.com/news/861794/bandcamp-ban-ai-music"
     },
     {
@@ -326,7 +362,7 @@
         }
       ],
       "publishedAt": "2026-01-14T12:00:00.000Z",
-      "ranking": 5.064061691829585,
+      "ranking": 4.526974639063794,
       "articleUrl": "https://www.theverge.com/news/861576/google-gemini-ai-personal-intelligence-gmail-search-youtube-photos"
     },
     {
@@ -361,7 +397,7 @@
         }
       ],
       "publishedAt": "2026-01-14T09:00:50.000Z",
-      "ranking": 4.556936713247131,
+      "ranking": 3.9780220090664242,
       "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
     },
     {
@@ -397,7 +433,7 @@
         }
       ],
       "publishedAt": "2026-01-14T09:00:50.000Z",
-      "ranking": 4.466936708697116,
+      "ranking": 3.88802200413729,
       "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
     },
     {
@@ -431,7 +467,7 @@
         }
       ],
       "publishedAt": "2026-01-14T08:30:39.000Z",
-      "ranking": 4.3569209344110185,
+      "ranking": 3.770959729549731,
       "articleUrl": "https://www.marktechpost.com/2026/01/13/google-ai-releases-medgemma-1-5-the-latest-update-to-their-open-medical-ai-models-for-developers/"
     },
     {
@@ -467,7 +503,7 @@
         }
       ],
       "publishedAt": "2026-01-13T12:56:55.000Z",
-      "ranking": 1.8972132293315997,
+      "ranking": 1.0372361657436384,
       "articleUrl": "https://www.theverge.com/news/861295/meta-reality-labs-layoffs-shift-to-wearables"
     },
     {
@@ -501,7 +537,7 @@
         }
       ],
       "publishedAt": "2026-01-13T16:53:10.000Z",
-      "ranking": 1.3889155520155452,
+      "ranking": 0.5840926222322746,
       "articleUrl": "https://www.theverge.com/news/861531/defiance-act-senate-passage-deepfakes-grok"
     },
     {
@@ -536,7 +572,7 @@
         }
       ],
       "publishedAt": "2026-01-13T14:00:00.000Z",
-      "ranking": 0.8907537898884952,
+      "ranking": 0.04550394901926147,
       "articleUrl": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
     },
     {
@@ -975,43 +1011,6 @@
       "publishedAt": "2026-01-08T13:04:19.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/858664/microsoft-copilot-ai-checkout-buy-products"
-    },
-    {
-      "id": "683",
-      "topic": "Dev Tools",
-      "source": "Marktechpost AI",
-      "shortTitle": "Beam Pipeline",
-      "mediumTitle": "Unified Batch \u0026 Stream",
-      "longTitle": "Apache Beam: Batch \u0026 Stream Processing",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This tutorial demonstrates building a",
-            "unified Apache Beam pipeline capable of",
-            "handling both batch and stream",
-            "processing using the DirectRunner.",
-            "Minimal code changes are required to",
-            "switch between batch and stream",
-            "processing.",
-            "The core functionality showcases Apache",
-            "Beam\u0027s ability to operate in both batch",
-            "and stream modes.",
-            "Specifically, the mode switch is",
-            "achieved by adjusting only a single",
-            "parameter within the pipeline",
-            "configuration.",
-            "The article provides a coding",
-            "implementation to illustrate the unified",
-            "approach in practice.",
-            "The pipeline consistently manages both",
-            "punctual and delayed events, ensuring",
-            "data accuracy."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-07T22:08:53.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/07/a-coding-implementation-to-build-a-unified-apache-beam-pipeline-demonstrating-batch-and-stream-processing-with-event-time-windowing-using-directrunner/"
     }
   ]
 }
