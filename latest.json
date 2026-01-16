@@ -1,40 +1,41 @@
 {
   "articles": [
     {
-      "id": "736",
-      "topic": "Ethics \u0026 Security",
+      "id": "743",
+      "topic": "AI Ops",
       "source": "The Verge AI",
-      "shortTitle": "St. Clair vs X",
-      "mediumTitle": "X Sued Over AI Image",
-      "longTitle": "Ashley St. Clair Sues X Over Deepfake",
+      "shortTitle": "X Outage",
+      "mediumTitle": "X \u0026 Grok Experience Outage",
+      "longTitle": "Widespread X (Twitter) Outage Disrupts Users",
       "paragraphs": [
         {
           "Lines": [
-            "Ashley St. Clair is suing X (formerly",
-            "Twitter) over the alleged creation of a",
-            "deepfake image.",
-            "St. Clair alleges the AI virtually",
-            "removed her clothing, resulting in a",
-            "depiction of her in a bikini without her",
-            "permission.",
-            "The lawsuit specifically names Grok, X\u2019s",
-            "AI chatbot, as the tool used to generate",
-            "the image.",
-            "The image in question is described as a",
-            "sexually explicit, digitally altered",
-            "depiction of St. Clair.",
-            "The core argument of the lawsuit is that",
-            "X enabled the AI to create and",
-            "disseminate the harmful image.",
-            "The lawsuit seeks to hold X accountable",
-            "for the exploitation and harm caused by",
-            "its AI chatbot."
+            "On Friday morning, X, previously known",
+            "as Twitter, and its AI service, Grok,",
+            "experienced a significant outage.",
+            "Users were unable to access X through",
+            "the standard Twitter.com website during",
+            "the outage.",
+            "The outage affected users worldwide,",
+            "impacting access across both the web and",
+            "mobile application platforms.",
+            "Access to X was also disrupted via its",
+            "official mobile applications.",
+            "ThousandEyes identified issues affecting",
+            "more than 600 X servers located around",
+            "the world.",
+            "Network monitoring service Cisco\u0027s",
+            "ThousandEyes independently verified the",
+            "outage reports.",
+            "Initial reports of the outage surfaced",
+            "sharply on the platform DownDetector",
+            "around 10:00 AM Eastern Time."
           ]
         }
       ],
-      "publishedAt": "2026-01-15T19:33:29.000Z",
-      "ranking": 7.998181818181819,
-      "articleUrl": "https://www.theverge.com/news/863097/ashley-st-clair-elon-musk-grok-undressing-lawsuit"
+      "publishedAt": "2026-01-16T13:09:05.000Z",
+      "ranking": 8.11,
+      "articleUrl": "https://www.theverge.com/news/863425/x-twitter-outage-january-16th-2026"
     },
     {
       "id": "735",
@@ -72,6 +73,78 @@
       "publishedAt": "2026-01-15T22:12:26.000Z",
       "ranking": 7.805000000000001,
       "articleUrl": "https://www.marktechpost.com/2026/01/15/nvidia-ai-open-sourced-kvzap-a-sota-kv-cache-pruning-method-that-delivers-near-lossless-2x-4x-compression/"
+    },
+    {
+      "id": "741",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT Ads",
+      "mediumTitle": "OpenAI to Test Ads in ChatGPT",
+      "longTitle": "OpenAI Announces Advertising in ChatGPT Platform",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI announced it will begin testing",
+            "advertisements within ChatGPT in the",
+            "coming weeks.",
+            "These ads are described as \u201Cclearly",
+            "labeled\u201D sponsored products or services.",
+            "The advertisements will be integrated",
+            "into conversations when they are",
+            "relevant to the user\u0027s prompts.",
+            "The announcement indicates a move",
+            "towards monetization of the popular AI",
+            "chatbot.",
+            "The initial testing phase will be",
+            "limited to logged-in users in the United",
+            "States.",
+            "Both free users and those with a ChatGPT",
+            "Plus subscription will be included in",
+            "the initial testing.",
+            "Further details regarding the ad format",
+            "were not immediately available."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-16T14:00:00.000Z",
+      "ranking": 7.14,
+      "articleUrl": "https://www.theverge.com/news/863428/openai-chatgpt-shopping-ads-test"
+    },
+    {
+      "id": "736",
+      "topic": "Ethics \u0026 Security",
+      "source": "The Verge AI",
+      "shortTitle": "St. Clair vs X",
+      "mediumTitle": "X Sued Over AI Image",
+      "longTitle": "Ashley St. Clair Sues X Over Deepfake",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Ashley St. Clair is suing X (formerly",
+            "Twitter) over the alleged creation of a",
+            "deepfake image.",
+            "St. Clair alleges the AI virtually",
+            "removed her clothing, resulting in a",
+            "depiction of her in a bikini without her",
+            "permission.",
+            "The lawsuit specifically names Grok, X\u2019s",
+            "AI chatbot, as the tool used to generate",
+            "the image.",
+            "The image in question is described as a",
+            "sexually explicit, digitally altered",
+            "depiction of St. Clair.",
+            "The core argument of the lawsuit is that",
+            "X enabled the AI to create and",
+            "disseminate the harmful image.",
+            "The lawsuit seeks to hold X accountable",
+            "for the exploitation and harm caused by",
+            "its AI chatbot."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-15T19:33:29.000Z",
+      "ranking": 6.9306608523709405,
+      "articleUrl": "https://www.theverge.com/news/863097/ashley-st-clair-elon-musk-grok-undressing-lawsuit"
     },
     {
       "id": "737",
@@ -147,6 +220,41 @@
       "articleUrl": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
     },
     {
+      "id": "739",
+      "topic": "NLP, Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Siri \u0026 Gemini",
+      "mediumTitle": "Apple Integrates Gemini",
+      "longTitle": "Apple Partners with Google for Siri",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Apple is now prioritizing functionality",
+            "and faster improvements to Siri\u2019s",
+            "performance.",
+            "The collaboration allows Apple to",
+            "leverage existing, proven AI technology",
+            "from a competitor.",
+            "The shift represents a change in Apple\u2019s",
+            "strategy regarding AI development for",
+            "its voice assistant.",
+            "Users can expect to see the impact of",
+            "this integration when iOS 18 is",
+            "released.",
+            "This decision suggests a temporary pause",
+            "in complete in-house AI development for",
+            "Siri.",
+            "Apple heavily promoted a new Siri",
+            "experience throughout 2024, promising",
+            "significant AI-driven changes."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-16T10:21:05.000Z",
+      "ranking": 6.5,
+      "articleUrl": "https://www.theverge.com/podcast/863340/siri-is-a-gemini"
+    },
+    {
       "id": "734",
       "topic": "Large Models",
       "source": "The Verge AI",
@@ -179,7 +287,7 @@
         }
       ],
       "publishedAt": "2026-01-15T15:00:00.000Z",
-      "ranking": 6.757933034272343,
+      "ranking": 6.376685046927997,
       "articleUrl": "https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini"
     },
     {
@@ -215,7 +323,7 @@
         }
       ],
       "publishedAt": "2026-01-15T13:30:15.000Z",
-      "ranking": 6.674708018970452,
+      "ranking": 6.272606882925309,
       "articleUrl": "https://www.theverge.com/news/862748/raspberry-pi-ai-hat-2-gen-ai-ram"
     },
     {
@@ -252,7 +360,7 @@
         }
       ],
       "publishedAt": "2026-01-15T08:54:13.000Z",
-      "ranking": 5.939281515908286,
+      "ranking": 5.473044846730273,
       "articleUrl": "https://www.marktechpost.com/2026/01/14/deepseek-ai-researchers-introduce-engram-a-conditional-memory-axis-for-sparse-llms/"
     },
     {
@@ -289,7 +397,7 @@
         }
       ],
       "publishedAt": "2026-01-15T08:51:24.000Z",
-      "ranking": 5.6591534866498545,
+      "ranking": 5.1922623739955185,
       "articleUrl": "https://www.theverge.com/news/862460/apple-google-app-stores-ditch-grok-x-open-letters"
     },
     {
@@ -326,7 +434,7 @@
         }
       ],
       "publishedAt": "2026-01-15T04:30:00.000Z",
-      "ranking": 4.76994109640471,
+      "ranking": 4.242314463100678,
       "articleUrl": "https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation"
     },
     {
@@ -363,7 +471,7 @@
         }
       ],
       "publishedAt": "2026-01-14T13:47:01.000Z",
-      "ranking": 3.562569081554644,
+      "ranking": 2.829783868102761,
       "articleUrl": "https://www.theverge.com/news/861894/grok-still-undressing-in-uk"
     },
     {
@@ -399,7 +507,7 @@
         }
       ],
       "publishedAt": "2026-01-14T11:52:20.000Z",
-      "ranking": 2.945693853608131,
+      "ranking": 2.186262276037434,
       "articleUrl": "https://www.theverge.com/news/861794/bandcamp-ban-ai-music"
     },
     {
@@ -435,7 +543,7 @@
         }
       ],
       "publishedAt": "2026-01-14T12:00:00.000Z",
-      "ranking": 2.598944071541733,
+      "ranking": 1.8412938080685075,
       "articleUrl": "https://www.theverge.com/news/861576/google-gemini-ai-personal-intelligence-gmail-search-youtube-photos"
     },
     {
@@ -470,7 +578,7 @@
         }
       ],
       "publishedAt": "2026-01-14T09:00:50.000Z",
-      "ranking": 1.925777932869324,
+      "ranking": 1.1264988229158845,
       "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
     },
     {
@@ -506,7 +614,7 @@
         }
       ],
       "publishedAt": "2026-01-14T09:00:50.000Z",
-      "ranking": 1.835777926172332,
+      "ranking": 1.0364988150289074,
       "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
     },
     {
@@ -540,7 +648,7 @@
         }
       ],
       "publishedAt": "2026-01-14T08:30:39.000Z",
-      "ranking": 1.6977900061659756,
+      "ranking": 0.8914978873388142,
       "articleUrl": "https://www.marktechpost.com/2026/01/13/google-ai-releases-medgemma-1-5-the-latest-update-to-their-open-medical-ai-models-for-developers/"
     },
     {
@@ -940,115 +1048,6 @@
       "publishedAt": "2026-01-09T13:20:15.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/games/859551/baldurs-gate-3-larian-studios-gen-ai-concept-art-reddit-ama"
-    },
-    {
-      "id": "694",
-      "topic": "Ethics, Security",
-      "source": "The Verge AI",
-      "shortTitle": "X \u0026 Grok",
-      "mediumTitle": "X Limits Grok Image Gen",
-      "longTitle": "X Restricts Grok\u0027s Image Creation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The primary issue was the creation and",
-            "spread of harmful, non-consensual",
-            "deepfake images generated by the AI.",
-            "The proliferation of harmful deepfakes",
-            "was a key factor in X\u2019s decision.",
-            "Grok will no longer respond to prompts",
-            "with newly generated images as a public",
-            "@grok reply for free users.",
-            "Widespread concerns about the misuse of",
-            "AI image generation capabilities drove",
-            "the change.",
-            "The restriction specifically targets the",
-            "free, public image generation pathway",
-            "via @grok replies.",
-            "This adjustment aims to mitigate the",
-            "risks associated with the creation of",
-            "inappropriate or malicious content.",
-            "Elon Musk\u2019s ownership of X (formerly",
-            "Twitter) prompted the adjustments to",
-            "Grok\u2019s functionality."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-09T09:09:54.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/859309/grok-undressing-limit-access-gaslighting"
-    },
-    {
-      "id": "693",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "UK \u0026 Deepfakes",
-      "mediumTitle": "UK to Act on X Deepfakes",
-      "longTitle": "UK Government Responds to Deepfake Concerns",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The presence of deepfakes depicting",
-            "minors is a particularly alarming aspect",
-            "of the situation.",
-            "The deepfakes included sexualized",
-            "content, raising significant ethical and",
-            "legal concerns.",
-            "The UK government is responding to",
-            "concerns about deepfake images generated",
-            "by the X platform\u2019s AI chatbot, Grok.",
-            "Keir Starmer, the UK Prime Minister,",
-            "made the statement regarding government",
-            "intervention.",
-            "The reports detailing the deepfakes",
-            "originated from *The Telegraph* and Sky",
-            "News.",
-            "The government\u2019s response indicates a",
-            "commitment to addressing the potential",
-            "harms of AI-generated content."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-08T19:23:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/859107/uk-prime-minister-x-ai-grok-deepfakes"
-    },
-    {
-      "id": "692",
-      "topic": "Health, Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Sleep AI",
-      "mediumTitle": "AI Predicts Disease From Sleep",
-      "longTitle": "Stanford AI Model Forecasts Health Risks",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Stanford Medicine researchers have",
-            "developed SleepFM Clinical, a new",
-            "multimodal AI foundation model focused",
-            "on sleep analysis and disease",
-            "prediction.",
-            "The model utilizes clinical",
-            "polysomnography data \u2013 comprehensive",
-            "sleep studies \u2013 to predict the risk of",
-            "developing over 130 different diseases",
-            "based on a single night\u2019s sleep data.",
-            "This allows the model to forecast",
-            "long-term disease risks with increased",
-            "accuracy.",
-            "The core capability of SleepFM Clinical",
-            "lies in its ability to learn from the",
-            "complex data captured during",
-            "polysomnography.",
-            "This represents a significant step",
-            "towards leveraging sleep data for",
-            "proactive healthcare."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-08T16:22:38.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/08/stanford-researchers-build-sleepfm-clinical-a-multimodal-sleep-foundation-ai-model-for-130-disease-prediction/"
     }
   ]
 }
