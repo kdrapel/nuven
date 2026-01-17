@@ -147,79 +147,6 @@
       "articleUrl": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
     },
     {
-      "id": "735",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "KVzap",
-      "mediumTitle": "NVIDIA\u0027s KV Cache Pruning",
-      "longTitle": "KVzap: Reducing LLM Memory Footprint",
-      "paragraphs": [
-        {
-          "Lines": [
-            "NVIDIA AI has open-sourced KVzap to",
-            "address the increasing KV cache size in",
-            "transformer decoders.",
-            "Pruning the KV cache makes large",
-            "language models more practical for",
-            "real-world applications.",
-            "The substantial memory footprint of the",
-            "KV cache hinders the deployment of LLMs",
-            "with extended context windows.",
-            "KVzap delivers near-lossless",
-            "compression, meaning minimal performance",
-            "impact from the size reduction.",
-            "The KV cache size is a significant issue",
-            "for deploying large models like",
-            "Llama1-65B.",
-            "The KV cache stores keys and values in",
-            "the shape (2, L, H, T, D) for each layer",
-            "and head.",
-            "This new method is designed to tackle",
-            "the bottleneck of KV cache size."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-15T22:12:26.000Z",
-      "ranking": 6.621748187396611,
-      "articleUrl": "https://www.marktechpost.com/2026/01/15/nvidia-ai-open-sourced-kvzap-a-sota-kv-cache-pruning-method-that-delivers-near-lossless-2x-4x-compression/"
-    },
-    {
-      "id": "736",
-      "topic": "Ethics \u0026 Security",
-      "source": "The Verge AI",
-      "shortTitle": "St. Clair vs X",
-      "mediumTitle": "X Sued Over AI Image",
-      "longTitle": "Ashley St. Clair Sues X Over Deepfake",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Ashley St. Clair is suing X (formerly",
-            "Twitter) over the alleged creation of a",
-            "deepfake image.",
-            "St. Clair alleges the AI virtually",
-            "removed her clothing, resulting in a",
-            "depiction of her in a bikini without her",
-            "permission.",
-            "The lawsuit specifically names Grok, X\u2019s",
-            "AI chatbot, as the tool used to generate",
-            "the image.",
-            "The image in question is described as a",
-            "sexually explicit, digitally altered",
-            "depiction of St. Clair.",
-            "The core argument of the lawsuit is that",
-            "X enabled the AI to create and",
-            "disseminate the harmful image.",
-            "The lawsuit seeks to hold X accountable",
-            "for the exploitation and harm caused by",
-            "its AI chatbot."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-15T19:33:29.000Z",
-      "ranking": 6.562604656939939,
-      "articleUrl": "https://www.theverge.com/news/863097/ashley-st-clair-elon-musk-grok-undressing-lawsuit"
-    },
-    {
       "id": "739",
       "topic": "NLP, Generative AI",
       "source": "The Verge AI",
@@ -255,6 +182,79 @@
       "articleUrl": "https://www.theverge.com/podcast/863340/siri-is-a-gemini"
     },
     {
+      "id": "735",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "KVzap",
+      "mediumTitle": "NVIDIA\u0027s KV Cache Pruning",
+      "longTitle": "KVzap: Reducing LLM Memory Footprint",
+      "paragraphs": [
+        {
+          "Lines": [
+            "NVIDIA AI has open-sourced KVzap to",
+            "address the increasing KV cache size in",
+            "transformer decoders.",
+            "Pruning the KV cache makes large",
+            "language models more practical for",
+            "real-world applications.",
+            "The substantial memory footprint of the",
+            "KV cache hinders the deployment of LLMs",
+            "with extended context windows.",
+            "KVzap delivers near-lossless",
+            "compression, meaning minimal performance",
+            "impact from the size reduction.",
+            "The KV cache size is a significant issue",
+            "for deploying large models like",
+            "Llama1-65B.",
+            "The KV cache stores keys and values in",
+            "the shape (2, L, H, T, D) for each layer",
+            "and head.",
+            "This new method is designed to tackle",
+            "the bottleneck of KV cache size."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-15T22:12:26.000Z",
+      "ranking": 6.223508780054354,
+      "articleUrl": "https://www.marktechpost.com/2026/01/15/nvidia-ai-open-sourced-kvzap-a-sota-kv-cache-pruning-method-that-delivers-near-lossless-2x-4x-compression/"
+    },
+    {
+      "id": "736",
+      "topic": "Ethics \u0026 Security",
+      "source": "The Verge AI",
+      "shortTitle": "St. Clair vs X",
+      "mediumTitle": "X Sued Over AI Image",
+      "longTitle": "Ashley St. Clair Sues X Over Deepfake",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Ashley St. Clair is suing X (formerly",
+            "Twitter) over the alleged creation of a",
+            "deepfake image.",
+            "St. Clair alleges the AI virtually",
+            "removed her clothing, resulting in a",
+            "depiction of her in a bikini without her",
+            "permission.",
+            "The lawsuit specifically names Grok, X\u2019s",
+            "AI chatbot, as the tool used to generate",
+            "the image.",
+            "The image in question is described as a",
+            "sexually explicit, digitally altered",
+            "depiction of St. Clair.",
+            "The core argument of the lawsuit is that",
+            "X enabled the AI to create and",
+            "disseminate the harmful image.",
+            "The lawsuit seeks to hold X accountable",
+            "for the exploitation and harm caused by",
+            "its AI chatbot."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-15T19:33:29.000Z",
+      "ranking": 6.126879594677208,
+      "articleUrl": "https://www.theverge.com/news/863097/ashley-st-clair-elon-musk-grok-undressing-lawsuit"
+    },
+    {
       "id": "734",
       "topic": "Large Models",
       "source": "The Verge AI",
@@ -287,7 +287,7 @@
         }
       ],
       "publishedAt": "2026-01-15T15:00:00.000Z",
-      "ranking": 5.945975851685882,
+      "ranking": 5.445754398896692,
       "articleUrl": "https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini"
     },
     {
@@ -323,7 +323,7 @@
         }
       ],
       "publishedAt": "2026-01-15T13:30:15.000Z",
-      "ranking": 5.821336627184831,
+      "ranking": 5.299949162986487,
       "articleUrl": "https://www.theverge.com/news/862748/raspberry-pi-ai-hat-2-gen-ai-ram"
     },
     {
@@ -360,7 +360,7 @@
         }
       ],
       "publishedAt": "2026-01-15T08:54:13.000Z",
-      "ranking": 4.958537398841081,
+      "ranking": 4.372052154883587,
       "articleUrl": "https://www.marktechpost.com/2026/01/14/deepseek-ai-researchers-introduce-engram-a-conditional-memory-axis-for-sparse-llms/"
     },
     {
@@ -397,7 +397,7 @@
         }
       ],
       "publishedAt": "2026-01-15T08:51:24.000Z",
-      "ranking": 4.677109647457944,
+      "ranking": 4.089960137759908,
       "articleUrl": "https://www.theverge.com/news/862460/apple-google-app-stores-ditch-grok-x-open-letters"
     },
     {
@@ -434,7 +434,7 @@
         }
       ],
       "publishedAt": "2026-01-15T04:30:00.000Z",
-      "ranking": 3.667276932687372,
+      "ranking": 3.018480675095939,
       "articleUrl": "https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation"
     },
     {
@@ -471,7 +471,7 @@
         }
       ],
       "publishedAt": "2026-01-14T13:47:01.000Z",
-      "ranking": 2.0524613972331274,
+      "ranking": 1.1954285299928076,
       "articleUrl": "https://www.theverge.com/news/861894/grok-still-undressing-in-uk"
     },
     {
@@ -507,7 +507,7 @@
         }
       ],
       "publishedAt": "2026-01-14T11:52:20.000Z",
-      "ranking": 1.3826666396321494,
+      "ranking": 0.4985876180134925,
       "articleUrl": "https://www.theverge.com/news/861794/bandcamp-ban-ai-music"
     },
     {
@@ -543,7 +543,7 @@
         }
       ],
       "publishedAt": "2026-01-14T12:00:00.000Z",
-      "ranking": 1.0394545577229142,
+      "ranking": 0.157183590526917,
       "articleUrl": "https://www.theverge.com/news/861576/google-gemini-ai-personal-intelligence-gmail-search-youtube-photos"
     },
     {
@@ -578,7 +578,7 @@
         }
       ],
       "publishedAt": "2026-01-14T09:00:50.000Z",
-      "ranking": 0.2836138142722504,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
     },
     {
@@ -614,7 +614,7 @@
         }
       ],
       "publishedAt": "2026-01-14T09:00:50.000Z",
-      "ranking": 0.19361380745872037,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
     },
     {
@@ -648,7 +648,7 @@
         }
       ],
       "publishedAt": "2026-01-14T08:30:39.000Z",
-      "ranking": 0.041698101742036364,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/13/google-ai-releases-medgemma-1-5-the-latest-update-to-their-open-medical-ai-models-for-developers/"
     },
     {
