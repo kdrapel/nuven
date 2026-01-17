@@ -74,42 +74,6 @@
       "articleUrl": "https://www.theverge.com/news/863428/openai-chatgpt-shopping-ads-test"
     },
     {
-      "id": "737",
-      "topic": "NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "Gemma Translate",
-      "mediumTitle": "Google\u0027s New Translation AI",
-      "longTitle": "Google Releases Open-Source TranslateGemma Models",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google AI recently announced the release",
-            "of TranslateGemma, a new family of open",
-            "machine translation models.",
-            "TranslateGemma\u2019s architecture is based",
-            "on Gemma 3, Google\u2019s latest advancements",
-            "in AI model design.",
-            "The availability of different parameter",
-            "sizes (4B, 12B, 27B) allows users to",
-            "choose a model that fits their specific",
-            "needs and resources.",
-            "For demanding applications, the models",
-            "can be deployed on systems with a single",
-            "H100 GPU or TPU instance.",
-            "The models are openly available,",
-            "encouraging community contribution and",
-            "further development.",
-            "The models can run on mobile devices,",
-            "demonstrating their efficiency and",
-            "accessibility."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-16T06:39:55.000Z",
-      "ranking": 6.924999999999999,
-      "articleUrl": "https://www.marktechpost.com/2026/01/15/google-ai-releases-translategemma-a-new-family-of-open-translation-models-built-on-gemma-3-with-support-for-55-languages/"
-    },
-    {
       "id": "738",
       "topic": "NLP",
       "source": "VentureBeat AI",
@@ -215,8 +179,44 @@
         }
       ],
       "publishedAt": "2026-01-15T22:12:26.000Z",
-      "ranking": 6.223508780054354,
+      "ranking": 5.785530312705925,
       "articleUrl": "https://www.marktechpost.com/2026/01/15/nvidia-ai-open-sourced-kvzap-a-sota-kv-cache-pruning-method-that-delivers-near-lossless-2x-4x-compression/"
+    },
+    {
+      "id": "737",
+      "topic": "NLP",
+      "source": "Marktechpost AI",
+      "shortTitle": "Gemma Translate",
+      "mediumTitle": "Google\u0027s New Translation AI",
+      "longTitle": "Google Releases Open-Source TranslateGemma Models",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google AI recently announced the release",
+            "of TranslateGemma, a new family of open",
+            "machine translation models.",
+            "TranslateGemma\u2019s architecture is based",
+            "on Gemma 3, Google\u2019s latest advancements",
+            "in AI model design.",
+            "The availability of different parameter",
+            "sizes (4B, 12B, 27B) allows users to",
+            "choose a model that fits their specific",
+            "needs and resources.",
+            "For demanding applications, the models",
+            "can be deployed on systems with a single",
+            "H100 GPU or TPU instance.",
+            "The models are openly available,",
+            "encouraging community contribution and",
+            "further development.",
+            "The models can run on mobile devices,",
+            "demonstrating their efficiency and",
+            "accessibility."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-16T06:39:55.000Z",
+      "ranking": 5.782962631234563,
+      "articleUrl": "https://www.marktechpost.com/2026/01/15/google-ai-releases-translategemma-a-new-family-of-open-translation-models-built-on-gemma-3-with-support-for-55-languages/"
     },
     {
       "id": "736",
@@ -251,7 +251,7 @@
         }
       ],
       "publishedAt": "2026-01-15T19:33:29.000Z",
-      "ranking": 6.126879594677208,
+      "ranking": 5.652804699082385,
       "articleUrl": "https://www.theverge.com/news/863097/ashley-st-clair-elon-musk-grok-undressing-lawsuit"
     },
     {
@@ -287,7 +287,7 @@
         }
       ],
       "publishedAt": "2026-01-15T15:00:00.000Z",
-      "ranking": 5.445754398896692,
+      "ranking": 4.909573366735051,
       "articleUrl": "https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini"
     },
     {
@@ -323,7 +323,7 @@
         }
       ],
       "publishedAt": "2026-01-15T13:30:15.000Z",
-      "ranking": 5.299949162986487,
+      "ranking": 4.743386538019421,
       "articleUrl": "https://www.theverge.com/news/862748/raspberry-pi-ai-hat-2-gen-ai-ram"
     },
     {
@@ -360,7 +360,7 @@
         }
       ],
       "publishedAt": "2026-01-15T08:54:13.000Z",
-      "ranking": 4.372052154883587,
+      "ranking": 3.752804318397849,
       "articleUrl": "https://www.marktechpost.com/2026/01/14/deepseek-ai-researchers-introduce-engram-a-conditional-memory-axis-for-sparse-llms/"
     },
     {
@@ -397,7 +397,7 @@
         }
       ],
       "publishedAt": "2026-01-15T08:51:24.000Z",
-      "ranking": 4.089960137759908,
+      "ranking": 3.4700726591064788,
       "articleUrl": "https://www.theverge.com/news/862460/apple-google-app-stores-ditch-grok-x-open-letters"
     },
     {
@@ -434,7 +434,7 @@
         }
       ],
       "publishedAt": "2026-01-15T04:30:00.000Z",
-      "ranking": 3.018480675095939,
+      "ranking": 2.3392311023432057,
       "articleUrl": "https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation"
     },
     {
@@ -471,44 +471,8 @@
         }
       ],
       "publishedAt": "2026-01-14T13:47:01.000Z",
-      "ranking": 1.1954285299928076,
+      "ranking": 0.31565967614262647,
       "articleUrl": "https://www.theverge.com/news/861894/grok-still-undressing-in-uk"
-    },
-    {
-      "id": "725",
-      "topic": "Music, Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Bandcamp AI Ban",
-      "mediumTitle": "Bandcamp Bans AI Music",
-      "longTitle": "Bandcamp First to Ban AI-Generated Music",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Bandcamp has announced a ban on",
-            "AI-generated music content on its",
-            "platform.",
-            "This makes Bandcamp the first major",
-            "music platform to implement such a",
-            "policy.",
-            "Content identified as being generated by",
-            "AI will be subject to removal from the",
-            "platform.",
-            "The decision stems from growing concerns",
-            "and objections voiced by artists",
-            "regarding the use of artificial",
-            "intelligence in music creation.",
-            "Bandcamp\u2019s core identity is centered",
-            "around supporting artists.",
-            "The ban reflects a commitment to that",
-            "principle amidst the increasing debate",
-            "surrounding AI\u2019s role in the music",
-            "industry."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-14T11:52:20.000Z",
-      "ranking": 0.4985876180134925,
-      "articleUrl": "https://www.theverge.com/news/861794/bandcamp-ban-ai-music"
     },
     {
       "id": "724",
@@ -543,43 +507,44 @@
         }
       ],
       "publishedAt": "2026-01-14T12:00:00.000Z",
-      "ranking": 0.157183590526917,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/861576/google-gemini-ai-personal-intelligence-gmail-search-youtube-photos"
     },
     {
-      "id": "726",
-      "topic": "NLP",
+      "id": "725",
+      "topic": "Music, Ethics",
       "source": "The Verge AI",
-      "shortTitle": "AI Police Error",
-      "mediumTitle": "AI Hallucination Leads to Ban",
-      "longTitle": "UK Police Admit AI Error in Football Ban",
+      "shortTitle": "Bandcamp AI Ban",
+      "mediumTitle": "Bandcamp Bans AI Music",
+      "longTitle": "Bandcamp First to Ban AI-Generated Music",
       "paragraphs": [
         {
           "Lines": [
-            "The inaccurate information generated by",
-            "Copilot was directly used to justify",
-            "prohibiting Israeli football fans from",
-            "attending the West Ham United match.",
-            "Copilot \u201Challucinated\u201D the match,",
-            "fabricating details that were then",
-            "included in the intelligence assessment",
-            "used by the police.",
-            "The chief constable acknowledged the",
-            "error during questioning by a",
-            "parliamentary committee.",
-            "The incident underscores the potential",
-            "for AI to generate false or misleading",
-            "information, known as \u201Challucinations\u201D.",
-            "The police force admitted the need for",
-            "caution and robust fact-checking when",
-            "utilizing AI tools in sensitive",
-            "operational contexts."
+            "Bandcamp has announced a ban on",
+            "AI-generated music content on its",
+            "platform.",
+            "This makes Bandcamp the first major",
+            "music platform to implement such a",
+            "policy.",
+            "Content identified as being generated by",
+            "AI will be subject to removal from the",
+            "platform.",
+            "The decision stems from growing concerns",
+            "and objections voiced by artists",
+            "regarding the use of artificial",
+            "intelligence in music creation.",
+            "Bandcamp\u2019s core identity is centered",
+            "around supporting artists.",
+            "The ban reflects a commitment to that",
+            "principle amidst the increasing debate",
+            "surrounding AI\u2019s role in the music",
+            "industry."
           ]
         }
       ],
-      "publishedAt": "2026-01-14T09:00:50.000Z",
+      "publishedAt": "2026-01-14T11:52:20.000Z",
       "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
+      "articleUrl": "https://www.theverge.com/news/861794/bandcamp-ban-ai-music"
     },
     {
       "id": "721",
@@ -610,6 +575,41 @@
             "for \u201Challucinations\u201D \u2013 the generation of",
             "false or misleading information \u2013",
             "inherent in current AI technology."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-14T09:00:50.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
+    },
+    {
+      "id": "726",
+      "topic": "NLP",
+      "source": "The Verge AI",
+      "shortTitle": "AI Police Error",
+      "mediumTitle": "AI Hallucination Leads to Ban",
+      "longTitle": "UK Police Admit AI Error in Football Ban",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The inaccurate information generated by",
+            "Copilot was directly used to justify",
+            "prohibiting Israeli football fans from",
+            "attending the West Ham United match.",
+            "Copilot \u201Challucinated\u201D the match,",
+            "fabricating details that were then",
+            "included in the intelligence assessment",
+            "used by the police.",
+            "The chief constable acknowledged the",
+            "error during questioning by a",
+            "parliamentary committee.",
+            "The incident underscores the potential",
+            "for AI to generate false or misleading",
+            "information, known as \u201Challucinations\u201D.",
+            "The police force admitted the need for",
+            "caution and robust fact-checking when",
+            "utilizing AI tools in sensitive",
+            "operational contexts."
           ]
         }
       ],
