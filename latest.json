@@ -69,7 +69,7 @@
         }
       ],
       "publishedAt": "2026-01-16T13:09:05.000Z",
-      "ranking": 4.239140860726785,
+      "ranking": 3.558039022046545,
       "articleUrl": "https://www.theverge.com/news/863425/x-twitter-outage-january-16th-2026"
     },
     {
@@ -105,7 +105,7 @@
         }
       ],
       "publishedAt": "2026-01-16T14:00:00.000Z",
-      "ranking": 3.407023924509834,
+      "ranking": 2.737667048448091,
       "articleUrl": "https://www.theverge.com/news/863428/openai-chatgpt-shopping-ads-test"
     },
     {
@@ -142,7 +142,7 @@
         }
       ],
       "publishedAt": "2026-01-16T15:01:00.000Z",
-      "ranking": 3.267382045601266,
+      "ranking": 2.6120960554331996,
       "articleUrl": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
     },
     {
@@ -177,7 +177,7 @@
         }
       ],
       "publishedAt": "2026-01-16T10:21:05.000Z",
-      "ranking": 2.1564580782288765,
+      "ranking": 1.4366036294817333,
       "articleUrl": "https://www.theverge.com/podcast/863340/siri-is-a-gemini"
     },
     {
@@ -213,7 +213,7 @@
         }
       ],
       "publishedAt": "2026-01-16T06:39:55.000Z",
-      "ranking": 1.9176783689651904,
+      "ranking": 1.1468073418517397,
       "articleUrl": "https://www.marktechpost.com/2026/01/15/google-ai-releases-translategemma-a-new-family-of-open-translation-models-built-on-gemma-3-with-support-for-55-languages/"
     },
     {
@@ -250,7 +250,7 @@
         }
       ],
       "publishedAt": "2026-01-15T22:12:26.000Z",
-      "ranking": 1.0962601101205296,
+      "ranking": 0.2083277590676369,
       "articleUrl": "https://www.marktechpost.com/2026/01/15/nvidia-ai-open-sourced-kvzap-a-sota-kv-cache-pruning-method-that-delivers-near-lossless-2x-4x-compression/"
     },
     {
@@ -286,7 +286,7 @@
         }
       ],
       "publishedAt": "2026-01-15T19:33:29.000Z",
-      "ranking": 0.7054520050719768,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/863097/ashley-st-clair-elon-musk-grok-undressing-lawsuit"
     },
     {
@@ -935,43 +935,6 @@
       "publishedAt": "2026-01-09T16:47:26.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/09/meta-and-harvard-researchers-introduce-the-confucius-code-agent-cca-a-software-engineering-agent-that-can-operate-at-large-scale-codebases/"
-    },
-    {
-      "id": "695",
-      "topic": "News",
-      "source": "Marktechpost AI",
-      "shortTitle": "Ibis \u0026 DuckDB",
-      "mediumTitle": "In-Database Feature Eng.",
-      "longTitle": "Portable Feature Pipelines w/ Ibis",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article demonstrates building",
-            "portable, in-database feature",
-            "engineering pipelines using Ibis and",
-            "DuckDB.",
-            "A key advantage of this approach is",
-            "avoiding the need to extract raw data",
-            "from the database.",
-            "The tutorial focuses on establishing a",
-            "connection to DuckDB and securely",
-            "registering data within it.",
-            "Complex transformations, specifically",
-            "window functions and aggregations, are",
-            "defined and executed inside DuckDB.",
-            "This method offers portability, as the",
-            "Ibis code can be adapted to run against",
-            "different database backends.",
-            "Lazy APIs are utilized, meaning",
-            "transformations are planned and then",
-            "executed by the database for optimized",
-            "performance."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-09T15:50:15.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/09/how-to-build-portable-in-database-feature-engineering-pipelines-with-ibis-using-lazy-python-apis-and-duckdb-execution/"
     }
   ]
 }
