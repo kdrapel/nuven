@@ -1,6 +1,40 @@
 {
   "articles": [
     {
+      "id": "751",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "RPC vs Events",
+      "mediumTitle": "RPC \u0026 Event Architectures",
+      "longTitle": "Comparing Distributed Systems Under Stress",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Retries, a common fault-tolerance",
+            "mechanism, are examined for their",
+            "potential to *cause* failure cascades.",
+            "The impact of retries is a specific area",
+            "of focus in understanding these",
+            "architectural differences.",
+            "This article provides a practical",
+            "comparison of synchronous RPC-based",
+            "systems and asynchronous event-driven",
+            "architectures.",
+            "The study focuses on understanding how",
+            "distributed systems behave under load",
+            "and during failures.",
+            "The article aims to illustrate the",
+            "differences in how these architectures",
+            "respond to stress and failure through",
+            "practical simulation."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-18T22:52:04.000Z",
+      "ranking": 7.527272727272727,
+      "articleUrl": "https://www.marktechpost.com/2026/01/18/a-coding-guide-to-understanding-how-retries-trigger-failure-cascades-in-rpc-and-event-driven-architectures/"
+    },
+    {
       "id": "750",
       "topic": "Dev Tools",
       "source": "Marktechpost AI",
@@ -104,7 +138,7 @@
         }
       ],
       "publishedAt": "2026-01-16T13:09:05.000Z",
-      "ranking": 2.0185813320136523,
+      "ranking": 1.169387128121608,
       "articleUrl": "https://www.theverge.com/news/863425/x-twitter-outage-january-16th-2026"
     },
     {
@@ -140,7 +174,7 @@
         }
       ],
       "publishedAt": "2026-01-16T14:00:00.000Z",
-      "ranking": 1.221867753166321,
+      "ranking": 0.3844426696973864,
       "articleUrl": "https://www.theverge.com/news/863428/openai-chatgpt-shopping-ads-test"
     },
     {
@@ -177,7 +211,7 @@
         }
       ],
       "publishedAt": "2026-01-16T15:01:00.000Z",
-      "ranking": 1.124640363954768,
+      "ranking": 0.3013151155302811,
       "articleUrl": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
     },
     {
