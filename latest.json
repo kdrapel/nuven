@@ -70,6 +70,42 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/18/vercel-releases-agent-skills-a-package-manager-for-ai-coding-agents-with-10-years-of-react-and-next-js-optimisation-rules/"
     },
     {
+      "id": "752",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "NousCoder-14B",
+      "mediumTitle": "Nous Research\u0027s New Coder",
+      "longTitle": "NousCoder-14B: A Programming Model Release",
+      "paragraphs": [
+        {
+          "Lines": [
+            "NousCoder-14B\u0027s 67.87% Pass@1 accuracy",
+            "demonstrates a significant advancement",
+            "in its programming capabilities.",
+            "The 7.08 percentage point gain",
+            "highlights the effectiveness of the",
+            "reinforcement learning approach.",
+            "Reinforcement learning techniques were",
+            "employed to further train the Qwen3-14B",
+            "model, resulting in NousCoder-14B.",
+            "Nous Research recently announced the",
+            "release of NousCoder-14B, a model",
+            "focused on competitive programming",
+            "tasks.",
+            "A system of verifiable rewards was",
+            "implemented to guide the reinforcement",
+            "learning process.",
+            "The development of NousCoder-14B centers",
+            "around improving its ability to solve",
+            "intricate programming problems."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-19T06:30:41.000Z",
+      "ranking": 7.25,
+      "articleUrl": "https://www.marktechpost.com/2026/01/18/nous-research-releases-nouscoder-14b-a-competitive-olympiad-programming-model-post-trained-on-qwen3-14b-via-reinforcement-learning/"
+    },
+    {
       "id": "748",
       "topic": "Speech, NLP",
       "source": "Marktechpost AI",
@@ -101,7 +137,7 @@
         }
       ],
       "publishedAt": "2026-01-18T07:48:04.000Z",
-      "ranking": 7.22,
+      "ranking": 6.1734456025305935,
       "articleUrl": "https://www.marktechpost.com/2026/01/17/nvidia-releases-personaplex-7b-v1-a-real-time-speech-to-speech-model-designed-for-natural-and-full-duplex-conversations/"
     },
     {
@@ -138,44 +174,8 @@
         }
       ],
       "publishedAt": "2026-01-16T13:09:05.000Z",
-      "ranking": 1.169387128121608,
+      "ranking": 0.269528618728633,
       "articleUrl": "https://www.theverge.com/news/863425/x-twitter-outage-january-16th-2026"
-    },
-    {
-      "id": "741",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "ChatGPT Ads",
-      "mediumTitle": "OpenAI to Test Ads in ChatGPT",
-      "longTitle": "OpenAI Announces Advertising in ChatGPT Platform",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI announced it will begin testing",
-            "advertisements within ChatGPT in the",
-            "coming weeks.",
-            "These ads are described as \u201Cclearly",
-            "labeled\u201D sponsored products or services.",
-            "The advertisements will be integrated",
-            "into conversations when they are",
-            "relevant to the user\u0027s prompts.",
-            "The announcement indicates a move",
-            "towards monetization of the popular AI",
-            "chatbot.",
-            "The initial testing phase will be",
-            "limited to logged-in users in the United",
-            "States.",
-            "Both free users and those with a ChatGPT",
-            "Plus subscription will be included in",
-            "the initial testing.",
-            "Further details regarding the ad format",
-            "were not immediately available."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-16T14:00:00.000Z",
-      "ranking": 0.3844426696973864,
-      "articleUrl": "https://www.theverge.com/news/863428/openai-chatgpt-shopping-ads-test"
     },
     {
       "id": "738",
@@ -211,8 +211,44 @@
         }
       ],
       "publishedAt": "2026-01-16T15:01:00.000Z",
-      "ranking": 0.3013151155302811,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+    },
+    {
+      "id": "741",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT Ads",
+      "mediumTitle": "OpenAI to Test Ads in ChatGPT",
+      "longTitle": "OpenAI Announces Advertising in ChatGPT Platform",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI announced it will begin testing",
+            "advertisements within ChatGPT in the",
+            "coming weeks.",
+            "These ads are described as \u201Cclearly",
+            "labeled\u201D sponsored products or services.",
+            "The advertisements will be integrated",
+            "into conversations when they are",
+            "relevant to the user\u0027s prompts.",
+            "The announcement indicates a move",
+            "towards monetization of the popular AI",
+            "chatbot.",
+            "The initial testing phase will be",
+            "limited to logged-in users in the United",
+            "States.",
+            "Both free users and those with a ChatGPT",
+            "Plus subscription will be included in",
+            "the initial testing.",
+            "Further details regarding the ad format",
+            "were not immediately available."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-16T14:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/863428/openai-chatgpt-shopping-ads-test"
     },
     {
       "id": "739",
