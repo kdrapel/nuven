@@ -70,40 +70,39 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/19/how-to-design-a-fully-streaming-voice-agent-with-end-to-end-latency-budgets-incremental-asr-llm-streaming-and-real-time-tts/"
     },
     {
-      "id": "752",
+      "id": "759",
       "topic": "Large Models",
       "source": "Marktechpost AI",
-      "shortTitle": "NousCoder-14B",
-      "mediumTitle": "Nous Research\u0027s New Coder",
-      "longTitle": "NousCoder-14B: A Programming Model Release",
+      "shortTitle": "GLM-4.7-Flash",
+      "mediumTitle": "Zhipu AI Releases New Model",
+      "longTitle": "Zhipu AI Launches GLM-4.7-Flash for Local Use",
       "paragraphs": [
         {
           "Lines": [
-            "NousCoder-14B\u0027s 67.87% Pass@1 accuracy",
-            "demonstrates a significant advancement",
-            "in its programming capabilities.",
-            "The 7.08 percentage point gain",
-            "highlights the effectiveness of the",
-            "reinforcement learning approach.",
-            "Reinforcement learning techniques were",
-            "employed to further train the Qwen3-14B",
-            "model, resulting in NousCoder-14B.",
-            "Nous Research recently announced the",
-            "release of NousCoder-14B, a model",
-            "focused on competitive programming",
-            "tasks.",
-            "A system of verifiable rewards was",
-            "implemented to guide the reinforcement",
-            "learning process.",
-            "The development of NousCoder-14B centers",
-            "around improving its ability to solve",
-            "intricate programming problems."
+            "Zhipu AI\u0027s claim of superior performance",
+            "within the 30B parameter class positions",
+            "GLM-4.7-Flash as a competitive option.",
+            "The release of GLM-4.7-Flash addresses",
+            "the need for high-performance AI models",
+            "that can run effectively on local",
+            "machines.",
+            "The model\u0027s coding and reasoning",
+            "capabilities are intended to assist",
+            "developers in various software",
+            "development tasks.",
+            "GLM-4.7-Flash is designed for",
+            "lightweight deployment, making it",
+            "suitable for a wider range of",
+            "applications.",
+            "Developers can leverage GLM-4.7-Flash",
+            "without relying on extensive cloud",
+            "resources."
           ]
         }
       ],
-      "publishedAt": "2026-01-19T06:30:41.000Z",
-      "ranking": 4.764283888026506,
-      "articleUrl": "https://www.marktechpost.com/2026/01/18/nous-research-releases-nouscoder-14b-a-competitive-olympiad-programming-model-post-trained-on-qwen3-14b-via-reinforcement-learning/"
+      "publishedAt": "2026-01-20T20:54:29.000Z",
+      "ranking": 6.0249999999999995,
+      "articleUrl": "https://www.marktechpost.com/2026/01/20/zhipu-ai-releases-glm-4-7-flash-a-30b-a3b-moe-model-for-efficient-local-coding-and-agents/"
     },
     {
       "id": "757",
@@ -138,8 +137,44 @@
         }
       ],
       "publishedAt": "2026-01-19T15:00:00.000Z",
-      "ranking": 4.731731404394811,
+      "ranking": 4.293671328175827,
       "articleUrl": "https://venturebeat.com/technology/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
+    },
+    {
+      "id": "752",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "NousCoder-14B",
+      "mediumTitle": "Nous Research\u0027s New Coder",
+      "longTitle": "NousCoder-14B: A Programming Model Release",
+      "paragraphs": [
+        {
+          "Lines": [
+            "NousCoder-14B\u0027s 67.87% Pass@1 accuracy",
+            "demonstrates a significant advancement",
+            "in its programming capabilities.",
+            "The 7.08 percentage point gain",
+            "highlights the effectiveness of the",
+            "reinforcement learning approach.",
+            "Reinforcement learning techniques were",
+            "employed to further train the Qwen3-14B",
+            "model, resulting in NousCoder-14B.",
+            "Nous Research recently announced the",
+            "release of NousCoder-14B, a model",
+            "focused on competitive programming",
+            "tasks.",
+            "A system of verifiable rewards was",
+            "implemented to guide the reinforcement",
+            "learning process.",
+            "The development of NousCoder-14B centers",
+            "around improving its ability to solve",
+            "intricate programming problems."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-19T06:30:41.000Z",
+      "ranking": 4.207654386687451,
+      "articleUrl": "https://www.marktechpost.com/2026/01/18/nous-research-releases-nouscoder-14b-a-competitive-olympiad-programming-model-post-trained-on-qwen3-14b-via-reinforcement-learning/"
     },
     {
       "id": "751",
@@ -172,7 +207,7 @@
         }
       ],
       "publishedAt": "2026-01-18T22:52:04.000Z",
-      "ranking": 3.935871762175753,
+      "ranking": 3.272475858983622,
       "articleUrl": "https://www.marktechpost.com/2026/01/18/a-coding-guide-to-understanding-how-retries-trigger-failure-cascades-in-rpc-and-event-driven-architectures/"
     },
     {
@@ -207,7 +242,7 @@
         }
       ],
       "publishedAt": "2026-01-18T16:43:24.000Z",
-      "ranking": 2.8310258953999234,
+      "ranking": 2.081804038996591,
       "articleUrl": "https://www.marktechpost.com/2026/01/18/vercel-releases-agent-skills-a-package-manager-for-ai-coding-agents-with-10-years-of-react-and-next-js-optimisation-rules/"
     },
     {
@@ -242,7 +277,7 @@
         }
       ],
       "publishedAt": "2026-01-18T07:48:04.000Z",
-      "ranking": 0.8550917472024757,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/17/nvidia-releases-personaplex-7b-v1-a-real-time-speech-to-speech-model-designed-for-natural-and-full-duplex-conversations/"
     },
     {
@@ -792,6 +827,41 @@
       "articleUrl": "https://www.theverge.com/news/861794/bandcamp-ban-ai-music"
     },
     {
+      "id": "726",
+      "topic": "NLP",
+      "source": "The Verge AI",
+      "shortTitle": "AI Police Error",
+      "mediumTitle": "AI Hallucination Leads to Ban",
+      "longTitle": "UK Police Admit AI Error in Football Ban",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The inaccurate information generated by",
+            "Copilot was directly used to justify",
+            "prohibiting Israeli football fans from",
+            "attending the West Ham United match.",
+            "Copilot \u201Challucinated\u201D the match,",
+            "fabricating details that were then",
+            "included in the intelligence assessment",
+            "used by the police.",
+            "The chief constable acknowledged the",
+            "error during questioning by a",
+            "parliamentary committee.",
+            "The incident underscores the potential",
+            "for AI to generate false or misleading",
+            "information, known as \u201Challucinations\u201D.",
+            "The police force admitted the need for",
+            "caution and robust fact-checking when",
+            "utilizing AI tools in sensitive",
+            "operational contexts."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-14T09:00:50.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
+    },
+    {
       "id": "721",
       "topic": "Security",
       "source": "The Verge AI",
@@ -820,41 +890,6 @@
             "for \u201Challucinations\u201D \u2013 the generation of",
             "false or misleading information \u2013",
             "inherent in current AI technology."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-14T09:00:50.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
-    },
-    {
-      "id": "726",
-      "topic": "NLP",
-      "source": "The Verge AI",
-      "shortTitle": "AI Police Error",
-      "mediumTitle": "AI Hallucination Leads to Ban",
-      "longTitle": "UK Police Admit AI Error in Football Ban",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The inaccurate information generated by",
-            "Copilot was directly used to justify",
-            "prohibiting Israeli football fans from",
-            "attending the West Ham United match.",
-            "Copilot \u201Challucinated\u201D the match,",
-            "fabricating details that were then",
-            "included in the intelligence assessment",
-            "used by the police.",
-            "The chief constable acknowledged the",
-            "error during questioning by a",
-            "parliamentary committee.",
-            "The incident underscores the potential",
-            "for AI to generate false or misleading",
-            "information, known as \u201Challucinations\u201D.",
-            "The police force admitted the need for",
-            "caution and robust fact-checking when",
-            "utilizing AI tools in sensitive",
-            "operational contexts."
           ]
         }
       ],
