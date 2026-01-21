@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "760",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "LFM2.5-1.2B",
+      "mediumTitle": "Liquid AI\u0027s Reasoning Model",
+      "longTitle": "On-Device Reasoning with LFM2.5-1.2B-Thinking",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Liquid AI recently released",
+            "LFM2.5-1.2B-Thinking, a new reasoning",
+            "model.",
+            "A key advantage of LFM2.5-1.2B-Thinking",
+            "is its ability to run locally on",
+            "devices.",
+            "The model boasts 1.2 billion parameters,",
+            "enabling complex reasoning tasks.",
+            "It requires approximately 900 MB of",
+            "storage space on modern smartphones.",
+            "Just two years ago, similar reasoning",
+            "capabilities demanded substantial data",
+            "center resources.",
+            "LFM2.5-1.2B-Thinking excels in areas",
+            "like structured reasoning and tool",
+            "utilization.",
+            "The model is not intended for general",
+            "language tasks, but rather specialized",
+            "reasoning."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-21T04:43:22.000Z",
+      "ranking": 7.325,
+      "articleUrl": "https://www.marktechpost.com/2026/01/20/liquid-ai-releases-lfm2-5-1-2b-thinking-a-1-2b-parameter-reasoning-model-that-fits-under-1-gb-on-device/"
+    },
+    {
       "id": "756",
       "topic": "Large Models, NLP",
       "source": "Marktechpost AI",
@@ -31,43 +67,8 @@
         }
       ],
       "publishedAt": "2026-01-20T05:06:43.000Z",
-      "ranking": 7.621428571428571,
+      "ranking": 6.324091123203991,
       "articleUrl": "https://www.marktechpost.com/2026/01/19/microsoft-research-releases-optimind-a-20b-parameter-model-that-turns-natural-language-into-solver-ready-optimization-models/"
-    },
-    {
-      "id": "755",
-      "topic": "Speech, NLP, Training Tricks",
-      "source": "Marktechpost AI",
-      "shortTitle": "Streaming Agent",
-      "mediumTitle": "Building a Voice Agent",
-      "longTitle": "Constructing a Low-Latency Voice Agent",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Explicit latency tracking is implemented",
-            "throughout the entire process.",
-            "Maintaining a responsive conversational",
-            "experience is a primary design",
-            "consideration.",
-            "The tutorial emphasizes working within",
-            "defined latency constraints.",
-            "Streaming speech recognition (ASR) is a",
-            "key component of the agent\u0027s",
-            "architecture.",
-            "Incremental language model (LLM)",
-            "reasoning is used to process the",
-            "recognized speech.",
-            "The tutorial provides details on",
-            "constructing a fully streaming voice",
-            "agent.",
-            "The agent concludes by generating",
-            "streamed text-to-speech (TTS) output."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-20T05:24:05.000Z",
-      "ranking": 6.89,
-      "articleUrl": "https://www.marktechpost.com/2026/01/19/how-to-design-a-fully-streaming-voice-agent-with-end-to-end-latency-budgets-incremental-asr-llm-streaming-and-real-time-tts/"
     },
     {
       "id": "759",
@@ -105,6 +106,41 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/20/zhipu-ai-releases-glm-4-7-flash-a-30b-a3b-moe-model-for-efficient-local-coding-and-agents/"
     },
     {
+      "id": "755",
+      "topic": "Speech, NLP, Training Tricks",
+      "source": "Marktechpost AI",
+      "shortTitle": "Streaming Agent",
+      "mediumTitle": "Building a Voice Agent",
+      "longTitle": "Constructing a Low-Latency Voice Agent",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Explicit latency tracking is implemented",
+            "throughout the entire process.",
+            "Maintaining a responsive conversational",
+            "experience is a primary design",
+            "consideration.",
+            "The tutorial emphasizes working within",
+            "defined latency constraints.",
+            "Streaming speech recognition (ASR) is a",
+            "key component of the agent\u0027s",
+            "architecture.",
+            "Incremental language model (LLM)",
+            "reasoning is used to process the",
+            "recognized speech.",
+            "The tutorial provides details on",
+            "constructing a fully streaming voice",
+            "agent.",
+            "The agent concludes by generating",
+            "streamed text-to-speech (TTS) output."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-20T05:24:05.000Z",
+      "ranking": 5.619989722861463,
+      "articleUrl": "https://www.marktechpost.com/2026/01/19/how-to-design-a-fully-streaming-voice-agent-with-end-to-end-latency-budgets-incremental-asr-llm-streaming-and-real-time-tts/"
+    },
+    {
       "id": "757",
       "topic": "Large Models",
       "source": "VentureBeat AI",
@@ -137,7 +173,7 @@
         }
       ],
       "publishedAt": "2026-01-19T15:00:00.000Z",
-      "ranking": 3.8020309941624926,
+      "ranking": 3.2447257690801714,
       "articleUrl": "https://venturebeat.com/technology/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
     },
     {
@@ -173,7 +209,7 @@
         }
       ],
       "publishedAt": "2026-01-19T06:30:41.000Z",
-      "ranking": 3.5980373571387325,
+      "ranking": 2.9206986190958117,
       "articleUrl": "https://www.marktechpost.com/2026/01/18/nous-research-releases-nouscoder-14b-a-competitive-olympiad-programming-model-post-trained-on-qwen3-14b-via-reinforcement-learning/"
     },
     {
@@ -207,7 +243,7 @@
         }
       ],
       "publishedAt": "2026-01-18T22:52:04.000Z",
-      "ranking": 2.556626140440202,
+      "ranking": 1.771202642554628,
       "articleUrl": "https://www.marktechpost.com/2026/01/18/a-coding-guide-to-understanding-how-retries-trigger-failure-cascades-in-rpc-and-event-driven-architectures/"
     },
     {
@@ -242,7 +278,7 @@
         }
       ],
       "publishedAt": "2026-01-18T16:43:24.000Z",
-      "ranking": 1.280557401755753,
+      "ranking": 0.4082481621145977,
       "articleUrl": "https://www.marktechpost.com/2026/01/18/vercel-releases-agent-skills-a-package-manager-for-ai-coding-agents-with-10-years-of-react-and-next-js-optimisation-rules/"
     },
     {
@@ -827,6 +863,41 @@
       "articleUrl": "https://www.theverge.com/news/861794/bandcamp-ban-ai-music"
     },
     {
+      "id": "726",
+      "topic": "NLP",
+      "source": "The Verge AI",
+      "shortTitle": "AI Police Error",
+      "mediumTitle": "AI Hallucination Leads to Ban",
+      "longTitle": "UK Police Admit AI Error in Football Ban",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The inaccurate information generated by",
+            "Copilot was directly used to justify",
+            "prohibiting Israeli football fans from",
+            "attending the West Ham United match.",
+            "Copilot \u201Challucinated\u201D the match,",
+            "fabricating details that were then",
+            "included in the intelligence assessment",
+            "used by the police.",
+            "The chief constable acknowledged the",
+            "error during questioning by a",
+            "parliamentary committee.",
+            "The incident underscores the potential",
+            "for AI to generate false or misleading",
+            "information, known as \u201Challucinations\u201D.",
+            "The police force admitted the need for",
+            "caution and robust fact-checking when",
+            "utilizing AI tools in sensitive",
+            "operational contexts."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-14T09:00:50.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
+    },
+    {
       "id": "721",
       "topic": "Security",
       "source": "The Verge AI",
@@ -855,41 +926,6 @@
             "for \u201Challucinations\u201D \u2013 the generation of",
             "false or misleading information \u2013",
             "inherent in current AI technology."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-14T09:00:50.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
-    },
-    {
-      "id": "726",
-      "topic": "NLP",
-      "source": "The Verge AI",
-      "shortTitle": "AI Police Error",
-      "mediumTitle": "AI Hallucination Leads to Ban",
-      "longTitle": "UK Police Admit AI Error in Football Ban",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The inaccurate information generated by",
-            "Copilot was directly used to justify",
-            "prohibiting Israeli football fans from",
-            "attending the West Ham United match.",
-            "Copilot \u201Challucinated\u201D the match,",
-            "fabricating details that were then",
-            "included in the intelligence assessment",
-            "used by the police.",
-            "The chief constable acknowledged the",
-            "error during questioning by a",
-            "parliamentary committee.",
-            "The incident underscores the potential",
-            "for AI to generate false or misleading",
-            "information, known as \u201Challucinations\u201D.",
-            "The police force admitted the need for",
-            "caution and robust fact-checking when",
-            "utilizing AI tools in sensitive",
-            "operational contexts."
           ]
         }
       ],
