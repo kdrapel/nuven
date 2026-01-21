@@ -1,6 +1,76 @@
 {
   "articles": [
     {
+      "id": "761",
+      "topic": "AI Ops",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI Pledge",
+      "mediumTitle": "OpenAI Addresses Utility Costs",
+      "longTitle": "OpenAI Commits to Infrastructure \u0026 Water Use",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Specifically, OpenAI pledges to ensure",
+            "its operations do not lead to increased",
+            "electricity costs for others.",
+            "OpenAI has announced commitments to",
+            "cover the costs of energy infrastructure",
+            "upgrades required to power its data",
+            "centers and to minimize water usage.",
+            "This will be achieved by paying for",
+            "necessary energy infrastructure",
+            "improvements.",
+            "The company is responding to increasing",
+            "concerns about the impact of AI projects",
+            "on local utilities and costs.",
+            "OpenAI is addressing sustainability",
+            "concerns surrounding the energy and",
+            "resource demands of large-scale AI",
+            "development."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-21T06:58:15.000Z",
+      "ranking": 7.875000000000001,
+      "articleUrl": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills"
+    },
+    {
+      "id": "763",
+      "topic": "Robotics, Vision, NLP",
+      "source": "Marktechpost AI",
+      "shortTitle": "FOFPred",
+      "mediumTitle": "AI Predicts Motion",
+      "longTitle": "FOFPred: AI for Motion Forecasting",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Salesforce AI researchers developed",
+            "FOFPred, a new framework for predicting",
+            "future optical flow.",
+            "FOFPred is driven by natural language",
+            "instructions, allowing for command-based",
+            "motion prediction.",
+            "The framework integrates large",
+            "vision-language models (VLMs) with",
+            "diffusion transformers.",
+            "FOFPred aims to improve how robots",
+            "understand and execute commands.",
+            "Accurately forecasting object movement",
+            "can enhance video generation",
+            "capabilities.",
+            "FOFPred achieves dense motion",
+            "forecasting, meaning it predicts motion",
+            "for all parts of an image.",
+            "The research highlights the potential",
+            "for more intuitive robot interaction."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-21T09:55:38.000Z",
+      "ranking": 7.390000000000001,
+      "articleUrl": "https://www.marktechpost.com/2026/01/21/salesforce-ai-introduces-fofpred-a-language-driven-future-optical-flow-prediction-framework-that-enables-improved-robot-control-and-video-generation/"
+    },
+    {
       "id": "760",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -35,40 +105,6 @@
       "publishedAt": "2026-01-21T04:43:22.000Z",
       "ranking": 7.325,
       "articleUrl": "https://www.marktechpost.com/2026/01/20/liquid-ai-releases-lfm2-5-1-2b-thinking-a-1-2b-parameter-reasoning-model-that-fits-under-1-gb-on-device/"
-    },
-    {
-      "id": "756",
-      "topic": "Large Models, NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "OptiMind AI",
-      "mediumTitle": "Microsoft\u0027s OptiMind",
-      "longTitle": "AI Translates Language to Math Models",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft Research introduced OptiMind,",
-            "a 20 billion parameter model.",
-            "Traditionally, formulating these",
-            "mathematical models has been a",
-            "time-consuming and expert-driven task.",
-            "OptiMind bridges the gap between natural",
-            "language problem descriptions and",
-            "execution-ready optimization solvers.",
-            "The system focuses on creating mixed",
-            "integer linear programs (MILPs).",
-            "This technology is intended to",
-            "streamline operations research",
-            "workflows.",
-            "The core functionality of OptiMind is",
-            "the translation process itself.",
-            "Details beyond this core functionality",
-            "are currently limited."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-20T05:06:43.000Z",
-      "ranking": 6.324091123203991,
-      "articleUrl": "https://www.marktechpost.com/2026/01/19/microsoft-research-releases-optimind-a-20b-parameter-model-that-turns-natural-language-into-solver-ready-optimization-models/"
     },
     {
       "id": "759",
@@ -106,6 +142,40 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/20/zhipu-ai-releases-glm-4-7-flash-a-30b-a3b-moe-model-for-efficient-local-coding-and-agents/"
     },
     {
+      "id": "756",
+      "topic": "Large Models, NLP",
+      "source": "Marktechpost AI",
+      "shortTitle": "OptiMind AI",
+      "mediumTitle": "Microsoft\u0027s OptiMind",
+      "longTitle": "AI Translates Language to Math Models",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft Research introduced OptiMind,",
+            "a 20 billion parameter model.",
+            "Traditionally, formulating these",
+            "mathematical models has been a",
+            "time-consuming and expert-driven task.",
+            "OptiMind bridges the gap between natural",
+            "language problem descriptions and",
+            "execution-ready optimization solvers.",
+            "The system focuses on creating mixed",
+            "integer linear programs (MILPs).",
+            "This technology is intended to",
+            "streamline operations research",
+            "workflows.",
+            "The core functionality of OptiMind is",
+            "the translation process itself.",
+            "Details beyond this core functionality",
+            "are currently limited."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-20T05:06:43.000Z",
+      "ranking": 5.905412506505278,
+      "articleUrl": "https://www.marktechpost.com/2026/01/19/microsoft-research-releases-optimind-a-20b-parameter-model-that-turns-natural-language-into-solver-ready-optimization-models/"
+    },
+    {
       "id": "755",
       "topic": "Speech, NLP, Training Tricks",
       "source": "Marktechpost AI",
@@ -137,7 +207,7 @@
         }
       ],
       "publishedAt": "2026-01-20T05:24:05.000Z",
-      "ranking": 5.619989722861463,
+      "ranking": 5.205435394441215,
       "articleUrl": "https://www.marktechpost.com/2026/01/19/how-to-design-a-fully-streaming-voice-agent-with-end-to-end-latency-budgets-incremental-asr-llm-streaming-and-real-time-tts/"
     },
     {
@@ -173,7 +243,7 @@
         }
       ],
       "publishedAt": "2026-01-19T15:00:00.000Z",
-      "ranking": 3.2447257690801714,
+      "ranking": 2.6249991117028455,
       "articleUrl": "https://venturebeat.com/technology/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
     },
     {
@@ -209,7 +279,7 @@
         }
       ],
       "publishedAt": "2026-01-19T06:30:41.000Z",
-      "ranking": 2.9206986190958117,
+      "ranking": 2.180037227791641,
       "articleUrl": "https://www.marktechpost.com/2026/01/18/nous-research-releases-nouscoder-14b-a-competitive-olympiad-programming-model-post-trained-on-qwen3-14b-via-reinforcement-learning/"
     },
     {
@@ -243,7 +313,7 @@
         }
       ],
       "publishedAt": "2026-01-18T22:52:04.000Z",
-      "ranking": 1.771202642554628,
+      "ranking": 0.9216449825890773,
       "articleUrl": "https://www.marktechpost.com/2026/01/18/a-coding-guide-to-understanding-how-retries-trigger-failure-cascades-in-rpc-and-event-driven-architectures/"
     },
     {
@@ -278,7 +348,7 @@
         }
       ],
       "publishedAt": "2026-01-18T16:43:24.000Z",
-      "ranking": 0.4082481621145977,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/18/vercel-releases-agent-skills-a-package-manager-for-ai-coding-agents-with-10-years-of-react-and-next-js-optimisation-rules/"
     },
     {
@@ -1035,42 +1105,6 @@
       "publishedAt": "2026-01-13T14:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
-    },
-    {
-      "id": "715",
-      "topic": "Robotics",
-      "source": "The Verge AI",
-      "shortTitle": "Meta Layoffs",
-      "mediumTitle": "Meta Restructures XR Division",
-      "longTitle": "Meta Cuts 10% of Reality Labs Staff",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta has confirmed layoffs impacting",
-            "approximately 10 percent of its Reality",
-            "Labs division.",
-            "The company is moving to allocate more",
-            "resources towards the development of",
-            "wearable technology.",
-            "The restructuring accompanies a",
-            "strategic shift in Meta\u2019s investment",
-            "priorities.",
-            "The layoffs within Reality Labs are",
-            "directly linked to this reallocation of",
-            "investment.",
-            "This division is responsible for the",
-            "development of Meta\u2019s extended reality",
-            "(XR) products and services \u2013",
-            "encompassing virtual reality (VR) and",
-            "augmented reality (AR).",
-            "Meta is lessening its focus on the",
-            "Metaverse in favor of wearable devices."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-13T12:56:55.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/861295/meta-reality-labs-layoffs-shift-to-wearables"
     }
   ]
 }
