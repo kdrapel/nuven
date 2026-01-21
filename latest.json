@@ -35,6 +35,43 @@
       "articleUrl": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills"
     },
     {
+      "id": "770",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Claude AI Rules",
+      "mediumTitle": "Anthropic Updates Claude",
+      "longTitle": "Anthropic Revises Claude AI Principles",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Anthropic has significantly revised the",
+            "guiding principles for its Claude AI",
+            "model.",
+            "A key priority is avoiding actions that",
+            "could be detrimental to humanity.",
+            "The primary focus is on ensuring Claude",
+            "is helpful and honest in its responses.",
+            "The new guidelines are contained in a",
+            "57-page document titled \u0022Claude\u0027s",
+            "Constitution\u0022.",
+            "The \u0022constitution\u0022 serves as a direct",
+            "instruction set for the AI.",
+            "The update represents a significant",
+            "effort to refine the AI\u0027s ethical",
+            "framework.",
+            "The document details how the model",
+            "should navigate complex situations.",
+            "It also outlines how Claude should",
+            "balance potentially conflicting",
+            "objectives."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-21T16:36:18.000Z",
+      "ranking": 7.4,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc"
+    },
+    {
       "id": "763",
       "topic": "Robotics, Vision, NLP",
       "source": "Marktechpost AI",
@@ -143,6 +180,78 @@
       "articleUrl": "https://www.theverge.com/news/864811/adobe-acrobat-studio-generate-podcast-presentation"
     },
     {
+      "id": "771",
+      "topic": "NLP, Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Siri Update",
+      "mediumTitle": "Apple Revamps Siri",
+      "longTitle": "Apple Plans Major Siri AI Overhaul",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The new Siri will be capable of more",
+            "complex, conversational interactions.",
+            "The core of this change involves",
+            "leveraging artificial intelligence for",
+            "more natural dialogues.",
+            "Apple intends for Siri to handle more",
+            "nuanced requests and provide more",
+            "comprehensive responses.",
+            "The update aims to move Siri beyond",
+            "simple task execution to a chatbot-like",
+            "experience.",
+            "The new Siri\u2019s capabilities will be",
+            "similar to those demonstrated by",
+            "OpenAI\u2019s ChatGPT.",
+            "According to Bloomberg\u2019s Mark Gurman,",
+            "the Siri update is expected to roll out",
+            "later this year.",
+            "The update will be integrated directly",
+            "into iPhones and Macs."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-21T16:26:47.000Z",
+      "ranking": 7.135,
+      "articleUrl": "https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt"
+    },
+    {
+      "id": "769",
+      "topic": "Robotics",
+      "source": "The Verge AI",
+      "shortTitle": "Apple AI Pin",
+      "mediumTitle": "Apple Develops AI Wearable",
+      "longTitle": "Apple\u0027s New AI-Powered Wearable Device",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Apple is currently developing a small,",
+            "AI-powered wearable device, internally",
+            "referred to as an \u201CAI pin\u201D.",
+            "The core function of the AI pin is to",
+            "capture the user\u2019s surroundings using",
+            "integrated cameras.",
+            "The device aims to record and analyze",
+            "what the user sees and hears in",
+            "real-time.",
+            "Captured data is processed using",
+            "artificial intelligence algorithms.",
+            "Microphones are also integrated to",
+            "record audio from the user\u2019s",
+            "environment.",
+            "The AI pin is approximately the same",
+            "size as Apple\u2019s AirTag tracking device.",
+            "It effectively functions as a personal,",
+            "always-on recorder and contextual",
+            "awareness tool."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-21T17:43:27.000Z",
+      "ranking": 6.902941176470588,
+      "articleUrl": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor"
+    },
+    {
       "id": "766",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -209,7 +318,7 @@
         }
       ],
       "publishedAt": "2026-01-20T20:54:29.000Z",
-      "ranking": 6.0249999999999995,
+      "ranking": 4.71578482079932,
       "articleUrl": "https://www.marktechpost.com/2026/01/20/zhipu-ai-releases-glm-4-7-flash-a-30b-a3b-moe-model-for-efficient-local-coding-and-agents/"
     },
     {
@@ -243,7 +352,7 @@
         }
       ],
       "publishedAt": "2026-01-20T05:06:43.000Z",
-      "ranking": 4.943113783865943,
+      "ranking": 4.372852337313983,
       "articleUrl": "https://www.marktechpost.com/2026/01/19/microsoft-research-releases-optimind-a-20b-parameter-model-that-turns-natural-language-into-solver-ready-optimization-models/"
     },
     {
@@ -278,7 +387,7 @@
         }
       ],
       "publishedAt": "2026-01-20T05:24:05.000Z",
-      "ranking": 4.251014083650995,
+      "ranking": 3.6847524020113904,
       "articleUrl": "https://www.marktechpost.com/2026/01/19/how-to-design-a-fully-streaming-voice-agent-with-end-to-end-latency-budgets-incremental-asr-llm-streaming-and-real-time-tts/"
     },
     {
@@ -314,7 +423,7 @@
         }
       ],
       "publishedAt": "2026-01-19T15:00:00.000Z",
-      "ranking": 1.2786346252824776,
+      "ranking": 0.5133638263536877,
       "articleUrl": "https://venturebeat.com/technology/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
     },
     {
@@ -350,7 +459,7 @@
         }
       ],
       "publishedAt": "2026-01-19T06:30:41.000Z",
-      "ranking": 0.602649663489073,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/18/nous-research-releases-nouscoder-14b-a-competitive-olympiad-programming-model-post-trained-on-qwen3-14b-via-reinforcement-learning/"
     },
     {
@@ -1002,111 +1111,6 @@
       "publishedAt": "2026-01-14T11:52:20.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/861794/bandcamp-ban-ai-music"
-    },
-    {
-      "id": "721",
-      "topic": "Security",
-      "source": "The Verge AI",
-      "shortTitle": "AI Police Error",
-      "mediumTitle": "AI Hallucination Leads to Ban",
-      "longTitle": "UK Police Admit AI Intelligence Flaw",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The error directly contributed to",
-            "Israeli football fans being prohibited",
-            "from attending a West Ham United match",
-            "last year.",
-            "Copilot \u201Challucinated\u201D the match,",
-            "fabricating details that were then",
-            "included in the intelligence assessment.",
-            "The inaccurate information was used to",
-            "justify the ban, raising concerns about",
-            "the reliability of AI-generated",
-            "intelligence in policing.",
-            "The incident highlights the risks",
-            "associated with relying on large",
-            "language models (LLMs) like Copilot",
-            "without thorough verification.",
-            "The incident underscores the potential",
-            "for \u201Challucinations\u201D \u2013 the generation of",
-            "false or misleading information \u2013",
-            "inherent in current AI technology."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-14T09:00:50.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
-    },
-    {
-      "id": "726",
-      "topic": "NLP",
-      "source": "The Verge AI",
-      "shortTitle": "AI Police Error",
-      "mediumTitle": "AI Hallucination Leads to Ban",
-      "longTitle": "UK Police Admit AI Error in Football Ban",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The inaccurate information generated by",
-            "Copilot was directly used to justify",
-            "prohibiting Israeli football fans from",
-            "attending the West Ham United match.",
-            "Copilot \u201Challucinated\u201D the match,",
-            "fabricating details that were then",
-            "included in the intelligence assessment",
-            "used by the police.",
-            "The chief constable acknowledged the",
-            "error during questioning by a",
-            "parliamentary committee.",
-            "The incident underscores the potential",
-            "for AI to generate false or misleading",
-            "information, known as \u201Challucinations\u201D.",
-            "The police force admitted the need for",
-            "caution and robust fact-checking when",
-            "utilizing AI tools in sensitive",
-            "operational contexts."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-14T09:00:50.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake"
-    },
-    {
-      "id": "719",
-      "topic": "Health",
-      "source": "Marktechpost AI",
-      "shortTitle": "MedGemma 1.5",
-      "mediumTitle": "Google Releases MedGemma",
-      "longTitle": "Google\u0027s New Open Medical AI Model",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google Research announced the release of",
-            "MedGemma-1.5, the newest iteration of",
-            "its open medical AI models.",
-            "Adaptation to local regulatory",
-            "requirements is another important",
-            "consideration for developers.",
-            "A key goal is to enable developers to",
-            "tailor these models to their specific",
-            "local workflows.",
-            "The models are specifically designed for",
-            "use with real-world clinical data.",
-            "These models provide developers with",
-            "open-source resources for creating",
-            "systems related to medical imaging.",
-            "The models also support applications",
-            "involving medical text and speech",
-            "processing."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-14T08:30:39.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/13/google-ai-releases-medgemma-1-5-the-latest-update-to-their-open-medical-ai-models-for-developers/"
     }
   ]
 }
