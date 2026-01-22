@@ -38,42 +38,6 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc"
     },
     {
-      "id": "763",
-      "topic": "Robotics, Vision, NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "FOFPred",
-      "mediumTitle": "AI Predicts Motion",
-      "longTitle": "FOFPred: AI for Motion Forecasting",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Salesforce AI researchers developed",
-            "FOFPred, a new framework for predicting",
-            "future optical flow.",
-            "FOFPred is driven by natural language",
-            "instructions, allowing for command-based",
-            "motion prediction.",
-            "The framework integrates large",
-            "vision-language models (VLMs) with",
-            "diffusion transformers.",
-            "FOFPred aims to improve how robots",
-            "understand and execute commands.",
-            "Accurately forecasting object movement",
-            "can enhance video generation",
-            "capabilities.",
-            "FOFPred achieves dense motion",
-            "forecasting, meaning it predicts motion",
-            "for all parts of an image.",
-            "The research highlights the potential",
-            "for more intuitive robot interaction."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-21T09:55:38.000Z",
-      "ranking": 7.390000000000001,
-      "articleUrl": "https://www.marktechpost.com/2026/01/21/salesforce-ai-introduces-fofpred-a-language-driven-future-optical-flow-prediction-framework-that-enables-improved-robot-control-and-video-generation/"
-    },
-    {
       "id": "773",
       "topic": "Speech",
       "source": "Marktechpost AI",
@@ -107,42 +71,6 @@
       "publishedAt": "2026-01-22T00:23:42.000Z",
       "ranking": 7.225000000000001,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/inworld-ai-releases-tts-1-5-for-realtime-production-grade-voice-agents/"
-    },
-    {
-      "id": "767",
-      "topic": "News",
-      "source": "The Verge AI",
-      "shortTitle": "AI in Acrobat",
-      "mediumTitle": "Adobe Adds AI to PDFs",
-      "longTitle": "Adobe Acrobat Gains Generative AI Features",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The new AI features are designed to",
-            "streamline PDF editing and create",
-            "alternative formats.",
-            "The AI analyzes PDF content to create",
-            "audio summaries or presentations.",
-            "The AI provides quicker methods for",
-            "editing and repurposing PDF content.",
-            "These updates aim to improve document",
-            "workflow efficiency.",
-            "Acrobat Studio is Adobe\u2019s dedicated",
-            "AI-focused document workspace.",
-            "The chat-based editing allows for",
-            "interactive modifications to PDF",
-            "documents.",
-            "Repurposing includes converting PDFs",
-            "into more accessible audio and visual",
-            "formats.",
-            "The podcast generation feature offers a",
-            "new way to consume PDF information."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-21T10:00:00.000Z",
-      "ranking": 7.200000000000001,
-      "articleUrl": "https://www.theverge.com/news/864811/adobe-acrobat-studio-generate-podcast-presentation"
     },
     {
       "id": "772",
@@ -282,43 +210,80 @@
         }
       ],
       "publishedAt": "2026-01-21T06:58:15.000Z",
-      "ranking": 6.7563012178214885,
+      "ranking": 6.376935578830592,
       "articleUrl": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills"
     },
     {
-      "id": "766",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Shorts",
-      "mediumTitle": "YouTube: AI Creator Tools",
-      "longTitle": "YouTube to Allow AI Versions of Creators in Shorts",
+      "id": "763",
+      "topic": "Robotics, Vision, NLP",
+      "source": "Marktechpost AI",
+      "shortTitle": "FOFPred",
+      "mediumTitle": "AI Predicts Motion",
+      "longTitle": "FOFPred: AI for Motion Forecasting",
       "paragraphs": [
         {
           "Lines": [
-            "Creators will be able to utilize AI to",
-            "generate versions of themselves for use",
-            "specifically within YouTube Shorts.",
-            "The introduction of this feature is",
-            "likely to result in a greater volume of",
-            "AI-generated content on the Shorts feed.",
-            "This AI-generated content will primarily",
-            "originate from established creators on",
-            "the YouTube platform.",
-            "Neal Mohan, the CEO of YouTube, made the",
-            "announcement regarding the AI-powered",
-            "Shorts feature.",
-            "The release timeframe for this new",
-            "feature is currently set for sometime",
-            "later in the current year.",
-            "YouTube is aiming to empower creators",
-            "with new tools to facilitate content",
-            "creation."
+            "Salesforce AI researchers developed",
+            "FOFPred, a new framework for predicting",
+            "future optical flow.",
+            "FOFPred is driven by natural language",
+            "instructions, allowing for command-based",
+            "motion prediction.",
+            "The framework integrates large",
+            "vision-language models (VLMs) with",
+            "diffusion transformers.",
+            "FOFPred aims to improve how robots",
+            "understand and execute commands.",
+            "Accurately forecasting object movement",
+            "can enhance video generation",
+            "capabilities.",
+            "FOFPred achieves dense motion",
+            "forecasting, meaning it predicts motion",
+            "for all parts of an image.",
+            "The research highlights the potential",
+            "for more intuitive robot interaction."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-21T09:55:38.000Z",
+      "ranking": 6.178301993625115,
+      "articleUrl": "https://www.marktechpost.com/2026/01/21/salesforce-ai-introduces-fofpred-a-language-driven-future-optical-flow-prediction-framework-that-enables-improved-robot-control-and-video-generation/"
+    },
+    {
+      "id": "767",
+      "topic": "News",
+      "source": "The Verge AI",
+      "shortTitle": "AI in Acrobat",
+      "mediumTitle": "Adobe Adds AI to PDFs",
+      "longTitle": "Adobe Acrobat Gains Generative AI Features",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The new AI features are designed to",
+            "streamline PDF editing and create",
+            "alternative formats.",
+            "The AI analyzes PDF content to create",
+            "audio summaries or presentations.",
+            "The AI provides quicker methods for",
+            "editing and repurposing PDF content.",
+            "These updates aim to improve document",
+            "workflow efficiency.",
+            "Acrobat Studio is Adobe\u2019s dedicated",
+            "AI-focused document workspace.",
+            "The chat-based editing allows for",
+            "interactive modifications to PDF",
+            "documents.",
+            "Repurposing includes converting PDFs",
+            "into more accessible audio and visual",
+            "formats.",
+            "The podcast generation feature offers a",
+            "new way to consume PDF information."
           ]
         }
       ],
       "publishedAt": "2026-01-21T10:00:00.000Z",
-      "ranking": 6.390000000000001,
-      "articleUrl": "https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026"
+      "ranking": 5.994968771166032,
+      "articleUrl": "https://www.theverge.com/news/864811/adobe-acrobat-studio-generate-podcast-presentation"
     },
     {
       "id": "760",
@@ -353,8 +318,43 @@
         }
       ],
       "publishedAt": "2026-01-21T04:43:22.000Z",
-      "ranking": 5.9993826728976,
+      "ranking": 5.5888685631543655,
       "articleUrl": "https://www.marktechpost.com/2026/01/20/liquid-ai-releases-lfm2-5-1-2b-thinking-a-1-2b-parameter-reasoning-model-that-fits-under-1-gb-on-device/"
+    },
+    {
+      "id": "766",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Shorts",
+      "mediumTitle": "YouTube: AI Creator Tools",
+      "longTitle": "YouTube to Allow AI Versions of Creators in Shorts",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Creators will be able to utilize AI to",
+            "generate versions of themselves for use",
+            "specifically within YouTube Shorts.",
+            "The introduction of this feature is",
+            "likely to result in a greater volume of",
+            "AI-generated content on the Shorts feed.",
+            "This AI-generated content will primarily",
+            "originate from established creators on",
+            "the YouTube platform.",
+            "Neal Mohan, the CEO of YouTube, made the",
+            "announcement regarding the AI-powered",
+            "Shorts feature.",
+            "The release timeframe for this new",
+            "feature is currently set for sometime",
+            "later in the current year.",
+            "YouTube is aiming to empower creators",
+            "with new tools to facilitate content",
+            "creation."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-21T10:00:00.000Z",
+      "ranking": 5.184968765989887,
+      "articleUrl": "https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026"
     },
     {
       "id": "759",
@@ -388,7 +388,7 @@
         }
       ],
       "publishedAt": "2026-01-20T20:54:29.000Z",
-      "ranking": 3.843565065242273,
+      "ranking": 3.3247721528464487,
       "articleUrl": "https://www.marktechpost.com/2026/01/20/zhipu-ai-releases-glm-4-7-flash-a-30b-a3b-moe-model-for-efficient-local-coding-and-agents/"
     },
     {
@@ -422,7 +422,7 @@
         }
       ],
       "publishedAt": "2026-01-20T05:06:43.000Z",
-      "ranking": 3.0626080739215293,
+      "ranking": 2.324948396122524,
       "articleUrl": "https://www.marktechpost.com/2026/01/19/microsoft-research-releases-optimind-a-20b-parameter-model-that-turns-natural-language-into-solver-ready-optimization-models/"
     },
     {
@@ -457,7 +457,7 @@
         }
       ],
       "publishedAt": "2026-01-20T05:24:05.000Z",
-      "ranking": 2.3825344030396325,
+      "ranking": 1.6488851909956566,
       "articleUrl": "https://www.marktechpost.com/2026/01/19/how-to-design-a-fully-streaming-voice-agent-with-end-to-end-latency-budgets-incremental-asr-llm-streaming-and-real-time-tts/"
     },
     {
