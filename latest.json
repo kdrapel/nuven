@@ -1,6 +1,43 @@
 {
   "articles": [
     {
+      "id": "780",
+      "topic": "NLP, Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Search",
+      "mediumTitle": "Google AI Search Expands",
+      "longTitle": "Google\u0027s AI Mode Gains Access to User Data",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google is expanding the capabilities of",
+            "its AI Mode within Search by integrating",
+            "access to users\u2019 Gmail and Google Photos",
+            "data.",
+            "Access to this data is contingent upon",
+            "explicit user permission.",
+            "Specifically, the AI will analyze",
+            "information within a user\u2019s Gmail and",
+            "Google Photos accounts.",
+            "The integration aims to deliver more",
+            "personalized and relevant responses to",
+            "search queries.",
+            "This allows AI Mode to provide answers",
+            "tailored to the individual user\u2019s",
+            "context, going beyond general web",
+            "results.",
+            "The analysis is intended to help the AI",
+            "better understand a user\u2019s interests.",
+            "The AI will also attempt to understand a",
+            "user\u2019s routines and daily life."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-22T12:00:00.000Z",
+      "ranking": 7.7700000000000005,
+      "articleUrl": "https://www.theverge.com/news/865548/google-ai-mode-search-personal-intelligence-update"
+    },
+    {
       "id": "777",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -37,41 +74,39 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865077/adobe-firefly-foundry-ip-sage-genai-models"
     },
     {
-      "id": "770",
-      "topic": "Ethics",
+      "id": "776",
+      "topic": "NLP, Generative AI",
       "source": "The Verge AI",
-      "shortTitle": "Claude AI Rules",
-      "mediumTitle": "Anthropic Updates Claude",
-      "longTitle": "Anthropic Revises Claude AI Principles",
+      "shortTitle": "AI Text Tool",
+      "mediumTitle": "Humanizer: AI Text Refiner",
+      "longTitle": "New Tool Makes AI Text Sound More Human",
       "paragraphs": [
         {
           "Lines": [
-            "Anthropic has significantly revised the",
-            "guiding principles for its Claude AI",
-            "model.",
-            "A key priority is avoiding actions that",
-            "could be detrimental to humanity.",
-            "The primary focus is on ensuring Claude",
-            "is helpful and honest in its responses.",
-            "The new guidelines are contained in a",
-            "57-page document titled \u0022Claude\u0027s",
-            "Constitution\u0022.",
-            "The \u0022constitution\u0022 serves as a direct",
-            "instruction set for the AI.",
-            "The update represents a significant",
-            "effort to refine the AI\u0027s ethical",
-            "framework.",
-            "The document details how the model",
-            "should navigate complex situations.",
-            "It also outlines how Claude should",
-            "balance potentially conflicting",
-            "objectives."
+            "Humanizer essentially inverts the",
+            "detection process, using the \u0027tells\u0027 to",
+            "improve the writing itself.",
+            "Wikipedia\u0027s volunteer editors compiled a",
+            "guide specifically for identifying text",
+            "produced by AI models.",
+            "The core innovation lies in leveraging",
+            "knowledge of AI detection to enhance AI",
+            "generation.",
+            "The tool aims to make AI-generated text",
+            "more convincingly human-like in its",
+            "style and tone.",
+            "Anthropic\u0027s Claude was \u0027fed\u0027 the list of",
+            "AI writing characteristics to learn and",
+            "apply them.",
+            "The development of Humanizer stems from",
+            "the increasing need to distinguish",
+            "between human and AI-generated content."
           ]
         }
       ],
-      "publishedAt": "2026-01-21T16:36:18.000Z",
-      "ranking": 7.4,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc"
+      "publishedAt": "2026-01-22T10:48:15.000Z",
+      "ranking": 7.424999999999999,
+      "articleUrl": "https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill"
     },
     {
       "id": "773",
@@ -144,6 +179,115 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/21/flashlabs-researchers-release-chroma-1-0-a-4b-real-time-speech-dialogue-model-with-personalized-voice-cloning/"
     },
     {
+      "id": "775",
+      "topic": "Dev Tools",
+      "source": "VentureBeat AI",
+      "shortTitle": "Railway Funding",
+      "mediumTitle": "Railway Secures $100M",
+      "longTitle": "Railway Raises $100M to Fuel AI Infrastructure Growth",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Railway\u2019s pricing is roughly 50% lower",
+            "than hyperscalers and 3-4x cheaper than",
+            "newer startups, charging by the second",
+            "of compute usage.",
+            "G2X, a federal contractor, saw a",
+            "seven-times faster deployment speed and",
+            "an 87% cost reduction after switching to",
+            "Railway.",
+            "The company has integrated with AI",
+            "systems, enabling AI agents to automate",
+            "infrastructure deployment and",
+            "management.",
+            "In a strategic move, Railway abandoned",
+            "Google Cloud in 2024 to build its own",
+            "data centers for greater control and",
+            "reliability.",
+            "Railway\u2019s Series B funding round was led",
+            "by TQ Ventures, with participation from",
+            "FPV Ventures, Redpoint, and Unusual",
+            "Ventures."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-22T15:00:00.000Z",
+      "ranking": 7.099999999999999,
+      "articleUrl": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+    },
+    {
+      "id": "774",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Copyright",
+      "mediumTitle": "Artists Protest AI Use",
+      "longTitle": "AI Training Data Sparks Copyright Debate",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The central issue is the use of creative",
+            "works to train AI models without",
+            "obtaining permission from, or providing",
+            "compensation to, the original creators.",
+            "The signatories believe that AI",
+            "companies are unfairly profiting from",
+            "their work without proper",
+            "acknowledgement or remuneration.",
+            "The campaign\u2019s title, \u0022Stealing Isn\u0027t",
+            "Innovation,\u0022 directly frames the",
+            "practice as unethical and harmful to",
+            "artists.",
+            "Approximately 800 individuals have",
+            "signed the campaign, demonstrating broad",
+            "concern within the creative community.",
+            "R.E.M. is a critically acclaimed and",
+            "influential rock band that achieved",
+            "significant commercial success."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-22T01:01:00.000Z",
+      "ranking": 6.36,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists"
+    },
+    {
+      "id": "770",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Claude AI Rules",
+      "mediumTitle": "Anthropic Updates Claude",
+      "longTitle": "Anthropic Revises Claude AI Principles",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Anthropic has significantly revised the",
+            "guiding principles for its Claude AI",
+            "model.",
+            "A key priority is avoiding actions that",
+            "could be detrimental to humanity.",
+            "The primary focus is on ensuring Claude",
+            "is helpful and honest in its responses.",
+            "The new guidelines are contained in a",
+            "57-page document titled \u0022Claude\u0027s",
+            "Constitution\u0022.",
+            "The \u0022constitution\u0022 serves as a direct",
+            "instruction set for the AI.",
+            "The update represents a significant",
+            "effort to refine the AI\u0027s ethical",
+            "framework.",
+            "The document details how the model",
+            "should navigate complex situations.",
+            "It also outlines how Claude should",
+            "balance potentially conflicting",
+            "objectives."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-21T16:36:18.000Z",
+      "ranking": 6.060194915237849,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc"
+    },
+    {
       "id": "771",
       "topic": "NLP, Generative AI",
       "source": "The Verge AI",
@@ -176,7 +320,7 @@
         }
       ],
       "publishedAt": "2026-01-21T16:26:47.000Z",
-      "ranking": 7.135,
+      "ranking": 5.779851879336501,
       "articleUrl": "https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt"
     },
     {
@@ -212,7 +356,7 @@
         }
       ],
       "publishedAt": "2026-01-21T17:43:27.000Z",
-      "ranking": 6.902941176470588,
+      "ranking": 5.668914451955484,
       "articleUrl": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor"
     },
     {
@@ -246,7 +390,7 @@
         }
       ],
       "publishedAt": "2026-01-21T06:58:15.000Z",
-      "ranking": 5.938164772122143,
+      "ranking": 5.444758731857389,
       "articleUrl": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills"
     },
     {
@@ -282,7 +426,7 @@
         }
       ],
       "publishedAt": "2026-01-21T09:55:38.000Z",
-      "ranking": 5.780858510831406,
+      "ranking": 5.328649955374759,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/salesforce-ai-introduces-fofpred-a-language-driven-future-optical-flow-prediction-framework-that-enables-improved-robot-control-and-video-generation/"
     },
     {
@@ -318,7 +462,7 @@
         }
       ],
       "publishedAt": "2026-01-21T10:00:00.000Z",
-      "ranking": 5.598542647426317,
+      "ranking": 5.147348254392428,
       "articleUrl": "https://www.theverge.com/news/864811/adobe-acrobat-studio-generate-podcast-presentation"
     },
     {
@@ -354,7 +498,7 @@
         }
       ],
       "publishedAt": "2026-01-21T04:43:22.000Z",
-      "ranking": 5.118672211937444,
+      "ranking": 4.593939360011211,
       "articleUrl": "https://www.marktechpost.com/2026/01/20/liquid-ai-releases-lfm2-5-1-2b-thinking-a-1-2b-parameter-reasoning-model-that-fits-under-1-gb-on-device/"
     },
     {
@@ -389,7 +533,7 @@
         }
       ],
       "publishedAt": "2026-01-21T10:00:00.000Z",
-      "ranking": 4.78854264120141,
+      "ranking": 4.337348247285267,
       "articleUrl": "https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026"
     },
     {
@@ -424,7 +568,7 @@
         }
       ],
       "publishedAt": "2026-01-20T20:54:29.000Z",
-      "ranking": 2.7453338329814767,
+      "ranking": 2.111702896559625,
       "articleUrl": "https://www.marktechpost.com/2026/01/20/zhipu-ai-releases-glm-4-7-flash-a-30b-a3b-moe-model-for-efficient-local-coding-and-agents/"
     },
     {
@@ -458,7 +602,7 @@
         }
       ],
       "publishedAt": "2026-01-20T05:06:43.000Z",
-      "ranking": 1.5246964219381054,
+      "ranking": 0.6709458144454539,
       "articleUrl": "https://www.marktechpost.com/2026/01/19/microsoft-research-releases-optimind-a-20b-parameter-model-that-turns-natural-language-into-solver-ready-optimization-models/"
     },
     {
@@ -493,7 +637,7 @@
         }
       ],
       "publishedAt": "2026-01-20T05:24:05.000Z",
-      "ranking": 0.8526793548279707,
+      "ranking": 0.0029621740579024447,
       "articleUrl": "https://www.marktechpost.com/2026/01/19/how-to-design-a-fully-streaming-voice-agent-with-end-to-end-latency-budgets-incremental-asr-llm-streaming-and-real-time-tts/"
     },
     {
@@ -1034,80 +1178,6 @@
       "publishedAt": "2026-01-15T08:54:13.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/14/deepseek-ai-researchers-introduce-engram-a-conditional-memory-axis-for-sparse-llms/"
-    },
-    {
-      "id": "730",
-      "topic": "Ethics, Security, Policy",
-      "source": "The Verge AI",
-      "shortTitle": "Deepfake Apps",
-      "mediumTitle": "X \u0026 Grok App Store Demand",
-      "longTitle": "Advocates Urge Apple \u0026 Google Action",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Advocacy groups argue the deepfakes",
-            "represent a clear violation of existing",
-            "app store policies.",
-            "Despite the alleged policy breaches,",
-            "both X and Grok remain available for",
-            "download.",
-            "X, formerly known as Twitter, is the",
-            "platform hosting the problematic",
-            "deepfakes.",
-            "The groups are urging decisive action",
-            "from Apple and Google to address the",
-            "issue.",
-            "xAI\u2019s Grok is also named in the demand",
-            "for removal from the app stores.",
-            "They believe removing the apps would",
-            "demonstrate stronger leadership in",
-            "content moderation.",
-            "The coalition includes women\u2019s",
-            "organizations and tech watchdogs",
-            "concerned about online safety."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-15T08:51:24.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/862460/apple-google-app-stores-ditch-grok-x-open-letters"
-    },
-    {
-      "id": "728",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Wiki Revenue",
-      "mediumTitle": "Wikipedia Secures Funding",
-      "longTitle": "Microsoft, Meta \u0026 Amazon Pay for Wiki Access",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft, Meta, and Amazon are now",
-            "contributing financially to the",
-            "Wikimedia Foundation.",
-            "These partnerships are designed to",
-            "ensure Wikipedia remains freely",
-            "accessible to the general public.",
-            "Wikimedia Enterprise provides large",
-            "organizations with high-quality access",
-            "to Wikipedia data.",
-            "The initiative seeks to create a stable",
-            "financial foundation for the Wikimedia",
-            "Foundation\u2019s long-term sustainability.",
-            "The Wikimedia Foundation is a non-profit",
-            "organization responsible for operating",
-            "Wikipedia.",
-            "The financial terms of the agreements",
-            "with Microsoft, Meta, and Amazon have",
-            "not been publicly revealed.",
-            "The announcement coincided with",
-            "Wikipedia\u2019s 25th anniversary."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-15T04:30:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation"
     }
   ]
 }
