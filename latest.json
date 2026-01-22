@@ -144,6 +144,41 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/20/liquid-ai-releases-lfm2-5-1-2b-thinking-a-1-2b-parameter-reasoning-model-that-fits-under-1-gb-on-device/"
     },
     {
+      "id": "773",
+      "topic": "Speech",
+      "source": "Marktechpost AI",
+      "shortTitle": "Inworld TTS",
+      "mediumTitle": "Inworld AI TTS-1.5",
+      "longTitle": "Inworld AI Releases TTS-1.5 Voice Agent System",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Inworld AI has released TTS-1.5, an",
+            "updated version of its TTS-1",
+            "text-to-speech (TTS) system.",
+            "This new version is specifically",
+            "designed for real-time voice agents.",
+            "TTS-1.5 focuses on achieving low",
+            "latency, high quality, and",
+            "cost-effectiveness.",
+            "According to Artificial Analysis,",
+            "TTS-1.5 is currently the top-ranked TTS",
+            "system.",
+            "It aims to be more expressive than",
+            "previous versions in the TTS-1 family.",
+            "The system also strives for improved",
+            "stability compared to earlier TTS-1",
+            "iterations.",
+            "TTS-1.5 represents an advancement in",
+            "Inworld AI\u0027s voice technology offerings."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-22T00:23:42.000Z",
+      "ranking": 7.225000000000001,
+      "articleUrl": "https://www.marktechpost.com/2026/01/21/inworld-ai-releases-tts-1-5-for-realtime-production-grade-voice-agents/"
+    },
+    {
       "id": "767",
       "topic": "News",
       "source": "The Verge AI",
@@ -178,6 +213,41 @@
       "publishedAt": "2026-01-21T10:00:00.000Z",
       "ranking": 7.200000000000001,
       "articleUrl": "https://www.theverge.com/news/864811/adobe-acrobat-studio-generate-podcast-presentation"
+    },
+    {
+      "id": "772",
+      "topic": "Speech, Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "Chroma 1.0",
+      "mediumTitle": "FlashLabs Releases Chroma",
+      "longTitle": "Chroma 1.0: Speech-to-Speech Model",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A key feature of Chroma 1.0 is its",
+            "ability to maintain the speaker\u2019s",
+            "identity throughout the dialogue.",
+            "Chroma 1.0 distinguishes itself by",
+            "integrating low-latency interaction with",
+            "high-fidelity personalized voice",
+            "cloning.",
+            "This preservation of voice creates a",
+            "more natural and consistent",
+            "conversational experience for users.",
+            "The model responds in the same voice as",
+            "the user, rather than a generic or",
+            "different voice.",
+            "The model is designed for real-time",
+            "interaction, allowing for immediate",
+            "responses in a conversation.",
+            "Chroma 1.0 is a 4B parameter model,",
+            "indicating its size and complexity."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-22T03:22:16.000Z",
+      "ranking": 7.139999999999999,
+      "articleUrl": "https://www.marktechpost.com/2026/01/21/flashlabs-researchers-release-chroma-1-0-a-4b-real-time-speech-dialogue-model-with-personalized-voice-cloning/"
     },
     {
       "id": "771",
@@ -318,7 +388,7 @@
         }
       ],
       "publishedAt": "2026-01-20T20:54:29.000Z",
-      "ranking": 4.71578482079932,
+      "ranking": 4.307104099109292,
       "articleUrl": "https://www.marktechpost.com/2026/01/20/zhipu-ai-releases-glm-4-7-flash-a-30b-a3b-moe-model-for-efficient-local-coding-and-agents/"
     },
     {
@@ -352,7 +422,7 @@
         }
       ],
       "publishedAt": "2026-01-20T05:06:43.000Z",
-      "ranking": 4.372852337313983,
+      "ranking": 3.745032341973091,
       "articleUrl": "https://www.marktechpost.com/2026/01/19/microsoft-research-releases-optimind-a-20b-parameter-model-that-turns-natural-language-into-solver-ready-optimization-models/"
     },
     {
@@ -387,7 +457,7 @@
         }
       ],
       "publishedAt": "2026-01-20T05:24:05.000Z",
-      "ranking": 3.6847524020113904,
+      "ranking": 3.0609478650543727,
       "articleUrl": "https://www.marktechpost.com/2026/01/19/how-to-design-a-fully-streaming-voice-agent-with-end-to-end-latency-budgets-incremental-asr-llm-streaming-and-real-time-tts/"
     },
     {
@@ -423,7 +493,7 @@
         }
       ],
       "publishedAt": "2026-01-19T15:00:00.000Z",
-      "ranking": 0.5133638263536877,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/technology/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
     },
     {
@@ -1075,42 +1145,6 @@
       "publishedAt": "2026-01-14T12:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/861576/google-gemini-ai-personal-intelligence-gmail-search-youtube-photos"
-    },
-    {
-      "id": "725",
-      "topic": "Music, Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Bandcamp AI Ban",
-      "mediumTitle": "Bandcamp Bans AI Music",
-      "longTitle": "Bandcamp First to Ban AI-Generated Music",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Bandcamp has announced a ban on",
-            "AI-generated music content on its",
-            "platform.",
-            "This makes Bandcamp the first major",
-            "music platform to implement such a",
-            "policy.",
-            "Content identified as being generated by",
-            "AI will be subject to removal from the",
-            "platform.",
-            "The decision stems from growing concerns",
-            "and objections voiced by artists",
-            "regarding the use of artificial",
-            "intelligence in music creation.",
-            "Bandcamp\u2019s core identity is centered",
-            "around supporting artists.",
-            "The ban reflects a commitment to that",
-            "principle amidst the increasing debate",
-            "surrounding AI\u2019s role in the music",
-            "industry."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-14T11:52:20.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/861794/bandcamp-ban-ai-music"
     }
   ]
 }
