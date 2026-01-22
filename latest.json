@@ -1,40 +1,6 @@
 {
   "articles": [
     {
-      "id": "761",
-      "topic": "AI Ops",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI Pledge",
-      "mediumTitle": "OpenAI Addresses Utility Costs",
-      "longTitle": "OpenAI Commits to Infrastructure \u0026 Water Use",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Specifically, OpenAI pledges to ensure",
-            "its operations do not lead to increased",
-            "electricity costs for others.",
-            "OpenAI has announced commitments to",
-            "cover the costs of energy infrastructure",
-            "upgrades required to power its data",
-            "centers and to minimize water usage.",
-            "This will be achieved by paying for",
-            "necessary energy infrastructure",
-            "improvements.",
-            "The company is responding to increasing",
-            "concerns about the impact of AI projects",
-            "on local utilities and costs.",
-            "OpenAI is addressing sustainability",
-            "concerns surrounding the energy and",
-            "resource demands of large-scale AI",
-            "development."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-21T06:58:15.000Z",
-      "ranking": 7.875000000000001,
-      "articleUrl": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills"
-    },
-    {
       "id": "770",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -106,42 +72,6 @@
       "publishedAt": "2026-01-21T09:55:38.000Z",
       "ranking": 7.390000000000001,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/salesforce-ai-introduces-fofpred-a-language-driven-future-optical-flow-prediction-framework-that-enables-improved-robot-control-and-video-generation/"
-    },
-    {
-      "id": "760",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "LFM2.5-1.2B",
-      "mediumTitle": "Liquid AI\u0027s Reasoning Model",
-      "longTitle": "On-Device Reasoning with LFM2.5-1.2B-Thinking",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Liquid AI recently released",
-            "LFM2.5-1.2B-Thinking, a new reasoning",
-            "model.",
-            "A key advantage of LFM2.5-1.2B-Thinking",
-            "is its ability to run locally on",
-            "devices.",
-            "The model boasts 1.2 billion parameters,",
-            "enabling complex reasoning tasks.",
-            "It requires approximately 900 MB of",
-            "storage space on modern smartphones.",
-            "Just two years ago, similar reasoning",
-            "capabilities demanded substantial data",
-            "center resources.",
-            "LFM2.5-1.2B-Thinking excels in areas",
-            "like structured reasoning and tool",
-            "utilization.",
-            "The model is not intended for general",
-            "language tasks, but rather specialized",
-            "reasoning."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-21T04:43:22.000Z",
-      "ranking": 7.325,
-      "articleUrl": "https://www.marktechpost.com/2026/01/20/liquid-ai-releases-lfm2-5-1-2b-thinking-a-1-2b-parameter-reasoning-model-that-fits-under-1-gb-on-device/"
     },
     {
       "id": "773",
@@ -322,6 +252,40 @@
       "articleUrl": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor"
     },
     {
+      "id": "761",
+      "topic": "AI Ops",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI Pledge",
+      "mediumTitle": "OpenAI Addresses Utility Costs",
+      "longTitle": "OpenAI Commits to Infrastructure \u0026 Water Use",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Specifically, OpenAI pledges to ensure",
+            "its operations do not lead to increased",
+            "electricity costs for others.",
+            "OpenAI has announced commitments to",
+            "cover the costs of energy infrastructure",
+            "upgrades required to power its data",
+            "centers and to minimize water usage.",
+            "This will be achieved by paying for",
+            "necessary energy infrastructure",
+            "improvements.",
+            "The company is responding to increasing",
+            "concerns about the impact of AI projects",
+            "on local utilities and costs.",
+            "OpenAI is addressing sustainability",
+            "concerns surrounding the energy and",
+            "resource demands of large-scale AI",
+            "development."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-21T06:58:15.000Z",
+      "ranking": 6.7563012178214885,
+      "articleUrl": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills"
+    },
+    {
       "id": "766",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -357,6 +321,42 @@
       "articleUrl": "https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026"
     },
     {
+      "id": "760",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "LFM2.5-1.2B",
+      "mediumTitle": "Liquid AI\u0027s Reasoning Model",
+      "longTitle": "On-Device Reasoning with LFM2.5-1.2B-Thinking",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Liquid AI recently released",
+            "LFM2.5-1.2B-Thinking, a new reasoning",
+            "model.",
+            "A key advantage of LFM2.5-1.2B-Thinking",
+            "is its ability to run locally on",
+            "devices.",
+            "The model boasts 1.2 billion parameters,",
+            "enabling complex reasoning tasks.",
+            "It requires approximately 900 MB of",
+            "storage space on modern smartphones.",
+            "Just two years ago, similar reasoning",
+            "capabilities demanded substantial data",
+            "center resources.",
+            "LFM2.5-1.2B-Thinking excels in areas",
+            "like structured reasoning and tool",
+            "utilization.",
+            "The model is not intended for general",
+            "language tasks, but rather specialized",
+            "reasoning."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-21T04:43:22.000Z",
+      "ranking": 5.9993826728976,
+      "articleUrl": "https://www.marktechpost.com/2026/01/20/liquid-ai-releases-lfm2-5-1-2b-thinking-a-1-2b-parameter-reasoning-model-that-fits-under-1-gb-on-device/"
+    },
+    {
       "id": "759",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -388,7 +388,7 @@
         }
       ],
       "publishedAt": "2026-01-20T20:54:29.000Z",
-      "ranking": 4.307104099109292,
+      "ranking": 3.843565065242273,
       "articleUrl": "https://www.marktechpost.com/2026/01/20/zhipu-ai-releases-glm-4-7-flash-a-30b-a3b-moe-model-for-efficient-local-coding-and-agents/"
     },
     {
@@ -422,7 +422,7 @@
         }
       ],
       "publishedAt": "2026-01-20T05:06:43.000Z",
-      "ranking": 3.745032341973091,
+      "ranking": 3.0626080739215293,
       "articleUrl": "https://www.marktechpost.com/2026/01/19/microsoft-research-releases-optimind-a-20b-parameter-model-that-turns-natural-language-into-solver-ready-optimization-models/"
     },
     {
@@ -457,7 +457,7 @@
         }
       ],
       "publishedAt": "2026-01-20T05:24:05.000Z",
-      "ranking": 3.0609478650543727,
+      "ranking": 2.3825344030396325,
       "articleUrl": "https://www.marktechpost.com/2026/01/19/how-to-design-a-fully-streaming-voice-agent-with-end-to-end-latency-budgets-incremental-asr-llm-streaming-and-real-time-tts/"
     },
     {
@@ -1109,42 +1109,6 @@
       "publishedAt": "2026-01-14T13:47:01.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/861894/grok-still-undressing-in-uk"
-    },
-    {
-      "id": "724",
-      "topic": "Generative AI, NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Gemini AI\u002B",
-      "mediumTitle": "Gemini Gains Personal Data Access",
-      "longTitle": "Google\u0027s Gemini AI to Integrate User Data",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google is enhancing its Gemini AI",
-            "chatbot with a new feature called",
-            "\u0027Personal Intelligence\u0027.",
-            "The upgrade allows Gemini to access and",
-            "utilize information from a user\u2019s",
-            "connected Google services.",
-            "Specifically, Gemini will be able to",
-            "draw data from Gmail, Google Photos,",
-            "Google Search history, and YouTube",
-            "history.",
-            "This integration aims to deliver",
-            "responses that are more personalized and",
-            "relevant to each user.",
-            "The intention is to move beyond generic",
-            "AI answers and provide insights tailored",
-            "to the individual user\u2019s experiences.",
-            "The system will also leverage the user\u2019s",
-            "data to provide more contextually aware",
-            "and helpful information."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-14T12:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/861576/google-gemini-ai-personal-intelligence-gmail-search-youtube-photos"
     }
   ]
 }
