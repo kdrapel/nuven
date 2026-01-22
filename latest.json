@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "777",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Adobe AI",
+      "mediumTitle": "Adobe Firefly for Hollywood",
+      "longTitle": "Adobe Develops AI Tools for Safe IP Use",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A key focus of Firefly Foundry is",
+            "intellectual property (IP) safety.",
+            "The initiative is designed to mitigate",
+            "the risk of copyright infringement.",
+            "It also aims to prevent the exposure of",
+            "studios\u0027 proprietary assets.",
+            "Adobe is actively developing generative",
+            "AI models through its Firefly suite.",
+            "Adobe is positioning Firefly Foundry as",
+            "a solution to legal and ethical concerns",
+            "in Hollywood.",
+            "Studios can gain confidence in IP",
+            "protection when using AI-powered tools.",
+            "The private models will be trained on",
+            "datasets specifically licensed for the",
+            "participating studios.",
+            "Firefly Foundry aims to provide creative",
+            "tools for studios to utilize generative",
+            "AI."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-22T10:00:00.000Z",
+      "ranking": 7.604166666666666,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865077/adobe-firefly-foundry-ip-sage-genai-models"
+    },
+    {
       "id": "770",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -210,7 +246,7 @@
         }
       ],
       "publishedAt": "2026-01-21T06:58:15.000Z",
-      "ranking": 6.376935578830592,
+      "ranking": 5.938164772122143,
       "articleUrl": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills"
     },
     {
@@ -246,7 +282,7 @@
         }
       ],
       "publishedAt": "2026-01-21T09:55:38.000Z",
-      "ranking": 6.178301993625115,
+      "ranking": 5.780858510831406,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/salesforce-ai-introduces-fofpred-a-language-driven-future-optical-flow-prediction-framework-that-enables-improved-robot-control-and-video-generation/"
     },
     {
@@ -282,7 +318,7 @@
         }
       ],
       "publishedAt": "2026-01-21T10:00:00.000Z",
-      "ranking": 5.994968771166032,
+      "ranking": 5.598542647426317,
       "articleUrl": "https://www.theverge.com/news/864811/adobe-acrobat-studio-generate-podcast-presentation"
     },
     {
@@ -318,7 +354,7 @@
         }
       ],
       "publishedAt": "2026-01-21T04:43:22.000Z",
-      "ranking": 5.5888685631543655,
+      "ranking": 5.118672211937444,
       "articleUrl": "https://www.marktechpost.com/2026/01/20/liquid-ai-releases-lfm2-5-1-2b-thinking-a-1-2b-parameter-reasoning-model-that-fits-under-1-gb-on-device/"
     },
     {
@@ -353,7 +389,7 @@
         }
       ],
       "publishedAt": "2026-01-21T10:00:00.000Z",
-      "ranking": 5.184968765989887,
+      "ranking": 4.78854264120141,
       "articleUrl": "https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026"
     },
     {
@@ -388,7 +424,7 @@
         }
       ],
       "publishedAt": "2026-01-20T20:54:29.000Z",
-      "ranking": 3.3247721528464487,
+      "ranking": 2.7453338329814767,
       "articleUrl": "https://www.marktechpost.com/2026/01/20/zhipu-ai-releases-glm-4-7-flash-a-30b-a3b-moe-model-for-efficient-local-coding-and-agents/"
     },
     {
@@ -422,7 +458,7 @@
         }
       ],
       "publishedAt": "2026-01-20T05:06:43.000Z",
-      "ranking": 2.324948396122524,
+      "ranking": 1.5246964219381054,
       "articleUrl": "https://www.marktechpost.com/2026/01/19/microsoft-research-releases-optimind-a-20b-parameter-model-that-turns-natural-language-into-solver-ready-optimization-models/"
     },
     {
@@ -457,7 +493,7 @@
         }
       ],
       "publishedAt": "2026-01-20T05:24:05.000Z",
-      "ranking": 1.6488851909956566,
+      "ranking": 0.8526793548279707,
       "articleUrl": "https://www.marktechpost.com/2026/01/19/how-to-design-a-fully-streaming-voice-agent-with-end-to-end-latency-budgets-incremental-asr-llm-streaming-and-real-time-tts/"
     },
     {
@@ -1072,43 +1108,6 @@
       "publishedAt": "2026-01-15T04:30:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation"
-    },
-    {
-      "id": "723",
-      "topic": "Ethics, Security",
-      "source": "The Verge AI",
-      "shortTitle": "X \u0026 Deepfakes",
-      "mediumTitle": "Grok Deepfake Concerns",
-      "longTitle": "X Faces Criticism Over Deepfake Issues",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The deepfakes created using Grok are",
-            "non-consensual and sexually explicit,",
-            "specifically targeting women.",
-            "It took less than a minute to bypass the",
-            "latest restrictions designed to prevent",
-            "the chatbot from \u201Cundressing\u201D women in",
-            "generated images.",
-            "Users are readily able to generate",
-            "harmful and exploitative content despite",
-            "X\u2019s stated intentions.",
-            "X has attempted to implement",
-            "restrictions to prevent Grok from",
-            "generating harmful images, but these",
-            "have proven ineffective.",
-            "X acknowledges the problem of deepfake",
-            "abuse but has yet to demonstrate a",
-            "viable solution.",
-            "X, formerly known as Twitter, is under",
-            "Elon Musk\u2019s ownership and is grappling",
-            "with the fallout from deepfake abuse."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-14T13:47:01.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/861894/grok-still-undressing-in-uk"
     }
   ]
 }
