@@ -216,6 +216,43 @@
       "articleUrl": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
     },
     {
+      "id": "782",
+      "topic": "Speech",
+      "source": "Marktechpost AI",
+      "shortTitle": "VibeVoice-ASR",
+      "mediumTitle": "Microsoft\u0027s New Speech Model",
+      "longTitle": "Microsoft Releases VibeVoice-ASR Speech-to-Text",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft has released VibeVoice-ASR, a",
+            "new speech-to-text model as part of the",
+            "VibeVoice family of open-source voice AI",
+            "models.",
+            "This unified model is specifically",
+            "designed to process 60-minute long-form",
+            "audio recordings in a single pass.",
+            "A key feature of VibeVoice-ASR is its",
+            "ability to generate structured",
+            "transcriptions.",
+            "The structured transcriptions encode",
+            "information regarding \u0027Who,\u0027 \u0027When,\u0027 and",
+            "\u0027What\u0027 was said during the recording.",
+            "It also supports customized hotwords,",
+            "allowing for tailored voice commands.",
+            "The model is part of a larger VibeVoice",
+            "system, suggesting potential integration",
+            "with other voice AI tools.",
+            "VibeVoice-ASR is an open-source model,",
+            "meaning its code is publicly available."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-22T22:11:00.000Z",
+      "ranking": 6.82,
+      "articleUrl": "https://www.marktechpost.com/2026/01/22/microsoft-releases-vibevoice-asr-a-unified-speech-to-text-model-designed-to-handle-60-minute-long-form-audio-in-a-single-pass/"
+    },
+    {
       "id": "774",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -284,7 +321,7 @@
         }
       ],
       "publishedAt": "2026-01-21T16:36:18.000Z",
-      "ranking": 6.060194915237849,
+      "ranking": 5.652955541682857,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc"
     },
     {
@@ -320,7 +357,7 @@
         }
       ],
       "publishedAt": "2026-01-21T16:26:47.000Z",
-      "ranking": 5.779851879336501,
+      "ranking": 5.370441401320633,
       "articleUrl": "https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt"
     },
     {
@@ -356,7 +393,7 @@
         }
       ],
       "publishedAt": "2026-01-21T17:43:27.000Z",
-      "ranking": 5.668914451955484,
+      "ranking": 5.2769944724102,
       "articleUrl": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor"
     },
     {
@@ -390,7 +427,7 @@
         }
       ],
       "publishedAt": "2026-01-21T06:58:15.000Z",
-      "ranking": 5.444758731857389,
+      "ranking": 4.905644797504576,
       "articleUrl": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills"
     },
     {
@@ -426,7 +463,7 @@
         }
       ],
       "publishedAt": "2026-01-21T09:55:38.000Z",
-      "ranking": 5.328649955374759,
+      "ranking": 4.830003712365322,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/salesforce-ai-introduces-fofpred-a-language-driven-future-optical-flow-prediction-framework-that-enables-improved-robot-control-and-video-generation/"
     },
     {
@@ -462,7 +499,7 @@
         }
       ],
       "publishedAt": "2026-01-21T10:00:00.000Z",
-      "ranking": 5.147348254392428,
+      "ranking": 4.649698209453628,
       "articleUrl": "https://www.theverge.com/news/864811/adobe-acrobat-studio-generate-podcast-presentation"
     },
     {
@@ -498,7 +535,7 @@
         }
       ],
       "publishedAt": "2026-01-21T04:43:22.000Z",
-      "ranking": 4.593939360011211,
+      "ranking": 4.02405355278457,
       "articleUrl": "https://www.marktechpost.com/2026/01/20/liquid-ai-releases-lfm2-5-1-2b-thinking-a-1-2b-parameter-reasoning-model-that-fits-under-1-gb-on-device/"
     },
     {
@@ -533,7 +570,7 @@
         }
       ],
       "publishedAt": "2026-01-21T10:00:00.000Z",
-      "ranking": 4.337348247285267,
+      "ranking": 3.8396981989957144,
       "articleUrl": "https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026"
     },
     {
@@ -568,42 +605,8 @@
         }
       ],
       "publishedAt": "2026-01-20T20:54:29.000Z",
-      "ranking": 2.111702896559625,
+      "ranking": 1.4348474775117754,
       "articleUrl": "https://www.marktechpost.com/2026/01/20/zhipu-ai-releases-glm-4-7-flash-a-30b-a3b-moe-model-for-efficient-local-coding-and-agents/"
-    },
-    {
-      "id": "756",
-      "topic": "Large Models, NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "OptiMind AI",
-      "mediumTitle": "Microsoft\u0027s OptiMind",
-      "longTitle": "AI Translates Language to Math Models",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft Research introduced OptiMind,",
-            "a 20 billion parameter model.",
-            "Traditionally, formulating these",
-            "mathematical models has been a",
-            "time-consuming and expert-driven task.",
-            "OptiMind bridges the gap between natural",
-            "language problem descriptions and",
-            "execution-ready optimization solvers.",
-            "The system focuses on creating mixed",
-            "integer linear programs (MILPs).",
-            "This technology is intended to",
-            "streamline operations research",
-            "workflows.",
-            "The core functionality of OptiMind is",
-            "the translation process itself.",
-            "Details beyond this core functionality",
-            "are currently limited."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-20T05:06:43.000Z",
-      "ranking": 0.6709458144454539,
-      "articleUrl": "https://www.marktechpost.com/2026/01/19/microsoft-research-releases-optimind-a-20b-parameter-model-that-turns-natural-language-into-solver-ready-optimization-models/"
     },
     {
       "id": "755",
@@ -637,8 +640,42 @@
         }
       ],
       "publishedAt": "2026-01-20T05:24:05.000Z",
-      "ranking": 0.0029621740579024447,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/19/how-to-design-a-fully-streaming-voice-agent-with-end-to-end-latency-budgets-incremental-asr-llm-streaming-and-real-time-tts/"
+    },
+    {
+      "id": "756",
+      "topic": "Large Models, NLP",
+      "source": "Marktechpost AI",
+      "shortTitle": "OptiMind AI",
+      "mediumTitle": "Microsoft\u0027s OptiMind",
+      "longTitle": "AI Translates Language to Math Models",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft Research introduced OptiMind,",
+            "a 20 billion parameter model.",
+            "Traditionally, formulating these",
+            "mathematical models has been a",
+            "time-consuming and expert-driven task.",
+            "OptiMind bridges the gap between natural",
+            "language problem descriptions and",
+            "execution-ready optimization solvers.",
+            "The system focuses on creating mixed",
+            "integer linear programs (MILPs).",
+            "This technology is intended to",
+            "streamline operations research",
+            "workflows.",
+            "The core functionality of OptiMind is",
+            "the translation process itself.",
+            "Details beyond this core functionality",
+            "are currently limited."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-20T05:06:43.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.marktechpost.com/2026/01/19/microsoft-research-releases-optimind-a-20b-parameter-model-that-turns-natural-language-into-solver-ready-optimization-models/"
     },
     {
       "id": "757",
@@ -1105,79 +1142,6 @@
       "publishedAt": "2026-01-15T15:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini"
-    },
-    {
-      "id": "733",
-      "topic": "Hardware, Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Pi AI HAT\u002B",
-      "mediumTitle": "Raspberry Pi AI HAT\u002B 2",
-      "longTitle": "Raspberry Pi Launches AI HAT\u002B 2 for Local AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "These upgrades facilitate running",
-            "generative AI models directly on the",
-            "Raspberry Pi 5.",
-            "Raspberry Pi has announced the AI HAT\u002B",
-            "2, a new add-on board for the Raspberry",
-            "Pi 5.",
-            "This new module is designed to enable",
-            "local processing of generative AI",
-            "models.",
-            "This eliminates the need to rely on",
-            "cloud-based processing for AI tasks.",
-            "Key improvements include an increase in",
-            "RAM to 8GB.",
-            "The AI HAT\u002B 2 also includes a Hailo 10H",
-            "chip.",
-            "The Hailo 10H chip provides 40 TOPS",
-            "(Tera Operations Per Second) of",
-            "processing power.",
-            "The price of the AI HAT\u002B 2 is $130."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-15T13:30:15.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/862748/raspberry-pi-ai-hat-2-gen-ai-ram"
-    },
-    {
-      "id": "729",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Engram Module",
-      "mediumTitle": "Engram Boosts LLMs",
-      "longTitle": "New Module Improves LLM Efficiency",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Engram addresses limitations in current",
-            "LLMs related to knowledge lookup and",
-            "computational efficiency.",
-            "Engram adds a \u0027conditional memory axis\u0027",
-            "that functions in conjunction with MoE.",
-            "Engram specifically targets the gap in",
-            "existing architectures regarding",
-            "efficient knowledge retrieval.",
-            "These architectures repeatedly",
-            "re-compute local patterns, leading to",
-            "wasted computational resources.",
-            "The goal is to reduce the need for",
-            "redundant computations and improve",
-            "overall performance.",
-            "DeepSeek AI researchers are responsible",
-            "for the development of the Engram",
-            "module.",
-            "This new module provides a native",
-            "mechanism for knowledge lookup within",
-            "the LLM."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-15T08:54:13.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/14/deepseek-ai-researchers-introduce-engram-a-conditional-memory-axis-for-sparse-llms/"
     }
   ]
 }
