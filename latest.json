@@ -109,76 +109,6 @@
       "articleUrl": "https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill"
     },
     {
-      "id": "773",
-      "topic": "Speech",
-      "source": "Marktechpost AI",
-      "shortTitle": "Inworld TTS",
-      "mediumTitle": "Inworld AI TTS-1.5",
-      "longTitle": "Inworld AI Releases TTS-1.5 Voice Agent System",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Inworld AI has released TTS-1.5, an",
-            "updated version of its TTS-1",
-            "text-to-speech (TTS) system.",
-            "This new version is specifically",
-            "designed for real-time voice agents.",
-            "TTS-1.5 focuses on achieving low",
-            "latency, high quality, and",
-            "cost-effectiveness.",
-            "According to Artificial Analysis,",
-            "TTS-1.5 is currently the top-ranked TTS",
-            "system.",
-            "It aims to be more expressive than",
-            "previous versions in the TTS-1 family.",
-            "The system also strives for improved",
-            "stability compared to earlier TTS-1",
-            "iterations.",
-            "TTS-1.5 represents an advancement in",
-            "Inworld AI\u0027s voice technology offerings."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-22T00:23:42.000Z",
-      "ranking": 7.225000000000001,
-      "articleUrl": "https://www.marktechpost.com/2026/01/21/inworld-ai-releases-tts-1-5-for-realtime-production-grade-voice-agents/"
-    },
-    {
-      "id": "772",
-      "topic": "Speech, Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Chroma 1.0",
-      "mediumTitle": "FlashLabs Releases Chroma",
-      "longTitle": "Chroma 1.0: Speech-to-Speech Model",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A key feature of Chroma 1.0 is its",
-            "ability to maintain the speaker\u2019s",
-            "identity throughout the dialogue.",
-            "Chroma 1.0 distinguishes itself by",
-            "integrating low-latency interaction with",
-            "high-fidelity personalized voice",
-            "cloning.",
-            "This preservation of voice creates a",
-            "more natural and consistent",
-            "conversational experience for users.",
-            "The model responds in the same voice as",
-            "the user, rather than a generic or",
-            "different voice.",
-            "The model is designed for real-time",
-            "interaction, allowing for immediate",
-            "responses in a conversation.",
-            "Chroma 1.0 is a 4B parameter model,",
-            "indicating its size and complexity."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-22T03:22:16.000Z",
-      "ranking": 7.139999999999999,
-      "articleUrl": "https://www.marktechpost.com/2026/01/21/flashlabs-researchers-release-chroma-1-0-a-4b-real-time-speech-dialogue-model-with-personalized-voice-cloning/"
-    },
-    {
       "id": "775",
       "topic": "Dev Tools",
       "source": "VentureBeat AI",
@@ -253,39 +183,74 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/22/microsoft-releases-vibevoice-asr-a-unified-speech-to-text-model-designed-to-handle-60-minute-long-form-audio-in-a-single-pass/"
     },
     {
-      "id": "774",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Copyright",
-      "mediumTitle": "Artists Protest AI Use",
-      "longTitle": "AI Training Data Sparks Copyright Debate",
+      "id": "772",
+      "topic": "Speech, Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "Chroma 1.0",
+      "mediumTitle": "FlashLabs Releases Chroma",
+      "longTitle": "Chroma 1.0: Speech-to-Speech Model",
       "paragraphs": [
         {
           "Lines": [
-            "The central issue is the use of creative",
-            "works to train AI models without",
-            "obtaining permission from, or providing",
-            "compensation to, the original creators.",
-            "The signatories believe that AI",
-            "companies are unfairly profiting from",
-            "their work without proper",
-            "acknowledgement or remuneration.",
-            "The campaign\u2019s title, \u0022Stealing Isn\u0027t",
-            "Innovation,\u0022 directly frames the",
-            "practice as unethical and harmful to",
-            "artists.",
-            "Approximately 800 individuals have",
-            "signed the campaign, demonstrating broad",
-            "concern within the creative community.",
-            "R.E.M. is a critically acclaimed and",
-            "influential rock band that achieved",
-            "significant commercial success."
+            "A key feature of Chroma 1.0 is its",
+            "ability to maintain the speaker\u2019s",
+            "identity throughout the dialogue.",
+            "Chroma 1.0 distinguishes itself by",
+            "integrating low-latency interaction with",
+            "high-fidelity personalized voice",
+            "cloning.",
+            "This preservation of voice creates a",
+            "more natural and consistent",
+            "conversational experience for users.",
+            "The model responds in the same voice as",
+            "the user, rather than a generic or",
+            "different voice.",
+            "The model is designed for real-time",
+            "interaction, allowing for immediate",
+            "responses in a conversation.",
+            "Chroma 1.0 is a 4B parameter model,",
+            "indicating its size and complexity."
           ]
         }
       ],
-      "publishedAt": "2026-01-22T01:01:00.000Z",
-      "ranking": 6.36,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists"
+      "publishedAt": "2026-01-22T03:22:16.000Z",
+      "ranking": 6.05656749579106,
+      "articleUrl": "https://www.marktechpost.com/2026/01/21/flashlabs-researchers-release-chroma-1-0-a-4b-real-time-speech-dialogue-model-with-personalized-voice-cloning/"
+    },
+    {
+      "id": "773",
+      "topic": "Speech",
+      "source": "Marktechpost AI",
+      "shortTitle": "Inworld TTS",
+      "mediumTitle": "Inworld AI TTS-1.5",
+      "longTitle": "Inworld AI Releases TTS-1.5 Voice Agent System",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Inworld AI has released TTS-1.5, an",
+            "updated version of its TTS-1",
+            "text-to-speech (TTS) system.",
+            "This new version is specifically",
+            "designed for real-time voice agents.",
+            "TTS-1.5 focuses on achieving low",
+            "latency, high quality, and",
+            "cost-effectiveness.",
+            "According to Artificial Analysis,",
+            "TTS-1.5 is currently the top-ranked TTS",
+            "system.",
+            "It aims to be more expressive than",
+            "previous versions in the TTS-1 family.",
+            "The system also strives for improved",
+            "stability compared to earlier TTS-1",
+            "iterations.",
+            "TTS-1.5 represents an advancement in",
+            "Inworld AI\u0027s voice technology offerings."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-22T00:23:42.000Z",
+      "ranking": 5.868042308047126,
+      "articleUrl": "https://www.marktechpost.com/2026/01/21/inworld-ai-releases-tts-1-5-for-realtime-production-grade-voice-agents/"
     },
     {
       "id": "770",
@@ -321,8 +286,43 @@
         }
       ],
       "publishedAt": "2026-01-21T16:36:18.000Z",
-      "ranking": 5.652955541682857,
+      "ranking": 5.18148327634329,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc"
+    },
+    {
+      "id": "774",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Copyright",
+      "mediumTitle": "Artists Protest AI Use",
+      "longTitle": "AI Training Data Sparks Copyright Debate",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The central issue is the use of creative",
+            "works to train AI models without",
+            "obtaining permission from, or providing",
+            "compensation to, the original creators.",
+            "The signatories believe that AI",
+            "companies are unfairly profiting from",
+            "their work without proper",
+            "acknowledgement or remuneration.",
+            "The campaign\u2019s title, \u0022Stealing Isn\u0027t",
+            "Innovation,\u0022 directly frames the",
+            "practice as unethical and harmful to",
+            "artists.",
+            "Approximately 800 individuals have",
+            "signed the campaign, demonstrating broad",
+            "concern within the creative community.",
+            "R.E.M. is a critically acclaimed and",
+            "influential rock band that achieved",
+            "significant commercial success."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-22T01:01:00.000Z",
+      "ranking": 5.062718876821805,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists"
     },
     {
       "id": "771",
@@ -357,7 +357,7 @@
         }
       ],
       "publishedAt": "2026-01-21T16:26:47.000Z",
-      "ranking": 5.370441401320633,
+      "ranking": 4.896752403384307,
       "articleUrl": "https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt"
     },
     {
@@ -393,7 +393,7 @@
         }
       ],
       "publishedAt": "2026-01-21T17:43:27.000Z",
-      "ranking": 5.2769944724102,
+      "ranking": 4.8211635377885305,
       "articleUrl": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor"
     },
     {
@@ -427,7 +427,7 @@
         }
       ],
       "publishedAt": "2026-01-21T06:58:15.000Z",
-      "ranking": 4.905644797504576,
+      "ranking": 4.299526610045513,
       "articleUrl": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills"
     },
     {
@@ -463,7 +463,7 @@
         }
       ],
       "publishedAt": "2026-01-21T09:55:38.000Z",
-      "ranking": 4.830003712365322,
+      "ranking": 4.2652036488035865,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/salesforce-ai-introduces-fofpred-a-language-driven-future-optical-flow-prediction-framework-that-enables-improved-robot-control-and-video-generation/"
     },
     {
@@ -499,7 +499,7 @@
         }
       ],
       "publishedAt": "2026-01-21T10:00:00.000Z",
-      "ranking": 4.649698209453628,
+      "ranking": 4.085915279119629,
       "articleUrl": "https://www.theverge.com/news/864811/adobe-acrobat-studio-generate-podcast-presentation"
     },
     {
@@ -535,7 +535,7 @@
         }
       ],
       "publishedAt": "2026-01-21T04:43:22.000Z",
-      "ranking": 4.02405355278457,
+      "ranking": 3.386516821344159,
       "articleUrl": "https://www.marktechpost.com/2026/01/20/liquid-ai-releases-lfm2-5-1-2b-thinking-a-1-2b-parameter-reasoning-model-that-fits-under-1-gb-on-device/"
     },
     {
@@ -570,7 +570,7 @@
         }
       ],
       "publishedAt": "2026-01-21T10:00:00.000Z",
-      "ranking": 3.8396981989957144,
+      "ranking": 3.2759152710356103,
       "articleUrl": "https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026"
     },
     {
@@ -605,7 +605,7 @@
         }
       ],
       "publishedAt": "2026-01-20T20:54:29.000Z",
-      "ranking": 1.4348474775117754,
+      "ranking": 0.6880931590860575,
       "articleUrl": "https://www.marktechpost.com/2026/01/20/zhipu-ai-releases-glm-4-7-flash-a-30b-a3b-moe-model-for-efficient-local-coding-and-agents/"
     },
     {
