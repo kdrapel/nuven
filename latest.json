@@ -1,114 +1,6 @@
 {
   "articles": [
     {
-      "id": "780",
-      "topic": "NLP, Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Search",
-      "mediumTitle": "Google AI Search Expands",
-      "longTitle": "Google\u0027s AI Mode Gains Access to User Data",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google is expanding the capabilities of",
-            "its AI Mode within Search by integrating",
-            "access to users\u2019 Gmail and Google Photos",
-            "data.",
-            "Access to this data is contingent upon",
-            "explicit user permission.",
-            "Specifically, the AI will analyze",
-            "information within a user\u2019s Gmail and",
-            "Google Photos accounts.",
-            "The integration aims to deliver more",
-            "personalized and relevant responses to",
-            "search queries.",
-            "This allows AI Mode to provide answers",
-            "tailored to the individual user\u2019s",
-            "context, going beyond general web",
-            "results.",
-            "The analysis is intended to help the AI",
-            "better understand a user\u2019s interests.",
-            "The AI will also attempt to understand a",
-            "user\u2019s routines and daily life."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-22T12:00:00.000Z",
-      "ranking": 7.7700000000000005,
-      "articleUrl": "https://www.theverge.com/news/865548/google-ai-mode-search-personal-intelligence-update"
-    },
-    {
-      "id": "777",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Adobe AI",
-      "mediumTitle": "Adobe Firefly for Hollywood",
-      "longTitle": "Adobe Develops AI Tools for Safe IP Use",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A key focus of Firefly Foundry is",
-            "intellectual property (IP) safety.",
-            "The initiative is designed to mitigate",
-            "the risk of copyright infringement.",
-            "It also aims to prevent the exposure of",
-            "studios\u0027 proprietary assets.",
-            "Adobe is actively developing generative",
-            "AI models through its Firefly suite.",
-            "Adobe is positioning Firefly Foundry as",
-            "a solution to legal and ethical concerns",
-            "in Hollywood.",
-            "Studios can gain confidence in IP",
-            "protection when using AI-powered tools.",
-            "The private models will be trained on",
-            "datasets specifically licensed for the",
-            "participating studios.",
-            "Firefly Foundry aims to provide creative",
-            "tools for studios to utilize generative",
-            "AI."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-22T10:00:00.000Z",
-      "ranking": 7.604166666666666,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865077/adobe-firefly-foundry-ip-sage-genai-models"
-    },
-    {
-      "id": "776",
-      "topic": "NLP, Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Text Tool",
-      "mediumTitle": "Humanizer: AI Text Refiner",
-      "longTitle": "New Tool Makes AI Text Sound More Human",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Humanizer essentially inverts the",
-            "detection process, using the \u0027tells\u0027 to",
-            "improve the writing itself.",
-            "Wikipedia\u0027s volunteer editors compiled a",
-            "guide specifically for identifying text",
-            "produced by AI models.",
-            "The core innovation lies in leveraging",
-            "knowledge of AI detection to enhance AI",
-            "generation.",
-            "The tool aims to make AI-generated text",
-            "more convincingly human-like in its",
-            "style and tone.",
-            "Anthropic\u0027s Claude was \u0027fed\u0027 the list of",
-            "AI writing characteristics to learn and",
-            "apply them.",
-            "The development of Humanizer stems from",
-            "the increasing need to distinguish",
-            "between human and AI-generated content."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-22T10:48:15.000Z",
-      "ranking": 7.424999999999999,
-      "articleUrl": "https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill"
-    },
-    {
       "id": "783",
       "topic": "Speech",
       "source": "Marktechpost AI",
@@ -220,6 +112,114 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/22/microsoft-releases-vibevoice-asr-a-unified-speech-to-text-model-designed-to-handle-60-minute-long-form-audio-in-a-single-pass/"
     },
     {
+      "id": "780",
+      "topic": "NLP, Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Search",
+      "mediumTitle": "Google AI Search Expands",
+      "longTitle": "Google\u0027s AI Mode Gains Access to User Data",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google is expanding the capabilities of",
+            "its AI Mode within Search by integrating",
+            "access to users\u2019 Gmail and Google Photos",
+            "data.",
+            "Access to this data is contingent upon",
+            "explicit user permission.",
+            "Specifically, the AI will analyze",
+            "information within a user\u2019s Gmail and",
+            "Google Photos accounts.",
+            "The integration aims to deliver more",
+            "personalized and relevant responses to",
+            "search queries.",
+            "This allows AI Mode to provide answers",
+            "tailored to the individual user\u2019s",
+            "context, going beyond general web",
+            "results.",
+            "The analysis is intended to help the AI",
+            "better understand a user\u2019s interests.",
+            "The AI will also attempt to understand a",
+            "user\u2019s routines and daily life."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-22T12:00:00.000Z",
+      "ranking": 6.739301707871929,
+      "articleUrl": "https://www.theverge.com/news/865548/google-ai-mode-search-personal-intelligence-update"
+    },
+    {
+      "id": "777",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Adobe AI",
+      "mediumTitle": "Adobe Firefly for Hollywood",
+      "longTitle": "Adobe Develops AI Tools for Safe IP Use",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A key focus of Firefly Foundry is",
+            "intellectual property (IP) safety.",
+            "The initiative is designed to mitigate",
+            "the risk of copyright infringement.",
+            "It also aims to prevent the exposure of",
+            "studios\u0027 proprietary assets.",
+            "Adobe is actively developing generative",
+            "AI models through its Firefly suite.",
+            "Adobe is positioning Firefly Foundry as",
+            "a solution to legal and ethical concerns",
+            "in Hollywood.",
+            "Studios can gain confidence in IP",
+            "protection when using AI-powered tools.",
+            "The private models will be trained on",
+            "datasets specifically licensed for the",
+            "participating studios.",
+            "Firefly Foundry aims to provide creative",
+            "tools for studios to utilize generative",
+            "AI."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-22T10:00:00.000Z",
+      "ranking": 6.397318401961645,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865077/adobe-firefly-foundry-ip-sage-genai-models"
+    },
+    {
+      "id": "776",
+      "topic": "NLP, Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Text Tool",
+      "mediumTitle": "Humanizer: AI Text Refiner",
+      "longTitle": "New Tool Makes AI Text Sound More Human",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Humanizer essentially inverts the",
+            "detection process, using the \u0027tells\u0027 to",
+            "improve the writing itself.",
+            "Wikipedia\u0027s volunteer editors compiled a",
+            "guide specifically for identifying text",
+            "produced by AI models.",
+            "The core innovation lies in leveraging",
+            "knowledge of AI detection to enhance AI",
+            "generation.",
+            "The tool aims to make AI-generated text",
+            "more convincingly human-like in its",
+            "style and tone.",
+            "Anthropic\u0027s Claude was \u0027fed\u0027 the list of",
+            "AI writing characteristics to learn and",
+            "apply them.",
+            "The development of Humanizer stems from",
+            "the increasing need to distinguish",
+            "between human and AI-generated content."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-22T10:48:15.000Z",
+      "ranking": 6.2906482263867485,
+      "articleUrl": "https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill"
+    },
+    {
       "id": "772",
       "topic": "Speech, Generative AI",
       "source": "Marktechpost AI",
@@ -251,7 +251,7 @@
         }
       ],
       "publishedAt": "2026-01-22T03:22:16.000Z",
-      "ranking": 5.6837091522060845,
+      "ranking": 5.250006991061394,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/flashlabs-researchers-release-chroma-1-0-a-4b-real-time-speech-dialogue-model-with-personalized-voice-cloning/"
     },
     {
@@ -286,8 +286,43 @@
         }
       ],
       "publishedAt": "2026-01-22T00:23:42.000Z",
-      "ranking": 5.454042172487868,
+      "ranking": 4.978674109025977,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/inworld-ai-releases-tts-1-5-for-realtime-production-grade-voice-agents/"
+    },
+    {
+      "id": "774",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Copyright",
+      "mediumTitle": "Artists Protest AI Use",
+      "longTitle": "AI Training Data Sparks Copyright Debate",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The central issue is the use of creative",
+            "works to train AI models without",
+            "obtaining permission from, or providing",
+            "compensation to, the original creators.",
+            "The signatories believe that AI",
+            "companies are unfairly profiting from",
+            "their work without proper",
+            "acknowledgement or remuneration.",
+            "The campaign\u2019s title, \u0022Stealing Isn\u0027t",
+            "Innovation,\u0022 directly frames the",
+            "practice as unethical and harmful to",
+            "artists.",
+            "Approximately 800 individuals have",
+            "signed the campaign, demonstrating broad",
+            "concern within the creative community.",
+            "R.E.M. is a critically acclaimed and",
+            "influential rock band that achieved",
+            "significant commercial success."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-22T01:01:00.000Z",
+      "ranking": 4.190648012309036,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists"
     },
     {
       "id": "770",
@@ -323,43 +358,8 @@
         }
       ],
       "publishedAt": "2026-01-21T16:36:18.000Z",
-      "ranking": 4.659794098409443,
+      "ranking": 4.075365120928901,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc"
-    },
-    {
-      "id": "774",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Copyright",
-      "mediumTitle": "Artists Protest AI Use",
-      "longTitle": "AI Training Data Sparks Copyright Debate",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The central issue is the use of creative",
-            "works to train AI models without",
-            "obtaining permission from, or providing",
-            "compensation to, the original creators.",
-            "The signatories believe that AI",
-            "companies are unfairly profiting from",
-            "their work without proper",
-            "acknowledgement or remuneration.",
-            "The campaign\u2019s title, \u0022Stealing Isn\u0027t",
-            "Innovation,\u0022 directly frames the",
-            "practice as unethical and harmful to",
-            "artists.",
-            "Approximately 800 individuals have",
-            "signed the campaign, demonstrating broad",
-            "concern within the creative community.",
-            "R.E.M. is a critically acclaimed and",
-            "influential rock band that achieved",
-            "significant commercial success."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-22T01:01:00.000Z",
-      "ranking": 4.6573126660455095,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists"
     },
     {
       "id": "771",
@@ -394,7 +394,7 @@
         }
       ],
       "publishedAt": "2026-01-21T16:26:47.000Z",
-      "ranking": 4.3728705824355,
+      "ranking": 3.7862210215214125,
       "articleUrl": "https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt"
     },
     {
@@ -430,7 +430,7 @@
         }
       ],
       "publishedAt": "2026-01-21T17:43:27.000Z",
-      "ranking": 4.314945729805695,
+      "ranking": 3.7461852035912715,
       "articleUrl": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor"
     },
     {
@@ -466,7 +466,7 @@
         }
       ],
       "publishedAt": "2026-01-21T09:55:38.000Z",
-      "ranking": 3.6512008030443908,
+      "ranking": 2.973282140003369,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/salesforce-ai-introduces-fofpred-a-language-driven-future-optical-flow-prediction-framework-that-enables-improved-robot-control-and-video-generation/"
     },
     {
@@ -500,7 +500,7 @@
         }
       ],
       "publishedAt": "2026-01-21T06:58:15.000Z",
-      "ranking": 3.644654604299304,
+      "ranking": 2.925346150184409,
       "articleUrl": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills"
     },
     {
@@ -536,8 +536,43 @@
         }
       ],
       "publishedAt": "2026-01-21T10:00:00.000Z",
-      "ranking": 3.472918507367666,
+      "ranking": 2.796018743083722,
       "articleUrl": "https://www.theverge.com/news/864811/adobe-acrobat-studio-generate-podcast-presentation"
+    },
+    {
+      "id": "766",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Shorts",
+      "mediumTitle": "YouTube: AI Creator Tools",
+      "longTitle": "YouTube to Allow AI Versions of Creators in Shorts",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Creators will be able to utilize AI to",
+            "generate versions of themselves for use",
+            "specifically within YouTube Shorts.",
+            "The introduction of this feature is",
+            "likely to result in a greater volume of",
+            "AI-generated content on the Shorts feed.",
+            "This AI-generated content will primarily",
+            "originate from established creators on",
+            "the YouTube platform.",
+            "Neal Mohan, the CEO of YouTube, made the",
+            "announcement regarding the AI-powered",
+            "Shorts feature.",
+            "The release timeframe for this new",
+            "feature is currently set for sometime",
+            "later in the current year.",
+            "YouTube is aiming to empower creators",
+            "with new tools to facilitate content",
+            "creation."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-21T10:00:00.000Z",
+      "ranking": 1.9860187382793626,
+      "articleUrl": "https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026"
     },
     {
       "id": "760",
@@ -572,43 +607,8 @@
         }
       ],
       "publishedAt": "2026-01-21T04:43:22.000Z",
-      "ranking": 2.7005676726661374,
+      "ranking": 1.9497857357451576,
       "articleUrl": "https://www.marktechpost.com/2026/01/20/liquid-ai-releases-lfm2-5-1-2b-thinking-a-1-2b-parameter-reasoning-model-that-fits-under-1-gb-on-device/"
-    },
-    {
-      "id": "766",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Shorts",
-      "mediumTitle": "YouTube: AI Creator Tools",
-      "longTitle": "YouTube to Allow AI Versions of Creators in Shorts",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Creators will be able to utilize AI to",
-            "generate versions of themselves for use",
-            "specifically within YouTube Shorts.",
-            "The introduction of this feature is",
-            "likely to result in a greater volume of",
-            "AI-generated content on the Shorts feed.",
-            "This AI-generated content will primarily",
-            "originate from established creators on",
-            "the YouTube platform.",
-            "Neal Mohan, the CEO of YouTube, made the",
-            "announcement regarding the AI-powered",
-            "Shorts feature.",
-            "The release timeframe for this new",
-            "feature is currently set for sometime",
-            "later in the current year.",
-            "YouTube is aiming to empower creators",
-            "with new tools to facilitate content",
-            "creation."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-21T10:00:00.000Z",
-      "ranking": 2.6629184974154243,
-      "articleUrl": "https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026"
     },
     {
       "id": "759",
