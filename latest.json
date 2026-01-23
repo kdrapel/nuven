@@ -110,6 +110,78 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/22/qwen-researchers-release-qwen3-tts-an-open-multilingual-tts-suite-with-real-time-latency-and-fine-grained-voice-control/"
     },
     {
+      "id": "789",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Cost-Aware AI",
+      "mediumTitle": "AI Planning with Limits",
+      "longTitle": "AI Agent Balances Quality \u0026 Cost",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The agent doesn\u0027t simply execute the",
+            "best action, but strategically evaluates",
+            "options.",
+            "The goal is to achieve the best possible",
+            "outcome given the limitations it faces.",
+            "This agent is designed to function",
+            "effectively under real-world",
+            "constraints, unlike systems focused",
+            "solely on output quality.",
+            "Candidate actions are evaluated based on",
+            "their expected costs and benefits.",
+            "Latency, or response time, is also",
+            "factored into the cost assessment.",
+            "Token usage is a key constraint",
+            "considered during the action estimation",
+            "process.",
+            "The number of tool calls required for",
+            "each action impacts its overall cost."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-23T22:30:26.000Z",
+      "ranking": 7.044999999999999,
+      "articleUrl": "https://www.marktechpost.com/2026/01/23/how-an-ai-agent-chooses-what-to-do-under-tokens-latency-and-tool-call-budget-constraints/"
+    },
+    {
+      "id": "788",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Meta AI Pause",
+      "mediumTitle": "Meta Halts Teen AI Chat",
+      "longTitle": "Meta Temporarily Pauses Teen Access to AI Characters",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Teenage users will not be able to chat",
+            "with the AI characters during this",
+            "period.",
+            "The company is prioritizing refinement",
+            "of the AI character interactions.",
+            "Meta intends to re-enable access for",
+            "teens once the new version is ready.",
+            "The pause is a temporary measure to",
+            "facilitate these improvements.",
+            "The company is focused on improving the",
+            "quality of interactions with its AI",
+            "characters.",
+            "The specific reasons necessitating a new",
+            "version of the AI characters were not",
+            "disclosed.",
+            "The October post focused on enhanced",
+            "parental controls related to Meta\u2019s AI",
+            "features.",
+            "Meta announced the temporary halt as an",
+            "update to a blog post from October."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-23T15:50:59.000Z",
+      "ranking": 6.410000000000001,
+      "articleUrl": "https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version"
+    },
+    {
       "id": "782",
       "topic": "Speech",
       "source": "Marktechpost AI",
@@ -143,7 +215,7 @@
         }
       ],
       "publishedAt": "2026-01-22T22:11:00.000Z",
-      "ranking": 6.82,
+      "ranking": 5.622042504372976,
       "articleUrl": "https://www.marktechpost.com/2026/01/22/microsoft-releases-vibevoice-asr-a-unified-speech-to-text-model-designed-to-handle-60-minute-long-form-audio-in-a-single-pass/"
     },
     {
@@ -180,7 +252,7 @@
         }
       ],
       "publishedAt": "2026-01-22T12:00:00.000Z",
-      "ranking": 5.952587885101719,
+      "ranking": 5.463191348691507,
       "articleUrl": "https://www.theverge.com/news/865548/google-ai-mode-search-personal-intelligence-update"
     },
     {
@@ -217,7 +289,7 @@
         }
       ],
       "publishedAt": "2026-01-22T15:00:00.000Z",
-      "ranking": 5.603991445022022,
+      "ranking": 5.157270876723219,
       "articleUrl": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
     },
     {
@@ -253,7 +325,7 @@
         }
       ],
       "publishedAt": "2026-01-22T10:00:00.000Z",
-      "ranking": 5.555124376454748,
+      "ranking": 5.037277180997512,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865077/adobe-firefly-foundry-ip-sage-genai-models"
     },
     {
@@ -288,7 +360,7 @@
         }
       ],
       "publishedAt": "2026-01-22T10:48:15.000Z",
-      "ranking": 5.470761861398026,
+      "ranking": 4.964354197998457,
       "articleUrl": "https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill"
     },
     {
@@ -323,7 +395,7 @@
         }
       ],
       "publishedAt": "2026-01-22T03:22:16.000Z",
-      "ranking": 4.223926944695476,
+      "ranking": 3.6117816510935783,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/flashlabs-researchers-release-chroma-1-0-a-4b-real-time-speech-dialogue-model-with-personalized-voice-cloning/"
     },
     {
@@ -358,7 +430,7 @@
         }
       ],
       "publishedAt": "2026-01-22T00:23:42.000Z",
-      "ranking": 3.8700364423097042,
+      "ranking": 3.215555009346221,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/inworld-ai-releases-tts-1-5-for-realtime-production-grade-voice-agents/"
     },
     {
@@ -393,7 +465,7 @@
         }
       ],
       "publishedAt": "2026-01-22T01:01:00.000Z",
-      "ranking": 3.099255437307646,
+      "ranking": 2.453617414335498,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists"
     },
     {
@@ -430,44 +502,8 @@
         }
       ],
       "publishedAt": "2026-01-21T16:36:18.000Z",
-      "ranking": 2.7506320944073632,
+      "ranking": 1.9853353814903327,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc"
-    },
-    {
-      "id": "771",
-      "topic": "NLP, Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Siri Update",
-      "mediumTitle": "Apple Revamps Siri",
-      "longTitle": "Apple Plans Major Siri AI Overhaul",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The new Siri will be capable of more",
-            "complex, conversational interactions.",
-            "The core of this change involves",
-            "leveraging artificial intelligence for",
-            "more natural dialogues.",
-            "Apple intends for Siri to handle more",
-            "nuanced requests and provide more",
-            "comprehensive responses.",
-            "The update aims to move Siri beyond",
-            "simple task execution to a chatbot-like",
-            "experience.",
-            "The new Siri\u2019s capabilities will be",
-            "similar to those demonstrated by",
-            "OpenAI\u2019s ChatGPT.",
-            "According to Bloomberg\u2019s Mark Gurman,",
-            "the Siri update is expected to roll out",
-            "later this year.",
-            "The update will be integrated directly",
-            "into iPhones and Macs."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-21T16:26:47.000Z",
-      "ranking": 2.4570881199775334,
-      "articleUrl": "https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt"
     },
     {
       "id": "769",
@@ -502,8 +538,44 @@
         }
       ],
       "publishedAt": "2026-01-21T17:43:27.000Z",
-      "ranking": 2.452497983150571,
+      "ranking": 1.7031217840860258,
       "articleUrl": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor"
+    },
+    {
+      "id": "771",
+      "topic": "NLP, Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Siri Update",
+      "mediumTitle": "Apple Revamps Siri",
+      "longTitle": "Apple Plans Major Siri AI Overhaul",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The new Siri will be capable of more",
+            "complex, conversational interactions.",
+            "The core of this change involves",
+            "leveraging artificial intelligence for",
+            "more natural dialogues.",
+            "Apple intends for Siri to handle more",
+            "nuanced requests and provide more",
+            "comprehensive responses.",
+            "The update aims to move Siri beyond",
+            "simple task execution to a chatbot-like",
+            "experience.",
+            "The new Siri\u2019s capabilities will be",
+            "similar to those demonstrated by",
+            "OpenAI\u2019s ChatGPT.",
+            "According to Bloomberg\u2019s Mark Gurman,",
+            "the Siri update is expected to roll out",
+            "later this year.",
+            "The update will be integrated directly",
+            "into iPhones and Macs."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-21T16:26:47.000Z",
+      "ranking": 1.6895351042628022,
+      "articleUrl": "https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt"
     },
     {
       "id": "763",
@@ -538,7 +610,7 @@
         }
       ],
       "publishedAt": "2026-01-21T09:55:38.000Z",
-      "ranking": 1.4633069251149502,
+      "ranking": 0.6030166536674884,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/salesforce-ai-introduces-fofpred-a-language-driven-future-optical-flow-prediction-framework-that-enables-improved-robot-control-and-video-generation/"
     },
     {
@@ -572,7 +644,7 @@
         }
       ],
       "publishedAt": "2026-01-21T06:58:15.000Z",
-      "ranking": 1.3333604187457038,
+      "ranking": 0.43101455571136604,
       "articleUrl": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills"
     },
     {
@@ -608,7 +680,7 @@
         }
       ],
       "publishedAt": "2026-01-21T10:00:00.000Z",
-      "ranking": 1.2880623865571943,
+      "ranking": 0.4288074019862087,
       "articleUrl": "https://www.theverge.com/news/864811/adobe-acrobat-studio-generate-podcast-presentation"
     },
     {
@@ -643,7 +715,7 @@
         }
       ],
       "publishedAt": "2026-01-21T10:00:00.000Z",
-      "ranking": 0.47806238085567454,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026"
     },
     {
@@ -679,7 +751,7 @@
         }
       ],
       "publishedAt": "2026-01-21T04:43:22.000Z",
-      "ranking": 0.2954391604858255,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/20/liquid-ai-releases-lfm2-5-1-2b-thinking-a-1-2b-parameter-reasoning-model-that-fits-under-1-gb-on-device/"
     },
     {
@@ -1071,41 +1143,6 @@
       "publishedAt": "2026-01-16T13:09:05.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/863425/x-twitter-outage-january-16th-2026"
-    },
-    {
-      "id": "739",
-      "topic": "NLP, Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Siri \u0026 Gemini",
-      "mediumTitle": "Apple Integrates Gemini",
-      "longTitle": "Apple Partners with Google for Siri",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Apple is now prioritizing functionality",
-            "and faster improvements to Siri\u2019s",
-            "performance.",
-            "The collaboration allows Apple to",
-            "leverage existing, proven AI technology",
-            "from a competitor.",
-            "The shift represents a change in Apple\u2019s",
-            "strategy regarding AI development for",
-            "its voice assistant.",
-            "Users can expect to see the impact of",
-            "this integration when iOS 18 is",
-            "released.",
-            "This decision suggests a temporary pause",
-            "in complete in-house AI development for",
-            "Siri.",
-            "Apple heavily promoted a new Siri",
-            "experience throughout 2024, promising",
-            "significant AI-driven changes."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-16T10:21:05.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/podcast/863340/siri-is-a-gemini"
     }
   ]
 }
