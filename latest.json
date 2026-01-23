@@ -109,6 +109,43 @@
       "articleUrl": "https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill"
     },
     {
+      "id": "783",
+      "topic": "Speech",
+      "source": "Marktechpost AI",
+      "shortTitle": "Qwen3-TTS",
+      "mediumTitle": "Alibaba\u0027s Open-Source TTS",
+      "longTitle": "Qwen3-TTS: Multilingual Text-to-Speech Suite",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The Alibaba Cloud\u2019s Qwen team has",
+            "released Qwen3-TTS, an open-source",
+            "multilingual text-to-speech (TTS) suite.",
+            "This suite is designed to handle three",
+            "key tasks within a single framework:",
+            "voice cloning, voice design, and",
+            "high-quality speech generation.",
+            "The release aims to provide a",
+            "comprehensive and versatile tool for",
+            "developers and researchers working with",
+            "speech synthesis.",
+            "Qwen3-TTS utilizes a 12Hz speech",
+            "tokenizer for processing audio data.",
+            "The suite is available in two language",
+            "model sizes, 0.6B and 1.7B parameters,",
+            "offering flexibility for different use",
+            "cases.",
+            "Qwen3-TTS is notable for its potential",
+            "to achieve real-time latency in speech",
+            "generation."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-23T07:26:31.000Z",
+      "ranking": 7.155,
+      "articleUrl": "https://www.marktechpost.com/2026/01/22/qwen-researchers-release-qwen3-tts-an-open-multilingual-tts-suite-with-real-time-latency-and-fine-grained-voice-control/"
+    },
+    {
       "id": "775",
       "topic": "Dev Tools",
       "source": "VentureBeat AI",
@@ -214,7 +251,7 @@
         }
       ],
       "publishedAt": "2026-01-22T03:22:16.000Z",
-      "ranking": 6.05656749579106,
+      "ranking": 5.6837091522060845,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/flashlabs-researchers-release-chroma-1-0-a-4b-real-time-speech-dialogue-model-with-personalized-voice-cloning/"
     },
     {
@@ -249,7 +286,7 @@
         }
       ],
       "publishedAt": "2026-01-22T00:23:42.000Z",
-      "ranking": 5.868042308047126,
+      "ranking": 5.454042172487868,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/inworld-ai-releases-tts-1-5-for-realtime-production-grade-voice-agents/"
     },
     {
@@ -286,7 +323,7 @@
         }
       ],
       "publishedAt": "2026-01-21T16:36:18.000Z",
-      "ranking": 5.18148327634329,
+      "ranking": 4.659794098409443,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc"
     },
     {
@@ -321,7 +358,7 @@
         }
       ],
       "publishedAt": "2026-01-22T01:01:00.000Z",
-      "ranking": 5.062718876821805,
+      "ranking": 4.6573126660455095,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists"
     },
     {
@@ -357,7 +394,7 @@
         }
       ],
       "publishedAt": "2026-01-21T16:26:47.000Z",
-      "ranking": 4.896752403384307,
+      "ranking": 4.3728705824355,
       "articleUrl": "https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt"
     },
     {
@@ -393,42 +430,8 @@
         }
       ],
       "publishedAt": "2026-01-21T17:43:27.000Z",
-      "ranking": 4.8211635377885305,
+      "ranking": 4.314945729805695,
       "articleUrl": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor"
-    },
-    {
-      "id": "761",
-      "topic": "AI Ops",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI Pledge",
-      "mediumTitle": "OpenAI Addresses Utility Costs",
-      "longTitle": "OpenAI Commits to Infrastructure \u0026 Water Use",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Specifically, OpenAI pledges to ensure",
-            "its operations do not lead to increased",
-            "electricity costs for others.",
-            "OpenAI has announced commitments to",
-            "cover the costs of energy infrastructure",
-            "upgrades required to power its data",
-            "centers and to minimize water usage.",
-            "This will be achieved by paying for",
-            "necessary energy infrastructure",
-            "improvements.",
-            "The company is responding to increasing",
-            "concerns about the impact of AI projects",
-            "on local utilities and costs.",
-            "OpenAI is addressing sustainability",
-            "concerns surrounding the energy and",
-            "resource demands of large-scale AI",
-            "development."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-21T06:58:15.000Z",
-      "ranking": 4.299526610045513,
-      "articleUrl": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills"
     },
     {
       "id": "763",
@@ -463,8 +466,42 @@
         }
       ],
       "publishedAt": "2026-01-21T09:55:38.000Z",
-      "ranking": 4.2652036488035865,
+      "ranking": 3.6512008030443908,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/salesforce-ai-introduces-fofpred-a-language-driven-future-optical-flow-prediction-framework-that-enables-improved-robot-control-and-video-generation/"
+    },
+    {
+      "id": "761",
+      "topic": "AI Ops",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI Pledge",
+      "mediumTitle": "OpenAI Addresses Utility Costs",
+      "longTitle": "OpenAI Commits to Infrastructure \u0026 Water Use",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Specifically, OpenAI pledges to ensure",
+            "its operations do not lead to increased",
+            "electricity costs for others.",
+            "OpenAI has announced commitments to",
+            "cover the costs of energy infrastructure",
+            "upgrades required to power its data",
+            "centers and to minimize water usage.",
+            "This will be achieved by paying for",
+            "necessary energy infrastructure",
+            "improvements.",
+            "The company is responding to increasing",
+            "concerns about the impact of AI projects",
+            "on local utilities and costs.",
+            "OpenAI is addressing sustainability",
+            "concerns surrounding the energy and",
+            "resource demands of large-scale AI",
+            "development."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-21T06:58:15.000Z",
+      "ranking": 3.644654604299304,
+      "articleUrl": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills"
     },
     {
       "id": "767",
@@ -499,7 +536,7 @@
         }
       ],
       "publishedAt": "2026-01-21T10:00:00.000Z",
-      "ranking": 4.085915279119629,
+      "ranking": 3.472918507367666,
       "articleUrl": "https://www.theverge.com/news/864811/adobe-acrobat-studio-generate-podcast-presentation"
     },
     {
@@ -535,7 +572,7 @@
         }
       ],
       "publishedAt": "2026-01-21T04:43:22.000Z",
-      "ranking": 3.386516821344159,
+      "ranking": 2.7005676726661374,
       "articleUrl": "https://www.marktechpost.com/2026/01/20/liquid-ai-releases-lfm2-5-1-2b-thinking-a-1-2b-parameter-reasoning-model-that-fits-under-1-gb-on-device/"
     },
     {
@@ -570,7 +607,7 @@
         }
       ],
       "publishedAt": "2026-01-21T10:00:00.000Z",
-      "ranking": 3.2759152710356103,
+      "ranking": 2.6629184974154243,
       "articleUrl": "https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026"
     },
     {
@@ -605,7 +642,7 @@
         }
       ],
       "publishedAt": "2026-01-20T20:54:29.000Z",
-      "ranking": 0.6880931590860575,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/20/zhipu-ai-releases-glm-4-7-flash-a-30b-a3b-moe-model-for-efficient-local-coding-and-agents/"
     },
     {
