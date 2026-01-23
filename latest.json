@@ -1,6 +1,43 @@
 {
   "articles": [
     {
+      "id": "786",
+      "topic": "News",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT Health",
+      "mediumTitle": "ChatGPT \u0026 Healthcare",
+      "longTitle": "Millions Use ChatGPT for Health Advice",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI reports that over 230 million",
+            "individuals are currently utilizing",
+            "ChatGPT for health and wellness guidance",
+            "on a weekly basis.",
+            "OpenAI aims to build user trust",
+            "regarding the handling of sensitive",
+            "health data, including diagnoses.",
+            "Many users view ChatGPT as a supportive",
+            "tool for managing complex healthcare",
+            "tasks.",
+            "A key aspect of this usage is the",
+            "sharing of personal health information",
+            "with the chatbot.",
+            "Specifically, the chatbot assists with",
+            "understanding health insurance details",
+            "and completing necessary healthcare",
+            "paperwork.",
+            "ChatGPT is also empowering users to more",
+            "effectively advocate for their own",
+            "health needs."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-23T12:07:24.000Z",
+      "ranking": 7.625,
+      "articleUrl": "https://www.theverge.com/report/866683/chatgpt-health-sharing-data"
+    },
+    {
       "id": "785",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -143,44 +180,8 @@
         }
       ],
       "publishedAt": "2026-01-22T12:00:00.000Z",
-      "ranking": 6.372136458085386,
+      "ranking": 5.952587885101719,
       "articleUrl": "https://www.theverge.com/news/865548/google-ai-mode-search-personal-intelligence-update"
-    },
-    {
-      "id": "777",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Adobe AI",
-      "mediumTitle": "Adobe Firefly for Hollywood",
-      "longTitle": "Adobe Develops AI Tools for Safe IP Use",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A key focus of Firefly Foundry is",
-            "intellectual property (IP) safety.",
-            "The initiative is designed to mitigate",
-            "the risk of copyright infringement.",
-            "It also aims to prevent the exposure of",
-            "studios\u0027 proprietary assets.",
-            "Adobe is actively developing generative",
-            "AI models through its Firefly suite.",
-            "Adobe is positioning Firefly Foundry as",
-            "a solution to legal and ethical concerns",
-            "in Hollywood.",
-            "Studios can gain confidence in IP",
-            "protection when using AI-powered tools.",
-            "The private models will be trained on",
-            "datasets specifically licensed for the",
-            "participating studios.",
-            "Firefly Foundry aims to provide creative",
-            "tools for studios to utilize generative",
-            "AI."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-22T10:00:00.000Z",
-      "ranking": 6.0023065370599795,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865077/adobe-firefly-foundry-ip-sage-genai-models"
     },
     {
       "id": "775",
@@ -216,8 +217,44 @@
         }
       ],
       "publishedAt": "2026-01-22T15:00:00.000Z",
-      "ranking": 5.982089643352651,
+      "ranking": 5.603991445022022,
       "articleUrl": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+    },
+    {
+      "id": "777",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Adobe AI",
+      "mediumTitle": "Adobe Firefly for Hollywood",
+      "longTitle": "Adobe Develops AI Tools for Safe IP Use",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A key focus of Firefly Foundry is",
+            "intellectual property (IP) safety.",
+            "The initiative is designed to mitigate",
+            "the risk of copyright infringement.",
+            "It also aims to prevent the exposure of",
+            "studios\u0027 proprietary assets.",
+            "Adobe is actively developing generative",
+            "AI models through its Firefly suite.",
+            "Adobe is positioning Firefly Foundry as",
+            "a solution to legal and ethical concerns",
+            "in Hollywood.",
+            "Studios can gain confidence in IP",
+            "protection when using AI-powered tools.",
+            "The private models will be trained on",
+            "datasets specifically licensed for the",
+            "participating studios.",
+            "Firefly Foundry aims to provide creative",
+            "tools for studios to utilize generative",
+            "AI."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-22T10:00:00.000Z",
+      "ranking": 5.555124376454748,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865077/adobe-firefly-foundry-ip-sage-genai-models"
     },
     {
       "id": "776",
@@ -251,7 +288,7 @@
         }
       ],
       "publishedAt": "2026-01-22T10:48:15.000Z",
-      "ranking": 5.90683301605543,
+      "ranking": 5.470761861398026,
       "articleUrl": "https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill"
     },
     {
@@ -286,7 +323,7 @@
         }
       ],
       "publishedAt": "2026-01-22T03:22:16.000Z",
-      "ranking": 4.762699071366663,
+      "ranking": 4.223926944695476,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/flashlabs-researchers-release-chroma-1-0-a-4b-real-time-speech-dialogue-model-with-personalized-voice-cloning/"
     },
     {
@@ -321,7 +358,7 @@
         }
       ],
       "publishedAt": "2026-01-22T00:23:42.000Z",
-      "ranking": 4.449928881950611,
+      "ranking": 3.8700364423097042,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/inworld-ai-releases-tts-1-5-for-realtime-production-grade-voice-agents/"
     },
     {
@@ -356,7 +393,7 @@
         }
       ],
       "publishedAt": "2026-01-22T01:01:00.000Z",
-      "ranking": 3.670558439866019,
+      "ranking": 3.099255437307646,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists"
     },
     {
@@ -393,7 +430,7 @@
         }
       ],
       "publishedAt": "2026-01-21T16:36:18.000Z",
-      "ranking": 3.438157336594041,
+      "ranking": 2.7506320944073632,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc"
     },
     {
@@ -429,7 +466,7 @@
         }
       ],
       "publishedAt": "2026-01-21T16:26:47.000Z",
-      "ranking": 3.1468048593117146,
+      "ranking": 2.4570881199775334,
       "articleUrl": "https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt"
     },
     {
@@ -465,7 +502,7 @@
         }
       ],
       "publishedAt": "2026-01-21T17:43:27.000Z",
-      "ranking": 3.1245599305012055,
+      "ranking": 2.452497983150571,
       "articleUrl": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor"
     },
     {
@@ -501,7 +538,7 @@
         }
       ],
       "publishedAt": "2026-01-21T09:55:38.000Z",
-      "ranking": 2.243097618536444,
+      "ranking": 1.4633069251149502,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/salesforce-ai-introduces-fofpred-a-language-driven-future-optical-flow-prediction-framework-that-enables-improved-robot-control-and-video-generation/"
     },
     {
@@ -535,7 +572,7 @@
         }
       ],
       "publishedAt": "2026-01-21T06:58:15.000Z",
-      "ranking": 2.153998918602852,
+      "ranking": 1.3333604187457038,
       "articleUrl": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills"
     },
     {
@@ -571,7 +608,7 @@
         }
       ],
       "publishedAt": "2026-01-21T10:00:00.000Z",
-      "ranking": 2.0668475246054996,
+      "ranking": 1.2880623865571943,
       "articleUrl": "https://www.theverge.com/news/864811/adobe-acrobat-studio-generate-podcast-presentation"
     },
     {
@@ -606,7 +643,7 @@
         }
       ],
       "publishedAt": "2026-01-21T10:00:00.000Z",
-      "ranking": 1.2568475194710844,
+      "ranking": 0.47806238085567454,
       "articleUrl": "https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026"
     },
     {
@@ -642,7 +679,7 @@
         }
       ],
       "publishedAt": "2026-01-21T04:43:22.000Z",
-      "ranking": 1.1471385743371503,
+      "ranking": 0.2954391604858255,
       "articleUrl": "https://www.marktechpost.com/2026/01/20/liquid-ai-releases-lfm2-5-1-2b-thinking-a-1-2b-parameter-reasoning-model-that-fits-under-1-gb-on-device/"
     },
     {
@@ -1069,79 +1106,6 @@
       "publishedAt": "2026-01-16T10:21:05.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/podcast/863340/siri-is-a-gemini"
-    },
-    {
-      "id": "737",
-      "topic": "NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "Gemma Translate",
-      "mediumTitle": "Google\u0027s New Translation AI",
-      "longTitle": "Google Releases Open-Source TranslateGemma Models",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google AI recently announced the release",
-            "of TranslateGemma, a new family of open",
-            "machine translation models.",
-            "TranslateGemma\u2019s architecture is based",
-            "on Gemma 3, Google\u2019s latest advancements",
-            "in AI model design.",
-            "The availability of different parameter",
-            "sizes (4B, 12B, 27B) allows users to",
-            "choose a model that fits their specific",
-            "needs and resources.",
-            "For demanding applications, the models",
-            "can be deployed on systems with a single",
-            "H100 GPU or TPU instance.",
-            "The models are openly available,",
-            "encouraging community contribution and",
-            "further development.",
-            "The models can run on mobile devices,",
-            "demonstrating their efficiency and",
-            "accessibility."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-16T06:39:55.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/15/google-ai-releases-translategemma-a-new-family-of-open-translation-models-built-on-gemma-3-with-support-for-55-languages/"
-    },
-    {
-      "id": "735",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "KVzap",
-      "mediumTitle": "NVIDIA\u0027s KV Cache Pruning",
-      "longTitle": "KVzap: Reducing LLM Memory Footprint",
-      "paragraphs": [
-        {
-          "Lines": [
-            "NVIDIA AI has open-sourced KVzap to",
-            "address the increasing KV cache size in",
-            "transformer decoders.",
-            "Pruning the KV cache makes large",
-            "language models more practical for",
-            "real-world applications.",
-            "The substantial memory footprint of the",
-            "KV cache hinders the deployment of LLMs",
-            "with extended context windows.",
-            "KVzap delivers near-lossless",
-            "compression, meaning minimal performance",
-            "impact from the size reduction.",
-            "The KV cache size is a significant issue",
-            "for deploying large models like",
-            "Llama1-65B.",
-            "The KV cache stores keys and values in",
-            "the shape (2, L, H, T, D) for each layer",
-            "and head.",
-            "This new method is designed to tackle",
-            "the bottleneck of KV cache size."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-15T22:12:26.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/15/nvidia-ai-open-sourced-kvzap-a-sota-kv-cache-pruning-method-that-delivers-near-lossless-2x-4x-compression/"
     }
   ]
 }
