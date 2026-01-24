@@ -215,7 +215,7 @@
         }
       ],
       "publishedAt": "2026-01-22T22:11:00.000Z",
-      "ranking": 5.622042504372976,
+      "ranking": 5.236709864322594,
       "articleUrl": "https://www.marktechpost.com/2026/01/22/microsoft-releases-vibevoice-asr-a-unified-speech-to-text-model-designed-to-handle-60-minute-long-form-audio-in-a-single-pass/"
     },
     {
@@ -252,7 +252,7 @@
         }
       ],
       "publishedAt": "2026-01-22T12:00:00.000Z",
-      "ranking": 5.463191348691507,
+      "ranking": 4.938876426764351,
       "articleUrl": "https://www.theverge.com/news/865548/google-ai-mode-search-personal-intelligence-update"
     },
     {
@@ -289,7 +289,7 @@
         }
       ],
       "publishedAt": "2026-01-22T15:00:00.000Z",
-      "ranking": 5.157270876723219,
+      "ranking": 4.673899989565885,
       "articleUrl": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
     },
     {
@@ -325,7 +325,7 @@
         }
       ],
       "publishedAt": "2026-01-22T10:00:00.000Z",
-      "ranking": 5.037277180997512,
+      "ranking": 4.48566624641803,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865077/adobe-firefly-foundry-ip-sage-genai-models"
     },
     {
@@ -360,7 +360,7 @@
         }
       ],
       "publishedAt": "2026-01-22T10:48:15.000Z",
-      "ranking": 4.964354197998457,
+      "ranking": 4.423718538635626,
       "articleUrl": "https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill"
     },
     {
@@ -395,7 +395,7 @@
         }
       ],
       "publishedAt": "2026-01-22T03:22:16.000Z",
-      "ranking": 3.6117816510935783,
+      "ranking": 2.96969957586652,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/flashlabs-researchers-release-chroma-1-0-a-4b-real-time-speech-dialogue-model-with-personalized-voice-cloning/"
     },
     {
@@ -430,7 +430,7 @@
         }
       ],
       "publishedAt": "2026-01-22T00:23:42.000Z",
-      "ranking": 3.215555009346221,
+      "ranking": 2.5328549408845076,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/inworld-ai-releases-tts-1-5-for-realtime-production-grade-voice-agents/"
     },
     {
@@ -465,7 +465,7 @@
         }
       ],
       "publishedAt": "2026-01-22T01:01:00.000Z",
-      "ranking": 2.453617414335498,
+      "ranking": 1.779401859288443,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists"
     },
     {
@@ -502,7 +502,7 @@
         }
       ],
       "publishedAt": "2026-01-21T16:36:18.000Z",
-      "ranking": 1.9853353814903327,
+      "ranking": 1.1963173182108022,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc"
     },
     {
@@ -538,7 +538,7 @@
         }
       ],
       "publishedAt": "2026-01-21T17:43:27.000Z",
-      "ranking": 1.7031217840860258,
+      "ranking": 0.9293781195130135,
       "articleUrl": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor"
     },
     {
@@ -574,78 +574,8 @@
         }
       ],
       "publishedAt": "2026-01-21T16:26:47.000Z",
-      "ranking": 1.6895351042628022,
+      "ranking": 0.8983523167557754,
       "articleUrl": "https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt"
-    },
-    {
-      "id": "763",
-      "topic": "Robotics, Vision, NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "FOFPred",
-      "mediumTitle": "AI Predicts Motion",
-      "longTitle": "FOFPred: AI for Motion Forecasting",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Salesforce AI researchers developed",
-            "FOFPred, a new framework for predicting",
-            "future optical flow.",
-            "FOFPred is driven by natural language",
-            "instructions, allowing for command-based",
-            "motion prediction.",
-            "The framework integrates large",
-            "vision-language models (VLMs) with",
-            "diffusion transformers.",
-            "FOFPred aims to improve how robots",
-            "understand and execute commands.",
-            "Accurately forecasting object movement",
-            "can enhance video generation",
-            "capabilities.",
-            "FOFPred achieves dense motion",
-            "forecasting, meaning it predicts motion",
-            "for all parts of an image.",
-            "The research highlights the potential",
-            "for more intuitive robot interaction."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-21T09:55:38.000Z",
-      "ranking": 0.6030166536674884,
-      "articleUrl": "https://www.marktechpost.com/2026/01/21/salesforce-ai-introduces-fofpred-a-language-driven-future-optical-flow-prediction-framework-that-enables-improved-robot-control-and-video-generation/"
-    },
-    {
-      "id": "761",
-      "topic": "AI Ops",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI Pledge",
-      "mediumTitle": "OpenAI Addresses Utility Costs",
-      "longTitle": "OpenAI Commits to Infrastructure \u0026 Water Use",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Specifically, OpenAI pledges to ensure",
-            "its operations do not lead to increased",
-            "electricity costs for others.",
-            "OpenAI has announced commitments to",
-            "cover the costs of energy infrastructure",
-            "upgrades required to power its data",
-            "centers and to minimize water usage.",
-            "This will be achieved by paying for",
-            "necessary energy infrastructure",
-            "improvements.",
-            "The company is responding to increasing",
-            "concerns about the impact of AI projects",
-            "on local utilities and costs.",
-            "OpenAI is addressing sustainability",
-            "concerns surrounding the energy and",
-            "resource demands of large-scale AI",
-            "development."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-21T06:58:15.000Z",
-      "ranking": 0.43101455571136604,
-      "articleUrl": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills"
     },
     {
       "id": "767",
@@ -680,7 +610,7 @@
         }
       ],
       "publishedAt": "2026-01-21T10:00:00.000Z",
-      "ranking": 0.4288074019862087,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/864811/adobe-acrobat-studio-generate-podcast-presentation"
     },
     {
@@ -717,6 +647,76 @@
       "publishedAt": "2026-01-21T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026"
+    },
+    {
+      "id": "763",
+      "topic": "Robotics, Vision, NLP",
+      "source": "Marktechpost AI",
+      "shortTitle": "FOFPred",
+      "mediumTitle": "AI Predicts Motion",
+      "longTitle": "FOFPred: AI for Motion Forecasting",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Salesforce AI researchers developed",
+            "FOFPred, a new framework for predicting",
+            "future optical flow.",
+            "FOFPred is driven by natural language",
+            "instructions, allowing for command-based",
+            "motion prediction.",
+            "The framework integrates large",
+            "vision-language models (VLMs) with",
+            "diffusion transformers.",
+            "FOFPred aims to improve how robots",
+            "understand and execute commands.",
+            "Accurately forecasting object movement",
+            "can enhance video generation",
+            "capabilities.",
+            "FOFPred achieves dense motion",
+            "forecasting, meaning it predicts motion",
+            "for all parts of an image.",
+            "The research highlights the potential",
+            "for more intuitive robot interaction."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-21T09:55:38.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.marktechpost.com/2026/01/21/salesforce-ai-introduces-fofpred-a-language-driven-future-optical-flow-prediction-framework-that-enables-improved-robot-control-and-video-generation/"
+    },
+    {
+      "id": "761",
+      "topic": "AI Ops",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI Pledge",
+      "mediumTitle": "OpenAI Addresses Utility Costs",
+      "longTitle": "OpenAI Commits to Infrastructure \u0026 Water Use",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Specifically, OpenAI pledges to ensure",
+            "its operations do not lead to increased",
+            "electricity costs for others.",
+            "OpenAI has announced commitments to",
+            "cover the costs of energy infrastructure",
+            "upgrades required to power its data",
+            "centers and to minimize water usage.",
+            "This will be achieved by paying for",
+            "necessary energy infrastructure",
+            "improvements.",
+            "The company is responding to increasing",
+            "concerns about the impact of AI projects",
+            "on local utilities and costs.",
+            "OpenAI is addressing sustainability",
+            "concerns surrounding the energy and",
+            "resource demands of large-scale AI",
+            "development."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-21T06:58:15.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills"
     },
     {
       "id": "760",
