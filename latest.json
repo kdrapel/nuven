@@ -38,76 +38,39 @@
       "articleUrl": "https://www.theverge.com/report/866683/chatgpt-health-sharing-data"
     },
     {
-      "id": "785",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "MS Paint AI",
-      "mediumTitle": "Paint \u0026 Notepad Get AI",
-      "longTitle": "Microsoft Adds AI Features to Windows Apps",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft is updating its Paint and",
-            "Notepad applications on Windows 11 with",
-            "new artificial intelligence (AI)",
-            "features.",
-            "The key addition to Microsoft Paint is",
-            "an AI-powered feature allowing users to",
-            "generate coloring book-style line art",
-            "from sketches or images.",
-            "These updates are currently being",
-            "released to users participating in the",
-            "Windows Insider Program, specifically",
-            "those in the Canary and Dev channels.",
-            "Users can input a sketch or image, and",
-            "the AI will transform it into a black",
-            "and white line drawing suitable for",
-            "coloring.",
-            "Notepad is receiving AI-powered text",
-            "improvement capabilities."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-23T07:06:39.000Z",
-      "ranking": 7.529166666666666,
-      "articleUrl": "https://www.theverge.com/news/866524/microsoft-paint-notepad-ai-coloring-book"
-    },
-    {
-      "id": "783",
-      "topic": "Speech",
+      "id": "790",
+      "topic": "Security",
       "source": "Marktechpost AI",
-      "shortTitle": "Qwen3-TTS",
-      "mediumTitle": "Alibaba\u0027s Open-Source TTS",
-      "longTitle": "Qwen3-TTS: Multilingual Text-to-Speech Suite",
+      "shortTitle": "AI Vulner Scan",
+      "mediumTitle": "AI-Powered Vulnerability Prioritization",
+      "longTitle": "AI-Assisted Scanner for Better Vulnerability Ranking",
       "paragraphs": [
         {
           "Lines": [
-            "The Alibaba Cloud\u2019s Qwen team has",
-            "released Qwen3-TTS, an open-source",
-            "multilingual text-to-speech (TTS) suite.",
-            "This suite is designed to handle three",
-            "key tasks within a single framework:",
-            "voice cloning, voice design, and",
-            "high-quality speech generation.",
-            "The release aims to provide a",
-            "comprehensive and versatile tool for",
-            "developers and researchers working with",
-            "speech synthesis.",
-            "Qwen3-TTS utilizes a 12Hz speech",
-            "tokenizer for processing audio data.",
-            "The suite is available in two language",
-            "model sizes, 0.6B and 1.7B parameters,",
-            "offering flexibility for different use",
-            "cases.",
-            "Qwen3-TTS is notable for its potential",
-            "to achieve real-time latency in speech",
-            "generation."
+            "The system aims to learn to prioritize",
+            "vulnerabilities beyond the limitations",
+            "of static CVSS scores.",
+            "CVSS scores often don\u0027t fully reflect",
+            "the real-world exploitability or impact",
+            "of a vulnerability.",
+            "The new approach treats vulnerability",
+            "descriptions as containing rich",
+            "linguistic information, not just simple",
+            "text.",
+            "Combining semantic embeddings with",
+            "structural data allows for a more",
+            "nuanced understanding of vulnerability",
+            "risk.",
+            "Traditional vulnerability prioritization",
+            "often relies solely on Common",
+            "Vulnerability Scoring System (CVSS)",
+            "scores."
           ]
         }
       ],
-      "publishedAt": "2026-01-23T07:26:31.000Z",
-      "ranking": 7.155,
-      "articleUrl": "https://www.marktechpost.com/2026/01/22/qwen-researchers-release-qwen3-tts-an-open-multilingual-tts-suite-with-real-time-latency-and-fine-grained-voice-control/"
+      "publishedAt": "2026-01-24T06:43:36.000Z",
+      "ranking": 7.475,
+      "articleUrl": "https://www.marktechpost.com/2026/01/23/how-machine-learning-and-semantic-embeddings-reorder-cve-vulnerabilities-beyond-raw-cvss-scores/"
     },
     {
       "id": "789",
@@ -143,6 +106,41 @@
       "publishedAt": "2026-01-23T22:30:26.000Z",
       "ranking": 7.044999999999999,
       "articleUrl": "https://www.marktechpost.com/2026/01/23/how-an-ai-agent-chooses-what-to-do-under-tokens-latency-and-tool-call-budget-constraints/"
+    },
+    {
+      "id": "785",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "MS Paint AI",
+      "mediumTitle": "Paint \u0026 Notepad Get AI",
+      "longTitle": "Microsoft Adds AI Features to Windows Apps",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft is updating its Paint and",
+            "Notepad applications on Windows 11 with",
+            "new artificial intelligence (AI)",
+            "features.",
+            "The key addition to Microsoft Paint is",
+            "an AI-powered feature allowing users to",
+            "generate coloring book-style line art",
+            "from sketches or images.",
+            "These updates are currently being",
+            "released to users participating in the",
+            "Windows Insider Program, specifically",
+            "those in the Canary and Dev channels.",
+            "Users can input a sketch or image, and",
+            "the AI will transform it into a black",
+            "and white line drawing suitable for",
+            "coloring.",
+            "Notepad is receiving AI-powered text",
+            "improvement capabilities."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-23T07:06:39.000Z",
+      "ranking": 6.424257290186581,
+      "articleUrl": "https://www.theverge.com/news/866524/microsoft-paint-notepad-ai-coloring-book"
     },
     {
       "id": "788",
@@ -182,6 +180,43 @@
       "articleUrl": "https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version"
     },
     {
+      "id": "783",
+      "topic": "Speech",
+      "source": "Marktechpost AI",
+      "shortTitle": "Qwen3-TTS",
+      "mediumTitle": "Alibaba\u0027s Open-Source TTS",
+      "longTitle": "Qwen3-TTS: Multilingual Text-to-Speech Suite",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The Alibaba Cloud\u2019s Qwen team has",
+            "released Qwen3-TTS, an open-source",
+            "multilingual text-to-speech (TTS) suite.",
+            "This suite is designed to handle three",
+            "key tasks within a single framework:",
+            "voice cloning, voice design, and",
+            "high-quality speech generation.",
+            "The release aims to provide a",
+            "comprehensive and versatile tool for",
+            "developers and researchers working with",
+            "speech synthesis.",
+            "Qwen3-TTS utilizes a 12Hz speech",
+            "tokenizer for processing audio data.",
+            "The suite is available in two language",
+            "model sizes, 0.6B and 1.7B parameters,",
+            "offering flexibility for different use",
+            "cases.",
+            "Qwen3-TTS is notable for its potential",
+            "to achieve real-time latency in speech",
+            "generation."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-23T07:26:31.000Z",
+      "ranking": 6.0789041332218,
+      "articleUrl": "https://www.marktechpost.com/2026/01/22/qwen-researchers-release-qwen3-tts-an-open-multilingual-tts-suite-with-real-time-latency-and-fine-grained-voice-control/"
+    },
+    {
       "id": "782",
       "topic": "Speech",
       "source": "Marktechpost AI",
@@ -215,7 +250,7 @@
         }
       ],
       "publishedAt": "2026-01-22T22:11:00.000Z",
-      "ranking": 5.236709864322594,
+      "ranking": 4.794712752572716,
       "articleUrl": "https://www.marktechpost.com/2026/01/22/microsoft-releases-vibevoice-asr-a-unified-speech-to-text-model-designed-to-handle-60-minute-long-form-audio-in-a-single-pass/"
     },
     {
@@ -252,7 +287,7 @@
         }
       ],
       "publishedAt": "2026-01-22T12:00:00.000Z",
-      "ranking": 4.938876426764351,
+      "ranking": 4.3569964856350065,
       "articleUrl": "https://www.theverge.com/news/865548/google-ai-mode-search-personal-intelligence-update"
     },
     {
@@ -289,7 +324,7 @@
         }
       ],
       "publishedAt": "2026-01-22T15:00:00.000Z",
-      "ranking": 4.673899989565885,
+      "ranking": 4.133229370339409,
       "articleUrl": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
     },
     {
@@ -325,7 +360,7 @@
         }
       ],
       "publishedAt": "2026-01-22T10:00:00.000Z",
-      "ranking": 4.48566624641803,
+      "ranking": 3.876313413097707,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865077/adobe-firefly-foundry-ip-sage-genai-models"
     },
     {
@@ -360,7 +395,7 @@
         }
       ],
       "publishedAt": "2026-01-22T10:48:15.000Z",
-      "ranking": 4.423718538635626,
+      "ranking": 3.82541209119458,
       "articleUrl": "https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill"
     },
     {
@@ -395,7 +430,7 @@
         }
       ],
       "publishedAt": "2026-01-22T03:22:16.000Z",
-      "ranking": 2.96969957586652,
+      "ranking": 2.269289391547251,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/flashlabs-researchers-release-chroma-1-0-a-4b-real-time-speech-dialogue-model-with-personalized-voice-cloning/"
     },
     {
@@ -430,7 +465,7 @@
         }
       ],
       "publishedAt": "2026-01-22T00:23:42.000Z",
-      "ranking": 2.5328549408845076,
+      "ranking": 1.7915635778542622,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/inworld-ai-releases-tts-1-5-for-realtime-production-grade-voice-agents/"
     },
     {
@@ -465,7 +500,7 @@
         }
       ],
       "publishedAt": "2026-01-22T01:01:00.000Z",
-      "ranking": 1.779401859288443,
+      "ranking": 1.0466499835467395,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists"
     },
     {
@@ -502,7 +537,7 @@
         }
       ],
       "publishedAt": "2026-01-21T16:36:18.000Z",
-      "ranking": 1.1963173182108022,
+      "ranking": 0.3480190674803607,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc"
     },
     {
@@ -538,7 +573,7 @@
         }
       ],
       "publishedAt": "2026-01-21T17:43:27.000Z",
-      "ranking": 0.9293781195130135,
+      "ranking": 0.09645323440795472,
       "articleUrl": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor"
     },
     {
@@ -574,7 +609,7 @@
         }
       ],
       "publishedAt": "2026-01-21T16:26:47.000Z",
-      "ranking": 0.8983523167557754,
+      "ranking": 0.04787531052964411,
       "articleUrl": "https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt"
     },
     {
