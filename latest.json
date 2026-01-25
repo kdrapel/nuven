@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "793",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Step-DeepResearch",
+      "mediumTitle": "AI Agent for Deep Research",
+      "longTitle": "StepFun AI Launches Research Agent",
+      "paragraphs": [
+        {
+          "Lines": [
+            "StepFun AI recently launched",
+            "Step-DeepResearch, a 32 billion",
+            "parameter deep research agent.",
+            "This new agent is designed to move",
+            "beyond simple web searches and create",
+            "complete research processes.",
+            "A key function of Step-DeepResearch is",
+            "the automated generation of structured",
+            "reports.",
+            "Step-DeepResearch incorporates features",
+            "like long-term reasoning to maintain",
+            "context throughout the research.",
+            "The agent is also capable of utilizing",
+            "various tools to enhance its research",
+            "capabilities.",
+            "Step-DeepResearch functions as a single",
+            "agent, handling all stages of research",
+            "without external intervention."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-25T22:08:15.000Z",
+      "ranking": 7.584999999999999,
+      "articleUrl": "https://www.marktechpost.com/2026/01/25/stepfun-ai-introduce-step-deepresearch-a-cost-effective-deep-research-agent-model-built-around-atomic-capabilities/"
+    },
+    {
       "id": "790",
       "topic": "Security",
       "source": "Marktechpost AI",
@@ -32,7 +67,7 @@
         }
       ],
       "publishedAt": "2026-01-24T06:43:36.000Z",
-      "ranking": 5.015835314835838,
+      "ranking": 4.465103689913658,
       "articleUrl": "https://www.marktechpost.com/2026/01/23/how-machine-learning-and-semantic-embeddings-reorder-cve-vulnerabilities-beyond-raw-cvss-scores/"
     },
     {
@@ -67,7 +102,7 @@
         }
       ],
       "publishedAt": "2026-01-23T22:30:26.000Z",
-      "ranking": 3.3944187264634644,
+      "ranking": 2.7294834880340435,
       "articleUrl": "https://www.marktechpost.com/2026/01/23/how-an-ai-agent-chooses-what-to-do-under-tokens-latency-and-tool-call-budget-constraints/"
     },
     {
@@ -104,7 +139,7 @@
         }
       ],
       "publishedAt": "2026-01-23T12:07:24.000Z",
-      "ranking": 2.1338913159180732,
+      "ranking": 1.3246782711972056,
       "articleUrl": "https://www.theverge.com/report/866683/chatgpt-health-sharing-data"
     },
     {
@@ -141,7 +176,7 @@
         }
       ],
       "publishedAt": "2026-01-23T15:50:59.000Z",
-      "ranking": 1.622457870022136,
+      "ranking": 0.8650207266055752,
       "articleUrl": "https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version"
     },
     {
@@ -176,7 +211,7 @@
         }
       ],
       "publishedAt": "2026-01-23T07:06:39.000Z",
-      "ranking": 1.0156171734718642,
+      "ranking": 0.1367584899637002,
       "articleUrl": "https://www.theverge.com/news/866524/microsoft-paint-notepad-ai-coloring-book"
     },
     {
@@ -213,7 +248,7 @@
         }
       ],
       "publishedAt": "2026-01-23T07:26:31.000Z",
-      "ranking": 0.7116810291194362,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/22/qwen-researchers-release-qwen3-tts-an-open-multilingual-tts-suite-with-real-time-latency-and-fine-grained-voice-control/"
     },
     {
@@ -1068,43 +1103,6 @@
       "publishedAt": "2026-01-18T07:48:04.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/17/nvidia-releases-personaplex-7b-v1-a-real-time-speech-to-speech-model-designed-for-natural-and-full-duplex-conversations/"
-    },
-    {
-      "id": "738",
-      "topic": "NLP",
-      "source": "VentureBeat AI",
-      "shortTitle": "Listen Labs",
-      "mediumTitle": "AI Research Funding",
-      "longTitle": "Listen Labs Secures $69M Series B",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft reduced its research time from",
-            "4-6 weeks to just days using Listen Labs",
-            "for its 50th anniversary customer",
-            "stories.",
-            "The platform delivers actionable",
-            "insights in hours, a significant",
-            "improvement over the weeks required by",
-            "conventional methods.",
-            "The platform identified a product flaw \u2013",
-            "a scratchy liner in Chubbies shorts \u2013",
-            "leading to a successful redesign.",
-            "Listen Labs envisions a future where AI",
-            "automates both coding and user research",
-            "for continuous product improvement.",
-            "The company is valued at $500 million",
-            "following the $69 million Series B",
-            "funding round.",
-            "Listen Labs recently gained attention",
-            "for a unique hiring campaign involving",
-            "AI tokens and a coding challenge."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-16T15:01:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
     }
   ]
 }
