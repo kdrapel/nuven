@@ -32,7 +32,7 @@
         }
       ],
       "publishedAt": "2026-01-24T06:43:36.000Z",
-      "ranking": 7.475,
+      "ranking": 6.3333539069155425,
       "articleUrl": "https://www.marktechpost.com/2026/01/23/how-machine-learning-and-semantic-embeddings-reorder-cve-vulnerabilities-beyond-raw-cvss-scores/"
     },
     {
@@ -67,7 +67,7 @@
         }
       ],
       "publishedAt": "2026-01-23T22:30:26.000Z",
-      "ranking": 5.4954025872770345,
+      "ranking": 5.054204744289827,
       "articleUrl": "https://www.marktechpost.com/2026/01/23/how-an-ai-agent-chooses-what-to-do-under-tokens-latency-and-tool-call-budget-constraints/"
     },
     {
@@ -104,7 +104,7 @@
         }
       ],
       "publishedAt": "2026-01-23T12:07:24.000Z",
-      "ranking": 4.811026271303422,
+      "ranking": 4.226074583653059,
       "articleUrl": "https://www.theverge.com/report/866683/chatgpt-health-sharing-data"
     },
     {
@@ -141,7 +141,7 @@
         }
       ],
       "publishedAt": "2026-01-23T15:50:59.000Z",
-      "ranking": 4.092833776278197,
+      "ranking": 3.5594699587146974,
       "articleUrl": "https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version"
     },
     {
@@ -176,7 +176,7 @@
         }
       ],
       "publishedAt": "2026-01-23T07:06:39.000Z",
-      "ranking": 3.970871179932986,
+      "ranking": 3.316526790436943,
       "articleUrl": "https://www.theverge.com/news/866524/microsoft-paint-notepad-ai-coloring-book"
     },
     {
@@ -213,7 +213,7 @@
         }
       ],
       "publishedAt": "2026-01-23T07:26:31.000Z",
-      "ranking": 3.648563304619065,
+      "ranking": 2.9988027889780042,
       "articleUrl": "https://www.marktechpost.com/2026/01/22/qwen-researchers-release-qwen3-tts-an-open-multilingual-tts-suite-with-real-time-latency-and-fine-grained-voice-control/"
     },
     {
@@ -250,45 +250,8 @@
         }
       ],
       "publishedAt": "2026-01-22T22:11:00.000Z",
-      "ranking": 1.7199743062265815,
+      "ranking": 0.9420382138978765,
       "articleUrl": "https://www.marktechpost.com/2026/01/22/microsoft-releases-vibevoice-asr-a-unified-speech-to-text-model-designed-to-handle-60-minute-long-form-audio-in-a-single-pass/"
-    },
-    {
-      "id": "780",
-      "topic": "NLP, Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Search",
-      "mediumTitle": "Google AI Search Expands",
-      "longTitle": "Google\u0027s AI Mode Gains Access to User Data",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google is expanding the capabilities of",
-            "its AI Mode within Search by integrating",
-            "access to users\u2019 Gmail and Google Photos",
-            "data.",
-            "Access to this data is contingent upon",
-            "explicit user permission.",
-            "Specifically, the AI will analyze",
-            "information within a user\u2019s Gmail and",
-            "Google Photos accounts.",
-            "The integration aims to deliver more",
-            "personalized and relevant responses to",
-            "search queries.",
-            "This allows AI Mode to provide answers",
-            "tailored to the individual user\u2019s",
-            "context, going beyond general web",
-            "results.",
-            "The analysis is intended to help the AI",
-            "better understand a user\u2019s interests.",
-            "The AI will also attempt to understand a",
-            "user\u2019s routines and daily life."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-22T12:00:00.000Z",
-      "ranking": 0.5734996667095142,
-      "articleUrl": "https://www.theverge.com/news/865548/google-ai-mode-search-personal-intelligence-update"
     },
     {
       "id": "775",
@@ -324,8 +287,45 @@
         }
       ],
       "publishedAt": "2026-01-22T15:00:00.000Z",
-      "ranking": 0.5585319884316426,
+      "ranking": 0,
       "articleUrl": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+    },
+    {
+      "id": "780",
+      "topic": "NLP, Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Search",
+      "mediumTitle": "Google AI Search Expands",
+      "longTitle": "Google\u0027s AI Mode Gains Access to User Data",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google is expanding the capabilities of",
+            "its AI Mode within Search by integrating",
+            "access to users\u2019 Gmail and Google Photos",
+            "data.",
+            "Access to this data is contingent upon",
+            "explicit user permission.",
+            "Specifically, the AI will analyze",
+            "information within a user\u2019s Gmail and",
+            "Google Photos accounts.",
+            "The integration aims to deliver more",
+            "personalized and relevant responses to",
+            "search queries.",
+            "This allows AI Mode to provide answers",
+            "tailored to the individual user\u2019s",
+            "context, going beyond general web",
+            "results.",
+            "The analysis is intended to help the AI",
+            "better understand a user\u2019s interests.",
+            "The AI will also attempt to understand a",
+            "user\u2019s routines and daily life."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-22T12:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/865548/google-ai-mode-search-personal-intelligence-update"
     },
     {
       "id": "776",
