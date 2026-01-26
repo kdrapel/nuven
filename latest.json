@@ -67,7 +67,7 @@
         }
       ],
       "publishedAt": "2026-01-24T06:43:36.000Z",
-      "ranking": 3.8601188462187186,
+      "ranking": 3.193514603280323,
       "articleUrl": "https://www.marktechpost.com/2026/01/23/how-machine-learning-and-semantic-embeddings-reorder-cve-vulnerabilities-beyond-raw-cvss-scores/"
     },
     {
@@ -102,45 +102,8 @@
         }
       ],
       "publishedAt": "2026-01-23T22:30:26.000Z",
-      "ranking": 2.010536862459558,
+      "ranking": 1.228935075996513,
       "articleUrl": "https://www.marktechpost.com/2026/01/23/how-an-ai-agent-chooses-what-to-do-under-tokens-latency-and-tool-call-budget-constraints/"
-    },
-    {
-      "id": "786",
-      "topic": "News",
-      "source": "The Verge AI",
-      "shortTitle": "ChatGPT Health",
-      "mediumTitle": "ChatGPT \u0026 Healthcare",
-      "longTitle": "Millions Use ChatGPT for Health Advice",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI reports that over 230 million",
-            "individuals are currently utilizing",
-            "ChatGPT for health and wellness guidance",
-            "on a weekly basis.",
-            "OpenAI aims to build user trust",
-            "regarding the handling of sensitive",
-            "health data, including diagnoses.",
-            "Many users view ChatGPT as a supportive",
-            "tool for managing complex healthcare",
-            "tasks.",
-            "A key aspect of this usage is the",
-            "sharing of personal health information",
-            "with the chatbot.",
-            "Specifically, the chatbot assists with",
-            "understanding health insurance details",
-            "and completing necessary healthcare",
-            "paperwork.",
-            "ChatGPT is also empowering users to more",
-            "effectively advocate for their own",
-            "health needs."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-23T12:07:24.000Z",
-      "ranking": 0.46176006001971537,
-      "articleUrl": "https://www.theverge.com/report/866683/chatgpt-health-sharing-data"
     },
     {
       "id": "788",
@@ -176,8 +139,45 @@
         }
       ],
       "publishedAt": "2026-01-23T15:50:59.000Z",
-      "ranking": 0.053768529236065454,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version"
+    },
+    {
+      "id": "786",
+      "topic": "News",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT Health",
+      "mediumTitle": "ChatGPT \u0026 Healthcare",
+      "longTitle": "Millions Use ChatGPT for Health Advice",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI reports that over 230 million",
+            "individuals are currently utilizing",
+            "ChatGPT for health and wellness guidance",
+            "on a weekly basis.",
+            "OpenAI aims to build user trust",
+            "regarding the handling of sensitive",
+            "health data, including diagnoses.",
+            "Many users view ChatGPT as a supportive",
+            "tool for managing complex healthcare",
+            "tasks.",
+            "A key aspect of this usage is the",
+            "sharing of personal health information",
+            "with the chatbot.",
+            "Specifically, the chatbot assists with",
+            "understanding health insurance details",
+            "and completing necessary healthcare",
+            "paperwork.",
+            "ChatGPT is also empowering users to more",
+            "effectively advocate for their own",
+            "health needs."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-23T12:07:24.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/report/866683/chatgpt-health-sharing-data"
     },
     {
       "id": "783",
@@ -648,6 +648,41 @@
       "articleUrl": "https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt"
     },
     {
+      "id": "766",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Shorts",
+      "mediumTitle": "YouTube: AI Creator Tools",
+      "longTitle": "YouTube to Allow AI Versions of Creators in Shorts",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Creators will be able to utilize AI to",
+            "generate versions of themselves for use",
+            "specifically within YouTube Shorts.",
+            "The introduction of this feature is",
+            "likely to result in a greater volume of",
+            "AI-generated content on the Shorts feed.",
+            "This AI-generated content will primarily",
+            "originate from established creators on",
+            "the YouTube platform.",
+            "Neal Mohan, the CEO of YouTube, made the",
+            "announcement regarding the AI-powered",
+            "Shorts feature.",
+            "The release timeframe for this new",
+            "feature is currently set for sometime",
+            "later in the current year.",
+            "YouTube is aiming to empower creators",
+            "with new tools to facilitate content",
+            "creation."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-21T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026"
+    },
+    {
       "id": "767",
       "topic": "News",
       "source": "The Verge AI",
@@ -682,41 +717,6 @@
       "publishedAt": "2026-01-21T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/864811/adobe-acrobat-studio-generate-podcast-presentation"
-    },
-    {
-      "id": "766",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Shorts",
-      "mediumTitle": "YouTube: AI Creator Tools",
-      "longTitle": "YouTube to Allow AI Versions of Creators in Shorts",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Creators will be able to utilize AI to",
-            "generate versions of themselves for use",
-            "specifically within YouTube Shorts.",
-            "The introduction of this feature is",
-            "likely to result in a greater volume of",
-            "AI-generated content on the Shorts feed.",
-            "This AI-generated content will primarily",
-            "originate from established creators on",
-            "the YouTube platform.",
-            "Neal Mohan, the CEO of YouTube, made the",
-            "announcement regarding the AI-powered",
-            "Shorts feature.",
-            "The release timeframe for this new",
-            "feature is currently set for sometime",
-            "later in the current year.",
-            "YouTube is aiming to empower creators",
-            "with new tools to facilitate content",
-            "creation."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-21T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026"
     },
     {
       "id": "763",
