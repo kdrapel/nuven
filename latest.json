@@ -36,6 +36,77 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/25/stepfun-ai-introduce-step-deepresearch-a-cost-effective-deep-research-agent-model-built-around-atomic-capabilities/"
     },
     {
+      "id": "797",
+      "topic": "Hardware",
+      "source": "The Verge AI",
+      "shortTitle": "MSFT Maia 2",
+      "mediumTitle": "Microsoft\u0027s New AI Chip",
+      "longTitle": "Microsoft Unveils Maia 200 AI Accelerator",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft\u2019s Maia 200 is designed to",
+            "compete with AI accelerators developed",
+            "by Amazon (Trainium) and Google (TPU).",
+            "The chip is specifically engineered for",
+            "AI workloads, allowing Microsoft to",
+            "optimize its AI infrastructure.",
+            "The Maia 200 delivers three times the",
+            "FP4 (single-precision floating-point)",
+            "performance compared to Amazon\u2019s",
+            "third-generation Trainium chip.",
+            "Furthermore, it achieves FP8 (8-bit",
+            "floating-point) performance exceeding",
+            "that of Google\u2019s seventh-generation TPU.",
+            "By developing its own AI chips,",
+            "Microsoft aims to gain greater control",
+            "over its AI hardware and software stack.",
+            "The chip is manufactured using TSMC\u2019s",
+            "advanced 3nm process technology, a key",
+            "factor in its performance capabilities."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-26T12:00:00.000Z",
+      "ranking": 7.49,
+      "articleUrl": "https://www.theverge.com/news/867670/microsoft-maia-200-ai-chip-announcement"
+    },
+    {
+      "id": "795",
+      "topic": "News",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT Ads",
+      "mediumTitle": "OpenAI Plans ChatGPT Ads",
+      "longTitle": "OpenAI Exploring Premium ChatGPT Advertising",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Unlike Google and Meta, OpenAI will not",
+            "provide advertisers with data on",
+            "post-view user engagement.",
+            "OpenAI is currently exploring options",
+            "for integrating advertising into its",
+            "popular ChatGPT chatbot.",
+            "The lack of detailed performance data",
+            "could make it more challenging for",
+            "advertisers to optimize their campaigns",
+            "on ChatGPT.",
+            "Advertisers typically rely on metrics",
+            "like click-through rates and conversion",
+            "rates to evaluate ad performance.",
+            "The $60 CPM rate suggests OpenAI is",
+            "positioning ChatGPT ads as a high-value",
+            "opportunity for advertisers.",
+            "The higher CPM could compensate for the",
+            "limited data provided to advertisers."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-26T12:33:11.000Z",
+      "ranking": 7.2059999999999995,
+      "articleUrl": "https://www.theverge.com/news/867898/openai-chatgpt-ad-pricing"
+    },
+    {
       "id": "790",
       "topic": "Security",
       "source": "Marktechpost AI",
@@ -67,7 +138,7 @@
         }
       ],
       "publishedAt": "2026-01-24T06:43:36.000Z",
-      "ranking": 1.7099802395911148,
+      "ranking": 0.8773988371973873,
       "articleUrl": "https://www.marktechpost.com/2026/01/23/how-machine-learning-and-semantic-embeddings-reorder-cve-vulnerabilities-beyond-raw-cvss-scores/"
     },
     {
@@ -1068,41 +1139,6 @@
       "publishedAt": "2026-01-18T16:43:24.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/18/vercel-releases-agent-skills-a-package-manager-for-ai-coding-agents-with-10-years-of-react-and-next-js-optimisation-rules/"
-    },
-    {
-      "id": "748",
-      "topic": "Speech, NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "PersonaPlex",
-      "mediumTitle": "NVIDIA\u0027s New Voice Model",
-      "longTitle": "NVIDIA Releases Real-Time Speech Model",
-      "paragraphs": [
-        {
-          "Lines": [
-            "NVIDIA researchers announced the release",
-            "of PersonaPlex-7B-v1, a new advancement",
-            "in conversational AI.",
-            "Traditional voice assistants use a",
-            "three-step process: ASR, LLM, and TTS.",
-            "PersonaPlex-7B-v1 aims to improve",
-            "responsiveness and naturalness by",
-            "combining these steps into one model.",
-            "The model offers precise persona",
-            "control, allowing for customized voice",
-            "interactions.",
-            "A Language Model (LLM) then generates a",
-            "textual response based on the input.",
-            "Automatic Speech Recognition (ASR)",
-            "converts spoken language into text.",
-            "Text-to-Speech (TTS) technology converts",
-            "the generated text back into audible",
-            "speech."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-18T07:48:04.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/17/nvidia-releases-personaplex-7b-v1-a-real-time-speech-to-speech-model-designed-for-natural-and-full-duplex-conversations/"
     }
   ]
 }
