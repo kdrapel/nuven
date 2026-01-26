@@ -67,7 +67,7 @@
         }
       ],
       "publishedAt": "2026-01-24T06:43:36.000Z",
-      "ranking": 4.465103689913658,
+      "ranking": 3.8601188462187186,
       "articleUrl": "https://www.marktechpost.com/2026/01/23/how-machine-learning-and-semantic-embeddings-reorder-cve-vulnerabilities-beyond-raw-cvss-scores/"
     },
     {
@@ -102,7 +102,7 @@
         }
       ],
       "publishedAt": "2026-01-23T22:30:26.000Z",
-      "ranking": 2.7294834880340435,
+      "ranking": 2.010536862459558,
       "articleUrl": "https://www.marktechpost.com/2026/01/23/how-an-ai-agent-chooses-what-to-do-under-tokens-latency-and-tool-call-budget-constraints/"
     },
     {
@@ -139,7 +139,7 @@
         }
       ],
       "publishedAt": "2026-01-23T12:07:24.000Z",
-      "ranking": 1.3246782711972056,
+      "ranking": 0.46176006001971537,
       "articleUrl": "https://www.theverge.com/report/866683/chatgpt-health-sharing-data"
     },
     {
@@ -176,43 +176,8 @@
         }
       ],
       "publishedAt": "2026-01-23T15:50:59.000Z",
-      "ranking": 0.8650207266055752,
+      "ranking": 0.053768529236065454,
       "articleUrl": "https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version"
-    },
-    {
-      "id": "785",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "MS Paint AI",
-      "mediumTitle": "Paint \u0026 Notepad Get AI",
-      "longTitle": "Microsoft Adds AI Features to Windows Apps",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft is updating its Paint and",
-            "Notepad applications on Windows 11 with",
-            "new artificial intelligence (AI)",
-            "features.",
-            "The key addition to Microsoft Paint is",
-            "an AI-powered feature allowing users to",
-            "generate coloring book-style line art",
-            "from sketches or images.",
-            "These updates are currently being",
-            "released to users participating in the",
-            "Windows Insider Program, specifically",
-            "those in the Canary and Dev channels.",
-            "Users can input a sketch or image, and",
-            "the AI will transform it into a black",
-            "and white line drawing suitable for",
-            "coloring.",
-            "Notepad is receiving AI-powered text",
-            "improvement capabilities."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-23T07:06:39.000Z",
-      "ranking": 0.1367584899637002,
-      "articleUrl": "https://www.theverge.com/news/866524/microsoft-paint-notepad-ai-coloring-book"
     },
     {
       "id": "783",
@@ -250,6 +215,41 @@
       "publishedAt": "2026-01-23T07:26:31.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/22/qwen-researchers-release-qwen3-tts-an-open-multilingual-tts-suite-with-real-time-latency-and-fine-grained-voice-control/"
+    },
+    {
+      "id": "785",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "MS Paint AI",
+      "mediumTitle": "Paint \u0026 Notepad Get AI",
+      "longTitle": "Microsoft Adds AI Features to Windows Apps",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft is updating its Paint and",
+            "Notepad applications on Windows 11 with",
+            "new artificial intelligence (AI)",
+            "features.",
+            "The key addition to Microsoft Paint is",
+            "an AI-powered feature allowing users to",
+            "generate coloring book-style line art",
+            "from sketches or images.",
+            "These updates are currently being",
+            "released to users participating in the",
+            "Windows Insider Program, specifically",
+            "those in the Canary and Dev channels.",
+            "Users can input a sketch or image, and",
+            "the AI will transform it into a black",
+            "and white line drawing suitable for",
+            "coloring.",
+            "Notepad is receiving AI-powered text",
+            "improvement capabilities."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-23T07:06:39.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/866524/microsoft-paint-notepad-ai-coloring-book"
     },
     {
       "id": "782",
