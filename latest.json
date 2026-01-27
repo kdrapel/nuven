@@ -1,6 +1,154 @@
 {
   "articles": [
     {
+      "id": "807",
+      "topic": "Generative AI, NLP",
+      "source": "The Verge AI",
+      "shortTitle": "AI Search",
+      "mediumTitle": "Google\u0027s Gemini Powers Search",
+      "longTitle": "Google Search Enhanced with Gemini 3 AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google is enhancing its Search",
+            "functionality by integrating more",
+            "advanced AI capabilities, specifically",
+            "utilizing Gemini 3 within its AI",
+            "Overviews.",
+            "This update shifts the focus of Google",
+            "Search away from simply providing lists",
+            "of links and towards offering more",
+            "direct, AI-generated answers.",
+            "A key component of this upgrade is the",
+            "ability for users to ask follow-up",
+            "questions directly to the AI Overview.",
+            "Google states this feature is designed",
+            "to allow Search to comprehensively",
+            "address user inquiries.",
+            "This development moves Google Search",
+            "closer to the functionality of an AI",
+            "chatbot.",
+            "This creates a more conversational and",
+            "iterative search experience for users."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-27T13:00:00.000Z",
+      "ranking": 7.6,
+      "articleUrl": "https://www.theverge.com/news/868497/google-ai-search-follow-up-questions-gemini-3"
+    },
+    {
+      "id": "808",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Nudify Apps",
+      "mediumTitle": "AI Apps Remove Clothing",
+      "longTitle": "Report Details AI Image Manipulation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "These apps allow users to digitally",
+            "remove clothing from photos, often",
+            "without the knowledge or consent of the",
+            "people depicted.",
+            "The discovery of these apps highlights a",
+            "broader problem of technology enabling",
+            "sexual exploitation and potential abuse.",
+            "The apps identified are accessible on",
+            "both Google\u2019s and Apple\u2019s app stores,",
+            "indicating a systemic issue.",
+            "The report suggests a significant gap",
+            "exists in protecting individuals from",
+            "having their images misused through AI",
+            "manipulation.",
+            "The functionality of these apps raises",
+            "serious ethical and legal concerns",
+            "regarding privacy and consent.",
+            "The TTP released its report on Tuesday,",
+            "bringing attention to the widespread",
+            "availability of these apps."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-27T12:26:34.000Z",
+      "ranking": 7.264999999999999,
+      "articleUrl": "https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores"
+    },
+    {
+      "id": "804",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "GP AI Videos",
+      "mediumTitle": "Google Photos: AI Video Control",
+      "longTitle": "Google Photos Adds Text Prompts for AI Videos",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google Photos has been updated to allow",
+            "users greater control over its",
+            "AI-powered photo-to-video feature.",
+            "The key change is the introduction of",
+            "support for text prompts.",
+            "Users can now *describe* how they want",
+            "still images to be transformed into",
+            "videos \u2013 specifying desired movement,",
+            "style, or effects.",
+            "This expands upon the existing",
+            "functionality, giving users more",
+            "creative input into the video generation",
+            "process.",
+            "With text prompts, users can now guide",
+            "the AI more precisely.",
+            "The announcement was made on Monday.",
+            "Previously, the AI video creation",
+            "process relied on Google Photos\u0027",
+            "automatic selections and",
+            "interpretations."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-27T08:44:01.000Z",
+      "ranking": 7.174999999999999,
+      "articleUrl": "https://www.theverge.com/news/868510/google-photos-image-to-video-text-prompt-support"
+    },
+    {
+      "id": "810",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Pinterest Cuts",
+      "mediumTitle": "Pinterest Restructures for AI",
+      "longTitle": "Pinterest to Invest in AI, Reduces Workforce",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The move demonstrates Pinterest\u2019s",
+            "commitment to AI as a crucial area for",
+            "future growth.",
+            "Pinterest detailed this decision in a",
+            "recent regulatory filing.",
+            "The workforce reduction impacts less",
+            "than 15% of Pinterest\u2019s total employees.",
+            "Pinterest aims to streamline its",
+            "operations to focus on AI innovation.",
+            "The company is strategically",
+            "prioritizing AI to enhance its platform",
+            "and services.",
+            "Reducing office space is part of the",
+            "plan to optimize resource allocation.",
+            "The restructuring is a significant shift",
+            "in Pinterest\u2019s business strategy.",
+            "The company believes AI will drive",
+            "future innovation and user engagement.",
+            "The regulatory filing provides further",
+            "details on the restructuring plan."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-27T10:06:25.000Z",
+      "ranking": 6.654999999999999,
+      "articleUrl": "https://www.theverge.com/news/868531/pinterest-layoffs-cuts-15-percent-ai-transformation"
+    },
+    {
       "id": "802",
       "topic": "Ethics, Security, Policy",
       "source": "The Verge AI",
@@ -33,7 +181,7 @@
         }
       ],
       "publishedAt": "2026-01-26T18:47:34.000Z",
-      "ranking": 7.781818181818182,
+      "ranking": 6.639015487656502,
       "articleUrl": "https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation"
     },
     {
@@ -69,7 +217,7 @@
         }
       ],
       "publishedAt": "2026-01-26T12:00:00.000Z",
-      "ranking": 6.089835286790608,
+      "ranking": 5.661955631986197,
       "articleUrl": "https://www.theverge.com/news/867670/microsoft-maia-200-ai-chip-announcement"
     },
     {
@@ -104,7 +252,7 @@
         }
       ],
       "publishedAt": "2026-01-26T12:33:11.000Z",
-      "ranking": 5.859839089737715,
+      "ranking": 5.439737918899173,
       "articleUrl": "https://www.theverge.com/news/867898/openai-chatgpt-ad-pricing"
     },
     {
@@ -139,7 +287,7 @@
         }
       ],
       "publishedAt": "2026-01-26T15:57:08.000Z",
-      "ranking": 5.487434061951127,
+      "ranking": 5.115138262071075,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/867947/openai-president-greg-brockman-trump-super-pac"
     },
     {
@@ -174,7 +322,7 @@
         }
       ],
       "publishedAt": "2026-01-26T12:32:17.000Z",
-      "ranking": 5.0923883825477745,
+      "ranking": 4.672076260219293,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/867874/stripe-visa-mastercard-amex-csam-grok"
     },
     {
@@ -209,7 +357,7 @@
         }
       ],
       "publishedAt": "2026-01-25T22:08:15.000Z",
-      "ranking": 4.484266752080613,
+      "ranking": 3.861427398808422,
       "articleUrl": "https://www.marktechpost.com/2026/01/25/stepfun-ai-introduce-step-deepresearch-a-cost-effective-deep-research-agent-model-built-around-atomic-capabilities/"
     },
     {
@@ -825,6 +973,41 @@
       "articleUrl": "https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt"
     },
     {
+      "id": "766",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Shorts",
+      "mediumTitle": "YouTube: AI Creator Tools",
+      "longTitle": "YouTube to Allow AI Versions of Creators in Shorts",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Creators will be able to utilize AI to",
+            "generate versions of themselves for use",
+            "specifically within YouTube Shorts.",
+            "The introduction of this feature is",
+            "likely to result in a greater volume of",
+            "AI-generated content on the Shorts feed.",
+            "This AI-generated content will primarily",
+            "originate from established creators on",
+            "the YouTube platform.",
+            "Neal Mohan, the CEO of YouTube, made the",
+            "announcement regarding the AI-powered",
+            "Shorts feature.",
+            "The release timeframe for this new",
+            "feature is currently set for sometime",
+            "later in the current year.",
+            "YouTube is aiming to empower creators",
+            "with new tools to facilitate content",
+            "creation."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-21T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026"
+    },
+    {
       "id": "767",
       "topic": "News",
       "source": "The Verge AI",
@@ -859,41 +1042,6 @@
       "publishedAt": "2026-01-21T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/864811/adobe-acrobat-studio-generate-podcast-presentation"
-    },
-    {
-      "id": "766",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Shorts",
-      "mediumTitle": "YouTube: AI Creator Tools",
-      "longTitle": "YouTube to Allow AI Versions of Creators in Shorts",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Creators will be able to utilize AI to",
-            "generate versions of themselves for use",
-            "specifically within YouTube Shorts.",
-            "The introduction of this feature is",
-            "likely to result in a greater volume of",
-            "AI-generated content on the Shorts feed.",
-            "This AI-generated content will primarily",
-            "originate from established creators on",
-            "the YouTube platform.",
-            "Neal Mohan, the CEO of YouTube, made the",
-            "announcement regarding the AI-powered",
-            "Shorts feature.",
-            "The release timeframe for this new",
-            "feature is currently set for sometime",
-            "later in the current year.",
-            "YouTube is aiming to empower creators",
-            "with new tools to facilitate content",
-            "creation."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-21T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026"
     },
     {
       "id": "763",
@@ -964,112 +1112,6 @@
       "publishedAt": "2026-01-21T06:58:15.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills"
-    },
-    {
-      "id": "760",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "LFM2.5-1.2B",
-      "mediumTitle": "Liquid AI\u0027s Reasoning Model",
-      "longTitle": "On-Device Reasoning with LFM2.5-1.2B-Thinking",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Liquid AI recently released",
-            "LFM2.5-1.2B-Thinking, a new reasoning",
-            "model.",
-            "A key advantage of LFM2.5-1.2B-Thinking",
-            "is its ability to run locally on",
-            "devices.",
-            "The model boasts 1.2 billion parameters,",
-            "enabling complex reasoning tasks.",
-            "It requires approximately 900 MB of",
-            "storage space on modern smartphones.",
-            "Just two years ago, similar reasoning",
-            "capabilities demanded substantial data",
-            "center resources.",
-            "LFM2.5-1.2B-Thinking excels in areas",
-            "like structured reasoning and tool",
-            "utilization.",
-            "The model is not intended for general",
-            "language tasks, but rather specialized",
-            "reasoning."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-21T04:43:22.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/20/liquid-ai-releases-lfm2-5-1-2b-thinking-a-1-2b-parameter-reasoning-model-that-fits-under-1-gb-on-device/"
-    },
-    {
-      "id": "759",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "GLM-4.7-Flash",
-      "mediumTitle": "Zhipu AI Releases New Model",
-      "longTitle": "Zhipu AI Launches GLM-4.7-Flash for Local Use",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Zhipu AI\u0027s claim of superior performance",
-            "within the 30B parameter class positions",
-            "GLM-4.7-Flash as a competitive option.",
-            "The release of GLM-4.7-Flash addresses",
-            "the need for high-performance AI models",
-            "that can run effectively on local",
-            "machines.",
-            "The model\u0027s coding and reasoning",
-            "capabilities are intended to assist",
-            "developers in various software",
-            "development tasks.",
-            "GLM-4.7-Flash is designed for",
-            "lightweight deployment, making it",
-            "suitable for a wider range of",
-            "applications.",
-            "Developers can leverage GLM-4.7-Flash",
-            "without relying on extensive cloud",
-            "resources."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-20T20:54:29.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/20/zhipu-ai-releases-glm-4-7-flash-a-30b-a3b-moe-model-for-efficient-local-coding-and-agents/"
-    },
-    {
-      "id": "755",
-      "topic": "Speech, NLP, Training Tricks",
-      "source": "Marktechpost AI",
-      "shortTitle": "Streaming Agent",
-      "mediumTitle": "Building a Voice Agent",
-      "longTitle": "Constructing a Low-Latency Voice Agent",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Explicit latency tracking is implemented",
-            "throughout the entire process.",
-            "Maintaining a responsive conversational",
-            "experience is a primary design",
-            "consideration.",
-            "The tutorial emphasizes working within",
-            "defined latency constraints.",
-            "Streaming speech recognition (ASR) is a",
-            "key component of the agent\u0027s",
-            "architecture.",
-            "Incremental language model (LLM)",
-            "reasoning is used to process the",
-            "recognized speech.",
-            "The tutorial provides details on",
-            "constructing a fully streaming voice",
-            "agent.",
-            "The agent concludes by generating",
-            "streamed text-to-speech (TTS) output."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-20T05:24:05.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/19/how-to-design-a-fully-streaming-voice-agent-with-end-to-end-latency-budgets-incremental-asr-llm-streaming-and-real-time-tts/"
     }
   ]
 }
