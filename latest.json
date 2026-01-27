@@ -37,6 +37,42 @@
       "articleUrl": "https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation"
     },
     {
+      "id": "797",
+      "topic": "Hardware",
+      "source": "The Verge AI",
+      "shortTitle": "MSFT Maia 2",
+      "mediumTitle": "Microsoft\u0027s New AI Chip",
+      "longTitle": "Microsoft Unveils Maia 200 AI Accelerator",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft\u2019s Maia 200 is designed to",
+            "compete with AI accelerators developed",
+            "by Amazon (Trainium) and Google (TPU).",
+            "The chip is specifically engineered for",
+            "AI workloads, allowing Microsoft to",
+            "optimize its AI infrastructure.",
+            "The Maia 200 delivers three times the",
+            "FP4 (single-precision floating-point)",
+            "performance compared to Amazon\u2019s",
+            "third-generation Trainium chip.",
+            "Furthermore, it achieves FP8 (8-bit",
+            "floating-point) performance exceeding",
+            "that of Google\u2019s seventh-generation TPU.",
+            "By developing its own AI chips,",
+            "Microsoft aims to gain greater control",
+            "over its AI hardware and software stack.",
+            "The chip is manufactured using TSMC\u2019s",
+            "advanced 3nm process technology, a key",
+            "factor in its performance capabilities."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-26T12:00:00.000Z",
+      "ranking": 6.089835286790608,
+      "articleUrl": "https://www.theverge.com/news/867670/microsoft-maia-200-ai-chip-announcement"
+    },
+    {
       "id": "795",
       "topic": "News",
       "source": "The Verge AI",
@@ -68,7 +104,7 @@
         }
       ],
       "publishedAt": "2026-01-26T12:33:11.000Z",
-      "ranking": 7.2059999999999995,
+      "ranking": 5.859839089737715,
       "articleUrl": "https://www.theverge.com/news/867898/openai-chatgpt-ad-pricing"
     },
     {
@@ -103,44 +139,8 @@
         }
       ],
       "publishedAt": "2026-01-26T15:57:08.000Z",
-      "ranking": 6.5249999999999995,
+      "ranking": 5.487434061951127,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/867947/openai-president-greg-brockman-trump-super-pac"
-    },
-    {
-      "id": "797",
-      "topic": "Hardware",
-      "source": "The Verge AI",
-      "shortTitle": "MSFT Maia 2",
-      "mediumTitle": "Microsoft\u0027s New AI Chip",
-      "longTitle": "Microsoft Unveils Maia 200 AI Accelerator",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft\u2019s Maia 200 is designed to",
-            "compete with AI accelerators developed",
-            "by Amazon (Trainium) and Google (TPU).",
-            "The chip is specifically engineered for",
-            "AI workloads, allowing Microsoft to",
-            "optimize its AI infrastructure.",
-            "The Maia 200 delivers three times the",
-            "FP4 (single-precision floating-point)",
-            "performance compared to Amazon\u2019s",
-            "third-generation Trainium chip.",
-            "Furthermore, it achieves FP8 (8-bit",
-            "floating-point) performance exceeding",
-            "that of Google\u2019s seventh-generation TPU.",
-            "By developing its own AI chips,",
-            "Microsoft aims to gain greater control",
-            "over its AI hardware and software stack.",
-            "The chip is manufactured using TSMC\u2019s",
-            "advanced 3nm process technology, a key",
-            "factor in its performance capabilities."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-26T12:00:00.000Z",
-      "ranking": 6.459477901478319,
-      "articleUrl": "https://www.theverge.com/news/867670/microsoft-maia-200-ai-chip-announcement"
     },
     {
       "id": "796",
@@ -174,7 +174,7 @@
         }
       ],
       "publishedAt": "2026-01-26T12:32:17.000Z",
-      "ranking": 6.44,
+      "ranking": 5.0923883825477745,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/867874/stripe-visa-mastercard-amex-csam-grok"
     },
     {
@@ -209,7 +209,7 @@
         }
       ],
       "publishedAt": "2026-01-25T22:08:15.000Z",
-      "ranking": 5.048145804300523,
+      "ranking": 4.484266752080613,
       "articleUrl": "https://www.marktechpost.com/2026/01/25/stepfun-ai-introduce-step-deepresearch-a-cost-effective-deep-research-agent-model-built-around-atomic-capabilities/"
     },
     {
@@ -1070,76 +1070,6 @@
       "publishedAt": "2026-01-20T05:24:05.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/19/how-to-design-a-fully-streaming-voice-agent-with-end-to-end-latency-budgets-incremental-asr-llm-streaming-and-real-time-tts/"
-    },
-    {
-      "id": "756",
-      "topic": "Large Models, NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "OptiMind AI",
-      "mediumTitle": "Microsoft\u0027s OptiMind",
-      "longTitle": "AI Translates Language to Math Models",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft Research introduced OptiMind,",
-            "a 20 billion parameter model.",
-            "Traditionally, formulating these",
-            "mathematical models has been a",
-            "time-consuming and expert-driven task.",
-            "OptiMind bridges the gap between natural",
-            "language problem descriptions and",
-            "execution-ready optimization solvers.",
-            "The system focuses on creating mixed",
-            "integer linear programs (MILPs).",
-            "This technology is intended to",
-            "streamline operations research",
-            "workflows.",
-            "The core functionality of OptiMind is",
-            "the translation process itself.",
-            "Details beyond this core functionality",
-            "are currently limited."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-20T05:06:43.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/19/microsoft-research-releases-optimind-a-20b-parameter-model-that-turns-natural-language-into-solver-ready-optimization-models/"
-    },
-    {
-      "id": "757",
-      "topic": "Large Models",
-      "source": "VentureBeat AI",
-      "shortTitle": "AI Coding",
-      "mediumTitle": "Claude vs Goose AI",
-      "longTitle": "AI Coding Agents: Claude \u0026 Goose",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Goose provides complete data control and",
-            "offline capabilities, as all processing",
-            "happens locally.",
-            "Developers have expressed frustration",
-            "with the ambiguity surrounding Claude",
-            "Code\u0027s usage limits and their impact on",
-            "coding tasks.",
-            "While Goose doesn\u0027t match Claude Code in",
-            "model quality or speed, it offers a",
-            "compelling alternative for",
-            "cost-conscious developers.",
-            "Goose operates as a command-line tool or",
-            "desktop application, capable of",
-            "autonomously performing tasks like code",
-            "creation and debugging.",
-            "Anthropic defends Claude Code\u0027s pricing",
-            "by stating it targets heavy users,",
-            "representing less than 5% of its user",
-            "base."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-19T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/technology/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
     }
   ]
 }
