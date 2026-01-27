@@ -37,42 +37,6 @@
       "articleUrl": "https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation"
     },
     {
-      "id": "797",
-      "topic": "Hardware",
-      "source": "The Verge AI",
-      "shortTitle": "MSFT Maia 2",
-      "mediumTitle": "Microsoft\u0027s New AI Chip",
-      "longTitle": "Microsoft Unveils Maia 200 AI Accelerator",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft\u2019s Maia 200 is designed to",
-            "compete with AI accelerators developed",
-            "by Amazon (Trainium) and Google (TPU).",
-            "The chip is specifically engineered for",
-            "AI workloads, allowing Microsoft to",
-            "optimize its AI infrastructure.",
-            "The Maia 200 delivers three times the",
-            "FP4 (single-precision floating-point)",
-            "performance compared to Amazon\u2019s",
-            "third-generation Trainium chip.",
-            "Furthermore, it achieves FP8 (8-bit",
-            "floating-point) performance exceeding",
-            "that of Google\u2019s seventh-generation TPU.",
-            "By developing its own AI chips,",
-            "Microsoft aims to gain greater control",
-            "over its AI hardware and software stack.",
-            "The chip is manufactured using TSMC\u2019s",
-            "advanced 3nm process technology, a key",
-            "factor in its performance capabilities."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-26T12:00:00.000Z",
-      "ranking": 7.49,
-      "articleUrl": "https://www.theverge.com/news/867670/microsoft-maia-200-ai-chip-announcement"
-    },
-    {
       "id": "795",
       "topic": "News",
       "source": "The Verge AI",
@@ -143,6 +107,42 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/867947/openai-president-greg-brockman-trump-super-pac"
     },
     {
+      "id": "797",
+      "topic": "Hardware",
+      "source": "The Verge AI",
+      "shortTitle": "MSFT Maia 2",
+      "mediumTitle": "Microsoft\u0027s New AI Chip",
+      "longTitle": "Microsoft Unveils Maia 200 AI Accelerator",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft\u2019s Maia 200 is designed to",
+            "compete with AI accelerators developed",
+            "by Amazon (Trainium) and Google (TPU).",
+            "The chip is specifically engineered for",
+            "AI workloads, allowing Microsoft to",
+            "optimize its AI infrastructure.",
+            "The Maia 200 delivers three times the",
+            "FP4 (single-precision floating-point)",
+            "performance compared to Amazon\u2019s",
+            "third-generation Trainium chip.",
+            "Furthermore, it achieves FP8 (8-bit",
+            "floating-point) performance exceeding",
+            "that of Google\u2019s seventh-generation TPU.",
+            "By developing its own AI chips,",
+            "Microsoft aims to gain greater control",
+            "over its AI hardware and software stack.",
+            "The chip is manufactured using TSMC\u2019s",
+            "advanced 3nm process technology, a key",
+            "factor in its performance capabilities."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-26T12:00:00.000Z",
+      "ranking": 6.459477901478319,
+      "articleUrl": "https://www.theverge.com/news/867670/microsoft-maia-200-ai-chip-announcement"
+    },
+    {
       "id": "796",
       "topic": "Ethics, Security, Policy",
       "source": "The Verge AI",
@@ -209,7 +209,7 @@
         }
       ],
       "publishedAt": "2026-01-25T22:08:15.000Z",
-      "ranking": 5.545962115608215,
+      "ranking": 5.048145804300523,
       "articleUrl": "https://www.marktechpost.com/2026/01/25/stepfun-ai-introduce-step-deepresearch-a-cost-effective-deep-research-agent-model-built-around-atomic-capabilities/"
     },
     {
