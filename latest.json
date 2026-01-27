@@ -38,6 +38,43 @@
       "articleUrl": "https://www.theverge.com/news/868497/google-ai-search-follow-up-questions-gemini-3"
     },
     {
+      "id": "812",
+      "topic": "Frameworks",
+      "source": "Marktechpost AI",
+      "shortTitle": "DSGym",
+      "mediumTitle": "DSGym: Data Science Agents",
+      "longTitle": "Stanford \u0026 Partners Launch DSGym Framework",
+      "paragraphs": [
+        {
+          "Lines": [
+            "DSGym is a new framework developed by",
+            "researchers from Stanford University,",
+            "Together AI, Duke University, and",
+            "Harvard University.",
+            "The framework is specifically designed",
+            "for evaluating and training data science",
+            "agents.",
+            "These agents are capable of inspecting",
+            "datasets, designing workflows, executing",
+            "code, and providing verifiable answers.",
+            "The framework provides a platform for",
+            "benchmarking agents across a large",
+            "collection of over 1,000 data science",
+            "challenges.",
+            "DSGym distinguishes itself from tools",
+            "focused on simple code completion, like",
+            "those used with Pandas.",
+            "Each challenge is accompanied by",
+            "expert-curated ground truth solutions,",
+            "ensuring reliable evaluation."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-27T20:52:41.000Z",
+      "ranking": 7.264999999999999,
+      "articleUrl": "https://www.marktechpost.com/2026/01/27/dsgym-offers-a-reusable-container-based-substrate-for-building-and-benchmarking-data-science-agents/"
+    },
+    {
       "id": "808",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -73,6 +110,76 @@
       "publishedAt": "2026-01-27T12:26:34.000Z",
       "ranking": 7.264999999999999,
       "articleUrl": "https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores"
+    },
+    {
+      "id": "813",
+      "topic": "NLP",
+      "source": "Marktechpost AI",
+      "shortTitle": "Tree-KG",
+      "mediumTitle": "Hierarchical Knowledge Graph",
+      "longTitle": "Tree-KG: Improving RAG with Knowledge Graphs",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The system is designed to improve upon",
+            "traditional Retrieval-Augmented",
+            "Generation (RAG) methods.",
+            "Conventional RAG approaches are",
+            "surpassed by the capabilities of",
+            "Tree-KG, according to the article.",
+            "The system supports explainable",
+            "multi-hop reasoning, allowing users to",
+            "understand the logic behind its",
+            "conclusions.",
+            "Tree-KG enables contextual navigation",
+            "through the knowledge base.",
+            "Knowledge is organized in a tree-like",
+            "hierarchy within Tree-KG.",
+            "Tree-KG is presented as a tutorial,",
+            "detailing its implementation and",
+            "advantages."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-27T20:24:27.000Z",
+      "ranking": 7.25,
+      "articleUrl": "https://www.marktechpost.com/2026/01/27/how-tree-kg-enables-hierarchical-knowledge-graphs-for-contextual-navigation-and-explainable-multi-hop-reasoning-beyond-traditional-rag/"
+    },
+    {
+      "id": "811",
+      "topic": "Energy",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Storm",
+      "mediumTitle": "Storm Exposes Grid Strain",
+      "longTitle": "Winter Storm Highlights AI Power Demand",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Existing power infrastructure is",
+            "struggling to keep up with the rapidly",
+            "growing energy needs of AI",
+            "infrastructure.",
+            "The increased demand from AI data",
+            "centers is particularly problematic",
+            "during extreme weather events.",
+            "The storm acted as a stress test for",
+            "power grids, revealing weaknesses in",
+            "their ability to handle peak demand.",
+            "The situation highlights a growing",
+            "concern about the capacity of the power",
+            "grid to support future AI development.",
+            "AI data centers require substantial and",
+            "consistent power, adding to the",
+            "challenges faced by the grid.",
+            "The recent winter storm impacted a large",
+            "portion of the United States, affecting",
+            "34 states in total."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-27T18:28:58.000Z",
+      "ranking": 7.200000000000001,
+      "articleUrl": "https://www.theverge.com/report/868859/electricity-rates-power-grid-ai-data-center-winter-storm"
     },
     {
       "id": "804",
@@ -181,7 +288,7 @@
         }
       ],
       "publishedAt": "2026-01-26T18:47:34.000Z",
-      "ranking": 6.639015487656502,
+      "ranking": 6.258433916344611,
       "articleUrl": "https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation"
     },
     {
@@ -217,7 +324,7 @@
         }
       ],
       "publishedAt": "2026-01-26T12:00:00.000Z",
-      "ranking": 5.661955631986197,
+      "ranking": 5.187840320238637,
       "articleUrl": "https://www.theverge.com/news/867670/microsoft-maia-200-ai-chip-announcement"
     },
     {
@@ -252,7 +359,7 @@
         }
       ],
       "publishedAt": "2026-01-26T12:33:11.000Z",
-      "ranking": 5.439737918899173,
+      "ranking": 4.97323744783624,
       "articleUrl": "https://www.theverge.com/news/867898/openai-chatgpt-ad-pricing"
     },
     {
@@ -287,7 +394,7 @@
         }
       ],
       "publishedAt": "2026-01-26T15:57:08.000Z",
-      "ranking": 5.115138262071075,
+      "ranking": 4.6954429508147815,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/867947/openai-president-greg-brockman-trump-super-pac"
     },
     {
@@ -322,7 +429,7 @@
         }
       ],
       "publishedAt": "2026-01-26T12:32:17.000Z",
-      "ranking": 4.672076260219293,
+      "ranking": 4.20536923523059,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/867874/stripe-visa-mastercard-amex-csam-grok"
     },
     {
@@ -357,7 +464,7 @@
         }
       ],
       "publishedAt": "2026-01-25T22:08:15.000Z",
-      "ranking": 3.861427398808422,
+      "ranking": 3.196430471579631,
       "articleUrl": "https://www.marktechpost.com/2026/01/25/stepfun-ai-introduce-step-deepresearch-a-cost-effective-deep-research-agent-model-built-around-atomic-capabilities/"
     },
     {
@@ -1078,40 +1185,6 @@
       "publishedAt": "2026-01-21T09:55:38.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/salesforce-ai-introduces-fofpred-a-language-driven-future-optical-flow-prediction-framework-that-enables-improved-robot-control-and-video-generation/"
-    },
-    {
-      "id": "761",
-      "topic": "AI Ops",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI Pledge",
-      "mediumTitle": "OpenAI Addresses Utility Costs",
-      "longTitle": "OpenAI Commits to Infrastructure \u0026 Water Use",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Specifically, OpenAI pledges to ensure",
-            "its operations do not lead to increased",
-            "electricity costs for others.",
-            "OpenAI has announced commitments to",
-            "cover the costs of energy infrastructure",
-            "upgrades required to power its data",
-            "centers and to minimize water usage.",
-            "This will be achieved by paying for",
-            "necessary energy infrastructure",
-            "improvements.",
-            "The company is responding to increasing",
-            "concerns about the impact of AI projects",
-            "on local utilities and costs.",
-            "OpenAI is addressing sustainability",
-            "concerns surrounding the energy and",
-            "resource demands of large-scale AI",
-            "development."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-21T06:58:15.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills"
     }
   ]
 }
