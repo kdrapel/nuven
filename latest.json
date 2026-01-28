@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "820",
+      "topic": "Generative AI, NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Chrome AI",
+      "mediumTitle": "Chrome Gains AI Browse",
+      "longTitle": "Google Chrome Adds AI-Powered Auto Browse",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google is introducing an \u201Cauto browse\u201D",
+            "feature to its Chrome browser, powered",
+            "by the Gemini AI model.",
+            "This capability is designed to",
+            "autonomously complete complex,",
+            "multi-step tasks for users.",
+            "Gemini navigates the web as a human",
+            "would to achieve a specified goal.",
+            "This goes beyond simple information",
+            "retrieval, actively engaging with web",
+            "pages.",
+            "Auto browse can handle tasks such as",
+            "researching travel options, including",
+            "hotel and flight costs.",
+            "The feature also manages scheduling",
+            "appointments and completing online",
+            "forms.",
+            "Access is restricted to subscribers of",
+            "Google AI Pro and Ultra plans."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-28T17:32:07.000Z",
+      "ranking": 8.08,
+      "articleUrl": "https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse"
+    },
+    {
       "id": "818",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -109,41 +145,39 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/27/moonshot-ai-releases-kimi-k2-5-an-open-source-visual-agentic-intelligence-model-with-native-swarm-execution/"
     },
     {
-      "id": "812",
-      "topic": "Frameworks",
-      "source": "Marktechpost AI",
-      "shortTitle": "DSGym",
-      "mediumTitle": "DSGym: Data Science Agents",
-      "longTitle": "Stanford \u0026 Partners Launch DSGym Framework",
+      "id": "821",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Slop Ban",
+      "mediumTitle": "YouTube Removes AI Content",
+      "longTitle": "YouTube Cracks Down on \u0027AI Slop\u0027 Channels",
       "paragraphs": [
         {
           "Lines": [
-            "DSGym is a new framework developed by",
-            "researchers from Stanford University,",
-            "Together AI, Duke University, and",
-            "Harvard University.",
-            "The framework is specifically designed",
-            "for evaluating and training data science",
-            "agents.",
-            "These agents are capable of inspecting",
-            "datasets, designing workflows, executing",
-            "code, and providing verifiable answers.",
-            "The framework provides a platform for",
-            "benchmarking agents across a large",
-            "collection of over 1,000 data science",
-            "challenges.",
-            "DSGym distinguishes itself from tools",
-            "focused on simple code completion, like",
-            "those used with Pandas.",
-            "Each challenge is accompanied by",
-            "expert-curated ground truth solutions,",
-            "ensuring reliable evaluation."
+            "YouTube has removed several channels",
+            "dedicated to \u0027AI slop\u0027 content,",
+            "signaling a change in platform policy.",
+            "Kapwing first reported the removal of",
+            "CuentosFacianantes, highlighting the",
+            "impact of the action.",
+            "CuentosFacianantes had amassed a",
+            "significant following with 5.9 million",
+            "subscribers.",
+            "The channel also garnered an impressive",
+            "1.2 billion views before its removal.",
+            "The report detailing these removals is",
+            "dated November 2025, indicating the",
+            "action occurred around that time.",
+            "The full scope of YouTube\u0027s crackdown on",
+            "\u0027AI slop\u0027 channels is currently unknown.",
+            "AI slop content is characterized by its",
+            "rapid generation and low creative input."
           ]
         }
       ],
-      "publishedAt": "2026-01-27T20:52:41.000Z",
-      "ranking": 7.264999999999999,
-      "articleUrl": "https://www.marktechpost.com/2026/01/27/dsgym-offers-a-reusable-container-based-substrate-for-building-and-benchmarking-data-science-agents/"
+      "publishedAt": "2026-01-28T16:47:25.000Z",
+      "ranking": 7.300000000000001,
+      "articleUrl": "https://www.theverge.com/news/869684/youtube-top-ai-channels-removed-kapwing"
     },
     {
       "id": "819",
@@ -215,8 +249,45 @@
         }
       ],
       "publishedAt": "2026-01-27T19:53:53.000Z",
-      "ranking": 6.476741099578838,
+      "ranking": 6.111910991458673,
       "articleUrl": "https://www.theverge.com/news/869008/meta-data-centers-ad-campaign"
+    },
+    {
+      "id": "812",
+      "topic": "Frameworks",
+      "source": "Marktechpost AI",
+      "shortTitle": "DSGym",
+      "mediumTitle": "DSGym: Data Science Agents",
+      "longTitle": "Stanford \u0026 Partners Launch DSGym Framework",
+      "paragraphs": [
+        {
+          "Lines": [
+            "DSGym is a new framework developed by",
+            "researchers from Stanford University,",
+            "Together AI, Duke University, and",
+            "Harvard University.",
+            "The framework is specifically designed",
+            "for evaluating and training data science",
+            "agents.",
+            "These agents are capable of inspecting",
+            "datasets, designing workflows, executing",
+            "code, and providing verifiable answers.",
+            "The framework provides a platform for",
+            "benchmarking agents across a large",
+            "collection of over 1,000 data science",
+            "challenges.",
+            "DSGym distinguishes itself from tools",
+            "focused on simple code completion, like",
+            "those used with Pandas.",
+            "Each challenge is accompanied by",
+            "expert-curated ground truth solutions,",
+            "ensuring reliable evaluation."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-27T20:52:41.000Z",
+      "ranking": 5.952151682904502,
+      "articleUrl": "https://www.marktechpost.com/2026/01/27/dsgym-offers-a-reusable-container-based-substrate-for-building-and-benchmarking-data-science-agents/"
     },
     {
       "id": "813",
@@ -249,7 +320,7 @@
         }
       ],
       "publishedAt": "2026-01-27T20:24:27.000Z",
-      "ranking": 6.249652750649057,
+      "ranking": 5.891837212455618,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/how-tree-kg-enables-hierarchical-knowledge-graphs-for-contextual-navigation-and-explainable-multi-hop-reasoning-beyond-traditional-rag/"
     },
     {
@@ -285,7 +356,7 @@
         }
       ],
       "publishedAt": "2026-01-27T18:28:58.000Z",
-      "ranking": 6.032799863425995,
+      "ranking": 5.648482694555971,
       "articleUrl": "https://www.theverge.com/report/868859/electricity-rates-power-grid-ai-data-center-winter-storm"
     },
     {
@@ -322,7 +393,7 @@
         }
       ],
       "publishedAt": "2026-01-27T13:00:00.000Z",
-      "ranking": 5.88699165956279,
+      "ranking": 5.4271817546109995,
       "articleUrl": "https://www.theverge.com/news/868497/google-ai-search-follow-up-questions-gemini-3"
     },
     {
@@ -359,7 +430,7 @@
         }
       ],
       "publishedAt": "2026-01-27T12:26:34.000Z",
-      "ranking": 5.4906773263806015,
+      "ranking": 5.0231949899683075,
       "articleUrl": "https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores"
     },
     {
@@ -396,7 +467,7 @@
         }
       ],
       "publishedAt": "2026-01-27T08:44:01.000Z",
-      "ranking": 4.965063100967672,
+      "ranking": 4.446508998609587,
       "articleUrl": "https://www.theverge.com/news/868510/google-photos-image-to-video-text-prompt-support"
     },
     {
@@ -433,7 +504,7 @@
         }
       ],
       "publishedAt": "2026-01-27T10:06:25.000Z",
-      "ranking": 4.611920183539345,
+      "ranking": 4.112275598179189,
       "articleUrl": "https://www.theverge.com/news/868531/pinterest-layoffs-cuts-15-percent-ai-transformation"
     },
     {
@@ -469,7 +540,7 @@
         }
       ],
       "publishedAt": "2026-01-26T18:47:34.000Z",
-      "ranking": 3.507453341022088,
+      "ranking": 2.7969469638890523,
       "articleUrl": "https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation"
     },
     {
@@ -505,43 +576,8 @@
         }
       ],
       "publishedAt": "2026-01-26T12:00:00.000Z",
-      "ranking": 1.9652150084200537,
+      "ranking": 1.1611784149617383,
       "articleUrl": "https://www.theverge.com/news/867670/microsoft-maia-200-ai-chip-announcement"
-    },
-    {
-      "id": "795",
-      "topic": "News",
-      "source": "The Verge AI",
-      "shortTitle": "ChatGPT Ads",
-      "mediumTitle": "OpenAI Plans ChatGPT Ads",
-      "longTitle": "OpenAI Exploring Premium ChatGPT Advertising",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Unlike Google and Meta, OpenAI will not",
-            "provide advertisers with data on",
-            "post-view user engagement.",
-            "OpenAI is currently exploring options",
-            "for integrating advertising into its",
-            "popular ChatGPT chatbot.",
-            "The lack of detailed performance data",
-            "could make it more challenging for",
-            "advertisers to optimize their campaigns",
-            "on ChatGPT.",
-            "Advertisers typically rely on metrics",
-            "like click-through rates and conversion",
-            "rates to evaluate ad performance.",
-            "The $60 CPM rate suggests OpenAI is",
-            "positioning ChatGPT ads as a high-value",
-            "opportunity for advertisers.",
-            "The higher CPM could compensate for the",
-            "limited data provided to advertisers."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-26T12:33:11.000Z",
-      "ranking": 1.7890123093482622,
-      "articleUrl": "https://www.theverge.com/news/867898/openai-chatgpt-ad-pricing"
     },
     {
       "id": "800",
@@ -575,8 +611,43 @@
         }
       ],
       "publishedAt": "2026-01-26T15:57:08.000Z",
-      "ranking": 1.7472330431128045,
+      "ranking": 0.9976148131855105,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/867947/openai-president-greg-brockman-trump-super-pac"
+    },
+    {
+      "id": "795",
+      "topic": "News",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT Ads",
+      "mediumTitle": "OpenAI Plans ChatGPT Ads",
+      "longTitle": "OpenAI Exploring Premium ChatGPT Advertising",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Unlike Google and Meta, OpenAI will not",
+            "provide advertisers with data on",
+            "post-view user engagement.",
+            "OpenAI is currently exploring options",
+            "for integrating advertising into its",
+            "popular ChatGPT chatbot.",
+            "The lack of detailed performance data",
+            "could make it more challenging for",
+            "advertisers to optimize their campaigns",
+            "on ChatGPT.",
+            "Advertisers typically rely on metrics",
+            "like click-through rates and conversion",
+            "rates to evaluate ad performance.",
+            "The $60 CPM rate suggests OpenAI is",
+            "positioning ChatGPT ads as a high-value",
+            "opportunity for advertisers.",
+            "The higher CPM could compensate for the",
+            "limited data provided to advertisers."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-26T12:33:11.000Z",
+      "ranking": 0.9925906860177269,
+      "articleUrl": "https://www.theverge.com/news/867898/openai-chatgpt-ad-pricing"
     },
     {
       "id": "796",
@@ -610,7 +681,7 @@
         }
       ],
       "publishedAt": "2026-01-26T12:32:17.000Z",
-      "ranking": 1.0201025884744164,
+      "ranking": 0.22347444401432703,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/867874/stripe-visa-mastercard-amex-csam-grok"
     },
     {
@@ -1080,149 +1151,6 @@
       "publishedAt": "2026-01-22T03:22:16.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/21/flashlabs-researchers-release-chroma-1-0-a-4b-real-time-speech-dialogue-model-with-personalized-voice-cloning/"
-    },
-    {
-      "id": "774",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Copyright",
-      "mediumTitle": "Artists Protest AI Use",
-      "longTitle": "AI Training Data Sparks Copyright Debate",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The central issue is the use of creative",
-            "works to train AI models without",
-            "obtaining permission from, or providing",
-            "compensation to, the original creators.",
-            "The signatories believe that AI",
-            "companies are unfairly profiting from",
-            "their work without proper",
-            "acknowledgement or remuneration.",
-            "The campaign\u2019s title, \u0022Stealing Isn\u0027t",
-            "Innovation,\u0022 directly frames the",
-            "practice as unethical and harmful to",
-            "artists.",
-            "Approximately 800 individuals have",
-            "signed the campaign, demonstrating broad",
-            "concern within the creative community.",
-            "R.E.M. is a critically acclaimed and",
-            "influential rock band that achieved",
-            "significant commercial success."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-22T01:01:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists"
-    },
-    {
-      "id": "773",
-      "topic": "Speech",
-      "source": "Marktechpost AI",
-      "shortTitle": "Inworld TTS",
-      "mediumTitle": "Inworld AI TTS-1.5",
-      "longTitle": "Inworld AI Releases TTS-1.5 Voice Agent System",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Inworld AI has released TTS-1.5, an",
-            "updated version of its TTS-1",
-            "text-to-speech (TTS) system.",
-            "This new version is specifically",
-            "designed for real-time voice agents.",
-            "TTS-1.5 focuses on achieving low",
-            "latency, high quality, and",
-            "cost-effectiveness.",
-            "According to Artificial Analysis,",
-            "TTS-1.5 is currently the top-ranked TTS",
-            "system.",
-            "It aims to be more expressive than",
-            "previous versions in the TTS-1 family.",
-            "The system also strives for improved",
-            "stability compared to earlier TTS-1",
-            "iterations.",
-            "TTS-1.5 represents an advancement in",
-            "Inworld AI\u0027s voice technology offerings."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-22T00:23:42.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/21/inworld-ai-releases-tts-1-5-for-realtime-production-grade-voice-agents/"
-    },
-    {
-      "id": "769",
-      "topic": "Robotics",
-      "source": "The Verge AI",
-      "shortTitle": "Apple AI Pin",
-      "mediumTitle": "Apple Develops AI Wearable",
-      "longTitle": "Apple\u0027s New AI-Powered Wearable Device",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Apple is currently developing a small,",
-            "AI-powered wearable device, internally",
-            "referred to as an \u201CAI pin\u201D.",
-            "The core function of the AI pin is to",
-            "capture the user\u2019s surroundings using",
-            "integrated cameras.",
-            "The device aims to record and analyze",
-            "what the user sees and hears in",
-            "real-time.",
-            "Captured data is processed using",
-            "artificial intelligence algorithms.",
-            "Microphones are also integrated to",
-            "record audio from the user\u2019s",
-            "environment.",
-            "The AI pin is approximately the same",
-            "size as Apple\u2019s AirTag tracking device.",
-            "It effectively functions as a personal,",
-            "always-on recorder and contextual",
-            "awareness tool."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-21T17:43:27.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor"
-    },
-    {
-      "id": "770",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Claude AI Rules",
-      "mediumTitle": "Anthropic Updates Claude",
-      "longTitle": "Anthropic Revises Claude AI Principles",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Anthropic has significantly revised the",
-            "guiding principles for its Claude AI",
-            "model.",
-            "A key priority is avoiding actions that",
-            "could be detrimental to humanity.",
-            "The primary focus is on ensuring Claude",
-            "is helpful and honest in its responses.",
-            "The new guidelines are contained in a",
-            "57-page document titled \u0022Claude\u0027s",
-            "Constitution\u0022.",
-            "The \u0022constitution\u0022 serves as a direct",
-            "instruction set for the AI.",
-            "The update represents a significant",
-            "effort to refine the AI\u0027s ethical",
-            "framework.",
-            "The document details how the model",
-            "should navigate complex situations.",
-            "It also outlines how Claude should",
-            "balance potentially conflicting",
-            "objectives."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-21T16:36:18.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc"
     }
   ]
 }
