@@ -1,6 +1,43 @@
 {
   "articles": [
     {
+      "id": "817",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "HPC-Ops",
+      "mediumTitle": "Tencent Releases HPC-Ops",
+      "longTitle": "Tencent\u0027s Open-Source LLM Inference Library",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Tencent Hunyuan released HPC-Ops as an",
+            "open-source project.",
+            "The library is specifically designed for",
+            "high-performance large language model",
+            "(LLM) inference.",
+            "HPC-Ops provides low-level CUDA kernels",
+            "optimized for core operators essential",
+            "to LLM functionality.",
+            "These core operators include Attention,",
+            "Grouped GEMM (General Matrix",
+            "Multiplication), and Fused MoE (Mixture",
+            "of Experts).",
+            "The goal of HPC-Ops is to simplify",
+            "integration into existing LLM inference",
+            "stacks.",
+            "It exposes the optimized kernels through",
+            "compact-C and Python APIs.",
+            "This allows developers to utilize the",
+            "performance gains within their current",
+            "workflows."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-28T07:23:39.000Z",
+      "ranking": 7.625,
+      "articleUrl": "https://www.marktechpost.com/2026/01/27/tencent-hunyuan-releases-hpc-ops-a-high-performance-llm-inference-operator-library/"
+    },
+    {
       "id": "807",
       "topic": "Generative AI, NLP",
       "source": "The Verge AI",
@@ -360,7 +397,7 @@
         }
       ],
       "publishedAt": "2026-01-26T18:47:34.000Z",
-      "ranking": 5.816393353607571,
+      "ranking": 5.322523165628931,
       "articleUrl": "https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation"
     },
     {
@@ -396,7 +433,7 @@
         }
       ],
       "publishedAt": "2026-01-26T12:00:00.000Z",
-      "ranking": 4.65088112400205,
+      "ranking": 4.062886891381892,
       "articleUrl": "https://www.theverge.com/news/867670/microsoft-maia-200-ai-chip-announcement"
     },
     {
@@ -431,7 +468,7 @@
         }
       ],
       "publishedAt": "2026-01-26T12:33:11.000Z",
-      "ranking": 4.444006298396889,
+      "ranking": 3.863675417252447,
       "articleUrl": "https://www.theverge.com/news/867898/openai-chatgpt-ad-pricing"
     },
     {
@@ -466,7 +503,7 @@
         }
       ],
       "publishedAt": "2026-01-26T15:57:08.000Z",
-      "ranking": 4.213709930134636,
+      "ranking": 3.680479560470166,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/867947/openai-president-greg-brockman-trump-super-pac"
     },
     {
@@ -501,7 +538,7 @@
         }
       ],
       "publishedAt": "2026-01-26T12:32:17.000Z",
-      "ranking": 3.675928478639172,
+      "ranking": 3.095389747901861,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/867874/stripe-visa-mastercard-amex-csam-grok"
     },
     {
@@ -536,7 +573,7 @@
         }
       ],
       "publishedAt": "2026-01-25T22:08:15.000Z",
-      "ranking": 2.4657640770165203,
+      "ranking": 1.6856842205206615,
       "articleUrl": "https://www.marktechpost.com/2026/01/25/stepfun-ai-introduce-step-deepresearch-a-cost-effective-deep-research-agent-model-built-around-atomic-capabilities/"
     },
     {
