@@ -73,42 +73,6 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/27/tencent-hunyuan-releases-hpc-ops-a-high-performance-llm-inference-operator-library/"
     },
     {
-      "id": "814",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Meta Ads",
-      "mediumTitle": "Meta\u0027s Data Center Campaign",
-      "longTitle": "Meta Launches $6.4M Data Center Ad Campaign",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta launched a $6.4 million advertising",
-            "campaign in late 2025 to gain public",
-            "support for the construction of new data",
-            "centers.",
-            "Meta\u2019s strategy seems focused on",
-            "influencing public perception regarding",
-            "data center facilities.",
-            "The article emphasizes the substantial",
-            "financial investment Meta is making to",
-            "shape public opinion.",
-            "The campaign is targeting cities",
-            "nationwide, specifically mentioning",
-            "Sacramento and Washington.",
-            "The campaign aims to positively frame",
-            "data centers in the eyes of the public.",
-            "The core of the campaign consists of",
-            "short video spotlights designed to",
-            "highlight positive aspects of data",
-            "centers."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-27T19:53:53.000Z",
-      "ranking": 7.52,
-      "articleUrl": "https://www.theverge.com/news/869008/meta-data-centers-ad-campaign"
-    },
-    {
       "id": "816",
       "topic": "Large Models, Vision, NLP",
       "source": "Marktechpost AI",
@@ -182,76 +146,6 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/27/dsgym-offers-a-reusable-container-based-substrate-for-building-and-benchmarking-data-science-agents/"
     },
     {
-      "id": "813",
-      "topic": "NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "Tree-KG",
-      "mediumTitle": "Hierarchical Knowledge Graph",
-      "longTitle": "Tree-KG: Improving RAG with Knowledge Graphs",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The system is designed to improve upon",
-            "traditional Retrieval-Augmented",
-            "Generation (RAG) methods.",
-            "Conventional RAG approaches are",
-            "surpassed by the capabilities of",
-            "Tree-KG, according to the article.",
-            "The system supports explainable",
-            "multi-hop reasoning, allowing users to",
-            "understand the logic behind its",
-            "conclusions.",
-            "Tree-KG enables contextual navigation",
-            "through the knowledge base.",
-            "Knowledge is organized in a tree-like",
-            "hierarchy within Tree-KG.",
-            "Tree-KG is presented as a tutorial,",
-            "detailing its implementation and",
-            "advantages."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-27T20:24:27.000Z",
-      "ranking": 7.25,
-      "articleUrl": "https://www.marktechpost.com/2026/01/27/how-tree-kg-enables-hierarchical-knowledge-graphs-for-contextual-navigation-and-explainable-multi-hop-reasoning-beyond-traditional-rag/"
-    },
-    {
-      "id": "811",
-      "topic": "Energy",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Storm",
-      "mediumTitle": "Storm Exposes Grid Strain",
-      "longTitle": "Winter Storm Highlights AI Power Demand",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Existing power infrastructure is",
-            "struggling to keep up with the rapidly",
-            "growing energy needs of AI",
-            "infrastructure.",
-            "The increased demand from AI data",
-            "centers is particularly problematic",
-            "during extreme weather events.",
-            "The storm acted as a stress test for",
-            "power grids, revealing weaknesses in",
-            "their ability to handle peak demand.",
-            "The situation highlights a growing",
-            "concern about the capacity of the power",
-            "grid to support future AI development.",
-            "AI data centers require substantial and",
-            "consistent power, adding to the",
-            "challenges faced by the grid.",
-            "The recent winter storm impacted a large",
-            "portion of the United States, affecting",
-            "34 states in total."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-27T18:28:58.000Z",
-      "ranking": 7.200000000000001,
-      "articleUrl": "https://www.theverge.com/report/868859/electricity-rates-power-grid-ai-data-center-winter-storm"
-    },
-    {
       "id": "819",
       "topic": "Science",
       "source": "The Verge AI",
@@ -289,6 +183,112 @@
       "articleUrl": "https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives"
     },
     {
+      "id": "814",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Meta Ads",
+      "mediumTitle": "Meta\u0027s Data Center Campaign",
+      "longTitle": "Meta Launches $6.4M Data Center Ad Campaign",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta launched a $6.4 million advertising",
+            "campaign in late 2025 to gain public",
+            "support for the construction of new data",
+            "centers.",
+            "Meta\u2019s strategy seems focused on",
+            "influencing public perception regarding",
+            "data center facilities.",
+            "The article emphasizes the substantial",
+            "financial investment Meta is making to",
+            "shape public opinion.",
+            "The campaign is targeting cities",
+            "nationwide, specifically mentioning",
+            "Sacramento and Washington.",
+            "The campaign aims to positively frame",
+            "data centers in the eyes of the public.",
+            "The core of the campaign consists of",
+            "short video spotlights designed to",
+            "highlight positive aspects of data",
+            "centers."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-27T19:53:53.000Z",
+      "ranking": 6.476741099578838,
+      "articleUrl": "https://www.theverge.com/news/869008/meta-data-centers-ad-campaign"
+    },
+    {
+      "id": "813",
+      "topic": "NLP",
+      "source": "Marktechpost AI",
+      "shortTitle": "Tree-KG",
+      "mediumTitle": "Hierarchical Knowledge Graph",
+      "longTitle": "Tree-KG: Improving RAG with Knowledge Graphs",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The system is designed to improve upon",
+            "traditional Retrieval-Augmented",
+            "Generation (RAG) methods.",
+            "Conventional RAG approaches are",
+            "surpassed by the capabilities of",
+            "Tree-KG, according to the article.",
+            "The system supports explainable",
+            "multi-hop reasoning, allowing users to",
+            "understand the logic behind its",
+            "conclusions.",
+            "Tree-KG enables contextual navigation",
+            "through the knowledge base.",
+            "Knowledge is organized in a tree-like",
+            "hierarchy within Tree-KG.",
+            "Tree-KG is presented as a tutorial,",
+            "detailing its implementation and",
+            "advantages."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-27T20:24:27.000Z",
+      "ranking": 6.249652750649057,
+      "articleUrl": "https://www.marktechpost.com/2026/01/27/how-tree-kg-enables-hierarchical-knowledge-graphs-for-contextual-navigation-and-explainable-multi-hop-reasoning-beyond-traditional-rag/"
+    },
+    {
+      "id": "811",
+      "topic": "Energy",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Storm",
+      "mediumTitle": "Storm Exposes Grid Strain",
+      "longTitle": "Winter Storm Highlights AI Power Demand",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Existing power infrastructure is",
+            "struggling to keep up with the rapidly",
+            "growing energy needs of AI",
+            "infrastructure.",
+            "The increased demand from AI data",
+            "centers is particularly problematic",
+            "during extreme weather events.",
+            "The storm acted as a stress test for",
+            "power grids, revealing weaknesses in",
+            "their ability to handle peak demand.",
+            "The situation highlights a growing",
+            "concern about the capacity of the power",
+            "grid to support future AI development.",
+            "AI data centers require substantial and",
+            "consistent power, adding to the",
+            "challenges faced by the grid.",
+            "The recent winter storm impacted a large",
+            "portion of the United States, affecting",
+            "34 states in total."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-27T18:28:58.000Z",
+      "ranking": 6.032799863425995,
+      "articleUrl": "https://www.theverge.com/report/868859/electricity-rates-power-grid-ai-data-center-winter-storm"
+    },
+    {
       "id": "807",
       "topic": "Generative AI, NLP",
       "source": "The Verge AI",
@@ -322,7 +322,7 @@
         }
       ],
       "publishedAt": "2026-01-27T13:00:00.000Z",
-      "ranking": 6.294276978691465,
+      "ranking": 5.88699165956279,
       "articleUrl": "https://www.theverge.com/news/868497/google-ai-search-follow-up-questions-gemini-3"
     },
     {
@@ -359,7 +359,7 @@
         }
       ],
       "publishedAt": "2026-01-27T12:26:34.000Z",
-      "ranking": 5.9056772509290685,
+      "ranking": 5.4906773263806015,
       "articleUrl": "https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores"
     },
     {
@@ -396,7 +396,7 @@
         }
       ],
       "publishedAt": "2026-01-27T08:44:01.000Z",
-      "ranking": 5.431415530107548,
+      "ranking": 4.965063100967672,
       "articleUrl": "https://www.theverge.com/news/868510/google-photos-image-to-video-text-prompt-support"
     },
     {
@@ -433,7 +433,7 @@
         }
       ],
       "publishedAt": "2026-01-27T10:06:25.000Z",
-      "ranking": 5.059259148795095,
+      "ranking": 4.611920183539345,
       "articleUrl": "https://www.theverge.com/news/868531/pinterest-layoffs-cuts-15-percent-ai-transformation"
     },
     {
@@ -469,7 +469,7 @@
         }
       ],
       "publishedAt": "2026-01-26T18:47:34.000Z",
-      "ranking": 4.166813195706102,
+      "ranking": 3.507453341022088,
       "articleUrl": "https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation"
     },
     {
@@ -505,7 +505,7 @@
         }
       ],
       "publishedAt": "2026-01-26T12:00:00.000Z",
-      "ranking": 2.7186192080088842,
+      "ranking": 1.9652150084200537,
       "articleUrl": "https://www.theverge.com/news/867670/microsoft-maia-200-ai-chip-announcement"
     },
     {
@@ -540,7 +540,7 @@
         }
       ],
       "publishedAt": "2026-01-26T12:33:11.000Z",
-      "ranking": 2.5347596512585353,
+      "ranking": 1.7890123093482622,
       "articleUrl": "https://www.theverge.com/news/867898/openai-chatgpt-ad-pricing"
     },
     {
@@ -575,7 +575,7 @@
         }
       ],
       "publishedAt": "2026-01-26T15:57:08.000Z",
-      "ranking": 2.4459197528798553,
+      "ranking": 1.7472330431128045,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/867947/openai-president-greg-brockman-trump-super-pac"
     },
     {
@@ -610,7 +610,7 @@
         }
       ],
       "publishedAt": "2026-01-26T12:32:17.000Z",
-      "ranking": 1.766057596046645,
+      "ranking": 1.0201025884744164,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/867874/stripe-visa-mastercard-amex-csam-grok"
     },
     {
