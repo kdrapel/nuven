@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "818",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Hate",
+      "mediumTitle": "LLMs \u0026 Antisemitism",
+      "longTitle": "ADL Study: AI Chatbots \u0026 Hate Speech",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The ADL study assessed the performance",
+            "of six leading large language models",
+            "(LLMs) in identifying and responding to",
+            "antisemitic content.",
+            "xAI\u2019s Grok chatbot performed the worst",
+            "among the LLMs tested in the study.",
+            "However, the ADL emphasized that *all*",
+            "models evaluated demonstrated areas",
+            "needing improvement in addressing",
+            "antisemitism.",
+            "The report was published by the",
+            "Anti-Defamation League on Wednesday.",
+            "Anthropic\u2019s Claude performed the best",
+            "according to the report\u2019s metrics.",
+            "The report details Grok\u2019s comparatively",
+            "poor performance in recognizing and",
+            "countering antisemitic prompts and",
+            "statements."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-28T08:00:00.000Z",
+      "ranking": 7.834999999999999,
+      "articleUrl": "https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk"
+    },
+    {
       "id": "817",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -36,43 +71,6 @@
       "publishedAt": "2026-01-28T07:23:39.000Z",
       "ranking": 7.625,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/tencent-hunyuan-releases-hpc-ops-a-high-performance-llm-inference-operator-library/"
-    },
-    {
-      "id": "807",
-      "topic": "Generative AI, NLP",
-      "source": "The Verge AI",
-      "shortTitle": "AI Search",
-      "mediumTitle": "Google\u0027s Gemini Powers Search",
-      "longTitle": "Google Search Enhanced with Gemini 3 AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google is enhancing its Search",
-            "functionality by integrating more",
-            "advanced AI capabilities, specifically",
-            "utilizing Gemini 3 within its AI",
-            "Overviews.",
-            "This update shifts the focus of Google",
-            "Search away from simply providing lists",
-            "of links and towards offering more",
-            "direct, AI-generated answers.",
-            "A key component of this upgrade is the",
-            "ability for users to ask follow-up",
-            "questions directly to the AI Overview.",
-            "Google states this feature is designed",
-            "to allow Search to comprehensively",
-            "address user inquiries.",
-            "This development moves Google Search",
-            "closer to the functionality of an AI",
-            "chatbot.",
-            "This creates a more conversational and",
-            "iterative search experience for users."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-27T13:00:00.000Z",
-      "ranking": 7.6,
-      "articleUrl": "https://www.theverge.com/news/868497/google-ai-search-follow-up-questions-gemini-3"
     },
     {
       "id": "814",
@@ -184,43 +182,6 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/27/dsgym-offers-a-reusable-container-based-substrate-for-building-and-benchmarking-data-science-agents/"
     },
     {
-      "id": "808",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Nudify Apps",
-      "mediumTitle": "AI Apps Remove Clothing",
-      "longTitle": "Report Details AI Image Manipulation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "These apps allow users to digitally",
-            "remove clothing from photos, often",
-            "without the knowledge or consent of the",
-            "people depicted.",
-            "The discovery of these apps highlights a",
-            "broader problem of technology enabling",
-            "sexual exploitation and potential abuse.",
-            "The apps identified are accessible on",
-            "both Google\u2019s and Apple\u2019s app stores,",
-            "indicating a systemic issue.",
-            "The report suggests a significant gap",
-            "exists in protecting individuals from",
-            "having their images misused through AI",
-            "manipulation.",
-            "The functionality of these apps raises",
-            "serious ethical and legal concerns",
-            "regarding privacy and consent.",
-            "The TTP released its report on Tuesday,",
-            "bringing attention to the widespread",
-            "availability of these apps."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-27T12:26:34.000Z",
-      "ranking": 7.264999999999999,
-      "articleUrl": "https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores"
-    },
-    {
       "id": "813",
       "topic": "NLP",
       "source": "Marktechpost AI",
@@ -291,6 +252,117 @@
       "articleUrl": "https://www.theverge.com/report/868859/electricity-rates-power-grid-ai-data-center-winter-storm"
     },
     {
+      "id": "819",
+      "topic": "Science",
+      "source": "The Verge AI",
+      "shortTitle": "Hubble AI Find",
+      "mediumTitle": "Hubble Data Yields New Anomalies",
+      "longTitle": "AI Uncovers 1,400\u002B Anomalies in Hubble Archive",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The discoveries promise to contribute to",
+            "a deeper understanding of the universe.",
+            "The project demonstrates the",
+            "effectiveness of AI in processing and",
+            "analyzing large astronomical datasets.",
+            "The initial discovery of over 800",
+            "anomalies expanded to more than 1,400",
+            "after further investigation.",
+            "The AI systematically scanned Hubble\u2019s",
+            "images, flagging potential anomalies for",
+            "astronomers to review.",
+            "The AI\u2019s ability to identify anomalies",
+            "efficiently is a significant advancement",
+            "in astronomical research.",
+            "The findings are considered a valuable",
+            "resource for future astronomical",
+            "research.",
+            "The research was conducted by",
+            "astronomers at the European Space Agency",
+            "(ESA)."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-28T07:15:37.000Z",
+      "ranking": 7.09,
+      "articleUrl": "https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives"
+    },
+    {
+      "id": "807",
+      "topic": "Generative AI, NLP",
+      "source": "The Verge AI",
+      "shortTitle": "AI Search",
+      "mediumTitle": "Google\u0027s Gemini Powers Search",
+      "longTitle": "Google Search Enhanced with Gemini 3 AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google is enhancing its Search",
+            "functionality by integrating more",
+            "advanced AI capabilities, specifically",
+            "utilizing Gemini 3 within its AI",
+            "Overviews.",
+            "This update shifts the focus of Google",
+            "Search away from simply providing lists",
+            "of links and towards offering more",
+            "direct, AI-generated answers.",
+            "A key component of this upgrade is the",
+            "ability for users to ask follow-up",
+            "questions directly to the AI Overview.",
+            "Google states this feature is designed",
+            "to allow Search to comprehensively",
+            "address user inquiries.",
+            "This development moves Google Search",
+            "closer to the functionality of an AI",
+            "chatbot.",
+            "This creates a more conversational and",
+            "iterative search experience for users."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-27T13:00:00.000Z",
+      "ranking": 6.294276978691465,
+      "articleUrl": "https://www.theverge.com/news/868497/google-ai-search-follow-up-questions-gemini-3"
+    },
+    {
+      "id": "808",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Nudify Apps",
+      "mediumTitle": "AI Apps Remove Clothing",
+      "longTitle": "Report Details AI Image Manipulation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "These apps allow users to digitally",
+            "remove clothing from photos, often",
+            "without the knowledge or consent of the",
+            "people depicted.",
+            "The discovery of these apps highlights a",
+            "broader problem of technology enabling",
+            "sexual exploitation and potential abuse.",
+            "The apps identified are accessible on",
+            "both Google\u2019s and Apple\u2019s app stores,",
+            "indicating a systemic issue.",
+            "The report suggests a significant gap",
+            "exists in protecting individuals from",
+            "having their images misused through AI",
+            "manipulation.",
+            "The functionality of these apps raises",
+            "serious ethical and legal concerns",
+            "regarding privacy and consent.",
+            "The TTP released its report on Tuesday,",
+            "bringing attention to the widespread",
+            "availability of these apps."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-27T12:26:34.000Z",
+      "ranking": 5.9056772509290685,
+      "articleUrl": "https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores"
+    },
+    {
       "id": "804",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -324,7 +396,7 @@
         }
       ],
       "publishedAt": "2026-01-27T08:44:01.000Z",
-      "ranking": 5.848219013627773,
+      "ranking": 5.431415530107548,
       "articleUrl": "https://www.theverge.com/news/868510/google-photos-image-to-video-text-prompt-support"
     },
     {
@@ -361,7 +433,7 @@
         }
       ],
       "publishedAt": "2026-01-27T10:06:25.000Z",
-      "ranking": 5.45676858244638,
+      "ranking": 5.059259148795095,
       "articleUrl": "https://www.theverge.com/news/868531/pinterest-layoffs-cuts-15-percent-ai-transformation"
     },
     {
@@ -397,7 +469,7 @@
         }
       ],
       "publishedAt": "2026-01-26T18:47:34.000Z",
-      "ranking": 4.779472370748264,
+      "ranking": 4.166813195706102,
       "articleUrl": "https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation"
     },
     {
@@ -433,7 +505,7 @@
         }
       ],
       "publishedAt": "2026-01-26T12:00:00.000Z",
-      "ranking": 3.4267105687733785,
+      "ranking": 2.7186192080088842,
       "articleUrl": "https://www.theverge.com/news/867670/microsoft-maia-200-ai-chip-announcement"
     },
     {
@@ -468,7 +540,7 @@
         }
       ],
       "publishedAt": "2026-01-26T12:33:11.000Z",
-      "ranking": 3.2350811661409584,
+      "ranking": 2.5347596512585353,
       "articleUrl": "https://www.theverge.com/news/867898/openai-chatgpt-ad-pricing"
     },
     {
@@ -503,7 +575,7 @@
         }
       ],
       "publishedAt": "2026-01-26T15:57:08.000Z",
-      "ranking": 3.098486152148071,
+      "ranking": 2.4459197528798553,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/867947/openai-president-greg-brockman-trump-super-pac"
     },
     {
@@ -538,7 +610,7 @@
         }
       ],
       "publishedAt": "2026-01-26T12:32:17.000Z",
-      "ranking": 2.4665898559830857,
+      "ranking": 1.766057596046645,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/867874/stripe-visa-mastercard-amex-csam-grok"
     },
     {
@@ -573,7 +645,7 @@
         }
       ],
       "publishedAt": "2026-01-25T22:08:15.000Z",
-      "ranking": 0.8594600444011204,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/25/stepfun-ai-introduce-step-deepresearch-a-cost-effective-deep-research-agent-model-built-around-atomic-capabilities/"
     },
     {
@@ -1151,42 +1223,6 @@
       "publishedAt": "2026-01-21T16:36:18.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc"
-    },
-    {
-      "id": "771",
-      "topic": "NLP, Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Siri Update",
-      "mediumTitle": "Apple Revamps Siri",
-      "longTitle": "Apple Plans Major Siri AI Overhaul",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The new Siri will be capable of more",
-            "complex, conversational interactions.",
-            "The core of this change involves",
-            "leveraging artificial intelligence for",
-            "more natural dialogues.",
-            "Apple intends for Siri to handle more",
-            "nuanced requests and provide more",
-            "comprehensive responses.",
-            "The update aims to move Siri beyond",
-            "simple task execution to a chatbot-like",
-            "experience.",
-            "The new Siri\u2019s capabilities will be",
-            "similar to those demonstrated by",
-            "OpenAI\u2019s ChatGPT.",
-            "According to Bloomberg\u2019s Mark Gurman,",
-            "the Siri update is expected to roll out",
-            "later this year.",
-            "The update will be integrated directly",
-            "into iPhones and Macs."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-21T16:26:47.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt"
     }
   ]
 }
