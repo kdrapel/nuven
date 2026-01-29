@@ -72,6 +72,43 @@
       "articleUrl": "https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk"
     },
     {
+      "id": "825",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Alibaba LLM",
+      "mediumTitle": "Alibaba Releases Qwen3-Max",
+      "longTitle": "Alibaba Unveils Qwen3-Max-Thinking LLM",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Alibaba has released Qwen3-Max-Thinking,",
+            "its new flagship large language model",
+            "(LLM).",
+            "This model distinguishes itself not only",
+            "through its scale \u2013 a trillion",
+            "parameters \u2013 but also through a novel",
+            "approach to inference.",
+            "Qwen3-Max-Thinking allows for explicit",
+            "control over \u201Cthinking depth\u201D during the",
+            "reasoning process.",
+            "A key feature of Qwen3-Max-Thinking is",
+            "its native tool use capability.",
+            "It\u2019s equipped with built-in tools for",
+            "functions like search, memory access,",
+            "and code execution.",
+            "The model was pre-trained on a massive",
+            "dataset of 36 trillion tokens.",
+            "These tools are designed to enhance its",
+            "performance on complex, agentic",
+            "workloads."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T03:15:27.000Z",
+      "ranking": 7.66,
+      "articleUrl": "https://www.marktechpost.com/2026/01/28/alibaba-introduces-qwen3-max-thinking-a-test-time-scaled-reasoning-model-with-native-tool-use-powering-agentic-workloads/"
+    },
+    {
       "id": "817",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -107,42 +144,6 @@
       "publishedAt": "2026-01-28T07:23:39.000Z",
       "ranking": 7.625,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/tencent-hunyuan-releases-hpc-ops-a-high-performance-llm-inference-operator-library/"
-    },
-    {
-      "id": "816",
-      "topic": "Large Models, Vision, NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "Kimi K2.5",
-      "mediumTitle": "Moonshot AI Releases Kimi",
-      "longTitle": "Moonshot AI\u0027s Open-Source Kimi K2.5 Model",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Moonshot AI recently released Kimi K2.5,",
-            "an open-source visual agentic",
-            "intelligence model.",
-            "The model utilizes a large Mixture of",
-            "Experts (MoE) language model to process",
-            "information.",
-            "A vision encoder allows Kimi K2.5 to",
-            "understand and interpret visual data.",
-            "Agent Swarm, a parallel multi-agent",
-            "system, enhances the model\u0027s",
-            "problem-solving capabilities.",
-            "Kimi K2.5 is specifically designed to",
-            "handle tasks like coding with",
-            "efficiency.",
-            "The model demonstrates strong multimodal",
-            "reasoning abilities, combining different",
-            "data types.",
-            "In-depth web research is another key",
-            "capability of the Kimi K2.5 model."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-28T00:55:34.000Z",
-      "ranking": 7.350000000000001,
-      "articleUrl": "https://www.marktechpost.com/2026/01/27/moonshot-ai-releases-kimi-k2-5-an-open-source-visual-agentic-intelligence-model-with-native-swarm-execution/"
     },
     {
       "id": "821",
@@ -217,6 +218,42 @@
       "articleUrl": "https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives"
     },
     {
+      "id": "816",
+      "topic": "Large Models, Vision, NLP",
+      "source": "Marktechpost AI",
+      "shortTitle": "Kimi K2.5",
+      "mediumTitle": "Moonshot AI Releases Kimi",
+      "longTitle": "Moonshot AI\u0027s Open-Source Kimi K2.5 Model",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Moonshot AI recently released Kimi K2.5,",
+            "an open-source visual agentic",
+            "intelligence model.",
+            "The model utilizes a large Mixture of",
+            "Experts (MoE) language model to process",
+            "information.",
+            "A vision encoder allows Kimi K2.5 to",
+            "understand and interpret visual data.",
+            "Agent Swarm, a parallel multi-agent",
+            "system, enhances the model\u0027s",
+            "problem-solving capabilities.",
+            "Kimi K2.5 is specifically designed to",
+            "handle tasks like coding with",
+            "efficiency.",
+            "The model demonstrates strong multimodal",
+            "reasoning abilities, combining different",
+            "data types.",
+            "In-depth web research is another key",
+            "capability of the Kimi K2.5 model."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-28T00:55:34.000Z",
+      "ranking": 6.040103461404169,
+      "articleUrl": "https://www.marktechpost.com/2026/01/27/moonshot-ai-releases-kimi-k2-5-an-open-source-visual-agentic-intelligence-model-with-native-swarm-execution/"
+    },
+    {
       "id": "814",
       "topic": "Business",
       "source": "The Verge AI",
@@ -249,7 +286,7 @@
         }
       ],
       "publishedAt": "2026-01-27T19:53:53.000Z",
-      "ranking": 6.111910991458673,
+      "ranking": 5.68665845464494,
       "articleUrl": "https://www.theverge.com/news/869008/meta-data-centers-ad-campaign"
     },
     {
@@ -286,7 +323,7 @@
         }
       ],
       "publishedAt": "2026-01-27T20:52:41.000Z",
-      "ranking": 5.952151682904502,
+      "ranking": 5.540568524278872,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/dsgym-offers-a-reusable-container-based-substrate-for-building-and-benchmarking-data-science-agents/"
     },
     {
@@ -320,7 +357,7 @@
         }
       ],
       "publishedAt": "2026-01-27T20:24:27.000Z",
-      "ranking": 5.891837212455618,
+      "ranking": 5.473690581077526,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/how-tree-kg-enables-hierarchical-knowledge-graphs-for-contextual-navigation-and-explainable-multi-hop-reasoning-beyond-traditional-rag/"
     },
     {
@@ -356,7 +393,7 @@
         }
       ],
       "publishedAt": "2026-01-27T18:28:58.000Z",
-      "ranking": 5.648482694555971,
+      "ranking": 5.203489367960577,
       "articleUrl": "https://www.theverge.com/report/868859/electricity-rates-power-grid-ai-data-center-winter-storm"
     },
     {
@@ -393,7 +430,7 @@
         }
       ],
       "publishedAt": "2026-01-27T13:00:00.000Z",
-      "ranking": 5.4271817546109995,
+      "ranking": 4.90571273793173,
       "articleUrl": "https://www.theverge.com/news/868497/google-ai-search-follow-up-questions-gemini-3"
     },
     {
@@ -430,7 +467,7 @@
         }
       ],
       "publishedAt": "2026-01-27T12:26:34.000Z",
-      "ranking": 5.0231949899683075,
+      "ranking": 4.493953643365121,
       "articleUrl": "https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores"
     },
     {
@@ -467,7 +504,7 @@
         }
       ],
       "publishedAt": "2026-01-27T08:44:01.000Z",
-      "ranking": 4.446508998609587,
+      "ranking": 3.8655309056328067,
       "articleUrl": "https://www.theverge.com/news/868510/google-photos-image-to-video-text-prompt-support"
     },
     {
@@ -504,7 +541,7 @@
         }
       ],
       "publishedAt": "2026-01-27T10:06:25.000Z",
-      "ranking": 4.112275598179189,
+      "ranking": 3.550453234376611,
       "articleUrl": "https://www.theverge.com/news/868531/pinterest-layoffs-cuts-15-percent-ai-transformation"
     },
     {
@@ -540,7 +577,7 @@
         }
       ],
       "publishedAt": "2026-01-26T18:47:34.000Z",
-      "ranking": 2.7969469638890523,
+      "ranking": 2.0215172802607437,
       "articleUrl": "https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation"
     },
     {
@@ -576,7 +613,7 @@
         }
       ],
       "publishedAt": "2026-01-26T12:00:00.000Z",
-      "ranking": 1.1611784149617383,
+      "ranking": 0.2910007052493526,
       "articleUrl": "https://www.theverge.com/news/867670/microsoft-maia-200-ai-chip-announcement"
     },
     {
@@ -611,7 +648,7 @@
         }
       ],
       "publishedAt": "2026-01-26T15:57:08.000Z",
-      "ranking": 0.9976148131855105,
+      "ranking": 0.18256402737180277,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/867947/openai-president-greg-brockman-trump-super-pac"
     },
     {
@@ -646,7 +683,7 @@
         }
       ],
       "publishedAt": "2026-01-26T12:33:11.000Z",
-      "ranking": 0.9925906860177269,
+      "ranking": 0.1301271415027081,
       "articleUrl": "https://www.theverge.com/news/867898/openai-chatgpt-ad-pricing"
     },
     {
@@ -681,7 +718,7 @@
         }
       ],
       "publishedAt": "2026-01-26T12:32:17.000Z",
-      "ranking": 0.22347444401432703,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/867874/stripe-visa-mastercard-amex-csam-grok"
     },
     {
@@ -1080,77 +1117,6 @@
       "publishedAt": "2026-01-22T10:48:15.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill"
-    },
-    {
-      "id": "777",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Adobe AI",
-      "mediumTitle": "Adobe Firefly for Hollywood",
-      "longTitle": "Adobe Develops AI Tools for Safe IP Use",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A key focus of Firefly Foundry is",
-            "intellectual property (IP) safety.",
-            "The initiative is designed to mitigate",
-            "the risk of copyright infringement.",
-            "It also aims to prevent the exposure of",
-            "studios\u0027 proprietary assets.",
-            "Adobe is actively developing generative",
-            "AI models through its Firefly suite.",
-            "Adobe is positioning Firefly Foundry as",
-            "a solution to legal and ethical concerns",
-            "in Hollywood.",
-            "Studios can gain confidence in IP",
-            "protection when using AI-powered tools.",
-            "The private models will be trained on",
-            "datasets specifically licensed for the",
-            "participating studios.",
-            "Firefly Foundry aims to provide creative",
-            "tools for studios to utilize generative",
-            "AI."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-22T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/865077/adobe-firefly-foundry-ip-sage-genai-models"
-    },
-    {
-      "id": "772",
-      "topic": "Speech, Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "Chroma 1.0",
-      "mediumTitle": "FlashLabs Releases Chroma",
-      "longTitle": "Chroma 1.0: Speech-to-Speech Model",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A key feature of Chroma 1.0 is its",
-            "ability to maintain the speaker\u2019s",
-            "identity throughout the dialogue.",
-            "Chroma 1.0 distinguishes itself by",
-            "integrating low-latency interaction with",
-            "high-fidelity personalized voice",
-            "cloning.",
-            "This preservation of voice creates a",
-            "more natural and consistent",
-            "conversational experience for users.",
-            "The model responds in the same voice as",
-            "the user, rather than a generic or",
-            "different voice.",
-            "The model is designed for real-time",
-            "interaction, allowing for immediate",
-            "responses in a conversation.",
-            "Chroma 1.0 is a 4B parameter model,",
-            "indicating its size and complexity."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-22T03:22:16.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/21/flashlabs-researchers-release-chroma-1-0-a-4b-real-time-speech-dialogue-model-with-personalized-voice-cloning/"
     }
   ]
 }
