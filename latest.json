@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "id": "820",
-      "topic": "Generative AI, NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Chrome AI",
-      "mediumTitle": "Chrome Gains AI Browse",
-      "longTitle": "Google Chrome Adds AI-Powered Auto Browse",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google is introducing an \u201Cauto browse\u201D",
-            "feature to its Chrome browser, powered",
-            "by the Gemini AI model.",
-            "This capability is designed to",
-            "autonomously complete complex,",
-            "multi-step tasks for users.",
-            "Gemini navigates the web as a human",
-            "would to achieve a specified goal.",
-            "This goes beyond simple information",
-            "retrieval, actively engaging with web",
-            "pages.",
-            "Auto browse can handle tasks such as",
-            "researching travel options, including",
-            "hotel and flight costs.",
-            "The feature also manages scheduling",
-            "appointments and completing online",
-            "forms.",
-            "Access is restricted to subscribers of",
-            "Google AI Pro and Ultra plans."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-28T17:32:07.000Z",
-      "ranking": 8.08,
-      "articleUrl": "https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse"
-    },
-    {
       "id": "825",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -74,39 +38,74 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/28/alibaba-introduces-qwen3-max-thinking-a-test-time-scaled-reasoning-model-with-native-tool-use-powering-agentic-workloads/"
     },
     {
-      "id": "821",
-      "topic": "Policy",
+      "id": "828",
+      "topic": "Generative AI",
       "source": "The Verge AI",
-      "shortTitle": "AI Slop Ban",
-      "mediumTitle": "YouTube Removes AI Content",
-      "longTitle": "YouTube Cracks Down on \u0027AI Slop\u0027 Channels",
+      "shortTitle": "AI \u0026 Games",
+      "mediumTitle": "Google AI Creates 3D Games",
+      "longTitle": "Google AI Attempts Nintendo Worlds",
       "paragraphs": [
         {
           "Lines": [
-            "YouTube has removed several channels",
-            "dedicated to \u0027AI slop\u0027 content,",
-            "signaling a change in platform policy.",
-            "Kapwing first reported the removal of",
-            "CuentosFacianantes, highlighting the",
-            "impact of the action.",
-            "CuentosFacianantes had amassed a",
-            "significant following with 5.9 million",
-            "subscribers.",
-            "The channel also garnered an impressive",
-            "1.2 billion views before its removal.",
-            "The report detailing these removals is",
-            "dated November 2025, indicating the",
-            "action occurred around that time.",
-            "The full scope of YouTube\u0027s crackdown on",
-            "\u0027AI slop\u0027 channels is currently unknown.",
-            "AI slop content is characterized by its",
-            "rapid generation and low creative input."
+            "The experiment showcases the AI\u0027s",
+            "ability to generate 3D game-like spaces,",
+            "even if the quality is currently",
+            "limited.",
+            "The author specifically created a *Super",
+            "Mario 64*-like world using the AI tool.",
+            "A *Metroid Prime* experience was also",
+            "generated, but the author admits it",
+            "doesn\u0027t compare to *Metroid Prime 4:",
+            "Beyond*.",
+            "The AI was also used to create a version",
+            "inspired by *The Legend of Zelda*",
+            "series.",
+            "The core focus of the article is",
+            "demonstrating what the AI *can* do,",
+            "rather than achieving professional-level",
+            "results."
           ]
         }
       ],
-      "publishedAt": "2026-01-28T16:47:25.000Z",
-      "ranking": 7.300000000000001,
-      "articleUrl": "https://www.theverge.com/news/869684/youtube-top-ai-channels-removed-kapwing"
+      "publishedAt": "2026-01-29T13:00:00.000Z",
+      "ranking": 7.32,
+      "articleUrl": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on"
+    },
+    {
+      "id": "820",
+      "topic": "Generative AI, NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Chrome AI",
+      "mediumTitle": "Chrome Gains AI Browse",
+      "longTitle": "Google Chrome Adds AI-Powered Auto Browse",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google is introducing an \u201Cauto browse\u201D",
+            "feature to its Chrome browser, powered",
+            "by the Gemini AI model.",
+            "This capability is designed to",
+            "autonomously complete complex,",
+            "multi-step tasks for users.",
+            "Gemini navigates the web as a human",
+            "would to achieve a specified goal.",
+            "This goes beyond simple information",
+            "retrieval, actively engaging with web",
+            "pages.",
+            "Auto browse can handle tasks such as",
+            "researching travel options, including",
+            "hotel and flight costs.",
+            "The feature also manages scheduling",
+            "appointments and completing online",
+            "forms.",
+            "Access is restricted to subscribers of",
+            "Google AI Pro and Ultra plans."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-28T17:32:07.000Z",
+      "ranking": 6.826875738494222,
+      "articleUrl": "https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse"
     },
     {
       "id": "826",
@@ -146,6 +145,77 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/28/google-deepmind-unveils-alphagenome-a-unified-sequence-to-function-model-using-hybrid-transformers-and-u-nets-to-decode-the-human-genome/"
     },
     {
+      "id": "827",
+      "topic": "Gaming, Business",
+      "source": "The Verge AI",
+      "shortTitle": "AI in Gaming",
+      "mediumTitle": "GDC Survey: AI Concerns",
+      "longTitle": "Game Devs See Negative Impact of AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A majority of game developers,",
+            "specifically 52%, believe generative AI",
+            "is negatively impacting their field.",
+            "The survey indicates a clear majority of",
+            "developers hold a negative opinion",
+            "regarding AI\u0027s effect on the industry.",
+            "The prevailing sentiment among",
+            "respondents is negative, despite the",
+            "technology\u0027s integration.",
+            "The survey reveals growing concerns",
+            "among developers regarding the",
+            "increasing adoption of generative AI",
+            "technologies.",
+            "The article does not provide details on",
+            "the specific reasons behind developers\u0027",
+            "negative views.",
+            "The GDC survey specifically focused on",
+            "the impact of generative AI on the",
+            "gaming industry."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T13:00:00.000Z",
+      "ranking": 6.624999999999998,
+      "articleUrl": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey"
+    },
+    {
+      "id": "821",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Slop Ban",
+      "mediumTitle": "YouTube Removes AI Content",
+      "longTitle": "YouTube Cracks Down on \u0027AI Slop\u0027 Channels",
+      "paragraphs": [
+        {
+          "Lines": [
+            "YouTube has removed several channels",
+            "dedicated to \u0027AI slop\u0027 content,",
+            "signaling a change in platform policy.",
+            "Kapwing first reported the removal of",
+            "CuentosFacianantes, highlighting the",
+            "impact of the action.",
+            "CuentosFacianantes had amassed a",
+            "significant following with 5.9 million",
+            "subscribers.",
+            "The channel also garnered an impressive",
+            "1.2 billion views before its removal.",
+            "The report detailing these removals is",
+            "dated November 2025, indicating the",
+            "action occurred around that time.",
+            "The full scope of YouTube\u0027s crackdown on",
+            "\u0027AI slop\u0027 channels is currently unknown.",
+            "AI slop content is characterized by its",
+            "rapid generation and low creative input."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-28T16:47:25.000Z",
+      "ranking": 5.976414174350473,
+      "articleUrl": "https://www.theverge.com/news/869684/youtube-top-ai-channels-removed-kapwing"
+    },
+    {
       "id": "818",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -177,7 +247,7 @@
         }
       ],
       "publishedAt": "2026-01-28T08:00:00.000Z",
-      "ranking": 6.01093252688354,
+      "ranking": 5.534519254880539,
       "articleUrl": "https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk"
     },
     {
@@ -214,7 +284,7 @@
         }
       ],
       "publishedAt": "2026-01-28T07:23:39.000Z",
-      "ranking": 5.732109758227949,
+      "ranking": 5.247308056689319,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/tencent-hunyuan-releases-hpc-ops-a-high-performance-llm-inference-operator-library/"
     },
     {
@@ -251,7 +321,7 @@
         }
       ],
       "publishedAt": "2026-01-28T07:15:37.000Z",
-      "ranking": 5.181728009592663,
+      "ranking": 4.695072467996789,
       "articleUrl": "https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives"
     },
     {
@@ -287,7 +357,7 @@
         }
       ],
       "publishedAt": "2026-01-28T00:55:34.000Z",
-      "ranking": 4.642903028315237,
+      "ranking": 4.068544002875765,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/moonshot-ai-releases-kimi-k2-5-an-open-source-visual-agentic-intelligence-model-with-native-swarm-execution/"
     },
     {
@@ -323,7 +393,7 @@
         }
       ],
       "publishedAt": "2026-01-27T19:53:53.000Z",
-      "ranking": 4.079612678377969,
+      "ranking": 3.4356347094342228,
       "articleUrl": "https://www.theverge.com/news/869008/meta-data-centers-ad-campaign"
     },
     {
@@ -360,7 +430,7 @@
         }
       ],
       "publishedAt": "2026-01-27T20:52:41.000Z",
-      "ranking": 3.974422942273026,
+      "ranking": 3.344014146810835,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/dsgym-offers-a-reusable-container-based-substrate-for-building-and-benchmarking-data-science-agents/"
     },
     {
@@ -394,7 +464,7 @@
         }
       ],
       "publishedAt": "2026-01-27T20:24:27.000Z",
-      "ranking": 3.8879064140378303,
+      "ranking": 3.2509822601579987,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/how-tree-kg-enables-hierarchical-knowledge-graphs-for-contextual-navigation-and-explainable-multi-hop-reasoning-beyond-traditional-rag/"
     },
     {
@@ -430,7 +500,7 @@
         }
       ],
       "publishedAt": "2026-01-27T18:28:58.000Z",
-      "ranking": 3.5373771315515095,
+      "ranking": 2.8738030856340906,
       "articleUrl": "https://www.theverge.com/report/868859/electricity-rates-power-grid-ai-data-center-winter-storm"
     },
     {
@@ -464,7 +534,7 @@
         }
       ],
       "publishedAt": "2026-01-27T19:28:11.000Z",
-      "ranking": 3.245587078745694,
+      "ranking": 2.595678359768807,
       "articleUrl": "https://www.theverge.com/report/869004/moltbot-clawdbot-local-ai-agent"
     },
     {
@@ -501,7 +571,7 @@
         }
       ],
       "publishedAt": "2026-01-27T13:00:00.000Z",
-      "ranking": 3.0107773699303575,
+      "ranking": 2.271288249533473,
       "articleUrl": "https://www.theverge.com/news/868497/google-ai-search-follow-up-questions-gemini-3"
     },
     {
@@ -538,7 +608,7 @@
         }
       ],
       "publishedAt": "2026-01-27T12:26:34.000Z",
-      "ranking": 2.575762667270255,
+      "ranking": 1.828558192995919,
       "articleUrl": "https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores"
     },
     {
@@ -575,7 +645,7 @@
         }
       ],
       "publishedAt": "2026-01-27T08:44:01.000Z",
-      "ranking": 1.7925382676089203,
+      "ranking": 0.9939763110430349,
       "articleUrl": "https://www.theverge.com/news/868510/google-photos-image-to-video-text-prompt-support"
     },
     {
@@ -612,7 +682,7 @@
         }
       ],
       "publishedAt": "2026-01-27T10:06:25.000Z",
-      "ranking": 1.5347765133704865,
+      "ranking": 0.7552298615577655,
       "articleUrl": "https://www.theverge.com/news/868531/pinterest-layoffs-cuts-15-percent-ai-transformation"
     },
     {
@@ -1079,80 +1149,6 @@
       "publishedAt": "2026-01-22T22:11:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/22/microsoft-releases-vibevoice-asr-a-unified-speech-to-text-model-designed-to-handle-60-minute-long-form-audio-in-a-single-pass/"
-    },
-    {
-      "id": "775",
-      "topic": "Dev Tools",
-      "source": "VentureBeat AI",
-      "shortTitle": "Railway Funding",
-      "mediumTitle": "Railway Secures $100M",
-      "longTitle": "Railway Raises $100M to Fuel AI Infrastructure Growth",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Railway\u2019s pricing is roughly 50% lower",
-            "than hyperscalers and 3-4x cheaper than",
-            "newer startups, charging by the second",
-            "of compute usage.",
-            "G2X, a federal contractor, saw a",
-            "seven-times faster deployment speed and",
-            "an 87% cost reduction after switching to",
-            "Railway.",
-            "The company has integrated with AI",
-            "systems, enabling AI agents to automate",
-            "infrastructure deployment and",
-            "management.",
-            "In a strategic move, Railway abandoned",
-            "Google Cloud in 2024 to build its own",
-            "data centers for greater control and",
-            "reliability.",
-            "Railway\u2019s Series B funding round was led",
-            "by TQ Ventures, with participation from",
-            "FPV Ventures, Redpoint, and Unusual",
-            "Ventures."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-22T15:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
-    },
-    {
-      "id": "780",
-      "topic": "NLP, Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Search",
-      "mediumTitle": "Google AI Search Expands",
-      "longTitle": "Google\u0027s AI Mode Gains Access to User Data",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google is expanding the capabilities of",
-            "its AI Mode within Search by integrating",
-            "access to users\u2019 Gmail and Google Photos",
-            "data.",
-            "Access to this data is contingent upon",
-            "explicit user permission.",
-            "Specifically, the AI will analyze",
-            "information within a user\u2019s Gmail and",
-            "Google Photos accounts.",
-            "The integration aims to deliver more",
-            "personalized and relevant responses to",
-            "search queries.",
-            "This allows AI Mode to provide answers",
-            "tailored to the individual user\u2019s",
-            "context, going beyond general web",
-            "results.",
-            "The analysis is intended to help the AI",
-            "better understand a user\u2019s interests.",
-            "The AI will also attempt to understand a",
-            "user\u2019s routines and daily life."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-22T12:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/865548/google-ai-mode-search-personal-intelligence-update"
     }
   ]
 }
