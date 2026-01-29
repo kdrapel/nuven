@@ -37,41 +37,6 @@
       "articleUrl": "https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse"
     },
     {
-      "id": "818",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Hate",
-      "mediumTitle": "LLMs \u0026 Antisemitism",
-      "longTitle": "ADL Study: AI Chatbots \u0026 Hate Speech",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The ADL study assessed the performance",
-            "of six leading large language models",
-            "(LLMs) in identifying and responding to",
-            "antisemitic content.",
-            "xAI\u2019s Grok chatbot performed the worst",
-            "among the LLMs tested in the study.",
-            "However, the ADL emphasized that *all*",
-            "models evaluated demonstrated areas",
-            "needing improvement in addressing",
-            "antisemitism.",
-            "The report was published by the",
-            "Anti-Defamation League on Wednesday.",
-            "Anthropic\u2019s Claude performed the best",
-            "according to the report\u2019s metrics.",
-            "The report details Grok\u2019s comparatively",
-            "poor performance in recognizing and",
-            "countering antisemitic prompts and",
-            "statements."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-28T08:00:00.000Z",
-      "ranking": 7.834999999999999,
-      "articleUrl": "https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk"
-    },
-    {
       "id": "825",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -109,43 +74,6 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/28/alibaba-introduces-qwen3-max-thinking-a-test-time-scaled-reasoning-model-with-native-tool-use-powering-agentic-workloads/"
     },
     {
-      "id": "817",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "HPC-Ops",
-      "mediumTitle": "Tencent Releases HPC-Ops",
-      "longTitle": "Tencent\u0027s Open-Source LLM Inference Library",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Tencent Hunyuan released HPC-Ops as an",
-            "open-source project.",
-            "The library is specifically designed for",
-            "high-performance large language model",
-            "(LLM) inference.",
-            "HPC-Ops provides low-level CUDA kernels",
-            "optimized for core operators essential",
-            "to LLM functionality.",
-            "These core operators include Attention,",
-            "Grouped GEMM (General Matrix",
-            "Multiplication), and Fused MoE (Mixture",
-            "of Experts).",
-            "The goal of HPC-Ops is to simplify",
-            "integration into existing LLM inference",
-            "stacks.",
-            "It exposes the optimized kernels through",
-            "compact-C and Python APIs.",
-            "This allows developers to utilize the",
-            "performance gains within their current",
-            "workflows."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-28T07:23:39.000Z",
-      "ranking": 7.625,
-      "articleUrl": "https://www.marktechpost.com/2026/01/27/tencent-hunyuan-releases-hpc-ops-a-high-performance-llm-inference-operator-library/"
-    },
-    {
       "id": "821",
       "topic": "Policy",
       "source": "The Verge AI",
@@ -181,6 +109,78 @@
       "articleUrl": "https://www.theverge.com/news/869684/youtube-top-ai-channels-removed-kapwing"
     },
     {
+      "id": "818",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Hate",
+      "mediumTitle": "LLMs \u0026 Antisemitism",
+      "longTitle": "ADL Study: AI Chatbots \u0026 Hate Speech",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The ADL study assessed the performance",
+            "of six leading large language models",
+            "(LLMs) in identifying and responding to",
+            "antisemitic content.",
+            "xAI\u2019s Grok chatbot performed the worst",
+            "among the LLMs tested in the study.",
+            "However, the ADL emphasized that *all*",
+            "models evaluated demonstrated areas",
+            "needing improvement in addressing",
+            "antisemitism.",
+            "The report was published by the",
+            "Anti-Defamation League on Wednesday.",
+            "Anthropic\u2019s Claude performed the best",
+            "according to the report\u2019s metrics.",
+            "The report details Grok\u2019s comparatively",
+            "poor performance in recognizing and",
+            "countering antisemitic prompts and",
+            "statements."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-28T08:00:00.000Z",
+      "ranking": 6.799431282323576,
+      "articleUrl": "https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk"
+    },
+    {
+      "id": "817",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "HPC-Ops",
+      "mediumTitle": "Tencent Releases HPC-Ops",
+      "longTitle": "Tencent\u0027s Open-Source LLM Inference Library",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Tencent Hunyuan released HPC-Ops as an",
+            "open-source project.",
+            "The library is specifically designed for",
+            "high-performance large language model",
+            "(LLM) inference.",
+            "HPC-Ops provides low-level CUDA kernels",
+            "optimized for core operators essential",
+            "to LLM functionality.",
+            "These core operators include Attention,",
+            "Grouped GEMM (General Matrix",
+            "Multiplication), and Fused MoE (Mixture",
+            "of Experts).",
+            "The goal of HPC-Ops is to simplify",
+            "integration into existing LLM inference",
+            "stacks.",
+            "It exposes the optimized kernels through",
+            "compact-C and Python APIs.",
+            "This allows developers to utilize the",
+            "performance gains within their current",
+            "workflows."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-28T07:23:39.000Z",
+      "ranking": 6.5374179378163575,
+      "articleUrl": "https://www.marktechpost.com/2026/01/27/tencent-hunyuan-releases-hpc-ops-a-high-performance-llm-inference-operator-library/"
+    },
+    {
       "id": "819",
       "topic": "Science",
       "source": "The Verge AI",
@@ -214,7 +214,7 @@
         }
       ],
       "publishedAt": "2026-01-28T07:15:37.000Z",
-      "ranking": 7.09,
+      "ranking": 5.990751064624307,
       "articleUrl": "https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives"
     },
     {
@@ -250,7 +250,7 @@
         }
       ],
       "publishedAt": "2026-01-28T00:55:34.000Z",
-      "ranking": 6.040103461404169,
+      "ranking": 5.627673582522945,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/moonshot-ai-releases-kimi-k2-5-an-open-source-visual-agentic-intelligence-model-with-native-swarm-execution/"
     },
     {
@@ -286,7 +286,7 @@
         }
       ],
       "publishedAt": "2026-01-27T19:53:53.000Z",
-      "ranking": 5.68665845464494,
+      "ranking": 5.203891433226847,
       "articleUrl": "https://www.theverge.com/news/869008/meta-data-centers-ad-campaign"
     },
     {
@@ -323,7 +323,7 @@
         }
       ],
       "publishedAt": "2026-01-27T20:52:41.000Z",
-      "ranking": 5.540568524278872,
+      "ranking": 5.071510662191147,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/dsgym-offers-a-reusable-container-based-substrate-for-building-and-benchmarking-data-science-agents/"
     },
     {
@@ -357,7 +357,7 @@
         }
       ],
       "publishedAt": "2026-01-27T20:24:27.000Z",
-      "ranking": 5.473690581077526,
+      "ranking": 4.998050147830334,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/how-tree-kg-enables-hierarchical-knowledge-graphs-for-contextual-navigation-and-explainable-multi-hop-reasoning-beyond-traditional-rag/"
     },
     {
@@ -393,7 +393,7 @@
         }
       ],
       "publishedAt": "2026-01-27T18:28:58.000Z",
-      "ranking": 5.203489367960577,
+      "ranking": 4.700924120772589,
       "articleUrl": "https://www.theverge.com/report/868859/electricity-rates-power-grid-ai-data-center-winter-storm"
     },
     {
@@ -430,7 +430,7 @@
         }
       ],
       "publishedAt": "2026-01-27T13:00:00.000Z",
-      "ranking": 4.90571273793173,
+      "ranking": 4.326449266550698,
       "articleUrl": "https://www.theverge.com/news/868497/google-ai-search-follow-up-questions-gemini-3"
     },
     {
@@ -467,7 +467,7 @@
         }
       ],
       "publishedAt": "2026-01-27T12:26:34.000Z",
-      "ranking": 4.493953643365121,
+      "ranking": 3.9068952268493597,
       "articleUrl": "https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores"
     },
     {
@@ -504,7 +504,7 @@
         }
       ],
       "publishedAt": "2026-01-27T08:44:01.000Z",
-      "ranking": 3.8655309056328067,
+      "ranking": 3.226585196997882,
       "articleUrl": "https://www.theverge.com/news/868510/google-photos-image-to-video-text-prompt-support"
     },
     {
@@ -541,7 +541,7 @@
         }
       ],
       "publishedAt": "2026-01-27T10:06:25.000Z",
-      "ranking": 3.550453234376611,
+      "ranking": 2.930718999193587,
       "articleUrl": "https://www.theverge.com/news/868531/pinterest-layoffs-cuts-15-percent-ai-transformation"
     },
     {
@@ -577,44 +577,8 @@
         }
       ],
       "publishedAt": "2026-01-26T18:47:34.000Z",
-      "ranking": 2.0215172802607437,
+      "ranking": 1.1875541601977133,
       "articleUrl": "https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation"
-    },
-    {
-      "id": "797",
-      "topic": "Hardware",
-      "source": "The Verge AI",
-      "shortTitle": "MSFT Maia 2",
-      "mediumTitle": "Microsoft\u0027s New AI Chip",
-      "longTitle": "Microsoft Unveils Maia 200 AI Accelerator",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft\u2019s Maia 200 is designed to",
-            "compete with AI accelerators developed",
-            "by Amazon (Trainium) and Google (TPU).",
-            "The chip is specifically engineered for",
-            "AI workloads, allowing Microsoft to",
-            "optimize its AI infrastructure.",
-            "The Maia 200 delivers three times the",
-            "FP4 (single-precision floating-point)",
-            "performance compared to Amazon\u2019s",
-            "third-generation Trainium chip.",
-            "Furthermore, it achieves FP8 (8-bit",
-            "floating-point) performance exceeding",
-            "that of Google\u2019s seventh-generation TPU.",
-            "By developing its own AI chips,",
-            "Microsoft aims to gain greater control",
-            "over its AI hardware and software stack.",
-            "The chip is manufactured using TSMC\u2019s",
-            "advanced 3nm process technology, a key",
-            "factor in its performance capabilities."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-26T12:00:00.000Z",
-      "ranking": 0.2910007052493526,
-      "articleUrl": "https://www.theverge.com/news/867670/microsoft-maia-200-ai-chip-announcement"
     },
     {
       "id": "800",
@@ -648,7 +612,7 @@
         }
       ],
       "publishedAt": "2026-01-26T15:57:08.000Z",
-      "ranking": 0.18256402737180277,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/867947/openai-president-greg-brockman-trump-super-pac"
     },
     {
@@ -683,7 +647,7 @@
         }
       ],
       "publishedAt": "2026-01-26T12:33:11.000Z",
-      "ranking": 0.1301271415027081,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/867898/openai-chatgpt-ad-pricing"
     },
     {
@@ -720,6 +684,42 @@
       "publishedAt": "2026-01-26T12:32:17.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/867874/stripe-visa-mastercard-amex-csam-grok"
+    },
+    {
+      "id": "797",
+      "topic": "Hardware",
+      "source": "The Verge AI",
+      "shortTitle": "MSFT Maia 2",
+      "mediumTitle": "Microsoft\u0027s New AI Chip",
+      "longTitle": "Microsoft Unveils Maia 200 AI Accelerator",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft\u2019s Maia 200 is designed to",
+            "compete with AI accelerators developed",
+            "by Amazon (Trainium) and Google (TPU).",
+            "The chip is specifically engineered for",
+            "AI workloads, allowing Microsoft to",
+            "optimize its AI infrastructure.",
+            "The Maia 200 delivers three times the",
+            "FP4 (single-precision floating-point)",
+            "performance compared to Amazon\u2019s",
+            "third-generation Trainium chip.",
+            "Furthermore, it achieves FP8 (8-bit",
+            "floating-point) performance exceeding",
+            "that of Google\u2019s seventh-generation TPU.",
+            "By developing its own AI chips,",
+            "Microsoft aims to gain greater control",
+            "over its AI hardware and software stack.",
+            "The chip is manufactured using TSMC\u2019s",
+            "advanced 3nm process technology, a key",
+            "factor in its performance capabilities."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-26T12:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/867670/microsoft-maia-200-ai-chip-announcement"
     },
     {
       "id": "793",
