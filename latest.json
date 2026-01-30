@@ -38,6 +38,43 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/29/a-coding-deep-dive-into-differentiable-computer-vision-with-kornia-using-geometry-optimization-loftr-matching-and-gpu-augmentations/"
     },
     {
+      "id": "842",
+      "topic": "Training Tricks",
+      "source": "Marktechpost AI",
+      "shortTitle": "PyKEEN Guide",
+      "mediumTitle": "Knowledge Graph Embeddings",
+      "longTitle": "PyKEEN Tutorial: End-to-End Workflow",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The tutorial covers the entire process,",
+            "from initial training to final",
+            "interpretation of results.",
+            "Hyperparameter tuning is a crucial step",
+            "in optimizing the embedding models.",
+            "Various embedding models are trained and",
+            "their performance is directly compared.",
+            "The tutorial also details methods for",
+            "analyzing the resulting embeddings.",
+            "Optimization techniques are applied to",
+            "improve the quality of the embeddings.",
+            "This article serves as a practical guide",
+            "to utilizing PyKEEN for modern knowledge",
+            "graph embedding tasks.",
+            "Analyzing the embeddings allows users to",
+            "gain valuable insights from the",
+            "knowledge graph.",
+            "The workflow is designed to be",
+            "end-to-end, providing a complete",
+            "solution."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-30T22:18:32.000Z",
+      "ranking": 7.695,
+      "articleUrl": "https://www.marktechpost.com/2026/01/30/a-coding-implementation-to-training-optimizing-evaluating-and-interpreting-knowledge-graph-embeddings-with-pykeen/"
+    },
+    {
       "id": "837",
       "topic": "Vision",
       "source": "Marktechpost AI",
@@ -145,6 +182,42 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/30/microsoft-unveils-maia-200-an-fp4-and-fp8-optimized-ai-inference-accelerator-for-azure-datacenters/"
     },
     {
+      "id": "839",
+      "topic": "Gaming, Business",
+      "source": "The Verge AI",
+      "shortTitle": "AI Game Tool",
+      "mediumTitle": "Google AI Impacts Stocks",
+      "longTitle": "Google\u0027s \u0027Project Genie\u0027 Worries Game Firms",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The declines indicate investor concern",
+            "about the potential impact of AI on the",
+            "video game market.",
+            "Project Genie is designed to generate",
+            "interactive experiences based on user",
+            "input.",
+            "The potential for AI-driven game",
+            "generation is raising questions about",
+            "the future of traditional game",
+            "development.",
+            "The market is reacting to the",
+            "possibility of AI disrupting the",
+            "existing business models of game",
+            "companies.",
+            "Take-Two Interactive\u2019s closing price",
+            "represented a significant drop from the",
+            "previous day.",
+            "Reuters reported on the stock declines",
+            "following Google\u2019s announcement."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-30T18:45:16.000Z",
+      "ranking": 6.3549999999999995,
+      "articleUrl": "https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity"
+    },
+    {
       "id": "833",
       "topic": "Energy",
       "source": "The Verge AI",
@@ -177,7 +250,7 @@
         }
       ],
       "publishedAt": "2026-01-29T18:12:49.000Z",
-      "ranking": 6.455982857833401,
+      "ranking": 6.0636189105517,
       "articleUrl": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge"
     },
     {
@@ -211,7 +284,7 @@
         }
       ],
       "publishedAt": "2026-01-29T13:00:00.000Z",
-      "ranking": 5.604044850554134,
+      "ranking": 5.139209405445637,
       "articleUrl": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on"
     },
     {
@@ -247,7 +320,7 @@
         }
       ],
       "publishedAt": "2026-01-29T15:22:27.000Z",
-      "ranking": 5.503427888943666,
+      "ranking": 5.07159440808864,
       "articleUrl": "https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech"
     },
     {
@@ -284,7 +357,7 @@
         }
       ],
       "publishedAt": "2026-01-29T15:47:58.000Z",
-      "ranking": 5.362395890847788,
+      "ranking": 4.936473957529958,
       "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
     },
     {
@@ -321,7 +394,7 @@
         }
       ],
       "publishedAt": "2026-01-29T15:47:58.000Z",
-      "ranking": 5.206032251600341,
+      "ranking": 4.780110317435475,
       "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
     },
     {
@@ -357,7 +430,7 @@
         }
       ],
       "publishedAt": "2026-01-29T13:00:00.000Z",
-      "ranking": 4.90904483720907,
+      "ranking": 4.444209388035709,
       "articleUrl": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey"
     },
     {
@@ -394,7 +467,7 @@
         }
       ],
       "publishedAt": "2026-01-29T03:15:27.000Z",
-      "ranking": 4.7157482117191645,
+      "ranking": 4.115487708965586,
       "articleUrl": "https://www.marktechpost.com/2026/01/28/alibaba-introduces-qwen3-max-thinking-a-test-time-scaled-reasoning-model-with-native-tool-use-powering-agentic-workloads/"
     },
     {
@@ -431,7 +504,7 @@
         }
       ],
       "publishedAt": "2026-01-29T08:46:08.000Z",
-      "ranking": 4.5810876414991935,
+      "ranking": 4.0574378763284775,
       "articleUrl": "https://www.marktechpost.com/2026/01/28/google-deepmind-unveils-alphagenome-a-unified-sequence-to-function-model-using-hybrid-transformers-and-u-nets-to-decode-the-human-genome/"
     },
     {
@@ -467,7 +540,7 @@
         }
       ],
       "publishedAt": "2026-01-28T17:32:07.000Z",
-      "ranking": 3.581465839526527,
+      "ranking": 2.846062150250936,
       "articleUrl": "https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse"
     },
     {
@@ -502,7 +575,7 @@
         }
       ],
       "publishedAt": "2026-01-28T16:47:25.000Z",
-      "ranking": 2.6688250625154657,
+      "ranking": 1.9230655419106544,
       "articleUrl": "https://www.theverge.com/news/869684/youtube-top-ai-channels-removed-kapwing"
     },
     {
@@ -537,7 +610,7 @@
         }
       ],
       "publishedAt": "2026-01-28T08:00:00.000Z",
-      "ranking": 1.4932756276323023,
+      "ranking": 0.6253273612813581,
       "articleUrl": "https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk"
     },
     {
@@ -574,7 +647,7 @@
         }
       ],
       "publishedAt": "2026-01-28T07:23:39.000Z",
-      "ranking": 1.15550034401394,
+      "ranking": 0.2791307248998409,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/tencent-hunyuan-releases-hpc-ops-a-high-performance-llm-inference-operator-library/"
     },
     {
@@ -611,7 +684,7 @@
         }
       ],
       "publishedAt": "2026-01-28T07:15:37.000Z",
-      "ranking": 0.5920901147449991,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives"
     },
     {
@@ -1186,76 +1259,6 @@
       "publishedAt": "2026-01-25T22:08:15.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/25/stepfun-ai-introduce-step-deepresearch-a-cost-effective-deep-research-agent-model-built-around-atomic-capabilities/"
-    },
-    {
-      "id": "790",
-      "topic": "Security",
-      "source": "Marktechpost AI",
-      "shortTitle": "AI Vulner Scan",
-      "mediumTitle": "AI-Powered Vulnerability Prioritization",
-      "longTitle": "AI-Assisted Scanner for Better Vulnerability Ranking",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The system aims to learn to prioritize",
-            "vulnerabilities beyond the limitations",
-            "of static CVSS scores.",
-            "CVSS scores often don\u0027t fully reflect",
-            "the real-world exploitability or impact",
-            "of a vulnerability.",
-            "The new approach treats vulnerability",
-            "descriptions as containing rich",
-            "linguistic information, not just simple",
-            "text.",
-            "Combining semantic embeddings with",
-            "structural data allows for a more",
-            "nuanced understanding of vulnerability",
-            "risk.",
-            "Traditional vulnerability prioritization",
-            "often relies solely on Common",
-            "Vulnerability Scoring System (CVSS)",
-            "scores."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-24T06:43:36.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/23/how-machine-learning-and-semantic-embeddings-reorder-cve-vulnerabilities-beyond-raw-cvss-scores/"
-    },
-    {
-      "id": "789",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Cost-Aware AI",
-      "mediumTitle": "AI Planning with Limits",
-      "longTitle": "AI Agent Balances Quality \u0026 Cost",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The agent doesn\u0027t simply execute the",
-            "best action, but strategically evaluates",
-            "options.",
-            "The goal is to achieve the best possible",
-            "outcome given the limitations it faces.",
-            "This agent is designed to function",
-            "effectively under real-world",
-            "constraints, unlike systems focused",
-            "solely on output quality.",
-            "Candidate actions are evaluated based on",
-            "their expected costs and benefits.",
-            "Latency, or response time, is also",
-            "factored into the cost assessment.",
-            "Token usage is a key constraint",
-            "considered during the action estimation",
-            "process.",
-            "The number of tool calls required for",
-            "each action impacts its overall cost."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-23T22:30:26.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/23/how-an-ai-agent-chooses-what-to-do-under-tokens-latency-and-tool-call-budget-constraints/"
     }
   ]
 }
