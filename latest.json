@@ -1,6 +1,43 @@
 {
   "articles": [
     {
+      "id": "838",
+      "topic": "Vision",
+      "source": "Marktechpost AI",
+      "shortTitle": "Kornia CV",
+      "mediumTitle": "Differentiable CV in PyTorch",
+      "longTitle": "Kornia: Building Modern CV Pipelines",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article details a practical",
+            "implementation of differentiable",
+            "computer vision using the Kornia library",
+            "in PyTorch.",
+            "Differentiable geometry allows for",
+            "direct optimization of transformations",
+            "like homographies using gradient",
+            "descent.",
+            "The article showcases Kornia\u0027s ability",
+            "to construct sophisticated computer",
+            "vision systems within PyTorch.",
+            "This differentiability enables learning",
+            "and refining these transformations",
+            "through backpropagation in PyTorch.",
+            "The implementation begins with creating",
+            "GPU-accelerated augmentation pipelines",
+            "for faster processing.",
+            "Learned feature matching enhances the",
+            "pipeline\u0027s capabilities by finding",
+            "corresponding points across images."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-30T08:24:55.000Z",
+      "ranking": 7.709090909090907,
+      "articleUrl": "https://www.marktechpost.com/2026/01/29/a-coding-deep-dive-into-differentiable-computer-vision-with-kornia-using-geometry-optimization-loftr-matching-and-gpu-augmentations/"
+    },
+    {
       "id": "833",
       "topic": "Energy",
       "source": "The Verge AI",
@@ -35,6 +72,41 @@
       "publishedAt": "2026-01-29T18:12:49.000Z",
       "ranking": 7.650000000000001,
       "articleUrl": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge"
+    },
+    {
+      "id": "837",
+      "topic": "Vision",
+      "source": "Marktechpost AI",
+      "shortTitle": "DeepSeek-OCR 2",
+      "mediumTitle": "New Open-Source OCR System",
+      "longTitle": "DeepSeek AI Releases OCR \u0026 Doc Understanding",
+      "paragraphs": [
+        {
+          "Lines": [
+            "DeepSeek AI recently released",
+            "DeepSeek-OCR 2, a new open-source system",
+            "for Optical Character Recognition (OCR).",
+            "DeepEncoder V2 is a transformer-based",
+            "language model at the heart of the",
+            "system.",
+            "A key innovation is the restructuring of",
+            "the vision encoder to process pages in a",
+            "causal order.",
+            "This causal processing is intended to",
+            "mimic human reading patterns for better",
+            "comprehension.",
+            "It transforms a two-dimensional page",
+            "layout into a one-dimensional sequence",
+            "for processing.",
+            "The system also focuses on document",
+            "understanding, aiming to interpret the",
+            "content and structure of documents."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-30T09:21:49.000Z",
+      "ranking": 7.529999999999999,
+      "articleUrl": "https://www.marktechpost.com/2026/01/30/deepseek-ai-releases-deepseek-ocr-2-with-causal-visual-flow-encoder-for-layout-aware-document-understanding/"
     },
     {
       "id": "828",
@@ -107,6 +179,42 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/29/ant-group-releases-lingbot-vla-a-vision-language-action-foundation-model-for-real-world-robot-manipulation/"
     },
     {
+      "id": "836",
+      "topic": "Hardware",
+      "source": "Marktechpost AI",
+      "shortTitle": "Maia 200",
+      "mediumTitle": "Microsoft\u0027s New AI Chip",
+      "longTitle": "Microsoft Unveils Maia 200 AI Accelerator",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft has unveiled Maia 200, a new",
+            "AI accelerator chip designed",
+            "specifically for inference workloads",
+            "within its Azure datacenters.",
+            "The chip is focused on reducing the cost",
+            "associated with generating tokens for",
+            "large language models (LLMs) and",
+            "handling other reasoning tasks.",
+            "Maia 200 achieves cost reduction through",
+            "a combination of specialized features.",
+            "Narrow precision compute, utilizing FP4",
+            "and FP8 data formats, is a key component",
+            "of the chip\u0027s design.",
+            "A dense on-chip memory hierarchy",
+            "contributes to faster data access and",
+            "improved performance.",
+            "An Ethernet-based scale-up fabric",
+            "enables efficient scaling of the chip\u0027s",
+            "capabilities."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-30T10:01:55.000Z",
+      "ranking": 7.08,
+      "articleUrl": "https://www.marktechpost.com/2026/01/30/microsoft-unveils-maia-200-an-fp4-and-fp8-optimized-ai-inference-accelerator-for-azure-datacenters/"
+    },
+    {
       "id": "832",
       "topic": "Speech, AI Ops",
       "source": "The Verge AI",
@@ -141,43 +249,6 @@
       "publishedAt": "2026-01-29T15:22:27.000Z",
       "ranking": 6.969999999999999,
       "articleUrl": "https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech"
-    },
-    {
-      "id": "826",
-      "topic": "Science",
-      "source": "Marktechpost AI",
-      "shortTitle": "AlphaGenome",
-      "mediumTitle": "Google\u0027s AlphaGenome Model",
-      "longTitle": "AlphaGenome: A New Genomics AI Model",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AlphaGenome is designed for \u0027sequence to",
-            "function\u0027 genomics, aiming to decipher",
-            "the roles of different genetic",
-            "sequences.",
-            "AlphaGenome represents a notable step",
-            "forward in the modeling of the human",
-            "genome.",
-            "The \u0027unified\u0027 nature of AlphaGenome",
-            "suggests it can handle multiple genomic",
-            "prediction tasks without requiring",
-            "separate models.",
-            "The model\u0027s development builds on the",
-            "advancements achieved with AlphaFold in",
-            "the field of protein folding.",
-            "This new model could potentially",
-            "accelerate research in areas like gene",
-            "regulation and disease understanding.",
-            "The use of hybrid Transformers and",
-            "U-Nets indicates a sophisticated",
-            "approach to genomic data analysis."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T08:46:08.000Z",
-      "ranking": 6.789999999999999,
-      "articleUrl": "https://www.marktechpost.com/2026/01/28/google-deepmind-unveils-alphagenome-a-unified-sequence-to-function-model-using-hybrid-transformers-and-u-nets-to-decode-the-human-genome/"
     },
     {
       "id": "834",
@@ -323,8 +394,45 @@
         }
       ],
       "publishedAt": "2026-01-29T03:15:27.000Z",
-      "ranking": 6.178255453503535,
+      "ranking": 5.7530509102702485,
       "articleUrl": "https://www.marktechpost.com/2026/01/28/alibaba-introduces-qwen3-max-thinking-a-test-time-scaled-reasoning-model-with-native-tool-use-powering-agentic-workloads/"
+    },
+    {
+      "id": "826",
+      "topic": "Science",
+      "source": "Marktechpost AI",
+      "shortTitle": "AlphaGenome",
+      "mediumTitle": "Google\u0027s AlphaGenome Model",
+      "longTitle": "AlphaGenome: A New Genomics AI Model",
+      "paragraphs": [
+        {
+          "Lines": [
+            "AlphaGenome is designed for \u0027sequence to",
+            "function\u0027 genomics, aiming to decipher",
+            "the roles of different genetic",
+            "sequences.",
+            "AlphaGenome represents a notable step",
+            "forward in the modeling of the human",
+            "genome.",
+            "The \u0027unified\u0027 nature of AlphaGenome",
+            "suggests it can handle multiple genomic",
+            "prediction tasks without requiring",
+            "separate models.",
+            "The model\u0027s development builds on the",
+            "advancements achieved with AlphaFold in",
+            "the field of protein folding.",
+            "This new model could potentially",
+            "accelerate research in areas like gene",
+            "regulation and disease understanding.",
+            "The use of hybrid Transformers and",
+            "U-Nets indicates a sophisticated",
+            "approach to genomic data analysis."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T08:46:08.000Z",
+      "ranking": 5.464549590099756,
+      "articleUrl": "https://www.marktechpost.com/2026/01/28/google-deepmind-unveils-alphagenome-a-unified-sequence-to-function-model-using-hybrid-transformers-and-u-nets-to-decode-the-human-genome/"
     },
     {
       "id": "820",
@@ -359,7 +467,7 @@
         }
       ],
       "publishedAt": "2026-01-28T17:32:07.000Z",
-      "ranking": 5.447941888317963,
+      "ranking": 4.890147311157255,
       "articleUrl": "https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse"
     },
     {
@@ -394,7 +502,7 @@
         }
       ],
       "publishedAt": "2026-01-28T16:47:25.000Z",
-      "ranking": 4.56625666511551,
+      "ranking": 3.998301901893888,
       "articleUrl": "https://www.theverge.com/news/869684/youtube-top-ai-channels-removed-kapwing"
     },
     {
@@ -429,7 +537,7 @@
         }
       ],
       "publishedAt": "2026-01-28T08:00:00.000Z",
-      "ranking": 3.7559527375331463,
+      "ranking": 3.068117646583765,
       "articleUrl": "https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk"
     },
     {
@@ -466,7 +574,7 @@
         }
       ],
       "publishedAt": "2026-01-28T07:23:39.000Z",
-      "ranking": 3.443350482442886,
+      "ranking": 2.7472531375486184,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/tencent-hunyuan-releases-hpc-ops-a-high-performance-llm-inference-operator-library/"
     },
     {
@@ -503,7 +611,7 @@
         }
       ],
       "publishedAt": "2026-01-28T07:15:37.000Z",
-      "ranking": 2.8855034814958174,
+      "ranking": 2.1875801818051155,
       "articleUrl": "https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives"
     },
     {
@@ -539,7 +647,7 @@
         }
       ],
       "publishedAt": "2026-01-28T00:55:34.000Z",
-      "ranking": 1.99350399049436,
+      "ranking": 1.209196391953805,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/moonshot-ai-releases-kimi-k2-5-an-open-source-visual-agentic-intelligence-model-with-native-swarm-execution/"
     },
     {
@@ -575,7 +683,7 @@
         }
       ],
       "publishedAt": "2026-01-27T19:53:53.000Z",
-      "ranking": 1.1498640458821772,
+      "ranking": 0.2969846724383709,
       "articleUrl": "https://www.theverge.com/news/869008/meta-data-centers-ad-campaign"
     },
     {
@@ -612,7 +720,7 @@
         }
       ],
       "publishedAt": "2026-01-27T20:52:41.000Z",
-      "ranking": 1.0993162266721308,
+      "ranking": 0.25980192669378255,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/dsgym-offers-a-reusable-container-based-substrate-for-building-and-benchmarking-data-science-agents/"
     },
     {
@@ -646,8 +754,42 @@
         }
       ],
       "publishedAt": "2026-01-27T20:24:27.000Z",
-      "ranking": 0.9865629026478873,
+      "ranking": 0.14063124512359249,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/how-tree-kg-enables-hierarchical-knowledge-graphs-for-contextual-navigation-and-explainable-multi-hop-reasoning-beyond-traditional-rag/"
+    },
+    {
+      "id": "815",
+      "topic": "Robotics",
+      "source": "The Verge AI",
+      "shortTitle": "Moltbot AI",
+      "mediumTitle": "Moltbot: A Useful AI Agent",
+      "longTitle": "Moltbot Automates Tasks Locally",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Moltbot, formerly known as Clawdbot, is",
+            "an open-source AI agent designed for",
+            "practical task automation.",
+            "Moltbot operates locally on a user\u2019s",
+            "device, improving privacy and",
+            "potentially reducing dependence on cloud",
+            "services.",
+            "Unlike conversational AI, Moltbot is",
+            "engineered to \u0027actually do things\u0027",
+            "beyond simply offering information.",
+            "The creator emphasizes Moltbot\u2019s purpose",
+            "as a useful tool, distinguishing it from",
+            "typical conversational chatbots.",
+            "The agent can manage personal reminders,",
+            "log health and fitness data, and",
+            "facilitate client communication,",
+            "according to user reports."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-27T19:28:11.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/report/869004/moltbot-clawdbot-local-ai-agent"
     },
     {
       "id": "811",
@@ -682,42 +824,8 @@
         }
       ],
       "publishedAt": "2026-01-27T18:28:58.000Z",
-      "ranking": 0.5287167665127823,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/report/868859/electricity-rates-power-grid-ai-data-center-winter-storm"
-    },
-    {
-      "id": "815",
-      "topic": "Robotics",
-      "source": "The Verge AI",
-      "shortTitle": "Moltbot AI",
-      "mediumTitle": "Moltbot: A Useful AI Agent",
-      "longTitle": "Moltbot Automates Tasks Locally",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Moltbot, formerly known as Clawdbot, is",
-            "an open-source AI agent designed for",
-            "practical task automation.",
-            "Moltbot operates locally on a user\u2019s",
-            "device, improving privacy and",
-            "potentially reducing dependence on cloud",
-            "services.",
-            "Unlike conversational AI, Moltbot is",
-            "engineered to \u0027actually do things\u0027",
-            "beyond simply offering information.",
-            "The creator emphasizes Moltbot\u2019s purpose",
-            "as a useful tool, distinguishing it from",
-            "typical conversational chatbots.",
-            "The agent can manage personal reminders,",
-            "log health and fitness data, and",
-            "facilitate client communication,",
-            "according to user reports."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-27T19:28:11.000Z",
-      "ranking": 0.2919558330263907,
-      "articleUrl": "https://www.theverge.com/report/869004/moltbot-clawdbot-local-ai-agent"
     },
     {
       "id": "807",
@@ -1148,80 +1256,6 @@
       "publishedAt": "2026-01-23T22:30:26.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/23/how-an-ai-agent-chooses-what-to-do-under-tokens-latency-and-tool-call-budget-constraints/"
-    },
-    {
-      "id": "788",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Meta AI Pause",
-      "mediumTitle": "Meta Halts Teen AI Chat",
-      "longTitle": "Meta Temporarily Pauses Teen Access to AI Characters",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Teenage users will not be able to chat",
-            "with the AI characters during this",
-            "period.",
-            "The company is prioritizing refinement",
-            "of the AI character interactions.",
-            "Meta intends to re-enable access for",
-            "teens once the new version is ready.",
-            "The pause is a temporary measure to",
-            "facilitate these improvements.",
-            "The company is focused on improving the",
-            "quality of interactions with its AI",
-            "characters.",
-            "The specific reasons necessitating a new",
-            "version of the AI characters were not",
-            "disclosed.",
-            "The October post focused on enhanced",
-            "parental controls related to Meta\u2019s AI",
-            "features.",
-            "Meta announced the temporary halt as an",
-            "update to a blog post from October."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-23T15:50:59.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version"
-    },
-    {
-      "id": "786",
-      "topic": "News",
-      "source": "The Verge AI",
-      "shortTitle": "ChatGPT Health",
-      "mediumTitle": "ChatGPT \u0026 Healthcare",
-      "longTitle": "Millions Use ChatGPT for Health Advice",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI reports that over 230 million",
-            "individuals are currently utilizing",
-            "ChatGPT for health and wellness guidance",
-            "on a weekly basis.",
-            "OpenAI aims to build user trust",
-            "regarding the handling of sensitive",
-            "health data, including diagnoses.",
-            "Many users view ChatGPT as a supportive",
-            "tool for managing complex healthcare",
-            "tasks.",
-            "A key aspect of this usage is the",
-            "sharing of personal health information",
-            "with the chatbot.",
-            "Specifically, the chatbot assists with",
-            "understanding health insurance details",
-            "and completing necessary healthcare",
-            "paperwork.",
-            "ChatGPT is also empowering users to more",
-            "effectively advocate for their own",
-            "health needs."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-23T12:07:24.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/report/866683/chatgpt-health-sharing-data"
     }
   ]
 }
