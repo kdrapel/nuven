@@ -1,41 +1,40 @@
 {
   "articles": [
     {
-      "id": "825",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Alibaba LLM",
-      "mediumTitle": "Alibaba Releases Qwen3-Max",
-      "longTitle": "Alibaba Unveils Qwen3-Max-Thinking LLM",
+      "id": "833",
+      "topic": "Energy",
+      "source": "The Verge AI",
+      "shortTitle": "Gas Plant Rise",
+      "mediumTitle": "US Gas Plant Boom",
+      "longTitle": "Data Centers Fuel Gas Power Surge",
       "paragraphs": [
         {
           "Lines": [
-            "Alibaba has released Qwen3-Max-Thinking,",
-            "its new flagship large language model",
-            "(LLM).",
-            "This model distinguishes itself not only",
-            "through its scale \u2013 a trillion",
-            "parameters \u2013 but also through a novel",
-            "approach to inference.",
-            "Qwen3-Max-Thinking allows for explicit",
-            "control over \u201Cthinking depth\u201D during the",
-            "reasoning process.",
-            "A key feature of Qwen3-Max-Thinking is",
-            "its native tool use capability.",
-            "It\u2019s equipped with built-in tools for",
-            "functions like search, memory access,",
-            "and code execution.",
-            "The model was pre-trained on a massive",
-            "dataset of 36 trillion tokens.",
-            "These tools are designed to enhance its",
-            "performance on complex, agentic",
-            "workloads."
+            "Globally, gas-fired power generation in",
+            "development increased by 31% in 2023.",
+            "The escalating energy demands of data",
+            "centers are the main reason for this",
+            "global trend.",
+            "Increased gas power generation directly",
+            "translates to increased planet-heating",
+            "pollution.",
+            "Approximately 25% of this new capacity",
+            "is planned for the US.",
+            "The United States is currently",
+            "experiencing a resurgence in gas power",
+            "plant construction.",
+            "This US increase is contributing to a",
+            "broader global increase in gas power",
+            "capacity.",
+            "The article emphasizes the impact of",
+            "data center energy needs on broader",
+            "energy infrastructure decisions."
           ]
         }
       ],
-      "publishedAt": "2026-01-29T03:15:27.000Z",
-      "ranking": 7.66,
-      "articleUrl": "https://www.marktechpost.com/2026/01/28/alibaba-introduces-qwen3-max-thinking-a-test-time-scaled-reasoning-model-with-native-tool-use-powering-agentic-workloads/"
+      "publishedAt": "2026-01-29T18:12:49.000Z",
+      "ranking": 7.650000000000001,
+      "articleUrl": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge"
     },
     {
       "id": "828",
@@ -70,6 +69,42 @@
       "publishedAt": "2026-01-29T13:00:00.000Z",
       "ranking": 7.32,
       "articleUrl": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on"
+    },
+    {
+      "id": "835",
+      "topic": "Robotics, Vision, Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "LingBot-VLA",
+      "mediumTitle": "New Robot Control Model",
+      "longTitle": "Ant Group Releases LingBot-VLA for Robotics",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Ant Group Robbyant developed LingBot-VLA",
+            "to improve practical robot manipulation.",
+            "The model is designed for use in",
+            "real-world scenarios, bridging the gap",
+            "between research and application.",
+            "LingBot-VLA is a Vision Language Action",
+            "(VLA) model, meaning it processes visual",
+            "input, language commands, and robot",
+            "actions.",
+            "Approximately 20,000 hours of bimanual",
+            "teleoperation data were used for",
+            "training.",
+            "A key goal of LingBot-VLA is to create a",
+            "single, generalizable model.",
+            "This model can then be adapted to",
+            "control various dual-arm robots without",
+            "extensive retraining.",
+            "The nine robot types represent a diverse",
+            "range of hardware configurations."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-30T01:02:19.000Z",
+      "ranking": 7.29,
+      "articleUrl": "https://www.marktechpost.com/2026/01/29/ant-group-releases-lingbot-vla-a-vision-language-action-foundation-model-for-real-world-robot-manipulation/"
     },
     {
       "id": "832",
@@ -145,6 +180,43 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/28/google-deepmind-unveils-alphagenome-a-unified-sequence-to-function-model-using-hybrid-transformers-and-u-nets-to-decode-the-human-genome/"
     },
     {
+      "id": "834",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "SpaceX Merger",
+      "mediumTitle": "SpaceX Considers Merger",
+      "longTitle": "SpaceX Explores Tesla or xAI Merger",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Musk believes a merger would provide a",
+            "faster route to achieving artificial",
+            "general intelligence (AGI).",
+            "No final decisions have been made",
+            "regarding a merger, and the timing",
+            "remains uncertain.",
+            "Market conditions and regulatory",
+            "approvals will influence any potential",
+            "deal.",
+            "Integrating Tesla\u2019s manufacturing",
+            "capabilities and supply chain with",
+            "SpaceX could create significant",
+            "efficiencies.",
+            "SpaceX\u2019s initial public offering (IPO)",
+            "remains a primary objective.",
+            "SpaceX is currently valued at",
+            "approximately $150 billion.",
+            "Reuters first reported the discussions",
+            "between SpaceX and xAI regarding a",
+            "potential merger."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T15:47:58.000Z",
+      "ranking": 6.786363636363636,
+      "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
+    },
+    {
       "id": "831",
       "topic": "Business",
       "source": "The Verge AI",
@@ -218,6 +290,43 @@
       "articleUrl": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey"
     },
     {
+      "id": "825",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Alibaba LLM",
+      "mediumTitle": "Alibaba Releases Qwen3-Max",
+      "longTitle": "Alibaba Unveils Qwen3-Max-Thinking LLM",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Alibaba has released Qwen3-Max-Thinking,",
+            "its new flagship large language model",
+            "(LLM).",
+            "This model distinguishes itself not only",
+            "through its scale \u2013 a trillion",
+            "parameters \u2013 but also through a novel",
+            "approach to inference.",
+            "Qwen3-Max-Thinking allows for explicit",
+            "control over \u201Cthinking depth\u201D during the",
+            "reasoning process.",
+            "A key feature of Qwen3-Max-Thinking is",
+            "its native tool use capability.",
+            "It\u2019s equipped with built-in tools for",
+            "functions like search, memory access,",
+            "and code execution.",
+            "The model was pre-trained on a massive",
+            "dataset of 36 trillion tokens.",
+            "These tools are designed to enhance its",
+            "performance on complex, agentic",
+            "workloads."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T03:15:27.000Z",
+      "ranking": 6.55730824977786,
+      "articleUrl": "https://www.marktechpost.com/2026/01/28/alibaba-introduces-qwen3-max-thinking-a-test-time-scaled-reasoning-model-with-native-tool-use-powering-agentic-workloads/"
+    },
+    {
       "id": "820",
       "topic": "Generative AI, NLP",
       "source": "The Verge AI",
@@ -250,7 +359,7 @@
         }
       ],
       "publishedAt": "2026-01-28T17:32:07.000Z",
-      "ranking": 6.422262850744639,
+      "ranking": 5.962439818255336,
       "articleUrl": "https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse"
     },
     {
@@ -285,7 +394,7 @@
         }
       ],
       "publishedAt": "2026-01-28T16:47:25.000Z",
-      "ranking": 5.561365019263299,
+      "ranking": 5.091133562320085,
       "articleUrl": "https://www.theverge.com/news/869684/youtube-top-ai-channels-removed-kapwing"
     },
     {
@@ -320,7 +429,7 @@
         }
       ],
       "publishedAt": "2026-01-28T08:00:00.000Z",
-      "ranking": 4.9963321613684375,
+      "ranking": 4.403291384835306,
       "articleUrl": "https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk"
     },
     {
@@ -357,7 +466,7 @@
         }
       ],
       "publishedAt": "2026-01-28T07:23:39.000Z",
-      "ranking": 4.700634193091545,
+      "ranking": 4.099129294873498,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/tencent-hunyuan-releases-hpc-ops-a-high-performance-llm-inference-operator-library/"
     },
     {
@@ -394,7 +503,7 @@
         }
       ],
       "publishedAt": "2026-01-28T07:15:37.000Z",
-      "ranking": 4.1465230324126185,
+      "ranking": 3.5431475668959838,
       "articleUrl": "https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives"
     },
     {
@@ -430,7 +539,7 @@
         }
       ],
       "publishedAt": "2026-01-28T00:55:34.000Z",
-      "ranking": 3.4312628752643874,
+      "ranking": 2.739392513514148,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/moonshot-ai-releases-kimi-k2-5-an-open-source-visual-agentic-intelligence-model-with-native-swarm-execution/"
     },
     {
@@ -466,7 +575,7 @@
         }
       ],
       "publishedAt": "2026-01-27T19:53:53.000Z",
-      "ranking": 2.7279184488702732,
+      "ranking": 1.965800921987321,
       "articleUrl": "https://www.theverge.com/news/869008/meta-data-centers-ad-campaign"
     },
     {
@@ -503,7 +612,7 @@
         }
       ],
       "publishedAt": "2026-01-27T20:52:41.000Z",
-      "ranking": 2.6500261392124846,
+      "ranking": 1.9016002330502255,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/dsgym-offers-a-reusable-container-based-substrate-for-building-and-benchmarking-data-science-agents/"
     },
     {
@@ -537,7 +646,7 @@
         }
       ],
       "publishedAt": "2026-01-27T20:24:27.000Z",
-      "ranking": 2.5504025099229413,
+      "ranking": 1.795402453612307,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/how-tree-kg-enables-hierarchical-knowledge-graphs-for-contextual-navigation-and-explainable-multi-hop-reasoning-beyond-traditional-rag/"
     },
     {
@@ -573,7 +682,7 @@
         }
       ],
       "publishedAt": "2026-01-27T18:28:58.000Z",
-      "ranking": 2.1462610104198667,
+      "ranking": 1.3643705841792526,
       "articleUrl": "https://www.theverge.com/report/868859/electricity-rates-power-grid-ai-data-center-winter-storm"
     },
     {
@@ -607,7 +716,7 @@
         }
       ],
       "publishedAt": "2026-01-27T19:28:11.000Z",
-      "ranking": 1.881961819940046,
+      "ranking": 1.113860034757983,
       "articleUrl": "https://www.theverge.com/report/869004/moltbot-clawdbot-local-ai-agent"
     },
     {
@@ -644,7 +753,7 @@
         }
       ],
       "publishedAt": "2026-01-27T13:00:00.000Z",
-      "ranking": 1.466941099924978,
+      "ranking": 0.6084505672921132,
       "articleUrl": "https://www.theverge.com/news/868497/google-ai-search-follow-up-questions-gemini-3"
     },
     {
@@ -681,45 +790,8 @@
         }
       ],
       "publishedAt": "2026-01-27T12:26:34.000Z",
-      "ranking": 1.016405237536981,
+      "ranking": 0.1501297319834567,
       "articleUrl": "https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores"
-    },
-    {
-      "id": "804",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "GP AI Videos",
-      "mediumTitle": "Google Photos: AI Video Control",
-      "longTitle": "Google Photos Adds Text Prompts for AI Videos",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google Photos has been updated to allow",
-            "users greater control over its",
-            "AI-powered photo-to-video feature.",
-            "The key change is the introduction of",
-            "support for text prompts.",
-            "Users can now *describe* how they want",
-            "still images to be transformed into",
-            "videos \u2013 specifying desired movement,",
-            "style, or effects.",
-            "This expands upon the existing",
-            "functionality, giving users more",
-            "creative input into the video generation",
-            "process.",
-            "With text prompts, users can now guide",
-            "the AI more precisely.",
-            "The announcement was made on Monday.",
-            "Previously, the AI video creation",
-            "process relied on Google Photos\u0027",
-            "automatic selections and",
-            "interpretations."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-27T08:44:01.000Z",
-      "ranking": 0.12986377756980172,
-      "articleUrl": "https://www.theverge.com/news/868510/google-photos-image-to-video-text-prompt-support"
     },
     {
       "id": "810",
@@ -757,6 +829,43 @@
       "publishedAt": "2026-01-27T10:06:25.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/868531/pinterest-layoffs-cuts-15-percent-ai-transformation"
+    },
+    {
+      "id": "804",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "GP AI Videos",
+      "mediumTitle": "Google Photos: AI Video Control",
+      "longTitle": "Google Photos Adds Text Prompts for AI Videos",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google Photos has been updated to allow",
+            "users greater control over its",
+            "AI-powered photo-to-video feature.",
+            "The key change is the introduction of",
+            "support for text prompts.",
+            "Users can now *describe* how they want",
+            "still images to be transformed into",
+            "videos \u2013 specifying desired movement,",
+            "style, or effects.",
+            "This expands upon the existing",
+            "functionality, giving users more",
+            "creative input into the video generation",
+            "process.",
+            "With text prompts, users can now guide",
+            "the AI more precisely.",
+            "The announcement was made on Monday.",
+            "Previously, the AI video creation",
+            "process relied on Google Photos\u0027",
+            "automatic selections and",
+            "interpretations."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-27T08:44:01.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/868510/google-photos-image-to-video-text-prompt-support"
     },
     {
       "id": "802",
@@ -1113,78 +1222,6 @@
       "publishedAt": "2026-01-23T12:07:24.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/report/866683/chatgpt-health-sharing-data"
-    },
-    {
-      "id": "783",
-      "topic": "Speech",
-      "source": "Marktechpost AI",
-      "shortTitle": "Qwen3-TTS",
-      "mediumTitle": "Alibaba\u0027s Open-Source TTS",
-      "longTitle": "Qwen3-TTS: Multilingual Text-to-Speech Suite",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The Alibaba Cloud\u2019s Qwen team has",
-            "released Qwen3-TTS, an open-source",
-            "multilingual text-to-speech (TTS) suite.",
-            "This suite is designed to handle three",
-            "key tasks within a single framework:",
-            "voice cloning, voice design, and",
-            "high-quality speech generation.",
-            "The release aims to provide a",
-            "comprehensive and versatile tool for",
-            "developers and researchers working with",
-            "speech synthesis.",
-            "Qwen3-TTS utilizes a 12Hz speech",
-            "tokenizer for processing audio data.",
-            "The suite is available in two language",
-            "model sizes, 0.6B and 1.7B parameters,",
-            "offering flexibility for different use",
-            "cases.",
-            "Qwen3-TTS is notable for its potential",
-            "to achieve real-time latency in speech",
-            "generation."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-23T07:26:31.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/22/qwen-researchers-release-qwen3-tts-an-open-multilingual-tts-suite-with-real-time-latency-and-fine-grained-voice-control/"
-    },
-    {
-      "id": "785",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "MS Paint AI",
-      "mediumTitle": "Paint \u0026 Notepad Get AI",
-      "longTitle": "Microsoft Adds AI Features to Windows Apps",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft is updating its Paint and",
-            "Notepad applications on Windows 11 with",
-            "new artificial intelligence (AI)",
-            "features.",
-            "The key addition to Microsoft Paint is",
-            "an AI-powered feature allowing users to",
-            "generate coloring book-style line art",
-            "from sketches or images.",
-            "These updates are currently being",
-            "released to users participating in the",
-            "Windows Insider Program, specifically",
-            "those in the Canary and Dev channels.",
-            "Users can input a sketch or image, and",
-            "the AI will transform it into a black",
-            "and white line drawing suitable for",
-            "coloring.",
-            "Notepad is receiving AI-powered text",
-            "improvement capabilities."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-23T07:06:39.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/866524/microsoft-paint-notepad-ai-coloring-book"
     }
   ]
 }
