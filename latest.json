@@ -1,6 +1,43 @@
 {
   "articles": [
     {
+      "id": "844",
+      "topic": "NLP",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Grokipedia",
+      "mediumTitle": "Grokipedia\u0027s Growing AI Use",
+      "longTitle": "AI Chatbots Increasingly Rely on Grokipedia",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The growing trend raises concerns about",
+            "the quality and reliability of",
+            "information provided by these AI",
+            "chatbots.",
+            "Misinformation could potentially spread",
+            "more easily if AI systems rely heavily",
+            "on a single, potentially flawed source.",
+            "The potential for inaccuracies within",
+            "Grokipedia is a key concern driving the",
+            "discussion.",
+            "The article emphasizes the broadening",
+            "dependence on Grokipedia across multiple",
+            "prominent AI platforms.",
+            "The article specifically names Google\u2019s",
+            "AI Overviews, AI Mode, and Gemini as",
+            "examples of AI tools utilizing",
+            "Grokipedia.",
+            "The initial reports focused on ChatGPT\u0027s",
+            "use of Grokipedia, but the trend extends",
+            "to other major AI platforms."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-31T09:00:00.000Z",
+      "ranking": 7.890000000000001,
+      "articleUrl": "https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia"
+    },
+    {
       "id": "842",
       "topic": "Training Tricks",
       "source": "Marktechpost AI",
@@ -143,7 +180,7 @@
         }
       ],
       "publishedAt": "2026-01-30T08:24:55.000Z",
-      "ranking": 6.346324057230255,
+      "ranking": 5.931661270489808,
       "articleUrl": "https://www.marktechpost.com/2026/01/29/a-coding-deep-dive-into-differentiable-computer-vision-with-kornia-using-geometry-optimization-loftr-matching-and-gpu-augmentations/"
     },
     {
@@ -178,7 +215,7 @@
         }
       ],
       "publishedAt": "2026-01-30T09:21:49.000Z",
-      "ranking": 6.257926931881942,
+      "ranking": 5.856369061370777,
       "articleUrl": "https://www.marktechpost.com/2026/01/30/deepseek-ai-releases-deepseek-ocr-2-with-causal-visual-flow-encoder-for-layout-aware-document-understanding/"
     },
     {
@@ -214,7 +251,7 @@
         }
       ],
       "publishedAt": "2026-01-30T10:01:55.000Z",
-      "ranking": 5.8699671178483666,
+      "ranking": 5.477644874130614,
       "articleUrl": "https://www.marktechpost.com/2026/01/30/microsoft-unveils-maia-200-an-fp4-and-fp8-optimized-ai-inference-accelerator-for-azure-datacenters/"
     },
     {
@@ -250,7 +287,7 @@
         }
       ],
       "publishedAt": "2026-01-30T01:02:19.000Z",
-      "ranking": 5.11515028007583,
+      "ranking": 4.598550120063415,
       "articleUrl": "https://www.marktechpost.com/2026/01/29/ant-group-releases-lingbot-vla-a-vision-language-action-foundation-model-for-real-world-robot-manipulation/"
     },
     {
@@ -286,7 +323,7 @@
         }
       ],
       "publishedAt": "2026-01-29T18:12:49.000Z",
-      "ranking": 4.555524370234654,
+      "ranking": 3.944610261807373,
       "articleUrl": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge"
     },
     {
@@ -322,7 +359,7 @@
         }
       ],
       "publishedAt": "2026-01-29T15:22:27.000Z",
-      "ranking": 3.445285292050227,
+      "ranking": 2.7951332029203853,
       "articleUrl": "https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech"
     },
     {
@@ -356,7 +393,7 @@
         }
       ],
       "publishedAt": "2026-01-29T13:00:00.000Z",
-      "ranking": 3.414056608438517,
+      "ranking": 2.7310961619982823,
       "articleUrl": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on"
     },
     {
@@ -393,7 +430,7 @@
         }
       ],
       "publishedAt": "2026-01-29T15:47:58.000Z",
-      "ranking": 3.3278704253771805,
+      "ranking": 2.6835952027872514,
       "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
     },
     {
@@ -430,7 +467,7 @@
         }
       ],
       "publishedAt": "2026-01-29T15:47:58.000Z",
-      "ranking": 3.1715067845235687,
+      "ranking": 2.5272315610597147,
       "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
     },
     {
@@ -466,7 +503,7 @@
         }
       ],
       "publishedAt": "2026-01-29T13:00:00.000Z",
-      "ranking": 2.71905659433875,
+      "ranking": 2.03609614575843,
       "articleUrl": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey"
     },
     {
@@ -503,7 +540,7 @@
         }
       ],
       "publishedAt": "2026-01-29T08:46:08.000Z",
-      "ranking": 2.156131254075639,
+      "ranking": 1.414701529297223,
       "articleUrl": "https://www.marktechpost.com/2026/01/28/google-deepmind-unveils-alphagenome-a-unified-sequence-to-function-model-using-hybrid-transformers-and-u-nets-to-decode-the-human-genome/"
     },
     {
@@ -540,7 +577,7 @@
         }
       ],
       "publishedAt": "2026-01-29T03:15:27.000Z",
-      "ranking": 1.984725441543488,
+      "ranking": 1.1671344187245358,
       "articleUrl": "https://www.marktechpost.com/2026/01/28/alibaba-introduces-qwen3-max-thinking-a-test-time-scaled-reasoning-model-with-native-tool-use-powering-agentic-workloads/"
     },
     {
@@ -576,7 +613,7 @@
         }
       ],
       "publishedAt": "2026-01-28T17:32:07.000Z",
-      "ranking": 0.3105346474948938,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse"
     },
     {
@@ -1260,41 +1297,6 @@
       "publishedAt": "2026-01-26T12:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/867670/microsoft-maia-200-ai-chip-announcement"
-    },
-    {
-      "id": "793",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Step-DeepResearch",
-      "mediumTitle": "AI Agent for Deep Research",
-      "longTitle": "StepFun AI Launches Research Agent",
-      "paragraphs": [
-        {
-          "Lines": [
-            "StepFun AI recently launched",
-            "Step-DeepResearch, a 32 billion",
-            "parameter deep research agent.",
-            "This new agent is designed to move",
-            "beyond simple web searches and create",
-            "complete research processes.",
-            "A key function of Step-DeepResearch is",
-            "the automated generation of structured",
-            "reports.",
-            "Step-DeepResearch incorporates features",
-            "like long-term reasoning to maintain",
-            "context throughout the research.",
-            "The agent is also capable of utilizing",
-            "various tools to enhance its research",
-            "capabilities.",
-            "Step-DeepResearch functions as a single",
-            "agent, handling all stages of research",
-            "without external intervention."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-25T22:08:15.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/25/stepfun-ai-introduce-step-deepresearch-a-cost-effective-deep-research-agent-model-built-around-atomic-capabilities/"
     }
   ]
 }
