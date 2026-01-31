@@ -1,43 +1,6 @@
 {
   "articles": [
     {
-      "id": "838",
-      "topic": "Vision",
-      "source": "Marktechpost AI",
-      "shortTitle": "Kornia CV",
-      "mediumTitle": "Differentiable CV in PyTorch",
-      "longTitle": "Kornia: Building Modern CV Pipelines",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article details a practical",
-            "implementation of differentiable",
-            "computer vision using the Kornia library",
-            "in PyTorch.",
-            "Differentiable geometry allows for",
-            "direct optimization of transformations",
-            "like homographies using gradient",
-            "descent.",
-            "The article showcases Kornia\u0027s ability",
-            "to construct sophisticated computer",
-            "vision systems within PyTorch.",
-            "This differentiability enables learning",
-            "and refining these transformations",
-            "through backpropagation in PyTorch.",
-            "The implementation begins with creating",
-            "GPU-accelerated augmentation pipelines",
-            "for faster processing.",
-            "Learned feature matching enhances the",
-            "pipeline\u0027s capabilities by finding",
-            "corresponding points across images."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-30T08:24:55.000Z",
-      "ranking": 7.709090909090907,
-      "articleUrl": "https://www.marktechpost.com/2026/01/29/a-coding-deep-dive-into-differentiable-computer-vision-with-kornia-using-geometry-optimization-loftr-matching-and-gpu-augmentations/"
-    },
-    {
       "id": "842",
       "topic": "Training Tricks",
       "source": "Marktechpost AI",
@@ -73,41 +36,6 @@
       "publishedAt": "2026-01-30T22:18:32.000Z",
       "ranking": 7.695,
       "articleUrl": "https://www.marktechpost.com/2026/01/30/a-coding-implementation-to-training-optimizing-evaluating-and-interpreting-knowledge-graph-embeddings-with-pykeen/"
-    },
-    {
-      "id": "837",
-      "topic": "Vision",
-      "source": "Marktechpost AI",
-      "shortTitle": "DeepSeek-OCR 2",
-      "mediumTitle": "New Open-Source OCR System",
-      "longTitle": "DeepSeek AI Releases OCR \u0026 Doc Understanding",
-      "paragraphs": [
-        {
-          "Lines": [
-            "DeepSeek AI recently released",
-            "DeepSeek-OCR 2, a new open-source system",
-            "for Optical Character Recognition (OCR).",
-            "DeepEncoder V2 is a transformer-based",
-            "language model at the heart of the",
-            "system.",
-            "A key innovation is the restructuring of",
-            "the vision encoder to process pages in a",
-            "causal order.",
-            "This causal processing is intended to",
-            "mimic human reading patterns for better",
-            "comprehension.",
-            "It transforms a two-dimensional page",
-            "layout into a one-dimensional sequence",
-            "for processing.",
-            "The system also focuses on document",
-            "understanding, aiming to interpret the",
-            "content and structure of documents."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-30T09:21:49.000Z",
-      "ranking": 7.529999999999999,
-      "articleUrl": "https://www.marktechpost.com/2026/01/30/deepseek-ai-releases-deepseek-ocr-2-with-causal-visual-flow-encoder-for-layout-aware-document-understanding/"
     },
     {
       "id": "843",
@@ -146,42 +74,6 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/30/robbyant-open-sources-lingbot-world-a-real-time-world-model-for-interactive-simulation-and-embodied-ai/"
     },
     {
-      "id": "836",
-      "topic": "Hardware",
-      "source": "Marktechpost AI",
-      "shortTitle": "Maia 200",
-      "mediumTitle": "Microsoft\u0027s New AI Chip",
-      "longTitle": "Microsoft Unveils Maia 200 AI Accelerator",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft has unveiled Maia 200, a new",
-            "AI accelerator chip designed",
-            "specifically for inference workloads",
-            "within its Azure datacenters.",
-            "The chip is focused on reducing the cost",
-            "associated with generating tokens for",
-            "large language models (LLMs) and",
-            "handling other reasoning tasks.",
-            "Maia 200 achieves cost reduction through",
-            "a combination of specialized features.",
-            "Narrow precision compute, utilizing FP4",
-            "and FP8 data formats, is a key component",
-            "of the chip\u0027s design.",
-            "A dense on-chip memory hierarchy",
-            "contributes to faster data access and",
-            "improved performance.",
-            "An Ethernet-based scale-up fabric",
-            "enables efficient scaling of the chip\u0027s",
-            "capabilities."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-30T10:01:55.000Z",
-      "ranking": 7.08,
-      "articleUrl": "https://www.marktechpost.com/2026/01/30/microsoft-unveils-maia-200-an-fp4-and-fp8-optimized-ai-inference-accelerator-for-azure-datacenters/"
-    },
-    {
       "id": "839",
       "topic": "Gaming, Business",
       "source": "The Verge AI",
@@ -218,6 +110,114 @@
       "articleUrl": "https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity"
     },
     {
+      "id": "838",
+      "topic": "Vision",
+      "source": "Marktechpost AI",
+      "shortTitle": "Kornia CV",
+      "mediumTitle": "Differentiable CV in PyTorch",
+      "longTitle": "Kornia: Building Modern CV Pipelines",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article details a practical",
+            "implementation of differentiable",
+            "computer vision using the Kornia library",
+            "in PyTorch.",
+            "Differentiable geometry allows for",
+            "direct optimization of transformations",
+            "like homographies using gradient",
+            "descent.",
+            "The article showcases Kornia\u0027s ability",
+            "to construct sophisticated computer",
+            "vision systems within PyTorch.",
+            "This differentiability enables learning",
+            "and refining these transformations",
+            "through backpropagation in PyTorch.",
+            "The implementation begins with creating",
+            "GPU-accelerated augmentation pipelines",
+            "for faster processing.",
+            "Learned feature matching enhances the",
+            "pipeline\u0027s capabilities by finding",
+            "corresponding points across images."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-30T08:24:55.000Z",
+      "ranking": 6.346324057230255,
+      "articleUrl": "https://www.marktechpost.com/2026/01/29/a-coding-deep-dive-into-differentiable-computer-vision-with-kornia-using-geometry-optimization-loftr-matching-and-gpu-augmentations/"
+    },
+    {
+      "id": "837",
+      "topic": "Vision",
+      "source": "Marktechpost AI",
+      "shortTitle": "DeepSeek-OCR 2",
+      "mediumTitle": "New Open-Source OCR System",
+      "longTitle": "DeepSeek AI Releases OCR \u0026 Doc Understanding",
+      "paragraphs": [
+        {
+          "Lines": [
+            "DeepSeek AI recently released",
+            "DeepSeek-OCR 2, a new open-source system",
+            "for Optical Character Recognition (OCR).",
+            "DeepEncoder V2 is a transformer-based",
+            "language model at the heart of the",
+            "system.",
+            "A key innovation is the restructuring of",
+            "the vision encoder to process pages in a",
+            "causal order.",
+            "This causal processing is intended to",
+            "mimic human reading patterns for better",
+            "comprehension.",
+            "It transforms a two-dimensional page",
+            "layout into a one-dimensional sequence",
+            "for processing.",
+            "The system also focuses on document",
+            "understanding, aiming to interpret the",
+            "content and structure of documents."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-30T09:21:49.000Z",
+      "ranking": 6.257926931881942,
+      "articleUrl": "https://www.marktechpost.com/2026/01/30/deepseek-ai-releases-deepseek-ocr-2-with-causal-visual-flow-encoder-for-layout-aware-document-understanding/"
+    },
+    {
+      "id": "836",
+      "topic": "Hardware",
+      "source": "Marktechpost AI",
+      "shortTitle": "Maia 200",
+      "mediumTitle": "Microsoft\u0027s New AI Chip",
+      "longTitle": "Microsoft Unveils Maia 200 AI Accelerator",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft has unveiled Maia 200, a new",
+            "AI accelerator chip designed",
+            "specifically for inference workloads",
+            "within its Azure datacenters.",
+            "The chip is focused on reducing the cost",
+            "associated with generating tokens for",
+            "large language models (LLMs) and",
+            "handling other reasoning tasks.",
+            "Maia 200 achieves cost reduction through",
+            "a combination of specialized features.",
+            "Narrow precision compute, utilizing FP4",
+            "and FP8 data formats, is a key component",
+            "of the chip\u0027s design.",
+            "A dense on-chip memory hierarchy",
+            "contributes to faster data access and",
+            "improved performance.",
+            "An Ethernet-based scale-up fabric",
+            "enables efficient scaling of the chip\u0027s",
+            "capabilities."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-30T10:01:55.000Z",
+      "ranking": 5.8699671178483666,
+      "articleUrl": "https://www.marktechpost.com/2026/01/30/microsoft-unveils-maia-200-an-fp4-and-fp8-optimized-ai-inference-accelerator-for-azure-datacenters/"
+    },
+    {
       "id": "835",
       "topic": "Robotics, Vision, Large Models",
       "source": "Marktechpost AI",
@@ -250,7 +250,7 @@
         }
       ],
       "publishedAt": "2026-01-30T01:02:19.000Z",
-      "ranking": 5.582595891456508,
+      "ranking": 5.11515028007583,
       "articleUrl": "https://www.marktechpost.com/2026/01/29/ant-group-releases-lingbot-vla-a-vision-language-action-foundation-model-for-real-world-robot-manipulation/"
     },
     {
@@ -286,42 +286,8 @@
         }
       ],
       "publishedAt": "2026-01-29T18:12:49.000Z",
-      "ranking": 5.11855434827181,
+      "ranking": 4.555524370234654,
       "articleUrl": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge"
-    },
-    {
-      "id": "828",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Games",
-      "mediumTitle": "Google AI Creates 3D Games",
-      "longTitle": "Google AI Attempts Nintendo Worlds",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The experiment showcases the AI\u0027s",
-            "ability to generate 3D game-like spaces,",
-            "even if the quality is currently",
-            "limited.",
-            "The author specifically created a *Super",
-            "Mario 64*-like world using the AI tool.",
-            "A *Metroid Prime* experience was also",
-            "generated, but the author admits it",
-            "doesn\u0027t compare to *Metroid Prime 4:",
-            "Beyond*.",
-            "The AI was also used to create a version",
-            "inspired by *The Legend of Zelda*",
-            "series.",
-            "The core focus of the article is",
-            "demonstrating what the AI *can* do,",
-            "rather than achieving professional-level",
-            "results."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T13:00:00.000Z",
-      "ranking": 4.05010339460047,
-      "articleUrl": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on"
     },
     {
       "id": "832",
@@ -356,8 +322,42 @@
         }
       ],
       "publishedAt": "2026-01-29T15:22:27.000Z",
-      "ranking": 4.048081780269485,
+      "ranking": 3.445285292050227,
       "articleUrl": "https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech"
+    },
+    {
+      "id": "828",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Games",
+      "mediumTitle": "Google AI Creates 3D Games",
+      "longTitle": "Google AI Attempts Nintendo Worlds",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The experiment showcases the AI\u0027s",
+            "ability to generate 3D game-like spaces,",
+            "even if the quality is currently",
+            "limited.",
+            "The author specifically created a *Super",
+            "Mario 64*-like world using the AI tool.",
+            "A *Metroid Prime* experience was also",
+            "generated, but the author admits it",
+            "doesn\u0027t compare to *Metroid Prime 4:",
+            "Beyond*.",
+            "The AI was also used to create a version",
+            "inspired by *The Legend of Zelda*",
+            "series.",
+            "The core focus of the article is",
+            "demonstrating what the AI *can* do,",
+            "rather than achieving professional-level",
+            "results."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T13:00:00.000Z",
+      "ranking": 3.414056608438517,
+      "articleUrl": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on"
     },
     {
       "id": "834",
@@ -393,7 +393,7 @@
         }
       ],
       "publishedAt": "2026-01-29T15:47:58.000Z",
-      "ranking": 3.9247108878524295,
+      "ranking": 3.3278704253771805,
       "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
     },
     {
@@ -430,7 +430,7 @@
         }
       ],
       "publishedAt": "2026-01-29T15:47:58.000Z",
-      "ranking": 3.768347246969916,
+      "ranking": 3.1715067845235687,
       "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
     },
     {
@@ -466,7 +466,7 @@
         }
       ],
       "publishedAt": "2026-01-29T13:00:00.000Z",
-      "ranking": 3.3551033755464945,
+      "ranking": 2.71905659433875,
       "articleUrl": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey"
     },
     {
@@ -503,7 +503,7 @@
         }
       ],
       "publishedAt": "2026-01-29T08:46:08.000Z",
-      "ranking": 2.8514348965272314,
+      "ranking": 2.156131254075639,
       "articleUrl": "https://www.marktechpost.com/2026/01/28/google-deepmind-unveils-alphagenome-a-unified-sequence-to-function-model-using-hybrid-transformers-and-u-nets-to-decode-the-human-genome/"
     },
     {
@@ -540,7 +540,7 @@
         }
       ],
       "publishedAt": "2026-01-29T03:15:27.000Z",
-      "ranking": 2.757216280368996,
+      "ranking": 1.984725441543488,
       "articleUrl": "https://www.marktechpost.com/2026/01/28/alibaba-introduces-qwen3-max-thinking-a-test-time-scaled-reasoning-model-with-native-tool-use-powering-agentic-workloads/"
     },
     {
@@ -576,7 +576,7 @@
         }
       ],
       "publishedAt": "2026-01-28T17:32:07.000Z",
-      "ranking": 1.219185553343726,
+      "ranking": 0.3105346474948938,
       "articleUrl": "https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse"
     },
     {
@@ -611,7 +611,7 @@
         }
       ],
       "publishedAt": "2026-01-28T16:47:25.000Z",
-      "ranking": 0.27560611528021717,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/869684/youtube-top-ai-channels-removed-kapwing"
     },
     {
