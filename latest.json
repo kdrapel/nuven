@@ -110,40 +110,40 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/30/deepseek-ai-releases-deepseek-ocr-2-with-causal-visual-flow-encoder-for-layout-aware-document-understanding/"
     },
     {
-      "id": "835",
-      "topic": "Robotics, Vision, Large Models",
+      "id": "843",
+      "topic": "Robotics, Generative AI",
       "source": "Marktechpost AI",
-      "shortTitle": "LingBot-VLA",
-      "mediumTitle": "New Robot Control Model",
-      "longTitle": "Ant Group Releases LingBot-VLA for Robotics",
+      "shortTitle": "LingBot-World",
+      "mediumTitle": "Ant Group Open-Sources AI World",
+      "longTitle": "LingBot-World: Interactive AI Simulation",
       "paragraphs": [
         {
           "Lines": [
-            "Ant Group Robbyant developed LingBot-VLA",
-            "to improve practical robot manipulation.",
-            "The model is designed for use in",
-            "real-world scenarios, bridging the gap",
-            "between research and application.",
-            "LingBot-VLA is a Vision Language Action",
-            "(VLA) model, meaning it processes visual",
-            "input, language commands, and robot",
-            "actions.",
-            "Approximately 20,000 hours of bimanual",
-            "teleoperation data were used for",
-            "training.",
-            "A key goal of LingBot-VLA is to create a",
-            "single, generalizable model.",
-            "This model can then be adapted to",
-            "control various dual-arm robots without",
-            "extensive retraining.",
-            "The nine robot types represent a diverse",
-            "range of hardware configurations."
+            "LingBot-World\u2019s core function is to",
+            "simulate and test AI agents in",
+            "interactive environments.",
+            "The open-sourcing of LingBot-World is",
+            "intended to encourage further",
+            "development and research in embodied AI.",
+            "This new system allows for the creation",
+            "of environments that are both visually",
+            "detailed and dynamically responsive.",
+            "Real-time interaction is a key feature,",
+            "enabling immediate feedback and control",
+            "within the simulated world.",
+            "The world model features robust dynamics",
+            "and extended temporal horizons for more",
+            "realistic simulations.",
+            "Robbyant, the embodied AI unit of Ant",
+            "Group, is responsible for the",
+            "development and open-sourcing of",
+            "LingBot-World."
           ]
         }
       ],
-      "publishedAt": "2026-01-30T01:02:19.000Z",
-      "ranking": 7.29,
-      "articleUrl": "https://www.marktechpost.com/2026/01/29/ant-group-releases-lingbot-vla-a-vision-language-action-foundation-model-for-real-world-robot-manipulation/"
+      "publishedAt": "2026-01-31T02:53:19.000Z",
+      "ranking": 7.31875,
+      "articleUrl": "https://www.marktechpost.com/2026/01/30/robbyant-open-sources-lingbot-world-a-real-time-world-model-for-interactive-simulation-and-embodied-ai/"
     },
     {
       "id": "836",
@@ -218,6 +218,42 @@
       "articleUrl": "https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity"
     },
     {
+      "id": "835",
+      "topic": "Robotics, Vision, Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "LingBot-VLA",
+      "mediumTitle": "New Robot Control Model",
+      "longTitle": "Ant Group Releases LingBot-VLA for Robotics",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Ant Group Robbyant developed LingBot-VLA",
+            "to improve practical robot manipulation.",
+            "The model is designed for use in",
+            "real-world scenarios, bridging the gap",
+            "between research and application.",
+            "LingBot-VLA is a Vision Language Action",
+            "(VLA) model, meaning it processes visual",
+            "input, language commands, and robot",
+            "actions.",
+            "Approximately 20,000 hours of bimanual",
+            "teleoperation data were used for",
+            "training.",
+            "A key goal of LingBot-VLA is to create a",
+            "single, generalizable model.",
+            "This model can then be adapted to",
+            "control various dual-arm robots without",
+            "extensive retraining.",
+            "The nine robot types represent a diverse",
+            "range of hardware configurations."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-30T01:02:19.000Z",
+      "ranking": 5.98470917068159,
+      "articleUrl": "https://www.marktechpost.com/2026/01/29/ant-group-releases-lingbot-vla-a-vision-language-action-foundation-model-for-real-world-robot-manipulation/"
+    },
+    {
       "id": "833",
       "topic": "Energy",
       "source": "The Verge AI",
@@ -250,7 +286,7 @@
         }
       ],
       "publishedAt": "2026-01-29T18:12:49.000Z",
-      "ranking": 6.0636189105517,
+      "ranking": 5.614046987365248,
       "articleUrl": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge"
     },
     {
@@ -284,7 +320,7 @@
         }
       ],
       "publishedAt": "2026-01-29T13:00:00.000Z",
-      "ranking": 5.139209405445637,
+      "ranking": 4.616928445296279,
       "articleUrl": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on"
     },
     {
@@ -320,7 +356,7 @@
         }
       ],
       "publishedAt": "2026-01-29T15:22:27.000Z",
-      "ranking": 5.07159440808864,
+      "ranking": 4.582423584263426,
       "articleUrl": "https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech"
     },
     {
@@ -357,7 +393,7 @@
         }
       ],
       "publishedAt": "2026-01-29T15:47:58.000Z",
-      "ranking": 4.936473957529958,
+      "ranking": 4.453234059109054,
       "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
     },
     {
@@ -394,7 +430,7 @@
         }
       ],
       "publishedAt": "2026-01-29T15:47:58.000Z",
-      "ranking": 4.780110317435475,
+      "ranking": 4.296870418923237,
       "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
     },
     {
@@ -430,45 +466,8 @@
         }
       ],
       "publishedAt": "2026-01-29T13:00:00.000Z",
-      "ranking": 4.444209388035709,
+      "ranking": 3.9219284278695556,
       "articleUrl": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey"
-    },
-    {
-      "id": "825",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Alibaba LLM",
-      "mediumTitle": "Alibaba Releases Qwen3-Max",
-      "longTitle": "Alibaba Unveils Qwen3-Max-Thinking LLM",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Alibaba has released Qwen3-Max-Thinking,",
-            "its new flagship large language model",
-            "(LLM).",
-            "This model distinguishes itself not only",
-            "through its scale \u2013 a trillion",
-            "parameters \u2013 but also through a novel",
-            "approach to inference.",
-            "Qwen3-Max-Thinking allows for explicit",
-            "control over \u201Cthinking depth\u201D during the",
-            "reasoning process.",
-            "A key feature of Qwen3-Max-Thinking is",
-            "its native tool use capability.",
-            "It\u2019s equipped with built-in tools for",
-            "functions like search, memory access,",
-            "and code execution.",
-            "The model was pre-trained on a massive",
-            "dataset of 36 trillion tokens.",
-            "These tools are designed to enhance its",
-            "performance on complex, agentic",
-            "workloads."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T03:15:27.000Z",
-      "ranking": 4.115487708965586,
-      "articleUrl": "https://www.marktechpost.com/2026/01/28/alibaba-introduces-qwen3-max-thinking-a-test-time-scaled-reasoning-model-with-native-tool-use-powering-agentic-workloads/"
     },
     {
       "id": "826",
@@ -504,8 +503,45 @@
         }
       ],
       "publishedAt": "2026-01-29T08:46:08.000Z",
-      "ranking": 4.0574378763284775,
+      "ranking": 3.4761498320461572,
       "articleUrl": "https://www.marktechpost.com/2026/01/28/google-deepmind-unveils-alphagenome-a-unified-sequence-to-function-model-using-hybrid-transformers-and-u-nets-to-decode-the-human-genome/"
+    },
+    {
+      "id": "825",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Alibaba LLM",
+      "mediumTitle": "Alibaba Releases Qwen3-Max",
+      "longTitle": "Alibaba Unveils Qwen3-Max-Thinking LLM",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Alibaba has released Qwen3-Max-Thinking,",
+            "its new flagship large language model",
+            "(LLM).",
+            "This model distinguishes itself not only",
+            "through its scale \u2013 a trillion",
+            "parameters \u2013 but also through a novel",
+            "approach to inference.",
+            "Qwen3-Max-Thinking allows for explicit",
+            "control over \u201Cthinking depth\u201D during the",
+            "reasoning process.",
+            "A key feature of Qwen3-Max-Thinking is",
+            "its native tool use capability.",
+            "It\u2019s equipped with built-in tools for",
+            "functions like search, memory access,",
+            "and code execution.",
+            "The model was pre-trained on a massive",
+            "dataset of 36 trillion tokens.",
+            "These tools are designed to enhance its",
+            "performance on complex, agentic",
+            "workloads."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T03:15:27.000Z",
+      "ranking": 3.457337802952261,
+      "articleUrl": "https://www.marktechpost.com/2026/01/28/alibaba-introduces-qwen3-max-thinking-a-test-time-scaled-reasoning-model-with-native-tool-use-powering-agentic-workloads/"
     },
     {
       "id": "820",
@@ -540,7 +576,7 @@
         }
       ],
       "publishedAt": "2026-01-28T17:32:07.000Z",
-      "ranking": 2.846062150250936,
+      "ranking": 2.0523261076342534,
       "articleUrl": "https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse"
     },
     {
@@ -575,7 +611,7 @@
         }
       ],
       "publishedAt": "2026-01-28T16:47:25.000Z",
-      "ranking": 1.9230655419106544,
+      "ranking": 1.1189397282003863,
       "articleUrl": "https://www.theverge.com/news/869684/youtube-top-ai-channels-removed-kapwing"
     },
     {
@@ -610,7 +646,7 @@
         }
       ],
       "publishedAt": "2026-01-28T08:00:00.000Z",
-      "ranking": 0.6253273612813581,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk"
     },
     {
@@ -647,7 +683,7 @@
         }
       ],
       "publishedAt": "2026-01-28T07:23:39.000Z",
-      "ranking": 0.2791307248998409,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/tencent-hunyuan-releases-hpc-ops-a-high-performance-llm-inference-operator-library/"
     },
     {
