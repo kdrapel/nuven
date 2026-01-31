@@ -38,43 +38,6 @@
       "articleUrl": "https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia"
     },
     {
-      "id": "842",
-      "topic": "Training Tricks",
-      "source": "Marktechpost AI",
-      "shortTitle": "PyKEEN Guide",
-      "mediumTitle": "Knowledge Graph Embeddings",
-      "longTitle": "PyKEEN Tutorial: End-to-End Workflow",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The tutorial covers the entire process,",
-            "from initial training to final",
-            "interpretation of results.",
-            "Hyperparameter tuning is a crucial step",
-            "in optimizing the embedding models.",
-            "Various embedding models are trained and",
-            "their performance is directly compared.",
-            "The tutorial also details methods for",
-            "analyzing the resulting embeddings.",
-            "Optimization techniques are applied to",
-            "improve the quality of the embeddings.",
-            "This article serves as a practical guide",
-            "to utilizing PyKEEN for modern knowledge",
-            "graph embedding tasks.",
-            "Analyzing the embeddings allows users to",
-            "gain valuable insights from the",
-            "knowledge graph.",
-            "The workflow is designed to be",
-            "end-to-end, providing a complete",
-            "solution."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-30T22:18:32.000Z",
-      "ranking": 7.695,
-      "articleUrl": "https://www.marktechpost.com/2026/01/30/a-coding-implementation-to-training-optimizing-evaluating-and-interpreting-knowledge-graph-embeddings-with-pykeen/"
-    },
-    {
       "id": "843",
       "topic": "Robotics, Generative AI",
       "source": "Marktechpost AI",
@@ -111,6 +74,80 @@
       "articleUrl": "https://www.marktechpost.com/2026/01/30/robbyant-open-sources-lingbot-world-a-real-time-world-model-for-interactive-simulation-and-embodied-ai/"
     },
     {
+      "id": "845",
+      "topic": "Space",
+      "source": "The Verge AI",
+      "shortTitle": "SpaceX Satellites",
+      "mediumTitle": "SpaceX Seeks FCC Approval",
+      "longTitle": "SpaceX Plans 1 Million Data Satellites",
+      "paragraphs": [
+        {
+          "Lines": [
+            "SpaceX has requested permission from the",
+            "Federal Communications Commission (FCC)",
+            "to launch a massive constellation of 1",
+            "million data center satellites.",
+            "The proposed satellites would operate as",
+            "solar-powered data centers in orbit.",
+            "This ambitious plan aims to deliver",
+            "global data services through an",
+            "extensive orbital infrastructure.",
+            "SpaceX\u2019s history indicates that",
+            "requesting a large number of satellites",
+            "initially is a common tactic to initiate",
+            "discussions with the FCC.",
+            "Full approval for a network of this",
+            "scale is considered unlikely by industry",
+            "observers.",
+            "The filing with the FCC details the",
+            "company\u2019s vision for leveraging",
+            "space-based infrastructure for data",
+            "services."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-31T15:38:36.000Z",
+      "ranking": 7.055,
+      "articleUrl": "https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit"
+    },
+    {
+      "id": "842",
+      "topic": "Training Tricks",
+      "source": "Marktechpost AI",
+      "shortTitle": "PyKEEN Guide",
+      "mediumTitle": "Knowledge Graph Embeddings",
+      "longTitle": "PyKEEN Tutorial: End-to-End Workflow",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The tutorial covers the entire process,",
+            "from initial training to final",
+            "interpretation of results.",
+            "Hyperparameter tuning is a crucial step",
+            "in optimizing the embedding models.",
+            "Various embedding models are trained and",
+            "their performance is directly compared.",
+            "The tutorial also details methods for",
+            "analyzing the resulting embeddings.",
+            "Optimization techniques are applied to",
+            "improve the quality of the embeddings.",
+            "This article serves as a practical guide",
+            "to utilizing PyKEEN for modern knowledge",
+            "graph embedding tasks.",
+            "Analyzing the embeddings allows users to",
+            "gain valuable insights from the",
+            "knowledge graph.",
+            "The workflow is designed to be",
+            "end-to-end, providing a complete",
+            "solution."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-30T22:18:32.000Z",
+      "ranking": 6.516407415131299,
+      "articleUrl": "https://www.marktechpost.com/2026/01/30/a-coding-implementation-to-training-optimizing-evaluating-and-interpreting-knowledge-graph-embeddings-with-pykeen/"
+    },
+    {
       "id": "838",
       "topic": "Vision",
       "source": "Marktechpost AI",
@@ -144,7 +181,7 @@
         }
       ],
       "publishedAt": "2026-01-30T08:24:55.000Z",
-      "ranking": 5.4631093043064,
+      "ranking": 4.93842910674949,
       "articleUrl": "https://www.marktechpost.com/2026/01/29/a-coding-deep-dive-into-differentiable-computer-vision-with-kornia-using-geometry-optimization-loftr-matching-and-gpu-augmentations/"
     },
     {
@@ -179,7 +216,7 @@
         }
       ],
       "publishedAt": "2026-01-30T09:21:49.000Z",
-      "ranking": 5.400892808478059,
+      "ranking": 4.8893209928187655,
       "articleUrl": "https://www.marktechpost.com/2026/01/30/deepseek-ai-releases-deepseek-ocr-2-with-causal-visual-flow-encoder-for-layout-aware-document-understanding/"
     },
     {
@@ -215,7 +252,7 @@
         }
       ],
       "publishedAt": "2026-01-30T18:45:16.000Z",
-      "ranking": 5.214671829819952,
+      "ranking": 4.832905194649552,
       "articleUrl": "https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity"
     },
     {
@@ -251,7 +288,7 @@
         }
       ],
       "publishedAt": "2026-01-30T10:01:55.000Z",
-      "ranking": 5.031383179301588,
+      "ranking": 4.5290493634718345,
       "articleUrl": "https://www.marktechpost.com/2026/01/30/microsoft-unveils-maia-200-an-fp4-and-fp8-optimized-ai-inference-accelerator-for-azure-datacenters/"
     },
     {
@@ -287,7 +324,7 @@
         }
       ],
       "publishedAt": "2026-01-30T01:02:19.000Z",
-      "ranking": 4.028287347508369,
+      "ranking": 3.4016427487979843,
       "articleUrl": "https://www.marktechpost.com/2026/01/29/ant-group-releases-lingbot-vla-a-vision-language-action-foundation-model-for-real-world-robot-manipulation/"
     },
     {
@@ -323,7 +360,7 @@
         }
       ],
       "publishedAt": "2026-01-29T18:12:49.000Z",
-      "ranking": 3.2802436323770667,
+      "ranking": 2.5592601426460293,
       "articleUrl": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge"
     },
     {
@@ -359,42 +396,8 @@
         }
       ],
       "publishedAt": "2026-01-29T15:22:27.000Z",
-      "ranking": 2.091615998433304,
+      "ranking": 1.3313841515922453,
       "articleUrl": "https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech"
-    },
-    {
-      "id": "828",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Games",
-      "mediumTitle": "Google AI Creates 3D Games",
-      "longTitle": "Google AI Attempts Nintendo Worlds",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The experiment showcases the AI\u0027s",
-            "ability to generate 3D game-like spaces,",
-            "even if the quality is currently",
-            "limited.",
-            "The author specifically created a *Super",
-            "Mario 64*-like world using the AI tool.",
-            "A *Metroid Prime* experience was also",
-            "generated, but the author admits it",
-            "doesn\u0027t compare to *Metroid Prime 4:",
-            "Beyond*.",
-            "The AI was also used to create a version",
-            "inspired by *The Legend of Zelda*",
-            "series.",
-            "The core focus of the article is",
-            "demonstrating what the AI *can* do,",
-            "rather than achieving professional-level",
-            "results."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T13:00:00.000Z",
-      "ranking": 1.994843684753298,
-      "articleUrl": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on"
     },
     {
       "id": "834",
@@ -430,8 +433,42 @@
         }
       ],
       "publishedAt": "2026-01-29T15:47:58.000Z",
-      "ranking": 1.985941775202111,
+      "ranking": 1.2315883549750204,
       "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
+    },
+    {
+      "id": "828",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Games",
+      "mediumTitle": "Google AI Creates 3D Games",
+      "longTitle": "Google AI Attempts Nintendo Worlds",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The experiment showcases the AI\u0027s",
+            "ability to generate 3D game-like spaces,",
+            "even if the quality is currently",
+            "limited.",
+            "The author specifically created a *Super",
+            "Mario 64*-like world using the AI tool.",
+            "A *Metroid Prime* experience was also",
+            "generated, but the author admits it",
+            "doesn\u0027t compare to *Metroid Prime 4:",
+            "Beyond*.",
+            "The AI was also used to create a version",
+            "inspired by *The Legend of Zelda*",
+            "series.",
+            "The core focus of the article is",
+            "demonstrating what the AI *can* do,",
+            "rather than achieving professional-level",
+            "results."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T13:00:00.000Z",
+      "ranking": 1.201794798129324,
+      "articleUrl": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on"
     },
     {
       "id": "831",
@@ -467,7 +504,7 @@
         }
       ],
       "publishedAt": "2026-01-29T15:47:58.000Z",
-      "ranking": 1.8295781334776589,
+      "ranking": 1.0752247067398075,
       "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
     },
     {
@@ -503,7 +540,7 @@
         }
       ],
       "publishedAt": "2026-01-29T13:00:00.000Z",
-      "ranking": 1.2998436673392337,
+      "ranking": 0.5067947836261366,
       "articleUrl": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey"
     },
     {
@@ -540,7 +577,7 @@
         }
       ],
       "publishedAt": "2026-01-29T08:46:08.000Z",
-      "ranking": 0.6201100239948856,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/28/google-deepmind-unveils-alphagenome-a-unified-sequence-to-function-model-using-hybrid-transformers-and-u-nets-to-decode-the-human-genome/"
     },
     {
@@ -577,7 +614,7 @@
         }
       ],
       "publishedAt": "2026-01-29T03:15:27.000Z",
-      "ranking": 0.29655127381688473,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/28/alibaba-introduces-qwen3-max-thinking-a-test-time-scaled-reasoning-model-with-native-tool-use-powering-agentic-workloads/"
     },
     {
