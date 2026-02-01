@@ -144,7 +144,7 @@
         }
       ],
       "publishedAt": "2026-01-31T02:53:19.000Z",
-      "ranking": 6.185918219656749,
+      "ranking": 5.805226903603711,
       "articleUrl": "https://www.marktechpost.com/2026/01/30/robbyant-open-sources-lingbot-world-a-real-time-world-model-for-interactive-simulation-and-embodied-ai/"
     },
     {
@@ -181,7 +181,7 @@
         }
       ],
       "publishedAt": "2026-01-30T22:18:32.000Z",
-      "ranking": 6.119554632042362,
+      "ranking": 5.675545771607407,
       "articleUrl": "https://www.marktechpost.com/2026/01/30/a-coding-implementation-to-training-optimizing-evaluating-and-interpreting-knowledge-graph-embeddings-with-pykeen/"
     },
     {
@@ -217,7 +217,7 @@
         }
       ],
       "publishedAt": "2026-01-30T18:45:16.000Z",
-      "ranking": 4.385835215962521,
+      "ranking": 3.8926839218705984,
       "articleUrl": "https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity"
     },
     {
@@ -254,7 +254,7 @@
         }
       ],
       "publishedAt": "2026-01-30T08:24:55.000Z",
-      "ranking": 4.345285728579791,
+      "ranking": 3.7091889423420947,
       "articleUrl": "https://www.marktechpost.com/2026/01/29/a-coding-deep-dive-into-differentiable-computer-vision-with-kornia-using-geometry-optimization-loftr-matching-and-gpu-augmentations/"
     },
     {
@@ -289,7 +289,7 @@
         }
       ],
       "publishedAt": "2026-01-30T09:21:49.000Z",
-      "ranking": 4.309575779478594,
+      "ranking": 3.68659030007222,
       "articleUrl": "https://www.marktechpost.com/2026/01/30/deepseek-ai-releases-deepseek-ocr-2-with-causal-visual-flow-encoder-for-layout-aware-document-understanding/"
     },
     {
@@ -325,7 +325,7 @@
         }
       ],
       "publishedAt": "2026-01-30T10:01:55.000Z",
-      "ranking": 3.9587469975206333,
+      "ranking": 3.3450016429352463,
       "articleUrl": "https://www.marktechpost.com/2026/01/30/microsoft-unveils-maia-200-an-fp4-and-fp8-optimized-ai-inference-accelerator-for-azure-datacenters/"
     },
     {
@@ -361,7 +361,7 @@
         }
       ],
       "publishedAt": "2026-01-30T01:02:19.000Z",
-      "ranking": 2.7042816335665405,
+      "ranking": 1.966197779952103,
       "articleUrl": "https://www.marktechpost.com/2026/01/29/ant-group-releases-lingbot-vla-a-vision-language-action-foundation-model-for-real-world-robot-manipulation/"
     },
     {
@@ -397,115 +397,8 @@
         }
       ],
       "publishedAt": "2026-01-29T18:12:49.000Z",
-      "ranking": 1.7654747161696633,
+      "ranking": 0.9330309369325036,
       "articleUrl": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge"
-    },
-    {
-      "id": "832",
-      "topic": "Speech, AI Ops",
-      "source": "The Verge AI",
-      "shortTitle": "Apple buys Q.ai",
-      "mediumTitle": "Apple Acquires AI Startup",
-      "longTitle": "Apple Buys Q.ai for $2 Billion",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The acquisition suggests Apple is",
-            "investing in next-generation audio",
-            "technologies.",
-            "Apple may also be exploring",
-            "brain-computer interface technologies.",
-            "Q.ai\u2019s technology focuses on",
-            "interpreting speech without actual",
-            "vocalization.",
-            "This technology could detect speech from",
-            "facial expressions.",
-            "It could also detect speech from vocal",
-            "cord vibrations.",
-            "The $2 billion figure was reported by",
-            "the *Financial Times*.",
-            "The company holds patents related to",
-            "optical sensors.",
-            "Apple did not publicly disclose the",
-            "financial details of the Q.ai",
-            "acquisition."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T15:22:27.000Z",
-      "ranking": 0.49748275703248535,
-      "articleUrl": "https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech"
-    },
-    {
-      "id": "834",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "SpaceX Merger",
-      "mediumTitle": "SpaceX Considers Merger",
-      "longTitle": "SpaceX Explores Tesla or xAI Merger",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Musk believes a merger would provide a",
-            "faster route to achieving artificial",
-            "general intelligence (AGI).",
-            "No final decisions have been made",
-            "regarding a merger, and the timing",
-            "remains uncertain.",
-            "Market conditions and regulatory",
-            "approvals will influence any potential",
-            "deal.",
-            "Integrating Tesla\u2019s manufacturing",
-            "capabilities and supply chain with",
-            "SpaceX could create significant",
-            "efficiencies.",
-            "SpaceX\u2019s initial public offering (IPO)",
-            "remains a primary objective.",
-            "SpaceX is currently valued at",
-            "approximately $150 billion.",
-            "Reuters first reported the discussions",
-            "between SpaceX and xAI regarding a",
-            "potential merger."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T15:47:58.000Z",
-      "ranking": 0.4036953292865464,
-      "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
-    },
-    {
-      "id": "828",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Games",
-      "mediumTitle": "Google AI Creates 3D Games",
-      "longTitle": "Google AI Attempts Nintendo Worlds",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The experiment showcases the AI\u0027s",
-            "ability to generate 3D game-like spaces,",
-            "even if the quality is currently",
-            "limited.",
-            "The author specifically created a *Super",
-            "Mario 64*-like world using the AI tool.",
-            "A *Metroid Prime* experience was also",
-            "generated, but the author admits it",
-            "doesn\u0027t compare to *Metroid Prime 4:",
-            "Beyond*.",
-            "The AI was also used to create a version",
-            "inspired by *The Legend of Zelda*",
-            "series.",
-            "The core focus of the article is",
-            "demonstrating what the AI *can* do,",
-            "rather than achieving professional-level",
-            "results."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T13:00:00.000Z",
-      "ranking": 0.3343509274196981,
-      "articleUrl": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on"
     },
     {
       "id": "831",
@@ -541,8 +434,81 @@
         }
       ],
       "publishedAt": "2026-01-29T15:47:58.000Z",
-      "ranking": 0.24733167745459284,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
+    },
+    {
+      "id": "834",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "SpaceX Merger",
+      "mediumTitle": "SpaceX Considers Merger",
+      "longTitle": "SpaceX Explores Tesla or xAI Merger",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Musk believes a merger would provide a",
+            "faster route to achieving artificial",
+            "general intelligence (AGI).",
+            "No final decisions have been made",
+            "regarding a merger, and the timing",
+            "remains uncertain.",
+            "Market conditions and regulatory",
+            "approvals will influence any potential",
+            "deal.",
+            "Integrating Tesla\u2019s manufacturing",
+            "capabilities and supply chain with",
+            "SpaceX could create significant",
+            "efficiencies.",
+            "SpaceX\u2019s initial public offering (IPO)",
+            "remains a primary objective.",
+            "SpaceX is currently valued at",
+            "approximately $150 billion.",
+            "Reuters first reported the discussions",
+            "between SpaceX and xAI regarding a",
+            "potential merger."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T15:47:58.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
+    },
+    {
+      "id": "832",
+      "topic": "Speech, AI Ops",
+      "source": "The Verge AI",
+      "shortTitle": "Apple buys Q.ai",
+      "mediumTitle": "Apple Acquires AI Startup",
+      "longTitle": "Apple Buys Q.ai for $2 Billion",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The acquisition suggests Apple is",
+            "investing in next-generation audio",
+            "technologies.",
+            "Apple may also be exploring",
+            "brain-computer interface technologies.",
+            "Q.ai\u2019s technology focuses on",
+            "interpreting speech without actual",
+            "vocalization.",
+            "This technology could detect speech from",
+            "facial expressions.",
+            "It could also detect speech from vocal",
+            "cord vibrations.",
+            "The $2 billion figure was reported by",
+            "the *Financial Times*.",
+            "The company holds patents related to",
+            "optical sensors.",
+            "Apple did not publicly disclose the",
+            "financial details of the Q.ai",
+            "acquisition."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T15:22:27.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech"
     },
     {
       "id": "827",
@@ -579,6 +545,40 @@
       "publishedAt": "2026-01-29T13:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey"
+    },
+    {
+      "id": "828",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Games",
+      "mediumTitle": "Google AI Creates 3D Games",
+      "longTitle": "Google AI Attempts Nintendo Worlds",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The experiment showcases the AI\u0027s",
+            "ability to generate 3D game-like spaces,",
+            "even if the quality is currently",
+            "limited.",
+            "The author specifically created a *Super",
+            "Mario 64*-like world using the AI tool.",
+            "A *Metroid Prime* experience was also",
+            "generated, but the author admits it",
+            "doesn\u0027t compare to *Metroid Prime 4:",
+            "Beyond*.",
+            "The AI was also used to create a version",
+            "inspired by *The Legend of Zelda*",
+            "series.",
+            "The core focus of the article is",
+            "demonstrating what the AI *can* do,",
+            "rather than achieving professional-level",
+            "results."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T13:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on"
     },
     {
       "id": "826",
