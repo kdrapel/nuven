@@ -1,43 +1,6 @@
 {
   "articles": [
     {
-      "id": "844",
-      "topic": "NLP",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Grokipedia",
-      "mediumTitle": "Grokipedia\u0027s Growing AI Use",
-      "longTitle": "AI Chatbots Increasingly Rely on Grokipedia",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The growing trend raises concerns about",
-            "the quality and reliability of",
-            "information provided by these AI",
-            "chatbots.",
-            "Misinformation could potentially spread",
-            "more easily if AI systems rely heavily",
-            "on a single, potentially flawed source.",
-            "The potential for inaccuracies within",
-            "Grokipedia is a key concern driving the",
-            "discussion.",
-            "The article emphasizes the broadening",
-            "dependence on Grokipedia across multiple",
-            "prominent AI platforms.",
-            "The article specifically names Google\u2019s",
-            "AI Overviews, AI Mode, and Gemini as",
-            "examples of AI tools utilizing",
-            "Grokipedia.",
-            "The initial reports focused on ChatGPT\u0027s",
-            "use of Grokipedia, but the trend extends",
-            "to other major AI platforms."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-31T09:00:00.000Z",
-      "ranking": 7.890000000000001,
-      "articleUrl": "https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia"
-    },
-    {
       "id": "846",
       "topic": "Business",
       "source": "The Verge AI",
@@ -112,6 +75,43 @@
       "articleUrl": "https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit"
     },
     {
+      "id": "844",
+      "topic": "NLP",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Grokipedia",
+      "mediumTitle": "Grokipedia\u0027s Growing AI Use",
+      "longTitle": "AI Chatbots Increasingly Rely on Grokipedia",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The growing trend raises concerns about",
+            "the quality and reliability of",
+            "information provided by these AI",
+            "chatbots.",
+            "Misinformation could potentially spread",
+            "more easily if AI systems rely heavily",
+            "on a single, potentially flawed source.",
+            "The potential for inaccuracies within",
+            "Grokipedia is a key concern driving the",
+            "discussion.",
+            "The article emphasizes the broadening",
+            "dependence on Grokipedia across multiple",
+            "prominent AI platforms.",
+            "The article specifically names Google\u2019s",
+            "AI Overviews, AI Mode, and Gemini as",
+            "examples of AI tools utilizing",
+            "Grokipedia.",
+            "The initial reports focused on ChatGPT\u0027s",
+            "use of Grokipedia, but the trend extends",
+            "to other major AI platforms."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-31T09:00:00.000Z",
+      "ranking": 6.585237357558781,
+      "articleUrl": "https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia"
+    },
+    {
       "id": "843",
       "topic": "Robotics, Generative AI",
       "source": "Marktechpost AI",
@@ -144,7 +144,7 @@
         }
       ],
       "publishedAt": "2026-01-31T02:53:19.000Z",
-      "ranking": 5.805226903603711,
+      "ranking": 5.367411230709965,
       "articleUrl": "https://www.marktechpost.com/2026/01/30/robbyant-open-sources-lingbot-world-a-real-time-world-model-for-interactive-simulation-and-embodied-ai/"
     },
     {
@@ -181,7 +181,7 @@
         }
       ],
       "publishedAt": "2026-01-30T22:18:32.000Z",
-      "ranking": 5.675545771607407,
+      "ranking": 5.174129200543474,
       "articleUrl": "https://www.marktechpost.com/2026/01/30/a-coding-implementation-to-training-optimizing-evaluating-and-interpreting-knowledge-graph-embeddings-with-pykeen/"
     },
     {
@@ -217,7 +217,7 @@
         }
       ],
       "publishedAt": "2026-01-30T18:45:16.000Z",
-      "ranking": 3.8926839218705984,
+      "ranking": 3.3419049988478724,
       "articleUrl": "https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity"
     },
     {
@@ -254,7 +254,7 @@
         }
       ],
       "publishedAt": "2026-01-30T08:24:55.000Z",
-      "ranking": 3.7091889423420947,
+      "ranking": 3.014824829311765,
       "articleUrl": "https://www.marktechpost.com/2026/01/29/a-coding-deep-dive-into-differentiable-computer-vision-with-kornia-using-geometry-optimization-loftr-matching-and-gpu-augmentations/"
     },
     {
@@ -289,7 +289,7 @@
         }
       ],
       "publishedAt": "2026-01-30T09:21:49.000Z",
-      "ranking": 3.68659030007222,
+      "ranking": 3.0053961667113045,
       "articleUrl": "https://www.marktechpost.com/2026/01/30/deepseek-ai-releases-deepseek-ocr-2-with-causal-visual-flow-encoder-for-layout-aware-document-understanding/"
     },
     {
@@ -325,7 +325,7 @@
         }
       ],
       "publishedAt": "2026-01-30T10:01:55.000Z",
-      "ranking": 3.3450016429352463,
+      "ranking": 2.673088993655523,
       "articleUrl": "https://www.marktechpost.com/2026/01/30/microsoft-unveils-maia-200-an-fp4-and-fp8-optimized-ai-inference-accelerator-for-azure-datacenters/"
     },
     {
@@ -361,7 +361,7 @@
         }
       ],
       "publishedAt": "2026-01-30T01:02:19.000Z",
-      "ranking": 1.966197779952103,
+      "ranking": 1.1693902046222044,
       "articleUrl": "https://www.marktechpost.com/2026/01/29/ant-group-releases-lingbot-vla-a-vision-language-action-foundation-model-for-real-world-robot-manipulation/"
     },
     {
@@ -397,45 +397,8 @@
         }
       ],
       "publishedAt": "2026-01-29T18:12:49.000Z",
-      "ranking": 0.9330309369325036,
+      "ranking": 0.041441167985807326,
       "articleUrl": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge"
-    },
-    {
-      "id": "831",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "SpaceX/xAI",
-      "mediumTitle": "SpaceX \u0026 xAI Merger Talks",
-      "longTitle": "SpaceX and xAI Discuss Potential Merger",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The primary goal of the merger is to",
-            "facilitate SpaceX\u2019s ambitions to deploy",
-            "data centers into space.",
-            "The combined expertise and resources of",
-            "both companies are expected to",
-            "streamline the deployment process.",
-            "SpaceX is preparing for an Initial",
-            "Public Offering (IPO) later in the year.",
-            "Reuters reported the ongoing discussions",
-            "regarding the potential consolidation of",
-            "SpaceX and xAI.",
-            "Financial details and the valuation of",
-            "the potential merger have not yet been",
-            "disclosed.",
-            "Currently, the specific timing of the",
-            "merger remains uncertain and is still",
-            "under discussion.",
-            "The merger could potentially accelerate",
-            "the development of advanced technologies",
-            "for space applications."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T15:47:58.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
     },
     {
       "id": "834",
@@ -467,6 +430,43 @@
             "Reuters first reported the discussions",
             "between SpaceX and xAI regarding a",
             "potential merger."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T15:47:58.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
+    },
+    {
+      "id": "831",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "SpaceX/xAI",
+      "mediumTitle": "SpaceX \u0026 xAI Merger Talks",
+      "longTitle": "SpaceX and xAI Discuss Potential Merger",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The primary goal of the merger is to",
+            "facilitate SpaceX\u2019s ambitions to deploy",
+            "data centers into space.",
+            "The combined expertise and resources of",
+            "both companies are expected to",
+            "streamline the deployment process.",
+            "SpaceX is preparing for an Initial",
+            "Public Offering (IPO) later in the year.",
+            "Reuters reported the ongoing discussions",
+            "regarding the potential consolidation of",
+            "SpaceX and xAI.",
+            "Financial details and the valuation of",
+            "the potential merger have not yet been",
+            "disclosed.",
+            "Currently, the specific timing of the",
+            "merger remains uncertain and is still",
+            "under discussion.",
+            "The merger could potentially accelerate",
+            "the development of advanced technologies",
+            "for space applications."
           ]
         }
       ],
