@@ -38,43 +38,6 @@
       "articleUrl": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai"
     },
     {
-      "id": "845",
-      "topic": "Space",
-      "source": "The Verge AI",
-      "shortTitle": "SpaceX Satellites",
-      "mediumTitle": "SpaceX Seeks FCC Approval",
-      "longTitle": "SpaceX Plans 1 Million Data Satellites",
-      "paragraphs": [
-        {
-          "Lines": [
-            "SpaceX has requested permission from the",
-            "Federal Communications Commission (FCC)",
-            "to launch a massive constellation of 1",
-            "million data center satellites.",
-            "The proposed satellites would operate as",
-            "solar-powered data centers in orbit.",
-            "This ambitious plan aims to deliver",
-            "global data services through an",
-            "extensive orbital infrastructure.",
-            "SpaceX\u2019s history indicates that",
-            "requesting a large number of satellites",
-            "initially is a common tactic to initiate",
-            "discussions with the FCC.",
-            "Full approval for a network of this",
-            "scale is considered unlikely by industry",
-            "observers.",
-            "The filing with the FCC details the",
-            "company\u2019s vision for leveraging",
-            "space-based infrastructure for data",
-            "services."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-31T15:38:36.000Z",
-      "ranking": 7.055,
-      "articleUrl": "https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit"
-    },
-    {
       "id": "844",
       "topic": "NLP",
       "source": "The Verge AI",
@@ -108,8 +71,45 @@
         }
       ],
       "publishedAt": "2026-01-31T09:00:00.000Z",
-      "ranking": 6.585237357558781,
+      "ranking": 6.1647762483458575,
       "articleUrl": "https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia"
+    },
+    {
+      "id": "845",
+      "topic": "Space",
+      "source": "The Verge AI",
+      "shortTitle": "SpaceX Satellites",
+      "mediumTitle": "SpaceX Seeks FCC Approval",
+      "longTitle": "SpaceX Plans 1 Million Data Satellites",
+      "paragraphs": [
+        {
+          "Lines": [
+            "SpaceX has requested permission from the",
+            "Federal Communications Commission (FCC)",
+            "to launch a massive constellation of 1",
+            "million data center satellites.",
+            "The proposed satellites would operate as",
+            "solar-powered data centers in orbit.",
+            "This ambitious plan aims to deliver",
+            "global data services through an",
+            "extensive orbital infrastructure.",
+            "SpaceX\u2019s history indicates that",
+            "requesting a large number of satellites",
+            "initially is a common tactic to initiate",
+            "discussions with the FCC.",
+            "Full approval for a network of this",
+            "scale is considered unlikely by industry",
+            "observers.",
+            "The filing with the FCC details the",
+            "company\u2019s vision for leveraging",
+            "space-based infrastructure for data",
+            "services."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-31T15:38:36.000Z",
+      "ranking": 5.980310792536284,
+      "articleUrl": "https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit"
     },
     {
       "id": "843",
@@ -144,7 +144,7 @@
         }
       ],
       "publishedAt": "2026-01-31T02:53:19.000Z",
-      "ranking": 5.367411230709965,
+      "ranking": 4.859752989603097,
       "articleUrl": "https://www.marktechpost.com/2026/01/30/robbyant-open-sources-lingbot-world-a-real-time-world-model-for-interactive-simulation-and-embodied-ai/"
     },
     {
@@ -181,7 +181,7 @@
         }
       ],
       "publishedAt": "2026-01-30T22:18:32.000Z",
-      "ranking": 5.174129200543474,
+      "ranking": 4.601127611965776,
       "articleUrl": "https://www.marktechpost.com/2026/01/30/a-coding-implementation-to-training-optimizing-evaluating-and-interpreting-knowledge-graph-embeddings-with-pykeen/"
     },
     {
@@ -217,8 +217,43 @@
         }
       ],
       "publishedAt": "2026-01-30T18:45:16.000Z",
-      "ranking": 3.3419049988478724,
+      "ranking": 2.718188697105138,
       "articleUrl": "https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity"
+    },
+    {
+      "id": "837",
+      "topic": "Vision",
+      "source": "Marktechpost AI",
+      "shortTitle": "DeepSeek-OCR 2",
+      "mediumTitle": "New Open-Source OCR System",
+      "longTitle": "DeepSeek AI Releases OCR \u0026 Doc Understanding",
+      "paragraphs": [
+        {
+          "Lines": [
+            "DeepSeek AI recently released",
+            "DeepSeek-OCR 2, a new open-source system",
+            "for Optical Character Recognition (OCR).",
+            "DeepEncoder V2 is a transformer-based",
+            "language model at the heart of the",
+            "system.",
+            "A key innovation is the restructuring of",
+            "the vision encoder to process pages in a",
+            "causal order.",
+            "This causal processing is intended to",
+            "mimic human reading patterns for better",
+            "comprehension.",
+            "It transforms a two-dimensional page",
+            "layout into a one-dimensional sequence",
+            "for processing.",
+            "The system also focuses on document",
+            "understanding, aiming to interpret the",
+            "content and structure of documents."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-30T09:21:49.000Z",
+      "ranking": 2.247691725866531,
+      "articleUrl": "https://www.marktechpost.com/2026/01/30/deepseek-ai-releases-deepseek-ocr-2-with-causal-visual-flow-encoder-for-layout-aware-document-understanding/"
     },
     {
       "id": "838",
@@ -254,43 +289,8 @@
         }
       ],
       "publishedAt": "2026-01-30T08:24:55.000Z",
-      "ranking": 3.014824829311765,
+      "ranking": 2.243589584681848,
       "articleUrl": "https://www.marktechpost.com/2026/01/29/a-coding-deep-dive-into-differentiable-computer-vision-with-kornia-using-geometry-optimization-loftr-matching-and-gpu-augmentations/"
-    },
-    {
-      "id": "837",
-      "topic": "Vision",
-      "source": "Marktechpost AI",
-      "shortTitle": "DeepSeek-OCR 2",
-      "mediumTitle": "New Open-Source OCR System",
-      "longTitle": "DeepSeek AI Releases OCR \u0026 Doc Understanding",
-      "paragraphs": [
-        {
-          "Lines": [
-            "DeepSeek AI recently released",
-            "DeepSeek-OCR 2, a new open-source system",
-            "for Optical Character Recognition (OCR).",
-            "DeepEncoder V2 is a transformer-based",
-            "language model at the heart of the",
-            "system.",
-            "A key innovation is the restructuring of",
-            "the vision encoder to process pages in a",
-            "causal order.",
-            "This causal processing is intended to",
-            "mimic human reading patterns for better",
-            "comprehension.",
-            "It transforms a two-dimensional page",
-            "layout into a one-dimensional sequence",
-            "for processing.",
-            "The system also focuses on document",
-            "understanding, aiming to interpret the",
-            "content and structure of documents."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-30T09:21:49.000Z",
-      "ranking": 3.0053961667113045,
-      "articleUrl": "https://www.marktechpost.com/2026/01/30/deepseek-ai-releases-deepseek-ocr-2-with-causal-visual-flow-encoder-for-layout-aware-document-understanding/"
     },
     {
       "id": "836",
@@ -325,7 +325,7 @@
         }
       ],
       "publishedAt": "2026-01-30T10:01:55.000Z",
-      "ranking": 2.673088993655523,
+      "ranking": 1.924920307764249,
       "articleUrl": "https://www.marktechpost.com/2026/01/30/microsoft-unveils-maia-200-an-fp4-and-fp8-optimized-ai-inference-accelerator-for-azure-datacenters/"
     },
     {
@@ -361,7 +361,7 @@
         }
       ],
       "publishedAt": "2026-01-30T01:02:19.000Z",
-      "ranking": 1.1693902046222044,
+      "ranking": 0.29290489288630894,
       "articleUrl": "https://www.marktechpost.com/2026/01/29/ant-group-releases-lingbot-vla-a-vision-language-action-foundation-model-for-real-world-robot-manipulation/"
     },
     {
@@ -397,45 +397,8 @@
         }
       ],
       "publishedAt": "2026-01-29T18:12:49.000Z",
-      "ranking": 0.041441167985807326,
-      "articleUrl": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge"
-    },
-    {
-      "id": "834",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "SpaceX Merger",
-      "mediumTitle": "SpaceX Considers Merger",
-      "longTitle": "SpaceX Explores Tesla or xAI Merger",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Musk believes a merger would provide a",
-            "faster route to achieving artificial",
-            "general intelligence (AGI).",
-            "No final decisions have been made",
-            "regarding a merger, and the timing",
-            "remains uncertain.",
-            "Market conditions and regulatory",
-            "approvals will influence any potential",
-            "deal.",
-            "Integrating Tesla\u2019s manufacturing",
-            "capabilities and supply chain with",
-            "SpaceX could create significant",
-            "efficiencies.",
-            "SpaceX\u2019s initial public offering (IPO)",
-            "remains a primary objective.",
-            "SpaceX is currently valued at",
-            "approximately $150 billion.",
-            "Reuters first reported the discussions",
-            "between SpaceX and xAI regarding a",
-            "potential merger."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T15:47:58.000Z",
       "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
+      "articleUrl": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge"
     },
     {
       "id": "831",
@@ -467,6 +430,43 @@
             "The merger could potentially accelerate",
             "the development of advanced technologies",
             "for space applications."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T15:47:58.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
+    },
+    {
+      "id": "834",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "SpaceX Merger",
+      "mediumTitle": "SpaceX Considers Merger",
+      "longTitle": "SpaceX Explores Tesla or xAI Merger",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Musk believes a merger would provide a",
+            "faster route to achieving artificial",
+            "general intelligence (AGI).",
+            "No final decisions have been made",
+            "regarding a merger, and the timing",
+            "remains uncertain.",
+            "Market conditions and regulatory",
+            "approvals will influence any potential",
+            "deal.",
+            "Integrating Tesla\u2019s manufacturing",
+            "capabilities and supply chain with",
+            "SpaceX could create significant",
+            "efficiencies.",
+            "SpaceX\u2019s initial public offering (IPO)",
+            "remains a primary objective.",
+            "SpaceX is currently valued at",
+            "approximately $150 billion.",
+            "Reuters first reported the discussions",
+            "between SpaceX and xAI regarding a",
+            "potential merger."
           ]
         }
       ],
