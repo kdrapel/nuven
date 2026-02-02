@@ -73,6 +73,43 @@
       "articleUrl": "https://www.theverge.com/report/872062/grok-still-undressing-men"
     },
     {
+      "id": "851",
+      "topic": "Large Models",
+      "source": "The Verge AI",
+      "shortTitle": "OpenClaw AI",
+      "mediumTitle": "OpenClaw: Autonomous AI",
+      "longTitle": "OpenClaw: Open-Source AI Agent",
+      "paragraphs": [
+        {
+          "Lines": [
+            "It distinguishes itself by its ability",
+            "to perform real-world tasks",
+            "autonomously.",
+            "The core functionality centers around",
+            "independent operation, allowing the",
+            "agent to \u0027actually do things\u0027 rather",
+            "than simply providing information.",
+            "Users interact with OpenClaw through",
+            "common messaging applications \u2013",
+            "WhatsApp, Telegram, Signal, Discord, and",
+            "iMessage.",
+            "Granting the agent permission allows it",
+            "to execute actions on the user\u2019s behalf.",
+            "It runs locally on the user\u2019s own",
+            "computer.",
+            "OpenClaw is a trending, open-source AI",
+            "agent gaining traction within the tech",
+            "community.",
+            "This local operation offers a degree of",
+            "privacy and control."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-02T11:47:39.000Z",
+      "ranking": 7.119999999999999,
+      "articleUrl": "https://www.theverge.com/news/872091/openclaw-moltbot-clawdbot-ai-agent-news"
+    },
+    {
       "id": "848",
       "topic": "Learning",
       "source": "Marktechpost AI",
@@ -142,7 +179,7 @@
         }
       ],
       "publishedAt": "2026-01-31T19:37:56.000Z",
-      "ranking": 3.802580536367238,
+      "ranking": 3.178617643923463,
       "articleUrl": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai"
     },
     {
@@ -179,7 +216,7 @@
         }
       ],
       "publishedAt": "2026-01-31T15:38:36.000Z",
-      "ranking": 2.8919771696655765,
+      "ranking": 2.214940507534312,
       "articleUrl": "https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit"
     },
     {
@@ -216,7 +253,7 @@
         }
       ],
       "publishedAt": "2026-01-31T09:00:00.000Z",
-      "ranking": 2.520796132059762,
+      "ranking": 1.7553672519885408,
       "articleUrl": "https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia"
     },
     {
@@ -252,7 +289,7 @@
         }
       ],
       "publishedAt": "2026-01-31T02:53:19.000Z",
-      "ranking": 0.7046180827347008,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/30/robbyant-open-sources-lingbot-world-a-real-time-world-model-for-interactive-simulation-and-embodied-ai/"
     },
     {
@@ -289,7 +326,7 @@
         }
       ],
       "publishedAt": "2026-01-30T22:18:32.000Z",
-      "ranking": 0.06294605958964894,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/30/a-coding-implementation-to-training-optimizing-evaluating-and-interpreting-knowledge-graph-embeddings-with-pykeen/"
     },
     {
@@ -509,43 +546,6 @@
       "articleUrl": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge"
     },
     {
-      "id": "831",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "SpaceX/xAI",
-      "mediumTitle": "SpaceX \u0026 xAI Merger Talks",
-      "longTitle": "SpaceX and xAI Discuss Potential Merger",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The primary goal of the merger is to",
-            "facilitate SpaceX\u2019s ambitions to deploy",
-            "data centers into space.",
-            "The combined expertise and resources of",
-            "both companies are expected to",
-            "streamline the deployment process.",
-            "SpaceX is preparing for an Initial",
-            "Public Offering (IPO) later in the year.",
-            "Reuters reported the ongoing discussions",
-            "regarding the potential consolidation of",
-            "SpaceX and xAI.",
-            "Financial details and the valuation of",
-            "the potential merger have not yet been",
-            "disclosed.",
-            "Currently, the specific timing of the",
-            "merger remains uncertain and is still",
-            "under discussion.",
-            "The merger could potentially accelerate",
-            "the development of advanced technologies",
-            "for space applications."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T15:47:58.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
-    },
-    {
       "id": "834",
       "topic": "Business",
       "source": "The Verge AI",
@@ -575,6 +575,43 @@
             "Reuters first reported the discussions",
             "between SpaceX and xAI regarding a",
             "potential merger."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T15:47:58.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
+    },
+    {
+      "id": "831",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "SpaceX/xAI",
+      "mediumTitle": "SpaceX \u0026 xAI Merger Talks",
+      "longTitle": "SpaceX and xAI Discuss Potential Merger",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The primary goal of the merger is to",
+            "facilitate SpaceX\u2019s ambitions to deploy",
+            "data centers into space.",
+            "The combined expertise and resources of",
+            "both companies are expected to",
+            "streamline the deployment process.",
+            "SpaceX is preparing for an Initial",
+            "Public Offering (IPO) later in the year.",
+            "Reuters reported the ongoing discussions",
+            "regarding the potential consolidation of",
+            "SpaceX and xAI.",
+            "Financial details and the valuation of",
+            "the potential merger have not yet been",
+            "disclosed.",
+            "Currently, the specific timing of the",
+            "merger remains uncertain and is still",
+            "under discussion.",
+            "The merger could potentially accelerate",
+            "the development of advanced technologies",
+            "for space applications."
           ]
         }
       ],
@@ -619,6 +656,40 @@
       "articleUrl": "https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech"
     },
     {
+      "id": "828",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Games",
+      "mediumTitle": "Google AI Creates 3D Games",
+      "longTitle": "Google AI Attempts Nintendo Worlds",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The experiment showcases the AI\u0027s",
+            "ability to generate 3D game-like spaces,",
+            "even if the quality is currently",
+            "limited.",
+            "The author specifically created a *Super",
+            "Mario 64*-like world using the AI tool.",
+            "A *Metroid Prime* experience was also",
+            "generated, but the author admits it",
+            "doesn\u0027t compare to *Metroid Prime 4:",
+            "Beyond*.",
+            "The AI was also used to create a version",
+            "inspired by *The Legend of Zelda*",
+            "series.",
+            "The core focus of the article is",
+            "demonstrating what the AI *can* do,",
+            "rather than achieving professional-level",
+            "results."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T13:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on"
+    },
+    {
       "id": "827",
       "topic": "Gaming, Business",
       "source": "The Verge AI",
@@ -653,40 +724,6 @@
       "publishedAt": "2026-01-29T13:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey"
-    },
-    {
-      "id": "828",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Games",
-      "mediumTitle": "Google AI Creates 3D Games",
-      "longTitle": "Google AI Attempts Nintendo Worlds",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The experiment showcases the AI\u0027s",
-            "ability to generate 3D game-like spaces,",
-            "even if the quality is currently",
-            "limited.",
-            "The author specifically created a *Super",
-            "Mario 64*-like world using the AI tool.",
-            "A *Metroid Prime* experience was also",
-            "generated, but the author admits it",
-            "doesn\u0027t compare to *Metroid Prime 4:",
-            "Beyond*.",
-            "The AI was also used to create a version",
-            "inspired by *The Legend of Zelda*",
-            "series.",
-            "The core focus of the article is",
-            "demonstrating what the AI *can* do,",
-            "rather than achieving professional-level",
-            "results."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T13:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on"
     },
     {
       "id": "826",
@@ -1302,42 +1339,6 @@
       "publishedAt": "2026-01-27T08:44:01.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/868510/google-photos-image-to-video-text-prompt-support"
-    },
-    {
-      "id": "802",
-      "topic": "Ethics, Security, Policy",
-      "source": "The Verge AI",
-      "shortTitle": "X Deepfakes",
-      "mediumTitle": "EU Investigates X AI",
-      "longTitle": "EU Launches Probe into X\u0027s Grok Deepfake Risks",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The European Commission has launched a",
-            "formal investigation into X regarding",
-            "sexualized deepfakes generated by its",
-            "Grok AI chatbot.",
-            "Non-compliance with the DSA could result",
-            "in fines of up to 6% of X\u2019s global",
-            "annual revenue.",
-            "The Commission will specifically examine",
-            "whether X took sufficient preventative",
-            "measures to identify and mitigate the",
-            "risks of deepfake creation.",
-            "The investigation will assess X\u2019s",
-            "compliance with the Digital Services Act",
-            "(DSA), a key EU regulation for online",
-            "safety.",
-            "The DSA requires Very Large Online",
-            "Platforms (VLOPs) like X to proactively",
-            "address systemic risks stemming from",
-            "their services."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-26T18:47:34.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation"
     }
   ]
 }
