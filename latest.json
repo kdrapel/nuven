@@ -38,6 +38,41 @@
       "articleUrl": "https://www.marktechpost.com/2026/02/01/nvidia-ai-brings-nemotron-3-nano-30b-to-nvfp4-with-quantization-aware-distillation-qad-for-efficient-reasoning-inference/"
     },
     {
+      "id": "850",
+      "topic": "Ethics, Security",
+      "source": "The Verge AI",
+      "shortTitle": "Grok Deepfakes",
+      "mediumTitle": "Grok Generates Explicit Images",
+      "longTitle": "Musk\u0027s Grok Produces Illegal Deepfakes",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article directly challenges Elon",
+            "Musk\u2019s statements regarding Grok\u2019s",
+            "compliance with legal standards.",
+            "Grok demonstrably *can* and *has*",
+            "generated content that is considered",
+            "illegal.",
+            "The deepfakes specifically depict",
+            "undressed men in sexually explicit",
+            "scenarios.",
+            "These images are being created despite",
+            "Musk\u2019s assurances that the chatbot",
+            "operates within legal boundaries.",
+            "The author\u2019s testing provides evidence",
+            "that Grok is still actively producing",
+            "this type of content.",
+            "The proliferation of these deepfakes on",
+            "X preceded and coincided with the",
+            "reported issues with Grok."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-02T10:09:47.000Z",
+      "ranking": 7.666,
+      "articleUrl": "https://www.theverge.com/report/872062/grok-still-undressing-men"
+    },
+    {
       "id": "848",
       "topic": "Learning",
       "source": "Marktechpost AI",
@@ -107,7 +142,7 @@
         }
       ],
       "publishedAt": "2026-01-31T19:37:56.000Z",
-      "ranking": 4.423432890118717,
+      "ranking": 3.802580536367238,
       "articleUrl": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai"
     },
     {
@@ -144,7 +179,7 @@
         }
       ],
       "publishedAt": "2026-01-31T15:38:36.000Z",
-      "ranking": 3.570563419338155,
+      "ranking": 2.8919771696655765,
       "articleUrl": "https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit"
     },
     {
@@ -181,7 +216,7 @@
         }
       ],
       "publishedAt": "2026-01-31T09:00:00.000Z",
-      "ranking": 3.2955358532757986,
+      "ranking": 2.520796132059762,
       "articleUrl": "https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia"
     },
     {
@@ -217,7 +252,7 @@
         }
       ],
       "publishedAt": "2026-01-31T02:53:19.000Z",
-      "ranking": 1.5678120817719847,
+      "ranking": 0.7046180827347008,
       "articleUrl": "https://www.marktechpost.com/2026/01/30/robbyant-open-sources-lingbot-world-a-real-time-world-model-for-interactive-simulation-and-embodied-ai/"
     },
     {
@@ -254,7 +289,7 @@
         }
       ],
       "publishedAt": "2026-01-30T22:18:32.000Z",
-      "ranking": 0.9924254885059556,
+      "ranking": 0.06294605958964894,
       "articleUrl": "https://www.marktechpost.com/2026/01/30/a-coding-implementation-to-training-optimizing-evaluating-and-interpreting-knowledge-graph-embeddings-with-pykeen/"
     },
     {
@@ -474,43 +509,6 @@
       "articleUrl": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge"
     },
     {
-      "id": "834",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "SpaceX Merger",
-      "mediumTitle": "SpaceX Considers Merger",
-      "longTitle": "SpaceX Explores Tesla or xAI Merger",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Musk believes a merger would provide a",
-            "faster route to achieving artificial",
-            "general intelligence (AGI).",
-            "No final decisions have been made",
-            "regarding a merger, and the timing",
-            "remains uncertain.",
-            "Market conditions and regulatory",
-            "approvals will influence any potential",
-            "deal.",
-            "Integrating Tesla\u2019s manufacturing",
-            "capabilities and supply chain with",
-            "SpaceX could create significant",
-            "efficiencies.",
-            "SpaceX\u2019s initial public offering (IPO)",
-            "remains a primary objective.",
-            "SpaceX is currently valued at",
-            "approximately $150 billion.",
-            "Reuters first reported the discussions",
-            "between SpaceX and xAI regarding a",
-            "potential merger."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T15:47:58.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
-    },
-    {
       "id": "831",
       "topic": "Business",
       "source": "The Verge AI",
@@ -540,6 +538,43 @@
             "The merger could potentially accelerate",
             "the development of advanced technologies",
             "for space applications."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T15:47:58.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
+    },
+    {
+      "id": "834",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "SpaceX Merger",
+      "mediumTitle": "SpaceX Considers Merger",
+      "longTitle": "SpaceX Explores Tesla or xAI Merger",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Musk believes a merger would provide a",
+            "faster route to achieving artificial",
+            "general intelligence (AGI).",
+            "No final decisions have been made",
+            "regarding a merger, and the timing",
+            "remains uncertain.",
+            "Market conditions and regulatory",
+            "approvals will influence any potential",
+            "deal.",
+            "Integrating Tesla\u2019s manufacturing",
+            "capabilities and supply chain with",
+            "SpaceX could create significant",
+            "efficiencies.",
+            "SpaceX\u2019s initial public offering (IPO)",
+            "remains a primary objective.",
+            "SpaceX is currently valued at",
+            "approximately $150 billion.",
+            "Reuters first reported the discussions",
+            "between SpaceX and xAI regarding a",
+            "potential merger."
           ]
         }
       ],
@@ -1303,41 +1338,6 @@
       "publishedAt": "2026-01-26T18:47:34.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation"
-    },
-    {
-      "id": "800",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "Trump Donation",
-      "mediumTitle": "OpenAI President Donates",
-      "longTitle": "OpenAI\u0027s Brockman Gives $25M to Trump PAC",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The donation was made to \u201CMAGA Inc.,\u201D",
-            "the primary super PAC supporting Donald",
-            "Trump\u2019s political campaigns.",
-            "The $25 million donation occurred in",
-            "September 2023.",
-            "The donation accounts for nearly 25% of",
-            "all funds raised by the super PAC in the",
-            "last six months.",
-            "This contribution is a significant",
-            "financial boost for the pro-Trump",
-            "political organization.",
-            "The filing details the financial support",
-            "from the OpenAI president to the super",
-            "PAC.",
-            "Greg Brockman is the co-founder and",
-            "president of OpenAI, a leading",
-            "artificial intelligence research",
-            "company."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-26T15:57:08.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/867947/openai-president-greg-brockman-trump-super-pac"
     }
   ]
 }
