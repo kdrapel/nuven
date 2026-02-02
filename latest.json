@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "848",
+      "topic": "Learning",
+      "source": "Marktechpost AI",
+      "shortTitle": "Dec. FL",
+      "mediumTitle": "Decentralized Federated Learning",
+      "longTitle": "Decentralized FL vs. Centralized FedAvg",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The implementation of client-side",
+            "differential privacy enhances the",
+            "privacy of individual client data.",
+            "Calibrated noise is added to the local",
+            "model updates to achieve differential",
+            "privacy.",
+            "Both the centralized FedAvg algorithm",
+            "and the decentralized Gossip Federated",
+            "Learning system are implemented from",
+            "scratch.",
+            "Controlled experiments are conducted to",
+            "evaluate the performance of both",
+            "systems.",
+            "The decentralized approach utilizes a",
+            "gossip mechanism for peer-to-peer",
+            "communication between clients.",
+            "This tutorial focuses on the behavior of",
+            "federated learning when the central",
+            "aggregation server is absent."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-02T02:14:35.000Z",
+      "ranking": 6.94,
+      "articleUrl": "https://www.marktechpost.com/2026/02/01/a-coding-and-experimental-analysis-of-decentralized-federated-learning-with-gossip-protocols-and-differential-privacy/"
+    },
+    {
       "id": "846",
       "topic": "Business",
       "source": "The Verge AI",
@@ -34,45 +70,8 @@
         }
       ],
       "publishedAt": "2026-01-31T19:37:56.000Z",
-      "ranking": 5.881496901627132,
+      "ranking": 5.448261842597358,
       "articleUrl": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai"
-    },
-    {
-      "id": "844",
-      "topic": "NLP",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Grokipedia",
-      "mediumTitle": "Grokipedia\u0027s Growing AI Use",
-      "longTitle": "AI Chatbots Increasingly Rely on Grokipedia",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The growing trend raises concerns about",
-            "the quality and reliability of",
-            "information provided by these AI",
-            "chatbots.",
-            "Misinformation could potentially spread",
-            "more easily if AI systems rely heavily",
-            "on a single, potentially flawed source.",
-            "The potential for inaccuracies within",
-            "Grokipedia is a key concern driving the",
-            "discussion.",
-            "The article emphasizes the broadening",
-            "dependence on Grokipedia across multiple",
-            "prominent AI platforms.",
-            "The article specifically names Google\u2019s",
-            "AI Overviews, AI Mode, and Gemini as",
-            "examples of AI tools utilizing",
-            "Grokipedia.",
-            "The initial reports focused on ChatGPT\u0027s",
-            "use of Grokipedia, but the trend extends",
-            "to other major AI platforms."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-31T09:00:00.000Z",
-      "ranking": 5.199418075241129,
-      "articleUrl": "https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia"
     },
     {
       "id": "845",
@@ -108,8 +107,45 @@
         }
       ],
       "publishedAt": "2026-01-31T15:38:36.000Z",
-      "ranking": 5.195884690066474,
+      "ranking": 4.706474483452631,
       "articleUrl": "https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit"
+    },
+    {
+      "id": "844",
+      "topic": "NLP",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Grokipedia",
+      "mediumTitle": "Grokipedia\u0027s Growing AI Use",
+      "longTitle": "AI Chatbots Increasingly Rely on Grokipedia",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The growing trend raises concerns about",
+            "the quality and reliability of",
+            "information provided by these AI",
+            "chatbots.",
+            "Misinformation could potentially spread",
+            "more easily if AI systems rely heavily",
+            "on a single, potentially flawed source.",
+            "The potential for inaccuracies within",
+            "Grokipedia is a key concern driving the",
+            "discussion.",
+            "The article emphasizes the broadening",
+            "dependence on Grokipedia across multiple",
+            "prominent AI platforms.",
+            "The article specifically names Google\u2019s",
+            "AI Overviews, AI Mode, and Gemini as",
+            "examples of AI tools utilizing",
+            "Grokipedia.",
+            "The initial reports focused on ChatGPT\u0027s",
+            "use of Grokipedia, but the trend extends",
+            "to other major AI platforms."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-31T09:00:00.000Z",
+      "ranking": 4.6164496837818,
+      "articleUrl": "https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia"
     },
     {
       "id": "843",
@@ -144,7 +180,7 @@
         }
       ],
       "publishedAt": "2026-01-31T02:53:19.000Z",
-      "ranking": 3.7279503158652387,
+      "ranking": 3.0589151511895114,
       "articleUrl": "https://www.marktechpost.com/2026/01/30/robbyant-open-sources-lingbot-world-a-real-time-world-model-for-interactive-simulation-and-embodied-ai/"
     },
     {
@@ -181,7 +217,7 @@
         }
       ],
       "publishedAt": "2026-01-30T22:18:32.000Z",
-      "ranking": 3.344595588901714,
+      "ranking": 2.611064123405761,
       "articleUrl": "https://www.marktechpost.com/2026/01/30/a-coding-implementation-to-training-optimizing-evaluating-and-interpreting-knowledge-graph-embeddings-with-pykeen/"
     },
     {
@@ -217,8 +253,44 @@
         }
       ],
       "publishedAt": "2026-01-30T18:45:16.000Z",
-      "ranking": 1.3648509018589712,
+      "ranking": 0.581262138336692,
       "articleUrl": "https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity"
+    },
+    {
+      "id": "836",
+      "topic": "Hardware",
+      "source": "Marktechpost AI",
+      "shortTitle": "Maia 200",
+      "mediumTitle": "Microsoft\u0027s New AI Chip",
+      "longTitle": "Microsoft Unveils Maia 200 AI Accelerator",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft has unveiled Maia 200, a new",
+            "AI accelerator chip designed",
+            "specifically for inference workloads",
+            "within its Azure datacenters.",
+            "The chip is focused on reducing the cost",
+            "associated with generating tokens for",
+            "large language models (LLMs) and",
+            "handling other reasoning tasks.",
+            "Maia 200 achieves cost reduction through",
+            "a combination of specialized features.",
+            "Narrow precision compute, utilizing FP4",
+            "and FP8 data formats, is a key component",
+            "of the chip\u0027s design.",
+            "A dense on-chip memory hierarchy",
+            "contributes to faster data access and",
+            "improved performance.",
+            "An Ethernet-based scale-up fabric",
+            "enables efficient scaling of the chip\u0027s",
+            "capabilities."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-30T10:01:55.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.marktechpost.com/2026/01/30/microsoft-unveils-maia-200-an-fp4-and-fp8-optimized-ai-inference-accelerator-for-azure-datacenters/"
     },
     {
       "id": "837",
@@ -252,7 +324,7 @@
         }
       ],
       "publishedAt": "2026-01-30T09:21:49.000Z",
-      "ranking": 0.6385933250446918,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/30/deepseek-ai-releases-deepseek-ocr-2-with-causal-visual-flow-encoder-for-layout-aware-document-understanding/"
     },
     {
@@ -289,44 +361,8 @@
         }
       ],
       "publishedAt": "2026-01-30T08:24:55.000Z",
-      "ranking": 0.6086631976501398,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/29/a-coding-deep-dive-into-differentiable-computer-vision-with-kornia-using-geometry-optimization-loftr-matching-and-gpu-augmentations/"
-    },
-    {
-      "id": "836",
-      "topic": "Hardware",
-      "source": "Marktechpost AI",
-      "shortTitle": "Maia 200",
-      "mediumTitle": "Microsoft\u0027s New AI Chip",
-      "longTitle": "Microsoft Unveils Maia 200 AI Accelerator",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft has unveiled Maia 200, a new",
-            "AI accelerator chip designed",
-            "specifically for inference workloads",
-            "within its Azure datacenters.",
-            "The chip is focused on reducing the cost",
-            "associated with generating tokens for",
-            "large language models (LLMs) and",
-            "handling other reasoning tasks.",
-            "Maia 200 achieves cost reduction through",
-            "a combination of specialized features.",
-            "Narrow precision compute, utilizing FP4",
-            "and FP8 data formats, is a key component",
-            "of the chip\u0027s design.",
-            "A dense on-chip memory hierarchy",
-            "contributes to faster data access and",
-            "improved performance.",
-            "An Ethernet-based scale-up fabric",
-            "enables efficient scaling of the chip\u0027s",
-            "capabilities."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-30T10:01:55.000Z",
-      "ranking": 0.3340240531181644,
-      "articleUrl": "https://www.marktechpost.com/2026/01/30/microsoft-unveils-maia-200-an-fp4-and-fp8-optimized-ai-inference-accelerator-for-azure-datacenters/"
     },
     {
       "id": "835",
@@ -511,6 +547,40 @@
       "articleUrl": "https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech"
     },
     {
+      "id": "828",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Games",
+      "mediumTitle": "Google AI Creates 3D Games",
+      "longTitle": "Google AI Attempts Nintendo Worlds",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The experiment showcases the AI\u0027s",
+            "ability to generate 3D game-like spaces,",
+            "even if the quality is currently",
+            "limited.",
+            "The author specifically created a *Super",
+            "Mario 64*-like world using the AI tool.",
+            "A *Metroid Prime* experience was also",
+            "generated, but the author admits it",
+            "doesn\u0027t compare to *Metroid Prime 4:",
+            "Beyond*.",
+            "The AI was also used to create a version",
+            "inspired by *The Legend of Zelda*",
+            "series.",
+            "The core focus of the article is",
+            "demonstrating what the AI *can* do,",
+            "rather than achieving professional-level",
+            "results."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T13:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on"
+    },
+    {
       "id": "827",
       "topic": "Gaming, Business",
       "source": "The Verge AI",
@@ -545,40 +615,6 @@
       "publishedAt": "2026-01-29T13:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey"
-    },
-    {
-      "id": "828",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Games",
-      "mediumTitle": "Google AI Creates 3D Games",
-      "longTitle": "Google AI Attempts Nintendo Worlds",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The experiment showcases the AI\u0027s",
-            "ability to generate 3D game-like spaces,",
-            "even if the quality is currently",
-            "limited.",
-            "The author specifically created a *Super",
-            "Mario 64*-like world using the AI tool.",
-            "A *Metroid Prime* experience was also",
-            "generated, but the author admits it",
-            "doesn\u0027t compare to *Metroid Prime 4:",
-            "Beyond*.",
-            "The AI was also used to create a version",
-            "inspired by *The Legend of Zelda*",
-            "series.",
-            "The core focus of the article is",
-            "demonstrating what the AI *can* do,",
-            "rather than achieving professional-level",
-            "results."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T13:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on"
     },
     {
       "id": "826",
@@ -1265,41 +1301,6 @@
       "publishedAt": "2026-01-26T15:57:08.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/867947/openai-president-greg-brockman-trump-super-pac"
-    },
-    {
-      "id": "795",
-      "topic": "News",
-      "source": "The Verge AI",
-      "shortTitle": "ChatGPT Ads",
-      "mediumTitle": "OpenAI Plans ChatGPT Ads",
-      "longTitle": "OpenAI Exploring Premium ChatGPT Advertising",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Unlike Google and Meta, OpenAI will not",
-            "provide advertisers with data on",
-            "post-view user engagement.",
-            "OpenAI is currently exploring options",
-            "for integrating advertising into its",
-            "popular ChatGPT chatbot.",
-            "The lack of detailed performance data",
-            "could make it more challenging for",
-            "advertisers to optimize their campaigns",
-            "on ChatGPT.",
-            "Advertisers typically rely on metrics",
-            "like click-through rates and conversion",
-            "rates to evaluate ad performance.",
-            "The $60 CPM rate suggests OpenAI is",
-            "positioning ChatGPT ads as a high-value",
-            "opportunity for advertisers.",
-            "The higher CPM could compensate for the",
-            "limited data provided to advertisers."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-26T12:33:11.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/867898/openai-chatgpt-ad-pricing"
     }
   ]
 }
