@@ -251,7 +251,7 @@
         }
       ],
       "publishedAt": "2026-02-02T02:14:35.000Z",
-      "ranking": 5.747242148470448,
+      "ranking": 5.360108203574454,
       "articleUrl": "https://www.marktechpost.com/2026/02/01/a-coding-and-experimental-analysis-of-decentralized-federated-learning-with-gossip-protocols-and-differential-privacy/"
     },
     {
@@ -288,7 +288,7 @@
         }
       ],
       "publishedAt": "2026-01-31T19:37:56.000Z",
-      "ranking": 1.7095360659648478,
+      "ranking": 0.9020058318219073,
       "articleUrl": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai"
     },
     {
@@ -325,7 +325,7 @@
         }
       ],
       "publishedAt": "2026-01-31T15:38:36.000Z",
-      "ranking": 0.6349092162655445,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit"
     },
     {
@@ -765,6 +765,40 @@
       "articleUrl": "https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech"
     },
     {
+      "id": "828",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Games",
+      "mediumTitle": "Google AI Creates 3D Games",
+      "longTitle": "Google AI Attempts Nintendo Worlds",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The experiment showcases the AI\u0027s",
+            "ability to generate 3D game-like spaces,",
+            "even if the quality is currently",
+            "limited.",
+            "The author specifically created a *Super",
+            "Mario 64*-like world using the AI tool.",
+            "A *Metroid Prime* experience was also",
+            "generated, but the author admits it",
+            "doesn\u0027t compare to *Metroid Prime 4:",
+            "Beyond*.",
+            "The AI was also used to create a version",
+            "inspired by *The Legend of Zelda*",
+            "series.",
+            "The core focus of the article is",
+            "demonstrating what the AI *can* do,",
+            "rather than achieving professional-level",
+            "results."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T13:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on"
+    },
+    {
       "id": "827",
       "topic": "Gaming, Business",
       "source": "The Verge AI",
@@ -799,40 +833,6 @@
       "publishedAt": "2026-01-29T13:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey"
-    },
-    {
-      "id": "828",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Games",
-      "mediumTitle": "Google AI Creates 3D Games",
-      "longTitle": "Google AI Attempts Nintendo Worlds",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The experiment showcases the AI\u0027s",
-            "ability to generate 3D game-like spaces,",
-            "even if the quality is currently",
-            "limited.",
-            "The author specifically created a *Super",
-            "Mario 64*-like world using the AI tool.",
-            "A *Metroid Prime* experience was also",
-            "generated, but the author admits it",
-            "doesn\u0027t compare to *Metroid Prime 4:",
-            "Beyond*.",
-            "The AI was also used to create a version",
-            "inspired by *The Legend of Zelda*",
-            "series.",
-            "The core focus of the article is",
-            "demonstrating what the AI *can* do,",
-            "rather than achieving professional-level",
-            "results."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T13:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on"
     },
     {
       "id": "826",
