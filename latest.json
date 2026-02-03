@@ -1,43 +1,6 @@
 {
   "articles": [
     {
-      "id": "853",
-      "topic": "Large Models, Business",
-      "source": "The Verge AI",
-      "shortTitle": "Musk Merger",
-      "mediumTitle": "SpaceX, xAI \u0026 X Unite",
-      "longTitle": "Musk Consolidates Companies for AI Push",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Elon Musk announced the consolidation of",
-            "SpaceX and xAI, his artificial",
-            "intelligence company.",
-            "The primary goal is to establish a",
-            "highly integrated innovation entity.",
-            "Musk intends to utilize the combined AI",
-            "expertise with SpaceX\u2019s rocketry",
-            "capabilities.",
-            "Musk describes the resulting",
-            "organization as the \u201Cmost ambitious,",
-            "vertically-integrated innovation",
-            "engine.\u201D",
-            "X (formerly Twitter) is also under the",
-            "ownership of xAI, making it part of the",
-            "merger.",
-            "SpaceX\u2019s Starlink, providing space-based",
-            "internet, will play a crucial role in",
-            "the integrated system.",
-            "This new entity will concentrate on",
-            "advancements both on Earth and in space."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-02T17:53:11.000Z",
-      "ranking": 7.390000000000001,
-      "articleUrl": "https://www.theverge.com/tech/872619/elon-musk-merges-spacex-with-xai-and-x"
-    },
-    {
       "id": "855",
       "topic": "Safety",
       "source": "Marktechpost AI",
@@ -71,6 +34,41 @@
       "publishedAt": "2026-02-03T02:41:19.000Z",
       "ranking": 7.35,
       "articleUrl": "https://www.marktechpost.com/2026/02/02/how-to-build-multi-layered-llm-safety-filters-to-defend-against-adaptive-paraphrased-and-adversarial-prompt-attacks/"
+    },
+    {
+      "id": "857",
+      "topic": "Security",
+      "source": "The Verge AI",
+      "shortTitle": "X Raid",
+      "mediumTitle": "X Paris Office Raided",
+      "longTitle": "French Police Raid X\u0027s Paris Office Over Cybercrime Probe",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The raid on X\u2019s Paris office took place",
+            "on Tuesday, marking a significant",
+            "escalation in the ongoing investigation.",
+            "The Paris prosecutor\u0027s cybercrime unit",
+            "led the operation, receiving assistance",
+            "from both Europol and French police",
+            "forces.",
+            "The investigation initially focused on",
+            "X, formerly known as Twitter, but has",
+            "since broadened to include its",
+            "artificial intelligence chatbot, Grok.",
+            "In April, Elon Musk, the owner of X, and",
+            "Linda Yaccarino, the former CEO, were",
+            "called in for hearings related to the",
+            "probe.",
+            "The specific details of the cybercrime",
+            "investigation remain largely",
+            "confidential at this time."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-03T13:10:33.000Z",
+      "ranking": 6.68,
+      "articleUrl": "https://www.theverge.com/tech/873142/french-police-raid-x-investigation"
     },
     {
       "id": "856",
@@ -109,6 +107,80 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/872961/humans-infiltrating-moltbook-openclaw-reddit-ai-bots"
     },
     {
+      "id": "853",
+      "topic": "Large Models, Business",
+      "source": "The Verge AI",
+      "shortTitle": "Musk Merger",
+      "mediumTitle": "SpaceX, xAI \u0026 X Unite",
+      "longTitle": "Musk Consolidates Companies for AI Push",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Elon Musk announced the consolidation of",
+            "SpaceX and xAI, his artificial",
+            "intelligence company.",
+            "The primary goal is to establish a",
+            "highly integrated innovation entity.",
+            "Musk intends to utilize the combined AI",
+            "expertise with SpaceX\u2019s rocketry",
+            "capabilities.",
+            "Musk describes the resulting",
+            "organization as the \u201Cmost ambitious,",
+            "vertically-integrated innovation",
+            "engine.\u201D",
+            "X (formerly Twitter) is also under the",
+            "ownership of xAI, making it part of the",
+            "merger.",
+            "SpaceX\u2019s Starlink, providing space-based",
+            "internet, will play a crucial role in",
+            "the integrated system.",
+            "This new entity will concentrate on",
+            "advancements both on Earth and in space."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-02T17:53:11.000Z",
+      "ranking": 6.154346538232252,
+      "articleUrl": "https://www.theverge.com/tech/872619/elon-musk-merges-spacex-with-xai-and-x"
+    },
+    {
+      "id": "858",
+      "topic": "AI Ops",
+      "source": "The Verge AI",
+      "shortTitle": "Claude Outage",
+      "mediumTitle": "Anthropic\u0027s Claude AI Down",
+      "longTitle": "Claude AI Models Experience Service Disruption",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Anthropic acknowledged the elevated",
+            "error rates affecting all Claude models",
+            "accessible through their APIs.",
+            "The 500 errors encountered by developers",
+            "indicated a server-side problem within",
+            "the Claude platform.",
+            "The disruption affected developers who",
+            "depend on the Claude platform for their",
+            "work.",
+            "The outage impacted Anthropic\u0027s Claude",
+            "AI models, including the specialized",
+            "Claude Code.",
+            "The company was able to pinpoint the",
+            "source of the outage relatively quickly.",
+            "A resolution was deployed in a short",
+            "timeframe, though the exact duration of",
+            "the outage wasn\u0027t disclosed.",
+            "The quick response from Anthropic",
+            "suggests robust monitoring and incident",
+            "response procedures."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-03T12:05:42.000Z",
+      "ranking": 6.095000000000001,
+      "articleUrl": "https://www.theverge.com/news/873093/claude-code-down-outage-anthropic"
+    },
+    {
       "id": "854",
       "topic": "Policy",
       "source": "The Verge AI",
@@ -142,7 +214,7 @@
         }
       ],
       "publishedAt": "2026-02-02T16:02:39.000Z",
-      "ranking": 6.200873673386609,
+      "ranking": 5.832803437062333,
       "articleUrl": "https://www.theverge.com/news/872489/mozilla-firefox-ai-features-off-button"
     },
     {
@@ -177,7 +249,7 @@
         }
       ],
       "publishedAt": "2026-02-02T10:09:47.000Z",
-      "ranking": 6.061037119819964,
+      "ranking": 5.61134991560753,
       "articleUrl": "https://www.theverge.com/report/872062/grok-still-undressing-men"
     },
     {
@@ -214,7 +286,7 @@
         }
       ],
       "publishedAt": "2026-02-02T08:26:12.000Z",
-      "ranking": 5.907603400647661,
+      "ranking": 5.4339576917279615,
       "articleUrl": "https://www.marktechpost.com/2026/02/01/nvidia-ai-brings-nemotron-3-nano-30b-to-nvfp4-with-quantization-aware-distillation-qad-for-efficient-reasoning-inference/"
     },
     {
@@ -251,7 +323,7 @@
         }
       ],
       "publishedAt": "2026-02-02T11:47:39.000Z",
-      "ranking": 5.682618802671758,
+      "ranking": 5.2555678541603275,
       "articleUrl": "https://www.theverge.com/news/872091/openclaw-moltbot-clawdbot-ai-agent-news"
     },
     {
@@ -287,7 +359,7 @@
         }
       ],
       "publishedAt": "2026-02-02T02:14:35.000Z",
-      "ranking": 4.390002050563554,
+      "ranking": 3.8304025570001703,
       "articleUrl": "https://www.marktechpost.com/2026/02/01/a-coding-and-experimental-analysis-of-decentralized-federated-learning-with-gossip-protocols-and-differential-privacy/"
     },
     {
@@ -1373,80 +1445,6 @@
       "publishedAt": "2026-01-27T13:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/868497/google-ai-search-follow-up-questions-gemini-3"
-    },
-    {
-      "id": "808",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Nudify Apps",
-      "mediumTitle": "AI Apps Remove Clothing",
-      "longTitle": "Report Details AI Image Manipulation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "These apps allow users to digitally",
-            "remove clothing from photos, often",
-            "without the knowledge or consent of the",
-            "people depicted.",
-            "The discovery of these apps highlights a",
-            "broader problem of technology enabling",
-            "sexual exploitation and potential abuse.",
-            "The apps identified are accessible on",
-            "both Google\u2019s and Apple\u2019s app stores,",
-            "indicating a systemic issue.",
-            "The report suggests a significant gap",
-            "exists in protecting individuals from",
-            "having their images misused through AI",
-            "manipulation.",
-            "The functionality of these apps raises",
-            "serious ethical and legal concerns",
-            "regarding privacy and consent.",
-            "The TTP released its report on Tuesday,",
-            "bringing attention to the widespread",
-            "availability of these apps."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-27T12:26:34.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores"
-    },
-    {
-      "id": "810",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Pinterest Cuts",
-      "mediumTitle": "Pinterest Restructures for AI",
-      "longTitle": "Pinterest to Invest in AI, Reduces Workforce",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The move demonstrates Pinterest\u2019s",
-            "commitment to AI as a crucial area for",
-            "future growth.",
-            "Pinterest detailed this decision in a",
-            "recent regulatory filing.",
-            "The workforce reduction impacts less",
-            "than 15% of Pinterest\u2019s total employees.",
-            "Pinterest aims to streamline its",
-            "operations to focus on AI innovation.",
-            "The company is strategically",
-            "prioritizing AI to enhance its platform",
-            "and services.",
-            "Reducing office space is part of the",
-            "plan to optimize resource allocation.",
-            "The restructuring is a significant shift",
-            "in Pinterest\u2019s business strategy.",
-            "The company believes AI will drive",
-            "future innovation and user engagement.",
-            "The regulatory filing provides further",
-            "details on the restructuring plan."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-27T10:06:25.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/868531/pinterest-layoffs-cuts-15-percent-ai-transformation"
     }
   ]
 }
