@@ -1,6 +1,113 @@
 {
   "articles": [
     {
+      "id": "861",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "AI Content Hub",
+      "mediumTitle": "Microsoft\u0027s AI Licensing",
+      "longTitle": "Microsoft Launches AI Content Marketplace",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft is developing the Publisher",
+            "Content Marketplace (PCM) to facilitate",
+            "the licensing of content for AI model",
+            "training.",
+            "Microsoft\u2019s PCM intends to create a more",
+            "transparent and equitable ecosystem for",
+            "AI training data.",
+            "The PCM specifically addresses the need",
+            "for AI companies to legally acquire and",
+            "utilize online content, known as",
+            "\u0027grounding\u0027 their models.",
+            "The PCM aims to resolve these issues by",
+            "providing a centralized location for",
+            "publishers to define content usage",
+            "terms.",
+            "Usage-based reporting will offer",
+            "publishers insights into how their",
+            "content is being used by AI models."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-03T16:00:00.000Z",
+      "ranking": 8.241666666666669,
+      "articleUrl": "https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing"
+    },
+    {
+      "id": "863",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Qwen3-Coder",
+      "mediumTitle": "Qwen3-Coder-Next Released",
+      "longTitle": "New Open-Weight Model for Coding Agents",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The Qwen team has released",
+            "Qwen3-Coder-Next, a new open-weight",
+            "language model specifically engineered",
+            "for coding agents and local development.",
+            "While the model contains a total of 80",
+            "billion parameters, only 3 billion",
+            "parameters are actively used during each",
+            "token generation.",
+            "The release aims to provide a powerful",
+            "tool for coding-related tasks,",
+            "supporting developers and AI",
+            "researchers.",
+            "This selective activation optimizes",
+            "efficiency, reducing computational costs",
+            "during inference.",
+            "It utilizes a sparse Mixture-of-Experts",
+            "(MoE) architecture, a technique known",
+            "for scaling model capacity."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-03T21:47:52.000Z",
+      "ranking": 7.855,
+      "articleUrl": "https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/"
+    },
+    {
+      "id": "864",
+      "topic": "Science",
+      "source": "Marktechpost AI",
+      "shortTitle": "Qrisp Algo",
+      "mediumTitle": "Qrisp Quantum Algorithms",
+      "longTitle": "Tutorial: Advanced Quantum Algorithms with Qrisp",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This tutorial demonstrates building and",
+            "executing advanced quantum algorithms",
+            "using the Qrisp framework.",
+            "Grover\u2019s search is implemented with",
+            "automatic uncomputation, simplifying the",
+            "process and optimizing resource usage.",
+            "A complete QAOA workflow is presented,",
+            "specifically targeting the MaxCut",
+            "problem.",
+            "The tutorial covers core Qrisp",
+            "abstractions for quantum data and the",
+            "construction of entangled states.",
+            "Quantum Phase Estimation is covered,",
+            "providing a method for determining the",
+            "eigenvalues of a unitary operator.",
+            "The tutorial guides users through the",
+            "practical steps of implementing these",
+            "algorithms within the Qrisp environment.",
+            "The MaxCut problem is a well-known",
+            "combinatorial optimization problem."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-03T21:08:02.000Z",
+      "ranking": 7.414999999999999,
+      "articleUrl": "https://www.marktechpost.com/2026/02/03/how-to-build-advanced-quantum-algorithms-using-qrisp-with-grover-search-quantum-phase-estimation-and-qaoa/"
+    },
+    {
       "id": "855",
       "topic": "Safety",
       "source": "Marktechpost AI",
@@ -107,41 +214,40 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/872961/humans-infiltrating-moltbook-openclaw-reddit-ai-bots"
     },
     {
-      "id": "853",
-      "topic": "Large Models, Business",
+      "id": "862",
+      "topic": "Dev Tools",
       "source": "The Verge AI",
-      "shortTitle": "Musk Merger",
-      "mediumTitle": "SpaceX, xAI \u0026 X Unite",
-      "longTitle": "Musk Consolidates Companies for AI Push",
+      "shortTitle": "Xcode AI",
+      "mediumTitle": "Apple Adds AI Coding",
+      "longTitle": "Apple Integrates AI Coding Agents into Xcode",
       "paragraphs": [
         {
           "Lines": [
-            "Elon Musk announced the consolidation of",
-            "SpaceX and xAI, his artificial",
-            "intelligence company.",
-            "The primary goal is to establish a",
-            "highly integrated innovation entity.",
-            "Musk intends to utilize the combined AI",
-            "expertise with SpaceX\u2019s rocketry",
-            "capabilities.",
-            "Musk describes the resulting",
-            "organization as the \u201Cmost ambitious,",
-            "vertically-integrated innovation",
-            "engine.\u201D",
-            "X (formerly Twitter) is also under the",
-            "ownership of xAI, making it part of the",
-            "merger.",
-            "SpaceX\u2019s Starlink, providing space-based",
-            "internet, will play a crucial role in",
-            "the integrated system.",
-            "This new entity will concentrate on",
-            "advancements both on Earth and in space."
+            "Apple is integrating AI-powered coding",
+            "agents from OpenAI and Anthropic",
+            "directly into its Xcode development",
+            "environment with the release of Xcode",
+            "26.3.",
+            "These new integrations will allow",
+            "developers to leverage Anthropic\u2019s",
+            "Claude Agent and OpenAI\u2019s Codex to",
+            "assist with various coding tasks.",
+            "Specifically, the AI agents will be",
+            "capable of writing and editing code,",
+            "updating project settings, and searching",
+            "documentation.",
+            "Xcode is Apple\u2019s software used by",
+            "developers for creating and testing",
+            "applications.",
+            "The integration aims to streamline the",
+            "development process for Apple\u0027s",
+            "platforms."
           ]
         }
       ],
-      "publishedAt": "2026-02-02T17:53:11.000Z",
-      "ranking": 6.154346538232252,
-      "articleUrl": "https://www.theverge.com/tech/872619/elon-musk-merges-spacex-with-xai-and-x"
+      "publishedAt": "2026-02-03T15:04:09.000Z",
+      "ranking": 6.435,
+      "articleUrl": "https://www.theverge.com/news/873300/apple-xcode-openai-anthropic-ai-agentic-coding"
     },
     {
       "id": "858",
@@ -181,6 +287,43 @@
       "articleUrl": "https://www.theverge.com/news/873093/claude-code-down-outage-anthropic"
     },
     {
+      "id": "853",
+      "topic": "Large Models, Business",
+      "source": "The Verge AI",
+      "shortTitle": "Musk Merger",
+      "mediumTitle": "SpaceX, xAI \u0026 X Unite",
+      "longTitle": "Musk Consolidates Companies for AI Push",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Elon Musk announced the consolidation of",
+            "SpaceX and xAI, his artificial",
+            "intelligence company.",
+            "The primary goal is to establish a",
+            "highly integrated innovation entity.",
+            "Musk intends to utilize the combined AI",
+            "expertise with SpaceX\u2019s rocketry",
+            "capabilities.",
+            "Musk describes the resulting",
+            "organization as the \u201Cmost ambitious,",
+            "vertically-integrated innovation",
+            "engine.\u201D",
+            "X (formerly Twitter) is also under the",
+            "ownership of xAI, making it part of the",
+            "merger.",
+            "SpaceX\u2019s Starlink, providing space-based",
+            "internet, will play a crucial role in",
+            "the integrated system.",
+            "This new entity will concentrate on",
+            "advancements both on Earth and in space."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-02T17:53:11.000Z",
+      "ranking": 5.768652045414588,
+      "articleUrl": "https://www.theverge.com/tech/872619/elon-musk-merges-spacex-with-xai-and-x"
+    },
+    {
       "id": "854",
       "topic": "Policy",
       "source": "The Verge AI",
@@ -214,7 +357,7 @@
         }
       ],
       "publishedAt": "2026-02-02T16:02:39.000Z",
-      "ranking": 5.832803437062333,
+      "ranking": 5.42228160859852,
       "articleUrl": "https://www.theverge.com/news/872489/mozilla-firefox-ai-features-off-button"
     },
     {
@@ -249,7 +392,7 @@
         }
       ],
       "publishedAt": "2026-02-02T10:09:47.000Z",
-      "ranking": 5.61134991560753,
+      "ranking": 5.121569276693464,
       "articleUrl": "https://www.theverge.com/report/872062/grok-still-undressing-men"
     },
     {
@@ -286,7 +429,7 @@
         }
       ],
       "publishedAt": "2026-02-02T08:26:12.000Z",
-      "ranking": 5.4339576917279615,
+      "ranking": 4.920910780162426,
       "articleUrl": "https://www.marktechpost.com/2026/02/01/nvidia-ai-brings-nemotron-3-nano-30b-to-nvfp4-with-quantization-aware-distillation-qad-for-efficient-reasoning-inference/"
     },
     {
@@ -323,7 +466,7 @@
         }
       ],
       "publishedAt": "2026-02-02T11:47:39.000Z",
-      "ranking": 5.2555678541603275,
+      "ranking": 4.787769442397946,
       "articleUrl": "https://www.theverge.com/news/872091/openclaw-moltbot-clawdbot-ai-agent-news"
     },
     {
@@ -359,7 +502,7 @@
         }
       ],
       "publishedAt": "2026-02-02T02:14:35.000Z",
-      "ranking": 3.8304025570001703,
+      "ranking": 3.2338853208208596,
       "articleUrl": "https://www.marktechpost.com/2026/02/01/a-coding-and-experimental-analysis-of-decentralized-federated-learning-with-gossip-protocols-and-differential-privacy/"
     },
     {
@@ -1268,183 +1411,6 @@
       "publishedAt": "2026-01-27T20:52:41.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/dsgym-offers-a-reusable-container-based-substrate-for-building-and-benchmarking-data-science-agents/"
-    },
-    {
-      "id": "813",
-      "topic": "NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "Tree-KG",
-      "mediumTitle": "Hierarchical Knowledge Graph",
-      "longTitle": "Tree-KG: Improving RAG with Knowledge Graphs",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The system is designed to improve upon",
-            "traditional Retrieval-Augmented",
-            "Generation (RAG) methods.",
-            "Conventional RAG approaches are",
-            "surpassed by the capabilities of",
-            "Tree-KG, according to the article.",
-            "The system supports explainable",
-            "multi-hop reasoning, allowing users to",
-            "understand the logic behind its",
-            "conclusions.",
-            "Tree-KG enables contextual navigation",
-            "through the knowledge base.",
-            "Knowledge is organized in a tree-like",
-            "hierarchy within Tree-KG.",
-            "Tree-KG is presented as a tutorial,",
-            "detailing its implementation and",
-            "advantages."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-27T20:24:27.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/27/how-tree-kg-enables-hierarchical-knowledge-graphs-for-contextual-navigation-and-explainable-multi-hop-reasoning-beyond-traditional-rag/"
-    },
-    {
-      "id": "814",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Meta Ads",
-      "mediumTitle": "Meta\u0027s Data Center Campaign",
-      "longTitle": "Meta Launches $6.4M Data Center Ad Campaign",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta launched a $6.4 million advertising",
-            "campaign in late 2025 to gain public",
-            "support for the construction of new data",
-            "centers.",
-            "Meta\u2019s strategy seems focused on",
-            "influencing public perception regarding",
-            "data center facilities.",
-            "The article emphasizes the substantial",
-            "financial investment Meta is making to",
-            "shape public opinion.",
-            "The campaign is targeting cities",
-            "nationwide, specifically mentioning",
-            "Sacramento and Washington.",
-            "The campaign aims to positively frame",
-            "data centers in the eyes of the public.",
-            "The core of the campaign consists of",
-            "short video spotlights designed to",
-            "highlight positive aspects of data",
-            "centers."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-27T19:53:53.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/869008/meta-data-centers-ad-campaign"
-    },
-    {
-      "id": "815",
-      "topic": "Robotics",
-      "source": "The Verge AI",
-      "shortTitle": "Moltbot AI",
-      "mediumTitle": "Moltbot: A Useful AI Agent",
-      "longTitle": "Moltbot Automates Tasks Locally",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Moltbot, formerly known as Clawdbot, is",
-            "an open-source AI agent designed for",
-            "practical task automation.",
-            "Moltbot operates locally on a user\u2019s",
-            "device, improving privacy and",
-            "potentially reducing dependence on cloud",
-            "services.",
-            "Unlike conversational AI, Moltbot is",
-            "engineered to \u0027actually do things\u0027",
-            "beyond simply offering information.",
-            "The creator emphasizes Moltbot\u2019s purpose",
-            "as a useful tool, distinguishing it from",
-            "typical conversational chatbots.",
-            "The agent can manage personal reminders,",
-            "log health and fitness data, and",
-            "facilitate client communication,",
-            "according to user reports."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-27T19:28:11.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/report/869004/moltbot-clawdbot-local-ai-agent"
-    },
-    {
-      "id": "811",
-      "topic": "Energy",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Storm",
-      "mediumTitle": "Storm Exposes Grid Strain",
-      "longTitle": "Winter Storm Highlights AI Power Demand",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Existing power infrastructure is",
-            "struggling to keep up with the rapidly",
-            "growing energy needs of AI",
-            "infrastructure.",
-            "The increased demand from AI data",
-            "centers is particularly problematic",
-            "during extreme weather events.",
-            "The storm acted as a stress test for",
-            "power grids, revealing weaknesses in",
-            "their ability to handle peak demand.",
-            "The situation highlights a growing",
-            "concern about the capacity of the power",
-            "grid to support future AI development.",
-            "AI data centers require substantial and",
-            "consistent power, adding to the",
-            "challenges faced by the grid.",
-            "The recent winter storm impacted a large",
-            "portion of the United States, affecting",
-            "34 states in total."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-27T18:28:58.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/report/868859/electricity-rates-power-grid-ai-data-center-winter-storm"
-    },
-    {
-      "id": "807",
-      "topic": "Generative AI, NLP",
-      "source": "The Verge AI",
-      "shortTitle": "AI Search",
-      "mediumTitle": "Google\u0027s Gemini Powers Search",
-      "longTitle": "Google Search Enhanced with Gemini 3 AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google is enhancing its Search",
-            "functionality by integrating more",
-            "advanced AI capabilities, specifically",
-            "utilizing Gemini 3 within its AI",
-            "Overviews.",
-            "This update shifts the focus of Google",
-            "Search away from simply providing lists",
-            "of links and towards offering more",
-            "direct, AI-generated answers.",
-            "A key component of this upgrade is the",
-            "ability for users to ask follow-up",
-            "questions directly to the AI Overview.",
-            "Google states this feature is designed",
-            "to allow Search to comprehensively",
-            "address user inquiries.",
-            "This development moves Google Search",
-            "closer to the functionality of an AI",
-            "chatbot.",
-            "This creates a more conversational and",
-            "iterative search experience for users."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-27T13:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/868497/google-ai-search-follow-up-questions-gemini-3"
     }
   ]
 }
