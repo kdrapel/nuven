@@ -110,6 +110,78 @@
       "articleUrl": "https://www.theverge.com/tech/872619/elon-musk-merges-spacex-with-xai-and-x"
     },
     {
+      "id": "855",
+      "topic": "Safety",
+      "source": "Marktechpost AI",
+      "shortTitle": "LLM Safety",
+      "mediumTitle": "Multi-Layered LLM Defense",
+      "longTitle": "Building Robust LLM Safety Filters",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A layered defense is presented as",
+            "crucial for robust protection of large",
+            "language models.",
+            "LLM-driven intent classification employs",
+            "a separate LLM to understand the",
+            "prompt\u0027s underlying purpose.",
+            "The described safety filter is intended",
+            "to defend against adaptive, paraphrased,",
+            "and adversarial prompt attacks.",
+            "The intent classification component",
+            "flags potentially harmful requests based",
+            "on their purpose.",
+            "Rule-based pattern detection focuses on",
+            "identifying keywords and phrases linked",
+            "to malicious intent.",
+            "Anomaly detection flags prompts that",
+            "significantly differ from typical, safe",
+            "input patterns."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-03T02:41:19.000Z",
+      "ranking": 7.35,
+      "articleUrl": "https://www.marktechpost.com/2026/02/02/how-to-build-multi-layered-llm-safety-filters-to-defend-against-adaptive-paraphrased-and-adversarial-prompt-attacks/"
+    },
+    {
+      "id": "854",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "Firefox AI",
+      "mediumTitle": "Firefox Adds AI Control",
+      "longTitle": "Firefox to Let Users Control AI Features",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Firefox is introducing a new \u201CAI",
+            "control\u201D option in its settings menu",
+            "with an update scheduled for February",
+            "24th.",
+            "This feature will allow users to disable",
+            "or enable the browser\u2019s individual AI",
+            "features.",
+            "The new control provides a direct way",
+            "for users to manage AI integration",
+            "within Firefox.",
+            "This contrasts with other browser",
+            "companies currently integrating AI",
+            "functionalities without offering users a",
+            "straightforward way to opt-out.",
+            "The article does not specify which",
+            "individual AI features are controllable",
+            "via this new setting.",
+            "The setting includes access to",
+            "\u201C[\u0026#8230;]\u201D, suggesting further details",
+            "are available but not fully disclosed."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-02T16:02:39.000Z",
+      "ranking": 7.245,
+      "articleUrl": "https://www.theverge.com/news/872489/mozilla-firefox-ai-features-off-button"
+    },
+    {
       "id": "851",
       "topic": "Large Models",
       "source": "The Verge AI",
@@ -179,7 +251,7 @@
         }
       ],
       "publishedAt": "2026-02-02T02:14:35.000Z",
-      "ranking": 6.94,
+      "ranking": 5.747242148470448,
       "articleUrl": "https://www.marktechpost.com/2026/02/01/a-coding-and-experimental-analysis-of-decentralized-federated-learning-with-gossip-protocols-and-differential-privacy/"
     },
     {
@@ -216,7 +288,7 @@
         }
       ],
       "publishedAt": "2026-01-31T19:37:56.000Z",
-      "ranking": 2.4696286755479573,
+      "ranking": 1.7095360659648478,
       "articleUrl": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai"
     },
     {
@@ -253,7 +325,7 @@
         }
       ],
       "publishedAt": "2026-01-31T15:38:36.000Z",
-      "ranking": 1.450303008975772,
+      "ranking": 0.6349092162655445,
       "articleUrl": "https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit"
     },
     {
@@ -290,7 +362,7 @@
         }
       ],
       "publishedAt": "2026-01-31T09:00:00.000Z",
-      "ranking": 0.8980493801997067,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia"
     },
     {
@@ -583,43 +655,6 @@
       "articleUrl": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge"
     },
     {
-      "id": "831",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "SpaceX/xAI",
-      "mediumTitle": "SpaceX \u0026 xAI Merger Talks",
-      "longTitle": "SpaceX and xAI Discuss Potential Merger",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The primary goal of the merger is to",
-            "facilitate SpaceX\u2019s ambitions to deploy",
-            "data centers into space.",
-            "The combined expertise and resources of",
-            "both companies are expected to",
-            "streamline the deployment process.",
-            "SpaceX is preparing for an Initial",
-            "Public Offering (IPO) later in the year.",
-            "Reuters reported the ongoing discussions",
-            "regarding the potential consolidation of",
-            "SpaceX and xAI.",
-            "Financial details and the valuation of",
-            "the potential merger have not yet been",
-            "disclosed.",
-            "Currently, the specific timing of the",
-            "merger remains uncertain and is still",
-            "under discussion.",
-            "The merger could potentially accelerate",
-            "the development of advanced technologies",
-            "for space applications."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T15:47:58.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
-    },
-    {
       "id": "834",
       "topic": "Business",
       "source": "The Verge AI",
@@ -649,6 +684,43 @@
             "Reuters first reported the discussions",
             "between SpaceX and xAI regarding a",
             "potential merger."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T15:47:58.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
+    },
+    {
+      "id": "831",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "SpaceX/xAI",
+      "mediumTitle": "SpaceX \u0026 xAI Merger Talks",
+      "longTitle": "SpaceX and xAI Discuss Potential Merger",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The primary goal of the merger is to",
+            "facilitate SpaceX\u2019s ambitions to deploy",
+            "data centers into space.",
+            "The combined expertise and resources of",
+            "both companies are expected to",
+            "streamline the deployment process.",
+            "SpaceX is preparing for an Initial",
+            "Public Offering (IPO) later in the year.",
+            "Reuters reported the ongoing discussions",
+            "regarding the potential consolidation of",
+            "SpaceX and xAI.",
+            "Financial details and the valuation of",
+            "the potential merger have not yet been",
+            "disclosed.",
+            "Currently, the specific timing of the",
+            "merger remains uncertain and is still",
+            "under discussion.",
+            "The merger could potentially accelerate",
+            "the development of advanced technologies",
+            "for space applications."
           ]
         }
       ],
