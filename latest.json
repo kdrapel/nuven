@@ -141,7 +141,7 @@
         }
       ],
       "publishedAt": "2026-02-03T16:00:00.000Z",
-      "ranking": 7.205267094355888,
+      "ranking": 6.8383348292730455,
       "articleUrl": "https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing"
     },
     {
@@ -211,7 +211,7 @@
         }
       ],
       "publishedAt": "2026-02-03T13:10:33.000Z",
-      "ranking": 5.390161129968,
+      "ranking": 4.984023325978725,
       "articleUrl": "https://www.theverge.com/tech/873142/french-police-raid-x-investigation"
     },
     {
@@ -247,7 +247,7 @@
         }
       ],
       "publishedAt": "2026-02-03T15:04:09.000Z",
-      "ranking": 5.318127586049555,
+      "ranking": 4.938273343936633,
       "articleUrl": "https://www.theverge.com/news/873300/apple-xcode-openai-anthropic-ai-agentic-coding"
     },
     {
@@ -283,7 +283,7 @@
         }
       ],
       "publishedAt": "2026-02-03T10:15:38.000Z",
-      "ranking": 5.023663495230851,
+      "ranking": 4.577055329791616,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/872961/humans-infiltrating-moltbook-openclaw-reddit-ai-bots"
     },
     {
@@ -318,7 +318,7 @@
         }
       ],
       "publishedAt": "2026-02-03T02:41:19.000Z",
-      "ranking": 4.876682869307239,
+      "ranking": 4.324959735400814,
       "articleUrl": "https://www.marktechpost.com/2026/02/02/how-to-build-multi-layered-llm-safety-filters-to-defend-against-adaptive-paraphrased-and-adversarial-prompt-attacks/"
     },
     {
@@ -355,7 +355,7 @@
         }
       ],
       "publishedAt": "2026-02-03T12:05:42.000Z",
-      "ranking": 4.700840155450539,
+      "ranking": 4.279698047035495,
       "articleUrl": "https://www.theverge.com/news/873093/claude-code-down-outage-anthropic"
     },
     {
@@ -392,7 +392,7 @@
         }
       ],
       "publishedAt": "2026-02-02T17:53:11.000Z",
-      "ranking": 3.628581825408368,
+      "ranking": 2.9546648002591995,
       "articleUrl": "https://www.theverge.com/tech/872619/elon-musk-merges-spacex-with-xai-and-x"
     },
     {
@@ -429,7 +429,7 @@
         }
       ],
       "publishedAt": "2026-02-02T16:02:39.000Z",
-      "ranking": 3.179950249654201,
+      "ranking": 2.480459194677353,
       "articleUrl": "https://www.theverge.com/news/872489/mozilla-firefox-ai-features-off-button"
     },
     {
@@ -464,7 +464,7 @@
         }
       ],
       "publishedAt": "2026-02-02T10:09:47.000Z",
-      "ranking": 2.5527794130972294,
+      "ranking": 1.7716458133728246,
       "articleUrl": "https://www.theverge.com/report/872062/grok-still-undressing-men"
     },
     {
@@ -501,7 +501,7 @@
         }
       ],
       "publishedAt": "2026-02-02T11:47:39.000Z",
-      "ranking": 2.309522011641487,
+      "ranking": 1.5510317630647785,
       "articleUrl": "https://www.theverge.com/news/872091/openclaw-moltbot-clawdbot-ai-agent-news"
     },
     {
@@ -538,7 +538,7 @@
         }
       ],
       "publishedAt": "2026-02-02T08:26:12.000Z",
-      "ranking": 2.256289640480662,
+      "ranking": 1.4511900308534553,
       "articleUrl": "https://www.marktechpost.com/2026/02/01/nvidia-ai-brings-nemotron-3-nano-30b-to-nvfp4-with-quantization-aware-distillation-qad-for-efficient-reasoning-inference/"
     },
     {
@@ -574,7 +574,7 @@
         }
       ],
       "publishedAt": "2026-02-02T02:14:35.000Z",
-      "ranking": 0.22545891137173069,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/01/a-coding-and-experimental-analysis-of-decentralized-federated-learning-with-gossip-protocols-and-differential-privacy/"
     },
     {
@@ -1336,43 +1336,6 @@
       "publishedAt": "2026-01-28T08:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk"
-    },
-    {
-      "id": "817",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "HPC-Ops",
-      "mediumTitle": "Tencent Releases HPC-Ops",
-      "longTitle": "Tencent\u0027s Open-Source LLM Inference Library",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Tencent Hunyuan released HPC-Ops as an",
-            "open-source project.",
-            "The library is specifically designed for",
-            "high-performance large language model",
-            "(LLM) inference.",
-            "HPC-Ops provides low-level CUDA kernels",
-            "optimized for core operators essential",
-            "to LLM functionality.",
-            "These core operators include Attention,",
-            "Grouped GEMM (General Matrix",
-            "Multiplication), and Fused MoE (Mixture",
-            "of Experts).",
-            "The goal of HPC-Ops is to simplify",
-            "integration into existing LLM inference",
-            "stacks.",
-            "It exposes the optimized kernels through",
-            "compact-C and Python APIs.",
-            "This allows developers to utilize the",
-            "performance gains within their current",
-            "workflows."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-28T07:23:39.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/27/tencent-hunyuan-releases-hpc-ops-a-high-performance-llm-inference-operator-library/"
     }
   ]
 }
