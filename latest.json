@@ -180,42 +180,6 @@
       "articleUrl": "https://www.theverge.com/tech/873142/french-police-raid-x-investigation"
     },
     {
-      "id": "856",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Moltbook Bots",
-      "mediumTitle": "Humans Impersonate Bots",
-      "longTitle": "Moltbook: Humans Mimic AI Agents",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Moltbook\u0027s core concept relies on AI",
-            "agents learning from each other through",
-            "social interaction.",
-            "Instead of AI agents interacting with",
-            "each other, Moltbook is now filled with",
-            "humans experimenting with bot-like",
-            "personas.",
-            "The presence of human \u0027pretend bots\u0027",
-            "could introduce bias and inaccuracies",
-            "into the data used for learning.",
-            "Traditional social networks typically",
-            "combat bots masquerading as humans, but",
-            "Moltbook faces the opposite issue.",
-            "It also makes it harder to distinguish",
-            "between genuine AI contributions and",
-            "human imitations.",
-            "Moltbook is a new social platform",
-            "specifically created for AI agents",
-            "developed through the OpenClaw platform."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-03T10:15:38.000Z",
-      "ranking": 6.604166666666666,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/872961/humans-infiltrating-moltbook-openclaw-reddit-ai-bots"
-    },
-    {
       "id": "862",
       "topic": "Dev Tools",
       "source": "The Verge AI",
@@ -252,41 +216,40 @@
       "articleUrl": "https://www.theverge.com/news/873300/apple-xcode-openai-anthropic-ai-agentic-coding"
     },
     {
-      "id": "858",
-      "topic": "AI Ops",
+      "id": "856",
+      "topic": "Ethics",
       "source": "The Verge AI",
-      "shortTitle": "Claude Outage",
-      "mediumTitle": "Anthropic\u0027s Claude AI Down",
-      "longTitle": "Claude AI Models Experience Service Disruption",
+      "shortTitle": "Moltbook Bots",
+      "mediumTitle": "Humans Impersonate Bots",
+      "longTitle": "Moltbook: Humans Mimic AI Agents",
       "paragraphs": [
         {
           "Lines": [
-            "Anthropic acknowledged the elevated",
-            "error rates affecting all Claude models",
-            "accessible through their APIs.",
-            "The 500 errors encountered by developers",
-            "indicated a server-side problem within",
-            "the Claude platform.",
-            "The disruption affected developers who",
-            "depend on the Claude platform for their",
-            "work.",
-            "The outage impacted Anthropic\u0027s Claude",
-            "AI models, including the specialized",
-            "Claude Code.",
-            "The company was able to pinpoint the",
-            "source of the outage relatively quickly.",
-            "A resolution was deployed in a short",
-            "timeframe, though the exact duration of",
-            "the outage wasn\u0027t disclosed.",
-            "The quick response from Anthropic",
-            "suggests robust monitoring and incident",
-            "response procedures."
+            "Moltbook\u0027s core concept relies on AI",
+            "agents learning from each other through",
+            "social interaction.",
+            "Instead of AI agents interacting with",
+            "each other, Moltbook is now filled with",
+            "humans experimenting with bot-like",
+            "personas.",
+            "The presence of human \u0027pretend bots\u0027",
+            "could introduce bias and inaccuracies",
+            "into the data used for learning.",
+            "Traditional social networks typically",
+            "combat bots masquerading as humans, but",
+            "Moltbook faces the opposite issue.",
+            "It also makes it harder to distinguish",
+            "between genuine AI contributions and",
+            "human imitations.",
+            "Moltbook is a new social platform",
+            "specifically created for AI agents",
+            "developed through the OpenClaw platform."
           ]
         }
       ],
-      "publishedAt": "2026-02-03T12:05:42.000Z",
-      "ranking": 6.095000000000001,
-      "articleUrl": "https://www.theverge.com/news/873093/claude-code-down-outage-anthropic"
+      "publishedAt": "2026-02-03T10:15:38.000Z",
+      "ranking": 5.419358664900882,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/872961/humans-infiltrating-moltbook-openclaw-reddit-ai-bots"
     },
     {
       "id": "855",
@@ -320,8 +283,45 @@
         }
       ],
       "publishedAt": "2026-02-03T02:41:19.000Z",
-      "ranking": 5.81471945602563,
+      "ranking": 5.378821773311291,
       "articleUrl": "https://www.marktechpost.com/2026/02/02/how-to-build-multi-layered-llm-safety-filters-to-defend-against-adaptive-paraphrased-and-adversarial-prompt-attacks/"
+    },
+    {
+      "id": "858",
+      "topic": "AI Ops",
+      "source": "The Verge AI",
+      "shortTitle": "Claude Outage",
+      "mediumTitle": "Anthropic\u0027s Claude AI Down",
+      "longTitle": "Claude AI Models Experience Service Disruption",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Anthropic acknowledged the elevated",
+            "error rates affecting all Claude models",
+            "accessible through their APIs.",
+            "The 500 errors encountered by developers",
+            "indicated a server-side problem within",
+            "the Claude platform.",
+            "The disruption affected developers who",
+            "depend on the Claude platform for their",
+            "work.",
+            "The outage impacted Anthropic\u0027s Claude",
+            "AI models, including the specialized",
+            "Claude Code.",
+            "The company was able to pinpoint the",
+            "source of the outage relatively quickly.",
+            "A resolution was deployed in a short",
+            "timeframe, though the exact duration of",
+            "the outage wasn\u0027t disclosed.",
+            "The quick response from Anthropic",
+            "suggests robust monitoring and incident",
+            "response procedures."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-03T12:05:42.000Z",
+      "ranking": 5.070747351127118,
+      "articleUrl": "https://www.theverge.com/news/873093/claude-code-down-outage-anthropic"
     },
     {
       "id": "853",
@@ -357,7 +357,7 @@
         }
       ],
       "publishedAt": "2026-02-02T17:53:11.000Z",
-      "ranking": 4.811330420486104,
+      "ranking": 4.254459277310203,
       "articleUrl": "https://www.theverge.com/tech/872619/elon-musk-merges-spacex-with-xai-and-x"
     },
     {
@@ -394,7 +394,7 @@
         }
       ],
       "publishedAt": "2026-02-02T16:02:39.000Z",
-      "ranking": 4.413914763642042,
+      "ranking": 3.8317250151952633,
       "articleUrl": "https://www.theverge.com/news/872489/mozilla-firefox-ai-features-off-button"
     },
     {
@@ -429,45 +429,8 @@
         }
       ],
       "publishedAt": "2026-02-02T10:09:47.000Z",
-      "ranking": 3.950245651975569,
+      "ranking": 3.2872287729304084,
       "articleUrl": "https://www.theverge.com/report/872062/grok-still-undressing-men"
-    },
-    {
-      "id": "849",
-      "topic": "Large Models, Tuning",
-      "source": "Marktechpost AI",
-      "shortTitle": "NVIDIA Nemotron",
-      "mediumTitle": "NVIDIA Releases Nano-3-30B",
-      "longTitle": "NVIDIA Nemotron-Nano-3-30B-A3B-NVFP4 Released",
-      "paragraphs": [
-        {
-          "Lines": [
-            "NVIDIA has released",
-            "Nemotron-Nano-3-30B-A3B-NVFP4, a",
-            "production checkpoint of a 30 billion",
-            "parameter reasoning model.",
-            "This model operates using a 4-bit NVFP4",
-            "format.",
-            "The overall goal of this release is to",
-            "achieve ultra-efficient reasoning",
-            "inference.",
-            "The model maintains accuracy comparable",
-            "to its baseline in the BF16 format",
-            "despite the lower precision.",
-            "A key component of this release is the",
-            "use of Quantization Aware Distillation",
-            "(QAD).",
-            "The architecture is a hybrid, combining",
-            "Mamba2 and Transformer Mixture of",
-            "Experts.",
-            "QAD is a technique specifically tailored",
-            "for deployment in NVFP4."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-02T08:26:12.000Z",
-      "ranking": 3.701751506083273,
-      "articleUrl": "https://www.marktechpost.com/2026/02/01/nvidia-ai-brings-nemotron-3-nano-30b-to-nvfp4-with-quantization-aware-distillation-qad-for-efficient-reasoning-inference/"
     },
     {
       "id": "851",
@@ -503,8 +466,45 @@
         }
       ],
       "publishedAt": "2026-02-02T11:47:39.000Z",
-      "ranking": 3.661641462816731,
+      "ranking": 3.0210417852968305,
       "articleUrl": "https://www.theverge.com/news/872091/openclaw-moltbot-clawdbot-ai-agent-news"
+    },
+    {
+      "id": "849",
+      "topic": "Large Models, Tuning",
+      "source": "Marktechpost AI",
+      "shortTitle": "NVIDIA Nemotron",
+      "mediumTitle": "NVIDIA Releases Nano-3-30B",
+      "longTitle": "NVIDIA Nemotron-Nano-3-30B-A3B-NVFP4 Released",
+      "paragraphs": [
+        {
+          "Lines": [
+            "NVIDIA has released",
+            "Nemotron-Nano-3-30B-A3B-NVFP4, a",
+            "production checkpoint of a 30 billion",
+            "parameter reasoning model.",
+            "This model operates using a 4-bit NVFP4",
+            "format.",
+            "The overall goal of this release is to",
+            "achieve ultra-efficient reasoning",
+            "inference.",
+            "The model maintains accuracy comparable",
+            "to its baseline in the BF16 format",
+            "despite the lower precision.",
+            "A key component of this release is the",
+            "use of Quantization Aware Distillation",
+            "(QAD).",
+            "The architecture is a hybrid, combining",
+            "Mamba2 and Transformer Mixture of",
+            "Experts.",
+            "QAD is a technique specifically tailored",
+            "for deployment in NVFP4."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-02T08:26:12.000Z",
+      "ranking": 3.015007971785394,
+      "articleUrl": "https://www.marktechpost.com/2026/02/01/nvidia-ai-brings-nemotron-3-nano-30b-to-nvfp4-with-quantization-aware-distillation-qad-for-efficient-reasoning-inference/"
     },
     {
       "id": "848",
@@ -539,7 +539,7 @@
         }
       ],
       "publishedAt": "2026-02-02T02:14:35.000Z",
-      "ranking": 1.8431103579833152,
+      "ranking": 1.071244853004245,
       "articleUrl": "https://www.marktechpost.com/2026/02/01/a-coding-and-experimental-analysis-of-decentralized-federated-learning-with-gossip-protocols-and-differential-privacy/"
     },
     {
