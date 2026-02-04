@@ -71,6 +71,43 @@
       "articleUrl": "https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/"
     },
     {
+      "id": "865",
+      "topic": "Training Tricks",
+      "source": "Marktechpost AI",
+      "shortTitle": "Offline RL",
+      "mediumTitle": "Safety-Critical RL Pipeline",
+      "longTitle": "Building a Safe Offline RL System",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Offline RL is employed, meaning the",
+            "agent learns solely from a pre-existing",
+            "dataset and does not interact with a",
+            "live environment during training.",
+            "CQL aims to learn a policy that performs",
+            "well while remaining conservative and",
+            "avoiding potentially unsafe actions.",
+            "The article details a tutorial for",
+            "constructing a reinforcement learning",
+            "pipeline designed for safety-critical",
+            "applications.",
+            "The conservative nature of CQL is",
+            "particularly important for applications",
+            "where safety is paramount.",
+            "The behavior dataset is crucial as it",
+            "represents the historical data used to",
+            "train the agent.",
+            "The d3rlpy library provides the",
+            "implementation for Conservative",
+            "Q-Learning (CQL)."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-04T05:49:17.000Z",
+      "ranking": 7.55,
+      "articleUrl": "https://www.marktechpost.com/2026/02/03/a-coding-implementation-to-train-safety-critical-reinforcement-learning-agents-offline-using-conservative-q-learning-with-d3rlpy-and-fixed-historical-data/"
+    },
+    {
       "id": "864",
       "topic": "Science",
       "source": "Marktechpost AI",
@@ -215,41 +252,6 @@
       "articleUrl": "https://www.theverge.com/news/873300/apple-xcode-openai-anthropic-ai-agentic-coding"
     },
     {
-      "id": "855",
-      "topic": "Safety",
-      "source": "Marktechpost AI",
-      "shortTitle": "LLM Safety",
-      "mediumTitle": "Multi-Layered LLM Defense",
-      "longTitle": "Building Robust LLM Safety Filters",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A layered defense is presented as",
-            "crucial for robust protection of large",
-            "language models.",
-            "LLM-driven intent classification employs",
-            "a separate LLM to understand the",
-            "prompt\u0027s underlying purpose.",
-            "The described safety filter is intended",
-            "to defend against adaptive, paraphrased,",
-            "and adversarial prompt attacks.",
-            "The intent classification component",
-            "flags potentially harmful requests based",
-            "on their purpose.",
-            "Rule-based pattern detection focuses on",
-            "identifying keywords and phrases linked",
-            "to malicious intent.",
-            "Anomaly detection flags prompts that",
-            "significantly differ from typical, safe",
-            "input patterns."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-03T02:41:19.000Z",
-      "ranking": 6.202685595118096,
-      "articleUrl": "https://www.marktechpost.com/2026/02/02/how-to-build-multi-layered-llm-safety-filters-to-defend-against-adaptive-paraphrased-and-adversarial-prompt-attacks/"
-    },
-    {
       "id": "858",
       "topic": "AI Ops",
       "source": "The Verge AI",
@@ -287,6 +289,41 @@
       "articleUrl": "https://www.theverge.com/news/873093/claude-code-down-outage-anthropic"
     },
     {
+      "id": "855",
+      "topic": "Safety",
+      "source": "Marktechpost AI",
+      "shortTitle": "LLM Safety",
+      "mediumTitle": "Multi-Layered LLM Defense",
+      "longTitle": "Building Robust LLM Safety Filters",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A layered defense is presented as",
+            "crucial for robust protection of large",
+            "language models.",
+            "LLM-driven intent classification employs",
+            "a separate LLM to understand the",
+            "prompt\u0027s underlying purpose.",
+            "The described safety filter is intended",
+            "to defend against adaptive, paraphrased,",
+            "and adversarial prompt attacks.",
+            "The intent classification component",
+            "flags potentially harmful requests based",
+            "on their purpose.",
+            "Rule-based pattern detection focuses on",
+            "identifying keywords and phrases linked",
+            "to malicious intent.",
+            "Anomaly detection flags prompts that",
+            "significantly differ from typical, safe",
+            "input patterns."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-03T02:41:19.000Z",
+      "ranking": 5.81471945602563,
+      "articleUrl": "https://www.marktechpost.com/2026/02/02/how-to-build-multi-layered-llm-safety-filters-to-defend-against-adaptive-paraphrased-and-adversarial-prompt-attacks/"
+    },
+    {
       "id": "853",
       "topic": "Large Models, Business",
       "source": "The Verge AI",
@@ -320,7 +357,7 @@
         }
       ],
       "publishedAt": "2026-02-02T17:53:11.000Z",
-      "ranking": 5.322481279031216,
+      "ranking": 4.811330420486104,
       "articleUrl": "https://www.theverge.com/tech/872619/elon-musk-merges-spacex-with-xai-and-x"
     },
     {
@@ -357,7 +394,7 @@
         }
       ],
       "publishedAt": "2026-02-02T16:02:39.000Z",
-      "ranking": 4.950847025518872,
+      "ranking": 4.413914763642042,
       "articleUrl": "https://www.theverge.com/news/872489/mozilla-firefox-ai-features-off-button"
     },
     {
@@ -392,7 +429,7 @@
         }
       ],
       "publishedAt": "2026-02-02T10:09:47.000Z",
-      "ranking": 4.569482472822276,
+      "ranking": 3.950245651975569,
       "articleUrl": "https://www.theverge.com/report/872062/grok-still-undressing-men"
     },
     {
@@ -429,7 +466,7 @@
         }
       ],
       "publishedAt": "2026-02-02T08:26:12.000Z",
-      "ranking": 4.345148672532773,
+      "ranking": 3.701751506083273,
       "articleUrl": "https://www.marktechpost.com/2026/02/01/nvidia-ai-brings-nemotron-3-nano-30b-to-nvfp4-with-quantization-aware-distillation-qad-for-efficient-reasoning-inference/"
     },
     {
@@ -466,7 +503,7 @@
         }
       ],
       "publishedAt": "2026-02-02T11:47:39.000Z",
-      "ranking": 4.258051325889589,
+      "ranking": 3.661641462816731,
       "articleUrl": "https://www.theverge.com/news/872091/openclaw-moltbot-clawdbot-ai-agent-news"
     },
     {
@@ -502,7 +539,7 @@
         }
       ],
       "publishedAt": "2026-02-02T02:14:35.000Z",
-      "ranking": 2.5731854391673847,
+      "ranking": 1.8431103579833152,
       "articleUrl": "https://www.marktechpost.com/2026/02/01/a-coding-and-experimental-analysis-of-decentralized-federated-learning-with-gossip-protocols-and-differential-privacy/"
     },
     {
@@ -906,43 +943,6 @@
       "articleUrl": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge"
     },
     {
-      "id": "834",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "SpaceX Merger",
-      "mediumTitle": "SpaceX Considers Merger",
-      "longTitle": "SpaceX Explores Tesla or xAI Merger",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Musk believes a merger would provide a",
-            "faster route to achieving artificial",
-            "general intelligence (AGI).",
-            "No final decisions have been made",
-            "regarding a merger, and the timing",
-            "remains uncertain.",
-            "Market conditions and regulatory",
-            "approvals will influence any potential",
-            "deal.",
-            "Integrating Tesla\u2019s manufacturing",
-            "capabilities and supply chain with",
-            "SpaceX could create significant",
-            "efficiencies.",
-            "SpaceX\u2019s initial public offering (IPO)",
-            "remains a primary objective.",
-            "SpaceX is currently valued at",
-            "approximately $150 billion.",
-            "Reuters first reported the discussions",
-            "between SpaceX and xAI regarding a",
-            "potential merger."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T15:47:58.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
-    },
-    {
       "id": "831",
       "topic": "Business",
       "source": "The Verge AI",
@@ -972,6 +972,43 @@
             "The merger could potentially accelerate",
             "the development of advanced technologies",
             "for space applications."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T15:47:58.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
+    },
+    {
+      "id": "834",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "SpaceX Merger",
+      "mediumTitle": "SpaceX Considers Merger",
+      "longTitle": "SpaceX Explores Tesla or xAI Merger",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Musk believes a merger would provide a",
+            "faster route to achieving artificial",
+            "general intelligence (AGI).",
+            "No final decisions have been made",
+            "regarding a merger, and the timing",
+            "remains uncertain.",
+            "Market conditions and regulatory",
+            "approvals will influence any potential",
+            "deal.",
+            "Integrating Tesla\u2019s manufacturing",
+            "capabilities and supply chain with",
+            "SpaceX could create significant",
+            "efficiencies.",
+            "SpaceX\u2019s initial public offering (IPO)",
+            "remains a primary objective.",
+            "SpaceX is currently valued at",
+            "approximately $150 billion.",
+            "Reuters first reported the discussions",
+            "between SpaceX and xAI regarding a",
+            "potential merger."
           ]
         }
       ],
@@ -1016,40 +1053,6 @@
       "articleUrl": "https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech"
     },
     {
-      "id": "828",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Games",
-      "mediumTitle": "Google AI Creates 3D Games",
-      "longTitle": "Google AI Attempts Nintendo Worlds",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The experiment showcases the AI\u0027s",
-            "ability to generate 3D game-like spaces,",
-            "even if the quality is currently",
-            "limited.",
-            "The author specifically created a *Super",
-            "Mario 64*-like world using the AI tool.",
-            "A *Metroid Prime* experience was also",
-            "generated, but the author admits it",
-            "doesn\u0027t compare to *Metroid Prime 4:",
-            "Beyond*.",
-            "The AI was also used to create a version",
-            "inspired by *The Legend of Zelda*",
-            "series.",
-            "The core focus of the article is",
-            "demonstrating what the AI *can* do,",
-            "rather than achieving professional-level",
-            "results."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T13:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on"
-    },
-    {
       "id": "827",
       "topic": "Gaming, Business",
       "source": "The Verge AI",
@@ -1084,6 +1087,40 @@
       "publishedAt": "2026-01-29T13:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey"
+    },
+    {
+      "id": "828",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Games",
+      "mediumTitle": "Google AI Creates 3D Games",
+      "longTitle": "Google AI Attempts Nintendo Worlds",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The experiment showcases the AI\u0027s",
+            "ability to generate 3D game-like spaces,",
+            "even if the quality is currently",
+            "limited.",
+            "The author specifically created a *Super",
+            "Mario 64*-like world using the AI tool.",
+            "A *Metroid Prime* experience was also",
+            "generated, but the author admits it",
+            "doesn\u0027t compare to *Metroid Prime 4:",
+            "Beyond*.",
+            "The AI was also used to create a version",
+            "inspired by *The Legend of Zelda*",
+            "series.",
+            "The core focus of the article is",
+            "demonstrating what the AI *can* do,",
+            "rather than achieving professional-level",
+            "results."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T13:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on"
     },
     {
       "id": "826",
@@ -1374,43 +1411,6 @@
       "publishedAt": "2026-01-28T00:55:34.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/27/moonshot-ai-releases-kimi-k2-5-an-open-source-visual-agentic-intelligence-model-with-native-swarm-execution/"
-    },
-    {
-      "id": "812",
-      "topic": "Frameworks",
-      "source": "Marktechpost AI",
-      "shortTitle": "DSGym",
-      "mediumTitle": "DSGym: Data Science Agents",
-      "longTitle": "Stanford \u0026 Partners Launch DSGym Framework",
-      "paragraphs": [
-        {
-          "Lines": [
-            "DSGym is a new framework developed by",
-            "researchers from Stanford University,",
-            "Together AI, Duke University, and",
-            "Harvard University.",
-            "The framework is specifically designed",
-            "for evaluating and training data science",
-            "agents.",
-            "These agents are capable of inspecting",
-            "datasets, designing workflows, executing",
-            "code, and providing verifiable answers.",
-            "The framework provides a platform for",
-            "benchmarking agents across a large",
-            "collection of over 1,000 data science",
-            "challenges.",
-            "DSGym distinguishes itself from tools",
-            "focused on simple code completion, like",
-            "those used with Pandas.",
-            "Each challenge is accompanied by",
-            "expert-curated ground truth solutions,",
-            "ensuring reliable evaluation."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-27T20:52:41.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/27/dsgym-offers-a-reusable-container-based-substrate-for-building-and-benchmarking-data-science-agents/"
     }
   ]
 }
