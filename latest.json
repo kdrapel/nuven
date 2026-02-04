@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "id": "863",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Qwen3-Coder",
-      "mediumTitle": "Qwen3-Coder-Next Released",
-      "longTitle": "New Open-Weight Model for Coding Agents",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The Qwen team has released",
-            "Qwen3-Coder-Next, a new open-weight",
-            "language model specifically engineered",
-            "for coding agents and local development.",
-            "While the model contains a total of 80",
-            "billion parameters, only 3 billion",
-            "parameters are actively used during each",
-            "token generation.",
-            "The release aims to provide a powerful",
-            "tool for coding-related tasks,",
-            "supporting developers and AI",
-            "researchers.",
-            "This selective activation optimizes",
-            "efficiency, reducing computational costs",
-            "during inference.",
-            "It utilizes a sparse Mixture-of-Experts",
-            "(MoE) architecture, a technique known",
-            "for scaling model capacity."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-03T21:47:52.000Z",
-      "ranking": 7.855,
-      "articleUrl": "https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/"
-    },
-    {
       "id": "865",
       "topic": "Training Tricks",
       "source": "Marktechpost AI",
@@ -73,41 +38,149 @@
       "articleUrl": "https://www.marktechpost.com/2026/02/03/a-coding-implementation-to-train-safety-critical-reinforcement-learning-agents-offline-using-conservative-q-learning-with-d3rlpy-and-fixed-historical-data/"
     },
     {
-      "id": "864",
-      "topic": "Science",
-      "source": "Marktechpost AI",
-      "shortTitle": "Qrisp Algo",
-      "mediumTitle": "Qrisp Quantum Algorithms",
-      "longTitle": "Tutorial: Advanced Quantum Algorithms with Qrisp",
+      "id": "870",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Altman vs Anthropic",
+      "mediumTitle": "OpenAI CEO Criticizes Ad",
+      "longTitle": "Sam Altman Calls Anthropic\u0027s Super Bowl Ad \u0027Dishonest\u0027",
       "paragraphs": [
         {
           "Lines": [
-            "This tutorial demonstrates building and",
-            "executing advanced quantum algorithms",
-            "using the Qrisp framework.",
-            "Grover\u2019s search is implemented with",
-            "automatic uncomputation, simplifying the",
-            "process and optimizing resource usage.",
-            "A complete QAOA workflow is presented,",
-            "specifically targeting the MaxCut",
-            "problem.",
-            "The tutorial covers core Qrisp",
-            "abstractions for quantum data and the",
-            "construction of entangled states.",
-            "Quantum Phase Estimation is covered,",
-            "providing a method for determining the",
-            "eigenvalues of a unitary operator.",
-            "The tutorial guides users through the",
-            "practical steps of implementing these",
-            "algorithms within the Qrisp environment.",
-            "The MaxCut problem is a well-known",
-            "combinatorial optimization problem."
+            "Sam Altman, CEO of OpenAI, publicly",
+            "criticized Anthropic\u2019s Super Bowl",
+            "advertisement campaign via a post on X",
+            "(formerly Twitter) on Wednesday.",
+            "He labeled the ads as \u201Cclearly",
+            "dishonest\u201D and characterized the",
+            "approach as \u201Con brand\u201D for Anthropic.",
+            "Specifically, Altman stated that OpenAI",
+            "would \u201Cobviously never run ads in the",
+            "way Anthropic depicts them.\u201D",
+            "The post directly responds to",
+            "Anthropic\u2019s Super Bowl ad, implying the",
+            "ad portrays OpenAI in a negative or",
+            "misleading light.",
+            "He asserted that OpenAI is aware of its",
+            "user base and wouldn\u2019t engage in such",
+            "advertising tactics.",
+            "Altman accused them of using",
+            "\u201Cdoublespeak.\u201D"
           ]
         }
       ],
-      "publishedAt": "2026-02-03T21:08:02.000Z",
-      "ranking": 7.414999999999999,
-      "articleUrl": "https://www.marktechpost.com/2026/02/03/how-to-build-advanced-quantum-algorithms-using-qrisp-with-grover-search-quantum-phase-estimation-and-qaoa/"
+      "publishedAt": "2026-02-04T17:03:05.000Z",
+      "ranking": 7.455,
+      "articleUrl": "https://www.theverge.com/news/874084/ai-chatgpt-claude-super-bowl-ads-openai-anthropic"
+    },
+    {
+      "id": "872",
+      "topic": "Vision, Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Gemini Vision",
+      "mediumTitle": "Google\u0027s Agentic Vision",
+      "longTitle": "Gemini 3 Flash: Agentic Vision Explained",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has introduced \u0027Agentic Vision\u0027",
+            "within its Gemini 3 Flash model, marking",
+            "a significant advancement in AI image",
+            "understanding.",
+            "Agentic Vision addresses this limitation",
+            "by employing an active and iterative",
+            "process for visual understanding.",
+            "The goal of this new approach is to",
+            "improve the accuracy of image analysis",
+            "performed by the Gemini 3 Flash model.",
+            "By actively investigating images, the",
+            "model can reduce the risk of missing",
+            "important information.",
+            "The core problem with previous",
+            "multimodal models was their reliance on",
+            "a single analysis pass, which could lead",
+            "to overlooked details.",
+            "Agentic Vision represents a shift",
+            "towards more robust and reliable",
+            "AI-powered image analysis."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-04T21:16:04.000Z",
+      "ranking": 7.395,
+      "articleUrl": "https://www.marktechpost.com/2026/02/04/google-introduces-agentic-vision-in-gemini-3-flash-for-active-image-understanding/"
+    },
+    {
+      "id": "863",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Qwen3-Coder",
+      "mediumTitle": "Qwen3-Coder-Next Released",
+      "longTitle": "New Open-Weight Model for Coding Agents",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The Qwen team has released",
+            "Qwen3-Coder-Next, a new open-weight",
+            "language model specifically engineered",
+            "for coding agents and local development.",
+            "While the model contains a total of 80",
+            "billion parameters, only 3 billion",
+            "parameters are actively used during each",
+            "token generation.",
+            "The release aims to provide a powerful",
+            "tool for coding-related tasks,",
+            "supporting developers and AI",
+            "researchers.",
+            "This selective activation optimizes",
+            "efficiency, reducing computational costs",
+            "during inference.",
+            "It utilizes a sparse Mixture-of-Experts",
+            "(MoE) architecture, a technique known",
+            "for scaling model capacity."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-03T21:47:52.000Z",
+      "ranking": 6.618954538889927,
+      "articleUrl": "https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/"
+    },
+    {
+      "id": "869",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Alphabet Rev",
+      "mediumTitle": "Alphabet Hits $400B",
+      "longTitle": "Alphabet Reports Record Annual Revenue",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The report revealed that Alphabet",
+            "exceeded $400 billion in annual revenue",
+            "for the first time in its history.",
+            "Specifically, the cloud business and",
+            "YouTube were identified as major",
+            "contributors to this growth.",
+            "The 15% revenue increase demonstrates",
+            "continued strong performance across key",
+            "business segments.",
+            "Alphabet, the parent company of Google,",
+            "released its Q4 2025 earnings report on",
+            "Wednesday.",
+            "This marks a significant financial",
+            "milestone for the technology giant.",
+            "The earnings report provides a snapshot",
+            "of Alphabet\u2019s financial health at the",
+            "end of 2025.",
+            "However, the excerpt does not include",
+            "detailed breakdowns of revenue by",
+            "specific product or service."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-04T18:41:03.000Z",
+      "ranking": 6.575000000000001,
+      "articleUrl": "https://www.theverge.com/news/874161/google-400-billion-revenue-q4-2025-earnings"
     },
     {
       "id": "861",
@@ -141,7 +214,7 @@
         }
       ],
       "publishedAt": "2026-02-03T16:00:00.000Z",
-      "ranking": 6.8383348292730455,
+      "ranking": 6.410110739247081,
       "articleUrl": "https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing"
     },
     {
@@ -180,6 +253,43 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/873686/anthropic-claude-ai-ad-free-super-bowl-advert-chatgpt"
     },
     {
+      "id": "864",
+      "topic": "Science",
+      "source": "Marktechpost AI",
+      "shortTitle": "Qrisp Algo",
+      "mediumTitle": "Qrisp Quantum Algorithms",
+      "longTitle": "Tutorial: Advanced Quantum Algorithms with Qrisp",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This tutorial demonstrates building and",
+            "executing advanced quantum algorithms",
+            "using the Qrisp framework.",
+            "Grover\u2019s search is implemented with",
+            "automatic uncomputation, simplifying the",
+            "process and optimizing resource usage.",
+            "A complete QAOA workflow is presented,",
+            "specifically targeting the MaxCut",
+            "problem.",
+            "The tutorial covers core Qrisp",
+            "abstractions for quantum data and the",
+            "construction of entangled states.",
+            "Quantum Phase Estimation is covered,",
+            "providing a method for determining the",
+            "eigenvalues of a unitary operator.",
+            "The tutorial guides users through the",
+            "practical steps of implementing these",
+            "algorithms within the Qrisp environment.",
+            "The MaxCut problem is a well-known",
+            "combinatorial optimization problem."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-03T21:08:02.000Z",
+      "ranking": 6.116681364459386,
+      "articleUrl": "https://www.marktechpost.com/2026/02/03/how-to-build-advanced-quantum-algorithms-using-qrisp-with-grover-search-quantum-phase-estimation-and-qaoa/"
+    },
+    {
       "id": "857",
       "topic": "Security",
       "source": "The Verge AI",
@@ -211,7 +321,7 @@
         }
       ],
       "publishedAt": "2026-02-03T13:10:33.000Z",
-      "ranking": 4.984023325978725,
+      "ranking": 4.516089834334856,
       "articleUrl": "https://www.theverge.com/tech/873142/french-police-raid-x-investigation"
     },
     {
@@ -247,7 +357,7 @@
         }
       ],
       "publishedAt": "2026-02-03T15:04:09.000Z",
-      "ranking": 4.938273343936633,
+      "ranking": 4.4969611940387875,
       "articleUrl": "https://www.theverge.com/news/873300/apple-xcode-openai-anthropic-ai-agentic-coding"
     },
     {
@@ -283,43 +393,8 @@
         }
       ],
       "publishedAt": "2026-02-03T10:15:38.000Z",
-      "ranking": 4.577055329791616,
+      "ranking": 4.068131374712244,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/872961/humans-infiltrating-moltbook-openclaw-reddit-ai-bots"
-    },
-    {
-      "id": "855",
-      "topic": "Safety",
-      "source": "Marktechpost AI",
-      "shortTitle": "LLM Safety",
-      "mediumTitle": "Multi-Layered LLM Defense",
-      "longTitle": "Building Robust LLM Safety Filters",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A layered defense is presented as",
-            "crucial for robust protection of large",
-            "language models.",
-            "LLM-driven intent classification employs",
-            "a separate LLM to understand the",
-            "prompt\u0027s underlying purpose.",
-            "The described safety filter is intended",
-            "to defend against adaptive, paraphrased,",
-            "and adversarial prompt attacks.",
-            "The intent classification component",
-            "flags potentially harmful requests based",
-            "on their purpose.",
-            "Rule-based pattern detection focuses on",
-            "identifying keywords and phrases linked",
-            "to malicious intent.",
-            "Anomaly detection flags prompts that",
-            "significantly differ from typical, safe",
-            "input patterns."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-03T02:41:19.000Z",
-      "ranking": 4.324959735400814,
-      "articleUrl": "https://www.marktechpost.com/2026/02/02/how-to-build-multi-layered-llm-safety-filters-to-defend-against-adaptive-paraphrased-and-adversarial-prompt-attacks/"
     },
     {
       "id": "858",
@@ -355,8 +430,43 @@
         }
       ],
       "publishedAt": "2026-02-03T12:05:42.000Z",
-      "ranking": 4.279698047035495,
+      "ranking": 3.7965674256145627,
       "articleUrl": "https://www.theverge.com/news/873093/claude-code-down-outage-anthropic"
+    },
+    {
+      "id": "855",
+      "topic": "Safety",
+      "source": "Marktechpost AI",
+      "shortTitle": "LLM Safety",
+      "mediumTitle": "Multi-Layered LLM Defense",
+      "longTitle": "Building Robust LLM Safety Filters",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A layered defense is presented as",
+            "crucial for robust protection of large",
+            "language models.",
+            "LLM-driven intent classification employs",
+            "a separate LLM to understand the",
+            "prompt\u0027s underlying purpose.",
+            "The described safety filter is intended",
+            "to defend against adaptive, paraphrased,",
+            "and adversarial prompt attacks.",
+            "The intent classification component",
+            "flags potentially harmful requests based",
+            "on their purpose.",
+            "Rule-based pattern detection focuses on",
+            "identifying keywords and phrases linked",
+            "to malicious intent.",
+            "Anomaly detection flags prompts that",
+            "significantly differ from typical, safe",
+            "input patterns."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-03T02:41:19.000Z",
+      "ranking": 3.7095699323803464,
+      "articleUrl": "https://www.marktechpost.com/2026/02/02/how-to-build-multi-layered-llm-safety-filters-to-defend-against-adaptive-paraphrased-and-adversarial-prompt-attacks/"
     },
     {
       "id": "853",
@@ -392,7 +502,7 @@
         }
       ],
       "publishedAt": "2026-02-02T17:53:11.000Z",
-      "ranking": 2.9546648002591995,
+      "ranking": 2.2155107610670353,
       "articleUrl": "https://www.theverge.com/tech/872619/elon-musk-merges-spacex-with-xai-and-x"
     },
     {
@@ -429,7 +539,7 @@
         }
       ],
       "publishedAt": "2026-02-02T16:02:39.000Z",
-      "ranking": 2.480459194677353,
+      "ranking": 1.7154024627389193,
       "articleUrl": "https://www.theverge.com/news/872489/mozilla-firefox-ai-features-off-button"
     },
     {
@@ -464,7 +574,7 @@
         }
       ],
       "publishedAt": "2026-02-02T10:09:47.000Z",
-      "ranking": 1.7716458133728246,
+      "ranking": 0.9238973174803258,
       "articleUrl": "https://www.theverge.com/report/872062/grok-still-undressing-men"
     },
     {
@@ -501,7 +611,7 @@
         }
       ],
       "publishedAt": "2026-02-02T11:47:39.000Z",
-      "ranking": 1.5510317630647785,
+      "ranking": 0.7262176153741189,
       "articleUrl": "https://www.theverge.com/news/872091/openclaw-moltbot-clawdbot-ai-agent-news"
     },
     {
@@ -538,7 +648,7 @@
         }
       ],
       "publishedAt": "2026-02-02T08:26:12.000Z",
-      "ranking": 1.4511900308534553,
+      "ranking": 0.5791675239842373,
       "articleUrl": "https://www.marktechpost.com/2026/02/01/nvidia-ai-brings-nemotron-3-nano-30b-to-nvfp4-with-quantization-aware-distillation-qad-for-efficient-reasoning-inference/"
     },
     {
@@ -978,43 +1088,6 @@
       "articleUrl": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge"
     },
     {
-      "id": "834",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "SpaceX Merger",
-      "mediumTitle": "SpaceX Considers Merger",
-      "longTitle": "SpaceX Explores Tesla or xAI Merger",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Musk believes a merger would provide a",
-            "faster route to achieving artificial",
-            "general intelligence (AGI).",
-            "No final decisions have been made",
-            "regarding a merger, and the timing",
-            "remains uncertain.",
-            "Market conditions and regulatory",
-            "approvals will influence any potential",
-            "deal.",
-            "Integrating Tesla\u2019s manufacturing",
-            "capabilities and supply chain with",
-            "SpaceX could create significant",
-            "efficiencies.",
-            "SpaceX\u2019s initial public offering (IPO)",
-            "remains a primary objective.",
-            "SpaceX is currently valued at",
-            "approximately $150 billion.",
-            "Reuters first reported the discussions",
-            "between SpaceX and xAI regarding a",
-            "potential merger."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T15:47:58.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
-    },
-    {
       "id": "831",
       "topic": "Business",
       "source": "The Verge AI",
@@ -1044,6 +1117,43 @@
             "The merger could potentially accelerate",
             "the development of advanced technologies",
             "for space applications."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T15:47:58.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
+    },
+    {
+      "id": "834",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "SpaceX Merger",
+      "mediumTitle": "SpaceX Considers Merger",
+      "longTitle": "SpaceX Explores Tesla or xAI Merger",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Musk believes a merger would provide a",
+            "faster route to achieving artificial",
+            "general intelligence (AGI).",
+            "No final decisions have been made",
+            "regarding a merger, and the timing",
+            "remains uncertain.",
+            "Market conditions and regulatory",
+            "approvals will influence any potential",
+            "deal.",
+            "Integrating Tesla\u2019s manufacturing",
+            "capabilities and supply chain with",
+            "SpaceX could create significant",
+            "efficiencies.",
+            "SpaceX\u2019s initial public offering (IPO)",
+            "remains a primary objective.",
+            "SpaceX is currently valued at",
+            "approximately $150 billion.",
+            "Reuters first reported the discussions",
+            "between SpaceX and xAI regarding a",
+            "potential merger."
           ]
         }
       ],
@@ -1230,112 +1340,6 @@
       "publishedAt": "2026-01-29T03:15:27.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/01/28/alibaba-introduces-qwen3-max-thinking-a-test-time-scaled-reasoning-model-with-native-tool-use-powering-agentic-workloads/"
-    },
-    {
-      "id": "820",
-      "topic": "Generative AI, NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Chrome AI",
-      "mediumTitle": "Chrome Gains AI Browse",
-      "longTitle": "Google Chrome Adds AI-Powered Auto Browse",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google is introducing an \u201Cauto browse\u201D",
-            "feature to its Chrome browser, powered",
-            "by the Gemini AI model.",
-            "This capability is designed to",
-            "autonomously complete complex,",
-            "multi-step tasks for users.",
-            "Gemini navigates the web as a human",
-            "would to achieve a specified goal.",
-            "This goes beyond simple information",
-            "retrieval, actively engaging with web",
-            "pages.",
-            "Auto browse can handle tasks such as",
-            "researching travel options, including",
-            "hotel and flight costs.",
-            "The feature also manages scheduling",
-            "appointments and completing online",
-            "forms.",
-            "Access is restricted to subscribers of",
-            "Google AI Pro and Ultra plans."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-28T17:32:07.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse"
-    },
-    {
-      "id": "821",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI Slop Ban",
-      "mediumTitle": "YouTube Removes AI Content",
-      "longTitle": "YouTube Cracks Down on \u0027AI Slop\u0027 Channels",
-      "paragraphs": [
-        {
-          "Lines": [
-            "YouTube has removed several channels",
-            "dedicated to \u0027AI slop\u0027 content,",
-            "signaling a change in platform policy.",
-            "Kapwing first reported the removal of",
-            "CuentosFacianantes, highlighting the",
-            "impact of the action.",
-            "CuentosFacianantes had amassed a",
-            "significant following with 5.9 million",
-            "subscribers.",
-            "The channel also garnered an impressive",
-            "1.2 billion views before its removal.",
-            "The report detailing these removals is",
-            "dated November 2025, indicating the",
-            "action occurred around that time.",
-            "The full scope of YouTube\u0027s crackdown on",
-            "\u0027AI slop\u0027 channels is currently unknown.",
-            "AI slop content is characterized by its",
-            "rapid generation and low creative input."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-28T16:47:25.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/869684/youtube-top-ai-channels-removed-kapwing"
-    },
-    {
-      "id": "818",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Hate",
-      "mediumTitle": "LLMs \u0026 Antisemitism",
-      "longTitle": "ADL Study: AI Chatbots \u0026 Hate Speech",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The ADL study assessed the performance",
-            "of six leading large language models",
-            "(LLMs) in identifying and responding to",
-            "antisemitic content.",
-            "xAI\u2019s Grok chatbot performed the worst",
-            "among the LLMs tested in the study.",
-            "However, the ADL emphasized that *all*",
-            "models evaluated demonstrated areas",
-            "needing improvement in addressing",
-            "antisemitism.",
-            "The report was published by the",
-            "Anti-Defamation League on Wednesday.",
-            "Anthropic\u2019s Claude performed the best",
-            "according to the report\u2019s metrics.",
-            "The report details Grok\u2019s comparatively",
-            "poor performance in recognizing and",
-            "countering antisemitic prompts and",
-            "statements."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-28T08:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk"
     }
   ]
 }
