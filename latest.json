@@ -1,43 +1,6 @@
 {
   "articles": [
     {
-      "id": "865",
-      "topic": "Training Tricks",
-      "source": "Marktechpost AI",
-      "shortTitle": "Offline RL",
-      "mediumTitle": "Safety-Critical RL Pipeline",
-      "longTitle": "Building a Safe Offline RL System",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Offline RL is employed, meaning the",
-            "agent learns solely from a pre-existing",
-            "dataset and does not interact with a",
-            "live environment during training.",
-            "CQL aims to learn a policy that performs",
-            "well while remaining conservative and",
-            "avoiding potentially unsafe actions.",
-            "The article details a tutorial for",
-            "constructing a reinforcement learning",
-            "pipeline designed for safety-critical",
-            "applications.",
-            "The conservative nature of CQL is",
-            "particularly important for applications",
-            "where safety is paramount.",
-            "The behavior dataset is crucial as it",
-            "represents the historical data used to",
-            "train the agent.",
-            "The d3rlpy library provides the",
-            "implementation for Conservative",
-            "Q-Learning (CQL)."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-04T05:49:17.000Z",
-      "ranking": 7.55,
-      "articleUrl": "https://www.marktechpost.com/2026/02/03/a-coding-implementation-to-train-safety-critical-reinforcement-learning-agents-offline-using-conservative-q-learning-with-d3rlpy-and-fixed-historical-data/"
-    },
-    {
       "id": "870",
       "topic": "Business",
       "source": "The Verge AI",
@@ -111,6 +74,42 @@
       "articleUrl": "https://www.marktechpost.com/2026/02/04/google-introduces-agentic-vision-in-gemini-3-flash-for-active-image-understanding/"
     },
     {
+      "id": "873",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "VIBETENSOR",
+      "mediumTitle": "NVIDIA\u0027s AI-Created DL Stack",
+      "longTitle": "NVIDIA Releases AI-Generated Deep Learning System",
+      "paragraphs": [
+        {
+          "Lines": [
+            "VIBETENSOR\u2019s development relied heavily",
+            "on Large Language Models (LLMs) acting",
+            "as coding agents.",
+            "The project aims to determine if AI",
+            "agents can autonomously construct a",
+            "fully functional deep learning runtime",
+            "environment.",
+            "The successful creation of VIBETENSOR",
+            "demonstrates the growing capabilities of",
+            "AI in software engineering.",
+            "CUDA memory management is integrated for",
+            "optimized performance on NVIDIA GPUs.",
+            "Human involvement was limited to",
+            "providing high-level direction and",
+            "oversight during the AI\u2019s coding",
+            "process.",
+            "NVIDIA recently announced the release of",
+            "VIBETENSOR, marking a significant step",
+            "in AI-assisted software development."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-05T05:10:06.000Z",
+      "ranking": 7.236363636363635,
+      "articleUrl": "https://www.marktechpost.com/2026/02/04/nvidia-ai-release-vibetensor-an-ai-generated-deep-learning-runtime-built-end-to-end-by-coding-agents-programmatically/"
+    },
+    {
       "id": "869",
       "topic": "Business",
       "source": "The Verge AI",
@@ -146,6 +145,43 @@
       "publishedAt": "2026-02-04T18:41:03.000Z",
       "ranking": 6.575000000000001,
       "articleUrl": "https://www.theverge.com/news/874161/google-400-billion-revenue-q4-2025-earnings"
+    },
+    {
+      "id": "865",
+      "topic": "Training Tricks",
+      "source": "Marktechpost AI",
+      "shortTitle": "Offline RL",
+      "mediumTitle": "Safety-Critical RL Pipeline",
+      "longTitle": "Building a Safe Offline RL System",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Offline RL is employed, meaning the",
+            "agent learns solely from a pre-existing",
+            "dataset and does not interact with a",
+            "live environment during training.",
+            "CQL aims to learn a policy that performs",
+            "well while remaining conservative and",
+            "avoiding potentially unsafe actions.",
+            "The article details a tutorial for",
+            "constructing a reinforcement learning",
+            "pipeline designed for safety-critical",
+            "applications.",
+            "The conservative nature of CQL is",
+            "particularly important for applications",
+            "where safety is paramount.",
+            "The behavior dataset is crucial as it",
+            "represents the historical data used to",
+            "train the agent.",
+            "The d3rlpy library provides the",
+            "implementation for Conservative",
+            "Q-Learning (CQL)."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-04T05:49:17.000Z",
+      "ranking": 6.3223164891709995,
+      "articleUrl": "https://www.marktechpost.com/2026/02/03/a-coding-implementation-to-train-safety-critical-reinforcement-learning-agents-offline-using-conservative-q-learning-with-d3rlpy-and-fixed-historical-data/"
     },
     {
       "id": "866",
@@ -214,7 +250,7 @@
         }
       ],
       "publishedAt": "2026-02-03T21:47:52.000Z",
-      "ranking": 6.227405069059024,
+      "ranking": 5.774695892114799,
       "articleUrl": "https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/"
     },
     {
@@ -249,7 +285,7 @@
         }
       ],
       "publishedAt": "2026-02-03T16:00:00.000Z",
-      "ranking": 5.939326679913755,
+      "ranking": 5.406147414912185,
       "articleUrl": "https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing"
     },
     {
@@ -286,7 +322,7 @@
         }
       ],
       "publishedAt": "2026-02-03T21:08:02.000Z",
-      "ranking": 5.71605895357178,
+      "ranking": 5.254135348104955,
       "articleUrl": "https://www.marktechpost.com/2026/02/03/how-to-build-advanced-quantum-algorithms-using-qrisp-with-grover-search-quantum-phase-estimation-and-qaoa/"
     },
     {
@@ -322,7 +358,7 @@
         }
       ],
       "publishedAt": "2026-02-03T15:04:09.000Z",
-      "ranking": 4.01345603633316,
+      "ranking": 3.4673572954278047,
       "articleUrl": "https://www.theverge.com/news/873300/apple-xcode-openai-anthropic-ai-agentic-coding"
     },
     {
@@ -357,7 +393,7 @@
         }
       ],
       "publishedAt": "2026-02-03T13:10:33.000Z",
-      "ranking": 4.006709670783926,
+      "ranking": 3.43433246440874,
       "articleUrl": "https://www.theverge.com/tech/873142/french-police-raid-x-investigation"
     },
     {
@@ -393,7 +429,7 @@
         }
       ],
       "publishedAt": "2026-02-03T10:15:38.000Z",
-      "ranking": 3.5189099440538345,
+      "ranking": 2.906070223886355,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/872961/humans-infiltrating-moltbook-openclaw-reddit-ai-bots"
     },
     {
@@ -430,7 +466,7 @@
         }
       ],
       "publishedAt": "2026-02-03T12:05:42.000Z",
-      "ranking": 3.2724161953242614,
+      "ranking": 2.685037592609747,
       "articleUrl": "https://www.theverge.com/news/873093/claude-code-down-outage-anthropic"
     },
     {
@@ -465,7 +501,7 @@
         }
       ],
       "publishedAt": "2026-02-03T02:41:19.000Z",
-      "ranking": 3.056867491386197,
+      "ranking": 2.3389331880535824,
       "articleUrl": "https://www.marktechpost.com/2026/02/02/how-to-build-multi-layered-llm-safety-filters-to-defend-against-adaptive-paraphrased-and-adversarial-prompt-attacks/"
     },
     {
@@ -502,7 +538,7 @@
         }
       ],
       "publishedAt": "2026-02-02T17:53:11.000Z",
-      "ranking": 1.4425138751218434,
+      "ranking": 0.6024093815259626,
       "articleUrl": "https://www.theverge.com/tech/872619/elon-musk-merges-spacex-with-xai-and-x"
     },
     {
@@ -539,43 +575,8 @@
         }
       ],
       "publishedAt": "2026-02-02T16:02:39.000Z",
-      "ranking": 0.9172290837003247,
+      "ranking": 0.05155551902300015,
       "articleUrl": "https://www.theverge.com/news/872489/mozilla-firefox-ai-features-off-button"
-    },
-    {
-      "id": "850",
-      "topic": "Ethics, Security",
-      "source": "The Verge AI",
-      "shortTitle": "Grok Deepfakes",
-      "mediumTitle": "Grok Generates Explicit Images",
-      "longTitle": "Musk\u0027s Grok Produces Illegal Deepfakes",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article directly challenges Elon",
-            "Musk\u2019s statements regarding Grok\u2019s",
-            "compliance with legal standards.",
-            "Grok demonstrably *can* and *has*",
-            "generated content that is considered",
-            "illegal.",
-            "The deepfakes specifically depict",
-            "undressed men in sexually explicit",
-            "scenarios.",
-            "These images are being created despite",
-            "Musk\u2019s assurances that the chatbot",
-            "operates within legal boundaries.",
-            "The author\u2019s testing provides evidence",
-            "that Grok is still actively producing",
-            "this type of content.",
-            "The proliferation of these deepfakes on",
-            "X preceded and coincided with the",
-            "reported issues with Grok."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-02T10:09:47.000Z",
-      "ranking": 0.04535047722670704,
-      "articleUrl": "https://www.theverge.com/report/872062/grok-still-undressing-men"
     },
     {
       "id": "851",
@@ -613,6 +614,41 @@
       "publishedAt": "2026-02-02T11:47:39.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/872091/openclaw-moltbot-clawdbot-ai-agent-news"
+    },
+    {
+      "id": "850",
+      "topic": "Ethics, Security",
+      "source": "The Verge AI",
+      "shortTitle": "Grok Deepfakes",
+      "mediumTitle": "Grok Generates Explicit Images",
+      "longTitle": "Musk\u0027s Grok Produces Illegal Deepfakes",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article directly challenges Elon",
+            "Musk\u2019s statements regarding Grok\u2019s",
+            "compliance with legal standards.",
+            "Grok demonstrably *can* and *has*",
+            "generated content that is considered",
+            "illegal.",
+            "The deepfakes specifically depict",
+            "undressed men in sexually explicit",
+            "scenarios.",
+            "These images are being created despite",
+            "Musk\u2019s assurances that the chatbot",
+            "operates within legal boundaries.",
+            "The author\u2019s testing provides evidence",
+            "that Grok is still actively producing",
+            "this type of content.",
+            "The proliferation of these deepfakes on",
+            "X preceded and coincided with the",
+            "reported issues with Grok."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-02T10:09:47.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/report/872062/grok-still-undressing-men"
     },
     {
       "id": "849",
@@ -1088,43 +1124,6 @@
       "articleUrl": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge"
     },
     {
-      "id": "831",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "SpaceX/xAI",
-      "mediumTitle": "SpaceX \u0026 xAI Merger Talks",
-      "longTitle": "SpaceX and xAI Discuss Potential Merger",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The primary goal of the merger is to",
-            "facilitate SpaceX\u2019s ambitions to deploy",
-            "data centers into space.",
-            "The combined expertise and resources of",
-            "both companies are expected to",
-            "streamline the deployment process.",
-            "SpaceX is preparing for an Initial",
-            "Public Offering (IPO) later in the year.",
-            "Reuters reported the ongoing discussions",
-            "regarding the potential consolidation of",
-            "SpaceX and xAI.",
-            "Financial details and the valuation of",
-            "the potential merger have not yet been",
-            "disclosed.",
-            "Currently, the specific timing of the",
-            "merger remains uncertain and is still",
-            "under discussion.",
-            "The merger could potentially accelerate",
-            "the development of advanced technologies",
-            "for space applications."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T15:47:58.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
-    },
-    {
       "id": "834",
       "topic": "Business",
       "source": "The Verge AI",
@@ -1154,6 +1153,43 @@
             "Reuters first reported the discussions",
             "between SpaceX and xAI regarding a",
             "potential merger."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T15:47:58.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
+    },
+    {
+      "id": "831",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "SpaceX/xAI",
+      "mediumTitle": "SpaceX \u0026 xAI Merger Talks",
+      "longTitle": "SpaceX and xAI Discuss Potential Merger",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The primary goal of the merger is to",
+            "facilitate SpaceX\u2019s ambitions to deploy",
+            "data centers into space.",
+            "The combined expertise and resources of",
+            "both companies are expected to",
+            "streamline the deployment process.",
+            "SpaceX is preparing for an Initial",
+            "Public Offering (IPO) later in the year.",
+            "Reuters reported the ongoing discussions",
+            "regarding the potential consolidation of",
+            "SpaceX and xAI.",
+            "Financial details and the valuation of",
+            "the potential merger have not yet been",
+            "disclosed.",
+            "Currently, the specific timing of the",
+            "merger remains uncertain and is still",
+            "under discussion.",
+            "The merger could potentially accelerate",
+            "the development of advanced technologies",
+            "for space applications."
           ]
         }
       ],
