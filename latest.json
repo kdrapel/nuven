@@ -111,41 +111,6 @@
       "articleUrl": "https://www.marktechpost.com/2026/02/04/google-introduces-agentic-vision-in-gemini-3-flash-for-active-image-understanding/"
     },
     {
-      "id": "863",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Qwen3-Coder",
-      "mediumTitle": "Qwen3-Coder-Next Released",
-      "longTitle": "New Open-Weight Model for Coding Agents",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The Qwen team has released",
-            "Qwen3-Coder-Next, a new open-weight",
-            "language model specifically engineered",
-            "for coding agents and local development.",
-            "While the model contains a total of 80",
-            "billion parameters, only 3 billion",
-            "parameters are actively used during each",
-            "token generation.",
-            "The release aims to provide a powerful",
-            "tool for coding-related tasks,",
-            "supporting developers and AI",
-            "researchers.",
-            "This selective activation optimizes",
-            "efficiency, reducing computational costs",
-            "during inference.",
-            "It utilizes a sparse Mixture-of-Experts",
-            "(MoE) architecture, a technique known",
-            "for scaling model capacity."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-03T21:47:52.000Z",
-      "ranking": 6.618954538889927,
-      "articleUrl": "https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/"
-    },
-    {
       "id": "869",
       "topic": "Business",
       "source": "The Verge AI",
@@ -183,41 +148,6 @@
       "articleUrl": "https://www.theverge.com/news/874161/google-400-billion-revenue-q4-2025-earnings"
     },
     {
-      "id": "861",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "AI Content Hub",
-      "mediumTitle": "Microsoft\u0027s AI Licensing",
-      "longTitle": "Microsoft Launches AI Content Marketplace",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft is developing the Publisher",
-            "Content Marketplace (PCM) to facilitate",
-            "the licensing of content for AI model",
-            "training.",
-            "Microsoft\u2019s PCM intends to create a more",
-            "transparent and equitable ecosystem for",
-            "AI training data.",
-            "The PCM specifically addresses the need",
-            "for AI companies to legally acquire and",
-            "utilize online content, known as",
-            "\u0027grounding\u0027 their models.",
-            "The PCM aims to resolve these issues by",
-            "providing a centralized location for",
-            "publishers to define content usage",
-            "terms.",
-            "Usage-based reporting will offer",
-            "publishers insights into how their",
-            "content is being used by AI models."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-03T16:00:00.000Z",
-      "ranking": 6.410110739247081,
-      "articleUrl": "https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing"
-    },
-    {
       "id": "866",
       "topic": "Business",
       "source": "The Verge AI",
@@ -253,6 +183,76 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/873686/anthropic-claude-ai-ad-free-super-bowl-advert-chatgpt"
     },
     {
+      "id": "863",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Qwen3-Coder",
+      "mediumTitle": "Qwen3-Coder-Next Released",
+      "longTitle": "New Open-Weight Model for Coding Agents",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The Qwen team has released",
+            "Qwen3-Coder-Next, a new open-weight",
+            "language model specifically engineered",
+            "for coding agents and local development.",
+            "While the model contains a total of 80",
+            "billion parameters, only 3 billion",
+            "parameters are actively used during each",
+            "token generation.",
+            "The release aims to provide a powerful",
+            "tool for coding-related tasks,",
+            "supporting developers and AI",
+            "researchers.",
+            "This selective activation optimizes",
+            "efficiency, reducing computational costs",
+            "during inference.",
+            "It utilizes a sparse Mixture-of-Experts",
+            "(MoE) architecture, a technique known",
+            "for scaling model capacity."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-03T21:47:52.000Z",
+      "ranking": 6.227405069059024,
+      "articleUrl": "https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/"
+    },
+    {
+      "id": "861",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "AI Content Hub",
+      "mediumTitle": "Microsoft\u0027s AI Licensing",
+      "longTitle": "Microsoft Launches AI Content Marketplace",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft is developing the Publisher",
+            "Content Marketplace (PCM) to facilitate",
+            "the licensing of content for AI model",
+            "training.",
+            "Microsoft\u2019s PCM intends to create a more",
+            "transparent and equitable ecosystem for",
+            "AI training data.",
+            "The PCM specifically addresses the need",
+            "for AI companies to legally acquire and",
+            "utilize online content, known as",
+            "\u0027grounding\u0027 their models.",
+            "The PCM aims to resolve these issues by",
+            "providing a centralized location for",
+            "publishers to define content usage",
+            "terms.",
+            "Usage-based reporting will offer",
+            "publishers insights into how their",
+            "content is being used by AI models."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-03T16:00:00.000Z",
+      "ranking": 5.939326679913755,
+      "articleUrl": "https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing"
+    },
+    {
       "id": "864",
       "topic": "Science",
       "source": "Marktechpost AI",
@@ -286,43 +286,8 @@
         }
       ],
       "publishedAt": "2026-02-03T21:08:02.000Z",
-      "ranking": 6.116681364459386,
+      "ranking": 5.71605895357178,
       "articleUrl": "https://www.marktechpost.com/2026/02/03/how-to-build-advanced-quantum-algorithms-using-qrisp-with-grover-search-quantum-phase-estimation-and-qaoa/"
-    },
-    {
-      "id": "857",
-      "topic": "Security",
-      "source": "The Verge AI",
-      "shortTitle": "X Raid",
-      "mediumTitle": "X Paris Office Raided",
-      "longTitle": "French Police Raid X\u0027s Paris Office Over Cybercrime Probe",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The raid on X\u2019s Paris office took place",
-            "on Tuesday, marking a significant",
-            "escalation in the ongoing investigation.",
-            "The Paris prosecutor\u0027s cybercrime unit",
-            "led the operation, receiving assistance",
-            "from both Europol and French police",
-            "forces.",
-            "The investigation initially focused on",
-            "X, formerly known as Twitter, but has",
-            "since broadened to include its",
-            "artificial intelligence chatbot, Grok.",
-            "In April, Elon Musk, the owner of X, and",
-            "Linda Yaccarino, the former CEO, were",
-            "called in for hearings related to the",
-            "probe.",
-            "The specific details of the cybercrime",
-            "investigation remain largely",
-            "confidential at this time."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-03T13:10:33.000Z",
-      "ranking": 4.516089834334856,
-      "articleUrl": "https://www.theverge.com/tech/873142/french-police-raid-x-investigation"
     },
     {
       "id": "862",
@@ -357,8 +322,43 @@
         }
       ],
       "publishedAt": "2026-02-03T15:04:09.000Z",
-      "ranking": 4.4969611940387875,
+      "ranking": 4.01345603633316,
       "articleUrl": "https://www.theverge.com/news/873300/apple-xcode-openai-anthropic-ai-agentic-coding"
+    },
+    {
+      "id": "857",
+      "topic": "Security",
+      "source": "The Verge AI",
+      "shortTitle": "X Raid",
+      "mediumTitle": "X Paris Office Raided",
+      "longTitle": "French Police Raid X\u0027s Paris Office Over Cybercrime Probe",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The raid on X\u2019s Paris office took place",
+            "on Tuesday, marking a significant",
+            "escalation in the ongoing investigation.",
+            "The Paris prosecutor\u0027s cybercrime unit",
+            "led the operation, receiving assistance",
+            "from both Europol and French police",
+            "forces.",
+            "The investigation initially focused on",
+            "X, formerly known as Twitter, but has",
+            "since broadened to include its",
+            "artificial intelligence chatbot, Grok.",
+            "In April, Elon Musk, the owner of X, and",
+            "Linda Yaccarino, the former CEO, were",
+            "called in for hearings related to the",
+            "probe.",
+            "The specific details of the cybercrime",
+            "investigation remain largely",
+            "confidential at this time."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-03T13:10:33.000Z",
+      "ranking": 4.006709670783926,
+      "articleUrl": "https://www.theverge.com/tech/873142/french-police-raid-x-investigation"
     },
     {
       "id": "856",
@@ -393,7 +393,7 @@
         }
       ],
       "publishedAt": "2026-02-03T10:15:38.000Z",
-      "ranking": 4.068131374712244,
+      "ranking": 3.5189099440538345,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/872961/humans-infiltrating-moltbook-openclaw-reddit-ai-bots"
     },
     {
@@ -430,7 +430,7 @@
         }
       ],
       "publishedAt": "2026-02-03T12:05:42.000Z",
-      "ranking": 3.7965674256145627,
+      "ranking": 3.2724161953242614,
       "articleUrl": "https://www.theverge.com/news/873093/claude-code-down-outage-anthropic"
     },
     {
@@ -465,7 +465,7 @@
         }
       ],
       "publishedAt": "2026-02-03T02:41:19.000Z",
-      "ranking": 3.7095699323803464,
+      "ranking": 3.056867491386197,
       "articleUrl": "https://www.marktechpost.com/2026/02/02/how-to-build-multi-layered-llm-safety-filters-to-defend-against-adaptive-paraphrased-and-adversarial-prompt-attacks/"
     },
     {
@@ -502,7 +502,7 @@
         }
       ],
       "publishedAt": "2026-02-02T17:53:11.000Z",
-      "ranking": 2.2155107610670353,
+      "ranking": 1.4425138751218434,
       "articleUrl": "https://www.theverge.com/tech/872619/elon-musk-merges-spacex-with-xai-and-x"
     },
     {
@@ -539,7 +539,7 @@
         }
       ],
       "publishedAt": "2026-02-02T16:02:39.000Z",
-      "ranking": 1.7154024627389193,
+      "ranking": 0.9172290837003247,
       "articleUrl": "https://www.theverge.com/news/872489/mozilla-firefox-ai-features-off-button"
     },
     {
@@ -574,7 +574,7 @@
         }
       ],
       "publishedAt": "2026-02-02T10:09:47.000Z",
-      "ranking": 0.9238973174803258,
+      "ranking": 0.04535047722670704,
       "articleUrl": "https://www.theverge.com/report/872062/grok-still-undressing-men"
     },
     {
@@ -611,7 +611,7 @@
         }
       ],
       "publishedAt": "2026-02-02T11:47:39.000Z",
-      "ranking": 0.7262176153741189,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/872091/openclaw-moltbot-clawdbot-ai-agent-news"
     },
     {
@@ -648,7 +648,7 @@
         }
       ],
       "publishedAt": "2026-02-02T08:26:12.000Z",
-      "ranking": 0.5791675239842373,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/01/nvidia-ai-brings-nemotron-3-nano-30b-to-nvfp4-with-quantization-aware-distillation-qad-for-efficient-reasoning-inference/"
     },
     {
@@ -1198,40 +1198,6 @@
       "articleUrl": "https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech"
     },
     {
-      "id": "828",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Games",
-      "mediumTitle": "Google AI Creates 3D Games",
-      "longTitle": "Google AI Attempts Nintendo Worlds",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The experiment showcases the AI\u0027s",
-            "ability to generate 3D game-like spaces,",
-            "even if the quality is currently",
-            "limited.",
-            "The author specifically created a *Super",
-            "Mario 64*-like world using the AI tool.",
-            "A *Metroid Prime* experience was also",
-            "generated, but the author admits it",
-            "doesn\u0027t compare to *Metroid Prime 4:",
-            "Beyond*.",
-            "The AI was also used to create a version",
-            "inspired by *The Legend of Zelda*",
-            "series.",
-            "The core focus of the article is",
-            "demonstrating what the AI *can* do,",
-            "rather than achieving professional-level",
-            "results."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T13:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on"
-    },
-    {
       "id": "827",
       "topic": "Gaming, Business",
       "source": "The Verge AI",
@@ -1266,6 +1232,40 @@
       "publishedAt": "2026-01-29T13:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey"
+    },
+    {
+      "id": "828",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Games",
+      "mediumTitle": "Google AI Creates 3D Games",
+      "longTitle": "Google AI Attempts Nintendo Worlds",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The experiment showcases the AI\u0027s",
+            "ability to generate 3D game-like spaces,",
+            "even if the quality is currently",
+            "limited.",
+            "The author specifically created a *Super",
+            "Mario 64*-like world using the AI tool.",
+            "A *Metroid Prime* experience was also",
+            "generated, but the author admits it",
+            "doesn\u0027t compare to *Metroid Prime 4:",
+            "Beyond*.",
+            "The AI was also used to create a version",
+            "inspired by *The Legend of Zelda*",
+            "series.",
+            "The core focus of the article is",
+            "demonstrating what the AI *can* do,",
+            "rather than achieving professional-level",
+            "results."
+          ]
+        }
+      ],
+      "publishedAt": "2026-01-29T13:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on"
     },
     {
       "id": "826",
