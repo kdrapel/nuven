@@ -1,40 +1,504 @@
 {
   "articles": [
     {
-      "id": "870",
-      "topic": "Business",
+      "id": "874",
+      "topic": "NLP",
       "source": "The Verge AI",
-      "shortTitle": "Altman vs Anthropic",
-      "mediumTitle": "OpenAI CEO Criticizes Ad",
-      "longTitle": "Sam Altman Calls Anthropic\u0027s Super Bowl Ad \u0027Dishonest\u0027",
+      "shortTitle": "Galaxy AI \u002B Perplexity",
+      "mediumTitle": "Samsung Adds Perplexity AI",
+      "longTitle": "Samsung Integrates Perplexity into Galaxy AI Platform",
       "paragraphs": [
         {
           "Lines": [
-            "Sam Altman, CEO of OpenAI, publicly",
-            "criticized Anthropic\u2019s Super Bowl",
-            "advertisement campaign via a post on X",
-            "(formerly Twitter) on Wednesday.",
-            "He labeled the ads as \u201Cclearly",
-            "dishonest\u201D and characterized the",
-            "approach as \u201Con brand\u201D for Anthropic.",
-            "Specifically, Altman stated that OpenAI",
-            "would \u201Cobviously never run ads in the",
-            "way Anthropic depicts them.\u201D",
-            "The post directly responds to",
-            "Anthropic\u2019s Super Bowl ad, implying the",
-            "ad portrays OpenAI in a negative or",
-            "misleading light.",
-            "He asserted that OpenAI is aware of its",
-            "user base and wouldn\u2019t engage in such",
-            "advertising tactics.",
-            "Altman accused them of using",
-            "\u201Cdoublespeak.\u201D"
+            "Samsung is expanding the capabilities of",
+            "its Galaxy AI platform by integrating",
+            "Perplexity, an AI search and answer",
+            "engine.",
+            "This addition will allow Galaxy S26",
+            "users to access Perplexity\u2019s services",
+            "via voice command, simply by saying",
+            "\u0022hey, Plex\u0022.",
+            "The move signifies Samsung\u2019s strategy of",
+            "building a \u201Cmulti-agent ecosystem\u201D",
+            "within Galaxy AI.",
+            "Currently, Galaxy AI offers access to",
+            "Bixby and Gemini.",
+            "This ecosystem acknowledges that",
+            "different AI models excel at different",
+            "tasks.",
+            "Users may prefer to utilize specific",
+            "agents based on their individual needs",
+            "and strengths."
           ]
         }
       ],
-      "publishedAt": "2026-02-04T17:03:05.000Z",
-      "ranking": 7.455,
-      "articleUrl": "https://www.theverge.com/news/874084/ai-chatgpt-claude-super-bowl-ads-openai-anthropic"
+      "publishedAt": "2026-02-22T18:15:30.000Z",
+      "ranking": 7.46,
+      "articleUrl": "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai"
+    },
+    {
+      "id": "875",
+      "topic": "Ethics, Security",
+      "source": "The Verge AI",
+      "shortTitle": "Tumbler Ridge",
+      "mediumTitle": "School Shooting \u0026 ChatGPT",
+      "longTitle": "Suspect\u0027s Chatbot Use Raises Concerns",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The timing of these conversations",
+            "suggests a potential opportunity for",
+            "intervention that may have been missed.",
+            "Multiple OpenAI employees voiced",
+            "concerns about the possibility of the",
+            "suspect acting on his expressed",
+            "interests.",
+            "Jesse Van Rootselaar is the suspect in",
+            "the school shooting that occurred in",
+            "Tumbler Ridge, British Columbia.",
+            "The chatbot\u2019s safety protocols were",
+            "activated due to the graphic nature of",
+            "the discussions.",
+            "The school shooting in Tumbler Ridge has",
+            "prompted investigations into the events",
+            "leading up to the incident.",
+            "The suspect engaged with ChatGPT in",
+            "June, several months before the shooting",
+            "incident."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-21T11:22:57.000Z",
+      "ranking": 4.463263387970948,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt"
+    },
+    {
+      "id": "887",
+      "topic": "Generative AI, Vision",
+      "source": "Marktechpost AI",
+      "shortTitle": "Diffusers Guide",
+      "mediumTitle": "HuggingFace Diffusers Workflow",
+      "longTitle": "Image Generation with HuggingFace Diffusers",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This tutorial provides a detailed",
+            "workflow for achieving high-quality",
+            "image generation.",
+            "ControlNet allows for precise",
+            "compositional control during image",
+            "generation.",
+            "Text prompts are the primary input for",
+            "generating images with Stable Diffusion.",
+            "A coding guide is provided to help users",
+            "implement these techniques themselves.",
+            "The HuggingFace Diffusers library is the",
+            "core tool used throughout the process.",
+            "Inference speed is a key focus, and is",
+            "improved using a LoRA-based latent",
+            "consistency approach.",
+            "Edge conditioning is specifically used",
+            "with ControlNet to guide the image",
+            "composition."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-21T01:55:24.000Z",
+      "ranking": 3.9150716834191943,
+      "articleUrl": "https://www.marktechpost.com/2026/02/20/a-coding-guide-to-high-quality-image-generation-control-and-editing-using-huggingface-diffusers/"
+    },
+    {
+      "id": "888",
+      "topic": "Robotics, Vision",
+      "source": "Marktechpost AI",
+      "shortTitle": "DreamDojo",
+      "mediumTitle": "NVIDIA\u0027s Robot World Model",
+      "longTitle": "NVIDIA Releases Open-Source DreamDojo",
+      "paragraphs": [
+        {
+          "Lines": [
+            "NVIDIA has released DreamDojo to address",
+            "the difficulties in building traditional",
+            "robot simulators.",
+            "DreamDojo operates by directly",
+            "\u0027dreaming\u0027 the outcomes of robot actions",
+            "in pixel format.",
+            "The core innovation is the model\u2019s",
+            "ability to learn and predict world",
+            "responses to robot actions without",
+            "explicit physical modeling.",
+            "Conventional simulators depend on",
+            "manually coded physics and detailed 3D",
+            "models, which can be limiting.",
+            "The model\u2019s training dataset consists of",
+            "44,711 hours of real-world human video",
+            "data.",
+            "This extensive dataset allows DreamDojo",
+            "to generate diverse and realistic",
+            "environments."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-20T21:30:46.000Z",
+      "ranking": 2.4171869801366945,
+      "articleUrl": "https://www.marktechpost.com/2026/02/20/nvidia-releases-dreamdojo-an-open-source-robot-world-model-trained-on-44711-hours-of-real-world-human-video-data/"
+    },
+    {
+      "id": "876",
+      "topic": "Energy, Environment, Policy",
+      "source": "The Verge AI",
+      "shortTitle": "MATS Repealed",
+      "mediumTitle": "Trump Repeals Pollution Rules",
+      "longTitle": "Mercury Standards Rolled Back Amidst Energy Demand",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The Trump administration has repealed",
+            "the Mercury and Air Toxics Standards",
+            "(MATS) established during the Obama",
+            "administration.",
+            "The repeal effectively removes the",
+            "limitations on the amount of toxic",
+            "substances these plants can release into",
+            "the environment.",
+            "These standards specifically targeted",
+            "mercury and other hazardous air",
+            "pollutants emitted from power plants.",
+            "Coal-fired power plants were",
+            "particularly affected by the regulations",
+            "imposed by MATS.",
+            "Experts predict that the removal of MATS",
+            "will likely result in a rise in",
+            "emissions of toxic pollutants."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-20T16:18:34.000Z",
+      "ranking": 2.38302564000404,
+      "articleUrl": "https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats"
+    },
+    {
+      "id": "877",
+      "topic": "AI Ops",
+      "source": "The Verge AI",
+      "shortTitle": "AWS Outage",
+      "mediumTitle": "AWS China Outage: AI Role",
+      "longTitle": "AWS China Outage Blamed on Human-AI Interaction",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon disputes the claim that Kiro was",
+            "at fault, instead emphasizing human",
+            "error in its implementation.",
+            "The internal explanation focuses on",
+            "human error in the AI\u2019s application,",
+            "rather than a fundamental flaw in Kiro\u2019s",
+            "programming.",
+            "According to the Financial Times,",
+            "numerous unnamed Amazon employees point",
+            "to Kiro as the direct cause of the",
+            "incident.",
+            "The outage affected a system in mainland",
+            "China and lasted for a significant 13",
+            "hours.",
+            "Specifically, Amazon alleges that",
+            "employees did not provide Kiro with",
+            "sufficient guidance or limitations."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-20T12:52:48.000Z",
+      "ranking": 1.1028662470256965,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake"
+    },
+    {
+      "id": "878",
+      "topic": "Robotics",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI Speaker",
+      "mediumTitle": "OpenAI Plans Smart Speaker",
+      "longTitle": "OpenAI to Enter Hardware Market with AI Speaker",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The speaker aims to provide a more",
+            "interactive experience by leveraging",
+            "OpenAI\u2019s AI models.",
+            "The device will understand conversations",
+            "happening in its vicinity.",
+            "This marks OpenAI\u2019s first venture into",
+            "creating physical hardware products.",
+            "The device will be able to identify",
+            "\u201Citems on a nearby table,\u201D demonstrating",
+            "its object recognition capabilities.",
+            "The speaker is designed to be",
+            "contextually aware of its surroundings.",
+            "OpenAI intends to integrate its AI",
+            "technology directly into a physical",
+            "device.",
+            "This new product represents a",
+            "significant expansion of OpenAI\u2019s",
+            "business model.",
+            "Currently, OpenAI is best known for its",
+            "AI software, such as ChatGPT."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-20T12:52:03.000Z",
+      "ranking": 0.9702759817009898,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882077/openai-chatgpt-smart-speaker-camera-glasses-lamp"
+    },
+    {
+      "id": "890",
+      "topic": "Ethics",
+      "source": "Marktechpost AI",
+      "shortTitle": "Transparent AI",
+      "mediumTitle": "Building Accountable AI Agents",
+      "longTitle": "Transparent AI Agents for Auditability",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This tutorial details the construction",
+            "of transparent AI agents designed for",
+            "traceable decision-making.",
+            "These agents are built for auditability",
+            "and to allow for human oversight of",
+            "their actions.",
+            "A tamper-evident audit ledger",
+            "meticulously records every step the",
+            "agent takes.",
+            "The system utilizes a hash-chained",
+            "database to guarantee the integrity and",
+            "immutability of the audit trail.",
+            "The focus is on moving away from opaque",
+            "\u0027black box\u0027 AI decisions towards fully",
+            "visible and accountable systems.",
+            "Human intervention and approval are",
+            "possible at critical points in the",
+            "agent\u2019s workflow.",
+            "The system is designed to log thoughts,",
+            "actions, and observations meticulously."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-20T07:28:08.000Z",
+      "ranking": 0.17585510988612718,
+      "articleUrl": "https://www.marktechpost.com/2026/02/19/how-to-build-transparent-ai-agents-traceable-decision-making-with-audit-trails-and-human-gates/"
+    },
+    {
+      "id": "889",
+      "topic": "AI Ops",
+      "source": "Marktechpost AI",
+      "shortTitle": "NVIDIA Dynamo",
+      "mediumTitle": "Dynamo v0.9.0 Released",
+      "longTitle": "NVIDIA Updates Distributed Inference",
+      "paragraphs": [
+        {
+          "Lines": [
+            "NVIDIA has released Dynamo v0.9.0, a",
+            "major infrastructure update for its",
+            "distributed inference framework.",
+            "This release represents the most",
+            "significant overhaul to date, aiming to",
+            "simplify large-scale model deployment",
+            "and management.",
+            "Key changes include the removal of NATS",
+            "and etcd dependencies, the introduction",
+            "of FlashIndexer, and enhanced",
+            "multi-modal data handling capabilities.",
+            "The removal of NATS and etcd is",
+            "described as \u0022The Great Simplification,\u0022",
+            "streamlining the system by eliminating",
+            "these previously required components.",
+            "This simplification reduces complexity",
+            "and likely lowers operational overhead.",
+            "The update also introduces FlashIndexer,",
+            "which is expected to improve",
+            "performance."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-20T07:51:30.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.marktechpost.com/2026/02/19/nvidia-releases-dynamo-v0-9-0-a-massive-infrastructure-overhaul-featuring-flashindexer-multi-modal-support-and-removed-nats-and-etcd/"
+    },
+    {
+      "id": "891",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Gemini 3.1 Pro",
+      "mediumTitle": "Google Updates Gemini 3",
+      "longTitle": "Gemini 3.1 Pro Enhances AI Agent Capabilities",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Gemini 3.1 Pro achieved a score of 77.1%",
+            "on the ARC-AGI-2 reasoning benchmark.",
+            "This release is designed to enhance the",
+            "capabilities of AI agents, which are",
+            "intended to operate autonomously.",
+            "A 1 million token context window allows",
+            "the model to consider a vast amount of",
+            "information during processing.",
+            "Google AI released Gemini 3.1 Pro, the",
+            "initial update to the Gemini 3 family of",
+            "models.",
+            "The release is primarily aimed at",
+            "developers who are building AI agents.",
+            "Improvements center around reasoning",
+            "stability, ensuring more consistent and",
+            "reliable AI responses.",
+            "This benchmark score indicates a",
+            "significant improvement in the model\u0027s",
+            "reasoning abilities."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-19T22:06:08.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.marktechpost.com/2026/02/19/google-ai-releases-gemini-3-1-pro-with-1-million-token-context-and-77-1-percent-arc-agi-2-reasoning-for-ai-agents/"
+    },
+    {
+      "id": "881",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "FCC \u0026 Colbert",
+      "mediumTitle": "FCC Scrutinizes Late Night",
+      "longTitle": "FCC Commissioner Targets Colbert Show",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article emphasizes that Carr\u2019s",
+            "approach relies on vague threats and",
+            "inquiries rather than concrete",
+            "enforcement actions.",
+            "FCC Commissioner Brendan Carr is",
+            "focusing on content he deems violations",
+            "of FCC rules, specifically targeting",
+            "late-night talk shows.",
+            "Carr is attempting to expand the FCC\u2019s",
+            "regulatory reach into areas",
+            "traditionally considered outside its",
+            "purview, like late-night comedy.",
+            "This action is framed as a potential",
+            "chilling effect on free speech and",
+            "satire.",
+            "Carr suggested the segment potentially",
+            "violated FCC rules prohibiting indecent",
+            "material."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-19T11:08:39.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/podcast/881222/fcc-colbert-talarico-brendan-carr-vergecast"
+    },
+    {
+      "id": "892",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "ZUNA Model",
+      "mediumTitle": "Zyphra Releases ZUNA EEG Model",
+      "longTitle": "ZUNA: New Open-Source Model for EEG Data Analysis",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The model weights are available under an",
+            "Apache-2.0 license, allowing for free",
+            "use and modification.",
+            "Open access to ZUNA promotes",
+            "collaboration and accelerates research",
+            "in the BCI field.",
+            "The release of ZUNA represents a",
+            "significant advancement in the analysis",
+            "of brain activity data.",
+            "Super-resolution enhances the clarity of",
+            "EEG signals, regardless of the electrode",
+            "setup.",
+            "Channel infilling addresses the issue of",
+            "missing data from individual EEG",
+            "electrodes.",
+            "ZUNA is a 380-million parameter",
+            "foundation model, indicating its",
+            "substantial size and potential",
+            "complexity."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-19T07:43:21.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.marktechpost.com/2026/02/18/zyphra-releases-zuna-a-380m-parameter-bci-foundation-model-for-eeg-data-advancing-noninvasive-thought-to-text-development/"
+    },
+    {
+      "id": "893",
+      "topic": "Vision, NLP, Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "Doc Retrieval",
+      "mediumTitle": "ColPali Pipeline Guide",
+      "longTitle": "Building a Visual Document Retrieval System",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Late interaction scoring is a technique",
+            "used to compare the query with the",
+            "document embeddings to find the best",
+            "matches.",
+            "The use of ColPali allows for the",
+            "creation of rich, multi-vector",
+            "embeddings that capture the visual",
+            "content of the documents.",
+            "Understanding the interaction between",
+            "ColPali and late interaction scoring is",
+            "crucial for optimizing retrieval",
+            "performance.",
+            "The pipeline\u0027s effectiveness relies on",
+            "the quality of the embeddings generated",
+            "by ColPali.",
+            "This article serves as a tutorial,",
+            "guiding users through the entire process",
+            "of building the retrieval pipeline."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-19T01:38:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.marktechpost.com/2026/02/18/tutorial-building-a-visual-document-retrieval-pipeline-with-colpali-and-late-interaction-scoring/"
+    },
+    {
+      "id": "873",
+      "topic": "Generative AI",
+      "source": "Marktechpost AI",
+      "shortTitle": "VIBETENSOR",
+      "mediumTitle": "NVIDIA\u0027s AI-Created DL Stack",
+      "longTitle": "NVIDIA Releases AI-Generated Deep Learning System",
+      "paragraphs": [
+        {
+          "Lines": [
+            "VIBETENSOR\u2019s development relied heavily",
+            "on Large Language Models (LLMs) acting",
+            "as coding agents.",
+            "The project aims to determine if AI",
+            "agents can autonomously construct a",
+            "fully functional deep learning runtime",
+            "environment.",
+            "The successful creation of VIBETENSOR",
+            "demonstrates the growing capabilities of",
+            "AI in software engineering.",
+            "CUDA memory management is integrated for",
+            "optimized performance on NVIDIA GPUs.",
+            "Human involvement was limited to",
+            "providing high-level direction and",
+            "oversight during the AI\u2019s coding",
+            "process.",
+            "NVIDIA recently announced the release of",
+            "VIBETENSOR, marking a significant step",
+            "in AI-assisted software development."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-05T05:10:06.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.marktechpost.com/2026/02/04/nvidia-ai-release-vibetensor-an-ai-generated-deep-learning-runtime-built-end-to-end-by-coding-agents-programmatically/"
     },
     {
       "id": "872",
@@ -70,44 +534,8 @@
         }
       ],
       "publishedAt": "2026-02-04T21:16:04.000Z",
-      "ranking": 7.395,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/04/google-introduces-agentic-vision-in-gemini-3-flash-for-active-image-understanding/"
-    },
-    {
-      "id": "873",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "VIBETENSOR",
-      "mediumTitle": "NVIDIA\u0027s AI-Created DL Stack",
-      "longTitle": "NVIDIA Releases AI-Generated Deep Learning System",
-      "paragraphs": [
-        {
-          "Lines": [
-            "VIBETENSOR\u2019s development relied heavily",
-            "on Large Language Models (LLMs) acting",
-            "as coding agents.",
-            "The project aims to determine if AI",
-            "agents can autonomously construct a",
-            "fully functional deep learning runtime",
-            "environment.",
-            "The successful creation of VIBETENSOR",
-            "demonstrates the growing capabilities of",
-            "AI in software engineering.",
-            "CUDA memory management is integrated for",
-            "optimized performance on NVIDIA GPUs.",
-            "Human involvement was limited to",
-            "providing high-level direction and",
-            "oversight during the AI\u2019s coding",
-            "process.",
-            "NVIDIA recently announced the release of",
-            "VIBETENSOR, marking a significant step",
-            "in AI-assisted software development."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-05T05:10:06.000Z",
-      "ranking": 7.236363636363635,
-      "articleUrl": "https://www.marktechpost.com/2026/02/04/nvidia-ai-release-vibetensor-an-ai-generated-deep-learning-runtime-built-end-to-end-by-coding-agents-programmatically/"
     },
     {
       "id": "869",
@@ -143,8 +571,79 @@
         }
       ],
       "publishedAt": "2026-02-04T18:41:03.000Z",
-      "ranking": 6.575000000000001,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/874161/google-400-billion-revenue-q4-2025-earnings"
+    },
+    {
+      "id": "870",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Altman vs Anthropic",
+      "mediumTitle": "OpenAI CEO Criticizes Ad",
+      "longTitle": "Sam Altman Calls Anthropic\u0027s Super Bowl Ad \u0027Dishonest\u0027",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Sam Altman, CEO of OpenAI, publicly",
+            "criticized Anthropic\u2019s Super Bowl",
+            "advertisement campaign via a post on X",
+            "(formerly Twitter) on Wednesday.",
+            "He labeled the ads as \u201Cclearly",
+            "dishonest\u201D and characterized the",
+            "approach as \u201Con brand\u201D for Anthropic.",
+            "Specifically, Altman stated that OpenAI",
+            "would \u201Cobviously never run ads in the",
+            "way Anthropic depicts them.\u201D",
+            "The post directly responds to",
+            "Anthropic\u2019s Super Bowl ad, implying the",
+            "ad portrays OpenAI in a negative or",
+            "misleading light.",
+            "He asserted that OpenAI is aware of its",
+            "user base and wouldn\u2019t engage in such",
+            "advertising tactics.",
+            "Altman accused them of using",
+            "\u201Cdoublespeak.\u201D"
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-04T17:03:05.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/874084/ai-chatgpt-claude-super-bowl-ads-openai-anthropic"
+    },
+    {
+      "id": "866",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Claude: No Ads",
+      "mediumTitle": "Anthropic\u0027s Claude Stays Ad-Free",
+      "longTitle": "Anthropic Commits to Ad-Free AI Chatbot Experience",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Anthropic\u0027s commitment is a deliberate",
+            "effort to provide a clean and",
+            "uninterrupted user experience with",
+            "Claude.",
+            "The Super Bowl advertisement is designed",
+            "to highlight the benefits of an ad-free",
+            "AI chatbot experience.",
+            "While competitors are exploring",
+            "advertising as a revenue stream,",
+            "Anthropic is prioritizing user",
+            "experience.",
+            "The company believes a subscription",
+            "model will provide a sustainable revenue",
+            "source without compromising the user",
+            "interface.",
+            "OpenAI\u0027s decision to integrate ads into",
+            "ChatGPT has sparked debate about the",
+            "future of AI chatbot monetization."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-04T09:09:50.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/873686/anthropic-claude-ai-ad-free-super-bowl-advert-chatgpt"
     },
     {
       "id": "865",
@@ -180,43 +679,8 @@
         }
       ],
       "publishedAt": "2026-02-04T05:49:17.000Z",
-      "ranking": 6.3223164891709995,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/03/a-coding-implementation-to-train-safety-critical-reinforcement-learning-agents-offline-using-conservative-q-learning-with-d3rlpy-and-fixed-historical-data/"
-    },
-    {
-      "id": "866",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Claude: No Ads",
-      "mediumTitle": "Anthropic\u0027s Claude Stays Ad-Free",
-      "longTitle": "Anthropic Commits to Ad-Free AI Chatbot Experience",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Anthropic\u0027s commitment is a deliberate",
-            "effort to provide a clean and",
-            "uninterrupted user experience with",
-            "Claude.",
-            "The Super Bowl advertisement is designed",
-            "to highlight the benefits of an ad-free",
-            "AI chatbot experience.",
-            "While competitors are exploring",
-            "advertising as a revenue stream,",
-            "Anthropic is prioritizing user",
-            "experience.",
-            "The company believes a subscription",
-            "model will provide a sustainable revenue",
-            "source without compromising the user",
-            "interface.",
-            "OpenAI\u0027s decision to integrate ads into",
-            "ChatGPT has sparked debate about the",
-            "future of AI chatbot monetization."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-04T09:09:50.000Z",
-      "ranking": 6.29,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/873686/anthropic-claude-ai-ad-free-super-bowl-advert-chatgpt"
     },
     {
       "id": "863",
@@ -250,43 +714,8 @@
         }
       ],
       "publishedAt": "2026-02-03T21:47:52.000Z",
-      "ranking": 5.774695892114799,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/"
-    },
-    {
-      "id": "861",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "AI Content Hub",
-      "mediumTitle": "Microsoft\u0027s AI Licensing",
-      "longTitle": "Microsoft Launches AI Content Marketplace",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft is developing the Publisher",
-            "Content Marketplace (PCM) to facilitate",
-            "the licensing of content for AI model",
-            "training.",
-            "Microsoft\u2019s PCM intends to create a more",
-            "transparent and equitable ecosystem for",
-            "AI training data.",
-            "The PCM specifically addresses the need",
-            "for AI companies to legally acquire and",
-            "utilize online content, known as",
-            "\u0027grounding\u0027 their models.",
-            "The PCM aims to resolve these issues by",
-            "providing a centralized location for",
-            "publishers to define content usage",
-            "terms.",
-            "Usage-based reporting will offer",
-            "publishers insights into how their",
-            "content is being used by AI models."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-03T16:00:00.000Z",
-      "ranking": 5.406147414912185,
-      "articleUrl": "https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing"
     },
     {
       "id": "864",
@@ -322,8 +751,43 @@
         }
       ],
       "publishedAt": "2026-02-03T21:08:02.000Z",
-      "ranking": 5.254135348104955,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/03/how-to-build-advanced-quantum-algorithms-using-qrisp-with-grover-search-quantum-phase-estimation-and-qaoa/"
+    },
+    {
+      "id": "861",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "AI Content Hub",
+      "mediumTitle": "Microsoft\u0027s AI Licensing",
+      "longTitle": "Microsoft Launches AI Content Marketplace",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft is developing the Publisher",
+            "Content Marketplace (PCM) to facilitate",
+            "the licensing of content for AI model",
+            "training.",
+            "Microsoft\u2019s PCM intends to create a more",
+            "transparent and equitable ecosystem for",
+            "AI training data.",
+            "The PCM specifically addresses the need",
+            "for AI companies to legally acquire and",
+            "utilize online content, known as",
+            "\u0027grounding\u0027 their models.",
+            "The PCM aims to resolve these issues by",
+            "providing a centralized location for",
+            "publishers to define content usage",
+            "terms.",
+            "Usage-based reporting will offer",
+            "publishers insights into how their",
+            "content is being used by AI models."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-03T16:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing"
     },
     {
       "id": "862",
@@ -358,7 +822,7 @@
         }
       ],
       "publishedAt": "2026-02-03T15:04:09.000Z",
-      "ranking": 3.4673572954278047,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/873300/apple-xcode-openai-anthropic-ai-agentic-coding"
     },
     {
@@ -393,44 +857,8 @@
         }
       ],
       "publishedAt": "2026-02-03T13:10:33.000Z",
-      "ranking": 3.43433246440874,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/873142/french-police-raid-x-investigation"
-    },
-    {
-      "id": "856",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Moltbook Bots",
-      "mediumTitle": "Humans Impersonate Bots",
-      "longTitle": "Moltbook: Humans Mimic AI Agents",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Moltbook\u0027s core concept relies on AI",
-            "agents learning from each other through",
-            "social interaction.",
-            "Instead of AI agents interacting with",
-            "each other, Moltbook is now filled with",
-            "humans experimenting with bot-like",
-            "personas.",
-            "The presence of human \u0027pretend bots\u0027",
-            "could introduce bias and inaccuracies",
-            "into the data used for learning.",
-            "Traditional social networks typically",
-            "combat bots masquerading as humans, but",
-            "Moltbook faces the opposite issue.",
-            "It also makes it harder to distinguish",
-            "between genuine AI contributions and",
-            "human imitations.",
-            "Moltbook is a new social platform",
-            "specifically created for AI agents",
-            "developed through the OpenClaw platform."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-03T10:15:38.000Z",
-      "ranking": 2.906070223886355,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/872961/humans-infiltrating-moltbook-openclaw-reddit-ai-bots"
     },
     {
       "id": "858",
@@ -466,8 +894,44 @@
         }
       ],
       "publishedAt": "2026-02-03T12:05:42.000Z",
-      "ranking": 2.685037592609747,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/873093/claude-code-down-outage-anthropic"
+    },
+    {
+      "id": "856",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Moltbook Bots",
+      "mediumTitle": "Humans Impersonate Bots",
+      "longTitle": "Moltbook: Humans Mimic AI Agents",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Moltbook\u0027s core concept relies on AI",
+            "agents learning from each other through",
+            "social interaction.",
+            "Instead of AI agents interacting with",
+            "each other, Moltbook is now filled with",
+            "humans experimenting with bot-like",
+            "personas.",
+            "The presence of human \u0027pretend bots\u0027",
+            "could introduce bias and inaccuracies",
+            "into the data used for learning.",
+            "Traditional social networks typically",
+            "combat bots masquerading as humans, but",
+            "Moltbook faces the opposite issue.",
+            "It also makes it harder to distinguish",
+            "between genuine AI contributions and",
+            "human imitations.",
+            "Moltbook is a new social platform",
+            "specifically created for AI agents",
+            "developed through the OpenClaw platform."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-03T10:15:38.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/872961/humans-infiltrating-moltbook-openclaw-reddit-ai-bots"
     },
     {
       "id": "855",
@@ -501,7 +965,7 @@
         }
       ],
       "publishedAt": "2026-02-03T02:41:19.000Z",
-      "ranking": 2.3389331880535824,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/02/how-to-build-multi-layered-llm-safety-filters-to-defend-against-adaptive-paraphrased-and-adversarial-prompt-attacks/"
     },
     {
@@ -538,7 +1002,7 @@
         }
       ],
       "publishedAt": "2026-02-02T17:53:11.000Z",
-      "ranking": 0.6024093815259626,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/872619/elon-musk-merges-spacex-with-xai-and-x"
     },
     {
@@ -575,7 +1039,7 @@
         }
       ],
       "publishedAt": "2026-02-02T16:02:39.000Z",
-      "ranking": 0.05155551902300015,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/872489/mozilla-firefox-ai-features-off-button"
     },
     {
@@ -833,549 +1297,6 @@
       "publishedAt": "2026-01-31T09:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia"
-    },
-    {
-      "id": "843",
-      "topic": "Robotics, Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "LingBot-World",
-      "mediumTitle": "Ant Group Open-Sources AI World",
-      "longTitle": "LingBot-World: Interactive AI Simulation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "LingBot-World\u2019s core function is to",
-            "simulate and test AI agents in",
-            "interactive environments.",
-            "The open-sourcing of LingBot-World is",
-            "intended to encourage further",
-            "development and research in embodied AI.",
-            "This new system allows for the creation",
-            "of environments that are both visually",
-            "detailed and dynamically responsive.",
-            "Real-time interaction is a key feature,",
-            "enabling immediate feedback and control",
-            "within the simulated world.",
-            "The world model features robust dynamics",
-            "and extended temporal horizons for more",
-            "realistic simulations.",
-            "Robbyant, the embodied AI unit of Ant",
-            "Group, is responsible for the",
-            "development and open-sourcing of",
-            "LingBot-World."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-31T02:53:19.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/30/robbyant-open-sources-lingbot-world-a-real-time-world-model-for-interactive-simulation-and-embodied-ai/"
-    },
-    {
-      "id": "842",
-      "topic": "Training Tricks",
-      "source": "Marktechpost AI",
-      "shortTitle": "PyKEEN Guide",
-      "mediumTitle": "Knowledge Graph Embeddings",
-      "longTitle": "PyKEEN Tutorial: End-to-End Workflow",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The tutorial covers the entire process,",
-            "from initial training to final",
-            "interpretation of results.",
-            "Hyperparameter tuning is a crucial step",
-            "in optimizing the embedding models.",
-            "Various embedding models are trained and",
-            "their performance is directly compared.",
-            "The tutorial also details methods for",
-            "analyzing the resulting embeddings.",
-            "Optimization techniques are applied to",
-            "improve the quality of the embeddings.",
-            "This article serves as a practical guide",
-            "to utilizing PyKEEN for modern knowledge",
-            "graph embedding tasks.",
-            "Analyzing the embeddings allows users to",
-            "gain valuable insights from the",
-            "knowledge graph.",
-            "The workflow is designed to be",
-            "end-to-end, providing a complete",
-            "solution."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-30T22:18:32.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/30/a-coding-implementation-to-training-optimizing-evaluating-and-interpreting-knowledge-graph-embeddings-with-pykeen/"
-    },
-    {
-      "id": "839",
-      "topic": "Gaming, Business",
-      "source": "The Verge AI",
-      "shortTitle": "AI Game Tool",
-      "mediumTitle": "Google AI Impacts Stocks",
-      "longTitle": "Google\u0027s \u0027Project Genie\u0027 Worries Game Firms",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The declines indicate investor concern",
-            "about the potential impact of AI on the",
-            "video game market.",
-            "Project Genie is designed to generate",
-            "interactive experiences based on user",
-            "input.",
-            "The potential for AI-driven game",
-            "generation is raising questions about",
-            "the future of traditional game",
-            "development.",
-            "The market is reacting to the",
-            "possibility of AI disrupting the",
-            "existing business models of game",
-            "companies.",
-            "Take-Two Interactive\u2019s closing price",
-            "represented a significant drop from the",
-            "previous day.",
-            "Reuters reported on the stock declines",
-            "following Google\u2019s announcement."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-30T18:45:16.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity"
-    },
-    {
-      "id": "836",
-      "topic": "Hardware",
-      "source": "Marktechpost AI",
-      "shortTitle": "Maia 200",
-      "mediumTitle": "Microsoft\u0027s New AI Chip",
-      "longTitle": "Microsoft Unveils Maia 200 AI Accelerator",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft has unveiled Maia 200, a new",
-            "AI accelerator chip designed",
-            "specifically for inference workloads",
-            "within its Azure datacenters.",
-            "The chip is focused on reducing the cost",
-            "associated with generating tokens for",
-            "large language models (LLMs) and",
-            "handling other reasoning tasks.",
-            "Maia 200 achieves cost reduction through",
-            "a combination of specialized features.",
-            "Narrow precision compute, utilizing FP4",
-            "and FP8 data formats, is a key component",
-            "of the chip\u0027s design.",
-            "A dense on-chip memory hierarchy",
-            "contributes to faster data access and",
-            "improved performance.",
-            "An Ethernet-based scale-up fabric",
-            "enables efficient scaling of the chip\u0027s",
-            "capabilities."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-30T10:01:55.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/30/microsoft-unveils-maia-200-an-fp4-and-fp8-optimized-ai-inference-accelerator-for-azure-datacenters/"
-    },
-    {
-      "id": "837",
-      "topic": "Vision",
-      "source": "Marktechpost AI",
-      "shortTitle": "DeepSeek-OCR 2",
-      "mediumTitle": "New Open-Source OCR System",
-      "longTitle": "DeepSeek AI Releases OCR \u0026 Doc Understanding",
-      "paragraphs": [
-        {
-          "Lines": [
-            "DeepSeek AI recently released",
-            "DeepSeek-OCR 2, a new open-source system",
-            "for Optical Character Recognition (OCR).",
-            "DeepEncoder V2 is a transformer-based",
-            "language model at the heart of the",
-            "system.",
-            "A key innovation is the restructuring of",
-            "the vision encoder to process pages in a",
-            "causal order.",
-            "This causal processing is intended to",
-            "mimic human reading patterns for better",
-            "comprehension.",
-            "It transforms a two-dimensional page",
-            "layout into a one-dimensional sequence",
-            "for processing.",
-            "The system also focuses on document",
-            "understanding, aiming to interpret the",
-            "content and structure of documents."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-30T09:21:49.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/30/deepseek-ai-releases-deepseek-ocr-2-with-causal-visual-flow-encoder-for-layout-aware-document-understanding/"
-    },
-    {
-      "id": "838",
-      "topic": "Vision",
-      "source": "Marktechpost AI",
-      "shortTitle": "Kornia CV",
-      "mediumTitle": "Differentiable CV in PyTorch",
-      "longTitle": "Kornia: Building Modern CV Pipelines",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article details a practical",
-            "implementation of differentiable",
-            "computer vision using the Kornia library",
-            "in PyTorch.",
-            "Differentiable geometry allows for",
-            "direct optimization of transformations",
-            "like homographies using gradient",
-            "descent.",
-            "The article showcases Kornia\u0027s ability",
-            "to construct sophisticated computer",
-            "vision systems within PyTorch.",
-            "This differentiability enables learning",
-            "and refining these transformations",
-            "through backpropagation in PyTorch.",
-            "The implementation begins with creating",
-            "GPU-accelerated augmentation pipelines",
-            "for faster processing.",
-            "Learned feature matching enhances the",
-            "pipeline\u0027s capabilities by finding",
-            "corresponding points across images."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-30T08:24:55.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/29/a-coding-deep-dive-into-differentiable-computer-vision-with-kornia-using-geometry-optimization-loftr-matching-and-gpu-augmentations/"
-    },
-    {
-      "id": "835",
-      "topic": "Robotics, Vision, Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "LingBot-VLA",
-      "mediumTitle": "New Robot Control Model",
-      "longTitle": "Ant Group Releases LingBot-VLA for Robotics",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Ant Group Robbyant developed LingBot-VLA",
-            "to improve practical robot manipulation.",
-            "The model is designed for use in",
-            "real-world scenarios, bridging the gap",
-            "between research and application.",
-            "LingBot-VLA is a Vision Language Action",
-            "(VLA) model, meaning it processes visual",
-            "input, language commands, and robot",
-            "actions.",
-            "Approximately 20,000 hours of bimanual",
-            "teleoperation data were used for",
-            "training.",
-            "A key goal of LingBot-VLA is to create a",
-            "single, generalizable model.",
-            "This model can then be adapted to",
-            "control various dual-arm robots without",
-            "extensive retraining.",
-            "The nine robot types represent a diverse",
-            "range of hardware configurations."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-30T01:02:19.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/29/ant-group-releases-lingbot-vla-a-vision-language-action-foundation-model-for-real-world-robot-manipulation/"
-    },
-    {
-      "id": "833",
-      "topic": "Energy",
-      "source": "The Verge AI",
-      "shortTitle": "Gas Plant Rise",
-      "mediumTitle": "US Gas Plant Boom",
-      "longTitle": "Data Centers Fuel Gas Power Surge",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Globally, gas-fired power generation in",
-            "development increased by 31% in 2023.",
-            "The escalating energy demands of data",
-            "centers are the main reason for this",
-            "global trend.",
-            "Increased gas power generation directly",
-            "translates to increased planet-heating",
-            "pollution.",
-            "Approximately 25% of this new capacity",
-            "is planned for the US.",
-            "The United States is currently",
-            "experiencing a resurgence in gas power",
-            "plant construction.",
-            "This US increase is contributing to a",
-            "broader global increase in gas power",
-            "capacity.",
-            "The article emphasizes the impact of",
-            "data center energy needs on broader",
-            "energy infrastructure decisions."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T18:12:49.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge"
-    },
-    {
-      "id": "834",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "SpaceX Merger",
-      "mediumTitle": "SpaceX Considers Merger",
-      "longTitle": "SpaceX Explores Tesla or xAI Merger",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Musk believes a merger would provide a",
-            "faster route to achieving artificial",
-            "general intelligence (AGI).",
-            "No final decisions have been made",
-            "regarding a merger, and the timing",
-            "remains uncertain.",
-            "Market conditions and regulatory",
-            "approvals will influence any potential",
-            "deal.",
-            "Integrating Tesla\u2019s manufacturing",
-            "capabilities and supply chain with",
-            "SpaceX could create significant",
-            "efficiencies.",
-            "SpaceX\u2019s initial public offering (IPO)",
-            "remains a primary objective.",
-            "SpaceX is currently valued at",
-            "approximately $150 billion.",
-            "Reuters first reported the discussions",
-            "between SpaceX and xAI regarding a",
-            "potential merger."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T15:47:58.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
-    },
-    {
-      "id": "831",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "SpaceX/xAI",
-      "mediumTitle": "SpaceX \u0026 xAI Merger Talks",
-      "longTitle": "SpaceX and xAI Discuss Potential Merger",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The primary goal of the merger is to",
-            "facilitate SpaceX\u2019s ambitions to deploy",
-            "data centers into space.",
-            "The combined expertise and resources of",
-            "both companies are expected to",
-            "streamline the deployment process.",
-            "SpaceX is preparing for an Initial",
-            "Public Offering (IPO) later in the year.",
-            "Reuters reported the ongoing discussions",
-            "regarding the potential consolidation of",
-            "SpaceX and xAI.",
-            "Financial details and the valuation of",
-            "the potential merger have not yet been",
-            "disclosed.",
-            "Currently, the specific timing of the",
-            "merger remains uncertain and is still",
-            "under discussion.",
-            "The merger could potentially accelerate",
-            "the development of advanced technologies",
-            "for space applications."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T15:47:58.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger"
-    },
-    {
-      "id": "832",
-      "topic": "Speech, AI Ops",
-      "source": "The Verge AI",
-      "shortTitle": "Apple buys Q.ai",
-      "mediumTitle": "Apple Acquires AI Startup",
-      "longTitle": "Apple Buys Q.ai for $2 Billion",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The acquisition suggests Apple is",
-            "investing in next-generation audio",
-            "technologies.",
-            "Apple may also be exploring",
-            "brain-computer interface technologies.",
-            "Q.ai\u2019s technology focuses on",
-            "interpreting speech without actual",
-            "vocalization.",
-            "This technology could detect speech from",
-            "facial expressions.",
-            "It could also detect speech from vocal",
-            "cord vibrations.",
-            "The $2 billion figure was reported by",
-            "the *Financial Times*.",
-            "The company holds patents related to",
-            "optical sensors.",
-            "Apple did not publicly disclose the",
-            "financial details of the Q.ai",
-            "acquisition."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T15:22:27.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech"
-    },
-    {
-      "id": "827",
-      "topic": "Gaming, Business",
-      "source": "The Verge AI",
-      "shortTitle": "AI in Gaming",
-      "mediumTitle": "GDC Survey: AI Concerns",
-      "longTitle": "Game Devs See Negative Impact of AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A majority of game developers,",
-            "specifically 52%, believe generative AI",
-            "is negatively impacting their field.",
-            "The survey indicates a clear majority of",
-            "developers hold a negative opinion",
-            "regarding AI\u0027s effect on the industry.",
-            "The prevailing sentiment among",
-            "respondents is negative, despite the",
-            "technology\u0027s integration.",
-            "The survey reveals growing concerns",
-            "among developers regarding the",
-            "increasing adoption of generative AI",
-            "technologies.",
-            "The article does not provide details on",
-            "the specific reasons behind developers\u0027",
-            "negative views.",
-            "The GDC survey specifically focused on",
-            "the impact of generative AI on the",
-            "gaming industry."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T13:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey"
-    },
-    {
-      "id": "828",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Games",
-      "mediumTitle": "Google AI Creates 3D Games",
-      "longTitle": "Google AI Attempts Nintendo Worlds",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The experiment showcases the AI\u0027s",
-            "ability to generate 3D game-like spaces,",
-            "even if the quality is currently",
-            "limited.",
-            "The author specifically created a *Super",
-            "Mario 64*-like world using the AI tool.",
-            "A *Metroid Prime* experience was also",
-            "generated, but the author admits it",
-            "doesn\u0027t compare to *Metroid Prime 4:",
-            "Beyond*.",
-            "The AI was also used to create a version",
-            "inspired by *The Legend of Zelda*",
-            "series.",
-            "The core focus of the article is",
-            "demonstrating what the AI *can* do,",
-            "rather than achieving professional-level",
-            "results."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T13:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on"
-    },
-    {
-      "id": "826",
-      "topic": "Science",
-      "source": "Marktechpost AI",
-      "shortTitle": "AlphaGenome",
-      "mediumTitle": "Google\u0027s AlphaGenome Model",
-      "longTitle": "AlphaGenome: A New Genomics AI Model",
-      "paragraphs": [
-        {
-          "Lines": [
-            "AlphaGenome is designed for \u0027sequence to",
-            "function\u0027 genomics, aiming to decipher",
-            "the roles of different genetic",
-            "sequences.",
-            "AlphaGenome represents a notable step",
-            "forward in the modeling of the human",
-            "genome.",
-            "The \u0027unified\u0027 nature of AlphaGenome",
-            "suggests it can handle multiple genomic",
-            "prediction tasks without requiring",
-            "separate models.",
-            "The model\u0027s development builds on the",
-            "advancements achieved with AlphaFold in",
-            "the field of protein folding.",
-            "This new model could potentially",
-            "accelerate research in areas like gene",
-            "regulation and disease understanding.",
-            "The use of hybrid Transformers and",
-            "U-Nets indicates a sophisticated",
-            "approach to genomic data analysis."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T08:46:08.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/28/google-deepmind-unveils-alphagenome-a-unified-sequence-to-function-model-using-hybrid-transformers-and-u-nets-to-decode-the-human-genome/"
-    },
-    {
-      "id": "825",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Alibaba LLM",
-      "mediumTitle": "Alibaba Releases Qwen3-Max",
-      "longTitle": "Alibaba Unveils Qwen3-Max-Thinking LLM",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Alibaba has released Qwen3-Max-Thinking,",
-            "its new flagship large language model",
-            "(LLM).",
-            "This model distinguishes itself not only",
-            "through its scale \u2013 a trillion",
-            "parameters \u2013 but also through a novel",
-            "approach to inference.",
-            "Qwen3-Max-Thinking allows for explicit",
-            "control over \u201Cthinking depth\u201D during the",
-            "reasoning process.",
-            "A key feature of Qwen3-Max-Thinking is",
-            "its native tool use capability.",
-            "It\u2019s equipped with built-in tools for",
-            "functions like search, memory access,",
-            "and code execution.",
-            "The model was pre-trained on a massive",
-            "dataset of 36 trillion tokens.",
-            "These tools are designed to enhance its",
-            "performance on complex, agentic",
-            "workloads."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-29T03:15:27.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/01/28/alibaba-introduces-qwen3-max-thinking-a-test-time-scaled-reasoning-model-with-native-tool-use-powering-agentic-workloads/"
     }
   ]
 }
