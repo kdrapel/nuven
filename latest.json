@@ -37,6 +37,42 @@
       "articleUrl": "https://www.marktechpost.com/2026/02/22/a-coding-guide-to-instrumenting-tracing-and-evaluating-llm-applications-using-trulens-and-openai-models/"
     },
     {
+      "id": "898",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Insta",
+      "mediumTitle": "Instagram Chief on AI",
+      "longTitle": "AI Threatens Creator Authenticity",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Instagram head Adam Mosseri is concerned",
+            "about the increasing amount of",
+            "AI-generated content online.",
+            "He specifically worries about the impact",
+            "of AI on the authenticity of content",
+            "created by individuals.",
+            "Mosseri argues that AI is making it",
+            "simple to reproduce qualities that were",
+            "once unique to human creators.",
+            "These qualities include a genuine",
+            "connection with audiences and a",
+            "distinctive, unreplicable style.",
+            "Despite this awareness, these same",
+            "companies are simultaneously",
+            "facilitating the proliferation of this",
+            "AI-generated content.",
+            "This creates a tension between expressed",
+            "concerns about authenticity and the",
+            "platforms\u0027 actions."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-23T12:00:00.000Z",
+      "ranking": 7.005000000000001,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
+    },
+    {
       "id": "874",
       "topic": "NLP",
       "source": "The Verge AI",
@@ -69,7 +105,7 @@
         }
       ],
       "publishedAt": "2026-02-22T18:15:30.000Z",
-      "ranking": 7.46,
+      "ranking": 6.268494553405097,
       "articleUrl": "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai"
     },
     {
@@ -105,7 +141,7 @@
         }
       ],
       "publishedAt": "2026-02-21T11:22:57.000Z",
-      "ranking": 1.9808167983634872,
+      "ranking": 1.2068588340241373,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt"
     },
     {
@@ -140,7 +176,7 @@
         }
       ],
       "publishedAt": "2026-02-21T01:55:24.000Z",
-      "ranking": 0.9119338671485675,
+      "ranking": 0.004984686443796349,
       "articleUrl": "https://www.marktechpost.com/2026/02/20/a-coding-guide-to-high-quality-image-generation-control-and-editing-using-huggingface-diffusers/"
     },
     {
@@ -1186,42 +1222,6 @@
       "publishedAt": "2026-02-02T08:26:12.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/01/nvidia-ai-brings-nemotron-3-nano-30b-to-nvfp4-with-quantization-aware-distillation-qad-for-efficient-reasoning-inference/"
-    },
-    {
-      "id": "848",
-      "topic": "Learning",
-      "source": "Marktechpost AI",
-      "shortTitle": "Dec. FL",
-      "mediumTitle": "Decentralized Federated Learning",
-      "longTitle": "Decentralized FL vs. Centralized FedAvg",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The implementation of client-side",
-            "differential privacy enhances the",
-            "privacy of individual client data.",
-            "Calibrated noise is added to the local",
-            "model updates to achieve differential",
-            "privacy.",
-            "Both the centralized FedAvg algorithm",
-            "and the decentralized Gossip Federated",
-            "Learning system are implemented from",
-            "scratch.",
-            "Controlled experiments are conducted to",
-            "evaluate the performance of both",
-            "systems.",
-            "The decentralized approach utilizes a",
-            "gossip mechanism for peer-to-peer",
-            "communication between clients.",
-            "This tutorial focuses on the behavior of",
-            "federated learning when the central",
-            "aggregation server is absent."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-02T02:14:35.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/02/01/a-coding-and-experimental-analysis-of-decentralized-federated-learning-with-gossip-protocols-and-differential-privacy/"
     }
   ]
 }
