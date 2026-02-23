@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "896",
+      "topic": "Model Eval",
+      "source": "Marktechpost AI",
+      "shortTitle": "LLM Eval",
+      "mediumTitle": "TruLens LLM Pipeline",
+      "longTitle": "Evaluating LLMs with TruLens \u0026 OpenAI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article addresses the need to move",
+            "away from treating large language models",
+            "(LLMs) as opaque \u0027black boxes\u0027.",
+            "Instrumenting each stage of the",
+            "application allows for capturing inputs,",
+            "intermediate steps, and outputs as",
+            "structured traces.",
+            "These traces are crucial for",
+            "quantitatively evaluating the model\u0027s",
+            "performance using feedback functions.",
+            "The system aims to provide a method for",
+            "systematically evaluating LLM",
+            "applications.",
+            "This approach contrasts with relying on",
+            "subjective assessments of LLM",
+            "performance.",
+            "The TruLens framework facilitates",
+            "detailed tracing and evaluation of LLM",
+            "applications."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-23T04:39:16.000Z",
+      "ranking": 7.54,
+      "articleUrl": "https://www.marktechpost.com/2026/02/22/a-coding-guide-to-instrumenting-tracing-and-evaluating-llm-applications-using-trulens-and-openai-models/"
+    },
+    {
       "id": "874",
       "topic": "NLP",
       "source": "The Verge AI",
@@ -69,7 +105,7 @@
         }
       ],
       "publishedAt": "2026-02-21T11:22:57.000Z",
-      "ranking": 3.9358138730941548,
+      "ranking": 3.328366976174557,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt"
     },
     {
@@ -104,7 +140,7 @@
         }
       ],
       "publishedAt": "2026-02-21T01:55:24.000Z",
-      "ranking": 3.2600618804536463,
+      "ranking": 2.5192516690288675,
       "articleUrl": "https://www.marktechpost.com/2026/02/20/a-coding-guide-to-high-quality-image-generation-control-and-editing-using-huggingface-diffusers/"
     },
     {
@@ -140,7 +176,7 @@
         }
       ],
       "publishedAt": "2026-02-20T21:30:46.000Z",
-      "ranking": 1.7026984660955407,
+      "ranking": 0.8997044644820429,
       "articleUrl": "https://www.marktechpost.com/2026/02/20/nvidia-releases-dreamdojo-an-open-source-robot-world-model-trained-on-44711-hours-of-real-world-human-video-data/"
     },
     {
@@ -174,7 +210,7 @@
         }
       ],
       "publishedAt": "2026-02-20T16:18:34.000Z",
-      "ranking": 1.5983682070566232,
+      "ranking": 0.7220132145684444,
       "articleUrl": "https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats"
     },
     {
@@ -208,7 +244,7 @@
         }
       ],
       "publishedAt": "2026-02-20T12:52:48.000Z",
-      "ranking": 0.27196146097102947,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake"
     },
     {
@@ -245,7 +281,7 @@
         }
       ],
       "publishedAt": "2026-02-20T12:52:03.000Z",
-      "ranking": 0.1392026253795393,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882077/openai-chatgpt-smart-speaker-camera-glasses-lamp"
     },
     {
@@ -1186,117 +1222,6 @@
       "publishedAt": "2026-02-02T02:14:35.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/01/a-coding-and-experimental-analysis-of-decentralized-federated-learning-with-gossip-protocols-and-differential-privacy/"
-    },
-    {
-      "id": "846",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Nvidia/OpenAI",
-      "mediumTitle": "Nvidia Backs OpenAI Deal",
-      "longTitle": "Nvidia CEO Reaffirms OpenAI Investment",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Huang explicitly denied any unhappiness",
-            "with OpenAI, aiming to quell the",
-            "circulating doubts.",
-            "Nvidia is a leading provider of the",
-            "specialized GPUs essential for these",
-            "computationally intensive AI tasks.",
-            "Media reports had indicated possible",
-            "friction between the two companies,",
-            "raising questions about the future of",
-            "the deal.",
-            "OpenAI relies heavily on significant",
-            "computational resources for training and",
-            "running its large language models.",
-            "The initial $100 billion investment was",
-            "intended as a long-term collaboration to",
-            "support OpenAI\u2019s AI technology",
-            "advancements.",
-            "Jensen Huang, the CEO of Nvidia,",
-            "publicly addressed concerns regarding",
-            "the company\u2019s investment in OpenAI."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-31T19:37:56.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai"
-    },
-    {
-      "id": "845",
-      "topic": "Space",
-      "source": "The Verge AI",
-      "shortTitle": "SpaceX Satellites",
-      "mediumTitle": "SpaceX Seeks FCC Approval",
-      "longTitle": "SpaceX Plans 1 Million Data Satellites",
-      "paragraphs": [
-        {
-          "Lines": [
-            "SpaceX has requested permission from the",
-            "Federal Communications Commission (FCC)",
-            "to launch a massive constellation of 1",
-            "million data center satellites.",
-            "The proposed satellites would operate as",
-            "solar-powered data centers in orbit.",
-            "This ambitious plan aims to deliver",
-            "global data services through an",
-            "extensive orbital infrastructure.",
-            "SpaceX\u2019s history indicates that",
-            "requesting a large number of satellites",
-            "initially is a common tactic to initiate",
-            "discussions with the FCC.",
-            "Full approval for a network of this",
-            "scale is considered unlikely by industry",
-            "observers.",
-            "The filing with the FCC details the",
-            "company\u2019s vision for leveraging",
-            "space-based infrastructure for data",
-            "services."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-31T15:38:36.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit"
-    },
-    {
-      "id": "844",
-      "topic": "NLP",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Grokipedia",
-      "mediumTitle": "Grokipedia\u0027s Growing AI Use",
-      "longTitle": "AI Chatbots Increasingly Rely on Grokipedia",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The growing trend raises concerns about",
-            "the quality and reliability of",
-            "information provided by these AI",
-            "chatbots.",
-            "Misinformation could potentially spread",
-            "more easily if AI systems rely heavily",
-            "on a single, potentially flawed source.",
-            "The potential for inaccuracies within",
-            "Grokipedia is a key concern driving the",
-            "discussion.",
-            "The article emphasizes the broadening",
-            "dependence on Grokipedia across multiple",
-            "prominent AI platforms.",
-            "The article specifically names Google\u2019s",
-            "AI Overviews, AI Mode, and Gemini as",
-            "examples of AI tools utilizing",
-            "Grokipedia.",
-            "The initial reports focused on ChatGPT\u0027s",
-            "use of Grokipedia, but the trend extends",
-            "to other major AI platforms."
-          ]
-        }
-      ],
-      "publishedAt": "2026-01-31T09:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia"
     }
   ]
 }
