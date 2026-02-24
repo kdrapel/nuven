@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "id": "896",
-      "topic": "Model Eval",
-      "source": "Marktechpost AI",
-      "shortTitle": "LLM Eval",
-      "mediumTitle": "TruLens LLM Pipeline",
-      "longTitle": "Evaluating LLMs with TruLens \u0026 OpenAI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article addresses the need to move",
-            "away from treating large language models",
-            "(LLMs) as opaque \u0027black boxes\u0027.",
-            "Instrumenting each stage of the",
-            "application allows for capturing inputs,",
-            "intermediate steps, and outputs as",
-            "structured traces.",
-            "These traces are crucial for",
-            "quantitatively evaluating the model\u0027s",
-            "performance using feedback functions.",
-            "The system aims to provide a method for",
-            "systematically evaluating LLM",
-            "applications.",
-            "This approach contrasts with relying on",
-            "subjective assessments of LLM",
-            "performance.",
-            "The TruLens framework facilitates",
-            "detailed tracing and evaluation of LLM",
-            "applications."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-23T04:39:16.000Z",
-      "ranking": 7.54,
-      "articleUrl": "https://www.marktechpost.com/2026/02/22/a-coding-guide-to-instrumenting-tracing-and-evaluating-llm-applications-using-trulens-and-openai-models/"
-    },
-    {
       "id": "900",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -143,6 +107,42 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
     },
     {
+      "id": "896",
+      "topic": "Model Eval",
+      "source": "Marktechpost AI",
+      "shortTitle": "LLM Eval",
+      "mediumTitle": "TruLens LLM Pipeline",
+      "longTitle": "Evaluating LLMs with TruLens \u0026 OpenAI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article addresses the need to move",
+            "away from treating large language models",
+            "(LLMs) as opaque \u0027black boxes\u0027.",
+            "Instrumenting each stage of the",
+            "application allows for capturing inputs,",
+            "intermediate steps, and outputs as",
+            "structured traces.",
+            "These traces are crucial for",
+            "quantitatively evaluating the model\u0027s",
+            "performance using feedback functions.",
+            "The system aims to provide a method for",
+            "systematically evaluating LLM",
+            "applications.",
+            "This approach contrasts with relying on",
+            "subjective assessments of LLM",
+            "performance.",
+            "The TruLens framework facilitates",
+            "detailed tracing and evaluation of LLM",
+            "applications."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-23T04:39:16.000Z",
+      "ranking": 6.198395205357286,
+      "articleUrl": "https://www.marktechpost.com/2026/02/22/a-coding-guide-to-instrumenting-tracing-and-evaluating-llm-applications-using-trulens-and-openai-models/"
+    },
+    {
       "id": "874",
       "topic": "NLP",
       "source": "The Verge AI",
@@ -175,7 +175,7 @@
         }
       ],
       "publishedAt": "2026-02-22T18:15:30.000Z",
-      "ranking": 5.430870095272688,
+      "ranking": 4.927293434034054,
       "articleUrl": "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai"
     },
     {
