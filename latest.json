@@ -1,40 +1,6 @@
 {
   "articles": [
     {
-      "id": "900",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Insta",
-      "mediumTitle": "Instagram Chief on AI",
-      "longTitle": "AI Threatens Authenticity on Instagram",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The core issue is that AI threatens to",
-            "diminish the importance of human",
-            "creators by replicating authenticity.",
-            "He stated that the rise of AI makes",
-            "\u201Cauthenticity\u2026 infinitely reproducible.\u201D",
-            "Traditionally valued creator qualities,",
-            "such as genuine connection and a unique",
-            "voice, are becoming accessible through",
-            "AI.",
-            "Mosseri\u2019s concerns focus on the impact",
-            "of AI on the authenticity of content and",
-            "the value of human creators.",
-            "This replication could devalue genuine",
-            "content and the connections it fosters.",
-            "The article centers on anxieties voiced",
-            "by Instagram head Adam Mosseri about the",
-            "growing amount of AI-generated content."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-23T12:00:00.000Z",
-      "ranking": 7.515,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
-    },
-    {
       "id": "899",
       "topic": "Ethics, Security",
       "source": "The Verge AI",
@@ -71,6 +37,40 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation"
     },
     {
+      "id": "900",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Insta",
+      "mediumTitle": "Instagram Chief on AI",
+      "longTitle": "AI Threatens Authenticity on Instagram",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The core issue is that AI threatens to",
+            "diminish the importance of human",
+            "creators by replicating authenticity.",
+            "He stated that the rise of AI makes",
+            "\u201Cauthenticity\u2026 infinitely reproducible.\u201D",
+            "Traditionally valued creator qualities,",
+            "such as genuine connection and a unique",
+            "voice, are becoming accessible through",
+            "AI.",
+            "Mosseri\u2019s concerns focus on the impact",
+            "of AI on the authenticity of content and",
+            "the value of human creators.",
+            "This replication could devalue genuine",
+            "content and the connections it fosters.",
+            "The article centers on anxieties voiced",
+            "by Instagram head Adam Mosseri about the",
+            "growing amount of AI-generated content."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-23T12:00:00.000Z",
+      "ranking": 6.476355593311348,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
+    },
+    {
       "id": "898",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -103,7 +103,7 @@
         }
       ],
       "publishedAt": "2026-02-23T12:00:00.000Z",
-      "ranking": 7.005000000000001,
+      "ranking": 5.966355587781576,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
     },
     {
@@ -139,7 +139,7 @@
         }
       ],
       "publishedAt": "2026-02-23T04:39:16.000Z",
-      "ranking": 6.198395205357286,
+      "ranking": 5.783834701016705,
       "articleUrl": "https://www.marktechpost.com/2026/02/22/a-coding-guide-to-instrumenting-tracing-and-evaluating-llm-applications-using-trulens-and-openai-models/"
     },
     {
@@ -175,7 +175,7 @@
         }
       ],
       "publishedAt": "2026-02-22T18:15:30.000Z",
-      "ranking": 4.927293434034054,
+      "ranking": 4.3681167672218395,
       "articleUrl": "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai"
     },
     {
@@ -1146,80 +1146,6 @@
       "publishedAt": "2026-02-02T17:53:11.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/872619/elon-musk-merges-spacex-with-xai-and-x"
-    },
-    {
-      "id": "854",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "Firefox AI",
-      "mediumTitle": "Firefox Adds AI Control",
-      "longTitle": "Firefox to Let Users Control AI Features",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Firefox is introducing a new \u201CAI",
-            "control\u201D option in its settings menu",
-            "with an update scheduled for February",
-            "24th.",
-            "This feature will allow users to disable",
-            "or enable the browser\u2019s individual AI",
-            "features.",
-            "The new control provides a direct way",
-            "for users to manage AI integration",
-            "within Firefox.",
-            "This contrasts with other browser",
-            "companies currently integrating AI",
-            "functionalities without offering users a",
-            "straightforward way to opt-out.",
-            "The article does not specify which",
-            "individual AI features are controllable",
-            "via this new setting.",
-            "The setting includes access to",
-            "\u201C[\u0026#8230;]\u201D, suggesting further details",
-            "are available but not fully disclosed."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-02T16:02:39.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/872489/mozilla-firefox-ai-features-off-button"
-    },
-    {
-      "id": "851",
-      "topic": "Large Models",
-      "source": "The Verge AI",
-      "shortTitle": "OpenClaw AI",
-      "mediumTitle": "OpenClaw: Autonomous AI",
-      "longTitle": "OpenClaw: Open-Source AI Agent",
-      "paragraphs": [
-        {
-          "Lines": [
-            "It distinguishes itself by its ability",
-            "to perform real-world tasks",
-            "autonomously.",
-            "The core functionality centers around",
-            "independent operation, allowing the",
-            "agent to \u0027actually do things\u0027 rather",
-            "than simply providing information.",
-            "Users interact with OpenClaw through",
-            "common messaging applications \u2013",
-            "WhatsApp, Telegram, Signal, Discord, and",
-            "iMessage.",
-            "Granting the agent permission allows it",
-            "to execute actions on the user\u2019s behalf.",
-            "It runs locally on the user\u2019s own",
-            "computer.",
-            "OpenClaw is a trending, open-source AI",
-            "agent gaining traction within the tech",
-            "community.",
-            "This local operation offers a degree of",
-            "privacy and control."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-02T11:47:39.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/872091/openclaw-moltbot-clawdbot-ai-agent-news"
     }
   ]
 }
