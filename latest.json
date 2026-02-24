@@ -1,6 +1,40 @@
 {
   "articles": [
     {
+      "id": "900",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Insta",
+      "mediumTitle": "Instagram Chief on AI",
+      "longTitle": "AI Threatens Authenticity on Instagram",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The core issue is that AI threatens to",
+            "diminish the importance of human",
+            "creators by replicating authenticity.",
+            "He stated that the rise of AI makes",
+            "\u201Cauthenticity\u2026 infinitely reproducible.\u201D",
+            "Traditionally valued creator qualities,",
+            "such as genuine connection and a unique",
+            "voice, are becoming accessible through",
+            "AI.",
+            "Mosseri\u2019s concerns focus on the impact",
+            "of AI on the authenticity of content and",
+            "the value of human creators.",
+            "This replication could devalue genuine",
+            "content and the connections it fosters.",
+            "The article centers on anxieties voiced",
+            "by Instagram head Adam Mosseri about the",
+            "growing amount of AI-generated content."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-23T12:00:00.000Z",
+      "ranking": 6.105048254986749,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
+    },
+    {
       "id": "899",
       "topic": "Ethics, Security",
       "source": "The Verge AI",
@@ -33,42 +67,8 @@
         }
       ],
       "publishedAt": "2026-02-23T16:22:55.000Z",
-      "ranking": 7.1,
+      "ranking": 6.090310732927431,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation"
-    },
-    {
-      "id": "900",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Insta",
-      "mediumTitle": "Instagram Chief on AI",
-      "longTitle": "AI Threatens Authenticity on Instagram",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The core issue is that AI threatens to",
-            "diminish the importance of human",
-            "creators by replicating authenticity.",
-            "He stated that the rise of AI makes",
-            "\u201Cauthenticity\u2026 infinitely reproducible.\u201D",
-            "Traditionally valued creator qualities,",
-            "such as genuine connection and a unique",
-            "voice, are becoming accessible through",
-            "AI.",
-            "Mosseri\u2019s concerns focus on the impact",
-            "of AI on the authenticity of content and",
-            "the value of human creators.",
-            "This replication could devalue genuine",
-            "content and the connections it fosters.",
-            "The article centers on anxieties voiced",
-            "by Instagram head Adam Mosseri about the",
-            "growing amount of AI-generated content."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-23T12:00:00.000Z",
-      "ranking": 6.476355593311348,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
     },
     {
       "id": "898",
@@ -103,7 +103,7 @@
         }
       ],
       "publishedAt": "2026-02-23T12:00:00.000Z",
-      "ranking": 5.966355587781576,
+      "ranking": 5.595048049641102,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
     },
     {
@@ -139,7 +139,7 @@
         }
       ],
       "publishedAt": "2026-02-23T04:39:16.000Z",
-      "ranking": 5.783834701016705,
+      "ranking": 5.3095210973760505,
       "articleUrl": "https://www.marktechpost.com/2026/02/22/a-coding-guide-to-instrumenting-tracing-and-evaluating-llm-applications-using-trulens-and-openai-models/"
     },
     {
@@ -175,7 +175,7 @@
         }
       ],
       "publishedAt": "2026-02-22T18:15:30.000Z",
-      "ranking": 4.3681167672218395,
+      "ranking": 3.748019431198034,
       "articleUrl": "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai"
     },
     {
@@ -1038,114 +1038,6 @@
       "publishedAt": "2026-02-03T12:05:42.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/news/873093/claude-code-down-outage-anthropic"
-    },
-    {
-      "id": "856",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Moltbook Bots",
-      "mediumTitle": "Humans Impersonate Bots",
-      "longTitle": "Moltbook: Humans Mimic AI Agents",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Moltbook\u0027s core concept relies on AI",
-            "agents learning from each other through",
-            "social interaction.",
-            "Instead of AI agents interacting with",
-            "each other, Moltbook is now filled with",
-            "humans experimenting with bot-like",
-            "personas.",
-            "The presence of human \u0027pretend bots\u0027",
-            "could introduce bias and inaccuracies",
-            "into the data used for learning.",
-            "Traditional social networks typically",
-            "combat bots masquerading as humans, but",
-            "Moltbook faces the opposite issue.",
-            "It also makes it harder to distinguish",
-            "between genuine AI contributions and",
-            "human imitations.",
-            "Moltbook is a new social platform",
-            "specifically created for AI agents",
-            "developed through the OpenClaw platform."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-03T10:15:38.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/872961/humans-infiltrating-moltbook-openclaw-reddit-ai-bots"
-    },
-    {
-      "id": "855",
-      "topic": "Safety",
-      "source": "Marktechpost AI",
-      "shortTitle": "LLM Safety",
-      "mediumTitle": "Multi-Layered LLM Defense",
-      "longTitle": "Building Robust LLM Safety Filters",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A layered defense is presented as",
-            "crucial for robust protection of large",
-            "language models.",
-            "LLM-driven intent classification employs",
-            "a separate LLM to understand the",
-            "prompt\u0027s underlying purpose.",
-            "The described safety filter is intended",
-            "to defend against adaptive, paraphrased,",
-            "and adversarial prompt attacks.",
-            "The intent classification component",
-            "flags potentially harmful requests based",
-            "on their purpose.",
-            "Rule-based pattern detection focuses on",
-            "identifying keywords and phrases linked",
-            "to malicious intent.",
-            "Anomaly detection flags prompts that",
-            "significantly differ from typical, safe",
-            "input patterns."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-03T02:41:19.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/02/02/how-to-build-multi-layered-llm-safety-filters-to-defend-against-adaptive-paraphrased-and-adversarial-prompt-attacks/"
-    },
-    {
-      "id": "853",
-      "topic": "Large Models, Business",
-      "source": "The Verge AI",
-      "shortTitle": "Musk Merger",
-      "mediumTitle": "SpaceX, xAI \u0026 X Unite",
-      "longTitle": "Musk Consolidates Companies for AI Push",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Elon Musk announced the consolidation of",
-            "SpaceX and xAI, his artificial",
-            "intelligence company.",
-            "The primary goal is to establish a",
-            "highly integrated innovation entity.",
-            "Musk intends to utilize the combined AI",
-            "expertise with SpaceX\u2019s rocketry",
-            "capabilities.",
-            "Musk describes the resulting",
-            "organization as the \u201Cmost ambitious,",
-            "vertically-integrated innovation",
-            "engine.\u201D",
-            "X (formerly Twitter) is also under the",
-            "ownership of xAI, making it part of the",
-            "merger.",
-            "SpaceX\u2019s Starlink, providing space-based",
-            "internet, will play a crucial role in",
-            "the integrated system.",
-            "This new entity will concentrate on",
-            "advancements both on Earth and in space."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-02T17:53:11.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/872619/elon-musk-merges-spacex-with-xai-and-x"
     }
   ]
 }
