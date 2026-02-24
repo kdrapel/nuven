@@ -1,38 +1,41 @@
 {
   "articles": [
     {
-      "id": "900",
-      "topic": "Ethics",
+      "id": "908",
+      "topic": "Business",
       "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Insta",
-      "mediumTitle": "Instagram Chief on AI",
-      "longTitle": "AI Threatens Authenticity on Instagram",
+      "shortTitle": "Claude Update",
+      "mediumTitle": "Anthropic Expands Claude",
+      "longTitle": "Claude Cowork Gains New Integrations",
       "paragraphs": [
         {
           "Lines": [
-            "The core issue is that AI threatens to",
-            "diminish the importance of human",
-            "creators by replicating authenticity.",
-            "He stated that the rise of AI makes",
-            "\u201Cauthenticity\u2026 infinitely reproducible.\u201D",
-            "Traditionally valued creator qualities,",
-            "such as genuine connection and a unique",
-            "voice, are becoming accessible through",
-            "AI.",
-            "Mosseri\u2019s concerns focus on the impact",
-            "of AI on the authenticity of content and",
-            "the value of human creators.",
-            "This replication could devalue genuine",
-            "content and the connections it fosters.",
-            "The article centers on anxieties voiced",
-            "by Instagram head Adam Mosseri about the",
-            "growing amount of AI-generated content."
+            "Specifically, Claude Cowork now",
+            "integrates with Google Workspace,",
+            "DocuSign, and WordPress.",
+            "Anthropic has released updates to its",
+            "Claude Cowork platform, expanding its",
+            "capabilities within enterprise",
+            "environments.",
+            "The updates aim to position Claude",
+            "Cowork as a tool for handling routine",
+            "office work.",
+            "The key update involves increased",
+            "connectivity with commonly used office",
+            "applications.",
+            "Furthermore, Anthropic is introducing",
+            "pre-built plug-ins designed to automate",
+            "tasks across various professional",
+            "fields.",
+            "This suggests a focus on practical",
+            "application within established business",
+            "workflows."
           ]
         }
       ],
-      "publishedAt": "2026-02-23T12:00:00.000Z",
-      "ranking": 6.105048254986749,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
+      "publishedAt": "2026-02-24T12:43:56.000Z",
+      "ranking": 8.004999999999999,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates"
     },
     {
       "id": "899",
@@ -67,8 +70,42 @@
         }
       ],
       "publishedAt": "2026-02-23T16:22:55.000Z",
-      "ranking": 6.090310732927431,
+      "ranking": 5.731701160208315,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation"
+    },
+    {
+      "id": "900",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Insta",
+      "mediumTitle": "Instagram Chief on AI",
+      "longTitle": "AI Threatens Authenticity on Instagram",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The core issue is that AI threatens to",
+            "diminish the importance of human",
+            "creators by replicating authenticity.",
+            "He stated that the rise of AI makes",
+            "\u201Cauthenticity\u2026 infinitely reproducible.\u201D",
+            "Traditionally valued creator qualities,",
+            "such as genuine connection and a unique",
+            "voice, are becoming accessible through",
+            "AI.",
+            "Mosseri\u2019s concerns focus on the impact",
+            "of AI on the authenticity of content and",
+            "the value of human creators.",
+            "This replication could devalue genuine",
+            "content and the connections it fosters.",
+            "The article centers on anxieties voiced",
+            "by Instagram head Adam Mosseri about the",
+            "growing amount of AI-generated content."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-23T12:00:00.000Z",
+      "ranking": 5.686219561925909,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
     },
     {
       "id": "898",
@@ -103,7 +140,7 @@
         }
       ],
       "publishedAt": "2026-02-23T12:00:00.000Z",
-      "ranking": 5.595048049641102,
+      "ranking": 5.176219550697237,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
     },
     {
@@ -139,7 +176,7 @@
         }
       ],
       "publishedAt": "2026-02-23T04:39:16.000Z",
-      "ranking": 5.3095210973760505,
+      "ranking": 4.789746225899249,
       "articleUrl": "https://www.marktechpost.com/2026/02/22/a-coding-guide-to-instrumenting-tracing-and-evaluating-llm-applications-using-trulens-and-openai-models/"
     },
     {
@@ -175,7 +212,7 @@
         }
       ],
       "publishedAt": "2026-02-22T18:15:30.000Z",
-      "ranking": 3.748019431198034,
+      "ranking": 3.08537589816532,
       "articleUrl": "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai"
     },
     {
@@ -1001,43 +1038,6 @@
       "publishedAt": "2026-02-03T13:10:33.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/873142/french-police-raid-x-investigation"
-    },
-    {
-      "id": "858",
-      "topic": "AI Ops",
-      "source": "The Verge AI",
-      "shortTitle": "Claude Outage",
-      "mediumTitle": "Anthropic\u0027s Claude AI Down",
-      "longTitle": "Claude AI Models Experience Service Disruption",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Anthropic acknowledged the elevated",
-            "error rates affecting all Claude models",
-            "accessible through their APIs.",
-            "The 500 errors encountered by developers",
-            "indicated a server-side problem within",
-            "the Claude platform.",
-            "The disruption affected developers who",
-            "depend on the Claude platform for their",
-            "work.",
-            "The outage impacted Anthropic\u0027s Claude",
-            "AI models, including the specialized",
-            "Claude Code.",
-            "The company was able to pinpoint the",
-            "source of the outage relatively quickly.",
-            "A resolution was deployed in a short",
-            "timeframe, though the exact duration of",
-            "the outage wasn\u0027t disclosed.",
-            "The quick response from Anthropic",
-            "suggests robust monitoring and incident",
-            "response procedures."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-03T12:05:42.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/873093/claude-code-down-outage-anthropic"
     }
   ]
 }
