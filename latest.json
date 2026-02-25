@@ -38,6 +38,117 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates"
     },
     {
+      "id": "912",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "PBFT Sim",
+      "mediumTitle": "Python PBFT Simulator",
+      "longTitle": "Asyncio-Based PBFT Implementation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This article details the implementation",
+            "of a Practical Byzantine Fault Tolerance",
+            "(PBFT) simulator.",
+            "The implementation focuses on coding the",
+            "core phases of the PBFT algorithm:",
+            "pre-prepare, prepare, and commit.",
+            "The presence of malicious (Byzantine)",
+            "nodes is simulated to represent",
+            "adversarial conditions.",
+            "The simulator is designed to model a",
+            "realistic distributed network",
+            "environment.",
+            "This detailed coding allows for",
+            "exploration of how PBFT achieves",
+            "consensus despite adversarial nodes.",
+            "The goal is to simulate and analyze",
+            "PBFT\u0027s behavior, considering message",
+            "delays and malicious impacts.",
+            "These malicious nodes intentionally",
+            "disrupt the consensus process."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-25T00:12:32.000Z",
+      "ranking": 7.922727272727272,
+      "articleUrl": "https://www.marktechpost.com/2026/02/24/a-coding-implementation-to-simulate-practical-byzantine-fault-tolerance-with-asyncio-malicious-nodes-and-latency-analysis/"
+    },
+    {
+      "id": "905",
+      "topic": "Music, Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Google Buys AI",
+      "mediumTitle": "Google Acquires ProducerAI",
+      "longTitle": "Google Acquires AI Music Platform ProducerAI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has acquired ProducerAI, an AI",
+            "music production platform, to enhance",
+            "its AI-powered music creation",
+            "capabilities.",
+            "A preview version of Google\u2019s Lyria 3 AI",
+            "model will be used for music generation",
+            "within the integrated system.",
+            "ProducerAI enables users to work",
+            "alongside an AI agent to develop and",
+            "improve musical concepts and sounds.",
+            "The platform will be incorporated into",
+            "Google Labs, Google\u2019s experimental",
+            "division.",
+            "This acquisition is intended to",
+            "strengthen Google\u2019s position in the",
+            "rapidly evolving field of AI-driven",
+            "music tools.",
+            "The move indicates Google\u2019s continued",
+            "investment in artificial intelligence",
+            "and its applications in creative fields."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-24T10:00:00.000Z",
+      "ranking": 7.329999999999998,
+      "articleUrl": "https://www.theverge.com/tech/883307/google-producerai-deal-music"
+    },
+    {
+      "id": "910",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "OpenAI Wins",
+      "mediumTitle": "xAI Lawsuit Dismissed",
+      "longTitle": "OpenAI Defeats xAI\u0027s Trade Secret Claim",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI successfully defended against the",
+            "claims of employee poaching and trade",
+            "secret theft in a US District Court.",
+            "The dismissal \u0027with leave to amend\u0027",
+            "allows xAI to revise and resubmit its",
+            "lawsuit.",
+            "xAI must now provide more specific",
+            "evidence to support its allegations.",
+            "xAI alleged that the recruited employees",
+            "possessed proprietary knowledge that",
+            "could give OpenAI a competitive edge.",
+            "The judge did not rule on the merits of",
+            "xAI\u2019s claims, only on the adequacy of",
+            "the initial filing.",
+            "This outcome does not definitively",
+            "resolve the dispute between OpenAI and",
+            "xAI.",
+            "The lawsuit was filed by xAI, the",
+            "artificial intelligence company founded",
+            "by Elon Musk."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-24T19:05:28.000Z",
+      "ranking": 6.475,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit"
+    },
+    {
       "id": "899",
       "topic": "Ethics, Security",
       "source": "The Verge AI",
@@ -70,7 +181,7 @@
         }
       ],
       "publishedAt": "2026-02-23T16:22:55.000Z",
-      "ranking": 5.316461034455383,
+      "ranking": 4.838010704165333,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation"
     },
     {
@@ -104,7 +215,7 @@
         }
       ],
       "publishedAt": "2026-02-23T12:00:00.000Z",
-      "ranking": 5.210454206127748,
+      "ranking": 4.6704744094078885,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
     },
     {
@@ -140,7 +251,7 @@
         }
       ],
       "publishedAt": "2026-02-23T12:00:00.000Z",
-      "ranking": 4.700454201267808,
+      "ranking": 4.160474404750296,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
     },
     {
@@ -176,7 +287,7 @@
         }
       ],
       "publishedAt": "2026-02-23T04:39:16.000Z",
-      "ranking": 4.212521029445728,
+      "ranking": 3.569397934507177,
       "articleUrl": "https://www.marktechpost.com/2026/02/22/a-coding-guide-to-instrumenting-tracing-and-evaluating-llm-applications-using-trulens-and-openai-models/"
     },
     {
@@ -212,7 +323,7 @@
         }
       ],
       "publishedAt": "2026-02-22T18:15:30.000Z",
-      "ranking": 2.364555319117378,
+      "ranking": 1.5754542765965311,
       "articleUrl": "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai"
     },
     {
@@ -932,77 +1043,6 @@
       "publishedAt": "2026-02-03T21:08:02.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/03/how-to-build-advanced-quantum-algorithms-using-qrisp-with-grover-search-quantum-phase-estimation-and-qaoa/"
-    },
-    {
-      "id": "861",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "AI Content Hub",
-      "mediumTitle": "Microsoft\u0027s AI Licensing",
-      "longTitle": "Microsoft Launches AI Content Marketplace",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft is developing the Publisher",
-            "Content Marketplace (PCM) to facilitate",
-            "the licensing of content for AI model",
-            "training.",
-            "Microsoft\u2019s PCM intends to create a more",
-            "transparent and equitable ecosystem for",
-            "AI training data.",
-            "The PCM specifically addresses the need",
-            "for AI companies to legally acquire and",
-            "utilize online content, known as",
-            "\u0027grounding\u0027 their models.",
-            "The PCM aims to resolve these issues by",
-            "providing a centralized location for",
-            "publishers to define content usage",
-            "terms.",
-            "Usage-based reporting will offer",
-            "publishers insights into how their",
-            "content is being used by AI models."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-03T16:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing"
-    },
-    {
-      "id": "862",
-      "topic": "Dev Tools",
-      "source": "The Verge AI",
-      "shortTitle": "Xcode AI",
-      "mediumTitle": "Apple Adds AI Coding",
-      "longTitle": "Apple Integrates AI Coding Agents into Xcode",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Apple is integrating AI-powered coding",
-            "agents from OpenAI and Anthropic",
-            "directly into its Xcode development",
-            "environment with the release of Xcode",
-            "26.3.",
-            "These new integrations will allow",
-            "developers to leverage Anthropic\u2019s",
-            "Claude Agent and OpenAI\u2019s Codex to",
-            "assist with various coding tasks.",
-            "Specifically, the AI agents will be",
-            "capable of writing and editing code,",
-            "updating project settings, and searching",
-            "documentation.",
-            "Xcode is Apple\u2019s software used by",
-            "developers for creating and testing",
-            "applications.",
-            "The integration aims to streamline the",
-            "development process for Apple\u0027s",
-            "platforms."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-03T15:04:09.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/873300/apple-xcode-openai-anthropic-ai-agentic-coding"
     }
   ]
 }
