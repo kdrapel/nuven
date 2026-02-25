@@ -75,43 +75,6 @@
       "articleUrl": "https://www.marktechpost.com/2026/02/24/a-coding-implementation-to-simulate-practical-byzantine-fault-tolerance-with-asyncio-malicious-nodes-and-latency-analysis/"
     },
     {
-      "id": "905",
-      "topic": "Music, Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Google Buys AI",
-      "mediumTitle": "Google Acquires ProducerAI",
-      "longTitle": "Google Acquires AI Music Platform ProducerAI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has acquired ProducerAI, an AI",
-            "music production platform, to enhance",
-            "its AI-powered music creation",
-            "capabilities.",
-            "A preview version of Google\u2019s Lyria 3 AI",
-            "model will be used for music generation",
-            "within the integrated system.",
-            "ProducerAI enables users to work",
-            "alongside an AI agent to develop and",
-            "improve musical concepts and sounds.",
-            "The platform will be incorporated into",
-            "Google Labs, Google\u2019s experimental",
-            "division.",
-            "This acquisition is intended to",
-            "strengthen Google\u2019s position in the",
-            "rapidly evolving field of AI-driven",
-            "music tools.",
-            "The move indicates Google\u2019s continued",
-            "investment in artificial intelligence",
-            "and its applications in creative fields."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-24T10:00:00.000Z",
-      "ranking": 7.329999999999998,
-      "articleUrl": "https://www.theverge.com/tech/883307/google-producerai-deal-music"
-    },
-    {
       "id": "910",
       "topic": "Policy",
       "source": "The Verge AI",
@@ -149,6 +112,43 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit"
     },
     {
+      "id": "905",
+      "topic": "Music, Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Google Buys AI",
+      "mediumTitle": "Google Acquires ProducerAI",
+      "longTitle": "Google Acquires AI Music Platform ProducerAI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has acquired ProducerAI, an AI",
+            "music production platform, to enhance",
+            "its AI-powered music creation",
+            "capabilities.",
+            "A preview version of Google\u2019s Lyria 3 AI",
+            "model will be used for music generation",
+            "within the integrated system.",
+            "ProducerAI enables users to work",
+            "alongside an AI agent to develop and",
+            "improve musical concepts and sounds.",
+            "The platform will be incorporated into",
+            "Google Labs, Google\u2019s experimental",
+            "division.",
+            "This acquisition is intended to",
+            "strengthen Google\u2019s position in the",
+            "rapidly evolving field of AI-driven",
+            "music tools.",
+            "The move indicates Google\u2019s continued",
+            "investment in artificial intelligence",
+            "and its applications in creative fields."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-24T10:00:00.000Z",
+      "ranking": 6.1151496941483305,
+      "articleUrl": "https://www.theverge.com/tech/883307/google-producerai-deal-music"
+    },
+    {
       "id": "899",
       "topic": "Ethics, Security",
       "source": "The Verge AI",
@@ -181,7 +181,7 @@
         }
       ],
       "publishedAt": "2026-02-23T16:22:55.000Z",
-      "ranking": 4.310622778184698,
+      "ranking": 3.7280459072554235,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation"
     },
     {
@@ -215,7 +215,7 @@
         }
       ],
       "publishedAt": "2026-02-23T12:00:00.000Z",
-      "ranking": 4.082414170405655,
+      "ranking": 3.4391673593795806,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
     },
     {
@@ -251,7 +251,7 @@
         }
       ],
       "publishedAt": "2026-02-23T12:00:00.000Z",
-      "ranking": 3.5724141656022987,
+      "ranking": 2.9291673537108602,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
     },
     {
@@ -287,7 +287,7 @@
         }
       ],
       "publishedAt": "2026-02-23T04:39:16.000Z",
-      "ranking": 2.879631297276193,
+      "ranking": 2.134682051807446,
       "articleUrl": "https://www.marktechpost.com/2026/02/22/a-coding-guide-to-instrumenting-tracing-and-evaluating-llm-applications-using-trulens-and-openai-models/"
     },
     {
@@ -323,7 +323,7 @@
         }
       ],
       "publishedAt": "2026-02-22T18:15:30.000Z",
-      "ranking": 0.741743308732767,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai"
     },
     {
@@ -971,41 +971,6 @@
       "publishedAt": "2026-02-04T05:49:17.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/03/a-coding-implementation-to-train-safety-critical-reinforcement-learning-agents-offline-using-conservative-q-learning-with-d3rlpy-and-fixed-historical-data/"
-    },
-    {
-      "id": "863",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Qwen3-Coder",
-      "mediumTitle": "Qwen3-Coder-Next Released",
-      "longTitle": "New Open-Weight Model for Coding Agents",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The Qwen team has released",
-            "Qwen3-Coder-Next, a new open-weight",
-            "language model specifically engineered",
-            "for coding agents and local development.",
-            "While the model contains a total of 80",
-            "billion parameters, only 3 billion",
-            "parameters are actively used during each",
-            "token generation.",
-            "The release aims to provide a powerful",
-            "tool for coding-related tasks,",
-            "supporting developers and AI",
-            "researchers.",
-            "This selective activation optimizes",
-            "efficiency, reducing computational costs",
-            "during inference.",
-            "It utilizes a sparse Mixture-of-Experts",
-            "(MoE) architecture, a technique known",
-            "for scaling model capacity."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-03T21:47:52.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/"
     }
   ]
 }
