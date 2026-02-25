@@ -1,43 +1,6 @@
 {
   "articles": [
     {
-      "id": "912",
-      "topic": "Dev Tools",
-      "source": "Marktechpost AI",
-      "shortTitle": "PBFT Sim",
-      "mediumTitle": "Python PBFT Simulator",
-      "longTitle": "Asyncio-Based PBFT Implementation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This article details the implementation",
-            "of a Practical Byzantine Fault Tolerance",
-            "(PBFT) simulator.",
-            "The implementation focuses on coding the",
-            "core phases of the PBFT algorithm:",
-            "pre-prepare, prepare, and commit.",
-            "The presence of malicious (Byzantine)",
-            "nodes is simulated to represent",
-            "adversarial conditions.",
-            "The simulator is designed to model a",
-            "realistic distributed network",
-            "environment.",
-            "This detailed coding allows for",
-            "exploration of how PBFT achieves",
-            "consensus despite adversarial nodes.",
-            "The goal is to simulate and analyze",
-            "PBFT\u0027s behavior, considering message",
-            "delays and malicious impacts.",
-            "These malicious nodes intentionally",
-            "disrupt the consensus process."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-25T00:12:32.000Z",
-      "ranking": 7.922727272727272,
-      "articleUrl": "https://www.marktechpost.com/2026/02/24/a-coding-implementation-to-simulate-practical-byzantine-fault-tolerance-with-asyncio-malicious-nodes-and-latency-analysis/"
-    },
-    {
       "id": "918",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -145,6 +108,43 @@
       "articleUrl": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure"
     },
     {
+      "id": "912",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "PBFT Sim",
+      "mediumTitle": "Python PBFT Simulator",
+      "longTitle": "Asyncio-Based PBFT Implementation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This article details the implementation",
+            "of a Practical Byzantine Fault Tolerance",
+            "(PBFT) simulator.",
+            "The implementation focuses on coding the",
+            "core phases of the PBFT algorithm:",
+            "pre-prepare, prepare, and commit.",
+            "The presence of malicious (Byzantine)",
+            "nodes is simulated to represent",
+            "adversarial conditions.",
+            "The simulator is designed to model a",
+            "realistic distributed network",
+            "environment.",
+            "This detailed coding allows for",
+            "exploration of how PBFT achieves",
+            "consensus despite adversarial nodes.",
+            "The goal is to simulate and analyze",
+            "PBFT\u0027s behavior, considering message",
+            "delays and malicious impacts.",
+            "These malicious nodes intentionally",
+            "disrupt the consensus process."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-25T00:12:32.000Z",
+      "ranking": 6.8985895299980475,
+      "articleUrl": "https://www.marktechpost.com/2026/02/24/a-coding-implementation-to-simulate-practical-byzantine-fault-tolerance-with-asyncio-malicious-nodes-and-latency-analysis/"
+    },
+    {
       "id": "908",
       "topic": "Business",
       "source": "The Verge AI",
@@ -178,7 +178,7 @@
         }
       ],
       "publishedAt": "2026-02-24T12:43:56.000Z",
-      "ranking": 6.2530403613978445,
+      "ranking": 5.784329727308057,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates"
     },
     {
@@ -215,7 +215,7 @@
         }
       ],
       "publishedAt": "2026-02-24T19:05:28.000Z",
-      "ranking": 5.354233880756662,
+      "ranking": 4.973792695256486,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit"
     },
     {
@@ -252,7 +252,7 @@
         }
       ],
       "publishedAt": "2026-02-24T10:00:00.000Z",
-      "ranking": 5.2637124354632885,
+      "ranking": 4.757075086694153,
       "articleUrl": "https://www.theverge.com/tech/883307/google-producerai-deal-music"
     },
     {
@@ -288,7 +288,7 @@
         }
       ],
       "publishedAt": "2026-02-23T16:22:55.000Z",
-      "ranking": 2.384395055505241,
+      "ranking": 1.6331967250438941,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation"
     },
     {
@@ -322,7 +322,7 @@
         }
       ],
       "publishedAt": "2026-02-23T12:00:00.000Z",
-      "ranking": 1.9730936510564092,
+      "ranking": 1.1610683703860731,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
     },
     {
@@ -358,7 +358,7 @@
         }
       ],
       "publishedAt": "2026-02-23T12:00:00.000Z",
-      "ranking": 1.4630936432801684,
+      "ranking": 0.6510683635183314,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
     },
     {
@@ -394,7 +394,7 @@
         }
       ],
       "publishedAt": "2026-02-23T04:39:16.000Z",
-      "ranking": 0.4633880617376729,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/22/a-coding-guide-to-instrumenting-tracing-and-evaluating-llm-applications-using-trulens-and-openai-models/"
     },
     {
@@ -933,79 +933,6 @@
       "publishedAt": "2026-02-04T21:16:04.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/04/google-introduces-agentic-vision-in-gemini-3-flash-for-active-image-understanding/"
-    },
-    {
-      "id": "869",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Alphabet Rev",
-      "mediumTitle": "Alphabet Hits $400B",
-      "longTitle": "Alphabet Reports Record Annual Revenue",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The report revealed that Alphabet",
-            "exceeded $400 billion in annual revenue",
-            "for the first time in its history.",
-            "Specifically, the cloud business and",
-            "YouTube were identified as major",
-            "contributors to this growth.",
-            "The 15% revenue increase demonstrates",
-            "continued strong performance across key",
-            "business segments.",
-            "Alphabet, the parent company of Google,",
-            "released its Q4 2025 earnings report on",
-            "Wednesday.",
-            "This marks a significant financial",
-            "milestone for the technology giant.",
-            "The earnings report provides a snapshot",
-            "of Alphabet\u2019s financial health at the",
-            "end of 2025.",
-            "However, the excerpt does not include",
-            "detailed breakdowns of revenue by",
-            "specific product or service."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-04T18:41:03.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/874161/google-400-billion-revenue-q4-2025-earnings"
-    },
-    {
-      "id": "870",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Altman vs Anthropic",
-      "mediumTitle": "OpenAI CEO Criticizes Ad",
-      "longTitle": "Sam Altman Calls Anthropic\u0027s Super Bowl Ad \u0027Dishonest\u0027",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Sam Altman, CEO of OpenAI, publicly",
-            "criticized Anthropic\u2019s Super Bowl",
-            "advertisement campaign via a post on X",
-            "(formerly Twitter) on Wednesday.",
-            "He labeled the ads as \u201Cclearly",
-            "dishonest\u201D and characterized the",
-            "approach as \u201Con brand\u201D for Anthropic.",
-            "Specifically, Altman stated that OpenAI",
-            "would \u201Cobviously never run ads in the",
-            "way Anthropic depicts them.\u201D",
-            "The post directly responds to",
-            "Anthropic\u2019s Super Bowl ad, implying the",
-            "ad portrays OpenAI in a negative or",
-            "misleading light.",
-            "He asserted that OpenAI is aware of its",
-            "user base and wouldn\u2019t engage in such",
-            "advertising tactics.",
-            "Altman accused them of using",
-            "\u201Cdoublespeak.\u201D"
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-04T17:03:05.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/874084/ai-chatgpt-claude-super-bowl-ads-openai-anthropic"
     }
   ]
 }
