@@ -181,7 +181,7 @@
         }
       ],
       "publishedAt": "2026-02-23T16:22:55.000Z",
-      "ranking": 4.838010704165333,
+      "ranking": 4.310622778184698,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation"
     },
     {
@@ -215,7 +215,7 @@
         }
       ],
       "publishedAt": "2026-02-23T12:00:00.000Z",
-      "ranking": 4.6704744094078885,
+      "ranking": 4.082414170405655,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
     },
     {
@@ -251,7 +251,7 @@
         }
       ],
       "publishedAt": "2026-02-23T12:00:00.000Z",
-      "ranking": 4.160474404750296,
+      "ranking": 3.5724141656022987,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
     },
     {
@@ -287,7 +287,7 @@
         }
       ],
       "publishedAt": "2026-02-23T04:39:16.000Z",
-      "ranking": 3.569397934507177,
+      "ranking": 2.879631297276193,
       "articleUrl": "https://www.marktechpost.com/2026/02/22/a-coding-guide-to-instrumenting-tracing-and-evaluating-llm-applications-using-trulens-and-openai-models/"
     },
     {
@@ -323,7 +323,7 @@
         }
       ],
       "publishedAt": "2026-02-22T18:15:30.000Z",
-      "ranking": 1.5754542765965311,
+      "ranking": 0.741743308732767,
       "articleUrl": "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai"
     },
     {
@@ -1006,43 +1006,6 @@
       "publishedAt": "2026-02-03T21:47:52.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/"
-    },
-    {
-      "id": "864",
-      "topic": "Science",
-      "source": "Marktechpost AI",
-      "shortTitle": "Qrisp Algo",
-      "mediumTitle": "Qrisp Quantum Algorithms",
-      "longTitle": "Tutorial: Advanced Quantum Algorithms with Qrisp",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This tutorial demonstrates building and",
-            "executing advanced quantum algorithms",
-            "using the Qrisp framework.",
-            "Grover\u2019s search is implemented with",
-            "automatic uncomputation, simplifying the",
-            "process and optimizing resource usage.",
-            "A complete QAOA workflow is presented,",
-            "specifically targeting the MaxCut",
-            "problem.",
-            "The tutorial covers core Qrisp",
-            "abstractions for quantum data and the",
-            "construction of entangled states.",
-            "Quantum Phase Estimation is covered,",
-            "providing a method for determining the",
-            "eigenvalues of a unitary operator.",
-            "The tutorial guides users through the",
-            "practical steps of implementing these",
-            "algorithms within the Qrisp environment.",
-            "The MaxCut problem is a well-known",
-            "combinatorial optimization problem."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-03T21:08:02.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/02/03/how-to-build-advanced-quantum-algorithms-using-qrisp-with-grover-search-quantum-phase-estimation-and-qaoa/"
     }
   ]
 }
