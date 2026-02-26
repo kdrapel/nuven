@@ -68,43 +68,8 @@
         }
       ],
       "publishedAt": "2026-02-25T10:00:00.000Z",
-      "ranking": 7.639999999999999,
+      "ranking": 6.420137004429884,
       "articleUrl": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut"
-    },
-    {
-      "id": "917",
-      "topic": "NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Alexa Styles",
-      "mediumTitle": "Alexa Gets a Personality",
-      "longTitle": "Amazon Adds Personality Options to Alexa",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Amazon is introducing new personality",
-            "style options for Alexa, allowing Alexa",
-            "Plus users in the US to customize the AI",
-            "assistant\u2019s conversational behavior.",
-            "Three presets are now available:",
-            "\u201CConcise,\u201D \u201CCheerful,\u201D and \u201CRelaxed.\u201D",
-            "These options give users greater control",
-            "over how Alexa responds and interacts",
-            "with them.",
-            "The \u201CConcise\u201D option makes Alexa\u2019s",
-            "responses shorter and more direct.",
-            "\u201CCheerful\u201D aims to make Alexa\u2019s",
-            "responses more upbeat and positive.",
-            "The \u201CRelaxed\u201D style provides a more",
-            "laid-back and conversational",
-            "interaction.",
-            "This feature is currently limited to",
-            "US-based Alexa Plus subscribers."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-25T10:00:00.000Z",
-      "ranking": 7.140000000000001,
-      "articleUrl": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability"
     },
     {
       "id": "915",
@@ -140,8 +105,43 @@
         }
       ],
       "publishedAt": "2026-02-25T11:24:39.000Z",
-      "ranking": 7.105,
+      "ranking": 6.011533759250564,
       "articleUrl": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure"
+    },
+    {
+      "id": "917",
+      "topic": "NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Alexa Styles",
+      "mediumTitle": "Alexa Gets a Personality",
+      "longTitle": "Amazon Adds Personality Options to Alexa",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon is introducing new personality",
+            "style options for Alexa, allowing Alexa",
+            "Plus users in the US to customize the AI",
+            "assistant\u2019s conversational behavior.",
+            "Three presets are now available:",
+            "\u201CConcise,\u201D \u201CCheerful,\u201D and \u201CRelaxed.\u201D",
+            "These options give users greater control",
+            "over how Alexa responds and interacts",
+            "with them.",
+            "The \u201CConcise\u201D option makes Alexa\u2019s",
+            "responses shorter and more direct.",
+            "\u201CCheerful\u201D aims to make Alexa\u2019s",
+            "responses more upbeat and positive.",
+            "The \u201CRelaxed\u201D style provides a more",
+            "laid-back and conversational",
+            "interaction.",
+            "This feature is currently limited to",
+            "US-based Alexa Plus subscribers."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-25T10:00:00.000Z",
+      "ranking": 5.920136994706935,
+      "articleUrl": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability"
     },
     {
       "id": "912",
@@ -177,7 +177,7 @@
         }
       ],
       "publishedAt": "2026-02-25T00:12:32.000Z",
-      "ranking": 6.116566744842056,
+      "ranking": 5.635261443753928,
       "articleUrl": "https://www.marktechpost.com/2026/02/24/a-coding-implementation-to-simulate-practical-byzantine-fault-tolerance-with-asyncio-malicious-nodes-and-latency-analysis/"
     },
     {
@@ -214,7 +214,7 @@
         }
       ],
       "publishedAt": "2026-02-24T12:43:56.000Z",
-      "ranking": 4.684845308169566,
+      "ranking": 4.042386249773152,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates"
     },
     {
@@ -251,7 +251,7 @@
         }
       ],
       "publishedAt": "2026-02-24T19:05:28.000Z",
-      "ranking": 4.050204580018819,
+      "ranking": 3.497036145766733,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit"
     },
     {
@@ -288,7 +288,7 @@
         }
       ],
       "publishedAt": "2026-02-24T10:00:00.000Z",
-      "ranking": 3.582013344899272,
+      "ranking": 2.9011887864650117,
       "articleUrl": "https://www.theverge.com/tech/883307/google-producerai-deal-music"
     },
     {
@@ -825,42 +825,6 @@
       "publishedAt": "2026-02-19T11:08:39.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/podcast/881222/fcc-colbert-talarico-brendan-carr-vergecast"
-    },
-    {
-      "id": "892",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "ZUNA Model",
-      "mediumTitle": "Zyphra Releases ZUNA EEG Model",
-      "longTitle": "ZUNA: New Open-Source Model for EEG Data Analysis",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The model weights are available under an",
-            "Apache-2.0 license, allowing for free",
-            "use and modification.",
-            "Open access to ZUNA promotes",
-            "collaboration and accelerates research",
-            "in the BCI field.",
-            "The release of ZUNA represents a",
-            "significant advancement in the analysis",
-            "of brain activity data.",
-            "Super-resolution enhances the clarity of",
-            "EEG signals, regardless of the electrode",
-            "setup.",
-            "Channel infilling addresses the issue of",
-            "missing data from individual EEG",
-            "electrodes.",
-            "ZUNA is a 380-million parameter",
-            "foundation model, indicating its",
-            "substantial size and potential",
-            "complexity."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-19T07:43:21.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/02/18/zyphra-releases-zuna-a-380m-parameter-bci-foundation-model-for-eeg-data-advancing-noninvasive-thought-to-text-development/"
     }
   ]
 }
