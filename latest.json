@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "922",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "RAG Sim",
+      "mediumTitle": "Elastic Vector DB Sim",
+      "longTitle": "Simulator for Elastic Vector Databases",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The simulator is designed to replicate",
+            "the sharding of embeddings in modern",
+            "Retrieval-Augmented Generation (RAG)",
+            "systems.",
+            "This tutorial details the construction",
+            "of a simulator for an elastic vector",
+            "database.",
+            "The article focuses on building a system",
+            "that mimics how RAG systems handle",
+            "embedding sharding.",
+            "The core of the implementation revolves",
+            "around consistent hashing.",
+            "A key feature is a real-time",
+            "visualization of the hashing ring.",
+            "Virtual nodes are utilized to achieve",
+            "balanced data distribution across",
+            "distributed storage nodes.",
+            "The use of virtual nodes minimizes data",
+            "movement during scaling operations."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-26T03:58:14.000Z",
+      "ranking": 7.904545454545455,
+      "articleUrl": "https://www.marktechpost.com/2026/02/25/how-to-build-an-elastic-vector-database-with-consistent-hashing-sharding-and-live-ring-visualization-for-rag-systems/"
+    },
+    {
       "id": "918",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -141,7 +177,7 @@
         }
       ],
       "publishedAt": "2026-02-25T00:12:32.000Z",
-      "ranking": 6.8985895299980475,
+      "ranking": 6.53274824724677,
       "articleUrl": "https://www.marktechpost.com/2026/02/24/a-coding-implementation-to-simulate-practical-byzantine-fault-tolerance-with-asyncio-malicious-nodes-and-latency-analysis/"
     },
     {
@@ -178,7 +214,7 @@
         }
       ],
       "publishedAt": "2026-02-24T12:43:56.000Z",
-      "ranking": 5.784329727308057,
+      "ranking": 5.258793679627434,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates"
     },
     {
@@ -215,7 +251,7 @@
         }
       ],
       "publishedAt": "2026-02-24T19:05:28.000Z",
-      "ranking": 4.973792695256486,
+      "ranking": 4.536738891005261,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit"
     },
     {
@@ -252,7 +288,7 @@
         }
       ],
       "publishedAt": "2026-02-24T10:00:00.000Z",
-      "ranking": 4.757075086694153,
+      "ranking": 4.193520884864952,
       "articleUrl": "https://www.theverge.com/tech/883307/google-producerai-deal-music"
     },
     {
@@ -288,7 +324,7 @@
         }
       ],
       "publishedAt": "2026-02-23T16:22:55.000Z",
-      "ranking": 1.6331967250438941,
+      "ranking": 0.8244919745059338,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation"
     },
     {
@@ -322,7 +358,7 @@
         }
       ],
       "publishedAt": "2026-02-23T12:00:00.000Z",
-      "ranking": 1.1610683703860731,
+      "ranking": 0.2913900308500983,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
     },
     {
@@ -358,7 +394,7 @@
         }
       ],
       "publishedAt": "2026-02-23T12:00:00.000Z",
-      "ranking": 0.6510683635183314,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
     },
     {
@@ -860,79 +896,6 @@
       "publishedAt": "2026-02-19T01:38:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/18/tutorial-building-a-visual-document-retrieval-pipeline-with-colpali-and-late-interaction-scoring/"
-    },
-    {
-      "id": "873",
-      "topic": "Generative AI",
-      "source": "Marktechpost AI",
-      "shortTitle": "VIBETENSOR",
-      "mediumTitle": "NVIDIA\u0027s AI-Created DL Stack",
-      "longTitle": "NVIDIA Releases AI-Generated Deep Learning System",
-      "paragraphs": [
-        {
-          "Lines": [
-            "VIBETENSOR\u2019s development relied heavily",
-            "on Large Language Models (LLMs) acting",
-            "as coding agents.",
-            "The project aims to determine if AI",
-            "agents can autonomously construct a",
-            "fully functional deep learning runtime",
-            "environment.",
-            "The successful creation of VIBETENSOR",
-            "demonstrates the growing capabilities of",
-            "AI in software engineering.",
-            "CUDA memory management is integrated for",
-            "optimized performance on NVIDIA GPUs.",
-            "Human involvement was limited to",
-            "providing high-level direction and",
-            "oversight during the AI\u2019s coding",
-            "process.",
-            "NVIDIA recently announced the release of",
-            "VIBETENSOR, marking a significant step",
-            "in AI-assisted software development."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-05T05:10:06.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/02/04/nvidia-ai-release-vibetensor-an-ai-generated-deep-learning-runtime-built-end-to-end-by-coding-agents-programmatically/"
-    },
-    {
-      "id": "872",
-      "topic": "Vision, Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Gemini Vision",
-      "mediumTitle": "Google\u0027s Agentic Vision",
-      "longTitle": "Gemini 3 Flash: Agentic Vision Explained",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has introduced \u0027Agentic Vision\u0027",
-            "within its Gemini 3 Flash model, marking",
-            "a significant advancement in AI image",
-            "understanding.",
-            "Agentic Vision addresses this limitation",
-            "by employing an active and iterative",
-            "process for visual understanding.",
-            "The goal of this new approach is to",
-            "improve the accuracy of image analysis",
-            "performed by the Gemini 3 Flash model.",
-            "By actively investigating images, the",
-            "model can reduce the risk of missing",
-            "important information.",
-            "The core problem with previous",
-            "multimodal models was their reliance on",
-            "a single analysis pass, which could lead",
-            "to overlooked details.",
-            "Agentic Vision represents a shift",
-            "towards more robust and reliable",
-            "AI-powered image analysis."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-04T21:16:04.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/02/04/google-introduces-agentic-vision-in-gemini-3-flash-for-active-image-understanding/"
     }
   ]
 }
