@@ -177,7 +177,7 @@
         }
       ],
       "publishedAt": "2026-02-25T00:12:32.000Z",
-      "ranking": 6.53274824724677,
+      "ranking": 6.116566744842056,
       "articleUrl": "https://www.marktechpost.com/2026/02/24/a-coding-implementation-to-simulate-practical-byzantine-fault-tolerance-with-asyncio-malicious-nodes-and-latency-analysis/"
     },
     {
@@ -214,7 +214,7 @@
         }
       ],
       "publishedAt": "2026-02-24T12:43:56.000Z",
-      "ranking": 5.258793679627434,
+      "ranking": 4.684845308169566,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates"
     },
     {
@@ -251,7 +251,7 @@
         }
       ],
       "publishedAt": "2026-02-24T19:05:28.000Z",
-      "ranking": 4.536738891005261,
+      "ranking": 4.050204580018819,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit"
     },
     {
@@ -288,7 +288,7 @@
         }
       ],
       "publishedAt": "2026-02-24T10:00:00.000Z",
-      "ranking": 4.193520884864952,
+      "ranking": 3.582013344899272,
       "articleUrl": "https://www.theverge.com/tech/883307/google-producerai-deal-music"
     },
     {
@@ -324,42 +324,8 @@
         }
       ],
       "publishedAt": "2026-02-23T16:22:55.000Z",
-      "ranking": 0.8244919745059338,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation"
-    },
-    {
-      "id": "900",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Insta",
-      "mediumTitle": "Instagram Chief on AI",
-      "longTitle": "AI Threatens Authenticity on Instagram",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The core issue is that AI threatens to",
-            "diminish the importance of human",
-            "creators by replicating authenticity.",
-            "He stated that the rise of AI makes",
-            "\u201Cauthenticity\u2026 infinitely reproducible.\u201D",
-            "Traditionally valued creator qualities,",
-            "such as genuine connection and a unique",
-            "voice, are becoming accessible through",
-            "AI.",
-            "Mosseri\u2019s concerns focus on the impact",
-            "of AI on the authenticity of content and",
-            "the value of human creators.",
-            "This replication could devalue genuine",
-            "content and the connections it fosters.",
-            "The article centers on anxieties voiced",
-            "by Instagram head Adam Mosseri about the",
-            "growing amount of AI-generated content."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-23T12:00:00.000Z",
-      "ranking": 0.2913900308500983,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
     },
     {
       "id": "898",
@@ -390,6 +356,40 @@
             "This creates a tension between expressed",
             "concerns about authenticity and the",
             "platforms\u0027 actions."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-23T12:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
+    },
+    {
+      "id": "900",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Insta",
+      "mediumTitle": "Instagram Chief on AI",
+      "longTitle": "AI Threatens Authenticity on Instagram",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The core issue is that AI threatens to",
+            "diminish the importance of human",
+            "creators by replicating authenticity.",
+            "He stated that the rise of AI makes",
+            "\u201Cauthenticity\u2026 infinitely reproducible.\u201D",
+            "Traditionally valued creator qualities,",
+            "such as genuine connection and a unique",
+            "voice, are becoming accessible through",
+            "AI.",
+            "Mosseri\u2019s concerns focus on the impact",
+            "of AI on the authenticity of content and",
+            "the value of human creators.",
+            "This replication could devalue genuine",
+            "content and the connections it fosters.",
+            "The article centers on anxieties voiced",
+            "by Instagram head Adam Mosseri about the",
+            "growing amount of AI-generated content."
           ]
         }
       ],
@@ -861,41 +861,6 @@
       "publishedAt": "2026-02-19T07:43:21.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/18/zyphra-releases-zuna-a-380m-parameter-bci-foundation-model-for-eeg-data-advancing-noninvasive-thought-to-text-development/"
-    },
-    {
-      "id": "893",
-      "topic": "Vision, NLP, Dev Tools",
-      "source": "Marktechpost AI",
-      "shortTitle": "Doc Retrieval",
-      "mediumTitle": "ColPali Pipeline Guide",
-      "longTitle": "Building a Visual Document Retrieval System",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Late interaction scoring is a technique",
-            "used to compare the query with the",
-            "document embeddings to find the best",
-            "matches.",
-            "The use of ColPali allows for the",
-            "creation of rich, multi-vector",
-            "embeddings that capture the visual",
-            "content of the documents.",
-            "Understanding the interaction between",
-            "ColPali and late interaction scoring is",
-            "crucial for optimizing retrieval",
-            "performance.",
-            "The pipeline\u0027s effectiveness relies on",
-            "the quality of the embeddings generated",
-            "by ColPali.",
-            "This article serves as a tutorial,",
-            "guiding users through the entire process",
-            "of building the retrieval pipeline."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-19T01:38:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/02/18/tutorial-building-a-visual-document-retrieval-pipeline-with-colpali-and-late-interaction-scoring/"
     }
   ]
 }
