@@ -176,7 +176,7 @@
         }
       ],
       "publishedAt": "2026-02-25T10:00:00.000Z",
-      "ranking": 5.564169062512609,
+      "ranking": 5.069446033234161,
       "articleUrl": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut"
     },
     {
@@ -213,7 +213,7 @@
         }
       ],
       "publishedAt": "2026-02-25T11:24:39.000Z",
-      "ranking": 5.19510446286536,
+      "ranking": 4.719488855291496,
       "articleUrl": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure"
     },
     {
@@ -248,7 +248,7 @@
         }
       ],
       "publishedAt": "2026-02-25T10:00:00.000Z",
-      "ranking": 5.06416905361116,
+      "ranking": 4.569446024282435,
       "articleUrl": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability"
     },
     {
@@ -285,7 +285,7 @@
         }
       ],
       "publishedAt": "2026-02-25T00:12:32.000Z",
-      "ranking": 4.504896929291765,
+      "ranking": 3.8775697799691384,
       "articleUrl": "https://www.marktechpost.com/2026/02/24/a-coding-implementation-to-simulate-practical-byzantine-fault-tolerance-with-asyncio-malicious-nodes-and-latency-analysis/"
     },
     {
@@ -322,7 +322,7 @@
         }
       ],
       "publishedAt": "2026-02-24T12:43:56.000Z",
-      "ranking": 2.590387705304793,
+      "ranking": 1.8076280682412174,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates"
     },
     {
@@ -359,7 +359,7 @@
         }
       ],
       "publishedAt": "2026-02-24T19:05:28.000Z",
-      "ranking": 2.2232457039300124,
+      "ranking": 1.5266067240161636,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit"
     },
     {
@@ -396,7 +396,7 @@
         }
       ],
       "publishedAt": "2026-02-24T10:00:00.000Z",
-      "ranking": 1.3726196124627732,
+      "ranking": 0.552856549019376,
       "articleUrl": "https://www.theverge.com/tech/883307/google-producerai-deal-music"
     },
     {
@@ -825,79 +825,6 @@
       "publishedAt": "2026-02-20T07:51:30.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/19/nvidia-releases-dynamo-v0-9-0-a-massive-infrastructure-overhaul-featuring-flashindexer-multi-modal-support-and-removed-nats-and-etcd/"
-    },
-    {
-      "id": "890",
-      "topic": "Ethics",
-      "source": "Marktechpost AI",
-      "shortTitle": "Transparent AI",
-      "mediumTitle": "Building Accountable AI Agents",
-      "longTitle": "Transparent AI Agents for Auditability",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This tutorial details the construction",
-            "of transparent AI agents designed for",
-            "traceable decision-making.",
-            "These agents are built for auditability",
-            "and to allow for human oversight of",
-            "their actions.",
-            "A tamper-evident audit ledger",
-            "meticulously records every step the",
-            "agent takes.",
-            "The system utilizes a hash-chained",
-            "database to guarantee the integrity and",
-            "immutability of the audit trail.",
-            "The focus is on moving away from opaque",
-            "\u0027black box\u0027 AI decisions towards fully",
-            "visible and accountable systems.",
-            "Human intervention and approval are",
-            "possible at critical points in the",
-            "agent\u2019s workflow.",
-            "The system is designed to log thoughts,",
-            "actions, and observations meticulously."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-20T07:28:08.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/02/19/how-to-build-transparent-ai-agents-traceable-decision-making-with-audit-trails-and-human-gates/"
-    },
-    {
-      "id": "891",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Gemini 3.1 Pro",
-      "mediumTitle": "Google Updates Gemini 3",
-      "longTitle": "Gemini 3.1 Pro Enhances AI Agent Capabilities",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Gemini 3.1 Pro achieved a score of 77.1%",
-            "on the ARC-AGI-2 reasoning benchmark.",
-            "This release is designed to enhance the",
-            "capabilities of AI agents, which are",
-            "intended to operate autonomously.",
-            "A 1 million token context window allows",
-            "the model to consider a vast amount of",
-            "information during processing.",
-            "Google AI released Gemini 3.1 Pro, the",
-            "initial update to the Gemini 3 family of",
-            "models.",
-            "The release is primarily aimed at",
-            "developers who are building AI agents.",
-            "Improvements center around reasoning",
-            "stability, ensuring more consistent and",
-            "reliable AI responses.",
-            "This benchmark score indicates a",
-            "significant improvement in the model\u0027s",
-            "reasoning abilities."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-19T22:06:08.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/02/19/google-ai-releases-gemini-3-1-pro-with-1-million-token-context-and-77-1-percent-arc-agi-2-reasoning-for-ai-agents/"
     }
   ]
 }
