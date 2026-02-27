@@ -36,6 +36,41 @@
       "articleUrl": "https://www.marktechpost.com/2026/02/26/microsoft-research-introduces-corpgen-to-manage-multi-horizon-tasks-for-autonomous-ai-agents-using-hierarchical-planning-and-memory/"
     },
     {
+      "id": "936",
+      "topic": "NLP",
+      "source": "Marktechpost AI",
+      "shortTitle": "Perplexity Embed",
+      "mediumTitle": "New Perplexity Embeddings",
+      "longTitle": "Perplexity Releases Multilingual Embeddings",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Perplexity announced the release of",
+            "\u0060pplx-embed\u0060, a new suite of",
+            "multilingual embedding models.",
+            "Unlike many Large Language Models",
+            "(LLMs), \u0060pplx-embed\u0060 does not use a",
+            "causal, decoder-only architecture.",
+            "The models are designed for large-scale",
+            "retrieval tasks, aiming to provide a",
+            "robust and scalable solution.",
+            "These models achieve state-of-the-art",
+            "(SOTA) performance in embedding tasks.",
+            "A primary goal of these models is to",
+            "address the difficulties of working with",
+            "noisy and complex data found on the web.",
+            "The models leverage bidirectional",
+            "attention, which allows them to consider",
+            "context from both directions of a",
+            "sequence."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-27T05:01:41.000Z",
+      "ranking": 7.875,
+      "articleUrl": "https://www.marktechpost.com/2026/02/26/perplexity-just-released-pplx-embed-new-sota-qwen3-bidirectional-embedding-models-for-web-scale-retrieval-tasks/"
+    },
+    {
       "id": "927",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -68,42 +103,6 @@
       "publishedAt": "2026-02-26T09:00:00.000Z",
       "ranking": 7.24,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty"
-    },
-    {
-      "id": "922",
-      "topic": "Dev Tools",
-      "source": "Marktechpost AI",
-      "shortTitle": "RAG Sim",
-      "mediumTitle": "Elastic Vector DB Sim",
-      "longTitle": "Simulator for Elastic Vector Databases",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The simulator is designed to replicate",
-            "the sharding of embeddings in modern",
-            "Retrieval-Augmented Generation (RAG)",
-            "systems.",
-            "This tutorial details the construction",
-            "of a simulator for an elastic vector",
-            "database.",
-            "The article focuses on building a system",
-            "that mimics how RAG systems handle",
-            "embedding sharding.",
-            "The core of the implementation revolves",
-            "around consistent hashing.",
-            "A key feature is a real-time",
-            "visualization of the hashing ring.",
-            "Virtual nodes are utilized to achieve",
-            "balanced data distribution across",
-            "distributed storage nodes.",
-            "The use of virtual nodes minimizes data",
-            "movement during scaling operations."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-26T03:58:14.000Z",
-      "ranking": 6.856566607365128,
-      "articleUrl": "https://www.marktechpost.com/2026/02/25/how-to-build-an-elastic-vector-database-with-consistent-hashing-sharding-and-live-ring-visualization-for-rag-systems/"
     },
     {
       "id": "930",
@@ -141,6 +140,42 @@
       "publishedAt": "2026-02-26T19:04:53.000Z",
       "ranking": 6.57,
       "articleUrl": "https://www.marktechpost.com/2026/02/26/google-ai-just-released-nano-banana-2-the-new-ai-model-featuring-advanced-subject-consistency-and-sub-second-4k-image-synthesis-performance/"
+    },
+    {
+      "id": "922",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "RAG Sim",
+      "mediumTitle": "Elastic Vector DB Sim",
+      "longTitle": "Simulator for Elastic Vector Databases",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The simulator is designed to replicate",
+            "the sharding of embeddings in modern",
+            "Retrieval-Augmented Generation (RAG)",
+            "systems.",
+            "This tutorial details the construction",
+            "of a simulator for an elastic vector",
+            "database.",
+            "The article focuses on building a system",
+            "that mimics how RAG systems handle",
+            "embedding sharding.",
+            "The core of the implementation revolves",
+            "around consistent hashing.",
+            "A key feature is a real-time",
+            "visualization of the hashing ring.",
+            "Virtual nodes are utilized to achieve",
+            "balanced data distribution across",
+            "distributed storage nodes.",
+            "The use of virtual nodes minimizes data",
+            "movement during scaling operations."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-26T03:58:14.000Z",
+      "ranking": 6.485628445772067,
+      "articleUrl": "https://www.marktechpost.com/2026/02/25/how-to-build-an-elastic-vector-database-with-consistent-hashing-sharding-and-live-ring-visualization-for-rag-systems/"
     },
     {
       "id": "926",
@@ -211,7 +246,7 @@
         }
       ],
       "publishedAt": "2026-02-25T10:00:00.000Z",
-      "ranking": 4.498309214562626,
+      "ranking": 3.8765700174120337,
       "articleUrl": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut"
     },
     {
@@ -248,7 +283,7 @@
         }
       ],
       "publishedAt": "2026-02-25T11:24:39.000Z",
-      "ranking": 4.1682432355770835,
+      "ranking": 3.5661939378637406,
       "articleUrl": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure"
     },
     {
@@ -283,7 +318,7 @@
         }
       ],
       "publishedAt": "2026-02-25T10:00:00.000Z",
-      "ranking": 3.998309203332809,
+      "ranking": 3.37657000522444,
       "articleUrl": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability"
     },
     {
@@ -320,7 +355,7 @@
         }
       ],
       "publishedAt": "2026-02-25T00:12:32.000Z",
-      "ranking": 3.1683890526334544,
+      "ranking": 2.4100029468126465,
       "articleUrl": "https://www.marktechpost.com/2026/02/24/a-coding-implementation-to-simulate-practical-byzantine-fault-tolerance-with-asyncio-malicious-nodes-and-latency-analysis/"
     },
     {
@@ -357,7 +392,7 @@
         }
       ],
       "publishedAt": "2026-02-24T12:43:56.000Z",
-      "ranking": 0.9366389527318679,
+      "ranking": 0.018081955476594302,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates"
     },
     {
@@ -394,7 +429,7 @@
         }
       ],
       "publishedAt": "2026-02-24T19:05:28.000Z",
-      "ranking": 0.7452709526732821,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit"
     },
     {
@@ -718,40 +753,6 @@
       "publishedAt": "2026-02-20T21:30:46.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/20/nvidia-releases-dreamdojo-an-open-source-robot-world-model-trained-on-44711-hours-of-real-world-human-video-data/"
-    },
-    {
-      "id": "876",
-      "topic": "Energy, Environment, Policy",
-      "source": "The Verge AI",
-      "shortTitle": "MATS Repealed",
-      "mediumTitle": "Trump Repeals Pollution Rules",
-      "longTitle": "Mercury Standards Rolled Back Amidst Energy Demand",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The Trump administration has repealed",
-            "the Mercury and Air Toxics Standards",
-            "(MATS) established during the Obama",
-            "administration.",
-            "The repeal effectively removes the",
-            "limitations on the amount of toxic",
-            "substances these plants can release into",
-            "the environment.",
-            "These standards specifically targeted",
-            "mercury and other hazardous air",
-            "pollutants emitted from power plants.",
-            "Coal-fired power plants were",
-            "particularly affected by the regulations",
-            "imposed by MATS.",
-            "Experts predict that the removal of MATS",
-            "will likely result in a rise in",
-            "emissions of toxic pollutants."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-20T16:18:34.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats"
     }
   ]
 }
