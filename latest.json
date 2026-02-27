@@ -1,40 +1,39 @@
 {
   "articles": [
     {
-      "id": "922",
-      "topic": "Dev Tools",
+      "id": "935",
+      "topic": "Robotics",
       "source": "Marktechpost AI",
-      "shortTitle": "RAG Sim",
-      "mediumTitle": "Elastic Vector DB Sim",
-      "longTitle": "Simulator for Elastic Vector Databases",
+      "shortTitle": "CORPGEN AI",
+      "mediumTitle": "Microsoft\u0027s CORPGEN Framework",
+      "longTitle": "New AI Framework for Complex Workflows",
       "paragraphs": [
         {
           "Lines": [
-            "The simulator is designed to replicate",
-            "the sharding of embeddings in modern",
-            "Retrieval-Augmented Generation (RAG)",
-            "systems.",
-            "This tutorial details the construction",
-            "of a simulator for an elastic vector",
-            "database.",
-            "The article focuses on building a system",
-            "that mimics how RAG systems handle",
-            "embedding sharding.",
-            "The core of the implementation revolves",
-            "around consistent hashing.",
-            "A key feature is a real-time",
-            "visualization of the hashing ring.",
-            "Virtual nodes are utilized to achieve",
-            "balanced data distribution across",
-            "distributed storage nodes.",
-            "The use of virtual nodes minimizes data",
-            "movement during scaling operations."
+            "Microsoft Research developed CORPGEN to",
+            "create autonomous AI agents for",
+            "organizational work.",
+            "Real-world corporate environments",
+            "require agents that can manage numerous",
+            "tasks with complex relationships.",
+            "The ultimate goal is to develop \u0027digital",
+            "employees\u0027 capable of navigating",
+            "realistic organizational settings.",
+            "Current AI agent benchmarks often fall",
+            "short in evaluating performance on",
+            "multiple, interconnected tasks.",
+            "CORPGEN is designed to bridge the gap",
+            "between current benchmarks and the",
+            "realities of organizational workflows.",
+            "The researchers define this challenge as",
+            "Multi-Horizon Task Management,",
+            "highlighting its unique demands."
           ]
         }
       ],
-      "publishedAt": "2026-02-26T03:58:14.000Z",
-      "ranking": 7.904545454545455,
-      "articleUrl": "https://www.marktechpost.com/2026/02/25/how-to-build-an-elastic-vector-database-with-consistent-hashing-sharding-and-live-ring-visualization-for-rag-systems/"
+      "publishedAt": "2026-02-27T01:32:08.000Z",
+      "ranking": 7.91,
+      "articleUrl": "https://www.marktechpost.com/2026/02/26/microsoft-research-introduces-corpgen-to-manage-multi-horizon-tasks-for-autonomous-ai-agents-using-hierarchical-planning-and-memory/"
     },
     {
       "id": "927",
@@ -69,6 +68,42 @@
       "publishedAt": "2026-02-26T09:00:00.000Z",
       "ranking": 7.24,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty"
+    },
+    {
+      "id": "922",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "RAG Sim",
+      "mediumTitle": "Elastic Vector DB Sim",
+      "longTitle": "Simulator for Elastic Vector Databases",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The simulator is designed to replicate",
+            "the sharding of embeddings in modern",
+            "Retrieval-Augmented Generation (RAG)",
+            "systems.",
+            "This tutorial details the construction",
+            "of a simulator for an elastic vector",
+            "database.",
+            "The article focuses on building a system",
+            "that mimics how RAG systems handle",
+            "embedding sharding.",
+            "The core of the implementation revolves",
+            "around consistent hashing.",
+            "A key feature is a real-time",
+            "visualization of the hashing ring.",
+            "Virtual nodes are utilized to achieve",
+            "balanced data distribution across",
+            "distributed storage nodes.",
+            "The use of virtual nodes minimizes data",
+            "movement during scaling operations."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-26T03:58:14.000Z",
+      "ranking": 6.856566607365128,
+      "articleUrl": "https://www.marktechpost.com/2026/02/25/how-to-build-an-elastic-vector-database-with-consistent-hashing-sharding-and-live-ring-visualization-for-rag-systems/"
     },
     {
       "id": "930",
@@ -176,7 +211,7 @@
         }
       ],
       "publishedAt": "2026-02-25T10:00:00.000Z",
-      "ranking": 5.069446033234161,
+      "ranking": 4.498309214562626,
       "articleUrl": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut"
     },
     {
@@ -213,7 +248,7 @@
         }
       ],
       "publishedAt": "2026-02-25T11:24:39.000Z",
-      "ranking": 4.719488855291496,
+      "ranking": 4.1682432355770835,
       "articleUrl": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure"
     },
     {
@@ -248,7 +283,7 @@
         }
       ],
       "publishedAt": "2026-02-25T10:00:00.000Z",
-      "ranking": 4.569446024282435,
+      "ranking": 3.998309203332809,
       "articleUrl": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability"
     },
     {
@@ -285,7 +320,7 @@
         }
       ],
       "publishedAt": "2026-02-25T00:12:32.000Z",
-      "ranking": 3.8775697799691384,
+      "ranking": 3.1683890526334544,
       "articleUrl": "https://www.marktechpost.com/2026/02/24/a-coding-implementation-to-simulate-practical-byzantine-fault-tolerance-with-asyncio-malicious-nodes-and-latency-analysis/"
     },
     {
@@ -322,7 +357,7 @@
         }
       ],
       "publishedAt": "2026-02-24T12:43:56.000Z",
-      "ranking": 1.8076280682412174,
+      "ranking": 0.9366389527318679,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates"
     },
     {
@@ -359,7 +394,7 @@
         }
       ],
       "publishedAt": "2026-02-24T19:05:28.000Z",
-      "ranking": 1.5266067240161636,
+      "ranking": 0.7452709526732821,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit"
     },
     {
@@ -396,7 +431,7 @@
         }
       ],
       "publishedAt": "2026-02-24T10:00:00.000Z",
-      "ranking": 0.552856549019376,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/883307/google-producerai-deal-music"
     },
     {
@@ -436,6 +471,40 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation"
     },
     {
+      "id": "900",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Insta",
+      "mediumTitle": "Instagram Chief on AI",
+      "longTitle": "AI Threatens Authenticity on Instagram",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The core issue is that AI threatens to",
+            "diminish the importance of human",
+            "creators by replicating authenticity.",
+            "He stated that the rise of AI makes",
+            "\u201Cauthenticity\u2026 infinitely reproducible.\u201D",
+            "Traditionally valued creator qualities,",
+            "such as genuine connection and a unique",
+            "voice, are becoming accessible through",
+            "AI.",
+            "Mosseri\u2019s concerns focus on the impact",
+            "of AI on the authenticity of content and",
+            "the value of human creators.",
+            "This replication could devalue genuine",
+            "content and the connections it fosters.",
+            "The article centers on anxieties voiced",
+            "by Instagram head Adam Mosseri about the",
+            "growing amount of AI-generated content."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-23T12:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
+    },
+    {
       "id": "898",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -464,40 +533,6 @@
             "This creates a tension between expressed",
             "concerns about authenticity and the",
             "platforms\u0027 actions."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-23T12:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
-    },
-    {
-      "id": "900",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Insta",
-      "mediumTitle": "Instagram Chief on AI",
-      "longTitle": "AI Threatens Authenticity on Instagram",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The core issue is that AI threatens to",
-            "diminish the importance of human",
-            "creators by replicating authenticity.",
-            "He stated that the rise of AI makes",
-            "\u201Cauthenticity\u2026 infinitely reproducible.\u201D",
-            "Traditionally valued creator qualities,",
-            "such as genuine connection and a unique",
-            "voice, are becoming accessible through",
-            "AI.",
-            "Mosseri\u2019s concerns focus on the impact",
-            "of AI on the authenticity of content and",
-            "the value of human creators.",
-            "This replication could devalue genuine",
-            "content and the connections it fosters.",
-            "The article centers on anxieties voiced",
-            "by Instagram head Adam Mosseri about the",
-            "growing amount of AI-generated content."
           ]
         }
       ],
@@ -717,114 +752,6 @@
       "publishedAt": "2026-02-20T16:18:34.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats"
-    },
-    {
-      "id": "877",
-      "topic": "AI Ops",
-      "source": "The Verge AI",
-      "shortTitle": "AWS Outage",
-      "mediumTitle": "AWS China Outage: AI Role",
-      "longTitle": "AWS China Outage Blamed on Human-AI Interaction",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Amazon disputes the claim that Kiro was",
-            "at fault, instead emphasizing human",
-            "error in its implementation.",
-            "The internal explanation focuses on",
-            "human error in the AI\u2019s application,",
-            "rather than a fundamental flaw in Kiro\u2019s",
-            "programming.",
-            "According to the Financial Times,",
-            "numerous unnamed Amazon employees point",
-            "to Kiro as the direct cause of the",
-            "incident.",
-            "The outage affected a system in mainland",
-            "China and lasted for a significant 13",
-            "hours.",
-            "Specifically, Amazon alleges that",
-            "employees did not provide Kiro with",
-            "sufficient guidance or limitations."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-20T12:52:48.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake"
-    },
-    {
-      "id": "878",
-      "topic": "Robotics",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI Speaker",
-      "mediumTitle": "OpenAI Plans Smart Speaker",
-      "longTitle": "OpenAI to Enter Hardware Market with AI Speaker",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The speaker aims to provide a more",
-            "interactive experience by leveraging",
-            "OpenAI\u2019s AI models.",
-            "The device will understand conversations",
-            "happening in its vicinity.",
-            "This marks OpenAI\u2019s first venture into",
-            "creating physical hardware products.",
-            "The device will be able to identify",
-            "\u201Citems on a nearby table,\u201D demonstrating",
-            "its object recognition capabilities.",
-            "The speaker is designed to be",
-            "contextually aware of its surroundings.",
-            "OpenAI intends to integrate its AI",
-            "technology directly into a physical",
-            "device.",
-            "This new product represents a",
-            "significant expansion of OpenAI\u2019s",
-            "business model.",
-            "Currently, OpenAI is best known for its",
-            "AI software, such as ChatGPT."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-20T12:52:03.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882077/openai-chatgpt-smart-speaker-camera-glasses-lamp"
-    },
-    {
-      "id": "889",
-      "topic": "AI Ops",
-      "source": "Marktechpost AI",
-      "shortTitle": "NVIDIA Dynamo",
-      "mediumTitle": "Dynamo v0.9.0 Released",
-      "longTitle": "NVIDIA Updates Distributed Inference",
-      "paragraphs": [
-        {
-          "Lines": [
-            "NVIDIA has released Dynamo v0.9.0, a",
-            "major infrastructure update for its",
-            "distributed inference framework.",
-            "This release represents the most",
-            "significant overhaul to date, aiming to",
-            "simplify large-scale model deployment",
-            "and management.",
-            "Key changes include the removal of NATS",
-            "and etcd dependencies, the introduction",
-            "of FlashIndexer, and enhanced",
-            "multi-modal data handling capabilities.",
-            "The removal of NATS and etcd is",
-            "described as \u0022The Great Simplification,\u0022",
-            "streamlining the system by eliminating",
-            "these previously required components.",
-            "This simplification reduces complexity",
-            "and likely lowers operational overhead.",
-            "The update also introduces FlashIndexer,",
-            "which is expected to improve",
-            "performance."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-20T07:51:30.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/02/19/nvidia-releases-dynamo-v0-9-0-a-massive-infrastructure-overhaul-featuring-flashindexer-multi-modal-support-and-removed-nats-and-etcd/"
     }
   ]
 }
