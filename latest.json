@@ -73,43 +73,6 @@
       "articleUrl": "https://www.marktechpost.com/2026/02/27/how-to-build-interactive-geospatial-dashboards-using-folium-with-heatmaps-choropleths-time-animation-marker-clustering-and-advanced-interactive-plugins/"
     },
     {
-      "id": "941",
-      "topic": "Large Models, Tuning",
-      "source": "Marktechpost AI",
-      "shortTitle": "Sakana AI LLM",
-      "mediumTitle": "Sakana AI Boosts LLMs",
-      "longTitle": "Sakana AI\u0027s New LLM Customization Tech",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Sakana AI\u2019s innovation aims to balance",
-            "both flexibility and efficiency in LLM",
-            "customization.",
-            "Adaptation is achieved using zero-shot",
-            "natural language instructions, reducing",
-            "the need for extensive retraining.",
-            "The new methods, D2L and T2L, are",
-            "hypernetwork approaches designed for LLM",
-            "customization.",
-            "The announcement signals a potential",
-            "step forward in LLM customization and",
-            "deployment strategies.",
-            "The hypernetworks can internalize long",
-            "contexts \u0027instantly\u0027.",
-            "Current LLM customization methods",
-            "include In-Context Learning (ICL),",
-            "Context Distillation (CD), and",
-            "Supervised Fine-Tuning (SFT).",
-            "Sakana AI is a company headquartered in",
-            "Tokyo, Japan."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-27T18:53:54.000Z",
-      "ranking": 6.719999999999999,
-      "articleUrl": "https://www.marktechpost.com/2026/02/27/sakana-ai-introduces-doc-to-lora-and-text-to-lora-hypernetworks-that-instantly-internalize-long-contexts-and-adapt-llms-via-zero-shot-natural-language/"
-    },
-    {
       "id": "943",
       "topic": "Policy",
       "source": "The Verge AI",
@@ -176,8 +139,45 @@
         }
       ],
       "publishedAt": "2026-02-27T12:18:26.000Z",
-      "ranking": 6.160409767350326,
+      "ranking": 5.741709796081285,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react"
+    },
+    {
+      "id": "941",
+      "topic": "Large Models, Tuning",
+      "source": "Marktechpost AI",
+      "shortTitle": "Sakana AI LLM",
+      "mediumTitle": "Sakana AI Boosts LLMs",
+      "longTitle": "Sakana AI\u0027s New LLM Customization Tech",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Sakana AI\u2019s innovation aims to balance",
+            "both flexibility and efficiency in LLM",
+            "customization.",
+            "Adaptation is achieved using zero-shot",
+            "natural language instructions, reducing",
+            "the need for extensive retraining.",
+            "The new methods, D2L and T2L, are",
+            "hypernetwork approaches designed for LLM",
+            "customization.",
+            "The announcement signals a potential",
+            "step forward in LLM customization and",
+            "deployment strategies.",
+            "The hypernetworks can internalize long",
+            "contexts \u0027instantly\u0027.",
+            "Current LLM customization methods",
+            "include In-Context Learning (ICL),",
+            "Context Distillation (CD), and",
+            "Supervised Fine-Tuning (SFT).",
+            "Sakana AI is a company headquartered in",
+            "Tokyo, Japan."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-27T18:53:54.000Z",
+      "ranking": 5.5828469114483825,
+      "articleUrl": "https://www.marktechpost.com/2026/02/27/sakana-ai-introduces-doc-to-lora-and-text-to-lora-hypernetworks-that-instantly-internalize-long-contexts-and-adapt-llms-via-zero-shot-natural-language/"
     },
     {
       "id": "938",
@@ -213,7 +213,7 @@
         }
       ],
       "publishedAt": "2026-02-27T13:16:53.000Z",
-      "ranking": 5.909568139106199,
+      "ranking": 5.504380167636506,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines"
     },
     {
@@ -249,7 +249,7 @@
         }
       ],
       "publishedAt": "2026-02-27T10:55:16.000Z",
-      "ranking": 5.896401655218538,
+      "ranking": 5.458475874823606,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/885958/openai-amazon-nvidia-softback-110-billion-investment"
     },
     {
@@ -284,7 +284,7 @@
         }
       ],
       "publishedAt": "2026-02-27T05:01:41.000Z",
-      "ranking": 5.690935123310821,
+      "ranking": 5.171270775217056,
       "articleUrl": "https://www.marktechpost.com/2026/02/26/perplexity-just-released-pplx-embed-new-sota-qwen3-bidirectional-embedding-models-for-web-scale-retrieval-tasks/"
     },
     {
@@ -319,7 +319,7 @@
         }
       ],
       "publishedAt": "2026-02-27T01:32:08.000Z",
-      "ranking": 5.274640490910393,
+      "ranking": 4.706534049001803,
       "articleUrl": "https://www.marktechpost.com/2026/02/26/microsoft-research-introduces-corpgen-to-manage-multi-horizon-tasks-for-autonomous-ai-agents-using-hierarchical-planning-and-memory/"
     },
     {
@@ -356,7 +356,7 @@
         }
       ],
       "publishedAt": "2026-02-26T19:04:53.000Z",
-      "ranking": 2.9891906701237327,
+      "ranking": 2.3315628694872457,
       "articleUrl": "https://www.marktechpost.com/2026/02/26/google-ai-just-released-nano-banana-2-the-new-ai-model-featuring-advanced-subject-consistency-and-sub-second-4k-image-synthesis-performance/"
     },
     {
@@ -390,7 +390,7 @@
         }
       ],
       "publishedAt": "2026-02-26T09:00:00.000Z",
-      "ranking": 1.8929887990013574,
+      "ranking": 1.0955289113926066,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty"
     },
     {
@@ -426,7 +426,7 @@
         }
       ],
       "publishedAt": "2026-02-26T03:58:14.000Z",
-      "ranking": 1.5444613758275283,
+      "ranking": 0.6772414791178081,
       "articleUrl": "https://www.marktechpost.com/2026/02/25/how-to-build-an-elastic-vector-database-with-consistent-hashing-sharding-and-live-ring-visualization-for-rag-systems/"
     },
     {
@@ -463,7 +463,7 @@
         }
       ],
       "publishedAt": "2026-02-26T10:21:05.000Z",
-      "ranking": 1.230226403511228,
+      "ranking": 0.45151070715129205,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/885200/anthropic-retired-claude-given-a-substack"
     },
     {
@@ -758,40 +758,6 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation"
     },
     {
-      "id": "900",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Insta",
-      "mediumTitle": "Instagram Chief on AI",
-      "longTitle": "AI Threatens Authenticity on Instagram",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The core issue is that AI threatens to",
-            "diminish the importance of human",
-            "creators by replicating authenticity.",
-            "He stated that the rise of AI makes",
-            "\u201Cauthenticity\u2026 infinitely reproducible.\u201D",
-            "Traditionally valued creator qualities,",
-            "such as genuine connection and a unique",
-            "voice, are becoming accessible through",
-            "AI.",
-            "Mosseri\u2019s concerns focus on the impact",
-            "of AI on the authenticity of content and",
-            "the value of human creators.",
-            "This replication could devalue genuine",
-            "content and the connections it fosters.",
-            "The article centers on anxieties voiced",
-            "by Instagram head Adam Mosseri about the",
-            "growing amount of AI-generated content."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-23T12:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
-    },
-    {
       "id": "898",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -820,6 +786,40 @@
             "This creates a tension between expressed",
             "concerns about authenticity and the",
             "platforms\u0027 actions."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-23T12:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
+    },
+    {
+      "id": "900",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Insta",
+      "mediumTitle": "Instagram Chief on AI",
+      "longTitle": "AI Threatens Authenticity on Instagram",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The core issue is that AI threatens to",
+            "diminish the importance of human",
+            "creators by replicating authenticity.",
+            "He stated that the rise of AI makes",
+            "\u201Cauthenticity\u2026 infinitely reproducible.\u201D",
+            "Traditionally valued creator qualities,",
+            "such as genuine connection and a unique",
+            "voice, are becoming accessible through",
+            "AI.",
+            "Mosseri\u2019s concerns focus on the impact",
+            "of AI on the authenticity of content and",
+            "the value of human creators.",
+            "This replication could devalue genuine",
+            "content and the connections it fosters.",
+            "The article centers on anxieties voiced",
+            "by Instagram head Adam Mosseri about the",
+            "growing amount of AI-generated content."
           ]
         }
       ],
