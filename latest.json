@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "id": "936",
-      "topic": "NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "Perplexity Embed",
-      "mediumTitle": "New Perplexity Embeddings",
-      "longTitle": "Perplexity Releases Multilingual Embeddings",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Perplexity announced the release of",
-            "\u0060pplx-embed\u0060, a new suite of",
-            "multilingual embedding models.",
-            "Unlike many Large Language Models",
-            "(LLMs), \u0060pplx-embed\u0060 does not use a",
-            "causal, decoder-only architecture.",
-            "The models are designed for large-scale",
-            "retrieval tasks, aiming to provide a",
-            "robust and scalable solution.",
-            "These models achieve state-of-the-art",
-            "(SOTA) performance in embedding tasks.",
-            "A primary goal of these models is to",
-            "address the difficulties of working with",
-            "noisy and complex data found on the web.",
-            "The models leverage bidirectional",
-            "attention, which allows them to consider",
-            "context from both directions of a",
-            "sequence."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-27T05:01:41.000Z",
-      "ranking": 7.875,
-      "articleUrl": "https://www.marktechpost.com/2026/02/26/perplexity-just-released-pplx-embed-new-sota-qwen3-bidirectional-embedding-models-for-web-scale-retrieval-tasks/"
-    },
-    {
       "id": "944",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -253,39 +218,39 @@
       "articleUrl": "https://www.marktechpost.com/2026/02/27/sakana-ai-introduces-doc-to-lora-and-text-to-lora-hypernetworks-that-instantly-internalize-long-contexts-and-adapt-llms-via-zero-shot-natural-language/"
     },
     {
-      "id": "935",
-      "topic": "Robotics",
+      "id": "936",
+      "topic": "NLP",
       "source": "Marktechpost AI",
-      "shortTitle": "CORPGEN AI",
-      "mediumTitle": "Microsoft\u0027s CORPGEN Framework",
-      "longTitle": "New AI Framework for Complex Workflows",
+      "shortTitle": "Perplexity Embed",
+      "mediumTitle": "New Perplexity Embeddings",
+      "longTitle": "Perplexity Releases Multilingual Embeddings",
       "paragraphs": [
         {
           "Lines": [
-            "Microsoft Research developed CORPGEN to",
-            "create autonomous AI agents for",
-            "organizational work.",
-            "Real-world corporate environments",
-            "require agents that can manage numerous",
-            "tasks with complex relationships.",
-            "The ultimate goal is to develop \u0027digital",
-            "employees\u0027 capable of navigating",
-            "realistic organizational settings.",
-            "Current AI agent benchmarks often fall",
-            "short in evaluating performance on",
-            "multiple, interconnected tasks.",
-            "CORPGEN is designed to bridge the gap",
-            "between current benchmarks and the",
-            "realities of organizational workflows.",
-            "The researchers define this challenge as",
-            "Multi-Horizon Task Management,",
-            "highlighting its unique demands."
+            "Perplexity announced the release of",
+            "\u0060pplx-embed\u0060, a new suite of",
+            "multilingual embedding models.",
+            "Unlike many Large Language Models",
+            "(LLMs), \u0060pplx-embed\u0060 does not use a",
+            "causal, decoder-only architecture.",
+            "The models are designed for large-scale",
+            "retrieval tasks, aiming to provide a",
+            "robust and scalable solution.",
+            "These models achieve state-of-the-art",
+            "(SOTA) performance in embedding tasks.",
+            "A primary goal of these models is to",
+            "address the difficulties of working with",
+            "noisy and complex data found on the web.",
+            "The models leverage bidirectional",
+            "attention, which allows them to consider",
+            "context from both directions of a",
+            "sequence."
           ]
         }
       ],
-      "publishedAt": "2026-02-27T01:32:08.000Z",
-      "ranking": 6.6462511942901665,
-      "articleUrl": "https://www.marktechpost.com/2026/02/26/microsoft-research-introduces-corpgen-to-manage-multi-horizon-tasks-for-autonomous-ai-agents-using-hierarchical-planning-and-memory/"
+      "publishedAt": "2026-02-27T05:01:41.000Z",
+      "ranking": 6.566093677963275,
+      "articleUrl": "https://www.marktechpost.com/2026/02/26/perplexity-just-released-pplx-embed-new-sota-qwen3-bidirectional-embedding-models-for-web-scale-retrieval-tasks/"
     },
     {
       "id": "943",
@@ -323,6 +288,41 @@
       "articleUrl": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff"
     },
     {
+      "id": "935",
+      "topic": "Robotics",
+      "source": "Marktechpost AI",
+      "shortTitle": "CORPGEN AI",
+      "mediumTitle": "Microsoft\u0027s CORPGEN Framework",
+      "longTitle": "New AI Framework for Complex Workflows",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft Research developed CORPGEN to",
+            "create autonomous AI agents for",
+            "organizational work.",
+            "Real-world corporate environments",
+            "require agents that can manage numerous",
+            "tasks with complex relationships.",
+            "The ultimate goal is to develop \u0027digital",
+            "employees\u0027 capable of navigating",
+            "realistic organizational settings.",
+            "Current AI agent benchmarks often fall",
+            "short in evaluating performance on",
+            "multiple, interconnected tasks.",
+            "CORPGEN is designed to bridge the gap",
+            "between current benchmarks and the",
+            "realities of organizational workflows.",
+            "The researchers define this challenge as",
+            "Multi-Horizon Task Management,",
+            "highlighting its unique demands."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-27T01:32:08.000Z",
+      "ranking": 6.2469440269693255,
+      "articleUrl": "https://www.marktechpost.com/2026/02/26/microsoft-research-introduces-corpgen-to-manage-multi-horizon-tasks-for-autonomous-ai-agents-using-hierarchical-planning-and-memory/"
+    },
+    {
       "id": "930",
       "topic": "Vision, Generative AI",
       "source": "Marktechpost AI",
@@ -356,7 +356,7 @@
         }
       ],
       "publishedAt": "2026-02-26T19:04:53.000Z",
-      "ranking": 4.629301810448148,
+      "ranking": 4.141018878240152,
       "articleUrl": "https://www.marktechpost.com/2026/02/26/google-ai-just-released-nano-banana-2-the-new-ai-model-featuring-advanced-subject-consistency-and-sub-second-4k-image-synthesis-performance/"
     },
     {
@@ -390,7 +390,7 @@
         }
       ],
       "publishedAt": "2026-02-26T09:00:00.000Z",
-      "ranking": 3.952496823274758,
+      "ranking": 3.325234008882457,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty"
     },
     {
@@ -426,7 +426,7 @@
         }
       ],
       "publishedAt": "2026-02-26T03:58:14.000Z",
-      "ranking": 3.8131998288305944,
+      "ranking": 3.1166021628810707,
       "articleUrl": "https://www.marktechpost.com/2026/02/25/how-to-build-an-elastic-vector-database-with-consistent-hashing-sharding-and-live-ring-visualization-for-rag-systems/"
     },
     {
@@ -463,7 +463,7 @@
         }
       ],
       "publishedAt": "2026-02-26T10:21:05.000Z",
-      "ranking": 3.233515164585629,
+      "ranking": 2.6248823091228886,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/885200/anthropic-retired-claude-given-a-substack"
     },
     {
