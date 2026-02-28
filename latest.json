@@ -104,7 +104,7 @@
         }
       ],
       "publishedAt": "2026-02-27T22:19:16.000Z",
-      "ranking": 6.465000000000001,
+      "ranking": 5.272316272664124,
       "articleUrl": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff"
     },
     {
@@ -139,7 +139,7 @@
         }
       ],
       "publishedAt": "2026-02-27T12:18:26.000Z",
-      "ranking": 5.741709796081285,
+      "ranking": 5.261874727185294,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react"
     },
     {
@@ -176,7 +176,7 @@
         }
       ],
       "publishedAt": "2026-02-27T18:53:54.000Z",
-      "ranking": 5.5828469114483825,
+      "ranking": 5.195475543036894,
       "articleUrl": "https://www.marktechpost.com/2026/02/27/sakana-ai-introduces-doc-to-lora-and-text-to-lora-hypernetworks-that-instantly-internalize-long-contexts-and-adapt-llms-via-zero-shot-natural-language/"
     },
     {
@@ -213,7 +213,7 @@
         }
       ],
       "publishedAt": "2026-02-27T13:16:53.000Z",
-      "ranking": 5.504380167636506,
+      "ranking": 5.038211239314851,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines"
     },
     {
@@ -249,7 +249,7 @@
         }
       ],
       "publishedAt": "2026-02-27T10:55:16.000Z",
-      "ranking": 5.458475874823606,
+      "ranking": 4.95919568223313,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/885958/openai-amazon-nvidia-softback-110-billion-investment"
     },
     {
@@ -284,7 +284,7 @@
         }
       ],
       "publishedAt": "2026-02-27T05:01:41.000Z",
-      "ranking": 5.171270775217056,
+      "ranking": 4.589319585451269,
       "articleUrl": "https://www.marktechpost.com/2026/02/26/perplexity-just-released-pplx-embed-new-sota-qwen3-bidirectional-embedding-models-for-web-scale-retrieval-tasks/"
     },
     {
@@ -319,7 +319,7 @@
         }
       ],
       "publishedAt": "2026-02-27T01:32:08.000Z",
-      "ranking": 4.706534049001803,
+      "ranking": 4.075588164853388,
       "articleUrl": "https://www.marktechpost.com/2026/02/26/microsoft-research-introduces-corpgen-to-manage-multi-horizon-tasks-for-autonomous-ai-agents-using-hierarchical-planning-and-memory/"
     },
     {
@@ -356,7 +356,7 @@
         }
       ],
       "publishedAt": "2026-02-26T19:04:53.000Z",
-      "ranking": 2.3315628694872457,
+      "ranking": 1.6100744159386782,
       "articleUrl": "https://www.marktechpost.com/2026/02/26/google-ai-just-released-nano-banana-2-the-new-ai-model-featuring-advanced-subject-consistency-and-sub-second-4k-image-synthesis-performance/"
     },
     {
@@ -390,44 +390,8 @@
         }
       ],
       "publishedAt": "2026-02-26T09:00:00.000Z",
-      "ranking": 1.0955289113926066,
+      "ranking": 0.2326132371899634,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty"
-    },
-    {
-      "id": "922",
-      "topic": "Dev Tools",
-      "source": "Marktechpost AI",
-      "shortTitle": "RAG Sim",
-      "mediumTitle": "Elastic Vector DB Sim",
-      "longTitle": "Simulator for Elastic Vector Databases",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The simulator is designed to replicate",
-            "the sharding of embeddings in modern",
-            "Retrieval-Augmented Generation (RAG)",
-            "systems.",
-            "This tutorial details the construction",
-            "of a simulator for an elastic vector",
-            "database.",
-            "The article focuses on building a system",
-            "that mimics how RAG systems handle",
-            "embedding sharding.",
-            "The core of the implementation revolves",
-            "around consistent hashing.",
-            "A key feature is a real-time",
-            "visualization of the hashing ring.",
-            "Virtual nodes are utilized to achieve",
-            "balanced data distribution across",
-            "distributed storage nodes.",
-            "The use of virtual nodes minimizes data",
-            "movement during scaling operations."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-26T03:58:14.000Z",
-      "ranking": 0.6772414791178081,
-      "articleUrl": "https://www.marktechpost.com/2026/02/25/how-to-build-an-elastic-vector-database-with-consistent-hashing-sharding-and-live-ring-visualization-for-rag-systems/"
     },
     {
       "id": "926",
@@ -463,8 +427,44 @@
         }
       ],
       "publishedAt": "2026-02-26T10:21:05.000Z",
-      "ranking": 0.45151070715129205,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/885200/anthropic-retired-claude-given-a-substack"
+    },
+    {
+      "id": "922",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "RAG Sim",
+      "mediumTitle": "Elastic Vector DB Sim",
+      "longTitle": "Simulator for Elastic Vector Databases",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The simulator is designed to replicate",
+            "the sharding of embeddings in modern",
+            "Retrieval-Augmented Generation (RAG)",
+            "systems.",
+            "This tutorial details the construction",
+            "of a simulator for an elastic vector",
+            "database.",
+            "The article focuses on building a system",
+            "that mimics how RAG systems handle",
+            "embedding sharding.",
+            "The core of the implementation revolves",
+            "around consistent hashing.",
+            "A key feature is a real-time",
+            "visualization of the hashing ring.",
+            "Virtual nodes are utilized to achieve",
+            "balanced data distribution across",
+            "distributed storage nodes.",
+            "The use of virtual nodes minimizes data",
+            "movement during scaling operations."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-26T03:58:14.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.marktechpost.com/2026/02/25/how-to-build-an-elastic-vector-database-with-consistent-hashing-sharding-and-live-ring-visualization-for-rag-systems/"
     },
     {
       "id": "915",
@@ -758,6 +758,40 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation"
     },
     {
+      "id": "900",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Insta",
+      "mediumTitle": "Instagram Chief on AI",
+      "longTitle": "AI Threatens Authenticity on Instagram",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The core issue is that AI threatens to",
+            "diminish the importance of human",
+            "creators by replicating authenticity.",
+            "He stated that the rise of AI makes",
+            "\u201Cauthenticity\u2026 infinitely reproducible.\u201D",
+            "Traditionally valued creator qualities,",
+            "such as genuine connection and a unique",
+            "voice, are becoming accessible through",
+            "AI.",
+            "Mosseri\u2019s concerns focus on the impact",
+            "of AI on the authenticity of content and",
+            "the value of human creators.",
+            "This replication could devalue genuine",
+            "content and the connections it fosters.",
+            "The article centers on anxieties voiced",
+            "by Instagram head Adam Mosseri about the",
+            "growing amount of AI-generated content."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-23T12:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
+    },
+    {
       "id": "898",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -786,40 +820,6 @@
             "This creates a tension between expressed",
             "concerns about authenticity and the",
             "platforms\u0027 actions."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-23T12:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
-    },
-    {
-      "id": "900",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Insta",
-      "mediumTitle": "Instagram Chief on AI",
-      "longTitle": "AI Threatens Authenticity on Instagram",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The core issue is that AI threatens to",
-            "diminish the importance of human",
-            "creators by replicating authenticity.",
-            "He stated that the rise of AI makes",
-            "\u201Cauthenticity\u2026 infinitely reproducible.\u201D",
-            "Traditionally valued creator qualities,",
-            "such as genuine connection and a unique",
-            "voice, are becoming accessible through",
-            "AI.",
-            "Mosseri\u2019s concerns focus on the impact",
-            "of AI on the authenticity of content and",
-            "the value of human creators.",
-            "This replication could devalue genuine",
-            "content and the connections it fosters.",
-            "The article centers on anxieties voiced",
-            "by Instagram head Adam Mosseri about the",
-            "growing amount of AI-generated content."
           ]
         }
       ],
