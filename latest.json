@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "id": "935",
-      "topic": "Robotics",
-      "source": "Marktechpost AI",
-      "shortTitle": "CORPGEN AI",
-      "mediumTitle": "Microsoft\u0027s CORPGEN Framework",
-      "longTitle": "New AI Framework for Complex Workflows",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Microsoft Research developed CORPGEN to",
-            "create autonomous AI agents for",
-            "organizational work.",
-            "Real-world corporate environments",
-            "require agents that can manage numerous",
-            "tasks with complex relationships.",
-            "The ultimate goal is to develop \u0027digital",
-            "employees\u0027 capable of navigating",
-            "realistic organizational settings.",
-            "Current AI agent benchmarks often fall",
-            "short in evaluating performance on",
-            "multiple, interconnected tasks.",
-            "CORPGEN is designed to bridge the gap",
-            "between current benchmarks and the",
-            "realities of organizational workflows.",
-            "The researchers define this challenge as",
-            "Multi-Horizon Task Management,",
-            "highlighting its unique demands."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-27T01:32:08.000Z",
-      "ranking": 7.91,
-      "articleUrl": "https://www.marktechpost.com/2026/02/26/microsoft-research-introduces-corpgen-to-manage-multi-horizon-tasks-for-autonomous-ai-agents-using-hierarchical-planning-and-memory/"
-    },
-    {
       "id": "936",
       "topic": "NLP",
       "source": "Marktechpost AI",
@@ -71,6 +36,43 @@
       "articleUrl": "https://www.marktechpost.com/2026/02/26/perplexity-just-released-pplx-embed-new-sota-qwen3-bidirectional-embedding-models-for-web-scale-retrieval-tasks/"
     },
     {
+      "id": "944",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "AI Planner",
+      "mediumTitle": "Hierarchical Planner AI",
+      "longTitle": "Building a Hierarchical Planning AI Agent",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This tutorial details the creation of a",
+            "hierarchical planner AI agent.",
+            "The agent utilizes open-source Large",
+            "Language Models (LLMs).",
+            "Tool execution and structured",
+            "multi-agent reasoning are key components",
+            "of the system.",
+            "The planner agent transforms high-level",
+            "goals into manageable steps.",
+            "The executor agent interacts with the",
+            "external environment through tool",
+            "execution.",
+            "The aggregator agent consolidates",
+            "results from the executor agent.",
+            "The aggregator agent provides feedback",
+            "to potentially refine the overall plan.",
+            "The system leverages open-source",
+            "instruct models for accessibility.",
+            "The structured architecture improves the",
+            "agent\u0027s ability to handle complex tasks."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-28T03:18:20.000Z",
+      "ranking": 7.681818181818181,
+      "articleUrl": "https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/"
+    },
+    {
       "id": "939",
       "topic": "Ethics, Security, Policy",
       "source": "The Verge AI",
@@ -104,6 +106,41 @@
       "publishedAt": "2026-02-27T12:18:26.000Z",
       "ranking": 7.539999999999999,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react"
+    },
+    {
+      "id": "945",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "Folium Maps",
+      "mediumTitle": "Folium Geospatial Dashboards",
+      "longTitle": "Building Interactive Maps with Folium",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This tutorial demonstrates building",
+            "interactive geospatial dashboards using",
+            "the Folium Python library.",
+            "Choropleth maps, which represent",
+            "region-level data, can be created from",
+            "GeoJSON data.",
+            "Spatial density can be visualized",
+            "effectively using heatmaps within",
+            "Folium.",
+            "Folium allows users to leverage its",
+            "features to create dynamic and",
+            "informative geospatial visualizations.",
+            "Marker clustering is a technique used to",
+            "handle large datasets efficiently,",
+            "preventing performance issues.",
+            "Folium maps can be created and run in",
+            "environments such as Google Colab or",
+            "local Python setups."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-28T00:56:00.000Z",
+      "ranking": 7.5,
+      "articleUrl": "https://www.marktechpost.com/2026/02/27/how-to-build-interactive-geospatial-dashboards-using-folium-with-heatmaps-choropleths-time-animation-marker-clustering-and-advanced-interactive-plugins/"
     },
     {
       "id": "937",
@@ -216,6 +253,76 @@
       "articleUrl": "https://www.marktechpost.com/2026/02/27/sakana-ai-introduces-doc-to-lora-and-text-to-lora-hypernetworks-that-instantly-internalize-long-contexts-and-adapt-llms-via-zero-shot-natural-language/"
     },
     {
+      "id": "935",
+      "topic": "Robotics",
+      "source": "Marktechpost AI",
+      "shortTitle": "CORPGEN AI",
+      "mediumTitle": "Microsoft\u0027s CORPGEN Framework",
+      "longTitle": "New AI Framework for Complex Workflows",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft Research developed CORPGEN to",
+            "create autonomous AI agents for",
+            "organizational work.",
+            "Real-world corporate environments",
+            "require agents that can manage numerous",
+            "tasks with complex relationships.",
+            "The ultimate goal is to develop \u0027digital",
+            "employees\u0027 capable of navigating",
+            "realistic organizational settings.",
+            "Current AI agent benchmarks often fall",
+            "short in evaluating performance on",
+            "multiple, interconnected tasks.",
+            "CORPGEN is designed to bridge the gap",
+            "between current benchmarks and the",
+            "realities of organizational workflows.",
+            "The researchers define this challenge as",
+            "Multi-Horizon Task Management,",
+            "highlighting its unique demands."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-27T01:32:08.000Z",
+      "ranking": 6.6462511942901665,
+      "articleUrl": "https://www.marktechpost.com/2026/02/26/microsoft-research-introduces-corpgen-to-manage-multi-horizon-tasks-for-autonomous-ai-agents-using-hierarchical-planning-and-memory/"
+    },
+    {
+      "id": "943",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "Anthropic Ban",
+      "mediumTitle": "US Government Targets AI Firm",
+      "longTitle": "Anthropic Faces Ban \u0026 Risk Designation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article does not provide any details",
+            "regarding the specific concerns driving",
+            "the ban or the risk designation.",
+            "Pete Hegseth, the current Secretary of",
+            "Defense, made the official \u201Csupply-chain",
+            "risk\u201D designation regarding Anthropic.",
+            "Anthropic, an artificial intelligence",
+            "company, is the target of these recent",
+            "governmental actions.",
+            "Anthropic intends to pursue legal action",
+            "to contest the designation.",
+            "The announcement from Donald Trump",
+            "preceded the formal designation by",
+            "Secretary Hegseth by roughly two hours.",
+            "The sequence of events is clearly",
+            "outlined: Trump\u2019s announcement,",
+            "Hegseth\u2019s designation, and Anthropic\u2019s",
+            "response."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-27T22:19:16.000Z",
+      "ranking": 6.465000000000001,
+      "articleUrl": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff"
+    },
+    {
       "id": "930",
       "topic": "Vision, Generative AI",
       "source": "Marktechpost AI",
@@ -249,7 +356,7 @@
         }
       ],
       "publishedAt": "2026-02-26T19:04:53.000Z",
-      "ranking": 5.063324909388567,
+      "ranking": 4.629301810448148,
       "articleUrl": "https://www.marktechpost.com/2026/02/26/google-ai-just-released-nano-banana-2-the-new-ai-model-featuring-advanced-subject-consistency-and-sub-second-4k-image-synthesis-performance/"
     },
     {
@@ -283,7 +390,7 @@
         }
       ],
       "publishedAt": "2026-02-26T09:00:00.000Z",
-      "ranking": 4.525661992204467,
+      "ranking": 3.952496823274758,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty"
     },
     {
@@ -319,7 +426,7 @@
         }
       ],
       "publishedAt": "2026-02-26T03:58:14.000Z",
-      "ranking": 4.455780761391427,
+      "ranking": 3.8131998288305944,
       "articleUrl": "https://www.marktechpost.com/2026/02/25/how-to-build-an-elastic-vector-database-with-consistent-hashing-sharding-and-live-ring-visualization-for-rag-systems/"
     },
     {
@@ -356,43 +463,8 @@
         }
       ],
       "publishedAt": "2026-02-26T10:21:05.000Z",
-      "ranking": 3.7880286348730783,
+      "ranking": 3.233515164585629,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/885200/anthropic-retired-claude-given-a-substack"
-    },
-    {
-      "id": "918",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Adobe AI Edit",
-      "mediumTitle": "Adobe\u0027s Quick Cut Beta",
-      "longTitle": "Adobe Firefly\u0027s Quick Cut: AI Video Editing",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Adobe is releasing \u0027Quick Cut\u0027 within",
-            "its Firefly video editor as a new",
-            "AI-powered tool.",
-            "The primary goal of Quick Cut is to",
-            "streamline the video editing process and",
-            "accelerate production.",
-            "Editors can concentrate on the creative",
-            "aspects of storytelling with the help of",
-            "this new tool.",
-            "Editors can then refine and build upon",
-            "the AI-generated rough cut to create the",
-            "final video.",
-            "The tool reduces the time spent on the",
-            "initial arrangement of video clips.",
-            "The rapid creation of a rough cut is a",
-            "core benefit of using Quick Cut.",
-            "Text prompts are a key input method for",
-            "directing the AI\u0027s clip selection."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-25T10:00:00.000Z",
-      "ranking": 0.8495033041898052,
-      "articleUrl": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut"
     },
     {
       "id": "915",
@@ -428,7 +500,7 @@
         }
       ],
       "publishedAt": "2026-02-25T11:24:39.000Z",
-      "ranking": 0.6174169491040464,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure"
     },
     {
@@ -463,8 +535,43 @@
         }
       ],
       "publishedAt": "2026-02-25T10:00:00.000Z",
-      "ranking": 0.3495032904849227,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability"
+    },
+    {
+      "id": "918",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Adobe AI Edit",
+      "mediumTitle": "Adobe\u0027s Quick Cut Beta",
+      "longTitle": "Adobe Firefly\u0027s Quick Cut: AI Video Editing",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Adobe is releasing \u0027Quick Cut\u0027 within",
+            "its Firefly video editor as a new",
+            "AI-powered tool.",
+            "The primary goal of Quick Cut is to",
+            "streamline the video editing process and",
+            "accelerate production.",
+            "Editors can concentrate on the creative",
+            "aspects of storytelling with the help of",
+            "this new tool.",
+            "Editors can then refine and build upon",
+            "the AI-generated rough cut to create the",
+            "final video.",
+            "The tool reduces the time spent on the",
+            "initial arrangement of video clips.",
+            "The rapid creation of a rough cut is a",
+            "core benefit of using Quick Cut.",
+            "Text prompts are a key input method for",
+            "directing the AI\u0027s clip selection."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-25T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut"
     },
     {
       "id": "912",
@@ -719,42 +826,6 @@
       "publishedAt": "2026-02-23T12:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube"
-    },
-    {
-      "id": "896",
-      "topic": "Model Eval",
-      "source": "Marktechpost AI",
-      "shortTitle": "LLM Eval",
-      "mediumTitle": "TruLens LLM Pipeline",
-      "longTitle": "Evaluating LLMs with TruLens \u0026 OpenAI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article addresses the need to move",
-            "away from treating large language models",
-            "(LLMs) as opaque \u0027black boxes\u0027.",
-            "Instrumenting each stage of the",
-            "application allows for capturing inputs,",
-            "intermediate steps, and outputs as",
-            "structured traces.",
-            "These traces are crucial for",
-            "quantitatively evaluating the model\u0027s",
-            "performance using feedback functions.",
-            "The system aims to provide a method for",
-            "systematically evaluating LLM",
-            "applications.",
-            "This approach contrasts with relying on",
-            "subjective assessments of LLM",
-            "performance.",
-            "The TruLens framework facilitates",
-            "detailed tracing and evaluation of LLM",
-            "applications."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-23T04:39:16.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/02/22/a-coding-guide-to-instrumenting-tracing-and-evaluating-llm-applications-using-trulens-and-openai-models/"
     }
   ]
 }
