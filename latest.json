@@ -71,7 +71,7 @@
         }
       ],
       "publishedAt": "2026-02-28T03:18:20.000Z",
-      "ranking": 5.7670261223306065,
+      "ranking": 5.280425030578689,
       "articleUrl": "https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/"
     },
     {
@@ -106,7 +106,7 @@
         }
       ],
       "publishedAt": "2026-02-28T00:56:00.000Z",
-      "ranking": 5.30188919760492,
+      "ranking": 4.782495532886599,
       "articleUrl": "https://www.marktechpost.com/2026/02/27/how-to-build-interactive-geospatial-dashboards-using-folium-with-heatmaps-choropleths-time-animation-marker-clustering-and-advanced-interactive-plugins/"
     },
     {
@@ -141,7 +141,7 @@
         }
       ],
       "publishedAt": "2026-02-27T22:19:16.000Z",
-      "ranking": 3.9323018339693276,
+      "ranking": 3.376797942677706,
       "articleUrl": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff"
     },
     {
@@ -178,7 +178,7 @@
         }
       ],
       "publishedAt": "2026-02-27T18:53:54.000Z",
-      "ranking": 3.713032276366116,
+      "ranking": 3.1102133901566735,
       "articleUrl": "https://www.marktechpost.com/2026/02/27/sakana-ai-introduces-doc-to-lora-and-text-to-lora-hypernetworks-that-instantly-internalize-long-contexts-and-adapt-llms-via-zero-shot-natural-language/"
     },
     {
@@ -213,7 +213,7 @@
         }
       ],
       "publishedAt": "2026-02-27T12:18:26.000Z",
-      "ranking": 3.505161748575227,
+      "ranking": 2.8112302020730766,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react"
     },
     {
@@ -250,7 +250,7 @@
         }
       ],
       "publishedAt": "2026-02-27T13:16:53.000Z",
-      "ranking": 3.322035343607722,
+      "ranking": 2.6415702537667842,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines"
     },
     {
@@ -286,7 +286,7 @@
         }
       ],
       "publishedAt": "2026-02-27T10:55:16.000Z",
-      "ranking": 3.144803766318672,
+      "ranking": 2.4317112219175163,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/885958/openai-amazon-nvidia-softback-110-billion-investment"
     },
     {
@@ -321,7 +321,7 @@
         }
       ],
       "publishedAt": "2026-02-27T05:01:41.000Z",
-      "ranking": 2.5297054936347463,
+      "ranking": 1.7351499056850699,
       "articleUrl": "https://www.marktechpost.com/2026/02/26/perplexity-just-released-pplx-embed-new-sota-qwen3-bidirectional-embedding-models-for-web-scale-retrieval-tasks/"
     },
     {
@@ -356,7 +356,7 @@
         }
       ],
       "publishedAt": "2026-02-27T01:32:08.000Z",
-      "ranking": 1.8706439557991281,
+      "ranking": 1.0278095638047908,
       "articleUrl": "https://www.marktechpost.com/2026/02/26/microsoft-research-introduces-corpgen-to-manage-multi-horizon-tasks-for-autonomous-ai-agents-using-hierarchical-planning-and-memory/"
     },
     {
@@ -541,41 +541,6 @@
       "articleUrl": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure"
     },
     {
-      "id": "918",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Adobe AI Edit",
-      "mediumTitle": "Adobe\u0027s Quick Cut Beta",
-      "longTitle": "Adobe Firefly\u0027s Quick Cut: AI Video Editing",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Adobe is releasing \u0027Quick Cut\u0027 within",
-            "its Firefly video editor as a new",
-            "AI-powered tool.",
-            "The primary goal of Quick Cut is to",
-            "streamline the video editing process and",
-            "accelerate production.",
-            "Editors can concentrate on the creative",
-            "aspects of storytelling with the help of",
-            "this new tool.",
-            "Editors can then refine and build upon",
-            "the AI-generated rough cut to create the",
-            "final video.",
-            "The tool reduces the time spent on the",
-            "initial arrangement of video clips.",
-            "The rapid creation of a rough cut is a",
-            "core benefit of using Quick Cut.",
-            "Text prompts are a key input method for",
-            "directing the AI\u0027s clip selection."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-25T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut"
-    },
-    {
       "id": "917",
       "topic": "NLP",
       "source": "The Verge AI",
@@ -609,6 +574,41 @@
       "publishedAt": "2026-02-25T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability"
+    },
+    {
+      "id": "918",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Adobe AI Edit",
+      "mediumTitle": "Adobe\u0027s Quick Cut Beta",
+      "longTitle": "Adobe Firefly\u0027s Quick Cut: AI Video Editing",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Adobe is releasing \u0027Quick Cut\u0027 within",
+            "its Firefly video editor as a new",
+            "AI-powered tool.",
+            "The primary goal of Quick Cut is to",
+            "streamline the video editing process and",
+            "accelerate production.",
+            "Editors can concentrate on the creative",
+            "aspects of storytelling with the help of",
+            "this new tool.",
+            "Editors can then refine and build upon",
+            "the AI-generated rough cut to create the",
+            "final video.",
+            "The tool reduces the time spent on the",
+            "initial arrangement of video clips.",
+            "The rapid creation of a rough cut is a",
+            "core benefit of using Quick Cut.",
+            "Text prompts are a key input method for",
+            "directing the AI\u0027s clip selection."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-25T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut"
     },
     {
       "id": "912",
