@@ -1,6 +1,79 @@
 {
   "articles": [
     {
+      "id": "956",
+      "topic": "Hardware",
+      "source": "The Verge AI",
+      "shortTitle": "Nvidia Invests",
+      "mediumTitle": "Nvidia\u0027s $4B Photonics Push",
+      "longTitle": "Nvidia Invests $4 Billion in Photonics Tech",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Nvidia is investing $4 billion into",
+            "photonics technology, splitting the",
+            "investment with $2 billion each going to",
+            "Lumentum and Coherent.",
+            "The goal of this investment is to",
+            "improve energy efficiency, increase data",
+            "transfer speeds, and expand bandwidth",
+            "capabilities for future AI",
+            "infrastructure.",
+            "This investment focuses on advancing",
+            "technologies crucial for data centers,",
+            "specifically optical transceivers,",
+            "circuit switches, and lasers.",
+            "Essentially, Nvidia is proactively",
+            "securing its position in the evolving",
+            "landscape of AI.",
+            "These components are essential for",
+            "high-speed, long-distance data",
+            "transmission."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-02T12:56:49.000Z",
+      "ranking": 7.845454545454544,
+      "articleUrl": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent"
+    },
+    {
+      "id": "955",
+      "topic": "Art",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Copyright",
+      "mediumTitle": "US Supreme Court on AI Art",
+      "longTitle": "AI-Generated Art Not Copyrightable",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The courts determined that \u0027authorship\u0027",
+            "in copyright law requires human creative",
+            "input.",
+            "The legal precedent established is that",
+            "AI-generated works lacking demonstrable",
+            "human authorship are not copyrightable",
+            "in the US.",
+            "On Monday, the US Supreme Court decided",
+            "not to hear *Thaler v. Perlmutter*, a",
+            "case concerning AI-generated artwork",
+            "copyright.",
+            "This decision does not impact copyright",
+            "issues related to works *assisted* by",
+            "AI, where humans have creative control.",
+            "The Supreme Court\u2019s refusal to hear the",
+            "case leaves the existing legal framework",
+            "regarding AI and copyright unchanged.",
+            "The case specifically addresses works",
+            "created *solely* by an AI system,",
+            "without human intervention."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-02T13:58:05.000Z",
+      "ranking": 7.625,
+      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
+    },
+    {
       "id": "952",
       "topic": "Vision, NLP, Large Models",
       "source": "Marktechpost AI",
@@ -107,7 +180,7 @@
         }
       ],
       "publishedAt": "2026-03-01T10:16:26.000Z",
-      "ranking": 6.461011113496921,
+      "ranking": 6.011969336557769,
       "articleUrl": "https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/"
     },
     {
@@ -144,7 +217,7 @@
         }
       ],
       "publishedAt": "2026-02-28T03:18:20.000Z",
-      "ranking": 1.1747363058227371,
+      "ranking": 0.29460219789533504,
       "articleUrl": "https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/"
     },
     {
@@ -179,7 +252,7 @@
         }
       ],
       "publishedAt": "2026-02-28T00:56:00.000Z",
-      "ranking": 0.47887346744018267,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/27/how-to-build-interactive-geospatial-dashboards-using-folium-with-heatmaps-choropleths-time-animation-marker-clustering-and-advanced-interactive-plugins/"
     },
     {
@@ -614,41 +687,6 @@
       "articleUrl": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure"
     },
     {
-      "id": "917",
-      "topic": "NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Alexa Styles",
-      "mediumTitle": "Alexa Gets a Personality",
-      "longTitle": "Amazon Adds Personality Options to Alexa",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Amazon is introducing new personality",
-            "style options for Alexa, allowing Alexa",
-            "Plus users in the US to customize the AI",
-            "assistant\u2019s conversational behavior.",
-            "Three presets are now available:",
-            "\u201CConcise,\u201D \u201CCheerful,\u201D and \u201CRelaxed.\u201D",
-            "These options give users greater control",
-            "over how Alexa responds and interacts",
-            "with them.",
-            "The \u201CConcise\u201D option makes Alexa\u2019s",
-            "responses shorter and more direct.",
-            "\u201CCheerful\u201D aims to make Alexa\u2019s",
-            "responses more upbeat and positive.",
-            "The \u201CRelaxed\u201D style provides a more",
-            "laid-back and conversational",
-            "interaction.",
-            "This feature is currently limited to",
-            "US-based Alexa Plus subscribers."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-25T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability"
-    },
-    {
       "id": "918",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -682,6 +720,41 @@
       "publishedAt": "2026-02-25T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut"
+    },
+    {
+      "id": "917",
+      "topic": "NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Alexa Styles",
+      "mediumTitle": "Alexa Gets a Personality",
+      "longTitle": "Amazon Adds Personality Options to Alexa",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon is introducing new personality",
+            "style options for Alexa, allowing Alexa",
+            "Plus users in the US to customize the AI",
+            "assistant\u2019s conversational behavior.",
+            "Three presets are now available:",
+            "\u201CConcise,\u201D \u201CCheerful,\u201D and \u201CRelaxed.\u201D",
+            "These options give users greater control",
+            "over how Alexa responds and interacts",
+            "with them.",
+            "The \u201CConcise\u201D option makes Alexa\u2019s",
+            "responses shorter and more direct.",
+            "\u201CCheerful\u201D aims to make Alexa\u2019s",
+            "responses more upbeat and positive.",
+            "The \u201CRelaxed\u201D style provides a more",
+            "laid-back and conversational",
+            "interaction.",
+            "This feature is currently limited to",
+            "US-based Alexa Plus subscribers."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-25T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability"
     },
     {
       "id": "912",
