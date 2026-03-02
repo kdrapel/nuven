@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "958",
+      "topic": "Large Models, NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Apple \u0026 Google",
+      "mediumTitle": "Apple Considers Google Cloud",
+      "longTitle": "Apple Explores Google Server Partnership",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Apple is exploring a partnership with",
+            "Google to potentially utilize Google\u0027s",
+            "server infrastructure for storing data",
+            "related to an upgraded, Gemini-powered",
+            "version of Siri.",
+            "A key requirement is that Google adheres",
+            "to Apple\u2019s strict privacy standards",
+            "throughout the process.",
+            "Maintaining user privacy remains a",
+            "central focus of the potential",
+            "partnership.",
+            "Apple is seeking Google\u2019s assistance in",
+            "providing the necessary server capacity",
+            "to support the new Siri\u2019s",
+            "functionalities.",
+            "This collaboration comes after Apple\u2019s",
+            "January announcement regarding the",
+            "integration of Google\u2019s Gemini AI models",
+            "into the next iteration of Siri."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-02T16:22:33.000Z",
+      "ranking": 8.075000000000001,
+      "articleUrl": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers"
+    },
+    {
       "id": "956",
       "topic": "Hardware",
       "source": "The Verge AI",
@@ -74,6 +110,42 @@
       "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
     },
     {
+      "id": "957",
+      "topic": "Large Models",
+      "source": "The Verge AI",
+      "shortTitle": "Claude Update",
+      "mediumTitle": "Anthropic Boosts Claude",
+      "longTitle": "Claude AI Improves Memory \u0026 Data Import",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Anthropic upgraded Claude to compete",
+            "with platforms like OpenAI\u2019s ChatGPT.",
+            "Previously, Claude\u2019s extended memory was",
+            "restricted to paid subscribers.",
+            "The extended memory allows Claude to",
+            "recall details from larger contexts than",
+            "many other chatbots.",
+            "Users can now benefit from Claude\u2019s",
+            "improved memory regardless of their",
+            "subscription level.",
+            "The new prompt guides users on",
+            "formatting and pasting previous chats",
+            "into Claude.",
+            "The updates also simplify the process of",
+            "migrating data from other chatbots.",
+            "The upgrades aim to reduce barriers to",
+            "entry for potential Claude users.",
+            "The changes focus on enhancing Claude\u2019s",
+            "memory capabilities."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-02T18:29:46.000Z",
+      "ranking": 7.43,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing"
+    },
+    {
       "id": "952",
       "topic": "Vision, NLP, Large Models",
       "source": "Marktechpost AI",
@@ -109,6 +181,42 @@
       "publishedAt": "2026-03-02T07:38:48.000Z",
       "ranking": 7.22375,
       "articleUrl": "https://www.marktechpost.com/2026/03/01/fireredteam-releases-firered-ocr-2b-utilizing-grpo-to-solve-structural-hallucinations-in-tables-and-latex-for-software-developers/"
+    },
+    {
+      "id": "959",
+      "topic": "Art, Ethics, Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Art Rights",
+      "mediumTitle": "US Court: No Copyright for AI Art",
+      "longTitle": "Supreme Court Upholds AI Art Copyright Ruling",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This means artwork created solely by",
+            "artificial intelligence, without",
+            "sufficient human contribution, cannot be",
+            "copyrighted in the United States.",
+            "The Supreme Court\u2019s decision not to",
+            "review the case effectively upholds the",
+            "existing legal framework regarding",
+            "AI-generated art and copyright.",
+            "The Supreme Court\u2019s inaction leaves the",
+            "lower court rulings in place,",
+            "establishing a clear precedent.",
+            "The courts have consistently maintained",
+            "that human involvement is essential for",
+            "a work to be protected by copyright.",
+            "The ruling clarifies that simply using",
+            "an AI tool does not automatically grant",
+            "copyright to the resulting work.",
+            "This decision impacts the growing field",
+            "of AI art and its legal status."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-02T13:58:05.000Z",
+      "ranking": 7.155,
+      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
     },
     {
       "id": "953",
@@ -180,7 +288,7 @@
         }
       ],
       "publishedAt": "2026-03-01T10:16:26.000Z",
-      "ranking": 6.011969336557769,
+      "ranking": 5.500504267824992,
       "articleUrl": "https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/"
     },
     {
@@ -217,7 +325,7 @@
         }
       ],
       "publishedAt": "2026-02-28T03:18:20.000Z",
-      "ranking": 0.29460219789533504,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/"
     },
     {
@@ -687,41 +795,6 @@
       "articleUrl": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure"
     },
     {
-      "id": "918",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Adobe AI Edit",
-      "mediumTitle": "Adobe\u0027s Quick Cut Beta",
-      "longTitle": "Adobe Firefly\u0027s Quick Cut: AI Video Editing",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Adobe is releasing \u0027Quick Cut\u0027 within",
-            "its Firefly video editor as a new",
-            "AI-powered tool.",
-            "The primary goal of Quick Cut is to",
-            "streamline the video editing process and",
-            "accelerate production.",
-            "Editors can concentrate on the creative",
-            "aspects of storytelling with the help of",
-            "this new tool.",
-            "Editors can then refine and build upon",
-            "the AI-generated rough cut to create the",
-            "final video.",
-            "The tool reduces the time spent on the",
-            "initial arrangement of video clips.",
-            "The rapid creation of a rough cut is a",
-            "core benefit of using Quick Cut.",
-            "Text prompts are a key input method for",
-            "directing the AI\u0027s clip selection."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-25T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut"
-    },
-    {
       "id": "917",
       "topic": "NLP",
       "source": "The Verge AI",
@@ -755,6 +828,41 @@
       "publishedAt": "2026-02-25T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability"
+    },
+    {
+      "id": "918",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Adobe AI Edit",
+      "mediumTitle": "Adobe\u0027s Quick Cut Beta",
+      "longTitle": "Adobe Firefly\u0027s Quick Cut: AI Video Editing",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Adobe is releasing \u0027Quick Cut\u0027 within",
+            "its Firefly video editor as a new",
+            "AI-powered tool.",
+            "The primary goal of Quick Cut is to",
+            "streamline the video editing process and",
+            "accelerate production.",
+            "Editors can concentrate on the creative",
+            "aspects of storytelling with the help of",
+            "this new tool.",
+            "Editors can then refine and build upon",
+            "the AI-generated rough cut to create the",
+            "final video.",
+            "The tool reduces the time spent on the",
+            "initial arrangement of video clips.",
+            "The rapid creation of a rough cut is a",
+            "core benefit of using Quick Cut.",
+            "Text prompts are a key input method for",
+            "directing the AI\u0027s clip selection."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-25T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut"
     },
     {
       "id": "912",
@@ -792,80 +900,6 @@
       "publishedAt": "2026-02-25T00:12:32.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/24/a-coding-implementation-to-simulate-practical-byzantine-fault-tolerance-with-asyncio-malicious-nodes-and-latency-analysis/"
-    },
-    {
-      "id": "910",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI Wins",
-      "mediumTitle": "xAI Lawsuit Dismissed",
-      "longTitle": "OpenAI Defeats xAI\u0027s Trade Secret Claim",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI successfully defended against the",
-            "claims of employee poaching and trade",
-            "secret theft in a US District Court.",
-            "The dismissal \u0027with leave to amend\u0027",
-            "allows xAI to revise and resubmit its",
-            "lawsuit.",
-            "xAI must now provide more specific",
-            "evidence to support its allegations.",
-            "xAI alleged that the recruited employees",
-            "possessed proprietary knowledge that",
-            "could give OpenAI a competitive edge.",
-            "The judge did not rule on the merits of",
-            "xAI\u2019s claims, only on the adequacy of",
-            "the initial filing.",
-            "This outcome does not definitively",
-            "resolve the dispute between OpenAI and",
-            "xAI.",
-            "The lawsuit was filed by xAI, the",
-            "artificial intelligence company founded",
-            "by Elon Musk."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-24T19:05:28.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit"
-    },
-    {
-      "id": "908",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "Claude Update",
-      "mediumTitle": "Anthropic Expands Claude",
-      "longTitle": "Claude Cowork Gains New Integrations",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Specifically, Claude Cowork now",
-            "integrates with Google Workspace,",
-            "DocuSign, and WordPress.",
-            "Anthropic has released updates to its",
-            "Claude Cowork platform, expanding its",
-            "capabilities within enterprise",
-            "environments.",
-            "The updates aim to position Claude",
-            "Cowork as a tool for handling routine",
-            "office work.",
-            "The key update involves increased",
-            "connectivity with commonly used office",
-            "applications.",
-            "Furthermore, Anthropic is introducing",
-            "pre-built plug-ins designed to automate",
-            "tasks across various professional",
-            "fields.",
-            "This suggests a focus on practical",
-            "application within established business",
-            "workflows."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-24T12:43:56.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates"
     }
   ]
 }
