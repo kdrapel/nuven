@@ -38,6 +38,79 @@
       "articleUrl": "https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/"
     },
     {
+      "id": "952",
+      "topic": "Vision, NLP, Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "FireRed-OCR",
+      "mediumTitle": "FireRed-OCR-2B Released",
+      "longTitle": "New LVLM Aims to Improve Document Parsing",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The core innovation behind",
+            "FireRed-OCR-2B is a technique called",
+            "GRPO, which aims to mitigate structural",
+            "hallucinations.",
+            "Large Vision-Language Models (LVLMs)",
+            "often struggle with accurately",
+            "reconstructing document structure,",
+            "leading to \u0027structural hallucinations\u0027.",
+            "These hallucinations can manifest as",
+            "disordered table rows, fabricated",
+            "formulas, and incorrect syntax within",
+            "documents.",
+            "FireRed-OCR-2B is designed to improve",
+            "parsing accuracy, particularly for",
+            "tables and LaTeX documents.",
+            "Traditional document digitization",
+            "involves layout detection, text",
+            "extraction, and structural",
+            "reconstruction, a process prone to",
+            "errors."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-02T07:38:48.000Z",
+      "ranking": 7.22375,
+      "articleUrl": "https://www.marktechpost.com/2026/03/01/fireredteam-releases-firered-ocr-2b-utilizing-grpo-to-solve-structural-hallucinations-in-tables-and-latex-for-software-developers/"
+    },
+    {
+      "id": "953",
+      "topic": "Model Eval",
+      "source": "Marktechpost AI",
+      "shortTitle": "XAI Pipeline",
+      "mediumTitle": "Building an Explainable AI",
+      "longTitle": "SHAP-IQ Pipeline for Model Insights",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This tutorial provides a step-by-step",
+            "guide on building an explainable AI",
+            "(XAI) pipeline.",
+            "The use of SHAP-IQ provides a",
+            "theoretically grounded approach to XAI.",
+            "Understanding feature importance is a",
+            "key goal of this XAI pipeline.",
+            "Model decision breakdowns are examined",
+            "to provide a deeper understanding of the",
+            "prediction process.",
+            "The tutorial also covers how to identify",
+            "and analyze interaction effects between",
+            "features.",
+            "A real-world dataset is utilized to",
+            "demonstrate the practical application of",
+            "the pipeline.",
+            "The tutorial is designed to be",
+            "practical, offering a hands-on approach",
+            "to building XAI pipelines."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-02T07:13:50.000Z",
+      "ranking": 6.834999999999999,
+      "articleUrl": "https://www.marktechpost.com/2026/03/01/how-to-build-an-explainable-ai-analysis-pipeline-using-shap-iq-to-understand-feature-importance-interaction-effects-and-model-decision-breakdown/"
+    },
+    {
       "id": "944",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -71,7 +144,7 @@
         }
       ],
       "publishedAt": "2026-02-28T03:18:20.000Z",
-      "ranking": 3.4716213276615893,
+      "ranking": 2.7636162595814167,
       "articleUrl": "https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/"
     },
     {
@@ -106,7 +179,7 @@
         }
       ],
       "publishedAt": "2026-02-28T00:56:00.000Z",
-      "ranking": 2.874407704378444,
+      "ranking": 2.1336213925606646,
       "articleUrl": "https://www.marktechpost.com/2026/02/27/how-to-build-interactive-geospatial-dashboards-using-folium-with-heatmaps-choropleths-time-animation-marker-clustering-and-advanced-interactive-plugins/"
     },
     {
@@ -141,7 +214,7 @@
         }
       ],
       "publishedAt": "2026-02-27T22:19:16.000Z",
-      "ranking": 1.3593813176844938,
+      "ranking": 0.5824972474650192,
       "articleUrl": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff"
     },
     {
@@ -178,43 +251,8 @@
         }
       ],
       "publishedAt": "2026-02-27T18:53:54.000Z",
-      "ranking": 0.9495439556145353,
+      "ranking": 0.125361225342556,
       "articleUrl": "https://www.marktechpost.com/2026/02/27/sakana-ai-introduces-doc-to-lora-and-text-to-lora-hypernetworks-that-instantly-internalize-long-contexts-and-adapt-llms-via-zero-shot-natural-language/"
-    },
-    {
-      "id": "939",
-      "topic": "Ethics, Security, Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Pentagon",
-      "mediumTitle": "Anthropic Faces Pentagon Pressure",
-      "longTitle": "Pentagon Demands Access to Anthropic\u0027s AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A key concern is the development of",
-            "fully autonomous lethal weapons, often",
-            "called \u201Ckiller robots\u201D.",
-            "This case represents a critical moment",
-            "in deciding the future of unsupervised,",
-            "lethal autonomous weapons.",
-            "The Pentagon is employing a pressure",
-            "tactic by threatening Anthropic\u2019s",
-            "financial viability.",
-            "The outcome of this situation could set",
-            "a precedent for how the U.S. military",
-            "interacts with AI companies.",
-            "The unrestricted access sought by the",
-            "Pentagon extends to potentially",
-            "utilizing the AI for mass surveillance.",
-            "The situation involves a direct conflict",
-            "between the Pentagon\u2019s demands and",
-            "Anthropic\u2019s ethical considerations."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-27T12:18:26.000Z",
-      "ranking": 0.374704360098157,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react"
     },
     {
       "id": "938",
@@ -250,8 +288,43 @@
         }
       ],
       "publishedAt": "2026-02-27T13:16:53.000Z",
-      "ranking": 0.24581600561698824,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines"
+    },
+    {
+      "id": "939",
+      "topic": "Ethics, Security, Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Pentagon",
+      "mediumTitle": "Anthropic Faces Pentagon Pressure",
+      "longTitle": "Pentagon Demands Access to Anthropic\u0027s AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A key concern is the development of",
+            "fully autonomous lethal weapons, often",
+            "called \u201Ckiller robots\u201D.",
+            "This case represents a critical moment",
+            "in deciding the future of unsupervised,",
+            "lethal autonomous weapons.",
+            "The Pentagon is employing a pressure",
+            "tactic by threatening Anthropic\u2019s",
+            "financial viability.",
+            "The outcome of this situation could set",
+            "a precedent for how the U.S. military",
+            "interacts with AI companies.",
+            "The unrestricted access sought by the",
+            "Pentagon extends to potentially",
+            "utilizing the AI for mass surveillance.",
+            "The situation involves a direct conflict",
+            "between the Pentagon\u2019s demands and",
+            "Anthropic\u2019s ethical considerations."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-27T12:18:26.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react"
     },
     {
       "id": "937",
