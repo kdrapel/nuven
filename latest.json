@@ -1,43 +1,6 @@
 {
   "articles": [
     {
-      "id": "948",
-      "topic": "Dev Tools, Model Eval, Tuning",
-      "source": "Marktechpost AI",
-      "shortTitle": "MLflow Guide",
-      "mediumTitle": "MLflow Workflow Tutorial",
-      "longTitle": "Complete MLflow Workflow for ML Lifecycle",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article details a complete machine",
-            "learning workflow built using MLflow.",
-            "This workflow encompasses experiment",
-            "tracking, hyperparameter optimization,",
-            "model evaluation, and live model",
-            "deployment.",
-            "The article demonstrates deployment of",
-            "the best model for live prediction.",
-            "Logging of parameters, metrics, and",
-            "artifacts is automated for each run.",
-            "The core workflow involves training",
-            "multiple machine learning models.",
-            "A dedicated MLflow Tracking Server is",
-            "set up with a structured backend and",
-            "artifact store.",
-            "A nested hyperparameter sweep is used to",
-            "automate the training process.",
-            "The Tracking Server is designed for",
-            "scalable and reproducible experiment",
-            "tracking."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-01T10:16:26.000Z",
-      "ranking": 8.05,
-      "articleUrl": "https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/"
-    },
-    {
       "id": "952",
       "topic": "Vision, NLP, Large Models",
       "source": "Marktechpost AI",
@@ -73,6 +36,43 @@
       "publishedAt": "2026-03-02T07:38:48.000Z",
       "ranking": 7.22375,
       "articleUrl": "https://www.marktechpost.com/2026/03/01/fireredteam-releases-firered-ocr-2b-utilizing-grpo-to-solve-structural-hallucinations-in-tables-and-latex-for-software-developers/"
+    },
+    {
+      "id": "948",
+      "topic": "Dev Tools, Model Eval, Tuning",
+      "source": "Marktechpost AI",
+      "shortTitle": "MLflow Guide",
+      "mediumTitle": "MLflow Workflow Tutorial",
+      "longTitle": "Complete MLflow Workflow for ML Lifecycle",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article details a complete machine",
+            "learning workflow built using MLflow.",
+            "This workflow encompasses experiment",
+            "tracking, hyperparameter optimization,",
+            "model evaluation, and live model",
+            "deployment.",
+            "The article demonstrates deployment of",
+            "the best model for live prediction.",
+            "Logging of parameters, metrics, and",
+            "artifacts is automated for each run.",
+            "The core workflow involves training",
+            "multiple machine learning models.",
+            "A dedicated MLflow Tracking Server is",
+            "set up with a structured backend and",
+            "artifact store.",
+            "A nested hyperparameter sweep is used to",
+            "automate the training process.",
+            "The Tracking Server is designed for",
+            "scalable and reproducible experiment",
+            "tracking."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-01T10:16:26.000Z",
+      "ranking": 6.857407489249816,
+      "articleUrl": "https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/"
     },
     {
       "id": "953",
@@ -144,7 +144,7 @@
         }
       ],
       "publishedAt": "2026-02-28T03:18:20.000Z",
-      "ranking": 2.7636162595814167,
+      "ranking": 2.0059595114676636,
       "articleUrl": "https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/"
     },
     {
@@ -179,7 +179,7 @@
         }
       ],
       "publishedAt": "2026-02-28T00:56:00.000Z",
-      "ranking": 2.1336213925606646,
+      "ranking": 1.3434050806487727,
       "articleUrl": "https://www.marktechpost.com/2026/02/27/how-to-build-interactive-geospatial-dashboards-using-folium-with-heatmaps-choropleths-time-animation-marker-clustering-and-advanced-interactive-plugins/"
     },
     {
@@ -214,7 +214,7 @@
         }
       ],
       "publishedAt": "2026-02-27T22:19:16.000Z",
-      "ranking": 0.5824972474650192,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff"
     },
     {
@@ -251,7 +251,7 @@
         }
       ],
       "publishedAt": "2026-02-27T18:53:54.000Z",
-      "ranking": 0.125361225342556,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/27/sakana-ai-introduces-doc-to-lora-and-text-to-lora-hypernetworks-that-instantly-internalize-long-contexts-and-adapt-llms-via-zero-shot-natural-language/"
     },
     {
@@ -614,41 +614,6 @@
       "articleUrl": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure"
     },
     {
-      "id": "917",
-      "topic": "NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Alexa Styles",
-      "mediumTitle": "Alexa Gets a Personality",
-      "longTitle": "Amazon Adds Personality Options to Alexa",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Amazon is introducing new personality",
-            "style options for Alexa, allowing Alexa",
-            "Plus users in the US to customize the AI",
-            "assistant\u2019s conversational behavior.",
-            "Three presets are now available:",
-            "\u201CConcise,\u201D \u201CCheerful,\u201D and \u201CRelaxed.\u201D",
-            "These options give users greater control",
-            "over how Alexa responds and interacts",
-            "with them.",
-            "The \u201CConcise\u201D option makes Alexa\u2019s",
-            "responses shorter and more direct.",
-            "\u201CCheerful\u201D aims to make Alexa\u2019s",
-            "responses more upbeat and positive.",
-            "The \u201CRelaxed\u201D style provides a more",
-            "laid-back and conversational",
-            "interaction.",
-            "This feature is currently limited to",
-            "US-based Alexa Plus subscribers."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-25T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability"
-    },
-    {
       "id": "918",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -682,6 +647,41 @@
       "publishedAt": "2026-02-25T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut"
+    },
+    {
+      "id": "917",
+      "topic": "NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Alexa Styles",
+      "mediumTitle": "Alexa Gets a Personality",
+      "longTitle": "Amazon Adds Personality Options to Alexa",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon is introducing new personality",
+            "style options for Alexa, allowing Alexa",
+            "Plus users in the US to customize the AI",
+            "assistant\u2019s conversational behavior.",
+            "Three presets are now available:",
+            "\u201CConcise,\u201D \u201CCheerful,\u201D and \u201CRelaxed.\u201D",
+            "These options give users greater control",
+            "over how Alexa responds and interacts",
+            "with them.",
+            "The \u201CConcise\u201D option makes Alexa\u2019s",
+            "responses shorter and more direct.",
+            "\u201CCheerful\u201D aims to make Alexa\u2019s",
+            "responses more upbeat and positive.",
+            "The \u201CRelaxed\u201D style provides a more",
+            "laid-back and conversational",
+            "interaction.",
+            "This feature is currently limited to",
+            "US-based Alexa Plus subscribers."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-25T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability"
     },
     {
       "id": "912",
