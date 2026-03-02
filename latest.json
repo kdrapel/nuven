@@ -38,43 +38,6 @@
       "articleUrl": "https://www.marktechpost.com/2026/03/01/fireredteam-releases-firered-ocr-2b-utilizing-grpo-to-solve-structural-hallucinations-in-tables-and-latex-for-software-developers/"
     },
     {
-      "id": "948",
-      "topic": "Dev Tools, Model Eval, Tuning",
-      "source": "Marktechpost AI",
-      "shortTitle": "MLflow Guide",
-      "mediumTitle": "MLflow Workflow Tutorial",
-      "longTitle": "Complete MLflow Workflow for ML Lifecycle",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article details a complete machine",
-            "learning workflow built using MLflow.",
-            "This workflow encompasses experiment",
-            "tracking, hyperparameter optimization,",
-            "model evaluation, and live model",
-            "deployment.",
-            "The article demonstrates deployment of",
-            "the best model for live prediction.",
-            "Logging of parameters, metrics, and",
-            "artifacts is automated for each run.",
-            "The core workflow involves training",
-            "multiple machine learning models.",
-            "A dedicated MLflow Tracking Server is",
-            "set up with a structured backend and",
-            "artifact store.",
-            "A nested hyperparameter sweep is used to",
-            "automate the training process.",
-            "The Tracking Server is designed for",
-            "scalable and reproducible experiment",
-            "tracking."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-01T10:16:26.000Z",
-      "ranking": 6.857407489249816,
-      "articleUrl": "https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/"
-    },
-    {
       "id": "953",
       "topic": "Model Eval",
       "source": "Marktechpost AI",
@@ -111,6 +74,43 @@
       "articleUrl": "https://www.marktechpost.com/2026/03/01/how-to-build-an-explainable-ai-analysis-pipeline-using-shap-iq-to-understand-feature-importance-interaction-effects-and-model-decision-breakdown/"
     },
     {
+      "id": "948",
+      "topic": "Dev Tools, Model Eval, Tuning",
+      "source": "Marktechpost AI",
+      "shortTitle": "MLflow Guide",
+      "mediumTitle": "MLflow Workflow Tutorial",
+      "longTitle": "Complete MLflow Workflow for ML Lifecycle",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article details a complete machine",
+            "learning workflow built using MLflow.",
+            "This workflow encompasses experiment",
+            "tracking, hyperparameter optimization,",
+            "model evaluation, and live model",
+            "deployment.",
+            "The article demonstrates deployment of",
+            "the best model for live prediction.",
+            "Logging of parameters, metrics, and",
+            "artifacts is automated for each run.",
+            "The core workflow involves training",
+            "multiple machine learning models.",
+            "A dedicated MLflow Tracking Server is",
+            "set up with a structured backend and",
+            "artifact store.",
+            "A nested hyperparameter sweep is used to",
+            "automate the training process.",
+            "The Tracking Server is designed for",
+            "scalable and reproducible experiment",
+            "tracking."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-01T10:16:26.000Z",
+      "ranking": 6.461011113496921,
+      "articleUrl": "https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/"
+    },
+    {
       "id": "944",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -144,7 +144,7 @@
         }
       ],
       "publishedAt": "2026-02-28T03:18:20.000Z",
-      "ranking": 2.0059595114676636,
+      "ranking": 1.1747363058227371,
       "articleUrl": "https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/"
     },
     {
@@ -179,7 +179,7 @@
         }
       ],
       "publishedAt": "2026-02-28T00:56:00.000Z",
-      "ranking": 1.3434050806487727,
+      "ranking": 0.47887346744018267,
       "articleUrl": "https://www.marktechpost.com/2026/02/27/how-to-build-interactive-geospatial-dashboards-using-folium-with-heatmaps-choropleths-time-animation-marker-clustering-and-advanced-interactive-plugins/"
     },
     {
@@ -614,41 +614,6 @@
       "articleUrl": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure"
     },
     {
-      "id": "918",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Adobe AI Edit",
-      "mediumTitle": "Adobe\u0027s Quick Cut Beta",
-      "longTitle": "Adobe Firefly\u0027s Quick Cut: AI Video Editing",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Adobe is releasing \u0027Quick Cut\u0027 within",
-            "its Firefly video editor as a new",
-            "AI-powered tool.",
-            "The primary goal of Quick Cut is to",
-            "streamline the video editing process and",
-            "accelerate production.",
-            "Editors can concentrate on the creative",
-            "aspects of storytelling with the help of",
-            "this new tool.",
-            "Editors can then refine and build upon",
-            "the AI-generated rough cut to create the",
-            "final video.",
-            "The tool reduces the time spent on the",
-            "initial arrangement of video clips.",
-            "The rapid creation of a rough cut is a",
-            "core benefit of using Quick Cut.",
-            "Text prompts are a key input method for",
-            "directing the AI\u0027s clip selection."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-25T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut"
-    },
-    {
       "id": "917",
       "topic": "NLP",
       "source": "The Verge AI",
@@ -682,6 +647,41 @@
       "publishedAt": "2026-02-25T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability"
+    },
+    {
+      "id": "918",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Adobe AI Edit",
+      "mediumTitle": "Adobe\u0027s Quick Cut Beta",
+      "longTitle": "Adobe Firefly\u0027s Quick Cut: AI Video Editing",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Adobe is releasing \u0027Quick Cut\u0027 within",
+            "its Firefly video editor as a new",
+            "AI-powered tool.",
+            "The primary goal of Quick Cut is to",
+            "streamline the video editing process and",
+            "accelerate production.",
+            "Editors can concentrate on the creative",
+            "aspects of storytelling with the help of",
+            "this new tool.",
+            "Editors can then refine and build upon",
+            "the AI-generated rough cut to create the",
+            "final video.",
+            "The tool reduces the time spent on the",
+            "initial arrangement of video clips.",
+            "The rapid creation of a rough cut is a",
+            "core benefit of using Quick Cut.",
+            "Text prompts are a key input method for",
+            "directing the AI\u0027s clip selection."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-25T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut"
     },
     {
       "id": "912",
@@ -793,43 +793,6 @@
       "publishedAt": "2026-02-24T12:43:56.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates"
-    },
-    {
-      "id": "905",
-      "topic": "Music, Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Google Buys AI",
-      "mediumTitle": "Google Acquires ProducerAI",
-      "longTitle": "Google Acquires AI Music Platform ProducerAI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google has acquired ProducerAI, an AI",
-            "music production platform, to enhance",
-            "its AI-powered music creation",
-            "capabilities.",
-            "A preview version of Google\u2019s Lyria 3 AI",
-            "model will be used for music generation",
-            "within the integrated system.",
-            "ProducerAI enables users to work",
-            "alongside an AI agent to develop and",
-            "improve musical concepts and sounds.",
-            "The platform will be incorporated into",
-            "Google Labs, Google\u2019s experimental",
-            "division.",
-            "This acquisition is intended to",
-            "strengthen Google\u2019s position in the",
-            "rapidly evolving field of AI-driven",
-            "music tools.",
-            "The move indicates Google\u2019s continued",
-            "investment in artificial intelligence",
-            "and its applications in creative fields."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-24T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/883307/google-producerai-deal-music"
     }
   ]
 }
