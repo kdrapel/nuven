@@ -219,6 +219,41 @@
       "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
     },
     {
+      "id": "961",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Alibaba Qwen3.5",
+      "mediumTitle": "Alibaba Releases Qwen3.5 LLMs",
+      "longTitle": "Alibaba\u0027s Qwen3.5 Small Model Series Released",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The core philosophy behind Qwen3.5 is to",
+            "maximize intelligence while minimizing",
+            "the computational resources required.",
+            "The models are designed to be deployed",
+            "in resource-constrained environments,",
+            "making them suitable for a wider range",
+            "of applications.",
+            "A key target application for these",
+            "models is on-device deployment, enabling",
+            "AI functionality directly on user",
+            "devices.",
+            "This approach contrasts with the common",
+            "industry practice of continually",
+            "increasing parameter counts to achieve",
+            "performance gains.",
+            "Alibaba\u2019s Qwen team is responsible for",
+            "the development and release of the",
+            "Qwen3.5 Small Model Series."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-03T03:21:07.000Z",
+      "ranking": 6.914999999999999,
+      "articleUrl": "https://www.marktechpost.com/2026/03/02/alibaba-just-released-qwen-3-5-small-models-a-family-of-0-8b-to-9b-parameters-built-for-on-device-applications/"
+    },
+    {
       "id": "953",
       "topic": "Model Eval",
       "source": "Marktechpost AI",
@@ -288,7 +323,7 @@
         }
       ],
       "publishedAt": "2026-03-01T10:16:26.000Z",
-      "ranking": 5.500504267824992,
+      "ranking": 4.946619298047594,
       "articleUrl": "https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/"
     },
     {
@@ -795,41 +830,6 @@
       "articleUrl": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure"
     },
     {
-      "id": "917",
-      "topic": "NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Alexa Styles",
-      "mediumTitle": "Alexa Gets a Personality",
-      "longTitle": "Amazon Adds Personality Options to Alexa",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Amazon is introducing new personality",
-            "style options for Alexa, allowing Alexa",
-            "Plus users in the US to customize the AI",
-            "assistant\u2019s conversational behavior.",
-            "Three presets are now available:",
-            "\u201CConcise,\u201D \u201CCheerful,\u201D and \u201CRelaxed.\u201D",
-            "These options give users greater control",
-            "over how Alexa responds and interacts",
-            "with them.",
-            "The \u201CConcise\u201D option makes Alexa\u2019s",
-            "responses shorter and more direct.",
-            "\u201CCheerful\u201D aims to make Alexa\u2019s",
-            "responses more upbeat and positive.",
-            "The \u201CRelaxed\u201D style provides a more",
-            "laid-back and conversational",
-            "interaction.",
-            "This feature is currently limited to",
-            "US-based Alexa Plus subscribers."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-25T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability"
-    },
-    {
       "id": "918",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -863,6 +863,41 @@
       "publishedAt": "2026-02-25T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut"
+    },
+    {
+      "id": "917",
+      "topic": "NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Alexa Styles",
+      "mediumTitle": "Alexa Gets a Personality",
+      "longTitle": "Amazon Adds Personality Options to Alexa",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon is introducing new personality",
+            "style options for Alexa, allowing Alexa",
+            "Plus users in the US to customize the AI",
+            "assistant\u2019s conversational behavior.",
+            "Three presets are now available:",
+            "\u201CConcise,\u201D \u201CCheerful,\u201D and \u201CRelaxed.\u201D",
+            "These options give users greater control",
+            "over how Alexa responds and interacts",
+            "with them.",
+            "The \u201CConcise\u201D option makes Alexa\u2019s",
+            "responses shorter and more direct.",
+            "\u201CCheerful\u201D aims to make Alexa\u2019s",
+            "responses more upbeat and positive.",
+            "The \u201CRelaxed\u201D style provides a more",
+            "laid-back and conversational",
+            "interaction.",
+            "This feature is currently limited to",
+            "US-based Alexa Plus subscribers."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-25T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability"
     },
     {
       "id": "912",
