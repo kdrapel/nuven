@@ -38,40 +38,39 @@
       "articleUrl": "https://www.marktechpost.com/2026/03/02/a-coding-guide-to-build-a-scalable-end-to-end-analytics-and-machine-learning-pipeline-on-millions-of-rows-using-vaex/"
     },
     {
-      "id": "957",
-      "topic": "Large Models",
+      "id": "966",
+      "topic": "Security, Ethics",
       "source": "The Verge AI",
-      "shortTitle": "Claude Update",
-      "mediumTitle": "Anthropic Boosts Claude",
-      "longTitle": "Claude AI Improves Memory \u0026 Data Import",
+      "shortTitle": "Iran Strike",
+      "mediumTitle": "Online Iran Conflict Info",
+      "longTitle": "Verifying Visuals After Iran Reports",
       "paragraphs": [
         {
           "Lines": [
-            "Anthropic upgraded Claude to compete",
-            "with platforms like OpenAI\u2019s ChatGPT.",
-            "Previously, Claude\u2019s extended memory was",
-            "restricted to paid subscribers.",
-            "The extended memory allows Claude to",
-            "recall details from larger contexts than",
-            "many other chatbots.",
-            "Users can now benefit from Claude\u2019s",
-            "improved memory regardless of their",
-            "subscription level.",
-            "The new prompt guides users on",
-            "formatting and pasting previous chats",
-            "into Claude.",
-            "The updates also simplify the process of",
-            "migrating data from other chatbots.",
-            "The upgrades aim to reduce barriers to",
-            "entry for potential Claude users.",
-            "The changes focus on enhancing Claude\u2019s",
-            "memory capabilities."
+            "A significant portion of the shared",
+            "content is demonstrably false or",
+            "misleading.",
+            "The article focuses on the challenges of",
+            "verifying information, particularly",
+            "images and videos, circulating online",
+            "after a reported US-Israel military",
+            "strike on Iran.",
+            "Artificial Intelligence (AI) is being",
+            "used to create or alter images and",
+            "videos, contributing to the spread of",
+            "misinformation.",
+            "Sophisticated deepfake technology is",
+            "exacerbating the problem of",
+            "distinguishing real from fake content.",
+            "The spread of misleading visuals",
+            "complicates efforts to accurately assess",
+            "the situation on the ground in Iran."
           ]
         }
       ],
-      "publishedAt": "2026-03-02T18:29:46.000Z",
-      "ranking": 7.43,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing"
+      "publishedAt": "2026-03-03T14:22:12.000Z",
+      "ranking": 7.92,
+      "articleUrl": "https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway"
     },
     {
       "id": "963",
@@ -110,40 +109,39 @@
       "articleUrl": "https://www.marktechpost.com/2026/03/03/alibaba-releases-opensandbox-to-provide-software-developers-with-a-unified-secure-and-scalable-api-for-autonomous-ai-agent-execution/"
     },
     {
-      "id": "958",
-      "topic": "Large Models, NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Apple \u0026 Google",
-      "mediumTitle": "Apple Considers Google Cloud",
-      "longTitle": "Apple Explores Google Server Partnership",
+      "id": "967",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Gemini 3.1",
+      "mediumTitle": "Google Releases Gemini 3.1",
+      "longTitle": "Google Launches Cost-Efficient Gemini 3.1 Flash-Lite Model",
       "paragraphs": [
         {
           "Lines": [
-            "Apple is exploring a partnership with",
-            "Google to potentially utilize Google\u0027s",
-            "server infrastructure for storing data",
-            "related to an upgraded, Gemini-powered",
-            "version of Siri.",
-            "A key requirement is that Google adheres",
-            "to Apple\u2019s strict privacy standards",
-            "throughout the process.",
-            "Maintaining user privacy remains a",
-            "central focus of the potential",
-            "partnership.",
-            "Apple is seeking Google\u2019s assistance in",
-            "providing the necessary server capacity",
-            "to support the new Siri\u2019s",
-            "functionalities.",
-            "This collaboration comes after Apple\u2019s",
-            "January announcement regarding the",
-            "integration of Google\u2019s Gemini AI models",
-            "into the next iteration of Siri."
+            "Google\u2019s Gemini 3.1 Flash-Lite is the",
+            "most cost-efficient model within the",
+            "Gemini 3 family.",
+            "Gemini 3.1 Flash-Lite is specifically",
+            "engineered for \u201Cintelligence at scale,\u201D",
+            "meaning it\u2019s built for large-scale",
+            "applications.",
+            "The release of this model targets",
+            "high-volume AI tasks where cost and",
+            "speed are key factors.",
+            "Access to the model is provided through",
+            "both the Gemini API, accessible within",
+            "Google AI Studio, and Vertex AI.",
+            "The model focuses on applications that",
+            "require processing a large amount of",
+            "data quickly and cheaply.",
+            "Low latency is a key feature, ensuring",
+            "quick response times for applications."
           ]
         }
       ],
-      "publishedAt": "2026-03-02T16:22:33.000Z",
-      "ranking": 7.067259946664474,
-      "articleUrl": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers"
+      "publishedAt": "2026-03-03T19:28:09.000Z",
+      "ranking": 7.030000000000001,
+      "articleUrl": "https://www.marktechpost.com/2026/03/03/google-drops-gemini-3-1-flash-lite-a-cost-efficient-powerhouse-with-adjustable-thinking-levels-designed-for-high-scale-production-ai/"
     },
     {
       "id": "965",
@@ -217,6 +215,78 @@
       "articleUrl": "https://www.marktechpost.com/2026/03/02/alibaba-just-released-qwen-3-5-small-models-a-family-of-0-8b-to-9b-parameters-built-for-on-device-applications/"
     },
     {
+      "id": "958",
+      "topic": "Large Models, NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Apple \u0026 Google",
+      "mediumTitle": "Apple Considers Google Cloud",
+      "longTitle": "Apple Explores Google Server Partnership",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Apple is exploring a partnership with",
+            "Google to potentially utilize Google\u0027s",
+            "server infrastructure for storing data",
+            "related to an upgraded, Gemini-powered",
+            "version of Siri.",
+            "A key requirement is that Google adheres",
+            "to Apple\u2019s strict privacy standards",
+            "throughout the process.",
+            "Maintaining user privacy remains a",
+            "central focus of the potential",
+            "partnership.",
+            "Apple is seeking Google\u2019s assistance in",
+            "providing the necessary server capacity",
+            "to support the new Siri\u2019s",
+            "functionalities.",
+            "This collaboration comes after Apple\u2019s",
+            "January announcement regarding the",
+            "integration of Google\u2019s Gemini AI models",
+            "into the next iteration of Siri."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-02T16:22:33.000Z",
+      "ranking": 6.698570833929386,
+      "articleUrl": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers"
+    },
+    {
+      "id": "957",
+      "topic": "Large Models",
+      "source": "The Verge AI",
+      "shortTitle": "Claude Update",
+      "mediumTitle": "Anthropic Boosts Claude",
+      "longTitle": "Claude AI Improves Memory \u0026 Data Import",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Anthropic upgraded Claude to compete",
+            "with platforms like OpenAI\u2019s ChatGPT.",
+            "Previously, Claude\u2019s extended memory was",
+            "restricted to paid subscribers.",
+            "The extended memory allows Claude to",
+            "recall details from larger contexts than",
+            "many other chatbots.",
+            "Users can now benefit from Claude\u2019s",
+            "improved memory regardless of their",
+            "subscription level.",
+            "The new prompt guides users on",
+            "formatting and pasting previous chats",
+            "into Claude.",
+            "The updates also simplify the process of",
+            "migrating data from other chatbots.",
+            "The upgrades aim to reduce barriers to",
+            "entry for potential Claude users.",
+            "The changes focus on enhancing Claude\u2019s",
+            "memory capabilities."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-02T18:29:46.000Z",
+      "ranking": 6.253060827229497,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing"
+    },
+    {
       "id": "956",
       "topic": "Hardware",
       "source": "The Verge AI",
@@ -249,7 +319,7 @@
         }
       ],
       "publishedAt": "2026-03-02T12:56:49.000Z",
-      "ranking": 6.53045810464771,
+      "ranking": 6.113378625676589,
       "articleUrl": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent"
     },
     {
@@ -286,7 +356,7 @@
         }
       ],
       "publishedAt": "2026-03-02T13:58:05.000Z",
-      "ranking": 6.405771847165768,
+      "ranking": 6.003102850888023,
       "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
     },
     {
@@ -322,7 +392,7 @@
         }
       ],
       "publishedAt": "2026-03-02T13:58:05.000Z",
-      "ranking": 5.93577184432351,
+      "ranking": 5.533102847645221,
       "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
     },
     {
@@ -359,7 +429,7 @@
         }
       ],
       "publishedAt": "2026-03-02T07:38:48.000Z",
-      "ranking": 5.3534808132107665,
+      "ranking": 4.861600893625726,
       "articleUrl": "https://www.marktechpost.com/2026/03/01/fireredteam-releases-firered-ocr-2b-utilizing-grpo-to-solve-structural-hallucinations-in-tables-and-latex-for-software-developers/"
     },
     {
@@ -395,7 +465,7 @@
         }
       ],
       "publishedAt": "2026-03-02T07:13:50.000Z",
-      "ranking": 4.917008176681514,
+      "ranking": 4.419255867392162,
       "articleUrl": "https://www.marktechpost.com/2026/03/01/how-to-build-an-explainable-ai-analysis-pipeline-using-shap-iq-to-understand-feature-importance-interaction-effects-and-model-decision-breakdown/"
     },
     {
@@ -432,7 +502,7 @@
         }
       ],
       "publishedAt": "2026-03-01T10:16:26.000Z",
-      "ranking": 2.950938036401917,
+      "ranking": 2.15743369884955,
       "articleUrl": "https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/"
     },
     {
@@ -937,41 +1007,6 @@
       "publishedAt": "2026-02-25T11:24:39.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure"
-    },
-    {
-      "id": "918",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Adobe AI Edit",
-      "mediumTitle": "Adobe\u0027s Quick Cut Beta",
-      "longTitle": "Adobe Firefly\u0027s Quick Cut: AI Video Editing",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Adobe is releasing \u0027Quick Cut\u0027 within",
-            "its Firefly video editor as a new",
-            "AI-powered tool.",
-            "The primary goal of Quick Cut is to",
-            "streamline the video editing process and",
-            "accelerate production.",
-            "Editors can concentrate on the creative",
-            "aspects of storytelling with the help of",
-            "this new tool.",
-            "Editors can then refine and build upon",
-            "the AI-generated rough cut to create the",
-            "final video.",
-            "The tool reduces the time spent on the",
-            "initial arrangement of video clips.",
-            "The rapid creation of a rough cut is a",
-            "core benefit of using Quick Cut.",
-            "Text prompts are a key input method for",
-            "directing the AI\u0027s clip selection."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-25T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut"
     }
   ]
 }
