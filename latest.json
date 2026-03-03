@@ -183,6 +183,42 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing"
     },
     {
+      "id": "963",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "Alibaba OpenSandbox",
+      "mediumTitle": "Alibaba Releases AI Tool",
+      "longTitle": "Alibaba Open-Sources OpenSandbox for AI Agents",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Alibaba has released OpenSandbox, an",
+            "open-source tool intended to provide AI",
+            "agents with secure and isolated",
+            "environments for various tasks.",
+            "These tasks include code execution, web",
+            "browsing, and model training.",
+            "The system is released under the Apache",
+            "2.0 license.",
+            "OpenSandbox aims to standardize the",
+            "\u201Cexecution layer\u201D within the AI agent",
+            "stack by offering a unified API.",
+            "This API is designed to be compatible",
+            "across different programming languages.",
+            "The goal is to provide a consistent and",
+            "scalable interface for developers",
+            "working with autonomous AI agents.",
+            "By providing isolated environments,",
+            "OpenSandbox enhances the security of AI",
+            "agent operations."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-03T09:32:06.000Z",
+      "ranking": 7.368,
+      "articleUrl": "https://www.marktechpost.com/2026/03/03/alibaba-releases-opensandbox-to-provide-software-developers-with-a-unified-secure-and-scalable-api-for-autonomous-ai-agent-execution/"
+    },
+    {
       "id": "959",
       "topic": "Art, Ethics, Policy",
       "source": "The Verge AI",
@@ -287,7 +323,7 @@
         }
       ],
       "publishedAt": "2026-03-02T07:38:48.000Z",
-      "ranking": 6.148112038014642,
+      "ranking": 5.7800617234015785,
       "articleUrl": "https://www.marktechpost.com/2026/03/01/fireredteam-releases-firered-ocr-2b-utilizing-grpo-to-solve-structural-hallucinations-in-tables-and-latex-for-software-developers/"
     },
     {
@@ -323,7 +359,7 @@
         }
       ],
       "publishedAt": "2026-03-02T07:13:50.000Z",
-      "ranking": 5.723097998548296,
+      "ranking": 5.349346749099958,
       "articleUrl": "https://www.marktechpost.com/2026/03/01/how-to-build-an-explainable-ai-analysis-pipeline-using-shap-iq-to-understand-feature-importance-interaction-effects-and-model-decision-breakdown/"
     },
     {
@@ -360,7 +396,7 @@
         }
       ],
       "publishedAt": "2026-03-01T10:16:26.000Z",
-      "ranking": 4.334118887235931,
+      "ranking": 3.6732506088963763,
       "articleUrl": "https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/"
     },
     {
@@ -867,41 +903,6 @@
       "articleUrl": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure"
     },
     {
-      "id": "917",
-      "topic": "NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Alexa Styles",
-      "mediumTitle": "Alexa Gets a Personality",
-      "longTitle": "Amazon Adds Personality Options to Alexa",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Amazon is introducing new personality",
-            "style options for Alexa, allowing Alexa",
-            "Plus users in the US to customize the AI",
-            "assistant\u2019s conversational behavior.",
-            "Three presets are now available:",
-            "\u201CConcise,\u201D \u201CCheerful,\u201D and \u201CRelaxed.\u201D",
-            "These options give users greater control",
-            "over how Alexa responds and interacts",
-            "with them.",
-            "The \u201CConcise\u201D option makes Alexa\u2019s",
-            "responses shorter and more direct.",
-            "\u201CCheerful\u201D aims to make Alexa\u2019s",
-            "responses more upbeat and positive.",
-            "The \u201CRelaxed\u201D style provides a more",
-            "laid-back and conversational",
-            "interaction.",
-            "This feature is currently limited to",
-            "US-based Alexa Plus subscribers."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-25T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability"
-    },
-    {
       "id": "918",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -935,6 +936,41 @@
       "publishedAt": "2026-02-25T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut"
+    },
+    {
+      "id": "917",
+      "topic": "NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Alexa Styles",
+      "mediumTitle": "Alexa Gets a Personality",
+      "longTitle": "Amazon Adds Personality Options to Alexa",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon is introducing new personality",
+            "style options for Alexa, allowing Alexa",
+            "Plus users in the US to customize the AI",
+            "assistant\u2019s conversational behavior.",
+            "Three presets are now available:",
+            "\u201CConcise,\u201D \u201CCheerful,\u201D and \u201CRelaxed.\u201D",
+            "These options give users greater control",
+            "over how Alexa responds and interacts",
+            "with them.",
+            "The \u201CConcise\u201D option makes Alexa\u2019s",
+            "responses shorter and more direct.",
+            "\u201CCheerful\u201D aims to make Alexa\u2019s",
+            "responses more upbeat and positive.",
+            "The \u201CRelaxed\u201D style provides a more",
+            "laid-back and conversational",
+            "interaction.",
+            "This feature is currently limited to",
+            "US-based Alexa Plus subscribers."
+          ]
+        }
+      ],
+      "publishedAt": "2026-02-25T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability"
     }
   ]
 }
