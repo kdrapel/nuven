@@ -1,6 +1,43 @@
 {
   "articles": [
     {
+      "id": "962",
+      "topic": "Data Prep,Feature Eng",
+      "source": "Marktechpost AI",
+      "shortTitle": "Vaex Pipeline",
+      "mediumTitle": "Scalable Analytics with Vaex",
+      "longTitle": "Building a Vaex Analytics Pipeline",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This tutorial details building a",
+            "scalable analytics and machine learning",
+            "pipeline using Vaex.",
+            "A key feature is Vaex\u2019s ability to avoid",
+            "loading the entire dataset into memory.",
+            "Vaex can work with datasets far",
+            "exceeding available RAM.",
+            "The pipeline is designed to efficiently",
+            "handle datasets with millions of rows.",
+            "Lazy expressions allow for the creation",
+            "of rich behavioral and city-level",
+            "features.",
+            "This makes Vaex suitable for",
+            "production-style analytics and modeling.",
+            "Vaex integrates with scikit-learn for",
+            "applying traditional machine learning",
+            "algorithms.",
+            "These expressions don\u0027t require",
+            "immediate computation or significant",
+            "memory overhead."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-03T04:23:03.000Z",
+      "ranking": 8.277272727272727,
+      "articleUrl": "https://www.marktechpost.com/2026/03/02/a-coding-guide-to-build-a-scalable-end-to-end-analytics-and-machine-learning-pipeline-on-millions-of-rows-using-vaex/"
+    },
+    {
       "id": "958",
       "topic": "Large Models, NLP",
       "source": "The Verge AI",
@@ -146,43 +183,6 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing"
     },
     {
-      "id": "952",
-      "topic": "Vision, NLP, Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "FireRed-OCR",
-      "mediumTitle": "FireRed-OCR-2B Released",
-      "longTitle": "New LVLM Aims to Improve Document Parsing",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The core innovation behind",
-            "FireRed-OCR-2B is a technique called",
-            "GRPO, which aims to mitigate structural",
-            "hallucinations.",
-            "Large Vision-Language Models (LVLMs)",
-            "often struggle with accurately",
-            "reconstructing document structure,",
-            "leading to \u0027structural hallucinations\u0027.",
-            "These hallucinations can manifest as",
-            "disordered table rows, fabricated",
-            "formulas, and incorrect syntax within",
-            "documents.",
-            "FireRed-OCR-2B is designed to improve",
-            "parsing accuracy, particularly for",
-            "tables and LaTeX documents.",
-            "Traditional document digitization",
-            "involves layout detection, text",
-            "extraction, and structural",
-            "reconstruction, a process prone to",
-            "errors."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-02T07:38:48.000Z",
-      "ranking": 7.22375,
-      "articleUrl": "https://www.marktechpost.com/2026/03/01/fireredteam-releases-firered-ocr-2b-utilizing-grpo-to-solve-structural-hallucinations-in-tables-and-latex-for-software-developers/"
-    },
-    {
       "id": "959",
       "topic": "Art, Ethics, Policy",
       "source": "The Verge AI",
@@ -254,6 +254,43 @@
       "articleUrl": "https://www.marktechpost.com/2026/03/02/alibaba-just-released-qwen-3-5-small-models-a-family-of-0-8b-to-9b-parameters-built-for-on-device-applications/"
     },
     {
+      "id": "952",
+      "topic": "Vision, NLP, Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "FireRed-OCR",
+      "mediumTitle": "FireRed-OCR-2B Released",
+      "longTitle": "New LVLM Aims to Improve Document Parsing",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The core innovation behind",
+            "FireRed-OCR-2B is a technique called",
+            "GRPO, which aims to mitigate structural",
+            "hallucinations.",
+            "Large Vision-Language Models (LVLMs)",
+            "often struggle with accurately",
+            "reconstructing document structure,",
+            "leading to \u0027structural hallucinations\u0027.",
+            "These hallucinations can manifest as",
+            "disordered table rows, fabricated",
+            "formulas, and incorrect syntax within",
+            "documents.",
+            "FireRed-OCR-2B is designed to improve",
+            "parsing accuracy, particularly for",
+            "tables and LaTeX documents.",
+            "Traditional document digitization",
+            "involves layout detection, text",
+            "extraction, and structural",
+            "reconstruction, a process prone to",
+            "errors."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-02T07:38:48.000Z",
+      "ranking": 6.148112038014642,
+      "articleUrl": "https://www.marktechpost.com/2026/03/01/fireredteam-releases-firered-ocr-2b-utilizing-grpo-to-solve-structural-hallucinations-in-tables-and-latex-for-software-developers/"
+    },
+    {
       "id": "953",
       "topic": "Model Eval",
       "source": "Marktechpost AI",
@@ -286,7 +323,7 @@
         }
       ],
       "publishedAt": "2026-03-02T07:13:50.000Z",
-      "ranking": 6.834999999999999,
+      "ranking": 5.723097998548296,
       "articleUrl": "https://www.marktechpost.com/2026/03/01/how-to-build-an-explainable-ai-analysis-pipeline-using-shap-iq-to-understand-feature-importance-interaction-effects-and-model-decision-breakdown/"
     },
     {
@@ -323,7 +360,7 @@
         }
       ],
       "publishedAt": "2026-03-01T10:16:26.000Z",
-      "ranking": 4.946619298047594,
+      "ranking": 4.334118887235931,
       "articleUrl": "https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/"
     },
     {
@@ -830,41 +867,6 @@
       "articleUrl": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure"
     },
     {
-      "id": "918",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "Adobe AI Edit",
-      "mediumTitle": "Adobe\u0027s Quick Cut Beta",
-      "longTitle": "Adobe Firefly\u0027s Quick Cut: AI Video Editing",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Adobe is releasing \u0027Quick Cut\u0027 within",
-            "its Firefly video editor as a new",
-            "AI-powered tool.",
-            "The primary goal of Quick Cut is to",
-            "streamline the video editing process and",
-            "accelerate production.",
-            "Editors can concentrate on the creative",
-            "aspects of storytelling with the help of",
-            "this new tool.",
-            "Editors can then refine and build upon",
-            "the AI-generated rough cut to create the",
-            "final video.",
-            "The tool reduces the time spent on the",
-            "initial arrangement of video clips.",
-            "The rapid creation of a rough cut is a",
-            "core benefit of using Quick Cut.",
-            "Text prompts are a key input method for",
-            "directing the AI\u0027s clip selection."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-25T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut"
-    },
-    {
       "id": "917",
       "topic": "NLP",
       "source": "The Verge AI",
@@ -900,41 +902,39 @@
       "articleUrl": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability"
     },
     {
-      "id": "912",
-      "topic": "Dev Tools",
-      "source": "Marktechpost AI",
-      "shortTitle": "PBFT Sim",
-      "mediumTitle": "Python PBFT Simulator",
-      "longTitle": "Asyncio-Based PBFT Implementation",
+      "id": "918",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Adobe AI Edit",
+      "mediumTitle": "Adobe\u0027s Quick Cut Beta",
+      "longTitle": "Adobe Firefly\u0027s Quick Cut: AI Video Editing",
       "paragraphs": [
         {
           "Lines": [
-            "This article details the implementation",
-            "of a Practical Byzantine Fault Tolerance",
-            "(PBFT) simulator.",
-            "The implementation focuses on coding the",
-            "core phases of the PBFT algorithm:",
-            "pre-prepare, prepare, and commit.",
-            "The presence of malicious (Byzantine)",
-            "nodes is simulated to represent",
-            "adversarial conditions.",
-            "The simulator is designed to model a",
-            "realistic distributed network",
-            "environment.",
-            "This detailed coding allows for",
-            "exploration of how PBFT achieves",
-            "consensus despite adversarial nodes.",
-            "The goal is to simulate and analyze",
-            "PBFT\u0027s behavior, considering message",
-            "delays and malicious impacts.",
-            "These malicious nodes intentionally",
-            "disrupt the consensus process."
+            "Adobe is releasing \u0027Quick Cut\u0027 within",
+            "its Firefly video editor as a new",
+            "AI-powered tool.",
+            "The primary goal of Quick Cut is to",
+            "streamline the video editing process and",
+            "accelerate production.",
+            "Editors can concentrate on the creative",
+            "aspects of storytelling with the help of",
+            "this new tool.",
+            "Editors can then refine and build upon",
+            "the AI-generated rough cut to create the",
+            "final video.",
+            "The tool reduces the time spent on the",
+            "initial arrangement of video clips.",
+            "The rapid creation of a rough cut is a",
+            "core benefit of using Quick Cut.",
+            "Text prompts are a key input method for",
+            "directing the AI\u0027s clip selection."
           ]
         }
       ],
-      "publishedAt": "2026-02-25T00:12:32.000Z",
+      "publishedAt": "2026-02-25T10:00:00.000Z",
       "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/02/24/a-coding-implementation-to-simulate-practical-byzantine-fault-tolerance-with-asyncio-malicious-nodes-and-latency-analysis/"
+      "articleUrl": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut"
     }
   ]
 }
