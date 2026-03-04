@@ -1,43 +1,6 @@
 {
   "articles": [
     {
-      "id": "962",
-      "topic": "Data Prep,Feature Eng",
-      "source": "Marktechpost AI",
-      "shortTitle": "Vaex Pipeline",
-      "mediumTitle": "Scalable Analytics with Vaex",
-      "longTitle": "Building a Vaex Analytics Pipeline",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This tutorial details building a",
-            "scalable analytics and machine learning",
-            "pipeline using Vaex.",
-            "A key feature is Vaex\u2019s ability to avoid",
-            "loading the entire dataset into memory.",
-            "Vaex can work with datasets far",
-            "exceeding available RAM.",
-            "The pipeline is designed to efficiently",
-            "handle datasets with millions of rows.",
-            "Lazy expressions allow for the creation",
-            "of rich behavioral and city-level",
-            "features.",
-            "This makes Vaex suitable for",
-            "production-style analytics and modeling.",
-            "Vaex integrates with scikit-learn for",
-            "applying traditional machine learning",
-            "algorithms.",
-            "These expressions don\u0027t require",
-            "immediate computation or significant",
-            "memory overhead."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-03T04:23:03.000Z",
-      "ranking": 8.277272727272727,
-      "articleUrl": "https://www.marktechpost.com/2026/03/02/a-coding-guide-to-build-a-scalable-end-to-end-analytics-and-machine-learning-pipeline-on-millions-of-rows-using-vaex/"
-    },
-    {
       "id": "966",
       "topic": "Security, Ethics",
       "source": "The Verge AI",
@@ -107,6 +70,43 @@
       "publishedAt": "2026-03-03T09:32:06.000Z",
       "ranking": 7.368,
       "articleUrl": "https://www.marktechpost.com/2026/03/03/alibaba-releases-opensandbox-to-provide-software-developers-with-a-unified-secure-and-scalable-api-for-autonomous-ai-agent-execution/"
+    },
+    {
+      "id": "962",
+      "topic": "Data Prep,Feature Eng",
+      "source": "Marktechpost AI",
+      "shortTitle": "Vaex Pipeline",
+      "mediumTitle": "Scalable Analytics with Vaex",
+      "longTitle": "Building a Vaex Analytics Pipeline",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This tutorial details building a",
+            "scalable analytics and machine learning",
+            "pipeline using Vaex.",
+            "A key feature is Vaex\u2019s ability to avoid",
+            "loading the entire dataset into memory.",
+            "Vaex can work with datasets far",
+            "exceeding available RAM.",
+            "The pipeline is designed to efficiently",
+            "handle datasets with millions of rows.",
+            "Lazy expressions allow for the creation",
+            "of rich behavioral and city-level",
+            "features.",
+            "This makes Vaex suitable for",
+            "production-style analytics and modeling.",
+            "Vaex integrates with scikit-learn for",
+            "applying traditional machine learning",
+            "algorithms.",
+            "These expressions don\u0027t require",
+            "immediate computation or significant",
+            "memory overhead."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-03T04:23:03.000Z",
+      "ranking": 7.2653305825888665,
+      "articleUrl": "https://www.marktechpost.com/2026/03/02/a-coding-guide-to-build-a-scalable-end-to-end-analytics-and-machine-learning-pipeline-on-millions-of-rows-using-vaex/"
     },
     {
       "id": "967",
@@ -211,7 +211,7 @@
         }
       ],
       "publishedAt": "2026-03-03T03:21:07.000Z",
-      "ranking": 6.914999999999999,
+      "ranking": 5.8146774318297325,
       "articleUrl": "https://www.marktechpost.com/2026/03/02/alibaba-just-released-qwen-3-5-small-models-a-family-of-0-8b-to-9b-parameters-built-for-on-device-applications/"
     },
     {
@@ -247,7 +247,7 @@
         }
       ],
       "publishedAt": "2026-03-02T16:22:33.000Z",
-      "ranking": 6.275011317532481,
+      "ranking": 5.8060585640654665,
       "articleUrl": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers"
     },
     {
@@ -283,7 +283,7 @@
         }
       ],
       "publishedAt": "2026-03-02T18:29:46.000Z",
-      "ranking": 5.859260008264112,
+      "ranking": 5.419401708074501,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing"
     },
     {
@@ -319,7 +319,7 @@
         }
       ],
       "publishedAt": "2026-03-02T12:56:49.000Z",
-      "ranking": 5.641693685804205,
+      "ranking": 5.125689715209276,
       "articleUrl": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent"
     },
     {
@@ -356,7 +356,7 @@
         }
       ],
       "publishedAt": "2026-03-02T13:58:05.000Z",
-      "ranking": 5.545749493748367,
+      "ranking": 5.043757210165902,
       "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
     },
     {
@@ -392,7 +392,7 @@
         }
       ],
       "publishedAt": "2026-03-02T13:58:05.000Z",
-      "ranking": 5.075749490193534,
+      "ranking": 4.57375720646174,
       "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
     },
     {
@@ -429,7 +429,7 @@
         }
       ],
       "publishedAt": "2026-03-02T07:38:48.000Z",
-      "ranking": 4.315525058578735,
+      "ranking": 3.7267906699380227,
       "articleUrl": "https://www.marktechpost.com/2026/03/01/fireredteam-releases-firered-ocr-2b-utilizing-grpo-to-solve-structural-hallucinations-in-tables-and-latex-for-software-developers/"
     },
     {
@@ -465,7 +465,7 @@
         }
       ],
       "publishedAt": "2026-03-02T07:13:50.000Z",
-      "ranking": 3.8673397948272026,
+      "ranking": 3.2728955291220796,
       "articleUrl": "https://www.marktechpost.com/2026/03/01/how-to-build-an-explainable-ai-analysis-pipeline-using-shap-iq-to-understand-feature-importance-interaction-effects-and-model-decision-breakdown/"
     },
     {
@@ -502,7 +502,7 @@
         }
       ],
       "publishedAt": "2026-03-01T10:16:26.000Z",
-      "ranking": 1.3113848962877048,
+      "ranking": 0.4293732308775171,
       "articleUrl": "https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/"
     },
     {
