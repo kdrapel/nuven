@@ -110,41 +110,40 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews"
     },
     {
-      "id": "974",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI Concerns",
-      "mediumTitle": "Secret AI Resistance",
-      "longTitle": "Leaders Meet to Discuss AI Risks",
+      "id": "979",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Yuan 3.0",
+      "mediumTitle": "YuanLab Releases Yuan 3.0 Ultra",
+      "longTitle": "YuanLab\u0027s New Open-Source LLM: Yuan 3.0 Ultra",
       "paragraphs": [
         {
           "Lines": [
-            "Discussions centered on countering the",
-            "power of tech companies and the",
-            "potential for AI manipulation and",
-            "surveillance.",
-            "Attendees expressed concerns about the",
-            "threats AI poses to democratic",
-            "institutions and individual liberties.",
-            "The conference aimed to address the",
-            "erosion of human autonomy due to AI.",
-            "Organizers aimed to build a coalition",
-            "across the political spectrum,",
-            "recognizing widespread anxieties about",
-            "AI.",
-            "The group sought to identify common",
-            "ground for advocating regulations and",
-            "ethical guidelines for AI.",
-            "The secrecy surrounding the event",
-            "highlights the sensitivity of the topic.",
-            "The gathering took place at a New",
-            "Orleans Marriott in early January."
+            "YuanLab AI has released Yuan 3.0 Ultra,",
+            "a new open-source Mixture-of-Experts",
+            "(MoE) large language model (LLM).",
+            "This model boasts 1 trillion (1T) total",
+            "parameters, but utilizes only 68.8",
+            "billion activated parameters.",
+            "This architecture aims to deliver",
+            "state-of-the-art enterprise performance",
+            "with increased efficiency.",
+            "Specifically, the model achieves a 33.3%",
+            "reduction in total parameter count",
+            "compared to previous models.",
+            "It also demonstrates a 49% boost in",
+            "pre-training efficiency.",
+            "Yuan 3.0 Ultra is described as a",
+            "multimodal foundation model.",
+            "Being a multimodal model suggests it can",
+            "process and understand various data",
+            "types."
           ]
         }
       ],
-      "publishedAt": "2026-03-04T07:00:00.000Z",
-      "ranking": 7.085,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/888841/pro-human-ai-declaration-fli"
+      "publishedAt": "2026-03-05T06:55:02.000Z",
+      "ranking": 7.02,
+      "articleUrl": "https://www.marktechpost.com/2026/03/04/yuanlab-ai-releases-yuan-3-0-ultra-a-flagship-multimodal-moe-foundation-model-built-for-stronger-intelligence-and-unrivaled-efficiency/"
     },
     {
       "id": "978",
@@ -182,6 +181,43 @@
       "articleUrl": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft"
     },
     {
+      "id": "974",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Concerns",
+      "mediumTitle": "Secret AI Resistance",
+      "longTitle": "Leaders Meet to Discuss AI Risks",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Discussions centered on countering the",
+            "power of tech companies and the",
+            "potential for AI manipulation and",
+            "surveillance.",
+            "Attendees expressed concerns about the",
+            "threats AI poses to democratic",
+            "institutions and individual liberties.",
+            "The conference aimed to address the",
+            "erosion of human autonomy due to AI.",
+            "Organizers aimed to build a coalition",
+            "across the political spectrum,",
+            "recognizing widespread anxieties about",
+            "AI.",
+            "The group sought to identify common",
+            "ground for advocating regulations and",
+            "ethical guidelines for AI.",
+            "The secrecy surrounding the event",
+            "highlights the sensitivity of the topic.",
+            "The gathering took place at a New",
+            "Orleans Marriott in early January."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-04T07:00:00.000Z",
+      "ranking": 5.952673924451067,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/888841/pro-human-ai-declaration-fli"
+    },
+    {
       "id": "966",
       "topic": "Security, Ethics",
       "source": "The Verge AI",
@@ -213,7 +249,7 @@
         }
       ],
       "publishedAt": "2026-03-03T14:22:12.000Z",
-      "ranking": 5.392400548325615,
+      "ranking": 4.832863920375418,
       "articleUrl": "https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway"
     },
     {
@@ -248,7 +284,7 @@
         }
       ],
       "publishedAt": "2026-03-03T19:28:09.000Z",
-      "ranking": 5.13283174392675,
+      "ranking": 4.644335937337594,
       "articleUrl": "https://www.marktechpost.com/2026/03/03/google-drops-gemini-3-1-flash-lite-a-cost-efficient-powerhouse-with-adjustable-thinking-levels-designed-for-high-scale-production-ai/"
     },
     {
@@ -285,7 +321,7 @@
         }
       ],
       "publishedAt": "2026-03-03T04:23:03.000Z",
-      "ranking": 4.253561777243569,
+      "ranking": 3.5549040095859183,
       "articleUrl": "https://www.marktechpost.com/2026/03/02/a-coding-guide-to-build-a-scalable-end-to-end-analytics-and-machine-learning-pipeline-on-millions-of-rows-using-vaex/"
     },
     {
@@ -321,7 +357,7 @@
         }
       ],
       "publishedAt": "2026-03-03T09:32:06.000Z",
-      "ranking": 4.159240997433473,
+      "ranking": 3.5323438595128103,
       "articleUrl": "https://www.marktechpost.com/2026/03/03/alibaba-releases-opensandbox-to-provide-software-developers-with-a-unified-secure-and-scalable-api-for-autonomous-ai-agent-execution/"
     },
     {
@@ -357,7 +393,7 @@
         }
       ],
       "publishedAt": "2026-03-03T10:30:00.000Z",
-      "ranking": 3.908674731786327,
+      "ranking": 3.2952218268622118,
       "articleUrl": "https://www.theverge.com/tech/887899/spacex-ipo-risks-ai"
     },
     {
@@ -392,7 +428,7 @@
         }
       ],
       "publishedAt": "2026-03-03T03:21:07.000Z",
-      "ranking": 2.71689305874113,
+      "ranking": 2.0038545164764443,
       "articleUrl": "https://www.marktechpost.com/2026/03/02/alibaba-just-released-qwen-3-5-small-models-a-family-of-0-8b-to-9b-parameters-built-for-on-device-applications/"
     },
     {
@@ -428,7 +464,7 @@
         }
       ],
       "publishedAt": "2026-03-02T16:22:33.000Z",
-      "ranking": 1.793629701953047,
+      "ranking": 0.9276736267559915,
       "articleUrl": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers"
     },
     {
@@ -464,8 +500,44 @@
         }
       ],
       "publishedAt": "2026-03-02T18:29:46.000Z",
-      "ranking": 1.5836565848514486,
+      "ranking": 0.7472399006846855,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing"
+    },
+    {
+      "id": "959",
+      "topic": "Art, Ethics, Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Art Rights",
+      "mediumTitle": "US Court: No Copyright for AI Art",
+      "longTitle": "Supreme Court Upholds AI Art Copyright Ruling",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This means artwork created solely by",
+            "artificial intelligence, without",
+            "sufficient human contribution, cannot be",
+            "copyrighted in the United States.",
+            "The Supreme Court\u2019s decision not to",
+            "review the case effectively upholds the",
+            "existing legal framework regarding",
+            "AI-generated art and copyright.",
+            "The Supreme Court\u2019s inaction leaves the",
+            "lower court rulings in place,",
+            "establishing a clear precedent.",
+            "The courts have consistently maintained",
+            "that human involvement is essential for",
+            "a work to be protected by copyright.",
+            "The ruling clarifies that simply using",
+            "an AI tool does not automatically grant",
+            "copyright to the resulting work.",
+            "This decision impacts the growing field",
+            "of AI art and its legal status."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-02T13:58:05.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
     },
     {
       "id": "955",
@@ -501,7 +573,7 @@
         }
       ],
       "publishedAt": "2026-03-02T13:58:05.000Z",
-      "ranking": 0.83068709506757,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
     },
     {
@@ -537,44 +609,8 @@
         }
       ],
       "publishedAt": "2026-03-02T12:56:49.000Z",
-      "ranking": 0.8275299197729966,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent"
-    },
-    {
-      "id": "959",
-      "topic": "Art, Ethics, Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI Art Rights",
-      "mediumTitle": "US Court: No Copyright for AI Art",
-      "longTitle": "Supreme Court Upholds AI Art Copyright Ruling",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This means artwork created solely by",
-            "artificial intelligence, without",
-            "sufficient human contribution, cannot be",
-            "copyrighted in the United States.",
-            "The Supreme Court\u2019s decision not to",
-            "review the case effectively upholds the",
-            "existing legal framework regarding",
-            "AI-generated art and copyright.",
-            "The Supreme Court\u2019s inaction leaves the",
-            "lower court rulings in place,",
-            "establishing a clear precedent.",
-            "The courts have consistently maintained",
-            "that human involvement is essential for",
-            "a work to be protected by copyright.",
-            "The ruling clarifies that simply using",
-            "an AI tool does not automatically grant",
-            "copyright to the resulting work.",
-            "This decision impacts the growing field",
-            "of AI art and its legal status."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-02T13:58:05.000Z",
-      "ranking": 0.360687078438489,
-      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
     },
     {
       "id": "952",
