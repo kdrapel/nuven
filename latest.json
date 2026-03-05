@@ -34,7 +34,7 @@
         }
       ],
       "publishedAt": "2026-03-04T12:09:38.000Z",
-      "ranking": 8.425,
+      "ranking": 7.392895215838169,
       "articleUrl": "https://www.theverge.com/tech/889152/google-gemini-ai-wrongful-death-lawsuit"
     },
     {
@@ -214,7 +214,7 @@
         }
       ],
       "publishedAt": "2026-03-04T07:00:00.000Z",
-      "ranking": 5.952673924451067,
+      "ranking": 5.569764744930363,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/888841/pro-human-ai-declaration-fli"
     },
     {
@@ -249,7 +249,7 @@
         }
       ],
       "publishedAt": "2026-03-03T14:22:12.000Z",
-      "ranking": 4.832863920375418,
+      "ranking": 4.218741181901103,
       "articleUrl": "https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway"
     },
     {
@@ -284,8 +284,44 @@
         }
       ],
       "publishedAt": "2026-03-03T19:28:09.000Z",
-      "ranking": 4.644335937337594,
+      "ranking": 4.101108958474333,
       "articleUrl": "https://www.marktechpost.com/2026/03/03/google-drops-gemini-3-1-flash-lite-a-cost-efficient-powerhouse-with-adjustable-thinking-levels-designed-for-high-scale-production-ai/"
+    },
+    {
+      "id": "963",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "Alibaba OpenSandbox",
+      "mediumTitle": "Alibaba Releases AI Tool",
+      "longTitle": "Alibaba Open-Sources OpenSandbox for AI Agents",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Alibaba has released OpenSandbox, an",
+            "open-source tool intended to provide AI",
+            "agents with secure and isolated",
+            "environments for various tasks.",
+            "These tasks include code execution, web",
+            "browsing, and model training.",
+            "The system is released under the Apache",
+            "2.0 license.",
+            "OpenSandbox aims to standardize the",
+            "\u201Cexecution layer\u201D within the AI agent",
+            "stack by offering a unified API.",
+            "This API is designed to be compatible",
+            "across different programming languages.",
+            "The goal is to provide a consistent and",
+            "scalable interface for developers",
+            "working with autonomous AI agents.",
+            "By providing isolated environments,",
+            "OpenSandbox enhances the security of AI",
+            "agent operations."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-03T09:32:06.000Z",
+      "ranking": 2.8509981995848923,
+      "articleUrl": "https://www.marktechpost.com/2026/03/03/alibaba-releases-opensandbox-to-provide-software-developers-with-a-unified-secure-and-scalable-api-for-autonomous-ai-agent-execution/"
     },
     {
       "id": "962",
@@ -321,44 +357,8 @@
         }
       ],
       "publishedAt": "2026-03-03T04:23:03.000Z",
-      "ranking": 3.5549040095859183,
+      "ranking": 2.8019442336899134,
       "articleUrl": "https://www.marktechpost.com/2026/03/02/a-coding-guide-to-build-a-scalable-end-to-end-analytics-and-machine-learning-pipeline-on-millions-of-rows-using-vaex/"
-    },
-    {
-      "id": "963",
-      "topic": "Dev Tools",
-      "source": "Marktechpost AI",
-      "shortTitle": "Alibaba OpenSandbox",
-      "mediumTitle": "Alibaba Releases AI Tool",
-      "longTitle": "Alibaba Open-Sources OpenSandbox for AI Agents",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Alibaba has released OpenSandbox, an",
-            "open-source tool intended to provide AI",
-            "agents with secure and isolated",
-            "environments for various tasks.",
-            "These tasks include code execution, web",
-            "browsing, and model training.",
-            "The system is released under the Apache",
-            "2.0 license.",
-            "OpenSandbox aims to standardize the",
-            "\u201Cexecution layer\u201D within the AI agent",
-            "stack by offering a unified API.",
-            "This API is designed to be compatible",
-            "across different programming languages.",
-            "The goal is to provide a consistent and",
-            "scalable interface for developers",
-            "working with autonomous AI agents.",
-            "By providing isolated environments,",
-            "OpenSandbox enhances the security of AI",
-            "agent operations."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-03T09:32:06.000Z",
-      "ranking": 3.5323438595128103,
-      "articleUrl": "https://www.marktechpost.com/2026/03/03/alibaba-releases-opensandbox-to-provide-software-developers-with-a-unified-secure-and-scalable-api-for-autonomous-ai-agent-execution/"
     },
     {
       "id": "965",
@@ -393,7 +393,7 @@
         }
       ],
       "publishedAt": "2026-03-03T10:30:00.000Z",
-      "ranking": 3.2952218268622118,
+      "ranking": 2.62729294517323,
       "articleUrl": "https://www.theverge.com/tech/887899/spacex-ipo-risks-ai"
     },
     {
@@ -428,7 +428,7 @@
         }
       ],
       "publishedAt": "2026-03-03T03:21:07.000Z",
-      "ranking": 2.0038545164764443,
+      "ranking": 1.2365433552982017,
       "articleUrl": "https://www.marktechpost.com/2026/03/02/alibaba-just-released-qwen-3-5-small-models-a-family-of-0-8b-to-9b-parameters-built-for-on-device-applications/"
     },
     {
@@ -464,7 +464,7 @@
         }
       ],
       "publishedAt": "2026-03-02T16:22:33.000Z",
-      "ranking": 0.9276736267559915,
+      "ranking": 0.007757197535111615,
       "articleUrl": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers"
     },
     {
@@ -500,44 +500,8 @@
         }
       ],
       "publishedAt": "2026-03-02T18:29:46.000Z",
-      "ranking": 0.7472399006846855,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing"
-    },
-    {
-      "id": "959",
-      "topic": "Art, Ethics, Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI Art Rights",
-      "mediumTitle": "US Court: No Copyright for AI Art",
-      "longTitle": "Supreme Court Upholds AI Art Copyright Ruling",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This means artwork created solely by",
-            "artificial intelligence, without",
-            "sufficient human contribution, cannot be",
-            "copyrighted in the United States.",
-            "The Supreme Court\u2019s decision not to",
-            "review the case effectively upholds the",
-            "existing legal framework regarding",
-            "AI-generated art and copyright.",
-            "The Supreme Court\u2019s inaction leaves the",
-            "lower court rulings in place,",
-            "establishing a clear precedent.",
-            "The courts have consistently maintained",
-            "that human involvement is essential for",
-            "a work to be protected by copyright.",
-            "The ruling clarifies that simply using",
-            "an AI tool does not automatically grant",
-            "copyright to the resulting work.",
-            "This decision impacts the growing field",
-            "of AI art and its legal status."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-02T13:58:05.000Z",
       "ranking": 0,
-      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing"
     },
     {
       "id": "955",
@@ -569,6 +533,42 @@
             "The case specifically addresses works",
             "created *solely* by an AI system,",
             "without human intervention."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-02T13:58:05.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
+    },
+    {
+      "id": "959",
+      "topic": "Art, Ethics, Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Art Rights",
+      "mediumTitle": "US Court: No Copyright for AI Art",
+      "longTitle": "Supreme Court Upholds AI Art Copyright Ruling",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This means artwork created solely by",
+            "artificial intelligence, without",
+            "sufficient human contribution, cannot be",
+            "copyrighted in the United States.",
+            "The Supreme Court\u2019s decision not to",
+            "review the case effectively upholds the",
+            "existing legal framework regarding",
+            "AI-generated art and copyright.",
+            "The Supreme Court\u2019s inaction leaves the",
+            "lower court rulings in place,",
+            "establishing a clear precedent.",
+            "The courts have consistently maintained",
+            "that human involvement is essential for",
+            "a work to be protected by copyright.",
+            "The ruling clarifies that simply using",
+            "an AI tool does not automatically grant",
+            "copyright to the resulting work.",
+            "This decision impacts the growing field",
+            "of AI art and its legal status."
           ]
         }
       ],
