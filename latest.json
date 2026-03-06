@@ -36,6 +36,43 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk"
     },
     {
+      "id": "988",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Liquid AI Release",
+      "mediumTitle": "Local AI Tools Released",
+      "longTitle": "Liquid AI Launches Offline AI Models",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This local execution ensures data",
+            "privacy by eliminating the need for",
+            "external API calls and data",
+            "transmission.",
+            "The key benefit of this release is the",
+            "ability to run enterprise workflows",
+            "completely on a user\u2019s device.",
+            "The architecture is particularly",
+            "well-suited for environments where data",
+            "sensitivity is a primary concern.",
+            "Liquid AI has released LFM2-24B-A2B, a",
+            "model designed for fast, local execution",
+            "of tools, and LocalCowork, an",
+            "open-source desktop agent application.",
+            "By keeping data processing local, Liquid",
+            "AI addresses growing concerns about data",
+            "security and compliance.",
+            "The release focuses on achieving",
+            "low-latency execution, making it",
+            "suitable for real-time applications."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-06T06:45:50.000Z",
+      "ranking": 7.699999999999999,
+      "articleUrl": "https://www.marktechpost.com/2026/03/05/liquid-ai-releases-localcowork-powered-by-lfm2-24b-a2b-to-execute-privacy-first-agent-workflows-locally-via-model-context-protocol-mcp/"
+    },
+    {
       "id": "984",
       "topic": "Large Models, NLP",
       "source": "The Verge AI",
@@ -178,42 +215,6 @@
       "articleUrl": "https://www.marktechpost.com/2026/03/05/a-coding-guide-to-build-a-scalable-end-to-end-machine-learning-data-pipeline-using-daft-for-high-performance-structured-and-image-data-processing/"
     },
     {
-      "id": "979",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Yuan 3.0",
-      "mediumTitle": "YuanLab Releases Yuan 3.0 Ultra",
-      "longTitle": "YuanLab\u0027s New Open-Source LLM: Yuan 3.0 Ultra",
-      "paragraphs": [
-        {
-          "Lines": [
-            "YuanLab AI has released Yuan 3.0 Ultra,",
-            "a new open-source Mixture-of-Experts",
-            "(MoE) large language model (LLM).",
-            "This model boasts 1 trillion (1T) total",
-            "parameters, but utilizes only 68.8",
-            "billion activated parameters.",
-            "This architecture aims to deliver",
-            "state-of-the-art enterprise performance",
-            "with increased efficiency.",
-            "Specifically, the model achieves a 33.3%",
-            "reduction in total parameter count",
-            "compared to previous models.",
-            "It also demonstrates a 49% boost in",
-            "pre-training efficiency.",
-            "Yuan 3.0 Ultra is described as a",
-            "multimodal foundation model.",
-            "Being a multimodal model suggests it can",
-            "process and understand various data",
-            "types."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-05T06:55:02.000Z",
-      "ranking": 7.02,
-      "articleUrl": "https://www.marktechpost.com/2026/03/04/yuanlab-ai-releases-yuan-3-0-ultra-a-flagship-multimodal-moe-foundation-model-built-for-stronger-intelligence-and-unrivaled-efficiency/"
-    },
-    {
       "id": "983",
       "topic": "Business",
       "source": "The Verge AI",
@@ -250,6 +251,42 @@
       "articleUrl": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai"
     },
     {
+      "id": "979",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Yuan 3.0",
+      "mediumTitle": "YuanLab Releases Yuan 3.0 Ultra",
+      "longTitle": "YuanLab\u0027s New Open-Source LLM: Yuan 3.0 Ultra",
+      "paragraphs": [
+        {
+          "Lines": [
+            "YuanLab AI has released Yuan 3.0 Ultra,",
+            "a new open-source Mixture-of-Experts",
+            "(MoE) large language model (LLM).",
+            "This model boasts 1 trillion (1T) total",
+            "parameters, but utilizes only 68.8",
+            "billion activated parameters.",
+            "This architecture aims to deliver",
+            "state-of-the-art enterprise performance",
+            "with increased efficiency.",
+            "Specifically, the model achieves a 33.3%",
+            "reduction in total parameter count",
+            "compared to previous models.",
+            "It also demonstrates a 49% boost in",
+            "pre-training efficiency.",
+            "Yuan 3.0 Ultra is described as a",
+            "multimodal foundation model.",
+            "Being a multimodal model suggests it can",
+            "process and understand various data",
+            "types."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-05T06:55:02.000Z",
+      "ranking": 5.880733055078496,
+      "articleUrl": "https://www.marktechpost.com/2026/03/04/yuanlab-ai-releases-yuan-3-0-ultra-a-flagship-multimodal-moe-foundation-model-built-for-stronger-intelligence-and-unrivaled-efficiency/"
+    },
+    {
       "id": "976",
       "topic": "Ethics, Safety",
       "source": "The Verge AI",
@@ -283,7 +320,7 @@
         }
       ],
       "publishedAt": "2026-03-04T12:09:38.000Z",
-      "ranking": 5.592908688289922,
+      "ranking": 5.0065973934888515,
       "articleUrl": "https://www.theverge.com/tech/889152/google-gemini-ai-wrongful-death-lawsuit"
     },
     {
@@ -318,7 +355,7 @@
         }
       ],
       "publishedAt": "2026-03-04T20:17:37.000Z",
-      "ranking": 5.153651813035445,
+      "ranking": 4.679854847043406,
       "articleUrl": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft"
     },
     {
@@ -354,7 +391,7 @@
         }
       ],
       "publishedAt": "2026-03-04T16:32:42.000Z",
-      "ranking": 4.989409966868089,
+      "ranking": 4.463753959356929,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews"
     },
     {
@@ -390,7 +427,7 @@
         }
       ],
       "publishedAt": "2026-03-04T14:57:01.000Z",
-      "ranking": 4.93653746859486,
+      "ranking": 4.388819752449654,
       "articleUrl": "https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch"
     },
     {
@@ -427,7 +464,7 @@
         }
       ],
       "publishedAt": "2026-03-04T07:00:00.000Z",
-      "ranking": 3.4829566079260506,
+      "ranking": 2.825253147719314,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/888841/pro-human-ai-declaration-fli"
     },
     {
@@ -462,7 +499,7 @@
         }
       ],
       "publishedAt": "2026-03-03T19:28:09.000Z",
-      "ranking": 1.3734208768223937,
+      "ranking": 0.5561975451876124,
       "articleUrl": "https://www.marktechpost.com/2026/03/03/google-drops-gemini-3-1-flash-lite-a-cost-efficient-powerhouse-with-adjustable-thinking-levels-designed-for-high-scale-production-ai/"
     },
     {
@@ -497,7 +534,7 @@
         }
       ],
       "publishedAt": "2026-03-03T14:22:12.000Z",
-      "ranking": 1.2076430723272908,
+      "ranking": 0.31987684127295957,
       "articleUrl": "https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway"
     },
     {
