@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "id": "986",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI Risk",
-      "mediumTitle": "DoD Designates Anthropic",
-      "longTitle": "DoD Cites AI Use Restrictions as Supply Chain Risk",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The Department of Defense (DoD) has",
-            "officially designated Anthropic, an",
-            "artificial intelligence company, as a",
-            "\u201Csupply-chain risk\u201D.",
-            "Anthropic has implemented policies",
-            "preventing the use of its AI for",
-            "activities like weapons development or",
-            "offensive cyber operations.",
-            "Specifically, the DoD is concerned about",
-            "Anthropic\u2019s restrictions on how its AI",
-            "models can be used, particularly",
-            "regarding potential military",
-            "applications.",
-            "The DoD views these restrictions as",
-            "hindering their ability to fully",
-            "evaluate and potentially utilize",
-            "Anthropic\u2019s AI capabilities for defense",
-            "purposes."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-05T19:02:22.000Z",
-      "ranking": 7.7250000000000005,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk"
-    },
-    {
       "id": "988",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -110,6 +75,41 @@
       "articleUrl": "https://www.marktechpost.com/2026/03/05/a-coding-guide-to-build-a-scalable-end-to-end-machine-learning-data-pipeline-using-daft-for-high-performance-structured-and-image-data-processing/"
     },
     {
+      "id": "986",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Risk",
+      "mediumTitle": "DoD Designates Anthropic",
+      "longTitle": "DoD Cites AI Use Restrictions as Supply Chain Risk",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The Department of Defense (DoD) has",
+            "officially designated Anthropic, an",
+            "artificial intelligence company, as a",
+            "\u201Csupply-chain risk\u201D.",
+            "Anthropic has implemented policies",
+            "preventing the use of its AI for",
+            "activities like weapons development or",
+            "offensive cyber operations.",
+            "Specifically, the DoD is concerned about",
+            "Anthropic\u2019s restrictions on how its AI",
+            "models can be used, particularly",
+            "regarding potential military",
+            "applications.",
+            "The DoD views these restrictions as",
+            "hindering their ability to fully",
+            "evaluate and potentially utilize",
+            "Anthropic\u2019s AI capabilities for defense",
+            "purposes."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-05T19:02:22.000Z",
+      "ranking": 6.596285117997243,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk"
+    },
+    {
       "id": "984",
       "topic": "Large Models, NLP",
       "source": "The Verge AI",
@@ -142,7 +142,7 @@
         }
       ],
       "publishedAt": "2026-03-05T14:00:00.000Z",
-      "ranking": 6.417292469641937,
+      "ranking": 6.016031841167516,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents"
     },
     {
@@ -175,7 +175,7 @@
         }
       ],
       "publishedAt": "2026-03-05T10:00:00.000Z",
-      "ranking": 5.816682066524067,
+      "ranking": 5.359125125014734,
       "articleUrl": "https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch"
     },
     {
@@ -211,7 +211,7 @@
         }
       ],
       "publishedAt": "2026-03-05T12:37:52.000Z",
-      "ranking": 5.71915874139029,
+      "ranking": 5.298632262114731,
       "articleUrl": "https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya"
     },
     {
@@ -247,7 +247,7 @@
         }
       ],
       "publishedAt": "2026-03-05T14:27:16.000Z",
-      "ranking": 5.673723790738567,
+      "ranking": 5.278859046544291,
       "articleUrl": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai"
     },
     {
@@ -283,8 +283,43 @@
         }
       ],
       "publishedAt": "2026-03-05T06:55:02.000Z",
-      "ranking": 5.0638799733772135,
+      "ranking": 4.562935777655877,
       "articleUrl": "https://www.marktechpost.com/2026/03/04/yuanlab-ai-releases-yuan-3-0-ultra-a-flagship-multimodal-moe-foundation-model-built-for-stronger-intelligence-and-unrivaled-efficiency/"
+    },
+    {
+      "id": "978",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "AI \u0026 Power",
+      "mediumTitle": "Tech Firms Pledge on AI Power",
+      "longTitle": "Tech Giants Agree to Address AI Energy Costs",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Seven major tech companies participated",
+            "in the agreement with the former",
+            "president.",
+            "The pledge directly addresses concerns",
+            "about the financial impact of AI",
+            "development on everyday electricity",
+            "users.",
+            "The rapid growth of AI data centers is",
+            "creating a significant increase in",
+            "demand for electricity.",
+            "Bipartisan support for addressing this",
+            "issue highlights its broad relevance and",
+            "potential impact.",
+            "The tech companies involved are at the",
+            "forefront of AI research and deployment.",
+            "The pledge represents a proactive step",
+            "to mitigate potential negative",
+            "consequences of AI\u0027s energy consumption."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-04T20:17:37.000Z",
+      "ranking": 2.9192848880719557,
+      "articleUrl": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft"
     },
     {
       "id": "976",
@@ -320,43 +355,8 @@
         }
       ],
       "publishedAt": "2026-03-04T12:09:38.000Z",
-      "ranking": 3.6719835280114967,
+      "ranking": 2.9070565404302506,
       "articleUrl": "https://www.theverge.com/tech/889152/google-gemini-ai-wrongful-death-lawsuit"
-    },
-    {
-      "id": "978",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Power",
-      "mediumTitle": "Tech Firms Pledge on AI Power",
-      "longTitle": "Tech Giants Agree to Address AI Energy Costs",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Seven major tech companies participated",
-            "in the agreement with the former",
-            "president.",
-            "The pledge directly addresses concerns",
-            "about the financial impact of AI",
-            "development on everyday electricity",
-            "users.",
-            "The rapid growth of AI data centers is",
-            "creating a significant increase in",
-            "demand for electricity.",
-            "Bipartisan support for addressing this",
-            "issue highlights its broad relevance and",
-            "potential impact.",
-            "The tech companies involved are at the",
-            "forefront of AI research and deployment.",
-            "The pledge represents a proactive step",
-            "to mitigate potential negative",
-            "consequences of AI\u0027s energy consumption."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-04T20:17:37.000Z",
-      "ranking": 3.5697466077766467,
-      "articleUrl": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft"
     },
     {
       "id": "977",
@@ -391,7 +391,7 @@
         }
       ],
       "publishedAt": "2026-03-04T16:32:42.000Z",
-      "ranking": 3.250168707026316,
+      "ranking": 2.5469487377080764,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews"
     },
     {
@@ -427,7 +427,7 @@
         }
       ],
       "publishedAt": "2026-03-04T14:57:01.000Z",
-      "ranking": 3.1312136380700384,
+      "ranking": 2.4055494235524586,
       "articleUrl": "https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch"
     },
     {
@@ -464,7 +464,7 @@
         }
       ],
       "publishedAt": "2026-03-04T07:00:00.000Z",
-      "ranking": 1.3481868202998673,
+      "ranking": 0.5106297778686653,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/888841/pro-human-ai-declaration-fli"
     },
     {
