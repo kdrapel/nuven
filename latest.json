@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "986",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Risk",
+      "mediumTitle": "DoD Designates Anthropic",
+      "longTitle": "DoD Cites AI Use Restrictions as Supply Chain Risk",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The Department of Defense (DoD) has",
+            "officially designated Anthropic, an",
+            "artificial intelligence company, as a",
+            "\u201Csupply-chain risk\u201D.",
+            "Anthropic has implemented policies",
+            "preventing the use of its AI for",
+            "activities like weapons development or",
+            "offensive cyber operations.",
+            "Specifically, the DoD is concerned about",
+            "Anthropic\u2019s restrictions on how its AI",
+            "models can be used, particularly",
+            "regarding potential military",
+            "applications.",
+            "The DoD views these restrictions as",
+            "hindering their ability to fully",
+            "evaluate and potentially utilize",
+            "Anthropic\u2019s AI capabilities for defense",
+            "purposes."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-05T19:02:22.000Z",
+      "ranking": 7.7250000000000005,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk"
+    },
+    {
       "id": "984",
       "topic": "Large Models, NLP",
       "source": "The Verge AI",
@@ -104,6 +139,43 @@
       "publishedAt": "2026-03-05T12:37:52.000Z",
       "ranking": 7.066,
       "articleUrl": "https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya"
+    },
+    {
+      "id": "987",
+      "topic": "Data Prep, Feature Eng",
+      "source": "Marktechpost AI",
+      "shortTitle": "Daft ML Pipeline",
+      "mediumTitle": "Building ML Pipelines with Daft",
+      "longTitle": "Scalable ML Data Pipelines using Daft",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This article serves as a tutorial for",
+            "creating a scalable, end-to-end machine",
+            "learning data pipeline.",
+            "The article details how to use Daft for",
+            "high-performance data manipulation",
+            "throughout the analytical pipeline.",
+            "A series of data transformations are",
+            "then applied to prepare the data for",
+            "machine learning.",
+            "Daft is presented as a high-performance,",
+            "Python-native data engine suitable for",
+            "this purpose.",
+            "Daft seamlessly integrates structured",
+            "data processing with numerical",
+            "computation.",
+            "The pipeline begins with the initial",
+            "loading of the data.",
+            "Feature engineering techniques are",
+            "employed to enhance the data\u0027s",
+            "suitability for modeling."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-06T00:07:09.000Z",
+      "ranking": 7.033333333333332,
+      "articleUrl": "https://www.marktechpost.com/2026/03/05/a-coding-guide-to-build-a-scalable-end-to-end-machine-learning-data-pipeline-using-daft-for-high-performance-structured-and-image-data-processing/"
     },
     {
       "id": "979",
@@ -211,7 +283,7 @@
         }
       ],
       "publishedAt": "2026-03-04T12:09:38.000Z",
-      "ranking": 6.121529450916034,
+      "ranking": 5.592908688289922,
       "articleUrl": "https://www.theverge.com/tech/889152/google-gemini-ai-wrongful-death-lawsuit"
     },
     {
@@ -246,7 +318,7 @@
         }
       ],
       "publishedAt": "2026-03-04T20:17:37.000Z",
-      "ranking": 5.570332599248636,
+      "ranking": 5.153651813035445,
       "articleUrl": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft"
     },
     {
@@ -282,7 +354,7 @@
         }
       ],
       "publishedAt": "2026-03-04T16:32:42.000Z",
-      "ranking": 5.457685069983701,
+      "ranking": 4.989409966868089,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews"
     },
     {
@@ -318,7 +390,7 @@
         }
       ],
       "publishedAt": "2026-03-04T14:57:01.000Z",
-      "ranking": 5.426761662379175,
+      "ranking": 4.93653746859486,
       "articleUrl": "https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch"
     },
     {
@@ -355,7 +427,7 @@
         }
       ],
       "publishedAt": "2026-03-04T07:00:00.000Z",
-      "ranking": 4.08260510275942,
+      "ranking": 3.4829566079260506,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/888841/pro-human-ai-declaration-fli"
     },
     {
@@ -390,7 +462,7 @@
         }
       ],
       "publishedAt": "2026-03-03T19:28:09.000Z",
-      "ranking": 2.1317749430887787,
+      "ranking": 1.3734208768223937,
       "articleUrl": "https://www.marktechpost.com/2026/03/03/google-drops-gemini-3-1-flash-lite-a-cost-efficient-powerhouse-with-adjustable-thinking-levels-designed-for-high-scale-production-ai/"
     },
     {
@@ -425,44 +497,8 @@
         }
       ],
       "publishedAt": "2026-03-03T14:22:12.000Z",
-      "ranking": 2.0361799388193855,
+      "ranking": 1.2076430723272908,
       "articleUrl": "https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway"
-    },
-    {
-      "id": "963",
-      "topic": "Dev Tools",
-      "source": "Marktechpost AI",
-      "shortTitle": "Alibaba OpenSandbox",
-      "mediumTitle": "Alibaba Releases AI Tool",
-      "longTitle": "Alibaba Open-Sources OpenSandbox for AI Agents",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Alibaba has released OpenSandbox, an",
-            "open-source tool intended to provide AI",
-            "agents with secure and isolated",
-            "environments for various tasks.",
-            "These tasks include code execution, web",
-            "browsing, and model training.",
-            "The system is released under the Apache",
-            "2.0 license.",
-            "OpenSandbox aims to standardize the",
-            "\u201Cexecution layer\u201D within the AI agent",
-            "stack by offering a unified API.",
-            "This API is designed to be compatible",
-            "across different programming languages.",
-            "The goal is to provide a consistent and",
-            "scalable interface for developers",
-            "working with autonomous AI agents.",
-            "By providing isolated environments,",
-            "OpenSandbox enhances the security of AI",
-            "agent operations."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-03T09:32:06.000Z",
-      "ranking": 0.4662561601735131,
-      "articleUrl": "https://www.marktechpost.com/2026/03/03/alibaba-releases-opensandbox-to-provide-software-developers-with-a-unified-secure-and-scalable-api-for-autonomous-ai-agent-execution/"
     },
     {
       "id": "965",
@@ -497,8 +533,44 @@
         }
       ],
       "publishedAt": "2026-03-03T10:30:00.000Z",
-      "ranking": 0.28290343693205866,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/887899/spacex-ipo-risks-ai"
+    },
+    {
+      "id": "963",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "Alibaba OpenSandbox",
+      "mediumTitle": "Alibaba Releases AI Tool",
+      "longTitle": "Alibaba Open-Sources OpenSandbox for AI Agents",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Alibaba has released OpenSandbox, an",
+            "open-source tool intended to provide AI",
+            "agents with secure and isolated",
+            "environments for various tasks.",
+            "These tasks include code execution, web",
+            "browsing, and model training.",
+            "The system is released under the Apache",
+            "2.0 license.",
+            "OpenSandbox aims to standardize the",
+            "\u201Cexecution layer\u201D within the AI agent",
+            "stack by offering a unified API.",
+            "This API is designed to be compatible",
+            "across different programming languages.",
+            "The goal is to provide a consistent and",
+            "scalable interface for developers",
+            "working with autonomous AI agents.",
+            "By providing isolated environments,",
+            "OpenSandbox enhances the security of AI",
+            "agent operations."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-03T09:32:06.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.marktechpost.com/2026/03/03/alibaba-releases-opensandbox-to-provide-software-developers-with-a-unified-secure-and-scalable-api-for-autonomous-ai-agent-execution/"
     },
     {
       "id": "962",
@@ -534,7 +606,7 @@
         }
       ],
       "publishedAt": "2026-03-03T04:23:03.000Z",
-      "ranking": 0.20181447003359665,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/03/02/a-coding-guide-to-build-a-scalable-end-to-end-analytics-and-machine-learning-pipeline-on-millions-of-rows-using-vaex/"
     },
     {
@@ -645,42 +717,6 @@
       "articleUrl": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers"
     },
     {
-      "id": "959",
-      "topic": "Art, Ethics, Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI Art Rights",
-      "mediumTitle": "US Court: No Copyright for AI Art",
-      "longTitle": "Supreme Court Upholds AI Art Copyright Ruling",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This means artwork created solely by",
-            "artificial intelligence, without",
-            "sufficient human contribution, cannot be",
-            "copyrighted in the United States.",
-            "The Supreme Court\u2019s decision not to",
-            "review the case effectively upholds the",
-            "existing legal framework regarding",
-            "AI-generated art and copyright.",
-            "The Supreme Court\u2019s inaction leaves the",
-            "lower court rulings in place,",
-            "establishing a clear precedent.",
-            "The courts have consistently maintained",
-            "that human involvement is essential for",
-            "a work to be protected by copyright.",
-            "The ruling clarifies that simply using",
-            "an AI tool does not automatically grant",
-            "copyright to the resulting work.",
-            "This decision impacts the growing field",
-            "of AI art and its legal status."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-02T13:58:05.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
-    },
-    {
       "id": "955",
       "topic": "Art",
       "source": "The Verge AI",
@@ -710,6 +746,42 @@
             "The case specifically addresses works",
             "created *solely* by an AI system,",
             "without human intervention."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-02T13:58:05.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
+    },
+    {
+      "id": "959",
+      "topic": "Art, Ethics, Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Art Rights",
+      "mediumTitle": "US Court: No Copyright for AI Art",
+      "longTitle": "Supreme Court Upholds AI Art Copyright Ruling",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This means artwork created solely by",
+            "artificial intelligence, without",
+            "sufficient human contribution, cannot be",
+            "copyrighted in the United States.",
+            "The Supreme Court\u2019s decision not to",
+            "review the case effectively upholds the",
+            "existing legal framework regarding",
+            "AI-generated art and copyright.",
+            "The Supreme Court\u2019s inaction leaves the",
+            "lower court rulings in place,",
+            "establishing a clear precedent.",
+            "The courts have consistently maintained",
+            "that human involvement is essential for",
+            "a work to be protected by copyright.",
+            "The ruling clarifies that simply using",
+            "an AI tool does not automatically grant",
+            "copyright to the resulting work.",
+            "This decision impacts the growing field",
+            "of AI art and its legal status."
           ]
         }
       ],
@@ -1078,77 +1150,6 @@
       "publishedAt": "2026-02-27T12:18:26.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react"
-    },
-    {
-      "id": "937",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "OpenAI Funding",
-      "mediumTitle": "OpenAI Secures $110B",
-      "longTitle": "OpenAI Receives Massive Investment Boost",
-      "paragraphs": [
-        {
-          "Lines": [
-            "OpenAI has secured $110 billion in new",
-            "investment from Amazon, Nvidia, and",
-            "SoftBank.",
-            "This investment is coupled with a",
-            "strategic agreement where OpenAI will",
-            "develop custom AI models specifically",
-            "for integration with Amazon\u2019s Alexa",
-            "voice assistant.",
-            "This funding round follows the company\u2019s",
-            "rapid growth, fueled by the popularity",
-            "of its products, notably ChatGPT.",
-            "A significant portion of the investment,",
-            "$50 billion, comes from Amazon.",
-            "OpenAI currently boasts over 900 million",
-            "weekly active users and more than 50",
-            "million consumer subscribers.",
-            "Nvidia and SoftBank are also",
-            "participating in this $110 billion",
-            "funding round."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-27T10:55:16.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/885958/openai-amazon-nvidia-softback-110-billion-investment"
-    },
-    {
-      "id": "936",
-      "topic": "NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "Perplexity Embed",
-      "mediumTitle": "New Perplexity Embeddings",
-      "longTitle": "Perplexity Releases Multilingual Embeddings",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Perplexity announced the release of",
-            "\u0060pplx-embed\u0060, a new suite of",
-            "multilingual embedding models.",
-            "Unlike many Large Language Models",
-            "(LLMs), \u0060pplx-embed\u0060 does not use a",
-            "causal, decoder-only architecture.",
-            "The models are designed for large-scale",
-            "retrieval tasks, aiming to provide a",
-            "robust and scalable solution.",
-            "These models achieve state-of-the-art",
-            "(SOTA) performance in embedding tasks.",
-            "A primary goal of these models is to",
-            "address the difficulties of working with",
-            "noisy and complex data found on the web.",
-            "The models leverage bidirectional",
-            "attention, which allows them to consider",
-            "context from both directions of a",
-            "sequence."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-27T05:01:41.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/02/26/perplexity-just-released-pplx-embed-new-sota-qwen3-bidirectional-embedding-models-for-web-scale-retrieval-tasks/"
     }
   ]
 }
