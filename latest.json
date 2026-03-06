@@ -38,41 +38,78 @@
       "articleUrl": "https://www.marktechpost.com/2026/03/05/liquid-ai-releases-localcowork-powered-by-lfm2-24b-a2b-to-execute-privacy-first-agent-workflows-locally-via-model-context-protocol-mcp/"
     },
     {
-      "id": "987",
-      "topic": "Data Prep, Feature Eng",
-      "source": "Marktechpost AI",
-      "shortTitle": "Daft ML Pipeline",
-      "mediumTitle": "Building ML Pipelines with Daft",
-      "longTitle": "Scalable ML Data Pipelines using Daft",
+      "id": "989",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Grammarly Privacy",
+      "mediumTitle": "Grammarly\u0027s Expert Review",
+      "longTitle": "Grammarly Faces Privacy Concerns Over AI Feature",
       "paragraphs": [
         {
           "Lines": [
-            "This article serves as a tutorial for",
-            "creating a scalable, end-to-end machine",
-            "learning data pipeline.",
-            "The article details how to use Daft for",
-            "high-performance data manipulation",
-            "throughout the analytical pipeline.",
-            "A series of data transformations are",
-            "then applied to prepare the data for",
-            "machine learning.",
-            "Daft is presented as a high-performance,",
-            "Python-native data engine suitable for",
-            "this purpose.",
-            "Daft seamlessly integrates structured",
-            "data processing with numerical",
-            "computation.",
-            "The pipeline begins with the initial",
-            "loading of the data.",
-            "Feature engineering techniques are",
-            "employed to enhance the data\u0027s",
-            "suitability for modeling."
+            "The core issue is that Grammarly is",
+            "utilizing the identities of individuals",
+            "to power this AI service.",
+            "This practice raises significant",
+            "questions about data privacy and the",
+            "potential for misuse of personal",
+            "information.",
+            "Reports indicate that some individuals",
+            "whose identities are being used haven\u0027t",
+            "given their consent.",
+            "Wired\u0027s investigation revealed that the",
+            "system incorporates profiles of both",
+            "living and deceased individuals without",
+            "permission.",
+            "One user was surprised to find their own",
+            "boss listed as an \u0027expert\u0027 providing",
+            "feedback through the AI.",
+            "Grammarly\u0027s new \u0027expert review\u0027 feature",
+            "aims to provide more nuanced writing",
+            "feedback by drawing on expertise."
           ]
         }
       ],
-      "publishedAt": "2026-03-06T00:07:09.000Z",
-      "ranking": 7.033333333333332,
-      "articleUrl": "https://www.marktechpost.com/2026/03/05/a-coding-guide-to-build-a-scalable-end-to-end-machine-learning-data-pipeline-using-daft-for-high-performance-structured-and-image-data-processing/"
+      "publishedAt": "2026-03-06T16:58:24.000Z",
+      "ranking": 7.54818181818182,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews"
+    },
+    {
+      "id": "990",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Debate",
+      "mediumTitle": "Generative AI: Hype \u0026 Fear",
+      "longTitle": "Critique of Generative AI Discourse",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The extreme framing of generative AI \u2013",
+            "as either revolutionary or catastrophic",
+            "\u2013 prevents a balanced and informed",
+            "discussion.",
+            "Despite its increasing presence in daily",
+            "life, there\u0027s a significant lack of",
+            "understanding regarding the fundamental",
+            "nature of generative AI.",
+            "Rational assessment of generative AI is",
+            "hindered by the polarized and",
+            "sensationalized debate.",
+            "The prevalence of hyperbolic language",
+            "obscures the actual state of the",
+            "technology.",
+            "The current discourse surrounding",
+            "generative AI is heavily influenced by",
+            "exaggerated claims and predictions.",
+            "The core argument centers on the quality",
+            "of the discussion, not the technology",
+            "itself."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-06T15:05:00.000Z",
+      "ranking": 7.34,
+      "articleUrl": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review"
     },
     {
       "id": "986",
@@ -106,8 +143,45 @@
         }
       ],
       "publishedAt": "2026-03-05T19:02:22.000Z",
-      "ranking": 6.596285117997243,
+      "ranking": 6.202341656354437,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk"
+    },
+    {
+      "id": "987",
+      "topic": "Data Prep, Feature Eng",
+      "source": "Marktechpost AI",
+      "shortTitle": "Daft ML Pipeline",
+      "mediumTitle": "Building ML Pipelines with Daft",
+      "longTitle": "Scalable ML Data Pipelines using Daft",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This article serves as a tutorial for",
+            "creating a scalable, end-to-end machine",
+            "learning data pipeline.",
+            "The article details how to use Daft for",
+            "high-performance data manipulation",
+            "throughout the analytical pipeline.",
+            "A series of data transformations are",
+            "then applied to prepare the data for",
+            "machine learning.",
+            "Daft is presented as a high-performance,",
+            "Python-native data engine suitable for",
+            "this purpose.",
+            "Daft seamlessly integrates structured",
+            "data processing with numerical",
+            "computation.",
+            "The pipeline begins with the initial",
+            "loading of the data.",
+            "Feature engineering techniques are",
+            "employed to enhance the data\u0027s",
+            "suitability for modeling."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-06T00:07:09.000Z",
+      "ranking": 5.988225117781164,
+      "articleUrl": "https://www.marktechpost.com/2026/03/05/a-coding-guide-to-build-a-scalable-end-to-end-machine-learning-data-pipeline-using-daft-for-high-performance-structured-and-image-data-processing/"
     },
     {
       "id": "984",
@@ -142,7 +216,7 @@
         }
       ],
       "publishedAt": "2026-03-05T14:00:00.000Z",
-      "ranking": 6.016031841167516,
+      "ranking": 5.5500451017887205,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents"
     },
     {
@@ -175,44 +249,8 @@
         }
       ],
       "publishedAt": "2026-03-05T10:00:00.000Z",
-      "ranking": 5.359125125014734,
+      "ranking": 4.835954887175235,
       "articleUrl": "https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch"
-    },
-    {
-      "id": "985",
-      "topic": "Ethics, Security",
-      "source": "The Verge AI",
-      "shortTitle": "Meta Glasses",
-      "mediumTitle": "Meta Glasses Data Review",
-      "longTitle": "Meta\u0027s AI Glasses \u0026 Privacy Concerns",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The reviewed footage includes highly",
-            "personal and intimate recordings,",
-            "raising ethical questions.",
-            "The report underscores the importance of",
-            "protecting user privacy in the",
-            "development and deployment of AI",
-            "technologies.",
-            "The investigation focuses on the",
-            "handling of sensitive user data by Meta",
-            "and its contractors.",
-            "The practice highlights potential",
-            "vulnerabilities in data collection and",
-            "review processes for AI technologies.",
-            "Meta\u2019s AI-powered smart glasses are at",
-            "the center of the privacy concerns.",
-            "The report, published last week, details",
-            "the experiences of the Kenyan",
-            "contractors involved in reviewing the",
-            "footage."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-05T12:37:52.000Z",
-      "ranking": 5.298632262114731,
-      "articleUrl": "https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya"
     },
     {
       "id": "983",
@@ -247,8 +285,44 @@
         }
       ],
       "publishedAt": "2026-03-05T14:27:16.000Z",
-      "ranking": 5.278859046544291,
+      "ranking": 4.819368989259788,
       "articleUrl": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai"
+    },
+    {
+      "id": "985",
+      "topic": "Ethics, Security",
+      "source": "The Verge AI",
+      "shortTitle": "Meta Glasses",
+      "mediumTitle": "Meta Glasses Data Review",
+      "longTitle": "Meta\u0027s AI Glasses \u0026 Privacy Concerns",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The reviewed footage includes highly",
+            "personal and intimate recordings,",
+            "raising ethical questions.",
+            "The report underscores the importance of",
+            "protecting user privacy in the",
+            "development and deployment of AI",
+            "technologies.",
+            "The investigation focuses on the",
+            "handling of sensitive user data by Meta",
+            "and its contractors.",
+            "The practice highlights potential",
+            "vulnerabilities in data collection and",
+            "review processes for AI technologies.",
+            "Meta\u2019s AI-powered smart glasses are at",
+            "the center of the privacy concerns.",
+            "The report, published last week, details",
+            "the experiences of the Kenyan",
+            "contractors involved in reviewing the",
+            "footage."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-05T12:37:52.000Z",
+      "ranking": 4.813076052821783,
+      "articleUrl": "https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya"
     },
     {
       "id": "979",
@@ -283,7 +357,7 @@
         }
       ],
       "publishedAt": "2026-03-05T06:55:02.000Z",
-      "ranking": 4.562935777655877,
+      "ranking": 3.995694531960932,
       "articleUrl": "https://www.marktechpost.com/2026/03/04/yuanlab-ai-releases-yuan-3-0-ultra-a-flagship-multimodal-moe-foundation-model-built-for-stronger-intelligence-and-unrivaled-efficiency/"
     },
     {
@@ -318,7 +392,7 @@
         }
       ],
       "publishedAt": "2026-03-04T20:17:37.000Z",
-      "ranking": 2.9192848880719557,
+      "ranking": 2.2001698295073933,
       "articleUrl": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft"
     },
     {
@@ -355,7 +429,7 @@
         }
       ],
       "publishedAt": "2026-03-04T12:09:38.000Z",
-      "ranking": 2.9070565404302506,
+      "ranking": 2.071672338436774,
       "articleUrl": "https://www.theverge.com/tech/889152/google-gemini-ai-wrongful-death-lawsuit"
     },
     {
@@ -391,7 +465,7 @@
         }
       ],
       "publishedAt": "2026-03-04T16:32:42.000Z",
-      "ranking": 2.5469487377080764,
+      "ranking": 1.774244001601371,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews"
     },
     {
@@ -427,7 +501,7 @@
         }
       ],
       "publishedAt": "2026-03-04T14:57:01.000Z",
-      "ranking": 2.4055494235524586,
+      "ranking": 1.610046735837698,
       "articleUrl": "https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch"
     },
     {
@@ -464,7 +538,7 @@
         }
       ],
       "publishedAt": "2026-03-04T07:00:00.000Z",
-      "ranking": 0.5106297778686653,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/888841/pro-human-ai-declaration-fli"
     },
     {
@@ -1151,78 +1225,6 @@
       "publishedAt": "2026-02-27T18:53:54.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/27/sakana-ai-introduces-doc-to-lora-and-text-to-lora-hypernetworks-that-instantly-internalize-long-contexts-and-adapt-llms-via-zero-shot-natural-language/"
-    },
-    {
-      "id": "938",
-      "topic": "Ethics, Security, Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Pentagon",
-      "mediumTitle": "Anthropic vs Pentagon",
-      "longTitle": "AI Firm Limits Military Contract",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The outcome of these negotiations could",
-            "set a precedent for future AI-military",
-            "engagements.",
-            "This situation represents a broader",
-            "debate about the appropriate use of AI",
-            "in warfare and surveillance.",
-            "The conflict between Anthropic and the",
-            "Pentagon highlights the ethical dilemmas",
-            "AI companies face when working with the",
-            "military.",
-            "This is not an isolated incident, but",
-            "part of a growing tension between",
-            "national security needs and ethical AI",
-            "concerns.",
-            "Anthropic\u2019s refusal to loosen its AI",
-            "safety mechanisms sparked negotiations",
-            "with the Pentagon.",
-            "The Pentagon\u2019s requested terms would",
-            "have effectively removed these safety",
-            "features."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-27T13:16:53.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines"
-    },
-    {
-      "id": "939",
-      "topic": "Ethics, Security, Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Pentagon",
-      "mediumTitle": "Anthropic Faces Pentagon Pressure",
-      "longTitle": "Pentagon Demands Access to Anthropic\u0027s AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A key concern is the development of",
-            "fully autonomous lethal weapons, often",
-            "called \u201Ckiller robots\u201D.",
-            "This case represents a critical moment",
-            "in deciding the future of unsupervised,",
-            "lethal autonomous weapons.",
-            "The Pentagon is employing a pressure",
-            "tactic by threatening Anthropic\u2019s",
-            "financial viability.",
-            "The outcome of this situation could set",
-            "a precedent for how the U.S. military",
-            "interacts with AI companies.",
-            "The unrestricted access sought by the",
-            "Pentagon extends to potentially",
-            "utilizing the AI for mass surveillance.",
-            "The situation involves a direct conflict",
-            "between the Pentagon\u2019s demands and",
-            "Anthropic\u2019s ethical considerations."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-27T12:18:26.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react"
     }
   ]
 }
