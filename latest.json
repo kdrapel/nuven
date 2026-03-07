@@ -1,43 +1,6 @@
 {
   "articles": [
     {
-      "id": "988",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Liquid AI Release",
-      "mediumTitle": "Local AI Tools Released",
-      "longTitle": "Liquid AI Launches Offline AI Models",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This local execution ensures data",
-            "privacy by eliminating the need for",
-            "external API calls and data",
-            "transmission.",
-            "The key benefit of this release is the",
-            "ability to run enterprise workflows",
-            "completely on a user\u2019s device.",
-            "The architecture is particularly",
-            "well-suited for environments where data",
-            "sensitivity is a primary concern.",
-            "Liquid AI has released LFM2-24B-A2B, a",
-            "model designed for fast, local execution",
-            "of tools, and LocalCowork, an",
-            "open-source desktop agent application.",
-            "By keeping data processing local, Liquid",
-            "AI addresses growing concerns about data",
-            "security and compliance.",
-            "The release focuses on achieving",
-            "low-latency execution, making it",
-            "suitable for real-time applications."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-06T06:45:50.000Z",
-      "ranking": 7.699999999999999,
-      "articleUrl": "https://www.marktechpost.com/2026/03/05/liquid-ai-releases-localcowork-powered-by-lfm2-24b-a2b-to-execute-privacy-first-agent-workflows-locally-via-model-context-protocol-mcp/"
-    },
-    {
       "id": "991",
       "topic": "Large Models, Vision, NLP",
       "source": "Marktechpost AI",
@@ -149,6 +112,79 @@
       "articleUrl": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review"
     },
     {
+      "id": "992",
+      "topic": "Frameworks",
+      "source": "Marktechpost AI",
+      "shortTitle": "TF 2.21",
+      "mediumTitle": "TensorFlow 2.21 Released",
+      "longTitle": "Google Releases TensorFlow 2.21 with LiteRT",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The most notable change in this version",
+            "is the transition to LiteRT as the",
+            "primary on-device inference solution.",
+            "LiteRT was previously available as a",
+            "preview, but now it\u0027s fully",
+            "production-ready and supersedes",
+            "TensorFlow Lite (TFLite).",
+            "Google recently announced the release of",
+            "TensorFlow 2.21, a major update to its",
+            "popular machine learning framework.",
+            "This shift is intended to simplify the",
+            "process of deploying machine learning",
+            "models to a wider range of devices.",
+            "TensorFlow 2.21 focuses on enhancing",
+            "performance, delivering faster execution",
+            "speeds on GPUs.",
+            "The update also introduces features for",
+            "easier deployment of models originally",
+            "created in PyTorch."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-07T05:32:53.000Z",
+      "ranking": 7.254999999999999,
+      "articleUrl": "https://www.marktechpost.com/2026/03/06/google-launches-tensorflow-2-21-and-litert-faster-gpu-performance-new-npu-acceleration-and-seamless-pytorch-edge-deployment-upgrades/"
+    },
+    {
+      "id": "988",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Liquid AI Release",
+      "mediumTitle": "Local AI Tools Released",
+      "longTitle": "Liquid AI Launches Offline AI Models",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This local execution ensures data",
+            "privacy by eliminating the need for",
+            "external API calls and data",
+            "transmission.",
+            "The key benefit of this release is the",
+            "ability to run enterprise workflows",
+            "completely on a user\u2019s device.",
+            "The architecture is particularly",
+            "well-suited for environments where data",
+            "sensitivity is a primary concern.",
+            "Liquid AI has released LFM2-24B-A2B, a",
+            "model designed for fast, local execution",
+            "of tools, and LocalCowork, an",
+            "open-source desktop agent application.",
+            "By keeping data processing local, Liquid",
+            "AI addresses growing concerns about data",
+            "security and compliance.",
+            "The release focuses on achieving",
+            "low-latency execution, making it",
+            "suitable for real-time applications."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-06T06:45:50.000Z",
+      "ranking": 6.542157283066153,
+      "articleUrl": "https://www.marktechpost.com/2026/03/05/liquid-ai-releases-localcowork-powered-by-lfm2-24b-a2b-to-execute-privacy-first-agent-workflows-locally-via-model-context-protocol-mcp/"
+    },
+    {
       "id": "986",
       "topic": "Policy",
       "source": "The Verge AI",
@@ -180,7 +216,7 @@
         }
       ],
       "publishedAt": "2026-03-05T19:02:22.000Z",
-      "ranking": 5.776523638796491,
+      "ranking": 5.277184253606553,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk"
     },
     {
@@ -217,7 +253,7 @@
         }
       ],
       "publishedAt": "2026-03-06T00:07:09.000Z",
-      "ranking": 5.630948601741396,
+      "ranking": 5.20300951662629,
       "articleUrl": "https://www.marktechpost.com/2026/03/05/a-coding-guide-to-build-a-scalable-end-to-end-machine-learning-data-pipeline-using-daft-for-high-performance-structured-and-image-data-processing/"
     },
     {
@@ -253,7 +289,7 @@
         }
       ],
       "publishedAt": "2026-03-05T14:00:00.000Z",
-      "ranking": 5.056229051913197,
+      "ranking": 4.4860555115683205,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents"
     },
     {
@@ -289,7 +325,7 @@
         }
       ],
       "publishedAt": "2026-03-05T14:27:16.000Z",
-      "ranking": 4.331684836509482,
+      "ranking": 3.767898942845386,
       "articleUrl": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai"
     },
     {
@@ -325,7 +361,7 @@
         }
       ],
       "publishedAt": "2026-03-05T12:37:52.000Z",
-      "ranking": 4.300789371441424,
+      "ranking": 3.7113748021555772,
       "articleUrl": "https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya"
     },
     {
@@ -358,7 +394,7 @@
         }
       ],
       "publishedAt": "2026-03-05T10:00:00.000Z",
-      "ranking": 4.288166186398369,
+      "ranking": 3.661768862468179,
       "articleUrl": "https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch"
     },
     {
@@ -394,7 +430,7 @@
         }
       ],
       "publishedAt": "2026-03-05T06:55:02.000Z",
-      "ranking": 3.4063094283431963,
+      "ranking": 2.7365807453029882,
       "articleUrl": "https://www.marktechpost.com/2026/03/04/yuanlab-ai-releases-yuan-3-0-ultra-a-flagship-multimodal-moe-foundation-model-built-for-stronger-intelligence-and-unrivaled-efficiency/"
     },
     {
@@ -429,7 +465,7 @@
         }
       ],
       "publishedAt": "2026-03-04T20:17:37.000Z",
-      "ranking": 1.467438642836587,
+      "ranking": 0.6483850606199049,
       "articleUrl": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft"
     },
     {
@@ -466,7 +502,7 @@
         }
       ],
       "publishedAt": "2026-03-04T12:09:38.000Z",
-      "ranking": 1.2292005338980836,
+      "ranking": 0.295829163409115,
       "articleUrl": "https://www.theverge.com/tech/889152/google-gemini-ai-wrongful-death-lawsuit"
     },
     {
@@ -502,7 +538,7 @@
         }
       ],
       "publishedAt": "2026-03-04T16:32:42.000Z",
-      "ranking": 0.9909322065449189,
+      "ranking": 0.1191883450690785,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews"
     },
     {
@@ -538,7 +574,7 @@
         }
       ],
       "publishedAt": "2026-03-04T14:57:01.000Z",
-      "ranking": 0.8052170981490052,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch"
     },
     {
@@ -901,6 +937,42 @@
       "articleUrl": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers"
     },
     {
+      "id": "959",
+      "topic": "Art, Ethics, Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Art Rights",
+      "mediumTitle": "US Court: No Copyright for AI Art",
+      "longTitle": "Supreme Court Upholds AI Art Copyright Ruling",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This means artwork created solely by",
+            "artificial intelligence, without",
+            "sufficient human contribution, cannot be",
+            "copyrighted in the United States.",
+            "The Supreme Court\u2019s decision not to",
+            "review the case effectively upholds the",
+            "existing legal framework regarding",
+            "AI-generated art and copyright.",
+            "The Supreme Court\u2019s inaction leaves the",
+            "lower court rulings in place,",
+            "establishing a clear precedent.",
+            "The courts have consistently maintained",
+            "that human involvement is essential for",
+            "a work to be protected by copyright.",
+            "The ruling clarifies that simply using",
+            "an AI tool does not automatically grant",
+            "copyright to the resulting work.",
+            "This decision impacts the growing field",
+            "of AI art and its legal status."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-02T13:58:05.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
+    },
+    {
       "id": "955",
       "topic": "Art",
       "source": "The Verge AI",
@@ -930,42 +1002,6 @@
             "The case specifically addresses works",
             "created *solely* by an AI system,",
             "without human intervention."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-02T13:58:05.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
-    },
-    {
-      "id": "959",
-      "topic": "Art, Ethics, Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI Art Rights",
-      "mediumTitle": "US Court: No Copyright for AI Art",
-      "longTitle": "Supreme Court Upholds AI Art Copyright Ruling",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This means artwork created solely by",
-            "artificial intelligence, without",
-            "sufficient human contribution, cannot be",
-            "copyrighted in the United States.",
-            "The Supreme Court\u2019s decision not to",
-            "review the case effectively upholds the",
-            "existing legal framework regarding",
-            "AI-generated art and copyright.",
-            "The Supreme Court\u2019s inaction leaves the",
-            "lower court rulings in place,",
-            "establishing a clear precedent.",
-            "The courts have consistently maintained",
-            "that human involvement is essential for",
-            "a work to be protected by copyright.",
-            "The ruling clarifies that simply using",
-            "an AI tool does not automatically grant",
-            "copyright to the resulting work.",
-            "This decision impacts the growing field",
-            "of AI art and its legal status."
           ]
         }
       ],
@@ -1225,43 +1261,6 @@
       "publishedAt": "2026-02-27T22:19:16.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff"
-    },
-    {
-      "id": "941",
-      "topic": "Large Models, Tuning",
-      "source": "Marktechpost AI",
-      "shortTitle": "Sakana AI LLM",
-      "mediumTitle": "Sakana AI Boosts LLMs",
-      "longTitle": "Sakana AI\u0027s New LLM Customization Tech",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Sakana AI\u2019s innovation aims to balance",
-            "both flexibility and efficiency in LLM",
-            "customization.",
-            "Adaptation is achieved using zero-shot",
-            "natural language instructions, reducing",
-            "the need for extensive retraining.",
-            "The new methods, D2L and T2L, are",
-            "hypernetwork approaches designed for LLM",
-            "customization.",
-            "The announcement signals a potential",
-            "step forward in LLM customization and",
-            "deployment strategies.",
-            "The hypernetworks can internalize long",
-            "contexts \u0027instantly\u0027.",
-            "Current LLM customization methods",
-            "include In-Context Learning (ICL),",
-            "Context Distillation (CD), and",
-            "Supervised Fine-Tuning (SFT).",
-            "Sakana AI is a company headquartered in",
-            "Tokyo, Japan."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-27T18:53:54.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/02/27/sakana-ai-introduces-doc-to-lora-and-text-to-lora-hypernetworks-that-instantly-internalize-long-contexts-and-adapt-llms-via-zero-shot-natural-language/"
     }
   ]
 }
