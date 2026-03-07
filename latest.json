@@ -38,6 +38,43 @@
       "articleUrl": "https://www.marktechpost.com/2026/03/05/liquid-ai-releases-localcowork-powered-by-lfm2-24b-a2b-to-execute-privacy-first-agent-workflows-locally-via-model-context-protocol-mcp/"
     },
     {
+      "id": "991",
+      "topic": "Large Models, Vision, NLP",
+      "source": "Marktechpost AI",
+      "shortTitle": "Phi-4 Vision",
+      "mediumTitle": "Microsoft Releases New AI Model",
+      "longTitle": "Microsoft\u0027s Phi-4-Reasoning-Vision-15B Released",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Microsoft has released",
+            "Phi-4-Reasoning-Vision-15B, a 15 billion",
+            "parameter open-weight multimodal model.",
+            "Phi-4-Reasoning-Vision-15B demonstrates",
+            "proficiency in scientific and",
+            "mathematical reasoning.",
+            "This model is designed to handle tasks",
+            "involving both image and text input.",
+            "The release includes the openly",
+            "available model weights.",
+            "Specifically, it excels at tasks",
+            "requiring perception and selective",
+            "reasoning.",
+            "It also shows a strong understanding of",
+            "graphical user interfaces (GUIs).",
+            "It\u2019s characterized as a \u201Ccompact\u201D model,",
+            "balancing reasoning capability with",
+            "computational efficiency.",
+            "The model also aims to minimize the",
+            "amount of training data needed."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-07T00:53:26.000Z",
+      "ranking": 7.555,
+      "articleUrl": "https://www.marktechpost.com/2026/03/06/microsoft-releases-phi-4-reasoning-vision-15b-a-compact-multimodal-model-for-math-science-and-gui-understanding/"
+    },
+    {
       "id": "989",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -143,7 +180,7 @@
         }
       ],
       "publishedAt": "2026-03-05T19:02:22.000Z",
-      "ranking": 6.202341656354437,
+      "ranking": 5.776523638796491,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk"
     },
     {
@@ -180,7 +217,7 @@
         }
       ],
       "publishedAt": "2026-03-06T00:07:09.000Z",
-      "ranking": 5.988225117781164,
+      "ranking": 5.630948601741396,
       "articleUrl": "https://www.marktechpost.com/2026/03/05/a-coding-guide-to-build-a-scalable-end-to-end-machine-learning-data-pipeline-using-daft-for-high-performance-structured-and-image-data-processing/"
     },
     {
@@ -216,41 +253,8 @@
         }
       ],
       "publishedAt": "2026-03-05T14:00:00.000Z",
-      "ranking": 5.5500451017887205,
+      "ranking": 5.056229051913197,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents"
-    },
-    {
-      "id": "980",
-      "topic": "Music, Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Music Tags",
-      "mediumTitle": "Apple Music \u0026 AI Disclosure",
-      "longTitle": "Apple Music Launches AI Transparency Tags",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Apple Music is introducing a voluntary",
-            "metadata system called \u0022Transparency",
-            "Tags\u0022 to identify music and visuals",
-            "created with the assistance of",
-            "artificial intelligence (AI).",
-            "This initiative aims to provide clarity",
-            "to listeners regarding the role of AI in",
-            "the creation process of music and",
-            "associated content.",
-            "The tags are not mandatory, representing",
-            "a current approach of encouraging",
-            "transparency rather than enforcing",
-            "disclosure.",
-            "The system encompasses four categories:",
-            "tracks (the master recording),",
-            "composition, artwork, and music videos."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-05T10:00:00.000Z",
-      "ranking": 4.835954887175235,
-      "articleUrl": "https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch"
     },
     {
       "id": "983",
@@ -285,7 +289,7 @@
         }
       ],
       "publishedAt": "2026-03-05T14:27:16.000Z",
-      "ranking": 4.819368989259788,
+      "ranking": 4.331684836509482,
       "articleUrl": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai"
     },
     {
@@ -321,8 +325,41 @@
         }
       ],
       "publishedAt": "2026-03-05T12:37:52.000Z",
-      "ranking": 4.813076052821783,
+      "ranking": 4.300789371441424,
       "articleUrl": "https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya"
+    },
+    {
+      "id": "980",
+      "topic": "Music, Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Music Tags",
+      "mediumTitle": "Apple Music \u0026 AI Disclosure",
+      "longTitle": "Apple Music Launches AI Transparency Tags",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Apple Music is introducing a voluntary",
+            "metadata system called \u0022Transparency",
+            "Tags\u0022 to identify music and visuals",
+            "created with the assistance of",
+            "artificial intelligence (AI).",
+            "This initiative aims to provide clarity",
+            "to listeners regarding the role of AI in",
+            "the creation process of music and",
+            "associated content.",
+            "The tags are not mandatory, representing",
+            "a current approach of encouraging",
+            "transparency rather than enforcing",
+            "disclosure.",
+            "The system encompasses four categories:",
+            "tracks (the master recording),",
+            "composition, artwork, and music videos."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-05T10:00:00.000Z",
+      "ranking": 4.288166186398369,
+      "articleUrl": "https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch"
     },
     {
       "id": "979",
@@ -357,7 +394,7 @@
         }
       ],
       "publishedAt": "2026-03-05T06:55:02.000Z",
-      "ranking": 3.995694531960932,
+      "ranking": 3.4063094283431963,
       "articleUrl": "https://www.marktechpost.com/2026/03/04/yuanlab-ai-releases-yuan-3-0-ultra-a-flagship-multimodal-moe-foundation-model-built-for-stronger-intelligence-and-unrivaled-efficiency/"
     },
     {
@@ -392,7 +429,7 @@
         }
       ],
       "publishedAt": "2026-03-04T20:17:37.000Z",
-      "ranking": 2.2001698295073933,
+      "ranking": 1.467438642836587,
       "articleUrl": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft"
     },
     {
@@ -429,7 +466,7 @@
         }
       ],
       "publishedAt": "2026-03-04T12:09:38.000Z",
-      "ranking": 2.071672338436774,
+      "ranking": 1.2292005338980836,
       "articleUrl": "https://www.theverge.com/tech/889152/google-gemini-ai-wrongful-death-lawsuit"
     },
     {
@@ -465,7 +502,7 @@
         }
       ],
       "publishedAt": "2026-03-04T16:32:42.000Z",
-      "ranking": 1.774244001601371,
+      "ranking": 0.9909322065449189,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews"
     },
     {
@@ -501,7 +538,7 @@
         }
       ],
       "publishedAt": "2026-03-04T14:57:01.000Z",
-      "ranking": 1.610046735837698,
+      "ranking": 0.8052170981490052,
       "articleUrl": "https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch"
     },
     {
@@ -864,42 +901,6 @@
       "articleUrl": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers"
     },
     {
-      "id": "959",
-      "topic": "Art, Ethics, Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI Art Rights",
-      "mediumTitle": "US Court: No Copyright for AI Art",
-      "longTitle": "Supreme Court Upholds AI Art Copyright Ruling",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This means artwork created solely by",
-            "artificial intelligence, without",
-            "sufficient human contribution, cannot be",
-            "copyrighted in the United States.",
-            "The Supreme Court\u2019s decision not to",
-            "review the case effectively upholds the",
-            "existing legal framework regarding",
-            "AI-generated art and copyright.",
-            "The Supreme Court\u2019s inaction leaves the",
-            "lower court rulings in place,",
-            "establishing a clear precedent.",
-            "The courts have consistently maintained",
-            "that human involvement is essential for",
-            "a work to be protected by copyright.",
-            "The ruling clarifies that simply using",
-            "an AI tool does not automatically grant",
-            "copyright to the resulting work.",
-            "This decision impacts the growing field",
-            "of AI art and its legal status."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-02T13:58:05.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
-    },
-    {
       "id": "955",
       "topic": "Art",
       "source": "The Verge AI",
@@ -929,6 +930,42 @@
             "The case specifically addresses works",
             "created *solely* by an AI system,",
             "without human intervention."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-02T13:58:05.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
+    },
+    {
+      "id": "959",
+      "topic": "Art, Ethics, Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Art Rights",
+      "mediumTitle": "US Court: No Copyright for AI Art",
+      "longTitle": "Supreme Court Upholds AI Art Copyright Ruling",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This means artwork created solely by",
+            "artificial intelligence, without",
+            "sufficient human contribution, cannot be",
+            "copyrighted in the United States.",
+            "The Supreme Court\u2019s decision not to",
+            "review the case effectively upholds the",
+            "existing legal framework regarding",
+            "AI-generated art and copyright.",
+            "The Supreme Court\u2019s inaction leaves the",
+            "lower court rulings in place,",
+            "establishing a clear precedent.",
+            "The courts have consistently maintained",
+            "that human involvement is essential for",
+            "a work to be protected by copyright.",
+            "The ruling clarifies that simply using",
+            "an AI tool does not automatically grant",
+            "copyright to the resulting work.",
+            "This decision impacts the growing field",
+            "of AI art and its legal status."
           ]
         }
       ],
