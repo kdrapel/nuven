@@ -38,43 +38,6 @@
       "articleUrl": "https://www.marktechpost.com/2026/03/06/microsoft-releases-phi-4-reasoning-vision-15b-a-compact-multimodal-model-for-math-science-and-gui-understanding/"
     },
     {
-      "id": "989",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Grammarly Privacy",
-      "mediumTitle": "Grammarly\u0027s Expert Review",
-      "longTitle": "Grammarly Faces Privacy Concerns Over AI Feature",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The core issue is that Grammarly is",
-            "utilizing the identities of individuals",
-            "to power this AI service.",
-            "This practice raises significant",
-            "questions about data privacy and the",
-            "potential for misuse of personal",
-            "information.",
-            "Reports indicate that some individuals",
-            "whose identities are being used haven\u0027t",
-            "given their consent.",
-            "Wired\u0027s investigation revealed that the",
-            "system incorporates profiles of both",
-            "living and deceased individuals without",
-            "permission.",
-            "One user was surprised to find their own",
-            "boss listed as an \u0027expert\u0027 providing",
-            "feedback through the AI.",
-            "Grammarly\u0027s new \u0027expert review\u0027 feature",
-            "aims to provide more nuanced writing",
-            "feedback by drawing on expertise."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-06T16:58:24.000Z",
-      "ranking": 7.54818181818182,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews"
-    },
-    {
       "id": "992",
       "topic": "Frameworks",
       "source": "Marktechpost AI",
@@ -111,6 +74,43 @@
       "articleUrl": "https://www.marktechpost.com/2026/03/06/google-launches-tensorflow-2-21-and-litert-faster-gpu-performance-new-npu-acceleration-and-seamless-pytorch-edge-deployment-upgrades/"
     },
     {
+      "id": "989",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Grammarly Privacy",
+      "mediumTitle": "Grammarly\u0027s Expert Review",
+      "longTitle": "Grammarly Faces Privacy Concerns Over AI Feature",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The core issue is that Grammarly is",
+            "utilizing the identities of individuals",
+            "to power this AI service.",
+            "This practice raises significant",
+            "questions about data privacy and the",
+            "potential for misuse of personal",
+            "information.",
+            "Reports indicate that some individuals",
+            "whose identities are being used haven\u0027t",
+            "given their consent.",
+            "Wired\u0027s investigation revealed that the",
+            "system incorporates profiles of both",
+            "living and deceased individuals without",
+            "permission.",
+            "One user was surprised to find their own",
+            "boss listed as an \u0027expert\u0027 providing",
+            "feedback through the AI.",
+            "Grammarly\u0027s new \u0027expert review\u0027 feature",
+            "aims to provide more nuanced writing",
+            "feedback by drawing on expertise."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-06T16:58:24.000Z",
+      "ranking": 6.2222995247703885,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews"
+    },
+    {
       "id": "990",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -144,7 +144,7 @@
         }
       ],
       "publishedAt": "2026-03-06T15:05:00.000Z",
-      "ranking": 6.209566387798362,
+      "ranking": 5.826559674321814,
       "articleUrl": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review"
     },
     {
@@ -181,7 +181,7 @@
         }
       ],
       "publishedAt": "2026-03-06T06:45:50.000Z",
-      "ranking": 5.7122890410026566,
+      "ranking": 5.2135026224444285,
       "articleUrl": "https://www.marktechpost.com/2026/03/05/liquid-ai-releases-localcowork-powered-by-lfm2-24b-a2b-to-execute-privacy-first-agent-workflows-locally-via-model-context-protocol-mcp/"
     },
     {
@@ -218,7 +218,7 @@
         }
       ],
       "publishedAt": "2026-03-06T00:07:09.000Z",
-      "ranking": 4.188290546534806,
+      "ranking": 3.5970311290580823,
       "articleUrl": "https://www.marktechpost.com/2026/03/05/a-coding-guide-to-build-a-scalable-end-to-end-machine-learning-data-pipeline-using-daft-for-high-performance-structured-and-image-data-processing/"
     },
     {
@@ -253,7 +253,7 @@
         }
       ],
       "publishedAt": "2026-03-05T19:02:22.000Z",
-      "ranking": 4.12115061489354,
+      "ranking": 3.4591978878865515,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk"
     },
     {
@@ -289,7 +289,7 @@
         }
       ],
       "publishedAt": "2026-03-05T14:00:00.000Z",
-      "ranking": 3.1898283017329936,
+      "ranking": 2.4577428434974307,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents"
     },
     {
@@ -325,7 +325,7 @@
         }
       ],
       "publishedAt": "2026-03-05T14:27:16.000Z",
-      "ranking": 2.4843140326612367,
+      "ranking": 1.7585529661200763,
       "articleUrl": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai"
     },
     {
@@ -361,7 +361,7 @@
         }
       ],
       "publishedAt": "2026-03-05T12:37:52.000Z",
-      "ranking": 2.3770661225674354,
+      "ranking": 1.6259301653618081,
       "articleUrl": "https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya"
     },
     {
@@ -394,7 +394,7 @@
         }
       ],
       "publishedAt": "2026-03-05T10:00:00.000Z",
-      "ranking": 2.2542646378082685,
+      "ranking": 1.4665121423039684,
       "articleUrl": "https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch"
     },
     {
@@ -430,7 +430,7 @@
         }
       ],
       "publishedAt": "2026-03-05T06:55:02.000Z",
-      "ranking": 1.2433159486572434,
+      "ranking": 0.41266117565553273,
       "articleUrl": "https://www.marktechpost.com/2026/03/04/yuanlab-ai-releases-yuan-3-0-ultra-a-flagship-multimodal-moe-foundation-model-built-for-stronger-intelligence-and-unrivaled-efficiency/"
     },
     {
@@ -937,6 +937,42 @@
       "articleUrl": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers"
     },
     {
+      "id": "959",
+      "topic": "Art, Ethics, Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Art Rights",
+      "mediumTitle": "US Court: No Copyright for AI Art",
+      "longTitle": "Supreme Court Upholds AI Art Copyright Ruling",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This means artwork created solely by",
+            "artificial intelligence, without",
+            "sufficient human contribution, cannot be",
+            "copyrighted in the United States.",
+            "The Supreme Court\u2019s decision not to",
+            "review the case effectively upholds the",
+            "existing legal framework regarding",
+            "AI-generated art and copyright.",
+            "The Supreme Court\u2019s inaction leaves the",
+            "lower court rulings in place,",
+            "establishing a clear precedent.",
+            "The courts have consistently maintained",
+            "that human involvement is essential for",
+            "a work to be protected by copyright.",
+            "The ruling clarifies that simply using",
+            "an AI tool does not automatically grant",
+            "copyright to the resulting work.",
+            "This decision impacts the growing field",
+            "of AI art and its legal status."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-02T13:58:05.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
+    },
+    {
       "id": "955",
       "topic": "Art",
       "source": "The Verge AI",
@@ -966,42 +1002,6 @@
             "The case specifically addresses works",
             "created *solely* by an AI system,",
             "without human intervention."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-02T13:58:05.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
-    },
-    {
-      "id": "959",
-      "topic": "Art, Ethics, Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI Art Rights",
-      "mediumTitle": "US Court: No Copyright for AI Art",
-      "longTitle": "Supreme Court Upholds AI Art Copyright Ruling",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This means artwork created solely by",
-            "artificial intelligence, without",
-            "sufficient human contribution, cannot be",
-            "copyrighted in the United States.",
-            "The Supreme Court\u2019s decision not to",
-            "review the case effectively upholds the",
-            "existing legal framework regarding",
-            "AI-generated art and copyright.",
-            "The Supreme Court\u2019s inaction leaves the",
-            "lower court rulings in place,",
-            "establishing a clear precedent.",
-            "The courts have consistently maintained",
-            "that human involvement is essential for",
-            "a work to be protected by copyright.",
-            "The ruling clarifies that simply using",
-            "an AI tool does not automatically grant",
-            "copyright to the resulting work.",
-            "This decision impacts the growing field",
-            "of AI art and its legal status."
           ]
         }
       ],
