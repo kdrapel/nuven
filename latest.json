@@ -75,43 +75,6 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews"
     },
     {
-      "id": "990",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Debate",
-      "mediumTitle": "Generative AI: Hype \u0026 Fear",
-      "longTitle": "Critique of Generative AI Discourse",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The extreme framing of generative AI \u2013",
-            "as either revolutionary or catastrophic",
-            "\u2013 prevents a balanced and informed",
-            "discussion.",
-            "Despite its increasing presence in daily",
-            "life, there\u0027s a significant lack of",
-            "understanding regarding the fundamental",
-            "nature of generative AI.",
-            "Rational assessment of generative AI is",
-            "hindered by the polarized and",
-            "sensationalized debate.",
-            "The prevalence of hyperbolic language",
-            "obscures the actual state of the",
-            "technology.",
-            "The current discourse surrounding",
-            "generative AI is heavily influenced by",
-            "exaggerated claims and predictions.",
-            "The core argument centers on the quality",
-            "of the discussion, not the technology",
-            "itself."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-06T15:05:00.000Z",
-      "ranking": 7.34,
-      "articleUrl": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review"
-    },
-    {
       "id": "992",
       "topic": "Frameworks",
       "source": "Marktechpost AI",
@@ -148,6 +111,43 @@
       "articleUrl": "https://www.marktechpost.com/2026/03/06/google-launches-tensorflow-2-21-and-litert-faster-gpu-performance-new-npu-acceleration-and-seamless-pytorch-edge-deployment-upgrades/"
     },
     {
+      "id": "990",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Debate",
+      "mediumTitle": "Generative AI: Hype \u0026 Fear",
+      "longTitle": "Critique of Generative AI Discourse",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The extreme framing of generative AI \u2013",
+            "as either revolutionary or catastrophic",
+            "\u2013 prevents a balanced and informed",
+            "discussion.",
+            "Despite its increasing presence in daily",
+            "life, there\u0027s a significant lack of",
+            "understanding regarding the fundamental",
+            "nature of generative AI.",
+            "Rational assessment of generative AI is",
+            "hindered by the polarized and",
+            "sensationalized debate.",
+            "The prevalence of hyperbolic language",
+            "obscures the actual state of the",
+            "technology.",
+            "The current discourse surrounding",
+            "generative AI is heavily influenced by",
+            "exaggerated claims and predictions.",
+            "The core argument centers on the quality",
+            "of the discussion, not the technology",
+            "itself."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-06T15:05:00.000Z",
+      "ranking": 6.209566387798362,
+      "articleUrl": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review"
+    },
+    {
       "id": "988",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -181,43 +181,8 @@
         }
       ],
       "publishedAt": "2026-03-06T06:45:50.000Z",
-      "ranking": 6.154877087737849,
+      "ranking": 5.7122890410026566,
       "articleUrl": "https://www.marktechpost.com/2026/03/05/liquid-ai-releases-localcowork-powered-by-lfm2-24b-a2b-to-execute-privacy-first-agent-workflows-locally-via-model-context-protocol-mcp/"
-    },
-    {
-      "id": "986",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI Risk",
-      "mediumTitle": "DoD Designates Anthropic",
-      "longTitle": "DoD Cites AI Use Restrictions as Supply Chain Risk",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The Department of Defense (DoD) has",
-            "officially designated Anthropic, an",
-            "artificial intelligence company, as a",
-            "\u201Csupply-chain risk\u201D.",
-            "Anthropic has implemented policies",
-            "preventing the use of its AI for",
-            "activities like weapons development or",
-            "offensive cyber operations.",
-            "Specifically, the DoD is concerned about",
-            "Anthropic\u2019s restrictions on how its AI",
-            "models can be used, particularly",
-            "regarding potential military",
-            "applications.",
-            "The DoD views these restrictions as",
-            "hindering their ability to fully",
-            "evaluate and potentially utilize",
-            "Anthropic\u2019s AI capabilities for defense",
-            "purposes."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-05T19:02:22.000Z",
-      "ranking": 4.726740076390248,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk"
     },
     {
       "id": "987",
@@ -253,8 +218,43 @@
         }
       ],
       "publishedAt": "2026-03-06T00:07:09.000Z",
-      "ranking": 4.723257601914252,
+      "ranking": 4.188290546534806,
       "articleUrl": "https://www.marktechpost.com/2026/03/05/a-coding-guide-to-build-a-scalable-end-to-end-machine-learning-data-pipeline-using-daft-for-high-performance-structured-and-image-data-processing/"
+    },
+    {
+      "id": "986",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Risk",
+      "mediumTitle": "DoD Designates Anthropic",
+      "longTitle": "DoD Cites AI Use Restrictions as Supply Chain Risk",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The Department of Defense (DoD) has",
+            "officially designated Anthropic, an",
+            "artificial intelligence company, as a",
+            "\u201Csupply-chain risk\u201D.",
+            "Anthropic has implemented policies",
+            "preventing the use of its AI for",
+            "activities like weapons development or",
+            "offensive cyber operations.",
+            "Specifically, the DoD is concerned about",
+            "Anthropic\u2019s restrictions on how its AI",
+            "models can be used, particularly",
+            "regarding potential military",
+            "applications.",
+            "The DoD views these restrictions as",
+            "hindering their ability to fully",
+            "evaluate and potentially utilize",
+            "Anthropic\u2019s AI capabilities for defense",
+            "purposes."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-05T19:02:22.000Z",
+      "ranking": 4.12115061489354,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk"
     },
     {
       "id": "984",
@@ -289,7 +289,7 @@
         }
       ],
       "publishedAt": "2026-03-05T14:00:00.000Z",
-      "ranking": 3.8654796072193034,
+      "ranking": 3.1898283017329936,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents"
     },
     {
@@ -325,7 +325,7 @@
         }
       ],
       "publishedAt": "2026-03-05T14:27:16.000Z",
-      "ranking": 3.1536473410050636,
+      "ranking": 2.4843140326612367,
       "articleUrl": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai"
     },
     {
@@ -361,7 +361,7 @@
         }
       ],
       "publishedAt": "2026-03-05T12:37:52.000Z",
-      "ranking": 3.071748674195285,
+      "ranking": 2.3770661225674354,
       "articleUrl": "https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya"
     },
     {
@@ -394,7 +394,7 @@
         }
       ],
       "publishedAt": "2026-03-05T10:00:00.000Z",
-      "ranking": 2.9855267187621743,
+      "ranking": 2.2542646378082685,
       "articleUrl": "https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch"
     },
     {
@@ -430,7 +430,7 @@
         }
       ],
       "publishedAt": "2026-03-05T06:55:02.000Z",
-      "ranking": 2.0174369412747897,
+      "ranking": 1.2433159486572434,
       "articleUrl": "https://www.marktechpost.com/2026/03/04/yuanlab-ai-releases-yuan-3-0-ultra-a-flagship-multimodal-moe-foundation-model-built-for-stronger-intelligence-and-unrivaled-efficiency/"
     },
     {
@@ -1226,41 +1226,6 @@
       "publishedAt": "2026-02-28T00:56:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/02/27/how-to-build-interactive-geospatial-dashboards-using-folium-with-heatmaps-choropleths-time-animation-marker-clustering-and-advanced-interactive-plugins/"
-    },
-    {
-      "id": "943",
-      "topic": "Policy",
-      "source": "The Verge AI",
-      "shortTitle": "Anthropic Ban",
-      "mediumTitle": "US Government Targets AI Firm",
-      "longTitle": "Anthropic Faces Ban \u0026 Risk Designation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article does not provide any details",
-            "regarding the specific concerns driving",
-            "the ban or the risk designation.",
-            "Pete Hegseth, the current Secretary of",
-            "Defense, made the official \u201Csupply-chain",
-            "risk\u201D designation regarding Anthropic.",
-            "Anthropic, an artificial intelligence",
-            "company, is the target of these recent",
-            "governmental actions.",
-            "Anthropic intends to pursue legal action",
-            "to contest the designation.",
-            "The announcement from Donald Trump",
-            "preceded the formal designation by",
-            "Secretary Hegseth by roughly two hours.",
-            "The sequence of events is clearly",
-            "outlined: Trump\u2019s announcement,",
-            "Hegseth\u2019s designation, and Anthropic\u2019s",
-            "response."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-27T22:19:16.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff"
     }
   ]
 }
