@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "995",
+      "topic": "Policy",
+      "source": "Marktechpost AI",
+      "shortTitle": "AGI Debate",
+      "mediumTitle": "LeCun Challenges AGI",
+      "longTitle": "Researchers Question the AGI Pursuit",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Yann LeCun and his team recently",
+            "released a new research paper addressing",
+            "the concept of Artificial General",
+            "Intelligence (AGI).",
+            "The central argument of the paper is",
+            "that the definition of AGI has become",
+            "vague and inconsistent over time.",
+            "This inconsistency, they argue, hinders",
+            "productive research and development in",
+            "the field of AI.",
+            "The researchers suggest that the pursuit",
+            "of AGI, as currently defined, may be",
+            "misdirected.",
+            "As an alternative, they introduce the",
+            "concept of Superhuman Adaptable",
+            "Intelligence (SAI).",
+            "The article does not provide a detailed",
+            "explanation of what SAI entails."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-08T04:57:57.000Z",
+      "ranking": 7.32,
+      "articleUrl": "https://www.marktechpost.com/2026/03/07/yann-lecuns-new-ai-paper-argues-agi-is-misdefined-and-introduces-superhuman-adaptable-intelligence-sai-instead/"
+    },
+    {
       "id": "992",
       "topic": "Frameworks",
       "source": "Marktechpost AI",
@@ -33,7 +68,7 @@
         }
       ],
       "publishedAt": "2026-03-07T05:32:53.000Z",
-      "ranking": 7.254999999999999,
+      "ranking": 5.990760033951236,
       "articleUrl": "https://www.marktechpost.com/2026/03/06/google-launches-tensorflow-2-21-and-litert-faster-gpu-performance-new-npu-acceleration-and-seamless-pytorch-edge-deployment-upgrades/"
     },
     {
@@ -70,7 +105,7 @@
         }
       ],
       "publishedAt": "2026-03-07T00:53:26.000Z",
-      "ranking": 6.229455861199495,
+      "ranking": 5.816698128593504,
       "articleUrl": "https://www.marktechpost.com/2026/03/06/microsoft-releases-phi-4-reasoning-vision-15b-a-compact-multimodal-model-for-math-science-and-gui-understanding/"
     },
     {
@@ -107,7 +142,7 @@
         }
       ],
       "publishedAt": "2026-03-06T16:58:24.000Z",
-      "ranking": 5.354207521451055,
+      "ranking": 4.831186646682488,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews"
     },
     {
@@ -144,7 +179,7 @@
         }
       ],
       "publishedAt": "2026-03-06T15:05:00.000Z",
-      "ranking": 4.9065340266487905,
+      "ranking": 4.357191123681953,
       "articleUrl": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review"
     },
     {
@@ -181,7 +216,7 @@
         }
       ],
       "publishedAt": "2026-03-06T06:45:50.000Z",
-      "ranking": 4.064874297612404,
+      "ranking": 3.399666500481483,
       "articleUrl": "https://www.marktechpost.com/2026/03/05/liquid-ai-releases-localcowork-powered-by-lfm2-24b-a2b-to-execute-privacy-first-agent-workflows-locally-via-model-context-protocol-mcp/"
     },
     {
@@ -218,7 +253,7 @@
         }
       ],
       "publishedAt": "2026-03-06T00:07:09.000Z",
-      "ranking": 2.265818341785444,
+      "ranking": 1.5080695055377022,
       "articleUrl": "https://www.marktechpost.com/2026/03/05/a-coding-guide-to-build-a-scalable-end-to-end-machine-learning-data-pipeline-using-daft-for-high-performance-structured-and-image-data-processing/"
     },
     {
@@ -253,44 +288,8 @@
         }
       ],
       "publishedAt": "2026-03-05T19:02:22.000Z",
-      "ranking": 1.9884037860303092,
+      "ranking": 1.1599095867135825,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk"
-    },
-    {
-      "id": "984",
-      "topic": "Large Models, NLP",
-      "source": "The Verge AI",
-      "shortTitle": "GPT-5.4",
-      "mediumTitle": "OpenAI Releases GPT-5.4",
-      "longTitle": "GPT-5.4: New AI Model with Computer Control",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A defining characteristic of GPT-5.4 is",
-            "its ability to natively use a computer,",
-            "going beyond simply processing",
-            "information.",
-            "GPT-5.4 introduces a fundamentally new",
-            "way for AI to interact with and control",
-            "computer systems.",
-            "This means it can directly control",
-            "applications and perform actions on a",
-            "computer system.",
-            "The ability to execute tasks across",
-            "various applications is done *on behalf",
-            "of the user*, automating workflows.",
-            "OpenAI is releasing GPT-5.4, its newest",
-            "AI model, representing a leap forward in",
-            "artificial intelligence.",
-            "This functionality is a substantial",
-            "advancement in the field of AI, moving",
-            "beyond passive assistance."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-05T14:00:00.000Z",
-      "ranking": 0.8484742903170233,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents"
     },
     {
       "id": "983",
@@ -325,8 +324,44 @@
         }
       ],
       "publishedAt": "2026-03-05T14:27:16.000Z",
-      "ranking": 0.16177169350607823,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai"
+    },
+    {
+      "id": "984",
+      "topic": "Large Models, NLP",
+      "source": "The Verge AI",
+      "shortTitle": "GPT-5.4",
+      "mediumTitle": "OpenAI Releases GPT-5.4",
+      "longTitle": "GPT-5.4: New AI Model with Computer Control",
+      "paragraphs": [
+        {
+          "Lines": [
+            "A defining characteristic of GPT-5.4 is",
+            "its ability to natively use a computer,",
+            "going beyond simply processing",
+            "information.",
+            "GPT-5.4 introduces a fundamentally new",
+            "way for AI to interact with and control",
+            "computer systems.",
+            "This means it can directly control",
+            "applications and perform actions on a",
+            "computer system.",
+            "The ability to execute tasks across",
+            "various applications is done *on behalf",
+            "of the user*, automating workflows.",
+            "OpenAI is releasing GPT-5.4, its newest",
+            "AI model, representing a leap forward in",
+            "artificial intelligence.",
+            "This functionality is a substantial",
+            "advancement in the field of AI, moving",
+            "beyond passive assistance."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-05T14:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents"
     },
     {
       "id": "985",
@@ -1154,78 +1189,6 @@
       "publishedAt": "2026-03-01T10:16:26.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/"
-    },
-    {
-      "id": "944",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "AI Planner",
-      "mediumTitle": "Hierarchical Planner AI",
-      "longTitle": "Building a Hierarchical Planning AI Agent",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This tutorial details the creation of a",
-            "hierarchical planner AI agent.",
-            "The agent utilizes open-source Large",
-            "Language Models (LLMs).",
-            "Tool execution and structured",
-            "multi-agent reasoning are key components",
-            "of the system.",
-            "The planner agent transforms high-level",
-            "goals into manageable steps.",
-            "The executor agent interacts with the",
-            "external environment through tool",
-            "execution.",
-            "The aggregator agent consolidates",
-            "results from the executor agent.",
-            "The aggregator agent provides feedback",
-            "to potentially refine the overall plan.",
-            "The system leverages open-source",
-            "instruct models for accessibility.",
-            "The structured architecture improves the",
-            "agent\u0027s ability to handle complex tasks."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-28T03:18:20.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/"
-    },
-    {
-      "id": "945",
-      "topic": "Dev Tools",
-      "source": "Marktechpost AI",
-      "shortTitle": "Folium Maps",
-      "mediumTitle": "Folium Geospatial Dashboards",
-      "longTitle": "Building Interactive Maps with Folium",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This tutorial demonstrates building",
-            "interactive geospatial dashboards using",
-            "the Folium Python library.",
-            "Choropleth maps, which represent",
-            "region-level data, can be created from",
-            "GeoJSON data.",
-            "Spatial density can be visualized",
-            "effectively using heatmaps within",
-            "Folium.",
-            "Folium allows users to leverage its",
-            "features to create dynamic and",
-            "informative geospatial visualizations.",
-            "Marker clustering is a technique used to",
-            "handle large datasets efficiently,",
-            "preventing performance issues.",
-            "Folium maps can be created and run in",
-            "environments such as Google Colab or",
-            "local Python setups."
-          ]
-        }
-      ],
-      "publishedAt": "2026-02-28T00:56:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/02/27/how-to-build-interactive-geospatial-dashboards-using-folium-with-heatmaps-choropleths-time-animation-marker-clustering-and-advanced-interactive-plugins/"
     }
   ]
 }
