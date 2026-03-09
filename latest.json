@@ -73,6 +73,41 @@
       "articleUrl": "https://www.marktechpost.com/2026/03/08/andrej-karpathy-open-sources-autoresearch-a-630-line-python-tool-letting-ai-agents-run-autonomous-ml-experiments-on-single-gpus/"
     },
     {
+      "id": "1001",
+      "topic": "Security",
+      "source": "The Verge AI",
+      "shortTitle": "X \u0026 Grok",
+      "mediumTitle": "X Adds Grok Photo Control",
+      "longTitle": "X Lets Users Block Grok Edits to Photos",
+      "paragraphs": [
+        {
+          "Lines": [
+            "When activated, the toggle aims to",
+            "prevent any alterations to the user\u2019s",
+            "images by the Grok chatbot.",
+            "The update directly addresses concerns",
+            "raised by users regarding potential",
+            "unwanted image modifications.",
+            "This new feature provides users with",
+            "increased control over how their content",
+            "is interacted with on the platform.",
+            "Users expressed worry that Grok might",
+            "alter uploaded images without their",
+            "explicit consent.",
+            "Reports from Social Media Today and",
+            "verification by The Verge have confirmed",
+            "the feature\u2019s existence.",
+            "X, previously known as Twitter, has",
+            "implemented a new feature focused on",
+            "user control over image editing."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-09T12:24:03.000Z",
+      "ranking": 7.35,
+      "articleUrl": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle"
+    },
+    {
       "id": "995",
       "topic": "Policy",
       "source": "Marktechpost AI",
@@ -104,7 +139,7 @@
         }
       ],
       "publishedAt": "2026-03-08T04:57:57.000Z",
-      "ranking": 5.12304773886264,
+      "ranking": 4.590695449156227,
       "articleUrl": "https://www.marktechpost.com/2026/03/07/yann-lecuns-new-ai-paper-argues-agi-is-misdefined-and-introduces-superhuman-adaptable-intelligence-sai-instead/"
     },
     {
@@ -140,7 +175,7 @@
         }
       ],
       "publishedAt": "2026-03-07T05:32:53.000Z",
-      "ranking": 1.213468568538441,
+      "ranking": 0.3496595893365386,
       "articleUrl": "https://www.marktechpost.com/2026/03/06/google-launches-tensorflow-2-21-and-litert-faster-gpu-performance-new-npu-acceleration-and-seamless-pytorch-edge-deployment-upgrades/"
     },
     {
@@ -177,7 +212,7 @@
         }
       ],
       "publishedAt": "2026-03-07T00:53:26.000Z",
-      "ranking": 0.5218154192894131,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/03/06/microsoft-releases-phi-4-reasoning-vision-15b-a-compact-multimodal-model-for-math-science-and-gui-understanding/"
     },
     {
@@ -1044,42 +1079,6 @@
       "articleUrl": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers"
     },
     {
-      "id": "959",
-      "topic": "Art, Ethics, Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI Art Rights",
-      "mediumTitle": "US Court: No Copyright for AI Art",
-      "longTitle": "Supreme Court Upholds AI Art Copyright Ruling",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This means artwork created solely by",
-            "artificial intelligence, without",
-            "sufficient human contribution, cannot be",
-            "copyrighted in the United States.",
-            "The Supreme Court\u2019s decision not to",
-            "review the case effectively upholds the",
-            "existing legal framework regarding",
-            "AI-generated art and copyright.",
-            "The Supreme Court\u2019s inaction leaves the",
-            "lower court rulings in place,",
-            "establishing a clear precedent.",
-            "The courts have consistently maintained",
-            "that human involvement is essential for",
-            "a work to be protected by copyright.",
-            "The ruling clarifies that simply using",
-            "an AI tool does not automatically grant",
-            "copyright to the resulting work.",
-            "This decision impacts the growing field",
-            "of AI art and its legal status."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-02T13:58:05.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
-    },
-    {
       "id": "955",
       "topic": "Art",
       "source": "The Verge AI",
@@ -1109,6 +1108,42 @@
             "The case specifically addresses works",
             "created *solely* by an AI system,",
             "without human intervention."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-02T13:58:05.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
+    },
+    {
+      "id": "959",
+      "topic": "Art, Ethics, Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Art Rights",
+      "mediumTitle": "US Court: No Copyright for AI Art",
+      "longTitle": "Supreme Court Upholds AI Art Copyright Ruling",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This means artwork created solely by",
+            "artificial intelligence, without",
+            "sufficient human contribution, cannot be",
+            "copyrighted in the United States.",
+            "The Supreme Court\u2019s decision not to",
+            "review the case effectively upholds the",
+            "existing legal framework regarding",
+            "AI-generated art and copyright.",
+            "The Supreme Court\u2019s inaction leaves the",
+            "lower court rulings in place,",
+            "establishing a clear precedent.",
+            "The courts have consistently maintained",
+            "that human involvement is essential for",
+            "a work to be protected by copyright.",
+            "The ruling clarifies that simply using",
+            "an AI tool does not automatically grant",
+            "copyright to the resulting work.",
+            "This decision impacts the growing field",
+            "of AI art and its legal status."
           ]
         }
       ],
