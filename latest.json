@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "997",
+      "topic": "Training Tricks",
+      "source": "Marktechpost AI",
+      "shortTitle": "Autoresearch",
+      "mediumTitle": "AI-Driven ML Tool",
+      "longTitle": "Andrej Karpathy\u0027s Autoresearch Released",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The core function of Autoresearch is to",
+            "allow AI agents to independently run",
+            "machine learning experiments.",
+            "Andrej Karpathy has open-sourced",
+            "Autoresearch, making it publicly",
+            "available.",
+            "The project\u0027s primary focus is on",
+            "enabling \u0027Autonomous Iteration\u0027 in",
+            "machine learning.",
+            "Autoresearch is specifically designed to",
+            "operate efficiently on a single NVIDIA",
+            "GPU.",
+            "Autonomous Iteration refers to the AI",
+            "agent\u0027s ability to control and direct",
+            "its own experimentation process.",
+            "It represents a significantly reduced",
+            "implementation of the training system",
+            "behind the nanochat LLM."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-09T03:47:38.000Z",
+      "ranking": 7.739999999999999,
+      "articleUrl": "https://www.marktechpost.com/2026/03/08/andrej-karpathy-open-sources-autoresearch-a-630-line-python-tool-letting-ai-agents-run-autonomous-ml-experiments-on-single-gpus/"
+    },
+    {
       "id": "995",
       "topic": "Policy",
       "source": "Marktechpost AI",
@@ -68,7 +103,7 @@
         }
       ],
       "publishedAt": "2026-03-07T05:32:53.000Z",
-      "ranking": 4.044943293517358,
+      "ranking": 3.4181081416937884,
       "articleUrl": "https://www.marktechpost.com/2026/03/06/google-launches-tensorflow-2-21-and-litert-faster-gpu-performance-new-npu-acceleration-and-seamless-pytorch-edge-deployment-upgrades/"
     },
     {
@@ -105,7 +140,7 @@
         }
       ],
       "publishedAt": "2026-03-07T00:53:26.000Z",
-      "ranking": 3.6118937812387872,
+      "ranking": 2.920189182186556,
       "articleUrl": "https://www.marktechpost.com/2026/03/06/microsoft-releases-phi-4-reasoning-vision-15b-a-compact-multimodal-model-for-math-science-and-gui-understanding/"
     },
     {
@@ -142,7 +177,7 @@
         }
       ],
       "publishedAt": "2026-03-06T16:58:24.000Z",
-      "ranking": 2.1861327136474635,
+      "ranking": 1.3841574047866043,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews"
     },
     {
@@ -179,7 +214,7 @@
         }
       ],
       "publishedAt": "2026-03-06T15:05:00.000Z",
-      "ranking": 1.6070407650242151,
+      "ranking": 0.7787416047060312,
       "articleUrl": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review"
     },
     {
@@ -216,7 +251,7 @@
         }
       ],
       "publishedAt": "2026-03-06T06:45:50.000Z",
-      "ranking": 0.18690035725458998,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/03/05/liquid-ai-releases-localcowork-powered-by-lfm2-24b-a2b-to-execute-privacy-first-agent-workflows-locally-via-model-context-protocol-mcp/"
     },
     {
@@ -972,42 +1007,6 @@
       "articleUrl": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers"
     },
     {
-      "id": "959",
-      "topic": "Art, Ethics, Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI Art Rights",
-      "mediumTitle": "US Court: No Copyright for AI Art",
-      "longTitle": "Supreme Court Upholds AI Art Copyright Ruling",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This means artwork created solely by",
-            "artificial intelligence, without",
-            "sufficient human contribution, cannot be",
-            "copyrighted in the United States.",
-            "The Supreme Court\u2019s decision not to",
-            "review the case effectively upholds the",
-            "existing legal framework regarding",
-            "AI-generated art and copyright.",
-            "The Supreme Court\u2019s inaction leaves the",
-            "lower court rulings in place,",
-            "establishing a clear precedent.",
-            "The courts have consistently maintained",
-            "that human involvement is essential for",
-            "a work to be protected by copyright.",
-            "The ruling clarifies that simply using",
-            "an AI tool does not automatically grant",
-            "copyright to the resulting work.",
-            "This decision impacts the growing field",
-            "of AI art and its legal status."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-02T13:58:05.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
-    },
-    {
       "id": "955",
       "topic": "Art",
       "source": "The Verge AI",
@@ -1037,6 +1036,42 @@
             "The case specifically addresses works",
             "created *solely* by an AI system,",
             "without human intervention."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-02T13:58:05.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
+    },
+    {
+      "id": "959",
+      "topic": "Art, Ethics, Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Art Rights",
+      "mediumTitle": "US Court: No Copyright for AI Art",
+      "longTitle": "Supreme Court Upholds AI Art Copyright Ruling",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This means artwork created solely by",
+            "artificial intelligence, without",
+            "sufficient human contribution, cannot be",
+            "copyrighted in the United States.",
+            "The Supreme Court\u2019s decision not to",
+            "review the case effectively upholds the",
+            "existing legal framework regarding",
+            "AI-generated art and copyright.",
+            "The Supreme Court\u2019s inaction leaves the",
+            "lower court rulings in place,",
+            "establishing a clear precedent.",
+            "The courts have consistently maintained",
+            "that human involvement is essential for",
+            "a work to be protected by copyright.",
+            "The ruling clarifies that simply using",
+            "an AI tool does not automatically grant",
+            "copyright to the resulting work.",
+            "This decision impacts the growing field",
+            "of AI art and its legal status."
           ]
         }
       ],
@@ -1152,43 +1187,6 @@
       "publishedAt": "2026-03-02T07:13:50.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/03/01/how-to-build-an-explainable-ai-analysis-pipeline-using-shap-iq-to-understand-feature-importance-interaction-effects-and-model-decision-breakdown/"
-    },
-    {
-      "id": "948",
-      "topic": "Dev Tools, Model Eval, Tuning",
-      "source": "Marktechpost AI",
-      "shortTitle": "MLflow Guide",
-      "mediumTitle": "MLflow Workflow Tutorial",
-      "longTitle": "Complete MLflow Workflow for ML Lifecycle",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article details a complete machine",
-            "learning workflow built using MLflow.",
-            "This workflow encompasses experiment",
-            "tracking, hyperparameter optimization,",
-            "model evaluation, and live model",
-            "deployment.",
-            "The article demonstrates deployment of",
-            "the best model for live prediction.",
-            "Logging of parameters, metrics, and",
-            "artifacts is automated for each run.",
-            "The core workflow involves training",
-            "multiple machine learning models.",
-            "A dedicated MLflow Tracking Server is",
-            "set up with a structured backend and",
-            "artifact store.",
-            "A nested hyperparameter sweep is used to",
-            "automate the training process.",
-            "The Tracking Server is designed for",
-            "scalable and reproducible experiment",
-            "tracking."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-01T10:16:26.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/"
     }
   ]
 }
