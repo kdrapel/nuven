@@ -1,43 +1,6 @@
 {
   "articles": [
     {
-      "id": "998",
-      "topic": "Science",
-      "source": "Marktechpost AI",
-      "shortTitle": "scRNA-seq",
-      "mediumTitle": "Scanpy scRNA-seq Pipeline",
-      "longTitle": "Analyzing Single-Cell Data with Scanpy",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This tutorial details building a",
-            "single-cell RNA sequencing (scRNA-seq)",
-            "analysis pipeline using the Scanpy",
-            "library in Python.",
-            "Cell type annotation involves assigning",
-            "biological identities to the identified",
-            "clusters based on known marker genes.",
-            "Identifying highly variable genes helps",
-            "focus the analysis on genes that exhibit",
-            "significant cell-to-cell variation.",
-            "PCA reduces the dimensionality of the",
-            "data while preserving the most important",
-            "sources of variation.",
-            "Leiden clustering is a graph-based",
-            "clustering algorithm that identifies",
-            "groups of cells with similar expression",
-            "patterns.",
-            "Initial data preparation involves",
-            "quality control (QC) to remove",
-            "low-quality cells and noise."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-09T06:03:21.000Z",
-      "ranking": 8.258333333333333,
-      "articleUrl": "https://www.marktechpost.com/2026/03/08/a-coding-guide-to-build-a-complete-single-cell-rna-sequencing-analysis-pipeline-using-scanpy-for-clustering-visualization-and-cell-type-annotation/"
-    },
-    {
       "id": "1001",
       "topic": "Security",
       "source": "The Verge AI",
@@ -110,6 +73,43 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google"
     },
     {
+      "id": "998",
+      "topic": "Science",
+      "source": "Marktechpost AI",
+      "shortTitle": "scRNA-seq",
+      "mediumTitle": "Scanpy scRNA-seq Pipeline",
+      "longTitle": "Analyzing Single-Cell Data with Scanpy",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This tutorial details building a",
+            "single-cell RNA sequencing (scRNA-seq)",
+            "analysis pipeline using the Scanpy",
+            "library in Python.",
+            "Cell type annotation involves assigning",
+            "biological identities to the identified",
+            "clusters based on known marker genes.",
+            "Identifying highly variable genes helps",
+            "focus the analysis on genes that exhibit",
+            "significant cell-to-cell variation.",
+            "PCA reduces the dimensionality of the",
+            "data while preserving the most important",
+            "sources of variation.",
+            "Leiden clustering is a graph-based",
+            "clustering algorithm that identifies",
+            "groups of cells with similar expression",
+            "patterns.",
+            "Initial data preparation involves",
+            "quality control (QC) to remove",
+            "low-quality cells and noise."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-09T06:03:21.000Z",
+      "ranking": 7.038749198093855,
+      "articleUrl": "https://www.marktechpost.com/2026/03/08/a-coding-guide-to-build-a-complete-single-cell-rna-sequencing-analysis-pipeline-using-scanpy-for-clustering-visualization-and-cell-type-annotation/"
+    },
+    {
       "id": "997",
       "topic": "Training Tricks",
       "source": "Marktechpost AI",
@@ -141,7 +141,7 @@
         }
       ],
       "publishedAt": "2026-03-09T03:47:38.000Z",
-      "ranking": 6.675682192279591,
+      "ranking": 6.303368780726084,
       "articleUrl": "https://www.marktechpost.com/2026/03/08/andrej-karpathy-open-sources-autoresearch-a-630-line-python-tool-letting-ai-agents-run-autonomous-ml-experiments-on-single-gpus/"
     },
     {
@@ -176,7 +176,7 @@
         }
       ],
       "publishedAt": "2026-03-08T04:57:57.000Z",
-      "ranking": 3.388397964953243,
+      "ranking": 2.698512585617233,
       "articleUrl": "https://www.marktechpost.com/2026/03/07/yann-lecuns-new-ai-paper-argues-agi-is-misdefined-and-introduces-superhuman-adaptable-intelligence-sai-instead/"
     },
     {
@@ -1116,42 +1116,6 @@
       "articleUrl": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers"
     },
     {
-      "id": "959",
-      "topic": "Art, Ethics, Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI Art Rights",
-      "mediumTitle": "US Court: No Copyright for AI Art",
-      "longTitle": "Supreme Court Upholds AI Art Copyright Ruling",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This means artwork created solely by",
-            "artificial intelligence, without",
-            "sufficient human contribution, cannot be",
-            "copyrighted in the United States.",
-            "The Supreme Court\u2019s decision not to",
-            "review the case effectively upholds the",
-            "existing legal framework regarding",
-            "AI-generated art and copyright.",
-            "The Supreme Court\u2019s inaction leaves the",
-            "lower court rulings in place,",
-            "establishing a clear precedent.",
-            "The courts have consistently maintained",
-            "that human involvement is essential for",
-            "a work to be protected by copyright.",
-            "The ruling clarifies that simply using",
-            "an AI tool does not automatically grant",
-            "copyright to the resulting work.",
-            "This decision impacts the growing field",
-            "of AI art and its legal status."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-02T13:58:05.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
-    },
-    {
       "id": "955",
       "topic": "Art",
       "source": "The Verge AI",
@@ -1181,6 +1145,42 @@
             "The case specifically addresses works",
             "created *solely* by an AI system,",
             "without human intervention."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-02T13:58:05.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
+    },
+    {
+      "id": "959",
+      "topic": "Art, Ethics, Policy",
+      "source": "The Verge AI",
+      "shortTitle": "AI Art Rights",
+      "mediumTitle": "US Court: No Copyright for AI Art",
+      "longTitle": "Supreme Court Upholds AI Art Copyright Ruling",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This means artwork created solely by",
+            "artificial intelligence, without",
+            "sufficient human contribution, cannot be",
+            "copyrighted in the United States.",
+            "The Supreme Court\u2019s decision not to",
+            "review the case effectively upholds the",
+            "existing legal framework regarding",
+            "AI-generated art and copyright.",
+            "The Supreme Court\u2019s inaction leaves the",
+            "lower court rulings in place,",
+            "establishing a clear precedent.",
+            "The courts have consistently maintained",
+            "that human involvement is essential for",
+            "a work to be protected by copyright.",
+            "The ruling clarifies that simply using",
+            "an AI tool does not automatically grant",
+            "copyright to the resulting work.",
+            "This decision impacts the growing field",
+            "of AI art and its legal status."
           ]
         }
       ],
