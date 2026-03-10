@@ -72,41 +72,77 @@
       "articleUrl": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch"
     },
     {
-      "id": "1003",
-      "topic": "Policy",
+      "id": "1011",
+      "topic": "Ethics",
       "source": "The Verge AI",
-      "shortTitle": "Anthropic Lawsuit",
-      "mediumTitle": "Anthropic Sues DoD",
-      "longTitle": "Anthropic Challenges DoD Risk Designation",
+      "shortTitle": "Grammarly AI",
+      "mediumTitle": "Grammarly Uses Author Names",
+      "longTitle": "Grammarly AI Impersonates Authors",
       "paragraphs": [
         {
           "Lines": [
-            "Anthropic\u2019s lawsuit challenges the",
-            "Department of Defense\u2019s decision to",
-            "designate the company as a supply chain",
-            "risk.",
-            "The amicus brief raises questions about",
-            "the foundation of the DoD\u2019s actions",
-            "regarding Anthropic.",
-            "Specifically, the brief suggests the",
-            "DoD\u2019s concerns stem from policies first",
-            "implemented during the Trump",
-            "administration.",
-            "Jeff Dean, a key figure at Google and",
-            "leading the Gemini project, is a",
-            "signatory to the supporting brief.",
-            "The legal action was quickly followed by",
-            "the submission of an amicus brief",
-            "backing Anthropic\u2019s position.",
-            "Approximately 40 individuals from",
-            "prominent AI companies, OpenAI and",
-            "Google, contributed to the amicus brief."
+            "Authors were not asked for permission",
+            "before Grammarly began using their names",
+            "in this way.",
+            "The article highlights concern over this",
+            "default setting and the ethical",
+            "implications of using someone\u2019s identity",
+            "without explicit consent.",
+            "Grammarly states that users must",
+            "*actively opt-out* to prevent their",
+            "identities from being used.",
+            "This practice could potentially mislead",
+            "Superhuman users into believing the",
+            "edits were made by the authors",
+            "themselves.",
+            "Grammarly is utilizing authors\u0027",
+            "identities \u2013 specifically their names \u2013",
+            "to represent AI-powered editing",
+            "suggestions within the Superhuman email",
+            "client."
           ]
         }
       ],
-      "publishedAt": "2026-03-09T17:45:24.000Z",
-      "ranking": 7.3,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google"
+      "publishedAt": "2026-03-10T12:54:42.000Z",
+      "ranking": 7.5699999999999985,
+      "articleUrl": "https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email"
+    },
+    {
+      "id": "1012",
+      "topic": "Large Models",
+      "source": "The Verge AI",
+      "shortTitle": "Meta \u0026 Moltbook",
+      "mediumTitle": "Meta Acquires AI Platform",
+      "longTitle": "Meta Buys Moltbook to Boost AI Agent Research",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta is acquiring Moltbook, a platform",
+            "designed as a social network for",
+            "artificial intelligence (AI) agents.",
+            "The acquisition was first reported by",
+            "Axios and subsequently confirmed by Meta",
+            "spokesperson Matthew Tye to The Verge.",
+            "The Moltbook team will be integrated",
+            "into Meta\u2019s Superintelligence Labs.",
+            "Meta\u2019s stated goal with this acquisition",
+            "is to explore \u201Cnew ways for AI agents to",
+            "work for people.\u201D",
+            "This acquisition signals Meta\u2019s",
+            "continued investment in and exploration",
+            "of AI agent technology.",
+            "Moltbook functions similarly to Reddit,",
+            "allowing AI agents to create posts and",
+            "engage in commenting and discussion.",
+            "Integrating Moltbook\u2019s technology could",
+            "accelerate Meta\u2019s AI research and",
+            "development."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-10T12:22:17.000Z",
+      "ranking": 7.435,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892178/meta-moltbook-acquisition-ai-agents"
     },
     {
       "id": "1007",
@@ -180,6 +216,79 @@
       "articleUrl": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive"
     },
     {
+      "id": "1010",
+      "topic": "Security",
+      "source": "The Verge AI",
+      "shortTitle": "Perplexity AI Block",
+      "mediumTitle": "Amazon Blocks Perplexity",
+      "longTitle": "Amazon Wins Injunction vs. Perplexity AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon presented \u201Cstrong evidence\u201D that",
+            "Perplexity\u2019s technology was placing",
+            "orders even without direct user requests",
+            "or provided login credentials.",
+            "The judge\u2019s order specifically halts the",
+            "AI\u2019s ability to autonomously shop on",
+            "Amazon for users.",
+            "Amazon claims Perplexity\u2019s actions",
+            "create security risks for consumers.",
+            "The lawsuit alleges that Perplexity\u2019s",
+            "actions cause confusion among consumers.",
+            "Amazon is concerned about unauthorized",
+            "purchases being made through the AI.",
+            "Amazon also asserts that Perplexity\u2019s",
+            "actions damage its brand reputation.",
+            "The injunction is temporary, pending",
+            "further legal proceedings.",
+            "The case centers around Perplexity\u2019s",
+            "\u201CComet\u201D browser-based AI agents."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-10T15:11:43.000Z",
+      "ranking": 6.654999999999999,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order"
+    },
+    {
+      "id": "1003",
+      "topic": "Policy",
+      "source": "The Verge AI",
+      "shortTitle": "Anthropic Lawsuit",
+      "mediumTitle": "Anthropic Sues DoD",
+      "longTitle": "Anthropic Challenges DoD Risk Designation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Anthropic\u2019s lawsuit challenges the",
+            "Department of Defense\u2019s decision to",
+            "designate the company as a supply chain",
+            "risk.",
+            "The amicus brief raises questions about",
+            "the foundation of the DoD\u2019s actions",
+            "regarding Anthropic.",
+            "Specifically, the brief suggests the",
+            "DoD\u2019s concerns stem from policies first",
+            "implemented during the Trump",
+            "administration.",
+            "Jeff Dean, a key figure at Google and",
+            "leading the Gemini project, is a",
+            "signatory to the supporting brief.",
+            "The legal action was quickly followed by",
+            "the submission of an amicus brief",
+            "backing Anthropic\u2019s position.",
+            "Approximately 40 individuals from",
+            "prominent AI companies, OpenAI and",
+            "Google, contributed to the amicus brief."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-09T17:45:24.000Z",
+      "ranking": 6.049610090887616,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google"
+    },
+    {
       "id": "998",
       "topic": "Science",
       "source": "Marktechpost AI",
@@ -213,7 +322,7 @@
         }
       ],
       "publishedAt": "2026-03-09T06:03:21.000Z",
-      "ranking": 6.189419645850515,
+      "ranking": 5.679922518964538,
       "articleUrl": "https://www.marktechpost.com/2026/03/08/a-coding-guide-to-build-a-complete-single-cell-rna-sequencing-analysis-pipeline-using-scanpy-for-clustering-visualization-and-cell-type-annotation/"
     },
     {
@@ -248,7 +357,7 @@
         }
       ],
       "publishedAt": "2026-03-09T12:24:03.000Z",
-      "ranking": 5.971731303373667,
+      "ranking": 5.550731690416818,
       "articleUrl": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle"
     },
     {
@@ -283,7 +392,7 @@
         }
       ],
       "publishedAt": "2026-03-09T03:47:38.000Z",
-      "ranking": 5.391077233533835,
+      "ranking": 4.8500314148324515,
       "articleUrl": "https://www.marktechpost.com/2026/03/08/andrej-karpathy-open-sources-autoresearch-a-630-line-python-tool-letting-ai-agents-run-autonomous-ml-experiments-on-single-gpus/"
     },
     {
@@ -318,7 +427,7 @@
         }
       ],
       "publishedAt": "2026-03-08T04:57:57.000Z",
-      "ranking": 1.1507943932607816,
+      "ranking": 0.2913520176853206,
       "articleUrl": "https://www.marktechpost.com/2026/03/07/yann-lecuns-new-ai-paper-argues-agi-is-misdefined-and-introduces-superhuman-adaptable-intelligence-sai-instead/"
     },
     {
@@ -1076,114 +1185,6 @@
       "publishedAt": "2026-03-03T09:32:06.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/03/03/alibaba-releases-opensandbox-to-provide-software-developers-with-a-unified-secure-and-scalable-api-for-autonomous-ai-agent-execution/"
-    },
-    {
-      "id": "962",
-      "topic": "Data Prep,Feature Eng",
-      "source": "Marktechpost AI",
-      "shortTitle": "Vaex Pipeline",
-      "mediumTitle": "Scalable Analytics with Vaex",
-      "longTitle": "Building a Vaex Analytics Pipeline",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This tutorial details building a",
-            "scalable analytics and machine learning",
-            "pipeline using Vaex.",
-            "A key feature is Vaex\u2019s ability to avoid",
-            "loading the entire dataset into memory.",
-            "Vaex can work with datasets far",
-            "exceeding available RAM.",
-            "The pipeline is designed to efficiently",
-            "handle datasets with millions of rows.",
-            "Lazy expressions allow for the creation",
-            "of rich behavioral and city-level",
-            "features.",
-            "This makes Vaex suitable for",
-            "production-style analytics and modeling.",
-            "Vaex integrates with scikit-learn for",
-            "applying traditional machine learning",
-            "algorithms.",
-            "These expressions don\u0027t require",
-            "immediate computation or significant",
-            "memory overhead."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-03T04:23:03.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/03/02/a-coding-guide-to-build-a-scalable-end-to-end-analytics-and-machine-learning-pipeline-on-millions-of-rows-using-vaex/"
-    },
-    {
-      "id": "961",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Alibaba Qwen3.5",
-      "mediumTitle": "Alibaba Releases Qwen3.5 LLMs",
-      "longTitle": "Alibaba\u0027s Qwen3.5 Small Model Series Released",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The core philosophy behind Qwen3.5 is to",
-            "maximize intelligence while minimizing",
-            "the computational resources required.",
-            "The models are designed to be deployed",
-            "in resource-constrained environments,",
-            "making them suitable for a wider range",
-            "of applications.",
-            "A key target application for these",
-            "models is on-device deployment, enabling",
-            "AI functionality directly on user",
-            "devices.",
-            "This approach contrasts with the common",
-            "industry practice of continually",
-            "increasing parameter counts to achieve",
-            "performance gains.",
-            "Alibaba\u2019s Qwen team is responsible for",
-            "the development and release of the",
-            "Qwen3.5 Small Model Series."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-03T03:21:07.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/03/02/alibaba-just-released-qwen-3-5-small-models-a-family-of-0-8b-to-9b-parameters-built-for-on-device-applications/"
-    },
-    {
-      "id": "960",
-      "topic": "Dev Tools",
-      "source": "Marktechpost AI",
-      "shortTitle": "NullClaw AI",
-      "mediumTitle": "New Zig-Based AI Agent",
-      "longTitle": "NullClaw: A Lightweight AI Framework",
-      "paragraphs": [
-        {
-          "Lines": [
-            "NullClaw represents a departure from the",
-            "resource-intensive nature of many",
-            "contemporary AI systems.",
-            "The rapid boot time is advantageous for",
-            "applications requiring quick",
-            "responsiveness.",
-            "The choice of Zig as the implementation",
-            "language is central to NullClaw\u0027s",
-            "efficiency.",
-            "NullClaw\u0027s architecture is designed to",
-            "be lean and performant.",
-            "NullClaw\u0027s small size makes it suitable",
-            "for deployment in resource-constrained",
-            "environments.",
-            "The framework\u0027s design prioritizes",
-            "minimal resource consumption.",
-            "These languages typically introduce",
-            "overhead due to their runtime",
-            "environments."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-02T20:12:29.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/03/02/meet-nullclaw-the-678-kb-zig-ai-agent-framework-running-on-1-mb-ram-and-booting-in-two-milliseconds/"
     }
   ]
 }
