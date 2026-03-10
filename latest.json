@@ -37,6 +37,41 @@
       "articleUrl": "https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram"
     },
     {
+      "id": "1009",
+      "topic": "Vision, Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Photoshop",
+      "mediumTitle": "Photoshop Gets AI Assistant",
+      "longTitle": "Adobe Releases AI-Powered Photoshop Beta",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This feature allows users to edit images",
+            "not through traditional tools and menus,",
+            "but by simply *telling* the AI what",
+            "changes they want to make via a chatbot",
+            "interface.",
+            "Users describe the desired edits, and",
+            "the AI attempts to execute them.",
+            "The core functionality centers around",
+            "natural language prompting.",
+            "Adobe has announced the public beta",
+            "release of a new AI assistant integrated",
+            "directly into Photoshop (web and mobile",
+            "versions).",
+            "Currently, the AI assistant is available",
+            "in Photoshop.",
+            "Adobe plans to extend this AI assistant",
+            "functionality to other apps like Acrobat",
+            "and Express in the near future."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-10T10:00:00.000Z",
+      "ranking": 7.659999999999999,
+      "articleUrl": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch"
+    },
+    {
       "id": "1003",
       "topic": "Policy",
       "source": "The Verge AI",
@@ -74,6 +109,77 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google"
     },
     {
+      "id": "1007",
+      "topic": "Security",
+      "source": "The Verge AI",
+      "shortTitle": "YouTube AI Tool",
+      "mediumTitle": "YouTube Expands Deepfake Detection",
+      "longTitle": "YouTube Targets Political Deepfakes with AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "YouTube is expanding the availability of",
+            "its AI-powered deepfake detection tool",
+            "to a specific group of public figures.",
+            "This expansion focuses on protecting",
+            "individuals in the public eye from",
+            "AI-driven disinformation.",
+            "The likeness detection feature allows",
+            "targeted individuals to monitor YouTube",
+            "for potentially misleading content.",
+            "The tool aims to proactively assist",
+            "those frequently targeted by deceptive",
+            "AI practices.",
+            "The tool is intended to help mitigate",
+            "the harm caused by deepfakes to",
+            "reputations and public trust.",
+            "The tool is designed to detect",
+            "manipulated videos or audio created",
+            "using artificial intelligence."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-10T11:00:00.000Z",
+      "ranking": 7.215,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/891678/youtube-is-expanding-its-ai-deepfake-detection-tool-to-politicians-and-journalists"
+    },
+    {
+      "id": "1008",
+      "topic": "NLP, Business",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini Update",
+      "mediumTitle": "Gemini Enhances Workspace",
+      "longTitle": "Google Gemini Integrates Deeper into Workspace",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The features are currently being rolled",
+            "out to subscribers of Google Workspace",
+            "and AI plans.",
+            "Gemini\u2019s integration allows users to",
+            "interact with the AI directly while",
+            "writing and editing documents.",
+            "Users can request specific data sets,",
+            "analyses, or visualizations in Sheets,",
+            "and Gemini will create a spreadsheet",
+            "accordingly.",
+            "The new Drive search aims to improve",
+            "discoverability of relevant documents",
+            "even without precise keyword knowledge.",
+            "The Gemini chat window in Docs provides",
+            "a dedicated space for AI interaction.",
+            "The updates are aimed at improving",
+            "productivity and making it easier to",
+            "work with information within Google",
+            "Workspace."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-10T10:00:00.000Z",
+      "ranking": 6.8100000000000005,
+      "articleUrl": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive"
+    },
+    {
       "id": "998",
       "topic": "Science",
       "source": "Marktechpost AI",
@@ -107,7 +213,7 @@
         }
       ],
       "publishedAt": "2026-03-09T06:03:21.000Z",
-      "ranking": 6.642053866620415,
+      "ranking": 6.189419645850515,
       "articleUrl": "https://www.marktechpost.com/2026/03/08/a-coding-guide-to-build-a-complete-single-cell-rna-sequencing-analysis-pipeline-using-scanpy-for-clustering-visualization-and-cell-type-annotation/"
     },
     {
@@ -142,7 +248,7 @@
         }
       ],
       "publishedAt": "2026-03-09T12:24:03.000Z",
-      "ranking": 6.336042022004378,
+      "ranking": 5.971731303373667,
       "articleUrl": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle"
     },
     {
@@ -177,7 +283,7 @@
         }
       ],
       "publishedAt": "2026-03-09T03:47:38.000Z",
-      "ranking": 5.8751981150468,
+      "ranking": 5.391077233533835,
       "articleUrl": "https://www.marktechpost.com/2026/03/08/andrej-karpathy-open-sources-autoresearch-a-630-line-python-tool-letting-ai-agents-run-autonomous-ml-experiments-on-single-gpus/"
     },
     {
@@ -212,7 +318,7 @@
         }
       ],
       "publishedAt": "2026-03-08T04:57:57.000Z",
-      "ranking": 1.952685770918296,
+      "ranking": 1.1507943932607816,
       "articleUrl": "https://www.marktechpost.com/2026/03/07/yann-lecuns-new-ai-paper-argues-agi-is-misdefined-and-introduces-superhuman-adaptable-intelligence-sai-instead/"
     },
     {
@@ -1078,151 +1184,6 @@
       "publishedAt": "2026-03-02T20:12:29.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/03/02/meet-nullclaw-the-678-kb-zig-ai-agent-framework-running-on-1-mb-ram-and-booting-in-two-milliseconds/"
-    },
-    {
-      "id": "957",
-      "topic": "Large Models",
-      "source": "The Verge AI",
-      "shortTitle": "Claude Update",
-      "mediumTitle": "Anthropic Boosts Claude",
-      "longTitle": "Claude AI Improves Memory \u0026 Data Import",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Anthropic upgraded Claude to compete",
-            "with platforms like OpenAI\u2019s ChatGPT.",
-            "Previously, Claude\u2019s extended memory was",
-            "restricted to paid subscribers.",
-            "The extended memory allows Claude to",
-            "recall details from larger contexts than",
-            "many other chatbots.",
-            "Users can now benefit from Claude\u2019s",
-            "improved memory regardless of their",
-            "subscription level.",
-            "The new prompt guides users on",
-            "formatting and pasting previous chats",
-            "into Claude.",
-            "The updates also simplify the process of",
-            "migrating data from other chatbots.",
-            "The upgrades aim to reduce barriers to",
-            "entry for potential Claude users.",
-            "The changes focus on enhancing Claude\u2019s",
-            "memory capabilities."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-02T18:29:46.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing"
-    },
-    {
-      "id": "958",
-      "topic": "Large Models, NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Apple \u0026 Google",
-      "mediumTitle": "Apple Considers Google Cloud",
-      "longTitle": "Apple Explores Google Server Partnership",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Apple is exploring a partnership with",
-            "Google to potentially utilize Google\u0027s",
-            "server infrastructure for storing data",
-            "related to an upgraded, Gemini-powered",
-            "version of Siri.",
-            "A key requirement is that Google adheres",
-            "to Apple\u2019s strict privacy standards",
-            "throughout the process.",
-            "Maintaining user privacy remains a",
-            "central focus of the potential",
-            "partnership.",
-            "Apple is seeking Google\u2019s assistance in",
-            "providing the necessary server capacity",
-            "to support the new Siri\u2019s",
-            "functionalities.",
-            "This collaboration comes after Apple\u2019s",
-            "January announcement regarding the",
-            "integration of Google\u2019s Gemini AI models",
-            "into the next iteration of Siri."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-02T16:22:33.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers"
-    },
-    {
-      "id": "959",
-      "topic": "Art, Ethics, Policy",
-      "source": "The Verge AI",
-      "shortTitle": "AI Art Rights",
-      "mediumTitle": "US Court: No Copyright for AI Art",
-      "longTitle": "Supreme Court Upholds AI Art Copyright Ruling",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This means artwork created solely by",
-            "artificial intelligence, without",
-            "sufficient human contribution, cannot be",
-            "copyrighted in the United States.",
-            "The Supreme Court\u2019s decision not to",
-            "review the case effectively upholds the",
-            "existing legal framework regarding",
-            "AI-generated art and copyright.",
-            "The Supreme Court\u2019s inaction leaves the",
-            "lower court rulings in place,",
-            "establishing a clear precedent.",
-            "The courts have consistently maintained",
-            "that human involvement is essential for",
-            "a work to be protected by copyright.",
-            "The ruling clarifies that simply using",
-            "an AI tool does not automatically grant",
-            "copyright to the resulting work.",
-            "This decision impacts the growing field",
-            "of AI art and its legal status."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-02T13:58:05.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
-    },
-    {
-      "id": "955",
-      "topic": "Art",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Copyright",
-      "mediumTitle": "US Supreme Court on AI Art",
-      "longTitle": "AI-Generated Art Not Copyrightable",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The courts determined that \u0027authorship\u0027",
-            "in copyright law requires human creative",
-            "input.",
-            "The legal precedent established is that",
-            "AI-generated works lacking demonstrable",
-            "human authorship are not copyrightable",
-            "in the US.",
-            "On Monday, the US Supreme Court decided",
-            "not to hear *Thaler v. Perlmutter*, a",
-            "case concerning AI-generated artwork",
-            "copyright.",
-            "This decision does not impact copyright",
-            "issues related to works *assisted* by",
-            "AI, where humans have creative control.",
-            "The Supreme Court\u2019s refusal to hear the",
-            "case leaves the existing legal framework",
-            "regarding AI and copyright unchanged.",
-            "The case specifically addresses works",
-            "created *solely* by an AI system,",
-            "without human intervention."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-02T13:58:05.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
     }
   ]
 }
