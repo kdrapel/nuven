@@ -108,6 +108,41 @@
       "articleUrl": "https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email"
     },
     {
+      "id": "1014",
+      "topic": "Business",
+      "source": "The Verge AI",
+      "shortTitle": "Ford Pro AI",
+      "mediumTitle": "Ford Launches AI Fleet Tool",
+      "longTitle": "Ford Pro AI Analyzes Fleet Data for Insights",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Predicting vehicle maintenance needs",
+            "helps prevent unexpected breakdowns and",
+            "downtime.",
+            "Identifying drivers who could benefit",
+            "from coaching is a key function of the",
+            "AI.",
+            "It proactively identifies potential",
+            "issues and opportunities within a",
+            "fleet\u0027s operations.",
+            "Ford Pro AI is integrated into the",
+            "existing Ford Pro platform for seamless",
+            "data access.",
+            "The AI aims to pinpoint areas where",
+            "fleet performance can be optimized for",
+            "cost savings.",
+            "Ford Pro AI is specifically designed for",
+            "commercial fleet and telematics software",
+            "customers."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-10T18:30:00.000Z",
+      "ranking": 7.468181818181819,
+      "articleUrl": "https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet"
+    },
+    {
       "id": "1012",
       "topic": "Large Models",
       "source": "The Verge AI",
@@ -216,6 +251,42 @@
       "articleUrl": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive"
     },
     {
+      "id": "1015",
+      "topic": "Security",
+      "source": "The Verge AI",
+      "shortTitle": "Perplexity AI",
+      "mediumTitle": "Perplexity AI \u0026 Amazon Dispute",
+      "longTitle": "Amazon Halts Perplexity AI Purchases",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon presented evidence of",
+            "unauthorized access to user accounts.",
+            "Amazon argued that Perplexity\u2019s actions",
+            "posed security risks to its customers.",
+            "Judge Maxine Chesney of the US District",
+            "Court issued the order against",
+            "Perplexity AI.",
+            "The judge acknowledged the potential for",
+            "unauthorized purchases as a key issue in",
+            "the case.",
+            "The concern is that users may not be",
+            "fully aware of or approve each purchase",
+            "made by the AI agent.",
+            "Amazon is seeking to prevent Perplexity",
+            "AI from continuing to access its",
+            "platform in this manner.",
+            "The specific feature in question is",
+            "Perplexity AI\u2019s Comet, an AI-powered web",
+            "browser agent."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-10T15:11:43.000Z",
+      "ranking": 6.663636363636362,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order"
+    },
+    {
       "id": "1010",
       "topic": "Security",
       "source": "The Verge AI",
@@ -285,7 +356,7 @@
         }
       ],
       "publishedAt": "2026-03-09T17:45:24.000Z",
-      "ranking": 6.049610090887616,
+      "ranking": 5.65295598972066,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google"
     },
     {
@@ -322,7 +393,7 @@
         }
       ],
       "publishedAt": "2026-03-09T06:03:21.000Z",
-      "ranking": 5.679922518964538,
+      "ranking": 5.122222268134086,
       "articleUrl": "https://www.marktechpost.com/2026/03/08/a-coding-guide-to-build-a-complete-single-cell-rna-sequencing-analysis-pipeline-using-scanpy-for-clustering-visualization-and-cell-type-annotation/"
     },
     {
@@ -357,7 +428,7 @@
         }
       ],
       "publishedAt": "2026-03-09T12:24:03.000Z",
-      "ranking": 5.550731690416818,
+      "ranking": 5.080361785291286,
       "articleUrl": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle"
     },
     {
@@ -392,7 +463,7 @@
         }
       ],
       "publishedAt": "2026-03-09T03:47:38.000Z",
-      "ranking": 4.8500314148324515,
+      "ranking": 4.261198555301599,
       "articleUrl": "https://www.marktechpost.com/2026/03/08/andrej-karpathy-open-sources-autoresearch-a-630-line-python-tool-letting-ai-agents-run-autonomous-ml-experiments-on-single-gpus/"
     },
     {
@@ -427,7 +498,7 @@
         }
       ],
       "publishedAt": "2026-03-08T04:57:57.000Z",
-      "ranking": 0.2913520176853206,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/03/07/yann-lecuns-new-ai-paper-argues-agi-is-misdefined-and-introduces-superhuman-adaptable-intelligence-sai-instead/"
     },
     {
@@ -1078,113 +1149,6 @@
       "publishedAt": "2026-03-03T19:28:09.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/03/03/google-drops-gemini-3-1-flash-lite-a-cost-efficient-powerhouse-with-adjustable-thinking-levels-designed-for-high-scale-production-ai/"
-    },
-    {
-      "id": "966",
-      "topic": "Security, Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Iran Strike",
-      "mediumTitle": "Online Iran Conflict Info",
-      "longTitle": "Verifying Visuals After Iran Reports",
-      "paragraphs": [
-        {
-          "Lines": [
-            "A significant portion of the shared",
-            "content is demonstrably false or",
-            "misleading.",
-            "The article focuses on the challenges of",
-            "verifying information, particularly",
-            "images and videos, circulating online",
-            "after a reported US-Israel military",
-            "strike on Iran.",
-            "Artificial Intelligence (AI) is being",
-            "used to create or alter images and",
-            "videos, contributing to the spread of",
-            "misinformation.",
-            "Sophisticated deepfake technology is",
-            "exacerbating the problem of",
-            "distinguishing real from fake content.",
-            "The spread of misleading visuals",
-            "complicates efforts to accurately assess",
-            "the situation on the ground in Iran."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-03T14:22:12.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway"
-    },
-    {
-      "id": "965",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "SpaceX IPO?",
-      "mediumTitle": "SpaceX IPO: A Risk?",
-      "longTitle": "SpaceX IPO Concerns: Mars Plans at Stake",
-      "paragraphs": [
-        {
-          "Lines": [
-            "SpaceX\u2019s ambitious goal is to establish",
-            "a human presence on Mars.",
-            "The core of the argument revolves around",
-            "a statement Elon Musk made over a decade",
-            "ago regarding the risks of an early IPO.",
-            "Musk\u2019s earlier warning suggests that",
-            "premature public trading could be",
-            "detrimental to SpaceX\u2019s long-term",
-            "success.",
-            "The piece highlights a potential tension",
-            "between the needs of public market",
-            "investors and the requirements of",
-            "deep-space exploration.",
-            "Publicly traded companies face demands",
-            "for quarterly earnings reports, which",
-            "could hinder SpaceX\u2019s long-term vision.",
-            "The article frames the situation as a",
-            "potential trade-off between short-term",
-            "gains and long-term objectives."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-03T10:30:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/887899/spacex-ipo-risks-ai"
-    },
-    {
-      "id": "963",
-      "topic": "Dev Tools",
-      "source": "Marktechpost AI",
-      "shortTitle": "Alibaba OpenSandbox",
-      "mediumTitle": "Alibaba Releases AI Tool",
-      "longTitle": "Alibaba Open-Sources OpenSandbox for AI Agents",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Alibaba has released OpenSandbox, an",
-            "open-source tool intended to provide AI",
-            "agents with secure and isolated",
-            "environments for various tasks.",
-            "These tasks include code execution, web",
-            "browsing, and model training.",
-            "The system is released under the Apache",
-            "2.0 license.",
-            "OpenSandbox aims to standardize the",
-            "\u201Cexecution layer\u201D within the AI agent",
-            "stack by offering a unified API.",
-            "This API is designed to be compatible",
-            "across different programming languages.",
-            "The goal is to provide a consistent and",
-            "scalable interface for developers",
-            "working with autonomous AI agents.",
-            "By providing isolated environments,",
-            "OpenSandbox enhances the security of AI",
-            "agent operations."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-03T09:32:06.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/03/03/alibaba-releases-opensandbox-to-provide-software-developers-with-a-unified-secure-and-scalable-api-for-autonomous-ai-agent-execution/"
     }
   ]
 }
