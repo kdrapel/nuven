@@ -1,39 +1,40 @@
 {
   "articles": [
     {
-      "id": "1001",
-      "topic": "Security",
+      "id": "1004",
+      "topic": "Ethics",
       "source": "The Verge AI",
-      "shortTitle": "X \u0026 Grok",
-      "mediumTitle": "X Adds Grok Photo Control",
-      "longTitle": "X Lets Users Block Grok Edits to Photos",
+      "shortTitle": "Meta Deepfakes",
+      "mediumTitle": "Meta\u0027s Deepfake Rules",
+      "longTitle": "Oversight Board Criticizes Meta\u0027s Deepfake Moderation",
       "paragraphs": [
         {
           "Lines": [
-            "When activated, the toggle aims to",
-            "prevent any alterations to the user\u2019s",
-            "images by the Grok chatbot.",
-            "The update directly addresses concerns",
-            "raised by users regarding potential",
-            "unwanted image modifications.",
-            "This new feature provides users with",
-            "increased control over how their content",
-            "is interacted with on the platform.",
-            "Users expressed worry that Grok might",
-            "alter uploaded images without their",
-            "explicit consent.",
-            "Reports from Social Media Today and",
-            "verification by The Verge have confirmed",
-            "the feature\u2019s existence.",
-            "X, previously known as Twitter, has",
-            "implemented a new feature focused on",
-            "user control over image editing."
+            "The Meta Oversight Board has determined",
+            "that Meta\u2019s current deepfake moderation",
+            "practices are inadequate.",
+            "The Board found Meta\u2019s methods for",
+            "identifying deepfakes to be \u201Cnot robust",
+            "or comprehensive enough\u201D to effectively",
+            "address misinformation.",
+            "The Board is now urging Meta to",
+            "significantly revise its approach to",
+            "surfacing and moderating deepfakes.",
+            "This inadequacy is particularly",
+            "concerning in the context of rapidly",
+            "evolving conflicts like the war in Iran.",
+            "The swift dissemination of",
+            "misinformation during conflicts is a key",
+            "concern highlighted by the Board.",
+            "A particular concern is the potential",
+            "for deepfakes to influence public",
+            "opinion during armed conflicts."
           ]
         }
       ],
-      "publishedAt": "2026-03-09T12:24:03.000Z",
-      "ranking": 7.35,
-      "articleUrl": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle"
+      "publishedAt": "2026-03-10T07:01:33.000Z",
+      "ranking": 8.2925,
+      "articleUrl": "https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram"
     },
     {
       "id": "1003",
@@ -106,8 +107,43 @@
         }
       ],
       "publishedAt": "2026-03-09T06:03:21.000Z",
-      "ranking": 7.038749198093855,
+      "ranking": 6.642053866620415,
       "articleUrl": "https://www.marktechpost.com/2026/03/08/a-coding-guide-to-build-a-complete-single-cell-rna-sequencing-analysis-pipeline-using-scanpy-for-clustering-visualization-and-cell-type-annotation/"
+    },
+    {
+      "id": "1001",
+      "topic": "Security",
+      "source": "The Verge AI",
+      "shortTitle": "X \u0026 Grok",
+      "mediumTitle": "X Adds Grok Photo Control",
+      "longTitle": "X Lets Users Block Grok Edits to Photos",
+      "paragraphs": [
+        {
+          "Lines": [
+            "When activated, the toggle aims to",
+            "prevent any alterations to the user\u2019s",
+            "images by the Grok chatbot.",
+            "The update directly addresses concerns",
+            "raised by users regarding potential",
+            "unwanted image modifications.",
+            "This new feature provides users with",
+            "increased control over how their content",
+            "is interacted with on the platform.",
+            "Users expressed worry that Grok might",
+            "alter uploaded images without their",
+            "explicit consent.",
+            "Reports from Social Media Today and",
+            "verification by The Verge have confirmed",
+            "the feature\u2019s existence.",
+            "X, previously known as Twitter, has",
+            "implemented a new feature focused on",
+            "user control over image editing."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-09T12:24:03.000Z",
+      "ranking": 6.336042022004378,
+      "articleUrl": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle"
     },
     {
       "id": "997",
@@ -141,7 +177,7 @@
         }
       ],
       "publishedAt": "2026-03-09T03:47:38.000Z",
-      "ranking": 6.303368780726084,
+      "ranking": 5.8751981150468,
       "articleUrl": "https://www.marktechpost.com/2026/03/08/andrej-karpathy-open-sources-autoresearch-a-630-line-python-tool-letting-ai-agents-run-autonomous-ml-experiments-on-single-gpus/"
     },
     {
@@ -176,7 +212,7 @@
         }
       ],
       "publishedAt": "2026-03-08T04:57:57.000Z",
-      "ranking": 2.698512585617233,
+      "ranking": 1.952685770918296,
       "articleUrl": "https://www.marktechpost.com/2026/03/07/yann-lecuns-new-ai-paper-argues-agi-is-misdefined-and-introduces-superhuman-adaptable-intelligence-sai-instead/"
     },
     {
@@ -1116,43 +1152,6 @@
       "articleUrl": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers"
     },
     {
-      "id": "955",
-      "topic": "Art",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Copyright",
-      "mediumTitle": "US Supreme Court on AI Art",
-      "longTitle": "AI-Generated Art Not Copyrightable",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The courts determined that \u0027authorship\u0027",
-            "in copyright law requires human creative",
-            "input.",
-            "The legal precedent established is that",
-            "AI-generated works lacking demonstrable",
-            "human authorship are not copyrightable",
-            "in the US.",
-            "On Monday, the US Supreme Court decided",
-            "not to hear *Thaler v. Perlmutter*, a",
-            "case concerning AI-generated artwork",
-            "copyright.",
-            "This decision does not impact copyright",
-            "issues related to works *assisted* by",
-            "AI, where humans have creative control.",
-            "The Supreme Court\u2019s refusal to hear the",
-            "case leaves the existing legal framework",
-            "regarding AI and copyright unchanged.",
-            "The case specifically addresses works",
-            "created *solely* by an AI system,",
-            "without human intervention."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-02T13:58:05.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
-    },
-    {
       "id": "959",
       "topic": "Art, Ethics, Policy",
       "source": "The Verge AI",
@@ -1189,40 +1188,41 @@
       "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
     },
     {
-      "id": "956",
-      "topic": "Hardware",
+      "id": "955",
+      "topic": "Art",
       "source": "The Verge AI",
-      "shortTitle": "Nvidia Invests",
-      "mediumTitle": "Nvidia\u0027s $4B Photonics Push",
-      "longTitle": "Nvidia Invests $4 Billion in Photonics Tech",
+      "shortTitle": "AI \u0026 Copyright",
+      "mediumTitle": "US Supreme Court on AI Art",
+      "longTitle": "AI-Generated Art Not Copyrightable",
       "paragraphs": [
         {
           "Lines": [
-            "Nvidia is investing $4 billion into",
-            "photonics technology, splitting the",
-            "investment with $2 billion each going to",
-            "Lumentum and Coherent.",
-            "The goal of this investment is to",
-            "improve energy efficiency, increase data",
-            "transfer speeds, and expand bandwidth",
-            "capabilities for future AI",
-            "infrastructure.",
-            "This investment focuses on advancing",
-            "technologies crucial for data centers,",
-            "specifically optical transceivers,",
-            "circuit switches, and lasers.",
-            "Essentially, Nvidia is proactively",
-            "securing its position in the evolving",
-            "landscape of AI.",
-            "These components are essential for",
-            "high-speed, long-distance data",
-            "transmission."
+            "The courts determined that \u0027authorship\u0027",
+            "in copyright law requires human creative",
+            "input.",
+            "The legal precedent established is that",
+            "AI-generated works lacking demonstrable",
+            "human authorship are not copyrightable",
+            "in the US.",
+            "On Monday, the US Supreme Court decided",
+            "not to hear *Thaler v. Perlmutter*, a",
+            "case concerning AI-generated artwork",
+            "copyright.",
+            "This decision does not impact copyright",
+            "issues related to works *assisted* by",
+            "AI, where humans have creative control.",
+            "The Supreme Court\u2019s refusal to hear the",
+            "case leaves the existing legal framework",
+            "regarding AI and copyright unchanged.",
+            "The case specifically addresses works",
+            "created *solely* by an AI system,",
+            "without human intervention."
           ]
         }
       ],
-      "publishedAt": "2026-03-02T12:56:49.000Z",
+      "publishedAt": "2026-03-02T13:58:05.000Z",
       "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent"
+      "articleUrl": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright"
     }
   ]
 }
