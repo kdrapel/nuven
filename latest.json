@@ -1,39 +1,39 @@
 {
   "articles": [
     {
-      "id": "1009",
-      "topic": "Vision, Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Photoshop",
-      "mediumTitle": "Photoshop Gets AI Assistant",
-      "longTitle": "Adobe Releases AI-Powered Photoshop Beta",
+      "id": "1019",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Gemini Embed 2",
+      "mediumTitle": "Google\u0027s New Multimodal Model",
+      "longTitle": "Gemini Embedding 2: A Next-Gen AI Model",
       "paragraphs": [
         {
           "Lines": [
-            "This feature allows users to edit images",
-            "not through traditional tools and menus,",
-            "but by simply *telling* the AI what",
-            "changes they want to make via a chatbot",
-            "interface.",
-            "Users describe the desired edits, and",
-            "the AI attempts to execute them.",
-            "The core functionality centers around",
-            "natural language prompting.",
-            "Adobe has announced the public beta",
-            "release of a new AI assistant integrated",
-            "directly into Photoshop (web and mobile",
-            "versions).",
-            "Currently, the AI assistant is available",
-            "in Photoshop.",
-            "Adobe plans to extend this AI assistant",
-            "functionality to other apps like Acrobat",
-            "and Express in the near future."
+            "Google AI has released Gemini Embedding",
+            "2, the next generation of its embedding",
+            "model.",
+            "It\u0027s capable of handling text, images,",
+            "video, audio, and documents within a",
+            "single embedding space.",
+            "Gemini Embedding 2 is designed as a",
+            "multimodal embedding model, a key",
+            "advancement.",
+            "The release of Gemini Embedding 2",
+            "represents a significant technical",
+            "advancement in the field of AI.",
+            "It also aims to improve cross-modal",
+            "retrieval, allowing for more effective",
+            "searches across different data types.",
+            "Developers building Retrieval-Augmented",
+            "Generation (RAG) systems will",
+            "particularly benefit from this release."
           ]
         }
       ],
-      "publishedAt": "2026-03-10T10:00:00.000Z",
-      "ranking": 7.659999999999999,
-      "articleUrl": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch"
+      "publishedAt": "2026-03-11T08:18:20.000Z",
+      "ranking": 7.949999999999999,
+      "articleUrl": "https://www.marktechpost.com/2026/03/11/google-ai-introduces-gemini-embedding-2-a-multimodal-embedding-model-that-lets-your-bring-text-images-video-audio-and-docs-into-the-embedding-space/"
     },
     {
       "id": "1011",
@@ -142,78 +142,6 @@
       "articleUrl": "https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet"
     },
     {
-      "id": "1012",
-      "topic": "Large Models",
-      "source": "The Verge AI",
-      "shortTitle": "Meta \u0026 Moltbook",
-      "mediumTitle": "Meta Acquires AI Platform",
-      "longTitle": "Meta Buys Moltbook to Boost AI Agent Research",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Meta is acquiring Moltbook, a platform",
-            "designed as a social network for",
-            "artificial intelligence (AI) agents.",
-            "The acquisition was first reported by",
-            "Axios and subsequently confirmed by Meta",
-            "spokesperson Matthew Tye to The Verge.",
-            "The Moltbook team will be integrated",
-            "into Meta\u2019s Superintelligence Labs.",
-            "Meta\u2019s stated goal with this acquisition",
-            "is to explore \u201Cnew ways for AI agents to",
-            "work for people.\u201D",
-            "This acquisition signals Meta\u2019s",
-            "continued investment in and exploration",
-            "of AI agent technology.",
-            "Moltbook functions similarly to Reddit,",
-            "allowing AI agents to create posts and",
-            "engage in commenting and discussion.",
-            "Integrating Moltbook\u2019s technology could",
-            "accelerate Meta\u2019s AI research and",
-            "development."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-10T12:22:17.000Z",
-      "ranking": 7.435,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892178/meta-moltbook-acquisition-ai-agents"
-    },
-    {
-      "id": "1007",
-      "topic": "Security",
-      "source": "The Verge AI",
-      "shortTitle": "YouTube AI Tool",
-      "mediumTitle": "YouTube Expands Deepfake Detection",
-      "longTitle": "YouTube Targets Political Deepfakes with AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "YouTube is expanding the availability of",
-            "its AI-powered deepfake detection tool",
-            "to a specific group of public figures.",
-            "This expansion focuses on protecting",
-            "individuals in the public eye from",
-            "AI-driven disinformation.",
-            "The likeness detection feature allows",
-            "targeted individuals to monitor YouTube",
-            "for potentially misleading content.",
-            "The tool aims to proactively assist",
-            "those frequently targeted by deceptive",
-            "AI practices.",
-            "The tool is intended to help mitigate",
-            "the harm caused by deepfakes to",
-            "reputations and public trust.",
-            "The tool is designed to detect",
-            "manipulated videos or audio created",
-            "using artificial intelligence."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-10T11:00:00.000Z",
-      "ranking": 7.215,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/891678/youtube-is-expanding-its-ai-deepfake-detection-tool-to-politicians-and-journalists"
-    },
-    {
       "id": "1004",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -246,44 +174,8 @@
         }
       ],
       "publishedAt": "2026-03-10T07:01:33.000Z",
-      "ranking": 7.1543612202680125,
+      "ranking": 6.778501829374046,
       "articleUrl": "https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram"
-    },
-    {
-      "id": "1008",
-      "topic": "NLP, Business",
-      "source": "The Verge AI",
-      "shortTitle": "Gemini Update",
-      "mediumTitle": "Gemini Enhances Workspace",
-      "longTitle": "Google Gemini Integrates Deeper into Workspace",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The features are currently being rolled",
-            "out to subscribers of Google Workspace",
-            "and AI plans.",
-            "Gemini\u2019s integration allows users to",
-            "interact with the AI directly while",
-            "writing and editing documents.",
-            "Users can request specific data sets,",
-            "analyses, or visualizations in Sheets,",
-            "and Gemini will create a spreadsheet",
-            "accordingly.",
-            "The new Drive search aims to improve",
-            "discoverability of relevant documents",
-            "even without precise keyword knowledge.",
-            "The Gemini chat window in Docs provides",
-            "a dedicated space for AI interaction.",
-            "The updates are aimed at improving",
-            "productivity and making it easier to",
-            "work with information within Google",
-            "Workspace."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-10T10:00:00.000Z",
-      "ranking": 6.8100000000000005,
-      "articleUrl": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive"
     },
     {
       "id": "1015",
@@ -358,6 +250,149 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order"
     },
     {
+      "id": "1009",
+      "topic": "Vision, Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Photoshop",
+      "mediumTitle": "Photoshop Gets AI Assistant",
+      "longTitle": "Adobe Releases AI-Powered Photoshop Beta",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This feature allows users to edit images",
+            "not through traditional tools and menus,",
+            "but by simply *telling* the AI what",
+            "changes they want to make via a chatbot",
+            "interface.",
+            "Users describe the desired edits, and",
+            "the AI attempts to execute them.",
+            "The core functionality centers around",
+            "natural language prompting.",
+            "Adobe has announced the public beta",
+            "release of a new AI assistant integrated",
+            "directly into Photoshop (web and mobile",
+            "versions).",
+            "Currently, the AI assistant is available",
+            "in Photoshop.",
+            "Adobe plans to extend this AI assistant",
+            "functionality to other apps like Acrobat",
+            "and Express in the near future."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-10T10:00:00.000Z",
+      "ranking": 6.435607463056911,
+      "articleUrl": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch"
+    },
+    {
+      "id": "1012",
+      "topic": "Large Models",
+      "source": "The Verge AI",
+      "shortTitle": "Meta \u0026 Moltbook",
+      "mediumTitle": "Meta Acquires AI Platform",
+      "longTitle": "Meta Buys Moltbook to Boost AI Agent Research",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Meta is acquiring Moltbook, a platform",
+            "designed as a social network for",
+            "artificial intelligence (AI) agents.",
+            "The acquisition was first reported by",
+            "Axios and subsequently confirmed by Meta",
+            "spokesperson Matthew Tye to The Verge.",
+            "The Moltbook team will be integrated",
+            "into Meta\u2019s Superintelligence Labs.",
+            "Meta\u2019s stated goal with this acquisition",
+            "is to explore \u201Cnew ways for AI agents to",
+            "work for people.\u201D",
+            "This acquisition signals Meta\u2019s",
+            "continued investment in and exploration",
+            "of AI agent technology.",
+            "Moltbook functions similarly to Reddit,",
+            "allowing AI agents to create posts and",
+            "engage in commenting and discussion.",
+            "Integrating Moltbook\u2019s technology could",
+            "accelerate Meta\u2019s AI research and",
+            "development."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-10T12:22:17.000Z",
+      "ranking": 6.419510772288301,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892178/meta-moltbook-acquisition-ai-agents"
+    },
+    {
+      "id": "1007",
+      "topic": "Security",
+      "source": "The Verge AI",
+      "shortTitle": "YouTube AI Tool",
+      "mediumTitle": "YouTube Expands Deepfake Detection",
+      "longTitle": "YouTube Targets Political Deepfakes with AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "YouTube is expanding the availability of",
+            "its AI-powered deepfake detection tool",
+            "to a specific group of public figures.",
+            "This expansion focuses on protecting",
+            "individuals in the public eye from",
+            "AI-driven disinformation.",
+            "The likeness detection feature allows",
+            "targeted individuals to monitor YouTube",
+            "for potentially misleading content.",
+            "The tool aims to proactively assist",
+            "those frequently targeted by deceptive",
+            "AI practices.",
+            "The tool is intended to help mitigate",
+            "the harm caused by deepfakes to",
+            "reputations and public trust.",
+            "The tool is designed to detect",
+            "manipulated videos or audio created",
+            "using artificial intelligence."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-10T11:00:00.000Z",
+      "ranking": 6.081081572706354,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/891678/youtube-is-expanding-its-ai-deepfake-detection-tool-to-politicians-and-journalists"
+    },
+    {
+      "id": "1008",
+      "topic": "NLP, Business",
+      "source": "The Verge AI",
+      "shortTitle": "Gemini Update",
+      "mediumTitle": "Gemini Enhances Workspace",
+      "longTitle": "Google Gemini Integrates Deeper into Workspace",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The features are currently being rolled",
+            "out to subscribers of Google Workspace",
+            "and AI plans.",
+            "Gemini\u2019s integration allows users to",
+            "interact with the AI directly while",
+            "writing and editing documents.",
+            "Users can request specific data sets,",
+            "analyses, or visualizations in Sheets,",
+            "and Gemini will create a spreadsheet",
+            "accordingly.",
+            "The new Drive search aims to improve",
+            "discoverability of relevant documents",
+            "even without precise keyword knowledge.",
+            "The Gemini chat window in Docs provides",
+            "a dedicated space for AI interaction.",
+            "The updates are aimed at improving",
+            "productivity and making it easier to",
+            "work with information within Google",
+            "Workspace."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-10T10:00:00.000Z",
+      "ranking": 5.585607452921472,
+      "articleUrl": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive"
+    },
+    {
       "id": "1003",
       "topic": "Policy",
       "source": "The Verge AI",
@@ -391,7 +426,7 @@
         }
       ],
       "publishedAt": "2026-03-09T17:45:24.000Z",
-      "ranking": 4.676514171606533,
+      "ranking": 4.119740228492761,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google"
     },
     {
@@ -426,7 +461,7 @@
         }
       ],
       "publishedAt": "2026-03-09T12:24:03.000Z",
-      "ranking": 3.95380234628548,
+      "ranking": 3.3240058725027826,
       "articleUrl": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle"
     },
     {
@@ -463,7 +498,7 @@
         }
       ],
       "publishedAt": "2026-03-09T06:03:21.000Z",
-      "ranking": 3.817820030754058,
+      "ranking": 3.1015145232679746,
       "articleUrl": "https://www.marktechpost.com/2026/03/08/a-coding-guide-to-build-a-complete-single-cell-rna-sequencing-analysis-pipeline-using-scanpy-for-clustering-visualization-and-cell-type-annotation/"
     },
     {
@@ -498,7 +533,7 @@
         }
       ],
       "publishedAt": "2026-03-09T03:47:38.000Z",
-      "ranking": 2.8933967158300318,
+      "ranking": 2.1462513915548245,
       "articleUrl": "https://www.marktechpost.com/2026/03/08/andrej-karpathy-open-sources-autoresearch-a-630-line-python-tool-letting-ai-agents-run-autonomous-ml-experiments-on-single-gpus/"
     },
     {
@@ -1149,41 +1184,6 @@
       "publishedAt": "2026-03-04T07:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/888841/pro-human-ai-declaration-fli"
-    },
-    {
-      "id": "967",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Gemini 3.1",
-      "mediumTitle": "Google Releases Gemini 3.1",
-      "longTitle": "Google Launches Cost-Efficient Gemini 3.1 Flash-Lite Model",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google\u2019s Gemini 3.1 Flash-Lite is the",
-            "most cost-efficient model within the",
-            "Gemini 3 family.",
-            "Gemini 3.1 Flash-Lite is specifically",
-            "engineered for \u201Cintelligence at scale,\u201D",
-            "meaning it\u2019s built for large-scale",
-            "applications.",
-            "The release of this model targets",
-            "high-volume AI tasks where cost and",
-            "speed are key factors.",
-            "Access to the model is provided through",
-            "both the Gemini API, accessible within",
-            "Google AI Studio, and Vertex AI.",
-            "The model focuses on applications that",
-            "require processing a large amount of",
-            "data quickly and cheaply.",
-            "Low latency is a key feature, ensuring",
-            "quick response times for applications."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-03T19:28:09.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/03/03/google-drops-gemini-3-1-flash-lite-a-cost-efficient-powerhouse-with-adjustable-thinking-levels-designed-for-high-scale-production-ai/"
     }
   ]
 }
