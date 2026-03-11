@@ -356,8 +356,43 @@
         }
       ],
       "publishedAt": "2026-03-09T17:45:24.000Z",
-      "ranking": 5.65295598972066,
+      "ranking": 5.193679735071768,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google"
+    },
+    {
+      "id": "1001",
+      "topic": "Security",
+      "source": "The Verge AI",
+      "shortTitle": "X \u0026 Grok",
+      "mediumTitle": "X Adds Grok Photo Control",
+      "longTitle": "X Lets Users Block Grok Edits to Photos",
+      "paragraphs": [
+        {
+          "Lines": [
+            "When activated, the toggle aims to",
+            "prevent any alterations to the user\u2019s",
+            "images by the Grok chatbot.",
+            "The update directly addresses concerns",
+            "raised by users regarding potential",
+            "unwanted image modifications.",
+            "This new feature provides users with",
+            "increased control over how their content",
+            "is interacted with on the platform.",
+            "Users expressed worry that Grok might",
+            "alter uploaded images without their",
+            "explicit consent.",
+            "Reports from Social Media Today and",
+            "verification by The Verge have confirmed",
+            "the feature\u2019s existence.",
+            "X, previously known as Twitter, has",
+            "implemented a new feature focused on",
+            "user control over image editing."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-09T12:24:03.000Z",
+      "ranking": 4.546128589262608,
+      "articleUrl": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle"
     },
     {
       "id": "998",
@@ -393,43 +428,8 @@
         }
       ],
       "publishedAt": "2026-03-09T06:03:21.000Z",
-      "ranking": 5.122222268134086,
+      "ranking": 4.499188349761713,
       "articleUrl": "https://www.marktechpost.com/2026/03/08/a-coding-guide-to-build-a-complete-single-cell-rna-sequencing-analysis-pipeline-using-scanpy-for-clustering-visualization-and-cell-type-annotation/"
-    },
-    {
-      "id": "1001",
-      "topic": "Security",
-      "source": "The Verge AI",
-      "shortTitle": "X \u0026 Grok",
-      "mediumTitle": "X Adds Grok Photo Control",
-      "longTitle": "X Lets Users Block Grok Edits to Photos",
-      "paragraphs": [
-        {
-          "Lines": [
-            "When activated, the toggle aims to",
-            "prevent any alterations to the user\u2019s",
-            "images by the Grok chatbot.",
-            "The update directly addresses concerns",
-            "raised by users regarding potential",
-            "unwanted image modifications.",
-            "This new feature provides users with",
-            "increased control over how their content",
-            "is interacted with on the platform.",
-            "Users expressed worry that Grok might",
-            "alter uploaded images without their",
-            "explicit consent.",
-            "Reports from Social Media Today and",
-            "verification by The Verge have confirmed",
-            "the feature\u2019s existence.",
-            "X, previously known as Twitter, has",
-            "implemented a new feature focused on",
-            "user control over image editing."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-09T12:24:03.000Z",
-      "ranking": 5.080361785291286,
-      "articleUrl": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle"
     },
     {
       "id": "997",
@@ -463,7 +463,7 @@
         }
       ],
       "publishedAt": "2026-03-09T03:47:38.000Z",
-      "ranking": 4.261198555301599,
+      "ranking": 3.606507860750403,
       "articleUrl": "https://www.marktechpost.com/2026/03/08/andrej-karpathy-open-sources-autoresearch-a-630-line-python-tool-letting-ai-agents-run-autonomous-ml-experiments-on-single-gpus/"
     },
     {
