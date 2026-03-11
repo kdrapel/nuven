@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "id": "1004",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Meta Deepfakes",
-      "mediumTitle": "Meta\u0027s Deepfake Rules",
-      "longTitle": "Oversight Board Criticizes Meta\u0027s Deepfake Moderation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The Meta Oversight Board has determined",
-            "that Meta\u2019s current deepfake moderation",
-            "practices are inadequate.",
-            "The Board found Meta\u2019s methods for",
-            "identifying deepfakes to be \u201Cnot robust",
-            "or comprehensive enough\u201D to effectively",
-            "address misinformation.",
-            "The Board is now urging Meta to",
-            "significantly revise its approach to",
-            "surfacing and moderating deepfakes.",
-            "This inadequacy is particularly",
-            "concerning in the context of rapidly",
-            "evolving conflicts like the war in Iran.",
-            "The swift dissemination of",
-            "misinformation during conflicts is a key",
-            "concern highlighted by the Board.",
-            "A particular concern is the potential",
-            "for deepfakes to influence public",
-            "opinion during armed conflicts."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-10T07:01:33.000Z",
-      "ranking": 8.2925,
-      "articleUrl": "https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram"
-    },
-    {
       "id": "1009",
       "topic": "Vision, Generative AI",
       "source": "The Verge AI",
@@ -106,6 +70,41 @@
       "publishedAt": "2026-03-10T12:54:42.000Z",
       "ranking": 7.5699999999999985,
       "articleUrl": "https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email"
+    },
+    {
+      "id": "1017",
+      "topic": "Speech",
+      "source": "Marktechpost AI",
+      "shortTitle": "Fish Audio S2",
+      "mediumTitle": "New Fish Audio TTS",
+      "longTitle": "Fish Audio Releases Next-Gen TTS",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Fish Audio has released Fish Audio S2, a",
+            "new generation of Text-to-Speech (TTS)",
+            "technology.",
+            "This release signifies a move in the TTS",
+            "field from traditional modular pipelines",
+            "to integrated Large Audio Models (LAMs).",
+            "S2-Pro, the flagship model in the Fish",
+            "Speech ecosystem, is designed for",
+            "high-fidelity, multi-speaker synthesis.",
+            "S2-Pro boasts a low latency of under",
+            "150ms, making it suitable for real-time",
+            "applications.",
+            "A key feature of S2 is its open",
+            "architecture, enabling zero-shot voice",
+            "cloning.",
+            "The technology provides granular",
+            "emotional control within the synthesized",
+            "speech."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-11T05:58:33.000Z",
+      "ranking": 7.496,
+      "articleUrl": "https://www.marktechpost.com/2026/03/10/fish-audio-releases-fish-audio-s2-a-new-generation-of-expressive-text-to-speech-tts-with-absurdly-controllable-emotion/"
     },
     {
       "id": "1014",
@@ -213,6 +212,42 @@
       "publishedAt": "2026-03-10T11:00:00.000Z",
       "ranking": 7.215,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/891678/youtube-is-expanding-its-ai-deepfake-detection-tool-to-politicians-and-journalists"
+    },
+    {
+      "id": "1004",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Meta Deepfakes",
+      "mediumTitle": "Meta\u0027s Deepfake Rules",
+      "longTitle": "Oversight Board Criticizes Meta\u0027s Deepfake Moderation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The Meta Oversight Board has determined",
+            "that Meta\u2019s current deepfake moderation",
+            "practices are inadequate.",
+            "The Board found Meta\u2019s methods for",
+            "identifying deepfakes to be \u201Cnot robust",
+            "or comprehensive enough\u201D to effectively",
+            "address misinformation.",
+            "The Board is now urging Meta to",
+            "significantly revise its approach to",
+            "surfacing and moderating deepfakes.",
+            "This inadequacy is particularly",
+            "concerning in the context of rapidly",
+            "evolving conflicts like the war in Iran.",
+            "The swift dissemination of",
+            "misinformation during conflicts is a key",
+            "concern highlighted by the Board.",
+            "A particular concern is the potential",
+            "for deepfakes to influence public",
+            "opinion during armed conflicts."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-10T07:01:33.000Z",
+      "ranking": 7.1543612202680125,
+      "articleUrl": "https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram"
     },
     {
       "id": "1008",
@@ -356,7 +391,7 @@
         }
       ],
       "publishedAt": "2026-03-09T17:45:24.000Z",
-      "ranking": 5.193679735071768,
+      "ranking": 4.676514171606533,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google"
     },
     {
@@ -391,7 +426,7 @@
         }
       ],
       "publishedAt": "2026-03-09T12:24:03.000Z",
-      "ranking": 4.546128589262608,
+      "ranking": 3.95380234628548,
       "articleUrl": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle"
     },
     {
@@ -428,7 +463,7 @@
         }
       ],
       "publishedAt": "2026-03-09T06:03:21.000Z",
-      "ranking": 4.499188349761713,
+      "ranking": 3.817820030754058,
       "articleUrl": "https://www.marktechpost.com/2026/03/08/a-coding-guide-to-build-a-complete-single-cell-rna-sequencing-analysis-pipeline-using-scanpy-for-clustering-visualization-and-cell-type-annotation/"
     },
     {
@@ -463,7 +498,7 @@
         }
       ],
       "publishedAt": "2026-03-09T03:47:38.000Z",
-      "ranking": 3.606507860750403,
+      "ranking": 2.8933967158300318,
       "articleUrl": "https://www.marktechpost.com/2026/03/08/andrej-karpathy-open-sources-autoresearch-a-630-line-python-tool-letting-ai-agents-run-autonomous-ml-experiments-on-single-gpus/"
     },
     {
