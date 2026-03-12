@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "id": "1019",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Gemini Embed 2",
-      "mediumTitle": "Google\u0027s New Multimodal Model",
-      "longTitle": "Gemini Embedding 2: A Next-Gen AI Model",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Google AI has released Gemini Embedding",
-            "2, the next generation of its embedding",
-            "model.",
-            "It\u0027s capable of handling text, images,",
-            "video, audio, and documents within a",
-            "single embedding space.",
-            "Gemini Embedding 2 is designed as a",
-            "multimodal embedding model, a key",
-            "advancement.",
-            "The release of Gemini Embedding 2",
-            "represents a significant technical",
-            "advancement in the field of AI.",
-            "It also aims to improve cross-modal",
-            "retrieval, allowing for more effective",
-            "searches across different data types.",
-            "Developers building Retrieval-Augmented",
-            "Generation (RAG) systems will",
-            "particularly benefit from this release."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-11T08:18:20.000Z",
-      "ranking": 7.949999999999999,
-      "articleUrl": "https://www.marktechpost.com/2026/03/11/google-ai-introduces-gemini-embedding-2-a-multimodal-embedding-model-that-lets-your-bring-text-images-video-audio-and-docs-into-the-embedding-space/"
-    },
-    {
       "id": "1024",
       "topic": "Generative AI",
       "source": "The Verge AI",
@@ -71,41 +36,6 @@
       "publishedAt": "2026-03-11T13:50:45.000Z",
       "ranking": 7.6,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration"
-    },
-    {
-      "id": "1017",
-      "topic": "Speech",
-      "source": "Marktechpost AI",
-      "shortTitle": "Fish Audio S2",
-      "mediumTitle": "New Fish Audio TTS",
-      "longTitle": "Fish Audio Releases Next-Gen TTS",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Fish Audio has released Fish Audio S2, a",
-            "new generation of Text-to-Speech (TTS)",
-            "technology.",
-            "This release signifies a move in the TTS",
-            "field from traditional modular pipelines",
-            "to integrated Large Audio Models (LAMs).",
-            "S2-Pro, the flagship model in the Fish",
-            "Speech ecosystem, is designed for",
-            "high-fidelity, multi-speaker synthesis.",
-            "S2-Pro boasts a low latency of under",
-            "150ms, making it suitable for real-time",
-            "applications.",
-            "A key feature of S2 is its open",
-            "architecture, enabling zero-shot voice",
-            "cloning.",
-            "The technology provides granular",
-            "emotional control within the synthesized",
-            "speech."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-11T05:58:33.000Z",
-      "ranking": 7.496,
-      "articleUrl": "https://www.marktechpost.com/2026/03/10/fish-audio-releases-fish-audio-s2-a-new-generation-of-expressive-text-to-speech-tts-with-absurdly-controllable-emotion/"
     },
     {
       "id": "1026",
@@ -214,6 +144,76 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892978/ai-chatbots-investigation-help-teens-plan-violence"
     },
     {
+      "id": "1019",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Gemini Embed 2",
+      "mediumTitle": "Google\u0027s New Multimodal Model",
+      "longTitle": "Gemini Embedding 2: A Next-Gen AI Model",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google AI has released Gemini Embedding",
+            "2, the next generation of its embedding",
+            "model.",
+            "It\u0027s capable of handling text, images,",
+            "video, audio, and documents within a",
+            "single embedding space.",
+            "Gemini Embedding 2 is designed as a",
+            "multimodal embedding model, a key",
+            "advancement.",
+            "The release of Gemini Embedding 2",
+            "represents a significant technical",
+            "advancement in the field of AI.",
+            "It also aims to improve cross-modal",
+            "retrieval, allowing for more effective",
+            "searches across different data types.",
+            "Developers building Retrieval-Augmented",
+            "Generation (RAG) systems will",
+            "particularly benefit from this release."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-11T08:18:20.000Z",
+      "ranking": 6.9210414784481635,
+      "articleUrl": "https://www.marktechpost.com/2026/03/11/google-ai-introduces-gemini-embedding-2-a-multimodal-embedding-model-that-lets-your-bring-text-images-video-audio-and-docs-into-the-embedding-space/"
+    },
+    {
+      "id": "1017",
+      "topic": "Speech",
+      "source": "Marktechpost AI",
+      "shortTitle": "Fish Audio S2",
+      "mediumTitle": "New Fish Audio TTS",
+      "longTitle": "Fish Audio Releases Next-Gen TTS",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Fish Audio has released Fish Audio S2, a",
+            "new generation of Text-to-Speech (TTS)",
+            "technology.",
+            "This release signifies a move in the TTS",
+            "field from traditional modular pipelines",
+            "to integrated Large Audio Models (LAMs).",
+            "S2-Pro, the flagship model in the Fish",
+            "Speech ecosystem, is designed for",
+            "high-fidelity, multi-speaker synthesis.",
+            "S2-Pro boasts a low latency of under",
+            "150ms, making it suitable for real-time",
+            "applications.",
+            "A key feature of S2 is its open",
+            "architecture, enabling zero-shot voice",
+            "cloning.",
+            "The technology provides granular",
+            "emotional control within the synthesized",
+            "speech."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-11T05:58:33.000Z",
+      "ranking": 6.26068403742348,
+      "articleUrl": "https://www.marktechpost.com/2026/03/10/fish-audio-releases-fish-audio-s2-a-new-generation-of-expressive-text-to-speech-tts-with-absurdly-controllable-emotion/"
+    },
+    {
       "id": "1014",
       "topic": "Business",
       "source": "The Verge AI",
@@ -245,7 +245,7 @@
         }
       ],
       "publishedAt": "2026-03-10T18:30:00.000Z",
-      "ranking": 5.455519259924454,
+      "ranking": 4.941330096612061,
       "articleUrl": "https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet"
     },
     {
@@ -281,44 +281,8 @@
         }
       ],
       "publishedAt": "2026-03-10T12:54:42.000Z",
-      "ranking": 4.8424460735259505,
+      "ranking": 4.24865850064496,
       "articleUrl": "https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email"
-    },
-    {
-      "id": "1004",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Meta Deepfakes",
-      "mediumTitle": "Meta\u0027s Deepfake Rules",
-      "longTitle": "Oversight Board Criticizes Meta\u0027s Deepfake Moderation",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The Meta Oversight Board has determined",
-            "that Meta\u2019s current deepfake moderation",
-            "practices are inadequate.",
-            "The Board found Meta\u2019s methods for",
-            "identifying deepfakes to be \u201Cnot robust",
-            "or comprehensive enough\u201D to effectively",
-            "address misinformation.",
-            "The Board is now urging Meta to",
-            "significantly revise its approach to",
-            "surfacing and moderating deepfakes.",
-            "This inadequacy is particularly",
-            "concerning in the context of rapidly",
-            "evolving conflicts like the war in Iran.",
-            "The swift dissemination of",
-            "misinformation during conflicts is a key",
-            "concern highlighted by the Board.",
-            "A particular concern is the potential",
-            "for deepfakes to influence public",
-            "opinion during armed conflicts."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-10T07:01:33.000Z",
-      "ranking": 4.694748991751334,
-      "articleUrl": "https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram"
     },
     {
       "id": "1012",
@@ -354,8 +318,44 @@
         }
       ],
       "publishedAt": "2026-03-10T12:22:17.000Z",
-      "ranking": 4.63258216845079,
+      "ranking": 4.031099063208222,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892178/meta-moltbook-acquisition-ai-agents"
+    },
+    {
+      "id": "1004",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Meta Deepfakes",
+      "mediumTitle": "Meta\u0027s Deepfake Rules",
+      "longTitle": "Oversight Board Criticizes Meta\u0027s Deepfake Moderation",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The Meta Oversight Board has determined",
+            "that Meta\u2019s current deepfake moderation",
+            "practices are inadequate.",
+            "The Board found Meta\u2019s methods for",
+            "identifying deepfakes to be \u201Cnot robust",
+            "or comprehensive enough\u201D to effectively",
+            "address misinformation.",
+            "The Board is now urging Meta to",
+            "significantly revise its approach to",
+            "surfacing and moderating deepfakes.",
+            "This inadequacy is particularly",
+            "concerning in the context of rapidly",
+            "evolving conflicts like the war in Iran.",
+            "The swift dissemination of",
+            "misinformation during conflicts is a key",
+            "concern highlighted by the Board.",
+            "A particular concern is the potential",
+            "for deepfakes to influence public",
+            "opinion during armed conflicts."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-10T07:01:33.000Z",
+      "ranking": 4.017125553653627,
+      "articleUrl": "https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram"
     },
     {
       "id": "1009",
@@ -389,7 +389,7 @@
         }
       ],
       "publishedAt": "2026-03-10T10:00:00.000Z",
-      "ranking": 4.517002047789729,
+      "ranking": 3.881741659376595,
       "articleUrl": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch"
     },
     {
@@ -425,7 +425,7 @@
         }
       ],
       "publishedAt": "2026-03-10T15:11:43.000Z",
-      "ranking": 4.241316638423905,
+      "ranking": 3.680056061889084,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order"
     },
     {
@@ -461,7 +461,7 @@
         }
       ],
       "publishedAt": "2026-03-10T15:11:43.000Z",
-      "ranking": 4.232680270424634,
+      "ranking": 3.6714196934666483,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order"
     },
     {
@@ -496,7 +496,7 @@
         }
       ],
       "publishedAt": "2026-03-10T11:00:00.000Z",
-      "ranking": 4.218003442746301,
+      "ranking": 3.5969867209781694,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/891678/youtube-is-expanding-its-ai-deepfake-detection-tool-to-politicians-and-journalists"
     },
     {
@@ -532,7 +532,7 @@
         }
       ],
       "publishedAt": "2026-03-10T10:00:00.000Z",
-      "ranking": 3.6670020285181923,
+      "ranking": 3.031741637837597,
       "articleUrl": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive"
     },
     {
@@ -569,7 +569,7 @@
         }
       ],
       "publishedAt": "2026-03-09T17:45:24.000Z",
-      "ranking": 1.299186480017858,
+      "ranking": 0.4325614393110522,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google"
     },
     {
@@ -604,7 +604,7 @@
         }
       ],
       "publishedAt": "2026-03-09T12:24:03.000Z",
-      "ranking": 0.20605719778569664,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle"
     },
     {
