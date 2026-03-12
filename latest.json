@@ -1,41 +1,39 @@
 {
   "articles": [
     {
-      "id": "1024",
-      "topic": "Generative AI",
+      "id": "1030",
+      "topic": "Large Models, NLP",
       "source": "The Verge AI",
-      "shortTitle": "Sora in ChatGPT",
-      "mediumTitle": "OpenAI to Integrate Sora",
-      "longTitle": "OpenAI Plans Sora Integration with ChatGPT",
+      "shortTitle": "Maps \u002B Gemini",
+      "mediumTitle": "Google Maps Gets AI Boost",
+      "longTitle": "Gemini AI Powers New \u0027Ask Maps\u0027 Feature",
       "paragraphs": [
         {
           "Lines": [
-            "OpenAI is planning to integrate its",
-            "video generator, Sora, directly into",
-            "ChatGPT.",
-            "Users will be able to create videos",
-            "directly within the ChatGPT interface,",
-            "simplifying the process.",
-            "The integration is intended to leverage",
-            "ChatGPT\u2019s popularity to increase access",
-            "to Sora\u2019s video generation capabilities.",
-            "By combining Sora and ChatGPT, OpenAI",
-            "hopes to make video generation more",
-            "accessible.",
-            "This integration represents a change in",
-            "OpenAI\u2019s strategy for distributing and",
-            "utilizing its AI tools.",
-            "The move could significantly boost",
-            "Sora\u2019s user base and overall impact.",
-            "Sora\u2019s current usage levels are lower",
-            "compared to the widespread adoption of",
-            "ChatGPT."
+            "Google has integrated its Gemini AI",
+            "model into Google Maps with a new",
+            "feature called \u0027Ask Maps\u0027.",
+            "This allows users to pose complex,",
+            "real-world questions and receive",
+            "detailed, personalized responses.",
+            "The capability to answer complex queries",
+            "was previously limited within Google",
+            "Maps.",
+            "The feature is currently rolling out and",
+            "will be available in English in the US",
+            "initially.",
+            "The announcement highlights Google\u2019s",
+            "ongoing effort to integrate Gemini",
+            "across its entire product suite.",
+            "Plans are in place to expand the feature",
+            "to more languages and regions in the",
+            "future."
           ]
         }
       ],
-      "publishedAt": "2026-03-11T13:50:45.000Z",
-      "ranking": 7.6,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration"
+      "publishedAt": "2026-03-12T09:30:00.000Z",
+      "ranking": 7.455,
+      "articleUrl": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation"
     },
     {
       "id": "1026",
@@ -75,6 +73,43 @@
       "articleUrl": "https://www.marktechpost.com/2026/03/11/nvidia-releases-nemotron-3-super-a-120b-parameter-open-source-hybrid-mamba-attention-moe-model-delivering-5x-higher-throughput-for-agentic-ai/"
     },
     {
+      "id": "1024",
+      "topic": "Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "Sora in ChatGPT",
+      "mediumTitle": "OpenAI to Integrate Sora",
+      "longTitle": "OpenAI Plans Sora Integration with ChatGPT",
+      "paragraphs": [
+        {
+          "Lines": [
+            "OpenAI is planning to integrate its",
+            "video generator, Sora, directly into",
+            "ChatGPT.",
+            "Users will be able to create videos",
+            "directly within the ChatGPT interface,",
+            "simplifying the process.",
+            "The integration is intended to leverage",
+            "ChatGPT\u2019s popularity to increase access",
+            "to Sora\u2019s video generation capabilities.",
+            "By combining Sora and ChatGPT, OpenAI",
+            "hopes to make video generation more",
+            "accessible.",
+            "This integration represents a change in",
+            "OpenAI\u2019s strategy for distributing and",
+            "utilizing its AI tools.",
+            "The move could significantly boost",
+            "Sora\u2019s user base and overall impact.",
+            "Sora\u2019s current usage levels are lower",
+            "compared to the widespread adoption of",
+            "ChatGPT."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-11T13:50:45.000Z",
+      "ranking": 6.358794233843373,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration"
+    },
+    {
       "id": "1023",
       "topic": "Ethics",
       "source": "The Verge AI",
@@ -106,7 +141,7 @@
         }
       ],
       "publishedAt": "2026-03-11T15:45:50.000Z",
-      "ranking": 7.218181818181818,
+      "ranking": 6.148663543178909,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled"
     },
     {
@@ -141,7 +176,7 @@
         }
       ],
       "publishedAt": "2026-03-11T08:18:20.000Z",
-      "ranking": 6.553799921298946,
+      "ranking": 6.1411389330306685,
       "articleUrl": "https://www.marktechpost.com/2026/03/11/google-ai-introduces-gemini-embedding-2-a-multimodal-embedding-model-that-lets-your-bring-text-images-video-audio-and-docs-into-the-embedding-space/"
     },
     {
@@ -175,7 +210,7 @@
         }
       ],
       "publishedAt": "2026-03-11T10:18:45.000Z",
-      "ranking": 5.895425817622131,
+      "ranking": 5.510081006676575,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892978/ai-chatbots-investigation-help-teens-plan-violence"
     },
     {
@@ -210,7 +245,7 @@
         }
       ],
       "publishedAt": "2026-03-11T05:58:33.000Z",
-      "ranking": 5.860975239308481,
+      "ranking": 5.416604798117271,
       "articleUrl": "https://www.marktechpost.com/2026/03/10/fish-audio-releases-fish-audio-s2-a-new-generation-of-expressive-text-to-speech-tts-with-absurdly-controllable-emotion/"
     },
     {
@@ -245,7 +280,7 @@
         }
       ],
       "publishedAt": "2026-03-10T18:30:00.000Z",
-      "ranking": 4.381692956378865,
+      "ranking": 3.781126904674744,
       "articleUrl": "https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet"
     },
     {
@@ -281,7 +316,7 @@
         }
       ],
       "publishedAt": "2026-03-10T12:54:42.000Z",
-      "ranking": 3.611141739705744,
+      "ranking": 2.9345137862058657,
       "articleUrl": "https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email"
     },
     {
@@ -318,7 +353,7 @@
         }
       ],
       "publishedAt": "2026-03-10T12:22:17.000Z",
-      "ranking": 3.386052935458885,
+      "ranking": 2.702071343947969,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892178/meta-moltbook-acquisition-ai-agents"
     },
     {
@@ -354,7 +389,7 @@
         }
       ],
       "publishedAt": "2026-03-10T07:01:33.000Z",
-      "ranking": 3.2975832382032113,
+      "ranking": 2.540844199289803,
       "articleUrl": "https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram"
     },
     {
@@ -389,7 +424,7 @@
         }
       ],
       "publishedAt": "2026-03-10T10:00:00.000Z",
-      "ranking": 3.2036476222069092,
+      "ranking": 2.4873894571855226,
       "articleUrl": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch"
     },
     {
@@ -425,7 +460,7 @@
         }
       ],
       "publishedAt": "2026-03-10T15:11:43.000Z",
-      "ranking": 3.0743639266176275,
+      "ranking": 2.4288178012148522,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order"
     },
     {
@@ -461,7 +496,7 @@
         }
       ],
       "publishedAt": "2026-03-10T15:11:43.000Z",
-      "ranking": 3.06572755696874,
+      "ranking": 2.4201814301711204,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order"
     },
     {
@@ -496,7 +531,7 @@
         }
       ],
       "publishedAt": "2026-03-10T11:00:00.000Z",
-      "ranking": 2.932828780374927,
+      "ranking": 2.2301814405862013,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/891678/youtube-is-expanding-its-ai-deepfake-detection-tool-to-politicians-and-journalists"
     },
     {
@@ -532,7 +567,7 @@
         }
       ],
       "publishedAt": "2026-03-10T10:00:00.000Z",
-      "ranking": 2.3536475984531906,
+      "ranking": 1.6373894268978777,
       "articleUrl": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive"
     },
     {
@@ -1110,77 +1145,6 @@
       "publishedAt": "2026-03-05T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch"
-    },
-    {
-      "id": "979",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Yuan 3.0",
-      "mediumTitle": "YuanLab Releases Yuan 3.0 Ultra",
-      "longTitle": "YuanLab\u0027s New Open-Source LLM: Yuan 3.0 Ultra",
-      "paragraphs": [
-        {
-          "Lines": [
-            "YuanLab AI has released Yuan 3.0 Ultra,",
-            "a new open-source Mixture-of-Experts",
-            "(MoE) large language model (LLM).",
-            "This model boasts 1 trillion (1T) total",
-            "parameters, but utilizes only 68.8",
-            "billion activated parameters.",
-            "This architecture aims to deliver",
-            "state-of-the-art enterprise performance",
-            "with increased efficiency.",
-            "Specifically, the model achieves a 33.3%",
-            "reduction in total parameter count",
-            "compared to previous models.",
-            "It also demonstrates a 49% boost in",
-            "pre-training efficiency.",
-            "Yuan 3.0 Ultra is described as a",
-            "multimodal foundation model.",
-            "Being a multimodal model suggests it can",
-            "process and understand various data",
-            "types."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-05T06:55:02.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/03/04/yuanlab-ai-releases-yuan-3-0-ultra-a-flagship-multimodal-moe-foundation-model-built-for-stronger-intelligence-and-unrivaled-efficiency/"
-    },
-    {
-      "id": "978",
-      "topic": "Business",
-      "source": "The Verge AI",
-      "shortTitle": "AI \u0026 Power",
-      "mediumTitle": "Tech Firms Pledge on AI Power",
-      "longTitle": "Tech Giants Agree to Address AI Energy Costs",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Seven major tech companies participated",
-            "in the agreement with the former",
-            "president.",
-            "The pledge directly addresses concerns",
-            "about the financial impact of AI",
-            "development on everyday electricity",
-            "users.",
-            "The rapid growth of AI data centers is",
-            "creating a significant increase in",
-            "demand for electricity.",
-            "Bipartisan support for addressing this",
-            "issue highlights its broad relevance and",
-            "potential impact.",
-            "The tech companies involved are at the",
-            "forefront of AI research and deployment.",
-            "The pledge represents a proactive step",
-            "to mitigate potential negative",
-            "consequences of AI\u0027s energy consumption."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-04T20:17:37.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft"
     }
   ]
 }
