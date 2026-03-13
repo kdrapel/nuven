@@ -36,39 +36,41 @@
       "articleUrl": "https://www.marktechpost.com/2026/03/12/how-to-build-an-autonomous-machine-learning-research-loop-in-google-colab-using-andrej-karpathys-autoresearch-framework-for-hyperparameter-discovery-and-experiment-tracking/"
     },
     {
-      "id": "1030",
-      "topic": "Large Models, NLP",
-      "source": "The Verge AI",
-      "shortTitle": "Maps \u002B Gemini",
-      "mediumTitle": "Google Maps Gets AI Boost",
-      "longTitle": "Gemini AI Powers New \u0027Ask Maps\u0027 Feature",
+      "id": "1038",
+      "topic": "Large Models, NLP, Data Prep",
+      "source": "Marktechpost AI",
+      "shortTitle": "Groundsource",
+      "mediumTitle": "Google AI \u0026 Disaster Data",
+      "longTitle": "New Dataset Tracks Urban Flash Floods",
       "paragraphs": [
         {
           "Lines": [
-            "Google has integrated its Gemini AI",
-            "model into Google Maps with a new",
-            "feature called \u0027Ask Maps\u0027.",
-            "This allows users to pose complex,",
-            "real-world questions and receive",
-            "detailed, personalized responses.",
-            "The capability to answer complex queries",
-            "was previously limited within Google",
-            "Maps.",
-            "The feature is currently rolling out and",
-            "will be available in English in the US",
-            "initially.",
-            "The announcement highlights Google\u2019s",
-            "ongoing effort to integrate Gemini",
-            "across its entire product suite.",
-            "Plans are in place to expand the feature",
-            "to more languages and regions in the",
-            "future."
+            "The resulting dataset is publicly",
+            "available to support research and",
+            "applications in disaster management.",
+            "The initial dataset specifically focuses",
+            "on urban flash flood events, a type of",
+            "disaster often lacking detailed records.",
+            "Google AI Research introduced",
+            "Groundsource to tackle the challenge of",
+            "limited historical data on natural",
+            "disasters.",
+            "The focus on urban flash floods",
+            "acknowledges their significant global",
+            "impact and the need for better data.",
+            "The methodology aims to transform",
+            "unstructured public news reports into",
+            "structured, actionable historical data.",
+            "Applications include improved disaster",
+            "preparedness, more accurate risk",
+            "assessment, and enhanced response",
+            "efforts."
           ]
         }
       ],
-      "publishedAt": "2026-03-12T09:30:00.000Z",
-      "ranking": 7.455,
-      "articleUrl": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation"
+      "publishedAt": "2026-03-13T09:07:25.000Z",
+      "ranking": 7.725,
+      "articleUrl": "https://www.marktechpost.com/2026/03/13/google-ai-introduces-groundsource-a-new-methodology-that-uses-gemini-model-to-transform-unstructured-global-news-into-actionable-historical-data/"
     },
     {
       "id": "1032",
@@ -106,6 +108,41 @@
       "articleUrl": "https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings"
     },
     {
+      "id": "1030",
+      "topic": "Large Models, NLP",
+      "source": "The Verge AI",
+      "shortTitle": "Maps \u002B Gemini",
+      "mediumTitle": "Google Maps Gets AI Boost",
+      "longTitle": "Gemini AI Powers New \u0027Ask Maps\u0027 Feature",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google has integrated its Gemini AI",
+            "model into Google Maps with a new",
+            "feature called \u0027Ask Maps\u0027.",
+            "This allows users to pose complex,",
+            "real-world questions and receive",
+            "detailed, personalized responses.",
+            "The capability to answer complex queries",
+            "was previously limited within Google",
+            "Maps.",
+            "The feature is currently rolling out and",
+            "will be available in English in the US",
+            "initially.",
+            "The announcement highlights Google\u2019s",
+            "ongoing effort to integrate Gemini",
+            "across its entire product suite.",
+            "Plans are in place to expand the feature",
+            "to more languages and regions in the",
+            "future."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-12T09:30:00.000Z",
+      "ranking": 6.1811976337772,
+      "articleUrl": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation"
+    },
+    {
       "id": "1026",
       "topic": "Large Models",
       "source": "Marktechpost AI",
@@ -139,7 +176,7 @@
         }
       ],
       "publishedAt": "2026-03-11T19:19:24.000Z",
-      "ranking": 4.8311912245441455,
+      "ranking": 4.283928485930697,
       "articleUrl": "https://www.marktechpost.com/2026/03/11/nvidia-releases-nemotron-3-super-a-120b-parameter-open-source-hybrid-mamba-attention-moe-model-delivering-5x-higher-throughput-for-agentic-ai/"
     },
     {
@@ -176,7 +213,7 @@
         }
       ],
       "publishedAt": "2026-03-11T13:50:45.000Z",
-      "ranking": 4.430663925984652,
+      "ranking": 3.8070406232918534,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration"
     },
     {
@@ -211,7 +248,7 @@
         }
       ],
       "publishedAt": "2026-03-11T15:45:50.000Z",
-      "ranking": 4.327012294791041,
+      "ranking": 3.730128161085527,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled"
     },
     {
@@ -246,7 +283,7 @@
         }
       ],
       "publishedAt": "2026-03-11T08:18:20.000Z",
-      "ranking": 3.9054452846838243,
+      "ranking": 3.2045862469310222,
       "articleUrl": "https://www.marktechpost.com/2026/03/11/google-ai-introduces-gemini-embedding-2-a-multimodal-embedding-model-that-lets-your-bring-text-images-video-audio-and-docs-into-the-embedding-space/"
     },
     {
@@ -280,7 +317,7 @@
         }
       ],
       "publishedAt": "2026-03-11T10:18:45.000Z",
-      "ranking": 3.3858010007904675,
+      "ranking": 2.7129203109092677,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892978/ai-chatbots-investigation-help-teens-plan-violence"
     },
     {
@@ -315,7 +352,7 @@
         }
       ],
       "publishedAt": "2026-03-11T05:58:33.000Z",
-      "ranking": 3.0515787972557344,
+      "ranking": 2.318241637814663,
       "articleUrl": "https://www.marktechpost.com/2026/03/10/fish-audio-releases-fish-audio-s2-a-new-generation-of-expressive-text-to-speech-tts-with-absurdly-controllable-emotion/"
     },
     {
@@ -350,7 +387,7 @@
         }
       ],
       "publishedAt": "2026-03-10T18:30:00.000Z",
-      "ranking": 0.7790307502892446,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet"
     },
     {
@@ -534,41 +571,6 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/891678/youtube-is-expanding-its-ai-deepfake-detection-tool-to-politicians-and-journalists"
     },
     {
-      "id": "1009",
-      "topic": "Vision, Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Photoshop",
-      "mediumTitle": "Photoshop Gets AI Assistant",
-      "longTitle": "Adobe Releases AI-Powered Photoshop Beta",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This feature allows users to edit images",
-            "not through traditional tools and menus,",
-            "but by simply *telling* the AI what",
-            "changes they want to make via a chatbot",
-            "interface.",
-            "Users describe the desired edits, and",
-            "the AI attempts to execute them.",
-            "The core functionality centers around",
-            "natural language prompting.",
-            "Adobe has announced the public beta",
-            "release of a new AI assistant integrated",
-            "directly into Photoshop (web and mobile",
-            "versions).",
-            "Currently, the AI assistant is available",
-            "in Photoshop.",
-            "Adobe plans to extend this AI assistant",
-            "functionality to other apps like Acrobat",
-            "and Express in the near future."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-10T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch"
-    },
-    {
       "id": "1008",
       "topic": "NLP, Business",
       "source": "The Verge AI",
@@ -603,6 +605,41 @@
       "publishedAt": "2026-03-10T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive"
+    },
+    {
+      "id": "1009",
+      "topic": "Vision, Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Photoshop",
+      "mediumTitle": "Photoshop Gets AI Assistant",
+      "longTitle": "Adobe Releases AI-Powered Photoshop Beta",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This feature allows users to edit images",
+            "not through traditional tools and menus,",
+            "but by simply *telling* the AI what",
+            "changes they want to make via a chatbot",
+            "interface.",
+            "Users describe the desired edits, and",
+            "the AI attempts to execute them.",
+            "The core functionality centers around",
+            "natural language prompting.",
+            "Adobe has announced the public beta",
+            "release of a new AI assistant integrated",
+            "directly into Photoshop (web and mobile",
+            "versions).",
+            "Currently, the AI assistant is available",
+            "in Photoshop.",
+            "Adobe plans to extend this AI assistant",
+            "functionality to other apps like Acrobat",
+            "and Express in the near future."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-10T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch"
     },
     {
       "id": "1004",
@@ -965,43 +1002,6 @@
       "publishedAt": "2026-03-06T15:05:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review"
-    },
-    {
-      "id": "988",
-      "topic": "Large Models",
-      "source": "Marktechpost AI",
-      "shortTitle": "Liquid AI Release",
-      "mediumTitle": "Local AI Tools Released",
-      "longTitle": "Liquid AI Launches Offline AI Models",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This local execution ensures data",
-            "privacy by eliminating the need for",
-            "external API calls and data",
-            "transmission.",
-            "The key benefit of this release is the",
-            "ability to run enterprise workflows",
-            "completely on a user\u2019s device.",
-            "The architecture is particularly",
-            "well-suited for environments where data",
-            "sensitivity is a primary concern.",
-            "Liquid AI has released LFM2-24B-A2B, a",
-            "model designed for fast, local execution",
-            "of tools, and LocalCowork, an",
-            "open-source desktop agent application.",
-            "By keeping data processing local, Liquid",
-            "AI addresses growing concerns about data",
-            "security and compliance.",
-            "The release focuses on achieving",
-            "low-latency execution, making it",
-            "suitable for real-time applications."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-06T06:45:50.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/03/05/liquid-ai-releases-localcowork-powered-by-lfm2-24b-a2b-to-execute-privacy-first-agent-workflows-locally-via-model-context-protocol-mcp/"
     }
   ]
 }
