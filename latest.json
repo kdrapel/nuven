@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "id": "1036",
-      "topic": "Tuning",
-      "source": "Marktechpost AI",
-      "shortTitle": "AutoResearch",
-      "mediumTitle": "AutoResearch in Colab",
-      "longTitle": "Automated ML Research with AutoResearch",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The article explains how to create an",
-            "autonomous machine learning research",
-            "loop.",
-            "The core of the system is an automated",
-            "research loop designed for programmatic",
-            "hyperparameter modification.",
-            "The ultimate aim is to enhance model",
-            "performance without requiring constant",
-            "manual intervention.",
-            "The framework automates the adjustment",
-            "and testing of various hyperparameter",
-            "settings.",
-            "This loop systematically explores the",
-            "hyperparameter space to find optimal",
-            "configurations.",
-            "The goal is to build a self-improving",
-            "system for machine learning research",
-            "endeavors."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-12T23:46:41.000Z",
-      "ranking": 8.285,
-      "articleUrl": "https://www.marktechpost.com/2026/03/12/how-to-build-an-autonomous-machine-learning-research-loop-in-google-colab-using-andrej-karpathys-autoresearch-framework-for-hyperparameter-discovery-and-experiment-tracking/"
-    },
-    {
       "id": "1038",
       "topic": "Large Models, NLP, Data Prep",
       "source": "Marktechpost AI",
@@ -73,6 +38,41 @@
       "articleUrl": "https://www.marktechpost.com/2026/03/13/google-ai-introduces-groundsource-a-new-methodology-that-uses-gemini-model-to-transform-unstructured-global-news-into-actionable-historical-data/"
     },
     {
+      "id": "1036",
+      "topic": "Tuning",
+      "source": "Marktechpost AI",
+      "shortTitle": "AutoResearch",
+      "mediumTitle": "AutoResearch in Colab",
+      "longTitle": "Automated ML Research with AutoResearch",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The article explains how to create an",
+            "autonomous machine learning research",
+            "loop.",
+            "The core of the system is an automated",
+            "research loop designed for programmatic",
+            "hyperparameter modification.",
+            "The ultimate aim is to enhance model",
+            "performance without requiring constant",
+            "manual intervention.",
+            "The framework automates the adjustment",
+            "and testing of various hyperparameter",
+            "settings.",
+            "This loop systematically explores the",
+            "hyperparameter space to find optimal",
+            "configurations.",
+            "The goal is to build a self-improving",
+            "system for machine learning research",
+            "endeavors."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-12T23:46:41.000Z",
+      "ranking": 7.218010602089483,
+      "articleUrl": "https://www.marktechpost.com/2026/03/12/how-to-build-an-autonomous-machine-learning-research-loop-in-google-colab-using-andrej-karpathys-autoresearch-framework-for-hyperparameter-discovery-and-experiment-tracking/"
+    },
+    {
       "id": "1032",
       "topic": "NLP",
       "source": "The Verge AI",
@@ -104,7 +104,7 @@
         }
       ],
       "publishedAt": "2026-03-12T14:59:32.000Z",
-      "ranking": 5.610218091815382,
+      "ranking": 5.177720150234868,
       "articleUrl": "https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings"
     },
     {
@@ -139,7 +139,7 @@
         }
       ],
       "publishedAt": "2026-03-12T09:30:00.000Z",
-      "ranking": 5.312690061400804,
+      "ranking": 4.805036741099194,
       "articleUrl": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation"
     },
     {
@@ -176,8 +176,43 @@
         }
       ],
       "publishedAt": "2026-03-11T19:19:24.000Z",
-      "ranking": 3.019614697602079,
+      "ranking": 2.317968363445713,
       "articleUrl": "https://www.marktechpost.com/2026/03/11/nvidia-releases-nemotron-3-super-a-120b-parameter-open-source-hybrid-mamba-attention-moe-model-delivering-5x-higher-throughput-for-agentic-ai/"
+    },
+    {
+      "id": "1023",
+      "topic": "Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "Grammarly AI",
+      "mediumTitle": "Grammarly Disables AI Feature",
+      "longTitle": "Grammarly Pauses \u0027Expert Review\u0027 Amid AI Concerns",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Grammarly\u2019s \u0027Expert Review\u0027 feature has",
+            "been disabled due to concerns about",
+            "unauthorized AI cloning of writing",
+            "styles.",
+            "Grammarly trained its AI on the work of",
+            "experts without obtaining explicit",
+            "permission, leading to the style cloning",
+            "concerns.",
+            "Specifically, the AI was referencing",
+            "*The Verge\u2019s* editor-in-chief and other",
+            "staff members as inspiration for edit",
+            "suggestions.",
+            "The company acknowledges the need to",
+            "address the ethical implications of",
+            "using AI to replicate writing styles.",
+            "Superhuman, an email client company,",
+            "first brought the issue to light by",
+            "observing the AI\u2019s behavior."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-11T15:45:50.000Z",
+      "ranking": 1.6160826266052624,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled"
     },
     {
       "id": "1024",
@@ -213,43 +248,8 @@
         }
       ],
       "publishedAt": "2026-03-11T13:50:45.000Z",
-      "ranking": 2.389797475647911,
+      "ranking": 1.6131972144578404,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration"
-    },
-    {
-      "id": "1023",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Grammarly AI",
-      "mediumTitle": "Grammarly Disables AI Feature",
-      "longTitle": "Grammarly Pauses \u0027Expert Review\u0027 Amid AI Concerns",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Grammarly\u2019s \u0027Expert Review\u0027 feature has",
-            "been disabled due to concerns about",
-            "unauthorized AI cloning of writing",
-            "styles.",
-            "Grammarly trained its AI on the work of",
-            "experts without obtaining explicit",
-            "permission, leading to the style cloning",
-            "concerns.",
-            "Specifically, the AI was referencing",
-            "*The Verge\u2019s* editor-in-chief and other",
-            "staff members as inspiration for edit",
-            "suggestions.",
-            "The company acknowledges the need to",
-            "address the ethical implications of",
-            "using AI to replicate writing styles.",
-            "Superhuman, an email client company,",
-            "first brought the issue to light by",
-            "observing the AI\u2019s behavior."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-11T15:45:50.000Z",
-      "ranking": 2.366436269504721,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled"
     },
     {
       "id": "1019",
@@ -283,7 +283,7 @@
         }
       ],
       "publishedAt": "2026-03-11T08:18:20.000Z",
-      "ranking": 1.6326610120947205,
+      "ranking": 0.780247788002379,
       "articleUrl": "https://www.marktechpost.com/2026/03/11/google-ai-introduces-gemini-embedding-2-a-multimodal-embedding-model-that-lets-your-bring-text-images-video-audio-and-docs-into-the-embedding-space/"
     },
     {
@@ -317,7 +317,7 @@
         }
       ],
       "publishedAt": "2026-03-11T10:18:45.000Z",
-      "ranking": 1.1970280704016583,
+      "ranking": 0.37207780381805033,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892978/ai-chatbots-investigation-help-teens-plan-violence"
     },
     {
@@ -352,7 +352,7 @@
         }
       ],
       "publishedAt": "2026-03-11T05:58:33.000Z",
-      "ranking": 0.6812715964017118,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/03/10/fish-audio-releases-fish-audio-s2-a-new-generation-of-expressive-text-to-speech-tts-with-absurdly-controllable-emotion/"
     },
     {
@@ -391,42 +391,6 @@
       "articleUrl": "https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet"
     },
     {
-      "id": "1010",
-      "topic": "Security",
-      "source": "The Verge AI",
-      "shortTitle": "Perplexity AI Block",
-      "mediumTitle": "Amazon Blocks Perplexity",
-      "longTitle": "Amazon Wins Injunction vs. Perplexity AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Amazon presented \u201Cstrong evidence\u201D that",
-            "Perplexity\u2019s technology was placing",
-            "orders even without direct user requests",
-            "or provided login credentials.",
-            "The judge\u2019s order specifically halts the",
-            "AI\u2019s ability to autonomously shop on",
-            "Amazon for users.",
-            "Amazon claims Perplexity\u2019s actions",
-            "create security risks for consumers.",
-            "The lawsuit alleges that Perplexity\u2019s",
-            "actions cause confusion among consumers.",
-            "Amazon is concerned about unauthorized",
-            "purchases being made through the AI.",
-            "Amazon also asserts that Perplexity\u2019s",
-            "actions damage its brand reputation.",
-            "The injunction is temporary, pending",
-            "further legal proceedings.",
-            "The case centers around Perplexity\u2019s",
-            "\u201CComet\u201D browser-based AI agents."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-10T15:11:43.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order"
-    },
-    {
       "id": "1015",
       "topic": "Security",
       "source": "The Verge AI",
@@ -455,6 +419,42 @@
             "The specific feature in question is",
             "Perplexity AI\u2019s Comet, an AI-powered web",
             "browser agent."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-10T15:11:43.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order"
+    },
+    {
+      "id": "1010",
+      "topic": "Security",
+      "source": "The Verge AI",
+      "shortTitle": "Perplexity AI Block",
+      "mediumTitle": "Amazon Blocks Perplexity",
+      "longTitle": "Amazon Wins Injunction vs. Perplexity AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon presented \u201Cstrong evidence\u201D that",
+            "Perplexity\u2019s technology was placing",
+            "orders even without direct user requests",
+            "or provided login credentials.",
+            "The judge\u2019s order specifically halts the",
+            "AI\u2019s ability to autonomously shop on",
+            "Amazon for users.",
+            "Amazon claims Perplexity\u2019s actions",
+            "create security risks for consumers.",
+            "The lawsuit alleges that Perplexity\u2019s",
+            "actions cause confusion among consumers.",
+            "Amazon is concerned about unauthorized",
+            "purchases being made through the AI.",
+            "Amazon also asserts that Perplexity\u2019s",
+            "actions damage its brand reputation.",
+            "The injunction is temporary, pending",
+            "further legal proceedings.",
+            "The case centers around Perplexity\u2019s",
+            "\u201CComet\u201D browser-based AI agents."
           ]
         }
       ],
@@ -965,43 +965,6 @@
       "publishedAt": "2026-03-06T16:58:24.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews"
-    },
-    {
-      "id": "990",
-      "topic": "Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Debate",
-      "mediumTitle": "Generative AI: Hype \u0026 Fear",
-      "longTitle": "Critique of Generative AI Discourse",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The extreme framing of generative AI \u2013",
-            "as either revolutionary or catastrophic",
-            "\u2013 prevents a balanced and informed",
-            "discussion.",
-            "Despite its increasing presence in daily",
-            "life, there\u0027s a significant lack of",
-            "understanding regarding the fundamental",
-            "nature of generative AI.",
-            "Rational assessment of generative AI is",
-            "hindered by the polarized and",
-            "sensationalized debate.",
-            "The prevalence of hyperbolic language",
-            "obscures the actual state of the",
-            "technology.",
-            "The current discourse surrounding",
-            "generative AI is heavily influenced by",
-            "exaggerated claims and predictions.",
-            "The core argument centers on the quality",
-            "of the discussion, not the technology",
-            "itself."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-06T15:05:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review"
     }
   ]
 }
