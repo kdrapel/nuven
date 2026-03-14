@@ -106,7 +106,7 @@
         }
       ],
       "publishedAt": "2026-03-12T23:46:41.000Z",
-      "ranking": 6.844692082152211,
+      "ranking": 6.410158765256183,
       "articleUrl": "https://www.marktechpost.com/2026/03/12/how-to-build-an-autonomous-machine-learning-research-loop-in-google-colab-using-andrej-karpathys-autoresearch-framework-for-hyperparameter-discovery-and-experiment-tracking/"
     },
     {
@@ -142,7 +142,7 @@
         }
       ],
       "publishedAt": "2026-03-12T22:21:04.000Z",
-      "ranking": 5.180114024743605,
+      "ranking": 4.725470290085291,
       "articleUrl": "https://www.marktechpost.com/2026/03/12/stanford-researchers-release-openjarvis-a-local-first-framework-for-building-on-device-personal-ai-agents-with-tools-memory-and-learning/"
     },
     {
@@ -177,7 +177,7 @@
         }
       ],
       "publishedAt": "2026-03-12T14:59:32.000Z",
-      "ranking": 4.682002884502776,
+      "ranking": 4.123647798982134,
       "articleUrl": "https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings"
     },
     {
@@ -212,7 +212,7 @@
         }
       ],
       "publishedAt": "2026-03-12T09:30:00.000Z",
-      "ranking": 4.232805266100678,
+      "ranking": 3.597046403726094,
       "articleUrl": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation"
     },
     {
@@ -249,7 +249,7 @@
         }
       ],
       "publishedAt": "2026-03-11T19:19:24.000Z",
-      "ranking": 1.5482364223009117,
+      "ranking": 0.712680922239799,
       "articleUrl": "https://www.marktechpost.com/2026/03/11/nvidia-releases-nemotron-3-super-a-120b-parameter-open-source-hybrid-mamba-attention-moe-model-delivering-5x-higher-throughput-for-agentic-ai/"
     },
     {
@@ -284,7 +284,7 @@
         }
       ],
       "publishedAt": "2026-03-11T15:45:50.000Z",
-      "ranking": 0.7967627264916217,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled"
     },
     {
@@ -321,7 +321,7 @@
         }
       ],
       "publishedAt": "2026-03-11T13:50:45.000Z",
-      "ranking": 0.7671561463634999,
+      "ranking": 0,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration"
     },
     {
@@ -644,41 +644,6 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/891678/youtube-is-expanding-its-ai-deepfake-detection-tool-to-politicians-and-journalists"
     },
     {
-      "id": "1009",
-      "topic": "Vision, Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Photoshop",
-      "mediumTitle": "Photoshop Gets AI Assistant",
-      "longTitle": "Adobe Releases AI-Powered Photoshop Beta",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This feature allows users to edit images",
-            "not through traditional tools and menus,",
-            "but by simply *telling* the AI what",
-            "changes they want to make via a chatbot",
-            "interface.",
-            "Users describe the desired edits, and",
-            "the AI attempts to execute them.",
-            "The core functionality centers around",
-            "natural language prompting.",
-            "Adobe has announced the public beta",
-            "release of a new AI assistant integrated",
-            "directly into Photoshop (web and mobile",
-            "versions).",
-            "Currently, the AI assistant is available",
-            "in Photoshop.",
-            "Adobe plans to extend this AI assistant",
-            "functionality to other apps like Acrobat",
-            "and Express in the near future."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-10T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch"
-    },
-    {
       "id": "1008",
       "topic": "NLP, Business",
       "source": "The Verge AI",
@@ -713,6 +678,41 @@
       "publishedAt": "2026-03-10T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive"
+    },
+    {
+      "id": "1009",
+      "topic": "Vision, Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Photoshop",
+      "mediumTitle": "Photoshop Gets AI Assistant",
+      "longTitle": "Adobe Releases AI-Powered Photoshop Beta",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This feature allows users to edit images",
+            "not through traditional tools and menus,",
+            "but by simply *telling* the AI what",
+            "changes they want to make via a chatbot",
+            "interface.",
+            "Users describe the desired edits, and",
+            "the AI attempts to execute them.",
+            "The core functionality centers around",
+            "natural language prompting.",
+            "Adobe has announced the public beta",
+            "release of a new AI assistant integrated",
+            "directly into Photoshop (web and mobile",
+            "versions).",
+            "Currently, the AI assistant is available",
+            "in Photoshop.",
+            "Adobe plans to extend this AI assistant",
+            "functionality to other apps like Acrobat",
+            "and Express in the near future."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-10T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch"
     },
     {
       "id": "1004",
