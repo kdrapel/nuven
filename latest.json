@@ -34,7 +34,7 @@
         }
       ],
       "publishedAt": "2026-03-14T00:05:53.000Z",
-      "ranking": 8.125,
+      "ranking": 7.08545286503294,
       "articleUrl": "https://www.marktechpost.com/2026/03/13/google-deepmind-introduces-aletheia-the-ai-agent-moving-from-math-competitions-to-fully-autonomous-professional-research-discoveries/"
     },
     {
@@ -71,7 +71,7 @@
         }
       ],
       "publishedAt": "2026-03-13T09:07:25.000Z",
-      "ranking": 5.542793098766431,
+      "ranking": 5.023851151447802,
       "articleUrl": "https://www.marktechpost.com/2026/03/13/google-ai-introduces-groundsource-a-new-methodology-that-uses-gemini-model-to-transform-unstructured-global-news-into-actionable-historical-data/"
     },
     {
@@ -106,7 +106,7 @@
         }
       ],
       "publishedAt": "2026-03-12T23:46:41.000Z",
-      "ranking": 4.800701331169741,
+      "ranking": 4.1522550972836605,
       "articleUrl": "https://www.marktechpost.com/2026/03/12/how-to-build-an-autonomous-machine-learning-research-loop-in-google-colab-using-andrej-karpathys-autoresearch-framework-for-hyperparameter-discovery-and-experiment-tracking/"
     },
     {
@@ -142,7 +142,7 @@
         }
       ],
       "publishedAt": "2026-03-12T22:21:04.000Z",
-      "ranking": 3.0568684811374687,
+      "ranking": 2.3886486304139485,
       "articleUrl": "https://www.marktechpost.com/2026/03/12/stanford-researchers-release-openjarvis-a-local-first-framework-for-building-on-device-personal-ai-agents-with-tools-memory-and-learning/"
     },
     {
@@ -177,7 +177,7 @@
         }
       ],
       "publishedAt": "2026-03-12T14:59:32.000Z",
-      "ranking": 2.1500327981481595,
+      "ranking": 1.3798385250342582,
       "articleUrl": "https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings"
     },
     {
@@ -212,7 +212,7 @@
         }
       ],
       "publishedAt": "2026-03-12T09:30:00.000Z",
-      "ranking": 1.395788309156556,
+      "ranking": 0.549486596617033,
       "articleUrl": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation"
     },
     {
@@ -464,42 +464,6 @@
       "articleUrl": "https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet"
     },
     {
-      "id": "1015",
-      "topic": "Security",
-      "source": "The Verge AI",
-      "shortTitle": "Perplexity AI",
-      "mediumTitle": "Perplexity AI \u0026 Amazon Dispute",
-      "longTitle": "Amazon Halts Perplexity AI Purchases",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Amazon presented evidence of",
-            "unauthorized access to user accounts.",
-            "Amazon argued that Perplexity\u2019s actions",
-            "posed security risks to its customers.",
-            "Judge Maxine Chesney of the US District",
-            "Court issued the order against",
-            "Perplexity AI.",
-            "The judge acknowledged the potential for",
-            "unauthorized purchases as a key issue in",
-            "the case.",
-            "The concern is that users may not be",
-            "fully aware of or approve each purchase",
-            "made by the AI agent.",
-            "Amazon is seeking to prevent Perplexity",
-            "AI from continuing to access its",
-            "platform in this manner.",
-            "The specific feature in question is",
-            "Perplexity AI\u2019s Comet, an AI-powered web",
-            "browser agent."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-10T15:11:43.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order"
-    },
-    {
       "id": "1010",
       "topic": "Security",
       "source": "The Verge AI",
@@ -528,6 +492,42 @@
             "further legal proceedings.",
             "The case centers around Perplexity\u2019s",
             "\u201CComet\u201D browser-based AI agents."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-10T15:11:43.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order"
+    },
+    {
+      "id": "1015",
+      "topic": "Security",
+      "source": "The Verge AI",
+      "shortTitle": "Perplexity AI",
+      "mediumTitle": "Perplexity AI \u0026 Amazon Dispute",
+      "longTitle": "Amazon Halts Perplexity AI Purchases",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon presented evidence of",
+            "unauthorized access to user accounts.",
+            "Amazon argued that Perplexity\u2019s actions",
+            "posed security risks to its customers.",
+            "Judge Maxine Chesney of the US District",
+            "Court issued the order against",
+            "Perplexity AI.",
+            "The judge acknowledged the potential for",
+            "unauthorized purchases as a key issue in",
+            "the case.",
+            "The concern is that users may not be",
+            "fully aware of or approve each purchase",
+            "made by the AI agent.",
+            "Amazon is seeking to prevent Perplexity",
+            "AI from continuing to access its",
+            "platform in this manner.",
+            "The specific feature in question is",
+            "Perplexity AI\u2019s Comet, an AI-powered web",
+            "browser agent."
           ]
         }
       ],
@@ -644,6 +644,41 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/891678/youtube-is-expanding-its-ai-deepfake-detection-tool-to-politicians-and-journalists"
     },
     {
+      "id": "1009",
+      "topic": "Vision, Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Photoshop",
+      "mediumTitle": "Photoshop Gets AI Assistant",
+      "longTitle": "Adobe Releases AI-Powered Photoshop Beta",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This feature allows users to edit images",
+            "not through traditional tools and menus,",
+            "but by simply *telling* the AI what",
+            "changes they want to make via a chatbot",
+            "interface.",
+            "Users describe the desired edits, and",
+            "the AI attempts to execute them.",
+            "The core functionality centers around",
+            "natural language prompting.",
+            "Adobe has announced the public beta",
+            "release of a new AI assistant integrated",
+            "directly into Photoshop (web and mobile",
+            "versions).",
+            "Currently, the AI assistant is available",
+            "in Photoshop.",
+            "Adobe plans to extend this AI assistant",
+            "functionality to other apps like Acrobat",
+            "and Express in the near future."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-10T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch"
+    },
+    {
       "id": "1008",
       "topic": "NLP, Business",
       "source": "The Verge AI",
@@ -678,41 +713,6 @@
       "publishedAt": "2026-03-10T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive"
-    },
-    {
-      "id": "1009",
-      "topic": "Vision, Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Photoshop",
-      "mediumTitle": "Photoshop Gets AI Assistant",
-      "longTitle": "Adobe Releases AI-Powered Photoshop Beta",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This feature allows users to edit images",
-            "not through traditional tools and menus,",
-            "but by simply *telling* the AI what",
-            "changes they want to make via a chatbot",
-            "interface.",
-            "Users describe the desired edits, and",
-            "the AI attempts to execute them.",
-            "The core functionality centers around",
-            "natural language prompting.",
-            "Adobe has announced the public beta",
-            "release of a new AI assistant integrated",
-            "directly into Photoshop (web and mobile",
-            "versions).",
-            "Currently, the AI assistant is available",
-            "in Photoshop.",
-            "Adobe plans to extend this AI assistant",
-            "functionality to other apps like Acrobat",
-            "and Express in the near future."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-10T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch"
     },
     {
       "id": "1004",
