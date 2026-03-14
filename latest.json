@@ -71,7 +71,7 @@
         }
       ],
       "publishedAt": "2026-03-13T09:07:25.000Z",
-      "ranking": 7.725,
+      "ranking": 6.412639874783056,
       "articleUrl": "https://www.marktechpost.com/2026/03/13/google-ai-introduces-groundsource-a-new-methodology-that-uses-gemini-model-to-transform-unstructured-global-news-into-actionable-historical-data/"
     },
     {
@@ -106,7 +106,7 @@
         }
       ],
       "publishedAt": "2026-03-12T23:46:41.000Z",
-      "ranking": 6.410158765256183,
+      "ranking": 5.928833245794215,
       "articleUrl": "https://www.marktechpost.com/2026/03/12/how-to-build-an-autonomous-machine-learning-research-loop-in-google-colab-using-andrej-karpathys-autoresearch-framework-for-hyperparameter-discovery-and-experiment-tracking/"
     },
     {
@@ -142,7 +142,7 @@
         }
       ],
       "publishedAt": "2026-03-12T22:21:04.000Z",
-      "ranking": 4.725470290085291,
+      "ranking": 4.224437168698575,
       "articleUrl": "https://www.marktechpost.com/2026/03/12/stanford-researchers-release-openjarvis-a-local-first-framework-for-building-on-device-personal-ai-agents-with-tools-memory-and-learning/"
     },
     {
@@ -177,7 +177,7 @@
         }
       ],
       "publishedAt": "2026-03-12T14:59:32.000Z",
-      "ranking": 4.123647798982134,
+      "ranking": 3.5209806897354676,
       "articleUrl": "https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings"
     },
     {
@@ -212,7 +212,7 @@
         }
       ],
       "publishedAt": "2026-03-12T09:30:00.000Z",
-      "ranking": 3.597046403726094,
+      "ranking": 2.9185259347655794,
       "articleUrl": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation"
     },
     {
@@ -249,7 +249,7 @@
         }
       ],
       "publishedAt": "2026-03-11T19:19:24.000Z",
-      "ranking": 0.712680922239799,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/03/11/nvidia-releases-nemotron-3-super-a-120b-parameter-open-source-hybrid-mamba-attention-moe-model-delivering-5x-higher-throughput-for-agentic-ai/"
     },
     {
@@ -464,42 +464,6 @@
       "articleUrl": "https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet"
     },
     {
-      "id": "1015",
-      "topic": "Security",
-      "source": "The Verge AI",
-      "shortTitle": "Perplexity AI",
-      "mediumTitle": "Perplexity AI \u0026 Amazon Dispute",
-      "longTitle": "Amazon Halts Perplexity AI Purchases",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Amazon presented evidence of",
-            "unauthorized access to user accounts.",
-            "Amazon argued that Perplexity\u2019s actions",
-            "posed security risks to its customers.",
-            "Judge Maxine Chesney of the US District",
-            "Court issued the order against",
-            "Perplexity AI.",
-            "The judge acknowledged the potential for",
-            "unauthorized purchases as a key issue in",
-            "the case.",
-            "The concern is that users may not be",
-            "fully aware of or approve each purchase",
-            "made by the AI agent.",
-            "Amazon is seeking to prevent Perplexity",
-            "AI from continuing to access its",
-            "platform in this manner.",
-            "The specific feature in question is",
-            "Perplexity AI\u2019s Comet, an AI-powered web",
-            "browser agent."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-10T15:11:43.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order"
-    },
-    {
       "id": "1010",
       "topic": "Security",
       "source": "The Verge AI",
@@ -528,6 +492,42 @@
             "further legal proceedings.",
             "The case centers around Perplexity\u2019s",
             "\u201CComet\u201D browser-based AI agents."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-10T15:11:43.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order"
+    },
+    {
+      "id": "1015",
+      "topic": "Security",
+      "source": "The Verge AI",
+      "shortTitle": "Perplexity AI",
+      "mediumTitle": "Perplexity AI \u0026 Amazon Dispute",
+      "longTitle": "Amazon Halts Perplexity AI Purchases",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon presented evidence of",
+            "unauthorized access to user accounts.",
+            "Amazon argued that Perplexity\u2019s actions",
+            "posed security risks to its customers.",
+            "Judge Maxine Chesney of the US District",
+            "Court issued the order against",
+            "Perplexity AI.",
+            "The judge acknowledged the potential for",
+            "unauthorized purchases as a key issue in",
+            "the case.",
+            "The concern is that users may not be",
+            "fully aware of or approve each purchase",
+            "made by the AI agent.",
+            "Amazon is seeking to prevent Perplexity",
+            "AI from continuing to access its",
+            "platform in this manner.",
+            "The specific feature in question is",
+            "Perplexity AI\u2019s Comet, an AI-powered web",
+            "browser agent."
           ]
         }
       ],
