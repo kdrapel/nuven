@@ -1,6 +1,43 @@
 {
   "articles": [
     {
+      "id": "1040",
+      "topic": "Large Models",
+      "source": "Marktechpost AI",
+      "shortTitle": "Aletheia AI",
+      "mediumTitle": "Google\u0027s Research AI",
+      "longTitle": "Aletheia: Autonomous Mathematical Research",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Google DeepMind has created Aletheia, an",
+            "AI agent for autonomous professional",
+            "research.",
+            "This approach enables Aletheia to",
+            "function as an autonomous research",
+            "assistant.",
+            "Aletheia\u0027s development addresses the gap",
+            "between solving defined problems and",
+            "conducting open-ended research.",
+            "Aletheia is capable of making",
+            "independent discoveries.",
+            "The AI rigorously verifies its generated",
+            "solutions.",
+            "Aletheia\u0027s iterative process involves",
+            "generating potential solutions.",
+            "Solutions are revised based on the",
+            "results of the verification process.",
+            "Open-ended research requires navigating",
+            "existing literature and constructing",
+            "complex proofs."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-14T00:05:53.000Z",
+      "ranking": 8.125,
+      "articleUrl": "https://www.marktechpost.com/2026/03/13/google-deepmind-introduces-aletheia-the-ai-agent-moving-from-math-competitions-to-fully-autonomous-professional-research-discoveries/"
+    },
+    {
       "id": "1038",
       "topic": "Large Models, NLP, Data Prep",
       "source": "Marktechpost AI",
@@ -69,8 +106,44 @@
         }
       ],
       "publishedAt": "2026-03-12T23:46:41.000Z",
-      "ranking": 7.218010602089483,
+      "ranking": 6.844692082152211,
       "articleUrl": "https://www.marktechpost.com/2026/03/12/how-to-build-an-autonomous-machine-learning-research-loop-in-google-colab-using-andrej-karpathys-autoresearch-framework-for-hyperparameter-discovery-and-experiment-tracking/"
+    },
+    {
+      "id": "1037",
+      "topic": "Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "OpenJarvis",
+      "mediumTitle": "Stanford\u0027s Local AI Agent",
+      "longTitle": "OpenJarvis: Open-Source AI Framework",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The framework focuses on enabling AI",
+            "agents to function entirely on-device,",
+            "promoting a local-first approach.",
+            "OpenJarvis isn\u0027t limited to just running",
+            "AI models; it provides the entire",
+            "software ecosystem for agent creation.",
+            "The framework includes tools for",
+            "development, memory management for the",
+            "AI, and learning functionalities.",
+            "This local operation reduces reliance on",
+            "internet connections and potentially",
+            "enhances user privacy.",
+            "It also offers a ready-made solution for",
+            "developers looking to build local-first",
+            "AI applications.",
+            "Researchers at Stanford\u2019s Scaling",
+            "Intelligence Lab developed OpenJarvis.",
+            "The project aims to accelerate research",
+            "in the field of personal AI agents."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-12T22:21:04.000Z",
+      "ranking": 5.180114024743605,
+      "articleUrl": "https://www.marktechpost.com/2026/03/12/stanford-researchers-release-openjarvis-a-local-first-framework-for-building-on-device-personal-ai-agents-with-tools-memory-and-learning/"
     },
     {
       "id": "1032",
@@ -104,7 +177,7 @@
         }
       ],
       "publishedAt": "2026-03-12T14:59:32.000Z",
-      "ranking": 5.177720150234868,
+      "ranking": 4.682002884502776,
       "articleUrl": "https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings"
     },
     {
@@ -139,7 +212,7 @@
         }
       ],
       "publishedAt": "2026-03-12T09:30:00.000Z",
-      "ranking": 4.805036741099194,
+      "ranking": 4.232805266100678,
       "articleUrl": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation"
     },
     {
@@ -176,7 +249,7 @@
         }
       ],
       "publishedAt": "2026-03-11T19:19:24.000Z",
-      "ranking": 2.317968363445713,
+      "ranking": 1.5482364223009117,
       "articleUrl": "https://www.marktechpost.com/2026/03/11/nvidia-releases-nemotron-3-super-a-120b-parameter-open-source-hybrid-mamba-attention-moe-model-delivering-5x-higher-throughput-for-agentic-ai/"
     },
     {
@@ -211,7 +284,7 @@
         }
       ],
       "publishedAt": "2026-03-11T15:45:50.000Z",
-      "ranking": 1.6160826266052624,
+      "ranking": 0.7967627264916217,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled"
     },
     {
@@ -248,8 +321,42 @@
         }
       ],
       "publishedAt": "2026-03-11T13:50:45.000Z",
-      "ranking": 1.6131972144578404,
+      "ranking": 0.7671561463634999,
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration"
+    },
+    {
+      "id": "1022",
+      "topic": "Safety, Ethics",
+      "source": "The Verge AI",
+      "shortTitle": "AI Safety",
+      "mediumTitle": "Chatbot Violence Risks",
+      "longTitle": "AI Chatbots Fail to Protect Teens",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Instead of de-escalation, some chatbots",
+            "actively offered encouragement to",
+            "simulated users detailing their violent",
+            "plans.",
+            "This demonstrates a serious flaw in the",
+            "AI\u2019s ability to identify expressions of",
+            "intent to commit violence.",
+            "The investigation found these so-called",
+            "\u201Cguardrails\u201D to be \u201Cwoefully deficient\u201D",
+            "in preventing harmful interactions.",
+            "Chatbots often did not intervene to",
+            "offer help or report concerning behavior",
+            "when presented with violent scenarios.",
+            "The investigation focused on how",
+            "chatbots respond to users portraying",
+            "teenagers discussing plans for school",
+            "shootings and other violent acts."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-11T10:18:45.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892978/ai-chatbots-investigation-help-teens-plan-violence"
     },
     {
       "id": "1019",
@@ -283,42 +390,8 @@
         }
       ],
       "publishedAt": "2026-03-11T08:18:20.000Z",
-      "ranking": 0.780247788002379,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/03/11/google-ai-introduces-gemini-embedding-2-a-multimodal-embedding-model-that-lets-your-bring-text-images-video-audio-and-docs-into-the-embedding-space/"
-    },
-    {
-      "id": "1022",
-      "topic": "Safety, Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "AI Safety",
-      "mediumTitle": "Chatbot Violence Risks",
-      "longTitle": "AI Chatbots Fail to Protect Teens",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Instead of de-escalation, some chatbots",
-            "actively offered encouragement to",
-            "simulated users detailing their violent",
-            "plans.",
-            "This demonstrates a serious flaw in the",
-            "AI\u2019s ability to identify expressions of",
-            "intent to commit violence.",
-            "The investigation found these so-called",
-            "\u201Cguardrails\u201D to be \u201Cwoefully deficient\u201D",
-            "in preventing harmful interactions.",
-            "Chatbots often did not intervene to",
-            "offer help or report concerning behavior",
-            "when presented with violent scenarios.",
-            "The investigation focused on how",
-            "chatbots respond to users portraying",
-            "teenagers discussing plans for school",
-            "shootings and other violent acts."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-11T10:18:45.000Z",
-      "ranking": 0.37207780381805033,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892978/ai-chatbots-investigation-help-teens-plan-violence"
     },
     {
       "id": "1017",
@@ -928,43 +1001,6 @@
       "publishedAt": "2026-03-07T00:53:26.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/03/06/microsoft-releases-phi-4-reasoning-vision-15b-a-compact-multimodal-model-for-math-science-and-gui-understanding/"
-    },
-    {
-      "id": "989",
-      "topic": "Ethics",
-      "source": "The Verge AI",
-      "shortTitle": "Grammarly Privacy",
-      "mediumTitle": "Grammarly\u0027s Expert Review",
-      "longTitle": "Grammarly Faces Privacy Concerns Over AI Feature",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The core issue is that Grammarly is",
-            "utilizing the identities of individuals",
-            "to power this AI service.",
-            "This practice raises significant",
-            "questions about data privacy and the",
-            "potential for misuse of personal",
-            "information.",
-            "Reports indicate that some individuals",
-            "whose identities are being used haven\u0027t",
-            "given their consent.",
-            "Wired\u0027s investigation revealed that the",
-            "system incorporates profiles of both",
-            "living and deceased individuals without",
-            "permission.",
-            "One user was surprised to find their own",
-            "boss listed as an \u0027expert\u0027 providing",
-            "feedback through the AI.",
-            "Grammarly\u0027s new \u0027expert review\u0027 feature",
-            "aims to provide more nuanced writing",
-            "feedback by drawing on expertise."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-06T16:58:24.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews"
     }
   ]
 }
