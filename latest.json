@@ -104,7 +104,7 @@
         }
       ],
       "publishedAt": "2026-03-14T00:05:53.000Z",
-      "ranking": 5.814017184785715,
+      "ranking": 5.279425753936385,
       "articleUrl": "https://www.marktechpost.com/2026/03/13/google-deepmind-introduces-aletheia-the-ai-agent-moving-from-math-competitions-to-fully-autonomous-professional-research-discoveries/"
     },
     {
@@ -141,7 +141,7 @@
         }
       ],
       "publishedAt": "2026-03-13T09:07:25.000Z",
-      "ranking": 3.1277198776333313,
+      "ranking": 2.3851193211903263,
       "articleUrl": "https://www.marktechpost.com/2026/03/13/google-ai-introduces-groundsource-a-new-methodology-that-uses-gemini-model-to-transform-unstructured-global-news-into-actionable-historical-data/"
     },
     {
@@ -176,7 +176,7 @@
         }
       ],
       "publishedAt": "2026-03-12T23:46:41.000Z",
-      "ranking": 1.866250871341121,
+      "ranking": 0.993831754693761,
       "articleUrl": "https://www.marktechpost.com/2026/03/12/how-to-build-an-autonomous-machine-learning-research-loop-in-google-colab-using-andrej-karpathys-autoresearch-framework-for-hyperparameter-discovery-and-experiment-tracking/"
     },
     {
@@ -212,7 +212,7 @@
         }
       ],
       "publishedAt": "2026-03-12T22:21:04.000Z",
-      "ranking": 0.043115888961870574,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/03/12/stanford-researchers-release-openjarvis-a-local-first-framework-for-building-on-device-personal-ai-agents-with-tools-memory-and-learning/"
     },
     {
@@ -714,6 +714,41 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/891678/youtube-is-expanding-its-ai-deepfake-detection-tool-to-politicians-and-journalists"
     },
     {
+      "id": "1009",
+      "topic": "Vision, Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Photoshop",
+      "mediumTitle": "Photoshop Gets AI Assistant",
+      "longTitle": "Adobe Releases AI-Powered Photoshop Beta",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This feature allows users to edit images",
+            "not through traditional tools and menus,",
+            "but by simply *telling* the AI what",
+            "changes they want to make via a chatbot",
+            "interface.",
+            "Users describe the desired edits, and",
+            "the AI attempts to execute them.",
+            "The core functionality centers around",
+            "natural language prompting.",
+            "Adobe has announced the public beta",
+            "release of a new AI assistant integrated",
+            "directly into Photoshop (web and mobile",
+            "versions).",
+            "Currently, the AI assistant is available",
+            "in Photoshop.",
+            "Adobe plans to extend this AI assistant",
+            "functionality to other apps like Acrobat",
+            "and Express in the near future."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-10T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch"
+    },
+    {
       "id": "1008",
       "topic": "NLP, Business",
       "source": "The Verge AI",
@@ -748,41 +783,6 @@
       "publishedAt": "2026-03-10T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive"
-    },
-    {
-      "id": "1009",
-      "topic": "Vision, Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Photoshop",
-      "mediumTitle": "Photoshop Gets AI Assistant",
-      "longTitle": "Adobe Releases AI-Powered Photoshop Beta",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This feature allows users to edit images",
-            "not through traditional tools and menus,",
-            "but by simply *telling* the AI what",
-            "changes they want to make via a chatbot",
-            "interface.",
-            "Users describe the desired edits, and",
-            "the AI attempts to execute them.",
-            "The core functionality centers around",
-            "natural language prompting.",
-            "Adobe has announced the public beta",
-            "release of a new AI assistant integrated",
-            "directly into Photoshop (web and mobile",
-            "versions).",
-            "Currently, the AI assistant is available",
-            "in Photoshop.",
-            "Adobe plans to extend this AI assistant",
-            "functionality to other apps like Acrobat",
-            "and Express in the near future."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-10T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch"
     },
     {
       "id": "1004",
@@ -963,41 +963,6 @@
       "publishedAt": "2026-03-09T03:47:38.000Z",
       "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/03/08/andrej-karpathy-open-sources-autoresearch-a-630-line-python-tool-letting-ai-agents-run-autonomous-ml-experiments-on-single-gpus/"
-    },
-    {
-      "id": "995",
-      "topic": "Policy",
-      "source": "Marktechpost AI",
-      "shortTitle": "AGI Debate",
-      "mediumTitle": "LeCun Challenges AGI",
-      "longTitle": "Researchers Question the AGI Pursuit",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Yann LeCun and his team recently",
-            "released a new research paper addressing",
-            "the concept of Artificial General",
-            "Intelligence (AGI).",
-            "The central argument of the paper is",
-            "that the definition of AGI has become",
-            "vague and inconsistent over time.",
-            "This inconsistency, they argue, hinders",
-            "productive research and development in",
-            "the field of AI.",
-            "The researchers suggest that the pursuit",
-            "of AGI, as currently defined, may be",
-            "misdirected.",
-            "As an alternative, they introduce the",
-            "concept of Superhuman Adaptable",
-            "Intelligence (SAI).",
-            "The article does not provide a detailed",
-            "explanation of what SAI entails."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-08T04:57:57.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/03/07/yann-lecuns-new-ai-paper-argues-agi-is-misdefined-and-introduces-superhuman-adaptable-intelligence-sai-instead/"
     }
   ]
 }
