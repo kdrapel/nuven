@@ -104,7 +104,7 @@
         }
       ],
       "publishedAt": "2026-03-14T00:05:53.000Z",
-      "ranking": 5.279425753936385,
+      "ranking": 4.6843278060434805,
       "articleUrl": "https://www.marktechpost.com/2026/03/13/google-deepmind-introduces-aletheia-the-ai-agent-moving-from-math-competitions-to-fully-autonomous-professional-research-discoveries/"
     },
     {
@@ -141,7 +141,7 @@
         }
       ],
       "publishedAt": "2026-03-13T09:07:25.000Z",
-      "ranking": 2.3851193211903263,
+      "ranking": 1.580351816678161,
       "articleUrl": "https://www.marktechpost.com/2026/03/13/google-ai-introduces-groundsource-a-new-methodology-that-uses-gemini-model-to-transform-unstructured-global-news-into-actionable-historical-data/"
     },
     {
@@ -176,7 +176,7 @@
         }
       ],
       "publishedAt": "2026-03-12T23:46:41.000Z",
-      "ranking": 0.993831754693761,
+      "ranking": 0.05820941220591713,
       "articleUrl": "https://www.marktechpost.com/2026/03/12/how-to-build-an-autonomous-machine-learning-research-loop-in-google-colab-using-andrej-karpathys-autoresearch-framework-for-hyperparameter-discovery-and-experiment-tracking/"
     },
     {
@@ -534,42 +534,6 @@
       "articleUrl": "https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet"
     },
     {
-      "id": "1010",
-      "topic": "Security",
-      "source": "The Verge AI",
-      "shortTitle": "Perplexity AI Block",
-      "mediumTitle": "Amazon Blocks Perplexity",
-      "longTitle": "Amazon Wins Injunction vs. Perplexity AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Amazon presented \u201Cstrong evidence\u201D that",
-            "Perplexity\u2019s technology was placing",
-            "orders even without direct user requests",
-            "or provided login credentials.",
-            "The judge\u2019s order specifically halts the",
-            "AI\u2019s ability to autonomously shop on",
-            "Amazon for users.",
-            "Amazon claims Perplexity\u2019s actions",
-            "create security risks for consumers.",
-            "The lawsuit alleges that Perplexity\u2019s",
-            "actions cause confusion among consumers.",
-            "Amazon is concerned about unauthorized",
-            "purchases being made through the AI.",
-            "Amazon also asserts that Perplexity\u2019s",
-            "actions damage its brand reputation.",
-            "The injunction is temporary, pending",
-            "further legal proceedings.",
-            "The case centers around Perplexity\u2019s",
-            "\u201CComet\u201D browser-based AI agents."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-10T15:11:43.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order"
-    },
-    {
       "id": "1015",
       "topic": "Security",
       "source": "The Verge AI",
@@ -598,6 +562,42 @@
             "The specific feature in question is",
             "Perplexity AI\u2019s Comet, an AI-powered web",
             "browser agent."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-10T15:11:43.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order"
+    },
+    {
+      "id": "1010",
+      "topic": "Security",
+      "source": "The Verge AI",
+      "shortTitle": "Perplexity AI Block",
+      "mediumTitle": "Amazon Blocks Perplexity",
+      "longTitle": "Amazon Wins Injunction vs. Perplexity AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon presented \u201Cstrong evidence\u201D that",
+            "Perplexity\u2019s technology was placing",
+            "orders even without direct user requests",
+            "or provided login credentials.",
+            "The judge\u2019s order specifically halts the",
+            "AI\u2019s ability to autonomously shop on",
+            "Amazon for users.",
+            "Amazon claims Perplexity\u2019s actions",
+            "create security risks for consumers.",
+            "The lawsuit alleges that Perplexity\u2019s",
+            "actions cause confusion among consumers.",
+            "Amazon is concerned about unauthorized",
+            "purchases being made through the AI.",
+            "Amazon also asserts that Perplexity\u2019s",
+            "actions damage its brand reputation.",
+            "The injunction is temporary, pending",
+            "further legal proceedings.",
+            "The case centers around Perplexity\u2019s",
+            "\u201CComet\u201D browser-based AI agents."
           ]
         }
       ],
