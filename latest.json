@@ -38,40 +38,6 @@
       "articleUrl": "https://www.marktechpost.com/2026/03/15/ibm-ai-releases-granite-4-0-1b-speech-as-a-compact-multilingual-speech-model-for-edge-ai-and-translation-pipelines/"
     },
     {
-      "id": "1043",
-      "topic": "NLP",
-      "source": "Marktechpost AI",
-      "shortTitle": "GLM-OCR",
-      "mediumTitle": "Zhipu AI\u0027s GLM-OCR Model",
-      "longTitle": "GLM-OCR: Efficient Document Parsing with AI",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The model is designed to handle tasks",
-            "like parsing complex layouts and",
-            "extracting data from tables and",
-            "formulas.",
-            "Zhipu AI has developed GLM-OCR, a",
-            "multimodal Optical Character Recognition",
-            "(OCR) model with 0.9 billion parameters.",
-            "GLM-OCR prioritizes efficiency, aiming",
-            "to reduce the computational resources",
-            "needed for inference.",
-            "The model specifically addresses the",
-            "challenges associated with parsing and",
-            "extracting key information from",
-            "documents.",
-            "Real-world documents are often complex",
-            "and messy, presenting significant",
-            "hurdles for traditional OCR systems."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-15T09:08:01.000Z",
-      "ranking": 6.94,
-      "articleUrl": "https://www.marktechpost.com/2026/03/15/zhipu-ai-introduces-glm-ocr-a-0-9b-multimodal-ocr-model-for-document-parsing-and-key-information-extraction-kie/"
-    },
-    {
       "id": "1041",
       "topic": "Large Models, Dev Tools",
       "source": "Marktechpost AI",
@@ -104,8 +70,42 @@
         }
       ],
       "publishedAt": "2026-03-15T02:33:18.000Z",
-      "ranking": 6.288801168156256,
+      "ranking": 5.842971632257213,
       "articleUrl": "https://www.marktechpost.com/2026/03/14/how-to-build-type-safe-schema-constrained-and-function-driven-llm-pipelines-using-outlines-and-pydantic/"
+    },
+    {
+      "id": "1043",
+      "topic": "NLP",
+      "source": "Marktechpost AI",
+      "shortTitle": "GLM-OCR",
+      "mediumTitle": "Zhipu AI\u0027s GLM-OCR Model",
+      "longTitle": "GLM-OCR: Efficient Document Parsing with AI",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The model is designed to handle tasks",
+            "like parsing complex layouts and",
+            "extracting data from tables and",
+            "formulas.",
+            "Zhipu AI has developed GLM-OCR, a",
+            "multimodal Optical Character Recognition",
+            "(OCR) model with 0.9 billion parameters.",
+            "GLM-OCR prioritizes efficiency, aiming",
+            "to reduce the computational resources",
+            "needed for inference.",
+            "The model specifically addresses the",
+            "challenges associated with parsing and",
+            "extracting key information from",
+            "documents.",
+            "Real-world documents are often complex",
+            "and messy, presenting significant",
+            "hurdles for traditional OCR systems."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-15T09:08:01.000Z",
+      "ranking": 5.630460640332698,
+      "articleUrl": "https://www.marktechpost.com/2026/03/15/zhipu-ai-introduces-glm-ocr-a-0-9b-multimodal-ocr-model-for-document-parsing-and-key-information-extraction-kie/"
     },
     {
       "id": "1040",
@@ -141,7 +141,7 @@
         }
       ],
       "publishedAt": "2026-03-14T00:05:53.000Z",
-      "ranking": 2.5843838435820707,
+      "ranking": 1.7704032641619012,
       "articleUrl": "https://www.marktechpost.com/2026/03/13/google-deepmind-introduces-aletheia-the-ai-agent-moving-from-math-competitions-to-fully-autonomous-professional-research-discoveries/"
     },
     {
