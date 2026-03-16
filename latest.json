@@ -38,6 +38,43 @@
       "articleUrl": "https://www.marktechpost.com/2026/03/15/ibm-ai-releases-granite-4-0-1b-speech-as-a-compact-multilingual-speech-model-for-edge-ai-and-translation-pipelines/"
     },
     {
+      "id": "1048",
+      "topic": "News",
+      "source": "The Verge AI",
+      "shortTitle": "ChatGPT Adult",
+      "mediumTitle": "ChatGPT to Get \u0027Adult Mode\u0027",
+      "longTitle": "OpenAI Plans Text-Based Adult Feature for ChatGPT",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The feature is designed to allow ChatGPT",
+            "users to engage in adult-oriented",
+            "textual exchanges.",
+            "The initial release will be limited to",
+            "text generation, with no other media",
+            "types supported.",
+            "Users should expect the \u0027adult mode\u0027 to",
+            "be focused on suggestive or erotic text",
+            "rather than explicit depictions.",
+            "The distinction between \u0027smut\u0027 and",
+            "\u0027pornography\u0027 suggests a deliberate",
+            "attempt to define acceptable content",
+            "boundaries.",
+            "The launch of this feature represents a",
+            "shift in OpenAI\u0027s approach to content",
+            "generation.",
+            "The information regarding the \u0027adult",
+            "mode\u0027 comes from an unnamed OpenAI",
+            "spokesperson speaking to The Wall Street",
+            "Journal."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-16T08:18:20.000Z",
+      "ranking": 6.345000000000001,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica"
+    },
+    {
       "id": "1041",
       "topic": "Large Models, Dev Tools",
       "source": "Marktechpost AI",
@@ -70,7 +107,7 @@
         }
       ],
       "publishedAt": "2026-03-15T02:33:18.000Z",
-      "ranking": 5.842971632257213,
+      "ranking": 5.3469148104010475,
       "articleUrl": "https://www.marktechpost.com/2026/03/14/how-to-build-type-safe-schema-constrained-and-function-driven-llm-pipelines-using-outlines-and-pydantic/"
     },
     {
@@ -104,7 +141,7 @@
         }
       ],
       "publishedAt": "2026-03-15T09:08:01.000Z",
-      "ranking": 5.630460640332698,
+      "ranking": 5.224987826817458,
       "articleUrl": "https://www.marktechpost.com/2026/03/15/zhipu-ai-introduces-glm-ocr-a-0-9b-multimodal-ocr-model-for-document-parsing-and-key-information-extraction-kie/"
     },
     {
@@ -141,7 +178,7 @@
         }
       ],
       "publishedAt": "2026-03-14T00:05:53.000Z",
-      "ranking": 1.7704032641619012,
+      "ranking": 0.9100482819514992,
       "articleUrl": "https://www.marktechpost.com/2026/03/13/google-deepmind-introduces-aletheia-the-ai-agent-moving-from-math-competitions-to-fully-autonomous-professional-research-discoveries/"
     },
     {
@@ -928,78 +965,6 @@
       "publishedAt": "2026-03-09T12:24:03.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle"
-    },
-    {
-      "id": "998",
-      "topic": "Science",
-      "source": "Marktechpost AI",
-      "shortTitle": "scRNA-seq",
-      "mediumTitle": "Scanpy scRNA-seq Pipeline",
-      "longTitle": "Analyzing Single-Cell Data with Scanpy",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This tutorial details building a",
-            "single-cell RNA sequencing (scRNA-seq)",
-            "analysis pipeline using the Scanpy",
-            "library in Python.",
-            "Cell type annotation involves assigning",
-            "biological identities to the identified",
-            "clusters based on known marker genes.",
-            "Identifying highly variable genes helps",
-            "focus the analysis on genes that exhibit",
-            "significant cell-to-cell variation.",
-            "PCA reduces the dimensionality of the",
-            "data while preserving the most important",
-            "sources of variation.",
-            "Leiden clustering is a graph-based",
-            "clustering algorithm that identifies",
-            "groups of cells with similar expression",
-            "patterns.",
-            "Initial data preparation involves",
-            "quality control (QC) to remove",
-            "low-quality cells and noise."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-09T06:03:21.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/03/08/a-coding-guide-to-build-a-complete-single-cell-rna-sequencing-analysis-pipeline-using-scanpy-for-clustering-visualization-and-cell-type-annotation/"
-    },
-    {
-      "id": "997",
-      "topic": "Training Tricks",
-      "source": "Marktechpost AI",
-      "shortTitle": "Autoresearch",
-      "mediumTitle": "AI-Driven ML Tool",
-      "longTitle": "Andrej Karpathy\u0027s Autoresearch Released",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The core function of Autoresearch is to",
-            "allow AI agents to independently run",
-            "machine learning experiments.",
-            "Andrej Karpathy has open-sourced",
-            "Autoresearch, making it publicly",
-            "available.",
-            "The project\u0027s primary focus is on",
-            "enabling \u0027Autonomous Iteration\u0027 in",
-            "machine learning.",
-            "Autoresearch is specifically designed to",
-            "operate efficiently on a single NVIDIA",
-            "GPU.",
-            "Autonomous Iteration refers to the AI",
-            "agent\u0027s ability to control and direct",
-            "its own experimentation process.",
-            "It represents a significantly reduced",
-            "implementation of the training system",
-            "behind the nanochat LLM."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-09T03:47:38.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.marktechpost.com/2026/03/08/andrej-karpathy-open-sources-autoresearch-a-630-line-python-tool-letting-ai-agents-run-autonomous-ml-experiments-on-single-gpus/"
     }
   ]
 }
