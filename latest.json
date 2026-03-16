@@ -1,42 +1,6 @@
 {
   "articles": [
     {
-      "id": "1041",
-      "topic": "Large Models, Dev Tools",
-      "source": "Marktechpost AI",
-      "shortTitle": "LLM Pipeline",
-      "mediumTitle": "Type-Safe LLM Pipelines",
-      "longTitle": "Building Reliable LLM Applications",
-      "paragraphs": [
-        {
-          "Lines": [
-            "The core approach centers on generating",
-            "structured outputs from language models",
-            "while enforcing strict data validation.",
-            "The overall goal is to create more",
-            "reliable and predictable LLM",
-            "applications.",
-            "Typed constraints, such as \u0060Literal\u0060,",
-            "\u0060int\u0060, and \u0060bool\u0060, are utilized within",
-            "the Outlines framework to define",
-            "expected output types.",
-            "Type safety and schema validation are",
-            "key components in achieving this",
-            "reliability.",
-            "The pipeline implements a",
-            "function-calling style, where the LLM",
-            "generates validated function calls.",
-            "Prompt templates are designed using",
-            "\u0060outlines.Template\u0060, enabling structured",
-            "prompting for the LLM."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-15T02:33:18.000Z",
-      "ranking": 7.855,
-      "articleUrl": "https://www.marktechpost.com/2026/03/14/how-to-build-type-safe-schema-constrained-and-function-driven-llm-pipelines-using-outlines-and-pydantic/"
-    },
-    {
       "id": "1043",
       "topic": "NLP",
       "source": "Marktechpost AI",
@@ -69,6 +33,42 @@
       "publishedAt": "2026-03-15T09:08:01.000Z",
       "ranking": 6.94,
       "articleUrl": "https://www.marktechpost.com/2026/03/15/zhipu-ai-introduces-glm-ocr-a-0-9b-multimodal-ocr-model-for-document-parsing-and-key-information-extraction-kie/"
+    },
+    {
+      "id": "1041",
+      "topic": "Large Models, Dev Tools",
+      "source": "Marktechpost AI",
+      "shortTitle": "LLM Pipeline",
+      "mediumTitle": "Type-Safe LLM Pipelines",
+      "longTitle": "Building Reliable LLM Applications",
+      "paragraphs": [
+        {
+          "Lines": [
+            "The core approach centers on generating",
+            "structured outputs from language models",
+            "while enforcing strict data validation.",
+            "The overall goal is to create more",
+            "reliable and predictable LLM",
+            "applications.",
+            "Typed constraints, such as \u0060Literal\u0060,",
+            "\u0060int\u0060, and \u0060bool\u0060, are utilized within",
+            "the Outlines framework to define",
+            "expected output types.",
+            "Type safety and schema validation are",
+            "key components in achieving this",
+            "reliability.",
+            "The pipeline implements a",
+            "function-calling style, where the LLM",
+            "generates validated function calls.",
+            "Prompt templates are designed using",
+            "\u0060outlines.Template\u0060, enabling structured",
+            "prompting for the LLM."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-15T02:33:18.000Z",
+      "ranking": 6.679309788634931,
+      "articleUrl": "https://www.marktechpost.com/2026/03/14/how-to-build-type-safe-schema-constrained-and-function-driven-llm-pipelines-using-outlines-and-pydantic/"
     },
     {
       "id": "1040",
@@ -104,7 +104,7 @@
         }
       ],
       "publishedAt": "2026-03-14T00:05:53.000Z",
-      "ranking": 4.045615991015779,
+      "ranking": 3.343495377865575,
       "articleUrl": "https://www.marktechpost.com/2026/03/13/google-deepmind-introduces-aletheia-the-ai-agent-moving-from-math-competitions-to-fully-autonomous-professional-research-discoveries/"
     },
     {
@@ -141,7 +141,7 @@
         }
       ],
       "publishedAt": "2026-03-13T09:07:25.000Z",
-      "ranking": 0.7359365570867196,
+      "ranking": 0,
       "articleUrl": "https://www.marktechpost.com/2026/03/13/google-ai-introduces-groundsource-a-new-methodology-that-uses-gemini-model-to-transform-unstructured-global-news-into-actionable-historical-data/"
     },
     {
