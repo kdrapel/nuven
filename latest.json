@@ -1,6 +1,43 @@
 {
   "articles": [
     {
+      "id": "1046",
+      "topic": "Speech",
+      "source": "Marktechpost AI",
+      "shortTitle": "IBM Granite 4.0",
+      "mediumTitle": "IBM Releases Granite 4.0",
+      "longTitle": "IBM Launches Granite 4.0 Speech Model",
+      "paragraphs": [
+        {
+          "Lines": [
+            "IBM AI has released Granite 4.0 1B",
+            "Speech, a new speech-language model.",
+            "This model is designed for multilingual",
+            "automatic speech recognition (ASR).",
+            "It also supports bidirectional automatic",
+            "speech translation (AST).",
+            "Granite 4.0 is specifically targeted",
+            "towards enterprise deployments.",
+            "The model is also intended for edge AI",
+            "deployments.",
+            "Efficiency in memory usage is a key",
+            "focus of this release.",
+            "Low latency is another priority for",
+            "Granite 4.0.",
+            "The model aims to minimize computational",
+            "requirements.",
+            "Overall performance is also considered",
+            "in the design.",
+            "The release focuses on applications",
+            "where these factors are critical."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-16T05:57:26.000Z",
+      "ranking": 7.26,
+      "articleUrl": "https://www.marktechpost.com/2026/03/15/ibm-ai-releases-granite-4-0-1b-speech-as-a-compact-multilingual-speech-model-for-edge-ai-and-translation-pipelines/"
+    },
+    {
       "id": "1043",
       "topic": "NLP",
       "source": "Marktechpost AI",
@@ -67,7 +104,7 @@
         }
       ],
       "publishedAt": "2026-03-15T02:33:18.000Z",
-      "ranking": 6.679309788634931,
+      "ranking": 6.288801168156256,
       "articleUrl": "https://www.marktechpost.com/2026/03/14/how-to-build-type-safe-schema-constrained-and-function-driven-llm-pipelines-using-outlines-and-pydantic/"
     },
     {
@@ -104,7 +141,7 @@
         }
       ],
       "publishedAt": "2026-03-14T00:05:53.000Z",
-      "ranking": 3.343495377865575,
+      "ranking": 2.5843838435820707,
       "articleUrl": "https://www.marktechpost.com/2026/03/13/google-deepmind-introduces-aletheia-the-ai-agent-moving-from-math-competitions-to-fully-autonomous-professional-research-discoveries/"
     },
     {
@@ -534,42 +571,6 @@
       "articleUrl": "https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet"
     },
     {
-      "id": "1015",
-      "topic": "Security",
-      "source": "The Verge AI",
-      "shortTitle": "Perplexity AI",
-      "mediumTitle": "Perplexity AI \u0026 Amazon Dispute",
-      "longTitle": "Amazon Halts Perplexity AI Purchases",
-      "paragraphs": [
-        {
-          "Lines": [
-            "Amazon presented evidence of",
-            "unauthorized access to user accounts.",
-            "Amazon argued that Perplexity\u2019s actions",
-            "posed security risks to its customers.",
-            "Judge Maxine Chesney of the US District",
-            "Court issued the order against",
-            "Perplexity AI.",
-            "The judge acknowledged the potential for",
-            "unauthorized purchases as a key issue in",
-            "the case.",
-            "The concern is that users may not be",
-            "fully aware of or approve each purchase",
-            "made by the AI agent.",
-            "Amazon is seeking to prevent Perplexity",
-            "AI from continuing to access its",
-            "platform in this manner.",
-            "The specific feature in question is",
-            "Perplexity AI\u2019s Comet, an AI-powered web",
-            "browser agent."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-10T15:11:43.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order"
-    },
-    {
       "id": "1010",
       "topic": "Security",
       "source": "The Verge AI",
@@ -598,6 +599,42 @@
             "further legal proceedings.",
             "The case centers around Perplexity\u2019s",
             "\u201CComet\u201D browser-based AI agents."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-10T15:11:43.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order"
+    },
+    {
+      "id": "1015",
+      "topic": "Security",
+      "source": "The Verge AI",
+      "shortTitle": "Perplexity AI",
+      "mediumTitle": "Perplexity AI \u0026 Amazon Dispute",
+      "longTitle": "Amazon Halts Perplexity AI Purchases",
+      "paragraphs": [
+        {
+          "Lines": [
+            "Amazon presented evidence of",
+            "unauthorized access to user accounts.",
+            "Amazon argued that Perplexity\u2019s actions",
+            "posed security risks to its customers.",
+            "Judge Maxine Chesney of the US District",
+            "Court issued the order against",
+            "Perplexity AI.",
+            "The judge acknowledged the potential for",
+            "unauthorized purchases as a key issue in",
+            "the case.",
+            "The concern is that users may not be",
+            "fully aware of or approve each purchase",
+            "made by the AI agent.",
+            "Amazon is seeking to prevent Perplexity",
+            "AI from continuing to access its",
+            "platform in this manner.",
+            "The specific feature in question is",
+            "Perplexity AI\u2019s Comet, an AI-powered web",
+            "browser agent."
           ]
         }
       ],
@@ -714,41 +751,6 @@
       "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/891678/youtube-is-expanding-its-ai-deepfake-detection-tool-to-politicians-and-journalists"
     },
     {
-      "id": "1009",
-      "topic": "Vision, Generative AI",
-      "source": "The Verge AI",
-      "shortTitle": "AI Photoshop",
-      "mediumTitle": "Photoshop Gets AI Assistant",
-      "longTitle": "Adobe Releases AI-Powered Photoshop Beta",
-      "paragraphs": [
-        {
-          "Lines": [
-            "This feature allows users to edit images",
-            "not through traditional tools and menus,",
-            "but by simply *telling* the AI what",
-            "changes they want to make via a chatbot",
-            "interface.",
-            "Users describe the desired edits, and",
-            "the AI attempts to execute them.",
-            "The core functionality centers around",
-            "natural language prompting.",
-            "Adobe has announced the public beta",
-            "release of a new AI assistant integrated",
-            "directly into Photoshop (web and mobile",
-            "versions).",
-            "Currently, the AI assistant is available",
-            "in Photoshop.",
-            "Adobe plans to extend this AI assistant",
-            "functionality to other apps like Acrobat",
-            "and Express in the near future."
-          ]
-        }
-      ],
-      "publishedAt": "2026-03-10T10:00:00.000Z",
-      "ranking": 0,
-      "articleUrl": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch"
-    },
-    {
       "id": "1008",
       "topic": "NLP, Business",
       "source": "The Verge AI",
@@ -783,6 +785,41 @@
       "publishedAt": "2026-03-10T10:00:00.000Z",
       "ranking": 0,
       "articleUrl": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive"
+    },
+    {
+      "id": "1009",
+      "topic": "Vision, Generative AI",
+      "source": "The Verge AI",
+      "shortTitle": "AI Photoshop",
+      "mediumTitle": "Photoshop Gets AI Assistant",
+      "longTitle": "Adobe Releases AI-Powered Photoshop Beta",
+      "paragraphs": [
+        {
+          "Lines": [
+            "This feature allows users to edit images",
+            "not through traditional tools and menus,",
+            "but by simply *telling* the AI what",
+            "changes they want to make via a chatbot",
+            "interface.",
+            "Users describe the desired edits, and",
+            "the AI attempts to execute them.",
+            "The core functionality centers around",
+            "natural language prompting.",
+            "Adobe has announced the public beta",
+            "release of a new AI assistant integrated",
+            "directly into Photoshop (web and mobile",
+            "versions).",
+            "Currently, the AI assistant is available",
+            "in Photoshop.",
+            "Adobe plans to extend this AI assistant",
+            "functionality to other apps like Acrobat",
+            "and Express in the near future."
+          ]
+        }
+      ],
+      "publishedAt": "2026-03-10T10:00:00.000Z",
+      "ranking": 0,
+      "articleUrl": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch"
     },
     {
       "id": "1004",
